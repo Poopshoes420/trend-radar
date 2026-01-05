@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Trend Radar</title>
+    <meta http-equiv="refresh" content="300">
+    <style>
+      body { font-family: Arial, sans-serif; margin: 40px; }
+      h1 { margin-bottom: 8px; }
+      .meta { color:#666; margin-bottom: 20px; }
+      li { margin-bottom: 12px; }
+      .sources { color:#444; font-size: 0.9em; }
+      .why { color:#666; font-size: 0.95em; }
+    </style>
+  </head>
+  <body>
+    <h1>Trend Radar</h1>
+    <div class="meta">Auto-refreshes every 5 minutes</div>
+    <ol id="list">Loading…</ol>
+
+    <script>
+      const ENDPOINT = "PASTE_CLOUD_FUNCTION_URL_HERE";
+
+      fetch(ENDPOINT)
+        .then(res => res.json())
+        .then(items => {
+          document.getElementById("list").innerHTML =
+            items.map(t => `
+              <li>
+                <strong>${t.topic}</strong><br>
+                <div class="sources">Sources: ${t.sources.join(", ")}</div>
+                <div class="why">${t.why}</div>
+              </li>
+            `).join("");
+        })
+        .catch(err => {
+          console.error(err);
+          document.getElementById("list").innerText =
+            "Could not load trends. Check the Cloud Function URL and CORS.";
+        });
+    </script>
+  </body>
+</html>
