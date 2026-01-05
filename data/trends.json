@@ -1,1 +1,12 @@
-
+[
+  {
+    "topic": "Example topic: Reddit discussion spike",
+    "sources": ["reddit"],
+    "why": "Rapid upvotes in last hour"
+  },
+  {
+    "topic": "Example topic: YouTube Shorts trend",
+    "sources": ["youtube"],
+    "why": "Multiple uploads appearing today"
+  }
+]
