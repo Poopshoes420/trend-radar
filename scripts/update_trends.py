@@ -1,46 +1,81 @@
 import json
 import time
 import urllib.request
+import xml.etree.ElementTree as ET
 
-REDDIT_URL = "https://old.reddit.com/r/all/rising.json?limit=50"
-USER_AGENT = "trend-radar-bot/1.0 (by u/poopshoes420)"
+# RSS feeds are much less likely to get blocked than Reddit JSON endpoints.
+FEEDS = [
+    # r/all newest posts
+    "https://www.reddit.com/r/all/.rss?sort=new",
+    # you can add more subreddits later, e.g.:
+    # "https://www.reddit.com/r/technology/.rss?sort=hot",
+    # "https://www.reddit.com/r/popculturechat/.rss?sort=hot",
+]
 
-def fetch_json(url: str) -> dict:
+USER_AGENT = "trend-radar-bot/1.0 (github-actions)"
+
+def fetch_text(url: str) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    with urllib.request.urlopen(req, timeout=25) as resp:
+        return resp.read().decode("utf-8", errors="ignore")
 
-def main():
-    payload = fetch_json(REDDIT_URL)
-    children = payload.get("data", {}).get("children", [])
-
-    items = []
+def parse_rss(xml_text: str):
+    root = ET.fromstring(xml_text)
+    # RSS is Atom format here
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    entries = root.findall("a:entry", ns)
+    out = []
     now = time.time()
 
-    for c in children:
-        d = c.get("data", {})
-        title = d.get("title") or ""
+    for e in entries:
+        title_el = e.find("a:title", ns)
+        link_el = e.find("a:link", ns)
+        updated_el = e.find("a:updated", ns)
+
+        title = (title_el.text or "").strip() if title_el is not None else ""
         if not title:
             continue
 
-        upvotes = int(d.get("ups") or 0)
-        comments = int(d.get("num_comments") or 0)
-        created = float(d.get("created_utc") or now)
-        age_minutes = max(1.0, (now - created) / 60.0)
+        link = link_el.attrib.get("href") if link_el is not None else ""
+        updated = (updated_el.text or "").strip() if updated_el is not None else ""
 
-        # simple "velocity-ish" score: interaction per minute + a small boost for being very fresh
-        velocity = (upvotes + (2 * comments)) / age_minutes
+        # We don’t get upvotes/comments via RSS, so we rank by recency.
+        # If updated parses badly, treat as "now".
+        age_minutes = 1
+        try:
+            # format like 2026-01-06T15:03:21+00:00
+            # simple parse: take first 19 chars "YYYY-MM-DDTHH:MM:SS"
+            t = time.strptime(updated[:19], "%Y-%m-%dT%H:%M:%S")
+            updated_ts = time.mktime(t)
+            age_minutes = max(1, int((now - updated_ts) / 60))
+        except Exception:
+            pass
 
-        items.append({
+        out.append({
             "topic": title,
             "sources": ["reddit"],
-            "why": f"Rising on r/all • {upvotes} upvotes • {comments} comments • ~{int(age_minutes)}m old",
-            "_score": velocity
+            "why": f"New post on Reddit (RSS) • ~{age_minutes}m ago",
+            "exampleUrl": link
         })
 
-    # Sort and keep top 20
-    items.sort(key=lambda x: x["_score"], reverse=True)
-    top = [{k: v for k, v in item.items() if k != "_score"} for item in items[:20]]
+    return out
+
+def main():
+    all_items = []
+    seen_titles = set()
+
+    for url in FEEDS:
+        xml_text = fetch_text(url)
+        items = parse_rss(xml_text)
+        for it in items:
+            key = it["topic"].lower()
+            if key in seen_titles:
+                continue
+            seen_titles.add(key)
+            all_items.append(it)
+
+    # Keep top 20 (they’re already basically newest-first)
+    top = all_items[:20]
 
     with open("data/trends.json", "w") as f:
         json.dump(top, f, indent=2)
