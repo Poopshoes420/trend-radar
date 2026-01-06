@@ -3,6 +3,10 @@ import time
 import urllib.request
 import xml.etree.ElementTree as ET
 
+import os
+import urllib.parse
+
+
 # RSS feeds are much less likely to get blocked than Reddit JSON endpoints.
 FEEDS = [
     "https://www.reddit.com/r/all/.rss?sort=new",
@@ -25,6 +29,16 @@ SUBREDDIT_WEIGHTS = {
 }
 
 USER_AGENT = "trend-radar-bot/1.0 (github-actions)"
+
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY")
+YOUTUBE_TRENDING_URL = (
+    "https://www.googleapis.com/youtube/v3/videos"
+    "?part=snippet,statistics"
+    "&chart=mostPopular"
+    "&regionCode=US"
+    "&maxResults=25"
+)
+
 
 def fetch_text(url: str) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -82,6 +96,50 @@ def parse_rss(xml_text: str):
 
  
     return out
+
+def fetch_youtube_trending():
+    if not YOUTUBE_API_KEY:
+        return []
+
+    url = f"{YOUTUBE_TRENDING_URL}&key={urllib.parse.quote(YOUTUBE_API_KEY)}"
+    req = urllib.request.Request(url)
+    with urllib.request.urlopen(req, timeout=25) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+
+    items = []
+    now = time.time()
+
+    for v in data.get("items", []):
+        snippet = v.get("snippet", {})
+        stats = v.get("statistics", {})
+
+        title = snippet.get("title")
+        published = snippet.get("publishedAt", "")
+        views = int(stats.get("viewCount", 0))
+
+        if not title or not published:
+            continue
+
+        try:
+            t = time.strptime(published[:19], "%Y-%m-%dT%H:%M:%S")
+            published_ts = time.mktime(t)
+            age_minutes = max(1, int((now - published_ts) / 60))
+        except Exception:
+            age_minutes = 1
+
+        # Velocity = views per minute
+        score = views / age_minutes
+
+        items.append({
+            "topic": title,
+            "sources": ["youtube"],
+            "why": f"Trending on YouTube • {views:,} views • ~{age_minutes}m old",
+            "exampleUrl": f"https://www.youtube.com/watch?v={v.get('id')}",
+            "_score": score
+        })
+
+    return items
+
 
 def main():
     all_items = []
