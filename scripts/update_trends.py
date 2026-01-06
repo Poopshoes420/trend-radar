@@ -100,8 +100,14 @@ def main():
             seen_titles.add(key)
             all_items.append(it)
 
-    # Keep top 20 (they’re already basically newest-first)
-    top = all_items[:20]
+    # Rank by velocity score (higher first)
+    all_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
+
+    # Keep top 20 and remove internal score
+    top = []
+    for item in all_items[:20]:
+        item = {k: v for k, v in item.items() if k != "_score"}
+        top.append(item)
 
     with open("data/trends.json", "w") as f:
         json.dump(top, f, indent=2)
