@@ -18,10 +18,10 @@ FEEDS = [
 
 SUBREDDIT_WEIGHTS = {
     "all": 1.0,
-    "technology": 1.6,
-    "science": 1.4,
+    "funny": 1.6,
+    "youtube": 1.4,
     "worldnews": 1.3,
-    "movies": 1.2,
+    "gaming": 1.2,
     "popculturechat": 1.2,
 }
 
