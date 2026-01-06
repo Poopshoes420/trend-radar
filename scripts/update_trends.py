@@ -55,13 +55,21 @@ def parse_rss(xml_text: str):
         except Exception:
             pass
 
+               # extract subreddit from the link
+        subreddit = "unknown"
+        if link:
+            parts = link.split("/r/")
+            if len(parts) > 1:
+                subreddit = parts[1].split("/")[0]
+
         out.append({
             "topic": title,
             "sources": ["reddit"],
-            "why": f"New post on Reddit (RSS) • ~{age_minutes}m ago",
+            "subreddit": subreddit,
+            "why": f"New post on r/{subreddit} • ~{age_minutes}m ago",
             "exampleUrl": link
         })
-
+ 
     return out
 
 def main():
