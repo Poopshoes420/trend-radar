@@ -16,6 +16,15 @@ FEEDS = [
     "https://www.reddit.com/r/youtube/.rss?sort=new",
 ]
 
+SUBREDDIT_WEIGHTS = {
+    "all": 1.0,
+    "technology": 1.6,
+    "science": 1.4,
+    "worldnews": 1.3,
+    "movies": 1.2,
+    "popculturechat": 1.2,
+}
+
 USER_AGENT = "trend-radar-bot/1.0 (github-actions)"
 
 def fetch_text(url: str) -> str:
