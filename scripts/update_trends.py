@@ -51,30 +51,26 @@ def parse_rss(xml_text: str):
         link = link_el.attrib.get("href") if link_el is not None else ""
         updated = (updated_el.text or "").strip() if updated_el is not None else ""
 
-        # We don’t get upvotes/comments via RSS, so we rank by recency.
-        # If updated parses badly, treat as "now".
         age_minutes = 1
         try:
-            # format like 2026-01-06T15:03:21+00:00
-            # simple parse: take first 19 chars "YYYY-MM-DDTHH:MM:SS"
             t = time.strptime(updated[:19], "%Y-%m-%dT%H:%M:%S")
             updated_ts = time.mktime(t)
             age_minutes = max(1, int((now - updated_ts) / 60))
         except Exception:
             pass
-                    # Velocity score (no API): newer = higher, weighted by subreddit importance
-        weight = SUBREDDIT_WEIGHTS.get(subreddit, 1.0)
-        score = weight * (1.0 / age_minutes)
 
-
-               # extract subreddit from the link
+        # extract subreddit from the link
         subreddit = "unknown"
         if link:
             parts = link.split("/r/")
             if len(parts) > 1:
                 subreddit = parts[1].split("/")[0]
 
-          out.append({
+        # velocity score
+        weight = SUBREDDIT_WEIGHTS.get(subreddit, 1.0)
+        score = weight * (1.0 / age_minutes)
+
+        out.append({
             "topic": title,
             "sources": ["reddit"],
             "subreddit": subreddit,
@@ -82,6 +78,7 @@ def parse_rss(xml_text: str):
             "exampleUrl": link,
             "_score": score
         })
+
 
  
     return out
