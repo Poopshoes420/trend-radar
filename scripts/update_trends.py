@@ -155,6 +155,8 @@ def main():
             seen_titles.add(key)
             all_items.append(it)
 
+        all_items.extend(fetch_youtube_trending())
+
     # Rank by velocity score (higher first)
     all_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
 
