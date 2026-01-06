@@ -111,8 +111,8 @@ def fetch_youtube_trending():
         data = json.loads(resp.read().decode("utf-8"))
 
     items = []
-    now = time.time()
     seen_video_ids = set()
+    now = time.time()
 
     for v in data.get("items", []):
         vid = v.get("id")
@@ -124,7 +124,7 @@ def fetch_youtube_trending():
         stats = v.get("statistics", {})
 
         title = snippet.get("title")
-        published = snippet.get("publishedAt", "")
+        published = snippet.get("publishedAt")
         views = int(stats.get("viewCount", 0))
 
         if not title or not published:
@@ -137,9 +137,9 @@ def fetch_youtube_trending():
         except Exception:
             age_minutes = 1
 
-        # Skip videos older than 12 hours
-         if age_minutes > 12 * 60: continue
-
+        # hard cap: 12 hours
+        if age_minutes > 720:
+            continue
 
         score = views / age_minutes
 
@@ -152,6 +152,7 @@ def fetch_youtube_trending():
         })
 
     return items
+
 
 
 
