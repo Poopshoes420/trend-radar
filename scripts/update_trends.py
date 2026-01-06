@@ -5,16 +5,15 @@ import xml.etree.ElementTree as ET
 
 # RSS feeds are much less likely to get blocked than Reddit JSON endpoints.
 FEEDS = [
-    # Broad catch-all
     "https://www.reddit.com/r/all/.rss?sort=new",
 
-    # Specifics (edit this list anytime)
     "https://www.reddit.com/r/socialmedia/.rss?sort=new",
     "https://www.reddit.com/r/worldnews/.rss?sort=new",
     "https://www.reddit.com/r/funny/.rss?sort=new",
     "https://www.reddit.com/r/gaming/.rss?sort=new",
     "https://www.reddit.com/r/youtube/.rss?sort=new",
 ]
+
 
 SUBREDDIT_WEIGHTS = {
     "all": 1.0,
