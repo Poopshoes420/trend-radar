@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Acting in a Marvel Movie",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q5sf3c/acting_in_a_marvel_movie/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "There\u2019s Seven Floors, But Why?",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5nwan/the_type_of_nonsense_you_see_if_you_filter/"
   },
   {
+    "topic": "Trump, advisers discussing options for acquiring Greenland and US military is always an option, White House says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q5v0cv/trump_advisers_discussing_options_for_acquiring/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1412, Part 1 (Thread #1559)",
     "sources": [
       "reddit"
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
-  },
-  {
-    "topic": "Trump, advisers discussing options for acquiring Greenland and US military is always an option, White House says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q5v0cv/trump_advisers_discussing_options_for_acquiring/"
   },
   {
     "topic": "Dutch Navy Suspends Joint Anti-Drug Operations with US in Caribbean",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 949,368 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 966,940 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_a6wsrL8orw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 738,416 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 753,866 views \u2022 ~527m old",
     "exampleUrl": "https://www.youtube.com/watch?v=khX1Y3kmOJY"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 587,177 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 605,916 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tlSDDuWxO_0"
-  },
-  {
-    "topic": "Dead by Daylight | Stranger Things Chapter 2 | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 214,338 views \u2022 ~402m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BWLaZaO1cS8"
   },
   {
     "topic": "New Killer Vecna from Stranger Things | Dead by Daylight PTB",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,198 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 159,748 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kgMs_VMGDUw"
   },
   {
@@ -224,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,262 views \u2022 ~341m old",
+    "why": "Trending on YouTube \u2022 189,310 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rSBUf5H26ug"
+  },
+  {
+    "topic": "Dead by Daylight | Stranger Things Chapter 2 | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 219,196 views \u2022 ~416m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BWLaZaO1cS8"
   },
   {
     "topic": "NEW KILLER \"THE FIRST\" IS A MONSTER!!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,571 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 121,381 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hxVAmAE2Dio"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,448 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 104,821 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hz5IpqEri2s"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,411 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 119,831 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qbtn0PPKRRU"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,911 views \u2022 ~514m old",
+    "why": "Trending on YouTube \u2022 105,906 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E6fobg5x168"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,093 views \u2022 ~423m old",
+    "why": "Trending on YouTube \u2022 86,951 views \u2022 ~437m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6b-DHf1H-kU"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,470 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 62,701 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=osqceEEjs68"
   }
 ]
