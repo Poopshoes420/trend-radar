@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Example topic: Reddit discussion spike",
+    "topic": "Reddit users debating new iPhone rumors",
     "sources": ["reddit"],
-    "why": "Rapid upvotes in last hour"
+    "why": "Multiple fast-rising posts in tech subreddits"
   },
   {
-    "topic": "Example topic: YouTube Shorts trend",
-    "sources": ["youtube"],
-    "why": "Multiple uploads appearing today"
+    "topic": "Airline incident dominates news discussion",
+    "sources": ["news", "reddit"],
+    "why": "Breaking headlines plus high comment volume"
   }
 ]
