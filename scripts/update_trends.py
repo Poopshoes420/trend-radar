@@ -166,18 +166,41 @@ def main():
 
 
         # Separate by platform
+        # --- Ensure YouTube is added only once ---
+    # (If you already added YouTube earlier in main, remove the older line.
+    # There should be ONLY ONE all_items.extend(fetch_youtube_trending()) in main.)
+    if not any("youtube" in (x.get("sources") or []) for x in all_items):
+        all_items.extend(fetch_youtube_trending())
+
+    # Separate by platform
     reddit_items = [x for x in all_items if "reddit" in (x.get("sources") or [])]
     youtube_items = [x for x in all_items if "youtube" in (x.get("sources") or [])]
+
+    # Dedupe by URL (kills repeats no matter what)
+    def dedupe_by_url(items):
+        seen = set()
+        out = []
+        for it in items:
+            key = it.get("exampleUrl") or it.get("topic")
+            if not key:
+                continue
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append(it)
+        return out
+
+    reddit_items = dedupe_by_url(reddit_items)
+    youtube_items = dedupe_by_url(youtube_items)
 
     # Sort each independently
     reddit_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
     youtube_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
 
-    # Take top N per platform
-    reddit_top = reddit_items[:10]
-    youtube_top = youtube_items[:10]
+    # Take 20 + 20
+    reddit_top = reddit_items[:20]
+    youtube_top = youtube_items[:20]
 
-    # Combine but keep both
     combined = reddit_top + youtube_top
 
     # Remove internal score before saving
