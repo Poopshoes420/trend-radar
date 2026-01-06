@@ -108,8 +108,15 @@ def fetch_youtube_trending():
 
     items = []
     now = time.time()
+    seen_video_ids = set()
+
 
     for v in data.get("items", []):
+        vid = v.get("id")
+        if not vid or vid in seen_video_ids:
+            continue
+        seen_video_ids.add(vid)
+        
         snippet = v.get("snippet", {})
         stats = v.get("statistics", {})
 
@@ -134,7 +141,7 @@ def fetch_youtube_trending():
             "topic": title,
             "sources": ["youtube"],
             "why": f"Trending on YouTube • {views:,} views • ~{age_minutes}m old",
-            "exampleUrl": f"https://www.youtube.com/watch?v={v.get('id')}",
+            "exampleUrl": f"https://www.youtube.com/watch?v={vid}",
             "_score": score
         })
 
