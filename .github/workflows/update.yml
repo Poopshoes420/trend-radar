@@ -11,7 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-        env:
+    env:
       YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     steps:
       - uses: actions/checkout@v4
@@ -23,6 +23,7 @@ jobs:
 
       - name: Run updater
         run: python scripts/update_trends.py
+
       - name: Commit changes
         run: |
           git config user.name "trend-bot"
@@ -31,4 +32,3 @@ jobs:
           git commit -m "Update trends" || echo "No changes"
           git pull --rebase
           git push
-
