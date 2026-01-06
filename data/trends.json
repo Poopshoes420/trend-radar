@@ -1,12 +1,16 @@
 [
   {
-    "topic": "Reddit users debating new iPhone rumors",
-    "sources": ["reddit"],
-    "why": "Multiple fast-rising posts in tech subreddits"
+    "topic": "Reddit debate over new AI video tools",
+    "sources": [
+      "reddit"
+    ],
+    "why": "Multiple fast-rising threads today"
   },
   {
-    "topic": "Airline incident dominates news discussion",
-    "sources": ["news", "reddit"],
-    "why": "Breaking headlines plus high comment volume"
+    "topic": "YouTube Shorts format gaining traction",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Several creators posting similar formats"
   }
 ]
