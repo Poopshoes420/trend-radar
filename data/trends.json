@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q5i6br/a_few_sheep_escaped_and_fled_into_a_penny/"
   },
   {
-    "topic": "Never give up",
+    "topic": "Voldemort alphabet (credit : liamstapleton)",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q5oo6b/never_give_up/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q5wlsm/voldemort_alphabet_credit_liamstapleton/"
   },
   {
     "topic": "Unskippable Ads are officially ending in Vietnam due to a new law that comes into effect next month!",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5js1p/vietnam_will_be_the_first_country_in_the_world/"
   },
   {
-    "topic": "This aged so bad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q52990/this_aged_so_bad/"
-  },
-  {
     "topic": "I thought of an idea to change the icon for showing content that\u2019s made for kids.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5sowp/i_thought_of_an_idea_to_change_the_icon_for/"
+  },
+  {
+    "topic": "This aged so bad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q52990/this_aged_so_bad/"
   },
   {
     "topic": "The type of nonsense you see if you filter results by recently uploaded",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5kehq/japan_gamer_12_plans_to_quit_school_for_esports/"
   },
   {
-    "topic": "007 First Light recommended specs (32 GB RAM/12 GB VRAM for 1080p/60 fps)",
+    "topic": "Help me Jedi-san, I'm stuck",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5ujt9/007_first_light_recommended_specs_32_gb_ram12_gb/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5wuif/help_me_jedisan_im_stuck/"
   },
   {
     "topic": "People are freaking out now..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 966,940 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 1,003,030 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_a6wsrL8orw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 753,866 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 786,092 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=khX1Y3kmOJY"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 605,916 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 643,352 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tlSDDuWxO_0"
-  },
-  {
-    "topic": "New Killer Vecna from Stranger Things | Dead by Daylight PTB",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 159,748 views \u2022 ~296m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kgMs_VMGDUw"
   },
   {
     "topic": "Daddy Yankee ABCD  Feat. Alex Zurdo (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,310 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 226,333 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rSBUf5H26ug"
+  },
+  {
+    "topic": "New Killer Vecna from Stranger Things | Dead by Daylight PTB",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 182,089 views \u2022 ~328m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kgMs_VMGDUw"
   },
   {
     "topic": "Dead by Daylight | Stranger Things Chapter 2 | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,196 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 230,917 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWLaZaO1cS8"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,381 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 141,738 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hxVAmAE2Dio"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,821 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 112,298 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hz5IpqEri2s"
   },
   {
@@ -248,31 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,831 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 124,562 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qbtn0PPKRRU"
-  },
-  {
-    "topic": "Avengers: Doomsday Teaser Trailer #3 (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 105,906 views \u2022 ~528m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E6fobg5x168"
   },
   {
     "topic": "Finesse2Tymes - Back 2 The Bottom [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,951 views \u2022 ~437m old",
+    "why": "Trending on YouTube \u2022 94,562 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6b-DHf1H-kU"
+  },
+  {
+    "topic": "Avengers: Doomsday Teaser Trailer #3 (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 109,793 views \u2022 ~561m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=E6fobg5x168"
   },
   {
     "topic": "Avengers: Doomsday | X-Men & Cyclops Teaser Trailer | Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,701 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 66,490 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=osqceEEjs68"
   }
 ]
