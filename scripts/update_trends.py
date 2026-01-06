@@ -70,7 +70,7 @@ def parse_rss(xml_text: str):
             t = time.strptime(updated[:19], "%Y-%m-%dT%H:%M:%S")
             updated_ts = time.mktime(t)
                        # Skip videos older than 12 hours
-            if age_minutes > 12 * 60:
+            if age_minutes > 24 * 60:
                 continue
 
 
