@@ -19,21 +19,38 @@
     <ol id="list">Loading…</ol>
 
     <script>
-      const ENDPOINT = "https://poopshoes420.github.io/trend-radar/data/trends.json";
+  const ENDPOINT = "https://poopshoes420.github.io/trend-radar/data/trends.json";
 
+  fetch(ENDPOINT, { cache: "no-store" })
+    .then(response => response.text())
+    .then(text => {
+      // If GitHub Pages ever returns HTML, stop gracefully
+      if (text.trim().startsWith("<")) {
+        throw new Error("Received HTML instead of JSON");
+      }
 
-      fetch(ENDPOINT)
-        .then(res => res.json())
-        .then(items => {
-          document.getElementById("list").innerHTML =
-            items.map(t => `items.map(t => `<li><strong><a href="${t.exampleUrl}" target="_blank" rel="noopener noreferrer">${t.topic}</a></strong><br><div class="sources">Sources: ${t.sources.join(", ")}</div><div class="why">${t.why}</div></li>`).join("");
-`).join("");
-        })
-        .catch(err => {
-          console.error(err);
-          document.getElementById("list").innerText =
-            "Could not load trends. Check the Cloud Function URL and CORS.";
-        });
-    </script>
+      const items = JSON.parse(text);
+      const list = document.getElementById("list");
+
+      list.innerHTML = items.map(t => {
+        const title = t.topic || "Untitled";
+        const url = t.exampleUrl || "#";
+        const sources = Array.isArray(t.sources) ? t.sources.join(", ") : "reddit";
+        const why = t.why || "";
+
+        return `<li>
+          <strong><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></strong><br>
+          <div class="sources">Sources: ${sources}</div>
+          <div class="why">${why}</div>
+        </li>`;
+      }).join("");
+    })
+    .catch(err => {
+      console.error(err);
+      document.getElementById("list").innerText =
+        "Could not load trends.";
+    });
+</script>
+
   </body>
 </html>
