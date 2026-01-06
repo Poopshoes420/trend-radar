@@ -138,8 +138,8 @@ def fetch_youtube_trending():
             age_minutes = 1
 
         # Skip videos older than 12 hours
-        if age_minutes > 12 * 60:
-            continue
+         if age_minutes > 12 * 60: continue
+
 
         score = views / age_minutes
 
