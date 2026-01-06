@@ -157,14 +157,25 @@ def main():
 
         all_items.extend(fetch_youtube_trending())
 
-    # Rank by velocity score (higher first)
-    all_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
 
-    # Keep top 20 and remove internal score
-    top = []
-    for item in all_items[:20]:
-        item = {k: v for k, v in item.items() if k != "_score"}
-        top.append(item)
+        # Separate by platform
+    reddit_items = [x for x in all_items if "reddit" in (x.get("sources") or [])]
+    youtube_items = [x for x in all_items if "youtube" in (x.get("sources") or [])]
+
+    # Sort each independently
+    reddit_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
+    youtube_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
+
+    # Take top N per platform
+    reddit_top = reddit_items[:10]
+    youtube_top = youtube_items[:10]
+
+    # Combine but keep both
+    combined = reddit_top + youtube_top
+
+    # Remove internal score before saving
+    top = [{k: v for k, v in item.items() if k != "_score"} for item in combined]
+
 
     with open("data/trends.json", "w") as f:
         json.dump(top, f, indent=2)
