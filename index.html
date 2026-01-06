@@ -25,13 +25,8 @@
         .then(res => res.json())
         .then(items => {
           document.getElementById("list").innerHTML =
-            items.map(t => `
-              <li>
-                <strong>${t.topic}</strong><br>
-                <div class="sources">Sources: ${t.sources.join(", ")}</div>
-                <div class="why">${t.why}</div>
-              </li>
-            `).join("");
+            items.map(t => `items.map(t => `<li><strong><a href="${t.exampleUrl}" target="_blank" rel="noopener noreferrer">${t.topic}</a></strong><br><div class="sources">Sources: ${t.sources.join(", ")}</div><div class="why">${t.why}</div></li>`).join("");
+`).join("");
         })
         .catch(err => {
           console.error(err);
