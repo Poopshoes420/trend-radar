@@ -114,46 +114,45 @@ def fetch_youtube_trending():
     now = time.time()
     seen_video_ids = set()
 
-
     for v in data.get("items", []):
-    vid = v.get("id")
-    if not vid or vid in seen_video_ids:
-        continue
-    seen_video_ids.add(vid)
+        vid = v.get("id")
+        if not vid or vid in seen_video_ids:
+            continue
+        seen_video_ids.add(vid)
 
-    snippet = v.get("snippet", {})
-    stats = v.get("statistics", {})
+        snippet = v.get("snippet", {})
+        stats = v.get("statistics", {})
 
-    title = snippet.get("title")
-    published = snippet.get("publishedAt", "")
-    views = int(stats.get("viewCount", 0))
+        title = snippet.get("title")
+        published = snippet.get("publishedAt", "")
+        views = int(stats.get("viewCount", 0))
 
-    if not title or not published:
-        continue
+        if not title or not published:
+            continue
 
-    try:
-        t = time.strptime(published[:19], "%Y-%m-%dT%H:%M:%S")
-        published_ts = time.mktime(t)
-        age_minutes = max(1, int((now - published_ts) / 60))
-    except Exception:
-        age_minutes = 1
+        try:
+            t = time.strptime(published[:19], "%Y-%m-%dT%H:%M:%S")
+            published_ts = time.mktime(t)
+            age_minutes = max(1, int((now - published_ts) / 60))
+        except Exception:
+            age_minutes = 1
 
-    # 🔴 THIS IS THE PART YOU JUST ADDED
-    if age_minutes > 12 * 60:
-        continue
+        # Skip videos older than 12 hours
+        if age_minutes > 12 * 60:
+            continue
 
-    score = views / age_minutes
+        score = views / age_minutes
 
-    items.append({
-        "topic": title,
-        "sources": ["youtube"],
-        "why": f"Trending on YouTube • {views:,} views • ~{age_minutes}m old",
-        "exampleUrl": f"https://www.youtube.com/watch?v={vid}",
-        "_score": score
-    })
-
+        items.append({
+            "topic": title,
+            "sources": ["youtube"],
+            "why": f"Trending on YouTube • {views:,} views • ~{age_minutes}m old",
+            "exampleUrl": f"https://www.youtube.com/watch?v={vid}",
+            "_score": score
+        })
 
     return items
+
 
 
 def main():
