@@ -5,11 +5,15 @@ import xml.etree.ElementTree as ET
 
 # RSS feeds are much less likely to get blocked than Reddit JSON endpoints.
 FEEDS = [
-    # r/all newest posts
+    # Broad catch-all
     "https://www.reddit.com/r/all/.rss?sort=new",
-    # you can add more subreddits later, e.g.:
-    # "https://www.reddit.com/r/technology/.rss?sort=hot",
-    # "https://www.reddit.com/r/popculturechat/.rss?sort=hot",
+
+    # Specifics (edit this list anytime)
+    "https://www.reddit.com/r/socialmedia/.rss?sort=new",
+    "https://www.reddit.com/r/worldnews/.rss?sort=new",
+    "https://www.reddit.com/r/funny/.rss?sort=new",
+    "https://www.reddit.com/r/gaming/.rss?sort=new",
+    "https://www.reddit.com/r/youtube/.rss?sort=new",
 ]
 
 USER_AGENT = "trend-radar-bot/1.0 (github-actions)"
