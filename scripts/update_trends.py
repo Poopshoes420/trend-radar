@@ -116,38 +116,42 @@ def fetch_youtube_trending():
 
 
     for v in data.get("items", []):
-        vid = v.get("id")
-        if not vid or vid in seen_video_ids:
-            continue
-        seen_video_ids.add(vid)
-        
-        snippet = v.get("snippet", {})
-        stats = v.get("statistics", {})
+    vid = v.get("id")
+    if not vid or vid in seen_video_ids:
+        continue
+    seen_video_ids.add(vid)
 
-        title = snippet.get("title")
-        published = snippet.get("publishedAt", "")
-        views = int(stats.get("viewCount", 0))
+    snippet = v.get("snippet", {})
+    stats = v.get("statistics", {})
 
-        if not title or not published:
-            continue
+    title = snippet.get("title")
+    published = snippet.get("publishedAt", "")
+    views = int(stats.get("viewCount", 0))
 
-        try:
-            t = time.strptime(published[:19], "%Y-%m-%dT%H:%M:%S")
-            published_ts = time.mktime(t)
-            age_minutes = max(1, int((now - published_ts) / 60))
-        except Exception:
-            age_minutes = 1
+    if not title or not published:
+        continue
 
-        # Velocity = views per minute
-        score = views / age_minutes
+    try:
+        t = time.strptime(published[:19], "%Y-%m-%dT%H:%M:%S")
+        published_ts = time.mktime(t)
+        age_minutes = max(1, int((now - published_ts) / 60))
+    except Exception:
+        age_minutes = 1
 
-        items.append({
-            "topic": title,
-            "sources": ["youtube"],
-            "why": f"Trending on YouTube • {views:,} views • ~{age_minutes}m old",
-            "exampleUrl": f"https://www.youtube.com/watch?v={vid}",
-            "_score": score
-        })
+    # 🔴 THIS IS THE PART YOU JUST ADDED
+    if age_minutes > 12 * 60:
+        continue
+
+    score = views / age_minutes
+
+    items.append({
+        "topic": title,
+        "sources": ["youtube"],
+        "why": f"Trending on YouTube • {views:,} views • ~{age_minutes}m old",
+        "exampleUrl": f"https://www.youtube.com/watch?v={vid}",
+        "_score": score
+    })
+
 
     return items
 
