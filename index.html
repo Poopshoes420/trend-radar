@@ -14,43 +14,58 @@
     </style>
   </head>
   <body>
-    <h1>Trend Radar</h1>
-    <div class="meta">Auto-refreshes every 5 minutes</div>
-    <ol id="list">Loading…</ol>
+      <h1>Trend Radar</h1>
+  <div class="meta">Auto-refreshes every 5 minutes</div>
 
-    <script>
-  const ENDPOINT = "https://poopshoes420.github.io/trend-radar/data/trends.json";
+  <h2>Reddit Trends</h2>
+  <ol id="reddit">Loading Reddit…</ol>
 
-  fetch(ENDPOINT, { cache: "no-store" })
-    .then(response => response.text())
-    .then(text => {
-      // If GitHub Pages ever returns HTML, stop gracefully
-      if (text.trim().startsWith("<")) {
-        throw new Error("Received HTML instead of JSON");
-      }
+  <h2>YouTube Trends</h2>
+  <ol id="youtube">Loading YouTube…</ol>
 
-      const items = JSON.parse(text);
-      const list = document.getElementById("list");
+  <script>
+    const ENDPOINT = "https://poopshoes420.github.io/trend-radar/data/trends.json";
 
-      list.innerHTML = items.map(t => {
-        const title = t.topic || "Untitled";
-        const url = t.exampleUrl || "#";
-        const sources = Array.isArray(t.sources) ? t.sources.join(", ") : "reddit";
-        const why = t.why || "";
+    fetch(ENDPOINT, { cache: "no-store" })
+      .then(res => res.json())
+      .then(items => {
+        const redditList = document.getElementById("reddit");
+        const youtubeList = document.getElementById("youtube");
 
-        return `<li>
-          <strong><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></strong><br>
-          <div class="sources">Sources: ${sources}</div>
-          <div class="why">${why}</div>
-        </li>`;
-      }).join("");
-    })
-    .catch(err => {
-      console.error(err);
-      document.getElementById("list").innerText =
-        "Could not load trends.";
-    });
-</script>
+        const redditItems = items.filter(t => t.sources && t.sources.includes("reddit"));
+        const youtubeItems = items.filter(t => t.sources && t.sources.includes("youtube"));
+
+        redditList.innerHTML = redditItems.map(t => `
+          <li>
+            <strong>
+              <a href="${t.exampleUrl}" target="_blank" rel="noopener noreferrer">
+                ${t.topic}
+              </a>
+            </strong><br>
+            <div class="why">${t.why}</div>
+          </li>
+        `).join("");
+
+        youtubeList.innerHTML = youtubeItems.map(t => `
+          <li>
+            <strong>
+              <a href="${t.exampleUrl}" target="_blank" rel="noopener noreferrer">
+                ${t.topic}
+              </a>
+            </strong><br>
+            <div class="why">${t.why}</div>
+          </li>
+        `).join("");
+
+        if (!redditItems.length) redditList.innerHTML = "<li>No Reddit trends right now</li>";
+        if (!youtubeItems.length) youtubeList.innerHTML = "<li>No YouTube trends right now</li>";
+      })
+      .catch(() => {
+        document.getElementById("reddit").innerText = "Failed to load Reddit trends.";
+        document.getElementById("youtube").innerText = "Failed to load YouTube trends.";
+      });
+  </script>
+
 
   </body>
 </html>
