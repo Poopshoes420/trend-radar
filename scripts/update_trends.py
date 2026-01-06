@@ -203,6 +203,24 @@ def main():
 
     # Sort each independently
     reddit_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
+        # Cap posts per subreddit (max 5)
+    capped_reddit = []
+    subreddit_counts = {}
+
+    for item in reddit_items:
+        sub = item.get("subreddit")
+        if not sub:
+            continue
+
+        count = subreddit_counts.get(sub, 0)
+        if count >= 5:
+            continue
+
+        subreddit_counts[sub] = count + 1
+        capped_reddit.append(item)
+
+    reddit_items = capped_reddit
+
     youtube_items.sort(key=lambda x: x.get("_score", 0), reverse=True)
 
     # Take 20 + 20
