@@ -2,7 +2,7 @@ import json
 import time
 import urllib.request
 
-REDDIT_URL = "https://www.reddit.com/r/all/rising.json?limit=50"
+REDDIT_URL = "https://api.reddit.com/r/all/rising?limit=50"
 USER_AGENT = "trend-radar-bot/1.0 (by u/poopshoes420)"
 
 def fetch_json(url: str) -> dict:
