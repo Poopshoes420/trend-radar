@@ -62,6 +62,10 @@ def parse_rss(xml_text: str):
             age_minutes = max(1, int((now - updated_ts) / 60))
         except Exception:
             pass
+                    # Velocity score (no API): newer = higher, weighted by subreddit importance
+        weight = SUBREDDIT_WEIGHTS.get(subreddit, 1.0)
+        score = weight * (1.0 / age_minutes)
+
 
                # extract subreddit from the link
         subreddit = "unknown"
@@ -70,13 +74,15 @@ def parse_rss(xml_text: str):
             if len(parts) > 1:
                 subreddit = parts[1].split("/")[0]
 
-        out.append({
+          out.append({
             "topic": title,
             "sources": ["reddit"],
             "subreddit": subreddit,
             "why": f"New post on r/{subreddit} • ~{age_minutes}m ago",
-            "exampleUrl": link
+            "exampleUrl": link,
+            "_score": score
         })
+
  
     return out
 
