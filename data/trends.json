@@ -1,14 +1,5 @@
 [
   {
-    "topic": "The defense of the hippo fart",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6fp0p/the_defense_of_the_hippo_fart/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "The defense of the hippo fart",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6fp0p/the_defense_of_the_hippo_fart/"
   },
   {
     "topic": "Brave little soldiers vs Ruthless Giants",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6dso7/trumps_former_adviser_says_russia_offered_us/"
   },
   {
-    "topic": "Trump hammers NATO allies while Greenland crisis deepenqs - \u201cI DOUBT NATO WOULD BE THERE FOR US IF WE REALLY NEEDED THEM,\u201d says American president",
+    "topic": "US seizing Venezuela-linked oil tanker after weeks-long pursuit",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6miks/trump_hammers_nato_allies_while_greenland_crisis/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6emmf/us_seizing_venezuelalinked_oil_tanker_after/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6hljb/fallout_new_vegas_and_fallout_3_remakes_are/"
   },
   {
-    "topic": "Help me Jedi-san, I'm stuck",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5wuif/help_me_jedisan_im_stuck/"
-  },
-  {
     "topic": "Lenovo's just announced a SteamOS version of its mega Legion Go 2",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6jh4d/lenovos_just_announced_a_steamos_version_of_its/"
   },
   {
+    "topic": "Help me Jedi-san, I'm stuck",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5wuif/help_me_jedisan_im_stuck/"
+  },
+  {
     "topic": "Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 963,179 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 1,092,921 views \u2022 ~280m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,631,974 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 1,733,547 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z7PJpctfx3Q"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 813,664 views \u2022 ~664m old",
+    "why": "Trending on YouTube \u2022 819,471 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
+  },
+  {
+    "topic": "THE CUTEST DROP YET!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 284,398 views \u2022 ~274m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FaLDBHodmGs"
   },
   {
     "topic": "Avengers: Doomsday - Trailer 4 \"The Wakandans & The Fantastic 4 Will Return\" | Marvel Studios",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,594 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 164,094 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   }
 ]
