@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
   },
   {
-    "topic": "Canada to open consulate in Greenland",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6kjut/canada_to_open_consulate_in_greenland/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1413, Part 1 (Thread #1560)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
+  },
+  {
+    "topic": "Canada to open consulate in Greenland",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6kjut/canada_to_open_consulate_in_greenland/"
   },
   {
     "topic": "Trump's former adviser says Russia offered U.S. Venezuela in exchange for Ukraine",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,529,171 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 1,575,791 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,15 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,841,170 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 1,847,745 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z7PJpctfx3Q"
+  },
+  {
+    "topic": "Useless AI Trash",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 407,015 views \u2022 ~259m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
+  },
+  {
+    "topic": "Born in Chaos - South Park Drops Into Fortnite!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 315,664 views \u2022 ~251m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=13QoRmIFK0c"
   },
   {
     "topic": "THE CUTEST DROP YET!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 403,577 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 420,577 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FaLDBHodmGs"
   },
   {
@@ -208,15 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 213,984 views \u2022 ~659m old",
+    "why": "Trending on YouTube \u2022 219,679 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   },
   {
-    "topic": "Avengers: Doomsday | Full Trailer | Marvel Studios",
+    "topic": "Sleepless in a Hotel Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,098 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-T4aI_k5_3Y"
+    "why": "Trending on YouTube \u2022 47,452 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=B9J1cAdONLU"
   }
 ]
