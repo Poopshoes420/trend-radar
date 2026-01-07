@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
   },
   {
-    "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
-  },
-  {
     "topic": "This Might be the worst one so far.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
+  },
+  {
+    "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
   },
   {
     "topic": "Who was it for you \ud83e\udd40\ud83e\udd40",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,690,736 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 1,746,308 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 465,921 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 492,353 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 381,103 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 415,173 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=13QoRmIFK0c"
   },
   {
@@ -208,23 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 457,268 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 475,647 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FaLDBHodmGs"
   },
   {
-    "topic": "Base Building Progress! Hermitcraft 11 - Episode 7",
+    "topic": "Being Stubborn On High Limit Slots",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 233,245 views \u2022 ~504m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2z585VSBpj8"
+    "why": "Trending on YouTube \u2022 92,315 views \u2022 ~243m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qDVjarGPeOc"
+  },
+  {
+    "topic": "Kodak Black - All Love [Official Music Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,354 views \u2022 ~125m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mWs02WJ6JxU"
   },
   {
     "topic": "These Trailers Are ABSOLUTLY AMAZING",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,713 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 31,272 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,632 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 59,648 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B9J1cAdONLU"
   }
 ]
