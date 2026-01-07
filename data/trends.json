@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6do7q/brave_little_soldiers_vs_ruthless_giants/"
   },
   {
+    "topic": "Every school pickup ever",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6mvma/every_school_pickup_ever/"
+  },
+  {
     "topic": "Robot vacuum going up stairs",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6g6fv/robot_vacuum_going_up_stairs/"
-  },
-  {
-    "topic": "Lady to rest",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6kpi8/lady_to_rest/"
   },
   {
     "topic": "I smell lies",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q680vn/baby_who_cares/"
   },
   {
-    "topic": "Unskippable Ads are officially ending in Vietnam due to a new law that comes into effect next month!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
-  },
-  {
     "topic": "I got an ad that was literally just the youtube logo, why does this even exist???",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
+  },
+  {
+    "topic": "Unskippable Ads are officially ending in Vietnam due to a new law that comes into effect next month!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1413, Part 1 (Thread #1560)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
   },
   {
-    "topic": "Trump's former adviser says Russia offered U.S. Venezuela in exchange for Ukraine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6dso7/trumps_former_adviser_says_russia_offered_us/"
-  },
-  {
     "topic": "Canada to open consulate in Greenland",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6kjut/canada_to_open_consulate_in_greenland/"
+  },
+  {
+    "topic": "Trump's former adviser says Russia offered U.S. Venezuela in exchange for Ukraine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6dso7/trumps_former_adviser_says_russia_offered_us/"
   },
   {
     "topic": "Syrsky: Ukraine Drones Killing Russian Troops Faster Than Kremlin Can Recruit New Ones",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6hljb/fallout_new_vegas_and_fallout_3_remakes_are/"
   },
   {
-    "topic": "Dear Gaben, please buy Discord. Sincerely, gamers",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6nc6n/dear_gaben_please_buy_discord_sincerely_gamers/"
-  },
-  {
     "topic": "Help me Jedi-san, I'm stuck",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5wuif/help_me_jedisan_im_stuck/"
   },
   {
+    "topic": "Lenovo's just announced a SteamOS version of its mega Legion Go 2",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6jh4d/lenovos_just_announced_a_steamos_version_of_its/"
+  },
+  {
     "topic": "Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 730,779 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 866,136 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,251,303 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 1,451,574 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z7PJpctfx3Q"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 805,267 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 809,259 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,446 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 128,075 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   }
 ]
