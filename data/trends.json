@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
   },
   {
-    "topic": "Baby who cares \ud83d\udeac",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q680vn/baby_who_cares/"
-  },
-  {
     "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
+  },
+  {
+    "topic": "Baby who cares \ud83d\udeac",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q680vn/baby_who_cares/"
   },
   {
     "topic": "Vietnam will be the first country in the world ending unskippable ads!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 771,654 views \u2022 ~341m old",
+    "why": "Trending on YouTube \u2022 774,556 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
   }
 ]
