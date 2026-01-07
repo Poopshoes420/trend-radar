@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
   },
   {
-    "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
-  },
-  {
     "topic": "I got an ad that was literally just the youtube logo, why does this even exist???",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
   },
   {
-    "topic": "Who was it for you \ud83e\udd40\ud83e\udd40",
+    "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6o2ek/who_was_it_for_you/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
   },
   {
     "topic": "This Might be the worst one so far.",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
+  },
+  {
+    "topic": "Who was it for you \ud83e\udd40\ud83e\udd40",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6o2ek/who_was_it_for_you/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1413, Part 1 (Thread #1560)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6hljb/fallout_new_vegas_and_fallout_3_remakes_are/"
   },
   {
-    "topic": "Lenovo's just announced a SteamOS version of its mega Legion Go 2",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6jh4d/lenovos_just_announced_a_steamos_version_of_its/"
-  },
-  {
     "topic": "Union Asks Judge to Grant Fired GTA 6 Devs Interim Relief at Preliminary Tribunal Hearing, Rockstar Denies Claims",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6mp1a/union_asks_judge_to_grant_fired_gta_6_devs/"
   },
   {
+    "topic": "Lenovo's just announced a SteamOS version of its mega Legion Go 2",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6jh4d/lenovos_just_announced_a_steamos_version_of_its/"
+  },
+  {
     "topic": "Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,575,791 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 1,647,638 views \u2022 ~437m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,847,745 views \u2022 ~693m old",
+    "why": "Trending on YouTube \u2022 1,857,745 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z7PJpctfx3Q"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 407,015 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 441,915 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 315,664 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 355,663 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=13QoRmIFK0c"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 420,577 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 442,056 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FaLDBHodmGs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,679 views \u2022 ~679m old",
+    "why": "Trending on YouTube \u2022 229,795 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,452 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 52,154 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B9J1cAdONLU"
   }
 ]
