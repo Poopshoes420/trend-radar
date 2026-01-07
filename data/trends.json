@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6g6fv/robot_vacuum_going_up_stairs/"
   },
   {
-    "topic": "Ummmm. What is that word?",
+    "topic": "Lady to rest",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q63f38/ummmm_what_is_that_word/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6kpi8/lady_to_rest/"
   },
   {
     "topic": "I smell lies",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
   },
   {
-    "topic": "Vietnam will be the first country in the world ending unskippable ads!",
+    "topic": "I got an ad that was literally just the youtube logo, why does this even exist???",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5js1p/vietnam_will_be_the_first_country_in_the_world/"
-  },
-  {
-    "topic": "Trump's former adviser says Russia offered U.S. Venezuela in exchange for Ukraine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6dso7/trumps_former_adviser_says_russia_offered_us/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1413, Part 1 (Thread #1560)",
@@ -117,22 +108,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
   },
   {
-    "topic": "U.S. Navy seizes Russian-flagged tanker 'Marinera' near Venezuela; Russian submarines reportedly failed to intervene in time.",
+    "topic": "Trump's former adviser says Russia offered U.S. Venezuela in exchange for Ukraine",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6hoas/us_navy_seizes_russianflagged_tanker_marinera/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6dso7/trumps_former_adviser_says_russia_offered_us/"
   },
   {
-    "topic": "US seizing Venezuela-linked oil tanker after weeks-long pursuit",
+    "topic": "Canada to open consulate in Greenland",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6emmf/us_seizing_venezuelalinked_oil_tanker_after/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6kjut/canada_to_open_consulate_in_greenland/"
+  },
+  {
+    "topic": "Syrsky: Ukraine Drones Killing Russian Troops Faster Than Kremlin Can Recruit New Ones",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6f6wf/syrsky_ukraine_drones_killing_russian_troops/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 499,538 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 668,289 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 888,833 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 1,122,953 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z7PJpctfx3Q"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 797,105 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 803,169 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,327 views \u2022 ~385m old",
+    "why": "Trending on YouTube \u2022 106,229 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   }
 ]
