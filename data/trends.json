@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
   },
   {
+    "topic": "I smell lies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
+  },
+  {
     "topic": "Baby who cares \ud83d\udeac",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
-  },
-  {
-    "topic": "I smell lies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
   },
   {
     "topic": "Vietnam will be the first country in the world ending unskippable ads!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 789,290 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 793,858 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,298 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 69,831 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   }
 ]
