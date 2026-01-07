@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q63f38/ummmm_what_is_that_word/"
   },
   {
-    "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
-  },
-  {
     "topic": "I smell lies",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
+  },
+  {
+    "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
   },
   {
     "topic": "Baby who cares \ud83d\udeac",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
   },
   {
-    "topic": "France: working with allies on plan should US make move on Greenland",
+    "topic": "U.S. Navy seizes Russian-flagged tanker 'Marinera' near Venezuela; Russian submarines reportedly failed to intervene in time.",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q69rfx/france_working_with_allies_on_plan_should_us_make/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6hoas/us_navy_seizes_russianflagged_tanker_marinera/"
   },
   {
     "topic": "US seizing Venezuela-linked oil tanker after weeks-long pursuit",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q62pxf/steam_charts_dont_measure_fun_splitgate_arena/"
   },
   {
+    "topic": "Bhartha Mahasayulaku Wignyapthi Trailer | Ravi Teja | Kishore Tirumala | Ashika | Dimple",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 812,839 views \u2022 ~381m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z7PJpctfx3Q"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS w/ CLOAKZY & TIMTHETATMAN | TESTICULAR TORSION TUESDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 793,858 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 798,016 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,831 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 80,755 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-6Lp9zyDYc"
   }
 ]
