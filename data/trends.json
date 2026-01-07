@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q63f38/ummmm_what_is_that_word/"
   },
   {
-    "topic": "Can't show up empty handed to girls night!",
+    "topic": "Robot vacuum going up stairs",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q62vat/cant_show_up_empty_handed_to_girls_night/"
-  },
-  {
-    "topic": "Unskippable Ads are officially ending in Vietnam due to a new law that comes into effect next month!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6g6fv/robot_vacuum_going_up_stairs/"
   },
   {
     "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6bh0t/how_do_you_feel_about_vietnam_banning_unskippable/"
+  },
+  {
+    "topic": "Unskippable Ads are officially ending in Vietnam due to a new law that comes into effect next month!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q5gvag/unskippable_ads_are_officially_ending_in_vietnam/"
   },
   {
     "topic": "Baby who cares \ud83d\udeac",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q69rfx/france_working_with_allies_on_plan_should_us_make/"
   },
   {
-    "topic": "Russia sends navy ships to guard oil tanker being pursued by US forces",
+    "topic": "US seizing Venezuela-linked oil tanker after weeks-long pursuit",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q65k17/russia_sends_navy_ships_to_guard_oil_tanker_being/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6emmf/us_seizing_venezuelalinked_oil_tanker_after/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q4evue/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "'Fallout New Vegas' and 'Fallout 3' remakes are reportedly in development, in the vein of the recent 'Oblivion' remaster; 'Wolfenstein III' is also on the cards to coincide with the upcoming 'Wolfenstein' Amazon TV show.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6hljb/fallout_new_vegas_and_fallout_3_remakes_are/"
   },
   {
     "topic": "Help me Jedi-san, I'm stuck",
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5szds/cyberpunk_2_director_says_thered_be_no_point_in/"
   },
   {
-    "topic": "I made a cyberpunk scene in minecraft again",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q5jte0/i_made_a_cyberpunk_scene_in_minecraft_again/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS w/ CLOAKZY & TIMTHETATMAN | TESTICULAR TORSION TUESDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 774,556 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 780,138 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wUFB7MevPo4"
   }
 ]
