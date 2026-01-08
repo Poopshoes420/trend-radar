@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6tjfl/youtube_rewinds_are_now_private/"
   },
   {
-    "topic": "Its so good too have all that and its free \ud83d\ude04",
+    "topic": "YouTube: You Will (Not) Broadcast Yourself",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q70wmz/its_so_good_too_have_all_that_and_its_free/"
-  },
-  {
-    "topic": "German president says US is destroying world order",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7mkv8/youtube_you_will_not_broadcast_yourself/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1414, Part 1 (Thread #1561)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
+  },
+  {
+    "topic": "German president says US is destroying world order",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
   },
   {
     "topic": "Macron: US is \u2018turning away\u2019 from allies",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 999,267 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 1,040,709 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Wcgk8gEV334"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 783,090 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 822,358 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v8R0xDczERo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,318 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 81,236 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ni_5EzwHkMI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,110 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 80,052 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wQiz17AKhjM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,520 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 55,220 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=El0CLduLgew"
   },
   {
@@ -224,23 +224,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 74,830 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 79,280 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bEUjyC3ODFU"
+  },
+  {
+    "topic": "GOOD LUCK, HAVE FUN, DON'T DIE | Official Trailer | February 13 - Only in Theaters",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 59,852 views \u2022 ~462m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Nm4WbapDzDQ"
   },
   {
     "topic": "Let\u2019s Play: Club Penguin",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,793 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 67,754 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=14EwcyeL-UA"
+  },
+  {
+    "topic": "Certainty",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 16,913 views \u2022 ~279m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IbimH7W4RTE"
   },
   {
     "topic": "JaYy Wick - ALL FLATS (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,000 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 13,621 views \u2022 ~280m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jSXkRPDGH3Y"
   }
 ]
