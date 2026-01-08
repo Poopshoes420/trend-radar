@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7cu2o/the_story_just_keeps_getting_crazier/"
   },
   {
+    "topic": "LetsGoooo, get up!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7id2q/letsgoooo_get_up/"
+  },
+  {
     "topic": "Closet so deep, it's in Narnia",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q77nk0/mission_accomplished_at_last_the_doctor_finished/"
   },
   {
-    "topic": "LetsGoooo, get up!",
+    "topic": "This sub in a nutshell",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7id2q/letsgoooo_get_up/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
   },
   {
     "topic": "Youtube now tells you when the content is AI generated",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
-  },
-  {
-    "topic": "This sub in a nutshell",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
   },
   {
     "topic": "I smell lies",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7cvss/the_sims_is_all_about_the_little_things/"
   },
   {
+    "topic": "GameStop starts 2026 by closing hundreds of stores as CEO gambles on $35B payday",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7kveb/gamestop_starts_2026_by_closing_hundreds_of/"
+  },
+  {
     "topic": "Ubisoft closes their Halifax studio which coincidentally just unionized although they claim it had nothing to do with it. 71 jobs lost",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6ja45/ubisoft_closes_their_halifax_studio_which/"
   },
   {
-    "topic": "Cinderella and Siren from Nikke made by me",
+    "topic": "I Got Trained By a Minecraft Spear Master",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7hwtu/cinderella_and_siren_from_nikke_made_by_me/"
+    "why": "Trending on YouTube \u2022 754,881 views \u2022 ~328m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Wcgk8gEV334"
   },
   {
     "topic": "The Wrecking Crew \u2013 Official Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 481,348 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 579,221 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v8R0xDczERo"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 868,663 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 872,314 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A_QqIsvDh9A"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,023 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 158,381 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j6uDeBYDHu4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,736 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 52,299 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ni_5EzwHkMI"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,901 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 40,852 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wQiz17AKhjM"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,596 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 49,422 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bEUjyC3ODFU"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,754 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 27,453 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=El0CLduLgew"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,660 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 51,336 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=14EwcyeL-UA"
   }
 ]
