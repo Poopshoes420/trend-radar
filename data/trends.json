@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Call CPS!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7c049/call_cps/"
-  },
-  {
     "topic": "We asked for Waffle House sauce, she asked how much, I said \u201cyes\u201d",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7a138/last_year_the_polish_army_sent_40_boxes_of/"
+  },
+  {
+    "topic": "Sometimes all a successful exercise regime needs is the right music",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7b8tz/sometimes_all_a_successful_exercise_regime_needs/"
   },
   {
     "topic": "Youtube now tells you when the content is AI generated",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q70wmz/its_so_good_too_have_all_that_and_its_free/"
   },
   {
+    "topic": "Macron: US is \u2018turning away\u2019 from allies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1414, Part 1 (Thread #1561)",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q79mgx/ukrainian_paratroopers_crush_russian_assault_near/"
-  },
-  {
-    "topic": "Macron: US is \u2018turning away\u2019 from allies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
   },
   {
     "topic": "France working with allies on plan should US move on Greenland",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6ja45/ubisoft_closes_their_halifax_studio_which/"
   },
   {
+    "topic": "The Sims is all about the little things...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7cvss/the_sims_is_all_about_the_little_things/"
+  },
+  {
     "topic": "After 450h of playtime my s/o has 100%ed everything there is to do in Balatro.",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6wbf9/after_450h_of_playtime_my_so_has_100ed_everything/"
   },
   {
-    "topic": "Just one more lane, trust me (TheoTown)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q75rg5/just_one_more_lane_trust_me_theotown/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS /w CLOAKZY & NADESHOT | WACKADOODLE WEDNESDAY | #ShartInABottleAtSea #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 836,757 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 840,459 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A_QqIsvDh9A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 951,768 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 1,017,849 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GSGVbEZHgSQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 611,860 views \u2022 ~666m old",
+    "why": "Trending on YouTube \u2022 633,434 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soFe3E33xT4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 275,897 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 284,870 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D8A66gtqlVU"
   }
 ]
