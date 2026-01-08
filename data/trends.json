@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6p3rz/my_8_year_old_made_a_spreadsheet_of_what_he_knows/"
   },
   {
+    "topic": "We asked for Waffle House sauce, she asked how much, I said \u201cyes\u201d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6zlrr/we_asked_for_waffle_house_sauce_she_asked_how/"
+  },
+  {
     "topic": "The defense of the hippo fart",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6mvma/every_school_pickup_ever/"
-  },
-  {
-    "topic": "Brave little soldiers vs Ruthless Giants",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6do7q/brave_little_soldiers_vs_ruthless_giants/"
   },
   {
     "topic": "I smell lies",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
   },
   {
-    "topic": "Who was it for you \ud83e\udd40\ud83e\udd40",
+    "topic": "YouTube Rewinds are now private.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6o2ek/who_was_it_for_you/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6tjfl/youtube_rewinds_are_now_private/"
   },
   {
     "topic": "Danish troops told to 'shoot first, ask questions later' if US invades Greenland | LBC",
@@ -180,27 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6mp1a/union_asks_judge_to_grant_fired_gta_6_devs/"
   },
   {
-    "topic": "Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic - League of Legends",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,269,473 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
-  },
-  {
-    "topic": "ROBLOX WHY \ud83d\ude2d\ud83d\udc94",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 191,293 views \u2022 ~67m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZbVuo7y-h0o"
-  },
-  {
     "topic": "Useless AI Trash",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 747,079 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 809,067 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
   },
   {
@@ -208,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 631,275 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 677,084 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=13QoRmIFK0c"
   },
   {
@@ -216,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,598 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 204,522 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lMTX71Pc5IA"
+  },
+  {
+    "topic": "The Dark Minions Theory Is Insane",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 153,920 views \u2022 ~310m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VSQWetIADh8"
   },
   {
     "topic": "Our Season Challenge Is ON THE LINE! Wheel of MUT! Ep. #34",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 130,827 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 164,562 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=by5KXFAyWcg"
   },
   {
@@ -232,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 163,848 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 186,978 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qDVjarGPeOc"
+  },
+  {
+    "topic": "Relationship Goals - Official Trailer | Prime Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 247,846 views \u2022 ~660m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=To87iNMhedU"
   },
   {
     "topic": "Kodak Black - All Love [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,595 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 104,400 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mWs02WJ6JxU"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,042 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 70,566 views \u2022 ~463m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
   },
   {
@@ -256,7 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,207 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 99,557 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B9J1cAdONLU"
+  },
+  {
+    "topic": "Vicente Fern\u00e1ndez - La Diferencia (Letra/Lyrics)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 25,574 views \u2022 ~599m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=h-EuMZmjpZE"
   }
 ]
