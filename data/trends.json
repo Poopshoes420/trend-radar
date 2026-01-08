@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
   },
   {
-    "topic": "I got an ad that was literally just the youtube logo, why does this even exist???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
-  },
-  {
     "topic": "This Might be the worst one so far.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
+  },
+  {
+    "topic": "I got an ad that was literally just the youtube logo, why does this even exist???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6gmqd/i_got_an_ad_that_was_literally_just_the_youtube/"
   },
   {
     "topic": "How do you feel about Vietnam banning unskippable ads? Should more countries do this?",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6kjut/canada_to_open_consulate_in_greenland/"
   },
   {
-    "topic": "Trump's former adviser says Russia offered U.S. Venezuela in exchange for Ukraine",
+    "topic": "Trump pulls US out of 66 international bodies, including key UN climate treaty",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6dso7/trumps_former_adviser_says_russia_offered_us/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6wdz5/trump_pulls_us_out_of_66_international_bodies/"
   },
   {
-    "topic": "Greenland belongs to its people and has full EU support, EU\u2019s Costa says",
+    "topic": "US will exit dozens of international organizations as it further retreats from global cooperation",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6m7xi/greenland_belongs_to_its_people_and_has_full_eu/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6w2on/us_will_exit_dozens_of_international/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6hljb/fallout_new_vegas_and_fallout_3_remakes_are/"
   },
   {
+    "topic": "After 450h of playtime my s/o has 100%ed everything there is to do in Balatro.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6wbf9/after_450h_of_playtime_my_so_has_100ed_everything/"
+  },
+  {
     "topic": "Union Asks Judge to Grant Fired GTA 6 Devs Interim Relief at Preliminary Tribunal Hearing, Rockstar Denies Claims",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6mp1a/union_asks_judge_to_grant_fired_gta_6_devs/"
   },
   {
-    "topic": "Lenovo's just announced a SteamOS version of its mega Legion Go 2",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6jh4d/lenovos_just_announced_a_steamos_version_of_its/"
-  },
-  {
     "topic": "Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,746,308 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 1,905,818 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3D7Fj1PsWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,353 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 585,065 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,173 views \u2022 ~310m old",
+    "why": "Trending on YouTube \u2022 505,854 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=13QoRmIFK0c"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 475,647 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 528,820 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FaLDBHodmGs"
+  },
+  {
+    "topic": "Our Season Challenge Is ON THE LINE! Wheel of MUT! Ep. #34",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 82,037 views \u2022 ~199m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=by5KXFAyWcg"
   },
   {
     "topic": "Being Stubborn On High Limit Slots",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,315 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 116,118 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qDVjarGPeOc"
   },
   {
@@ -224,23 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,354 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 47,542 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mWs02WJ6JxU"
-  },
-  {
-    "topic": "These Trailers Are ABSOLUTLY AMAZING",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 31,272 views \u2022 ~211m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
   },
   {
     "topic": "Sleepless in a Hotel Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,648 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 71,130 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B9J1cAdONLU"
+  },
+  {
+    "topic": "These Trailers Are ABSOLUTLY AMAZING",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 41,101 views \u2022 ~271m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
   }
 ]
