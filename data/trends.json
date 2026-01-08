@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
   },
   {
-    "topic": "I smell lies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
-  },
-  {
     "topic": "YouTube: You Will (Not) Broadcast Yourself",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7mkv8/youtube_you_will_not_broadcast_yourself/"
+  },
+  {
+    "topic": "I smell lies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
   },
   {
     "topic": "YouTube Rewinds are now private.",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7hgqx/for_those_of_you_who_grew_up_playing_pc_games_in/"
   },
   {
-    "topic": "I Got Trained By a Minecraft Spear Master",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,164,140 views \u2022 ~505m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Wcgk8gEV334"
-  },
-  {
     "topic": "The Wrecking Crew \u2013 Official Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,030,986 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 1,220,638 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v8R0xDczERo"
+  },
+  {
+    "topic": "I Got Trained By a Minecraft Spear Master",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,204,027 views \u2022 ~527m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Wcgk8gEV334"
   },
   {
     "topic": "Avengers Doomsday Teaser Trailer: Black Panther & Fantastic Four Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,213 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 99,867 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ni_5EzwHkMI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,098 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 103,905 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wQiz17AKhjM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,034 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 102,275 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bEUjyC3ODFU"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,079 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 68,763 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=El0CLduLgew"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,152 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 76,387 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nm4WbapDzDQ"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,935 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 34,623 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cFNjrAmcoFc"
   },
   {
@@ -248,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,555 views \u2022 ~686m old",
+    "why": "Trending on YouTube \u2022 76,340 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=14EwcyeL-UA"
+  },
+  {
+    "topic": "Certainty",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,498 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IbimH7W4RTE"
   },
   {
     "topic": "JaYy Wick - ALL FLATS (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,277 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 21,055 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jSXkRPDGH3Y"
   }
 ]
