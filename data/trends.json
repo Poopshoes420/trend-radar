@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q70wmz/its_so_good_too_have_all_that_and_its_free/"
   },
   {
-    "topic": "Macron: US is \u2018turning away\u2019 from allies",
+    "topic": "German president says US is destroying world order",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1414, Part 1 (Thread #1561)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
   },
   {
+    "topic": "Macron: US is \u2018turning away\u2019 from allies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
+  },
+  {
     "topic": "Ukrainian paratroopers crush Russian assault near Pokrovsk",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q79mgx/ukrainian_paratroopers_crush_russian_assault_near/"
-  },
-  {
-    "topic": "German president says US is destroying world order",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7a7rg/the_excitement_of_opening_up_a_video_game_sure/"
   },
   {
-    "topic": "Ubisoft closes their Halifax studio which coincidentally just unionized although they claim it had nothing to do with it. 71 jobs lost",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6ja45/ubisoft_closes_their_halifax_studio_which/"
-  },
-  {
     "topic": "The Sims is all about the little things...",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7cvss/the_sims_is_all_about_the_little_things/"
+  },
+  {
+    "topic": "Ubisoft closes their Halifax studio which coincidentally just unionized although they claim it had nothing to do with it. 71 jobs lost",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6ja45/ubisoft_closes_their_halifax_studio_which/"
   },
   {
     "topic": "After 450h of playtime my s/o has 100%ed everything there is to do in Balatro.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,081,313 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 1,147,017 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GSGVbEZHgSQ"
   },
   {
@@ -192,15 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 843,791 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 848,489 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A_QqIsvDh9A"
   },
   {
-    "topic": "GTA 5 Online - A Very Die Hard Christmas! (Funny Moments)",
+    "topic": "undertone | Official Trailer HD | A24",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,288 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=D8A66gtqlVU"
+    "why": "Trending on YouTube \u2022 80,196 views \u2022 ~463m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j6uDeBYDHu4"
   }
 ]
