@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
   },
   {
+    "topic": "This sub in a nutshell",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
+  },
+  {
     "topic": "I smell lies",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6yn4n/say_what_now/"
-  },
-  {
-    "topic": "Its so good too have all that and its free \ud83d\ude04",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q70wmz/its_so_good_too_have_all_that_and_its_free/"
   },
   {
     "topic": "German president says US is destroying world order",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
   },
   {
-    "topic": "Ukrainian paratroopers crush Russian assault near Pokrovsk",
+    "topic": "Mexico's daily murder rate down 40% under Sheinbaum, president says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q79mgx/ukrainian_paratroopers_crush_russian_assault_near/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7d5ka/mexicos_daily_murder_rate_down_40_under_sheinbaum/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,28 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q6ja45/ubisoft_closes_their_halifax_studio_which/"
   },
   {
-    "topic": "Just one more lane, trust me (TheoTown)",
+    "topic": "Cinderella and Siren from Nikke made by me",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q75rg5/just_one_more_lane_trust_me_theotown/"
-  },
-  {
-    "topic": "Anaganaga Oka Raju TRAILER | Naveen Polishetty, Meenakshi | Maari | Naga Vamsi",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,625,383 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GSGVbEZHgSQ"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7hwtu/cinderella_and_siren_from_nikke_made_by_me/"
   },
   {
     "topic": "The Wrecking Crew \u2013 Official Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 419,671 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 481,348 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v8R0xDczERo"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 866,961 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 868,663 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A_QqIsvDh9A"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 144,693 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 149,023 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j6uDeBYDHu4"
   },
   {
@@ -216,15 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,959 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 44,736 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ni_5EzwHkMI"
+  },
+  {
+    "topic": "AIZO",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 31,901 views \u2022 ~239m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wQiz17AKhjM"
+  },
+  {
+    "topic": "AVENGERS: DOOMSDAY (2026) | Wakandans & Fantastic 4 Trailer | Marvel Comics | Concept",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 42,596 views \u2022 ~360m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bEUjyC3ODFU"
   },
   {
     "topic": "Good vs. Ice",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,868 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 21,754 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=El0CLduLgew"
+  },
+  {
+    "topic": "Let\u2019s Play: Club Penguin",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 46,660 views \u2022 ~481m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=14EwcyeL-UA"
   }
 ]
