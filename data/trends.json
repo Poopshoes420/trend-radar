@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Call CPS!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7c049/call_cps/"
+  },
+  {
     "topic": "We asked for Waffle House sauce, she asked how much, I said \u201cyes\u201d",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7a138/last_year_the_polish_army_sent_40_boxes_of/"
-  },
-  {
-    "topic": "Sometimes all a successful exercise regime needs is the right music",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7b8tz/sometimes_all_a_successful_exercise_regime_needs/"
   },
   {
     "topic": "Youtube now tells you when the content is AI generated",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6yn4n/say_what_now/"
   },
   {
-    "topic": "This Might be the worst one so far.",
+    "topic": "Its so good too have all that and its free \ud83d\ude04",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q70wmz/its_so_good_too_have_all_that_and_its_free/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1414, Part 1 (Thread #1561)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q79mgx/ukrainian_paratroopers_crush_russian_assault_near/"
   },
   {
-    "topic": "Danish troops told to 'shoot first, ask questions later' if US invades Greenland | LBC",
+    "topic": "Macron: US is \u2018turning away\u2019 from allies",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6x0wk/danish_troops_told_to_shoot_first_ask_questions/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
   },
   {
     "topic": "France working with allies on plan should US move on Greenland",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 833,667 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 836,757 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A_QqIsvDh9A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 885,281 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 951,768 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GSGVbEZHgSQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 590,970 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 611,860 views \u2022 ~666m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soFe3E33xT4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 267,553 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 275,897 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D8A66gtqlVU"
   }
 ]
