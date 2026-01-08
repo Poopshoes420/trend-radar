@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6zlrr/we_asked_for_waffle_house_sauce_she_asked_how/"
   },
   {
-    "topic": "My 8 year old made a spreadsheet of what he knows about where babies come from, he\u2019s trying to piece it together",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q6p3rz/my_8_year_old_made_a_spreadsheet_of_what_he_knows/"
-  },
-  {
     "topic": "Last Year, the Polish army sent 40 boxes of anti-tank mines to Ikea by mistake.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7a138/last_year_the_polish_army_sent_40_boxes_of/"
+  },
+  {
+    "topic": "Sometimes all a successful exercise regime needs is the right music",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7b8tz/sometimes_all_a_successful_exercise_regime_needs/"
   },
   {
     "topic": "Youtube now tells you when the content is AI generated",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
   },
   {
+    "topic": "Ukrainian paratroopers crush Russian assault near Pokrovsk",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q79mgx/ukrainian_paratroopers_crush_russian_assault_near/"
+  },
+  {
     "topic": "Danish troops told to 'shoot first, ask questions later' if US invades Greenland | LBC",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6x0wk/danish_troops_told_to_shoot_first_ask_questions/"
   },
   {
-    "topic": "Trump pulls US out of 66 international bodies, including key UN climate treaty",
+    "topic": "France working with allies on plan should US move on Greenland",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6wdz5/trump_pulls_us_out_of_66_international_bodies/"
-  },
-  {
-    "topic": "Ukrainian paratroopers crush Russian assault near Pokrovsk",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q79mgx/ukrainian_paratroopers_crush_russian_assault_near/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q78niy/france_working_with_allies_on_plan_should_us_move/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 827,966 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 833,667 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A_QqIsvDh9A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 774,134 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 885,281 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GSGVbEZHgSQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 561,932 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 590,970 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soFe3E33xT4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 254,354 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 267,553 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D8A66gtqlVU"
   }
 ]
