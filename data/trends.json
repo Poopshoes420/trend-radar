@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
   },
   {
-    "topic": "This Might be the worst one so far.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
-  },
-  {
     "topic": "YouTube Rewinds are now private.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6yn4n/say_what_now/"
+  },
+  {
+    "topic": "This Might be the worst one so far.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6n7gb/this_might_be_the_worst_one_so_far/"
   },
   {
     "topic": "Danish troops told to 'shoot first, ask questions later' if US invades Greenland | LBC",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
   },
   {
+    "topic": "Trump pulls US out of 66 international bodies, including key UN climate treaty",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6wdz5/trump_pulls_us_out_of_66_international_bodies/"
+  },
+  {
     "topic": "US will exit dozens of international organizations as it further retreats from global cooperation",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6w2on/us_will_exit_dozens_of_international/"
-  },
-  {
-    "topic": "Canada to open consulate in Greenland",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q6kjut/canada_to_open_consulate_in_greenland/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,31 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,576 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 275,010 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soFe3E33xT4"
-  },
-  {
-    "topic": "Useless AI Trash",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 887,364 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FGFO-EvGVRw"
-  },
-  {
-    "topic": "Born in Chaos - South Park Drops Into Fortnite!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 740,132 views \u2022 ~680m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=13QoRmIFK0c"
   },
   {
     "topic": "Learning Rocket League Day 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 234,165 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 244,732 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lMTX71Pc5IA"
   },
   {
@@ -216,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,315 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 243,905 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VSQWetIADh8"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 223,542 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 246,367 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=by5KXFAyWcg"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,051 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 231,376 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qDVjarGPeOc"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 139,522 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 149,272 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mWs02WJ6JxU"
   },
   {
@@ -248,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,735 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 89,833 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F2U3ilsfnVk"
-  },
-  {
-    "topic": "Vicente Fern\u00e1ndez - La Diferencia (Letra/Lyrics)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 50,501 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=h-EuMZmjpZE"
   },
   {
     "topic": "Marcello Hern\u00e1ndez: American Boy | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,776 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 31,769 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SClwWBQvuRA"
   }
 ]
