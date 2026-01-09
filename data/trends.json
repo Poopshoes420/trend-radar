@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7y25w/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Iran\u2019s Gold Allegedly Flown to Russia as Supreme Leader Braces for Collapse",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8ehgu/irans_gold_allegedly_flown_to_russia_as_supreme/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7y25w/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Colombian Guerrillas Vow to Spend 'Last Drop of Blood Fighting the US Empire' After Attack on Venezuela",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,017,948 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 1,020,213 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 427,465 views \u2022 ~655m old",
+    "why": "Trending on YouTube \u2022 439,816 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=77X0ACsxb2o"
   }
 ]
