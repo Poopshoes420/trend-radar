@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q86eav/scotlands_amazing_salt_spreader_family_whats_your/"
   },
   {
-    "topic": "YouTubers when they say they visited asia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
-  },
-  {
     "topic": "How does this work?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
+  },
+  {
+    "topic": "YouTubers when they say they visited asia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
   },
   {
     "topic": "How the hell did multiple YouTubers get cancelled for saying the n word once but vanossgaming (who are mostly white) said it enough for there to be a compilation and yet they\u2019re still respected?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
   },
   {
-    "topic": "YouTube trying to be like Grok",
+    "topic": "YouTube now displaying AI \"undressing\" adverts in my feed.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q839rh/youtube_trying_to_be_like_grok/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q89zv4/youtube_now_displaying_ai_undressing_adverts_in/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7y25w/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Colombian Guerrillas Vow to Spend 'Last Drop of Blood Fighting the US Empire' After Attack on Venezuela",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8813q/colombian_guerrillas_vow_to_spend_last_drop_of/"
   },
   {
     "topic": "Trump suggests U.S. will begin to strike drug cartels in Mexico",
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q802mc/trump_admin_reportedly_considers_paying_each/"
-  },
-  {
-    "topic": "Colombian Guerrillas Vow to Spend 'Last Drop of Blood Fighting the US Empire' After Attack on Venezuela",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8813q/colombian_guerrillas_vow_to_spend_last_drop_of/"
   },
   {
     "topic": "Kyiv mayor calls on residents to leave capital as half of city's buildings have been left without heating after Russian attack",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,998,268 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 2,194,611 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 987,376 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 991,397 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,309 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 291,900 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=77X0ACsxb2o"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,775 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 91,252 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I0Ffs8UJTWA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,848 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 22,300 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6f-Ied1w8T8"
   }
 ]
