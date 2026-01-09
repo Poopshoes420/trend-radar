@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Babysitting",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8ivls/babysitting/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Heavy Metal Fan Dance?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
   },
   {
-    "topic": "YouTubers when they say they visited asia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
-  },
-  {
     "topic": "Whoever decided to make 30 second unskippable ads deserves life in prison",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8kg04/whoever_decided_to_make_30_second_unskippable_ads/"
   },
   {
-    "topic": "Bro what is this ad",
+    "topic": "YouTubers when they say they visited asia",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fxrn/bro_what_is_this_ad/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
+  },
+  {
+    "topic": "How the hell did multiple YouTubers get cancelled for saying the n word once but vanossgaming (who are mostly white) said it enough for there to be a compilation and yet they\u2019re still respected?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7ox95/how_the_hell_did_multiple_youtubers_get_cancelled/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8gz5j/uk_threatened_with_sanctions_if_starmer_blocks/"
   },
   {
+    "topic": "Trump: \u2018We are going to do something on Greenland whether they like it or not\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8l3rw/trump_we_are_going_to_do_something_on_greenland/"
+  },
+  {
     "topic": "Iran shuts off internet as protesters start fires in widening unrest",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8813q/colombian_guerrillas_vow_to_spend_last_drop_of/"
-  },
-  {
-    "topic": "EU Parliament eyes freezing US trade deal over Trump\u2019s Greenland threats",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q88v0k/eu_parliament_eyes_freezing_us_trade_deal_over/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -178,5 +178,61 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88oh5/i_fking_hate_gen_ai_art_hooded_horse_chief_says/"
+  },
+  {
+    "topic": "Hermitcraft 11: Episode 8 - PRANKS AND BUILDS!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 339,701 views \u2022 ~315m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MQpVmLQlDiA"
+  },
+  {
+    "topic": "How Doctor Doom been watching all the Marvel Trailers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 120,377 views \u2022 ~289m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rn0UeFCL64I"
+  },
+  {
+    "topic": "Polo G - 95 Bulls (feat. King Von) (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 38,810 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HuAfl76f7y4"
+  },
+  {
+    "topic": "DDG & Blueface - Habibi (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 82,531 views \u2022 ~314m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p9ffA-p_BNA"
+  },
+  {
+    "topic": "Drinker's Chasers - Starfleet Academy's Disastrous Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 74,117 views \u2022 ~494m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vY_bCM3AqFE"
+  },
+  {
+    "topic": "Magneto's Avengers Doomsday Trailer Speech, Hidden Meaning Explained!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 52,020 views \u2022 ~371m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OnfyUSCIf40"
+  },
+  {
+    "topic": "Avengers: Doomsday - Trailer 4 \"The Wakandans & The Fantastic 4 Will Return\" (2026) Marvel Studios",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 48,788 views \u2022 ~614m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=q6Hba4DzdxU"
   }
 ]
