@@ -9,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Hold on",
+    "topic": "Babysitting",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8hhwq/hold_on/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8ivls/babysitting/"
   },
   {
     "topic": "Heavy Metal Fan Dance?",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8boaw/heavy_metal_fan_dance/"
   },
   {
-    "topic": "Babysitting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8ivls/babysitting/"
-  },
-  {
     "topic": "Steve-O really knows how to live in the moment lol",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7xbuo/steveo_really_knows_how_to_live_in_the_moment_lol/"
+  },
+  {
+    "topic": "Scary Movie 6 Trailer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q831b8/scary_movie_6_trailer/"
   },
   {
     "topic": "How does this work?",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
   },
   {
+    "topic": "Newest YouTube video to reach 1 billion views!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
+  },
+  {
     "topic": "How the hell did multiple YouTubers get cancelled for saying the n word once but vanossgaming (who are mostly white) said it enough for there to be a compilation and yet they\u2019re still respected?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
-  },
-  {
-    "topic": "Newest YouTube video to reach 1 billion views!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8bgqz/iran_shuts_off_internet_as_protesters_start_fires/"
   },
   {
-    "topic": "\u2018We are not for sale\u2019: chair of Greenland\u2019s top labor union rebukes Trump\u2019s call for annexation",
+    "topic": "UK threatened with sanctions if Starmer blocks Musk's X",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q89h7i/we_are_not_for_sale_chair_of_greenlands_top_labor/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8gz5j/uk_threatened_with_sanctions_if_starmer_blocks/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -178,13 +178,5 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88oh5/i_fking_hate_gen_ai_art_hooded_horse_chief_says/"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS /w cloakzy & HutchMF | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,034,012 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   }
 ]
