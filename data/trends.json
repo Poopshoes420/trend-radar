@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7ox95/how_the_hell_did_multiple_youtubers_get_cancelled/"
   },
   {
-    "topic": "That's a name I haven't heard in a long time",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
-  },
-  {
     "topic": "YouTubers when they say they visited asia",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
   },
   {
-    "topic": "This sub in a nutshell",
+    "topic": "That's a name I haven't heard in a long time",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
   },
   {
     "topic": "I do not infact watched super edgy videos or watched any drama and they still recommend me some weird garbage's",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7qu2r/i_do_not_infact_watched_super_edgy_videos_or/"
+  },
+  {
+    "topic": "This sub in a nutshell",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7t8y7/if_it_expires_it_expires_trump_tells_nyt_about/"
   },
   {
+    "topic": "Trump suggests U.S. will begin to strike drug cartels in Mexico",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7xwup/trump_suggests_us_will_begin_to_strike_drug/"
+  },
+  {
     "topic": "China warns of \u2018law of the jungle\u2019 as US exits global bodies",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
-  },
-  {
-    "topic": "Macron: US is \u2018turning away\u2019 from allies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7c02b/macron_us_is_turning_away_from_allies/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7a7rg/the_excitement_of_opening_up_a_video_game_sure/"
   },
   {
-    "topic": "Have we learned anything about Kingmakers? I think this game is fake. Especially for getting delayed the week before getting released in October and not having heard a thing about it since?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7q4w0/have_we_learned_anything_about_kingmakers_i_think/"
-  },
-  {
     "topic": "The old Sierra PC games had a debugger/cheat mode that was basically child-proof: (left) SHIFT- (right) SHIFT- (numpad) MINUS",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7wgs9/the_old_sierra_pc_games_had_a_debuggercheat_mode/"
   },
   {
+    "topic": "Have we learned anything about Kingmakers? I think this game is fake. Especially for getting delayed the week before getting released in October and not having heard a thing about it since?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7q4w0/have_we_learned_anything_about_kingmakers_i_think/"
+  },
+  {
     "topic": "Learning Rocket League Day 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,323 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 242,711 views \u2022 ~133m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WWK_oXHb3Xs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 744,808 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 775,668 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g6N4LDxGJ_w"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 503,385 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 521,219 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IOPmtJgxznw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,941 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 277,774 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dh9T3t2jEvo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 349,812 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 360,606 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xsUxh409RYA"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,964 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 160,472 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaGvmRTUUvU"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,559 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 207,923 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jzxpx7pOkNM"
   },
   {
@@ -240,23 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,313 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 131,248 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PvZRAz8zmUw"
   },
   {
-    "topic": "Black Veil Brides - Certainty",
+    "topic": "Moj\u00f3 el Lambo - OVI (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,111 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3Dk9DI5C4Ss"
+    "why": "Trending on YouTube \u2022 57,288 views \u2022 ~361m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=B788mfvgkUA"
   },
   {
     "topic": "Larry June - Who Coppin' (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,165 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 88,583 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cFNjrAmcoFc"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,211 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 66,684 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lddy8O3sxWA"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,092 views \u2022 ~692m old",
+    "why": "Trending on YouTube \u2022 52,850 views \u2022 ~720m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jSXkRPDGH3Y"
   }
 ]
