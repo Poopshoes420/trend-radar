@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7rvos/thank_you_jimmy/"
   },
   {
+    "topic": "Scary Movie 6 Trailer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q831b8/scary_movie_6_trailer/"
+  },
+  {
     "topic": "\"I'm in dept hun\"",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7iwye/im_in_dept_hun/"
-  },
-  {
-    "topic": "Cycle of Adulthood",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7pgjp/cycle_of_adulthood/"
   },
   {
     "topic": "YouTubers when they say they visited asia",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7y25w/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "China warns of \u2018law of the jungle\u2019 as US exits global bodies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7w29x/china_warns_of_law_of_the_jungle_as_us_exits/"
-  },
-  {
     "topic": "Trump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q802mc/trump_admin_reportedly_considers_paying_each/"
+  },
+  {
+    "topic": "China warns of \u2018law of the jungle\u2019 as US exits global bodies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7w29x/china_warns_of_law_of_the_jungle_as_us_exits/"
   },
   {
     "topic": "'Don't need international law': Trump says 'my own morality' only restraint on global power; repeats Greenland push - The Times of India",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 966,550 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 971,366 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,166,682 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 1,343,068 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8"
   },
   {
@@ -200,7 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,003 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 317,701 views \u2022 ~711m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wGiMeU9_Mis"
+  },
+  {
+    "topic": "My Neighbor Won't Let Me Leave... [Death On Holly Ridge]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 76,181 views \u2022 ~601m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3Eiou_6Bt7Y"
+  },
+  {
+    "topic": "Alkaline - No Emotions (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 53,144 views \u2022 ~456m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I0Ffs8UJTWA"
   }
 ]
