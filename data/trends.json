@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
   },
   {
+    "topic": "That's a name I haven't heard in a long time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
+  },
+  {
     "topic": "I do not infact watched super edgy videos or watched any drama and they still recommend me some weird garbage's",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7qu2r/i_do_not_infact_watched_super_edgy_videos_or/"
   },
   {
-    "topic": "Youtube now tells you when the content is AI generated",
+    "topic": "YouTubers when they say they visited asia",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
-  },
-  {
-    "topic": "YouTube: You Will (Not) Broadcast Yourself",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7mkv8/youtube_you_will_not_broadcast_yourself/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1414, Part 1 (Thread #1561)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q71nny/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "German president says US is destroying world order",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
-  },
-  {
     "topic": "'If it expires, it expires,' Trump tells NYT about US-Russia nuclear treaty",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7t8y7/if_it_expires_it_expires_trump_tells_nyt_about/"
+  },
+  {
+    "topic": "German president says US is destroying world order",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
   },
   {
     "topic": "Macron: US is \u2018turning away\u2019 from allies",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q4evue/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "The excitement of opening up a video game sure has been losing it's charm over the years...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7a7rg/the_excitement_of_opening_up_a_video_game_sure/"
-  },
-  {
     "topic": "shoutout to being super young and exiting the game because of being too afraid or not knowing what to do and how to proceed.",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7se6j/shoutout_to_being_super_young_and_exiting_the/"
+  },
+  {
+    "topic": "The excitement of opening up a video game sure has been losing it's charm over the years...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7a7rg/the_excitement_of_opening_up_a_video_game_sure/"
   },
   {
     "topic": "Have we learned anything about Kingmakers? I think this game is fake. Especially for getting delayed the week before getting released in October and not having heard a thing about it since?",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7sncw/reality_check_if_youre_waiting_for_console_prices/"
   },
   {
+    "topic": "Learning Rocket League Day 3",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 197,736 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WWK_oXHb3Xs"
+  },
+  {
     "topic": "have video game skins gone too far?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 580,107 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 695,065 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g6N4LDxGJ_w"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 405,653 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 477,856 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IOPmtJgxznw"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,281 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 226,478 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dh9T3t2jEvo"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,113 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 331,262 views \u2022 ~496m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xsUxh409RYA"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 89,897 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 127,235 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaGvmRTUUvU"
   },
   {
@@ -224,39 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,703 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 181,672 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jzxpx7pOkNM"
   },
   {
-    "topic": "AIZO",
+    "topic": "Had To Work Nights At A Burger Place\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,000 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wQiz17AKhjM"
-  },
-  {
-    "topic": "Avengers Doomsday Teaser Trailer: Black Panther & Fantastic Four Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 137,486 views \u2022 ~648m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ni_5EzwHkMI"
-  },
-  {
-    "topic": "Good vs. Ice",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 97,246 views \u2022 ~635m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=El0CLduLgew"
+    "why": "Trending on YouTube \u2022 101,108 views \u2022 ~290m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PvZRAz8zmUw"
   },
   {
     "topic": "Larry June - Who Coppin' (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,051 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 81,050 views \u2022 ~590m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cFNjrAmcoFc"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,081 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 61,330 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lddy8O3sxWA"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,280 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 48,005 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jSXkRPDGH3Y"
   }
 ]
