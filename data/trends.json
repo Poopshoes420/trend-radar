@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
   },
   {
-    "topic": "I do not infact watched super edgy videos or watched any drama and they still recommend me some weird garbage's",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7qu2r/i_do_not_infact_watched_super_edgy_videos_or/"
-  },
-  {
     "topic": "YouTube trying to be like Grok",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q839rh/youtube_trying_to_be_like_grok/"
   },
   {
-    "topic": "Trump suggests U.S. will begin to strike drug cartels in Mexico",
+    "topic": "I do not infact watched super edgy videos or watched any drama and they still recommend me some weird garbage's",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7xwup/trump_suggests_us_will_begin_to_strike_drug/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7qu2r/i_do_not_infact_watched_super_edgy_videos_or/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7y25w/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Trump suggests U.S. will begin to strike drug cartels in Mexico",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7xwup/trump_suggests_us_will_begin_to_strike_drug/"
   },
   {
     "topic": "Trump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 977,055 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 980,365 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,565,403 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 1,711,479 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8"
+  },
+  {
+    "topic": "I Wanna Test The Game",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 221,128 views \u2022 ~366m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=77X0ACsxb2o"
   },
   {
     "topic": "Alkaline - No Emotions (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,747 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 69,587 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I0Ffs8UJTWA"
-  },
-  {
-    "topic": "My Neighbor Won't Let Me Leave... [Death On Holly Ridge]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 79,623 views \u2022 ~651m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3Eiou_6Bt7Y"
   },
   {
     "topic": "Runny Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,499 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 15,573 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6f-Ied1w8T8"
   }
 ]
