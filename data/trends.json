@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7xbuo/steveo_really_knows_how_to_live_in_the_moment_lol/"
   },
   {
-    "topic": "Thank you, Jimmy!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7rvos/thank_you_jimmy/"
-  },
-  {
     "topic": "Scary Movie 6 Trailer",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q831b8/scary_movie_6_trailer/"
+  },
+  {
+    "topic": "Thank you, Jimmy!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7rvos/thank_you_jimmy/"
   },
   {
     "topic": "Scotland's amazing salt spreader family. What's your favourite? Mine - Spready Mercury",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7sa8e/youtubers_when_they_say_they_visited_asia/"
   },
   {
+    "topic": "YouTube now displaying AI \"undressing\" adverts in my feed.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q89zv4/youtube_now_displaying_ai_undressing_adverts_in/"
+  },
+  {
     "topic": "How the hell did multiple YouTubers get cancelled for saying the n word once but vanossgaming (who are mostly white) said it enough for there to be a compilation and yet they\u2019re still respected?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7usjo/thats_a_name_i_havent_heard_in_a_long_time/"
-  },
-  {
-    "topic": "YouTube now displaying AI \"undressing\" adverts in my feed.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q89zv4/youtube_now_displaying_ai_undressing_adverts_in/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1415, Part 1 (Thread #1562)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7xwup/trump_suggests_us_will_begin_to_strike_drug/"
   },
   {
-    "topic": "Trump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q802mc/trump_admin_reportedly_considers_paying_each/"
-  },
-  {
     "topic": "Kyiv mayor calls on residents to leave capital as half of city's buildings have been left without heating after Russian attack",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q86lyd/kyiv_mayor_calls_on_residents_to_leave_capital_as/"
+  },
+  {
+    "topic": "EU Parliament eyes freezing US trade deal over Trump\u2019s Greenland threats",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q88v0k/eu_parliament_eyes_freezing_us_trade_deal_over/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88oh5/i_fking_hate_gen_ai_art_hooded_horse_chief_says/"
   },
   {
-    "topic": "shoutout to being super young and exiting the game because of being too afraid or not knowing what to do and how to proceed.",
+    "topic": "Crimson Desert's World Will Be Twice As Big As Skyrim And RDR 2's Map",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7se6j/shoutout_to_being_super_young_and_exiting_the/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88wu2/crimson_deserts_world_will_be_twice_as_big_as/"
   },
   {
     "topic": "Bruno Mars - I Just Might [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,194,611 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 2,355,961 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 991,397 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 994,000 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,900 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 304,768 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=77X0ACsxb2o"
+  },
+  {
+    "topic": "Golden",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 280,649 views \u2022 ~648m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rW2HmFDGdKs"
   },
   {
     "topic": "Alkaline - No Emotions (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,252 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 94,090 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I0Ffs8UJTWA"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,300 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 23,792 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6f-Ied1w8T8"
   }
 ]
