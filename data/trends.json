@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7xbuo/steveo_really_knows_how_to_live_in_the_moment_lol/"
   },
   {
-    "topic": "Scary Movie 6 Trailer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q831b8/scary_movie_6_trailer/"
-  },
-  {
     "topic": "Hold on",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8hhwq/hold_on/"
+  },
+  {
+    "topic": "Scary Movie 6 Trailer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q831b8/scary_movie_6_trailer/"
   },
   {
     "topic": "How does this work?",
@@ -184,15 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,025,601 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 1,027,205 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
-  },
-  {
-    "topic": "I Wanna Test The Game",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 463,258 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=77X0ACsxb2o"
   }
 ]
