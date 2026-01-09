@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q831b8/scary_movie_6_trailer/"
   },
   {
-    "topic": "Thank you, Jimmy!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7rvos/thank_you_jimmy/"
-  },
-  {
     "topic": "Heavy Metal Fan Dance?",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8boaw/heavy_metal_fan_dance/"
+  },
+  {
+    "topic": "Thank you, Jimmy!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7rvos/thank_you_jimmy/"
   },
   {
     "topic": "How does this work?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q88v0k/eu_parliament_eyes_freezing_us_trade_deal_over/"
   },
   {
-    "topic": "Kyiv mayor calls on residents to leave capital as half of city's buildings have been left without heating after Russian attack",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q86lyd/kyiv_mayor_calls_on_residents_to_leave_capital_as/"
-  },
-  {
     "topic": "\u2018We are not for sale\u2019: chair of Greenland\u2019s top labor union rebukes Trump\u2019s call for annexation",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q89h7i/we_are_not_for_sale_chair_of_greenlands_top_labor/"
+  },
+  {
+    "topic": "Kyiv mayor calls on residents to leave capital as half of city's buildings have been left without heating after Russian attack",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q86lyd/kyiv_mayor_calls_on_residents_to_leave_capital_as/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88wu2/crimson_deserts_world_will_be_twice_as_big_as/"
   },
   {
-    "topic": "Bruno Mars - I Just Might [Official Music Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,819,950 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS /w cloakzy & HutchMF | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,002,958 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 1,006,661 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -200,31 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 348,393 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 366,648 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=77X0ACsxb2o"
-  },
-  {
-    "topic": "Golden",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 310,966 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rW2HmFDGdKs"
-  },
-  {
-    "topic": "Alkaline - No Emotions (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 109,394 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I0Ffs8UJTWA"
-  },
-  {
-    "topic": "Runny Eggs",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 28,830 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6f-Ied1w8T8"
   }
 ]
