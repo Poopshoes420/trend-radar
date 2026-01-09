@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Steve-O really knows how to live in the moment lol",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7xbuo/steveo_really_knows_how_to_live_in_the_moment_lol/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Steve-O really knows how to live in the moment lol",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7xbuo/steveo_really_knows_how_to_live_in_the_moment_lol/"
   },
   {
     "topic": "Thank you, Jimmy!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 971,366 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 977,055 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4sSj0_JE1vU"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,343,068 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 1,565,403 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8"
-  },
-  {
-    "topic": "YOU vs The RANK You \"Deserve\"... (Rainbow Six Siege)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 317,701 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wGiMeU9_Mis"
-  },
-  {
-    "topic": "My Neighbor Won't Let Me Leave... [Death On Holly Ridge]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 76,181 views \u2022 ~601m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3Eiou_6Bt7Y"
   },
   {
     "topic": "Alkaline - No Emotions (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,144 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 62,747 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I0Ffs8UJTWA"
+  },
+  {
+    "topic": "My Neighbor Won't Let Me Leave... [Death On Holly Ridge]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 79,623 views \u2022 ~651m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3Eiou_6Bt7Y"
+  },
+  {
+    "topic": "Runny Eggs",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 13,499 views \u2022 ~502m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6f-Ied1w8T8"
   }
 ]
