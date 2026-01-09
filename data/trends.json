@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Thank you, Jimmy!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7rvos/thank_you_jimmy/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -18,24 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7iwye/im_in_dept_hun/"
   },
   {
-    "topic": "The story just keeps getting crazier...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7cu2o/the_story_just_keeps_getting_crazier/"
-  },
-  {
-    "topic": "Closet so deep, it's in Narnia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7cfs1/closet_so_deep_its_in_narnia/"
-  },
-  {
     "topic": "Cycle of Adulthood",
     "sources": [
       "reddit"
@@ -45,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7pgjp/cycle_of_adulthood/"
   },
   {
-    "topic": "This sub in a nutshell",
+    "topic": "The story just keeps getting crazier...",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
-  },
-  {
-    "topic": "Youtube now tells you when the content is AI generated",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q7cu2o/the_story_just_keeps_getting_crazier/"
   },
   {
     "topic": "How the hell did multiple YouTubers get cancelled for saying the n word once but vanossgaming (who are mostly white) said it enough for there to be a compilation and yet they\u2019re still respected?",
@@ -72,6 +54,33 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7ox95/how_the_hell_did_multiple_youtubers_get_cancelled/"
   },
   {
+    "topic": "This sub in a nutshell",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7jsyf/this_sub_in_a_nutshell/"
+  },
+  {
+    "topic": "I do not infact watched super edgy videos or watched any drama and they still recommend me some weird garbage's",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7qu2r/i_do_not_infact_watched_super_edgy_videos_or/"
+  },
+  {
+    "topic": "Youtube now tells you when the content is AI generated",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6vfyj/youtube_now_tells_you_when_the_content_is_ai/"
+  },
+  {
     "topic": "YouTube: You Will (Not) Broadcast Yourself",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q7mkv8/youtube_you_will_not_broadcast_yourself/"
-  },
-  {
-    "topic": "I smell lies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q6in9o/i_smell_lies/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1414, Part 1 (Thread #1561)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q71nny/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Multiple Explosions in Venezuela\u2019s Capital Caracas (Thread #2)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q2ziek/rworldnews_live_thread_multiple_explosions_in/"
-  },
-  {
     "topic": "German president says US is destroying world order",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7dk6r/german_president_says_us_is_destroying_world_order/"
+  },
+  {
+    "topic": "'If it expires, it expires,' Trump tells NYT about US-Russia nuclear treaty",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q7t8y7/if_it_expires_it_expires_trump_tells_nyt_about/"
   },
   {
     "topic": "Macron: US is \u2018turning away\u2019 from allies",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7a7rg/the_excitement_of_opening_up_a_video_game_sure/"
   },
   {
+    "topic": "shoutout to being super young and exiting the game because of being too afraid or not knowing what to do and how to proceed.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7se6j/shoutout_to_being_super_young_and_exiting_the/"
+  },
+  {
     "topic": "Have we learned anything about Kingmakers? I think this game is fake. Especially for getting delayed the week before getting released in October and not having heard a thing about it since?",
     "sources": [
       "reddit"
@@ -162,45 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7q4w0/have_we_learned_anything_about_kingmakers_i_think/"
   },
   {
-    "topic": "The Sims is all about the little things...",
+    "topic": "Reality Check. If youre waiting for console prices to drop it is not happening anytime soon. Prices right now are probably the lowest theyll be for several years at least.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7cvss/the_sims_is_all_about_the_little_things/"
-  },
-  {
-    "topic": "The Game Business- Switch 2 sales stumble over Christmas",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7gv2y/the_game_business_switch_2_sales_stumble_over/"
-  },
-  {
-    "topic": "The Wrecking Crew \u2013 Official Trailer | Prime Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,600,385 views \u2022 ~598m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v8R0xDczERo"
-  },
-  {
-    "topic": "I Got Trained By a Minecraft Spear Master",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,376,859 views \u2022 ~597m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Wcgk8gEV334"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q7sncw/reality_check_if_youre_waiting_for_console_prices/"
   },
   {
     "topic": "have video game skins gone too far?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 350,414 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 580,107 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g6N4LDxGJ_w"
   },
   {
@@ -208,15 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,510 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 405,653 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IOPmtJgxznw"
+  },
+  {
+    "topic": "Roblox is SILENCING US..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 157,281 views \u2022 ~172m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dh9T3t2jEvo"
+  },
+  {
+    "topic": "Goodbye Roblox Chat \ud83e\udd40",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 284,113 views \u2022 ~410m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xsUxh409RYA"
+  },
+  {
+    "topic": "Street Fighter 6 - Alex Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 89,897 views \u2022 ~203m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uaGvmRTUUvU"
   },
   {
     "topic": "AVENGERS DOOMSDAY NEW TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,490 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 147,703 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jzxpx7pOkNM"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,069 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 175,000 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wQiz17AKhjM"
   },
   {
@@ -232,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,506 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 137,486 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ni_5EzwHkMI"
-  },
-  {
-    "topic": "AVENGERS: DOOMSDAY (2026) | Wakandans & Fantastic 4 Trailer | Marvel Comics | Concept",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 122,438 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bEUjyC3ODFU"
   },
   {
     "topic": "Good vs. Ice",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,557 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 97,246 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=El0CLduLgew"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,180 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 71,051 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cFNjrAmcoFc"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,247 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 52,081 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lddy8O3sxWA"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,802 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 41,280 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jSXkRPDGH3Y"
   }
 ]
