@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
   },
   {
-    "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
-  },
-  {
     "topic": "Particularly playlists",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9e1ti/particularly_playlists/"
+  },
+  {
+    "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
   },
   {
     "topic": "Homepage got blessed",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q97ejb/homepage_got_blessed/"
   },
   {
-    "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q94pba/cannot_be_shared_or_transferred_nobel_committee/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1416, Part 1 (Thread #1563)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u132/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q94pba/cannot_be_shared_or_transferred_nobel_committee/"
   },
   {
     "topic": "Nobel Institute says Peace Prize cannot be transferred after Machado suggestion",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q92ytq/arc_raiders_first_expedition_saw_over_a_million/"
   },
   {
-    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 554,181 views \u2022 ~204m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=urZ2C-9C73g"
-  },
-  {
     "topic": "The Prototype | Poppy Playtime Chapter 5 Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 469,283 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 518,417 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-poSVOan2fw"
+  },
+  {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 555,952 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=urZ2C-9C73g"
   },
   {
     "topic": "never trust your \"teammate\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 633,056 views \u2022 ~447m old",
+    "why": "Trending on YouTube \u2022 662,831 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EfhMEZbf5Yk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,698 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 43,409 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8H-Kl47Z7QA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,778 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 34,510 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3i3sLFJisEg"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 11,677 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 12,297 views \u2022 ~445m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg29ZjeYcS0"
   }
 ]
