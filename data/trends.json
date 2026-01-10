@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8szsr/youtube_removes_the_sort_by_upload_date_option/"
   },
   {
-    "topic": "Newest YouTube video to reach 1 billion views!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
-  },
-  {
     "topic": "Homepage got blessed",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q97ejb/homepage_got_blessed/"
+  },
+  {
+    "topic": "Newest YouTube video to reach 1 billion views!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
   },
   {
     "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
@@ -184,7 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,627,935 views \u2022 ~108m old",
+    "why": "Trending on YouTube \u2022 1,629,013 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yB0VFiknOZI"
+  },
+  {
+    "topic": "never trust your \"teammate\"",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 454,569 views \u2022 ~320m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EfhMEZbf5Yk"
+  },
+  {
+    "topic": "Bears-Packers wild card trailer | Bears Buzz | Chicago Bears",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,322 views \u2022 ~290m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xg29ZjeYcS0"
   }
 ]
