@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
   },
   {
-    "topic": "Youtube removes the \"Sort by Upload Date\" option pretending it didn't work, the reality? They want absolute control of the information you are allowed to get from the site",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8szsr/youtube_removes_the_sort_by_upload_date_option/"
-  },
-  {
     "topic": "Homepage got blessed",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q97ejb/homepage_got_blessed/"
   },
   {
-    "topic": "Newest YouTube video to reach 1 billion views!",
+    "topic": "Youtube removes the \"Sort by Upload Date\" option pretending it didn't work, the reality? They want absolute control of the information you are allowed to get from the site",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8szsr/youtube_removes_the_sort_by_upload_date_option/"
+  },
+  {
+    "topic": "Does anyone actually watch ads on youtube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q97pgt/does_anyone_actually_watch_ads_on_youtube/"
   },
   {
     "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q91wxc/benjamin_netanyahu_declares_aim_to_end_us/"
   },
   {
-    "topic": "'We Will Defend Greenland': Denmark Warns US Of 'Devastating' NATO War",
+    "topic": "Nobel Institute says Peace Prize cannot be transferred after Machado suggestion",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8tdxt/we_will_defend_greenland_denmark_warns_us_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9b3ey/nobel_institute_says_peace_prize_cannot_be/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,23 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,629,013 views \u2022 ~137m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yB0VFiknOZI"
+    "why": "Trending on YouTube \u2022 550,766 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=urZ2C-9C73g"
+  },
+  {
+    "topic": "The Prototype | Poppy Playtime Chapter 5 Cinematic Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 240,881 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-poSVOan2fw"
   },
   {
     "topic": "never trust your \"teammate\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 454,569 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 485,704 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EfhMEZbf5Yk"
+  },
+  {
+    "topic": "Poppy Playtime Chapter 5 Broken Things Trailer Just Dropped - Here's What We Found",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 21,149 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8H-Kl47Z7QA"
   },
   {
     "topic": "Bears-Packers wild card trailer | Bears Buzz | Chicago Bears",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,322 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 8,059 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg29ZjeYcS0"
   }
 ]
