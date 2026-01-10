@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8v35a/looks_like_the_christmas_cheer_is_over/"
   },
   {
-    "topic": "Newest YouTube video to reach 1 billion views!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
-  },
-  {
     "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
+  },
+  {
+    "topic": "Newest YouTube video to reach 1 billion views!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
   },
   {
     "topic": "Youtube removes the \"Sort by Upload Date\" option pretending it didn't work, the reality? They want absolute control of the information you are allowed to get from the site",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 725,739 views \u2022 ~92m old",
+    "why": "Trending on YouTube \u2022 736,168 views \u2022 ~117m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AvBPxvob8Mo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 540,047 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 540,057 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bk1t6eeySds"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 559,278 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 580,820 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gwUmmpBtxUc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 247,658 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 268,256 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k-ENJxX4lJ4"
   }
 ]
