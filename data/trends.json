@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q96174/over_the_course_of_hundreds_of_years_finely_tuned/"
   },
   {
-    "topic": "Pictures at an Exhibition",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8n3lc/pictures_at_an_exhibition/"
-  },
-  {
     "topic": "Nothing is impossible to me!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q99qtn/nothing_is_impossible_to_me/"
+  },
+  {
+    "topic": "Pictures at an Exhibition",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8n3lc/pictures_at_an_exhibition/"
   },
   {
     "topic": "Hating or thirsting",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
   },
   {
-    "topic": "How does this work?",
+    "topic": "Homepage got blessed",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q97ejb/homepage_got_blessed/"
   },
   {
     "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "In 2 days, anthem servers will permanently be shutting down.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9acea/in_2_days_anthem_servers_will_permanently_be/"
+  },
+  {
     "topic": "Before The Sims 4, There Was Sim\u2026 Everything.",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q92ytq/arc_raiders_first_expedition_saw_over_a_million/"
   },
   {
-    "topic": "Which game flopped so badly that the studio had to shut down?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q8sqem/which_game_flopped_so_badly_that_the_studio_had/"
-  },
-  {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,228,998 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 1,627,935 views \u2022 ~108m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yB0VFiknOZI"
   }
 ]
