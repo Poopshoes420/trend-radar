@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8fuqj/newest_youtube_video_to_reach_1_billion_views/"
   },
   {
-    "topic": "How does this work?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
-  },
-  {
     "topic": "One video made $1.5 million",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
+  },
+  {
+    "topic": "How does this work?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1416, Part 1 (Thread #1563)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u132/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "'We Will Defend Greenland': Denmark Warns US Of 'Devastating' NATO War",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8tdxt/we_will_defend_greenland_denmark_warns_us_of/"
-  },
-  {
     "topic": "Trump questions Denmark's claim to Greenland, saying \"the fact they had a boat land there 500 years ago doesn't mean that they own the land.\"",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q91tv5/trump_questions_denmarks_claim_to_greenland/"
+  },
+  {
+    "topic": "'We Will Defend Greenland': Denmark Warns US Of 'Devastating' NATO War",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8tdxt/we_will_defend_greenland_denmark_warns_us_of/"
   },
   {
     "topic": "US announces immediate military targeting of drug cartel infrastructure within Mexican territory",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Everything reminds me of her",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q92xj4/everything_reminds_me_of_her/"
-  },
-  {
     "topic": "Which game flopped so badly that the studio had to shut down?",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q91wcx/before_the_sims_4_there_was_sim_everything/"
   },
   {
+    "topic": "Arc Raiders' first Expedition saw over a million players wipe, but Embark wants to find new ways to \"incentivize\" resets",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q92ytq/arc_raiders_first_expedition_saw_over_a_million/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS /w cloakzy & HutchMF | #ShartInMyVicinitySoICanInhaleTheAroma | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 757,116 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 759,609 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AvBPxvob8Mo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 540,180 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 540,239 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bk1t6eeySds"
   }
 ]
