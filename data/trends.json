@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8my62/hating_or_thirsting/"
   },
   {
-    "topic": "Babysitting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8ivls/babysitting/"
-  },
-  {
     "topic": "Looks like the Christmas cheer is over!",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8v35a/looks_like_the_christmas_cheer_is_over/"
   },
   {
-    "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
+    "topic": "Babysitting",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8ivls/babysitting/"
   },
   {
     "topic": "One video made $1.5 million",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
+  },
+  {
+    "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
   },
   {
     "topic": "Youtube removes the \"Sort by Upload Date\" option pretending it didn't work, the reality? They want absolute control of the information you are allowed to get from the site",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u132/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump questions Denmark's claim to Greenland, saying \"the fact they had a boat land there 500 years ago doesn't mean that they own the land.\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q91tv5/trump_questions_denmarks_claim_to_greenland/"
-  },
-  {
     "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q94pba/cannot_be_shared_or_transferred_nobel_committee/"
+  },
+  {
+    "topic": "Trump questions Denmark's claim to Greenland, saying \"the fact they had a boat land there 500 years ago doesn't mean that they own the land.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q91tv5/trump_questions_denmarks_claim_to_greenland/"
   },
   {
     "topic": "\u2018We don\u2019t want to be Americans\u2019: Greenland\u2019s political parties hit back at Trump",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 763,408 views \u2022 ~368m old",
+    "why": "Trending on YouTube \u2022 765,940 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AvBPxvob8Mo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 540,271 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 540,342 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bk1t6eeySds"
   }
 ]
