@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9cw9a/that_cat_is_basically_me/"
   },
   {
-    "topic": "One video made $1.5 million",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
-  },
-  {
     "topic": "This subreddit be like:",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
+  },
+  {
+    "topic": "One video made $1.5 million",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
   },
   {
     "topic": "Particularly playlists",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u132/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q94pba/cannot_be_shared_or_transferred_nobel_committee/"
-  },
-  {
     "topic": "Nobel Institute says Peace Prize cannot be transferred after Machado suggestion",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9baev/ukraine_wins_18m_after_us_ammo_supplier_failed_to/"
+  },
+  {
+    "topic": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9eqva/there_wasnt_even_time_for_cpr_iran_medics/"
   },
   {
     "topic": "\u2018We don\u2019t want to be Americans\u2019: Greenland\u2019s political parties hit back at Trump",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,210,868 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 1,211,151 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9-bxPe_HlMs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 620,439 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 669,894 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-poSVOan2fw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 724,616 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 745,050 views \u2022 ~555m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EfhMEZbf5Yk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 391,682 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 404,986 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=T1uxixGmMzM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,504 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 182,760 views \u2022 ~280m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0i_fVDpQBJs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,073 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 98,000 views \u2022 ~252m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L73Gq8cNsdg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,124 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 81,827 views \u2022 ~250m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,902 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 55,377 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8H-Kl47Z7QA"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,589 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 47,327 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3i3sLFJisEg"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,629 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 23,040 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g2z-_AVWopI"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,173 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 14,959 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg29ZjeYcS0"
   }
 ]
