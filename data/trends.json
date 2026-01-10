@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
   },
   {
+    "topic": "This subreddit be like:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
+  },
+  {
     "topic": "Homepage got blessed",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8szsr/youtube_removes_the_sort_by_upload_date_option/"
-  },
-  {
-    "topic": "Does anyone actually watch ads on youtube?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q97pgt/does_anyone_actually_watch_ads_on_youtube/"
   },
   {
     "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u132/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "\u2018We don\u2019t want to be Americans\u2019: Greenland\u2019s political parties hit back at Trump",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9197k/we_dont_want_to_be_americans_greenlands_political/"
-  },
-  {
     "topic": "Nobel Institute says Peace Prize cannot be transferred after Machado suggestion",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9b3ey/nobel_institute_says_peace_prize_cannot_be/"
+  },
+  {
+    "topic": "\u2018We don\u2019t want to be Americans\u2019: Greenland\u2019s political parties hit back at Trump",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9197k/we_dont_want_to_be_americans_greenlands_political/"
   },
   {
     "topic": "Benjamin Netanyahu declares aim to end US military aid, wants Israel to be \u201cas independent as possible\u201d",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 552,386 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 552,626 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=urZ2C-9C73g"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,889 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 308,031 views \u2022 ~115m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-poSVOan2fw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 528,221 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 550,697 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EfhMEZbf5Yk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,915 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 26,821 views \u2022 ~114m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8H-Kl47Z7QA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,425 views \u2022 ~252m old",
+    "why": "Trending on YouTube \u2022 21,311 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3i3sLFJisEg"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,141 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 9,522 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg29ZjeYcS0"
   }
 ]
