@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Hating or thirsting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8my62/hating_or_thirsting/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Hating or thirsting",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q8my62/hating_or_thirsting/"
   },
   {
     "topic": "Pictures at an Exhibition",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
   },
   {
-    "topic": "What is the symbol next to the YouTube logo?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8ieeg/what_is_the_symbol_next_to_the_youtube_logo/"
-  },
-  {
     "topic": "Youtube removes the \"Sort by Upload Date\" option pretending it didn't work, the reality? They want absolute control of the information you are allowed to get from the site",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8szsr/youtube_removes_the_sort_by_upload_date_option/"
+  },
+  {
+    "topic": "What is the symbol next to the YouTube logo?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8ieeg/what_is_the_symbol_next_to_the_youtube_logo/"
   },
   {
     "topic": "Whoever decided to make 30 second unskippable ads deserves life in prison",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8tdxt/we_will_defend_greenland_denmark_warns_us_of/"
   },
   {
-    "topic": "Trump says he will meet Machado and would accept her Nobel Peace Prize after she offers it to him",
+    "topic": "US announces immediate military targeting of drug cartel infrastructure within Mexican territory",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8rgi8/trump_says_he_will_meet_machado_and_would_accept/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u0fx/us_announces_immediate_military_targeting_of_drug/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88nc4/larian_ceo_i_know_theres_been_a_lot_of_discussion/"
   },
   {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 526,604 views \u2022 ~117m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bk1t6eeySds"
+  },
+  {
     "topic": "ROBLOX RESPONDED",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 362,057 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 390,620 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gwUmmpBtxUc"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 507,365 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 523,760 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sYmmvuVSYUU"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 438,817 views \u2022 ~548m old",
+    "why": "Trending on YouTube \u2022 459,481 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aiuSB3ghFA8"
   },
   {
@@ -208,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 381,746 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 399,682 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u9rdzKwhxhI"
-  },
-  {
-    "topic": "Playing This After A Lady Won Big On It",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 225,884 views \u2022 ~648m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SXZg71-1D4E"
   },
   {
     "topic": "This Game Made Me Lose My Mind\u2026 (Fever Meme)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,775 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 168,080 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k-ENJxX4lJ4"
+  },
+  {
+    "topic": "Playing This After A Lady Won Big On It",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 232,256 views \u2022 ~671m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SXZg71-1D4E"
   },
   {
     "topic": "Polo G - 95 Bulls (feat. King Von) (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 183,616 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 187,732 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HuAfl76f7y4"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,693 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 97,097 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nUOvVVjwqJ8"
   }
 ]
