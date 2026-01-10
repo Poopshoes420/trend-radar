@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8szsr/youtube_removes_the_sort_by_upload_date_option/"
   },
   {
-    "topic": "How does this work?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
-  },
-  {
     "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
+  },
+  {
+    "topic": "How does this work?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q88a60/how_does_this_work/"
   },
   {
     "topic": "What is the symbol next to the YouTube logo?",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q88nc4/larian_ceo_i_know_theres_been_a_lot_of_discussion/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS /w cloakzy & HutchMF | #ShartInMyVicinitySoICanInhaleTheAroma | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 685,889 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AvBPxvob8Mo"
+  },
+  {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 539,963 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 539,990 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bk1t6eeySds"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 525,790 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 540,279 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gwUmmpBtxUc"
   },
   {
@@ -200,15 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,924 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 238,397 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k-ENJxX4lJ4"
-  },
-  {
-    "topic": "The Game Based On An Actual Serial Killer?",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 151,426 views \u2022 ~489m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E24j9_Sd5zk"
   }
 ]
