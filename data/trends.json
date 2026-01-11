@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9tk6r/i_guess_he_got_too_excited/"
   },
   {
-    "topic": "A water fountain gifted by someone named Sippy",
+    "topic": "Cat found his kink",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9f7zf/a_water_fountain_gifted_by_someone_named_sippy/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9r96r/cat_found_his_kink/"
   },
   {
     "topic": "How does people make this kind of thumbnails?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1417, Part 1 (Thread #1564)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "UK in talks to deploy NATO force to Greenland to deter Trump",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9vrvf/uk_in_talks_to_deploy_nato_force_to_greenland_to/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1417, Part 1 (Thread #1564)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 792,506 views \u2022 ~90m old",
+    "why": "Trending on YouTube \u2022 794,710 views \u2022 ~107m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 359,771 views \u2022 ~548m old",
+    "why": "Trending on YouTube \u2022 365,729 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o21ePfJRYg8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 212,814 views \u2022 ~671m old",
+    "why": "Trending on YouTube \u2022 215,416 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xiGs2UqDLgk"
   }
 ]
