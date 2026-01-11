@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
   },
   {
+    "topic": "Half of all posts on this subreddit right now.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
+  },
+  {
     "topic": "This subreddit be like:",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
-  },
-  {
-    "topic": "Has anyone else encountered this YouTube channel?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ehei/has_anyone_else_encountered_this_youtube_channel/"
   },
   {
     "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 819,000 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 822,871 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   }
 ]
