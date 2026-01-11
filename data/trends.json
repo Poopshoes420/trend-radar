@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9md8j/how_does_people_make_this_kind_of_thumbnails/"
   },
   {
-    "topic": "Can't be more true",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
-  },
-  {
     "topic": "Half of all posts on this subreddit right now.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
+  },
+  {
+    "topic": "Can't be more true",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
   },
   {
     "topic": "what was the first ever video you recall watching",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Which game did you regret purchasing at full price?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
-  },
-  {
     "topic": "A Now-Patched Arc Raiders Exploit Put The Game In First-Person Mode",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qa43w7/a_nowpatched_arc_raiders_exploit_put_the_game_in/"
+  },
+  {
+    "topic": "Which game did you regret purchasing at full price?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
   },
   {
     "topic": "Attacks on Kingdom Come: Deliverance for gay romance, representation 'only mattered to a handful of terminally online culture warriors,' reckons KCD2's exec producer, and probably didn't impact the games' reception",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 837,911 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 839,811 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 540,597 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 565,763 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jPgqIuN73Vg"
   }
 ]
