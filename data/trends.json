@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9k394/walking_in_amsterdam_right_now/"
   },
   {
-    "topic": "My Label printer privileges should be taken away from me.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9n3ln/my_label_printer_privileges_should_be_taken_away/"
-  },
-  {
     "topic": "I guess he got too excited",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9tk6r/i_guess_he_got_too_excited/"
   },
   {
-    "topic": "Cat found his kink",
+    "topic": "My Label printer privileges should be taken away from me.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9r96r/cat_found_his_kink/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9n3ln/my_label_printer_privileges_should_be_taken_away/"
+  },
+  {
+    "topic": "Starlink horse v/s Jammer donkey",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9woih/starlink_horse_vs_jammer_donkey/"
   },
   {
     "topic": "How does people make this kind of thumbnails?",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
   },
   {
-    "topic": "Has anyone else encountered this YouTube channel?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ehei/has_anyone_else_encountered_this_youtube_channel/"
-  },
-  {
     "topic": "Can't be more true",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
+  },
+  {
+    "topic": "Has anyone else encountered this YouTube channel?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ehei/has_anyone_else_encountered_this_youtube_channel/"
   },
   {
     "topic": "UK in talks to deploy NATO force to Greenland to deter Trump",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9x6mc/trump_asked_us_special_forces_to_plan_greenland/"
+  },
+  {
     "topic": "Israel on high alert for possibility of US intervention in Iran, sources say",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9ikvs/us_warns_americans_to_leave_venezuela_immediately/"
-  },
-  {
-    "topic": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9o3jp/death_toll_grows_as_nationwide_protests_rock_iran/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 797,059 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 801,004 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,15 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 371,703 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 388,198 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o21ePfJRYg8"
-  },
-  {
-    "topic": "I Finally Played Iron Lung Before The Movie...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 218,231 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xiGs2UqDLgk"
   }
 ]
