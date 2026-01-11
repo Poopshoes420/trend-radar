@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Walking in Amsterdam right now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9k394/walking_in_amsterdam_right_now/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -7,24 +16,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
-    "topic": "Over the course of hundreds of years, finely tuned hunting instincts characterize why hunters love beagles...I think mine is broken",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q96174/over_the_course_of_hundreds_of_years_finely_tuned/"
-  },
-  {
-    "topic": "Nothing is impossible to me!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q99qtn/nothing_is_impossible_to_me/"
   },
   {
     "topic": "A water fountain gifted by someone named Sippy",
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9f7zf/a_water_fountain_gifted_by_someone_named_sippy/"
   },
   {
-    "topic": "The best time to order is closing time!",
+    "topic": "Nothing is impossible to me!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9ihuo/the_best_time_to_order_is_closing_time/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q99qtn/nothing_is_impossible_to_me/"
+  },
+  {
+    "topic": "Over the course of hundreds of years, finely tuned hunting instincts characterize why hunters love beagles...I think mine is broken",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q96174/over_the_course_of_hundreds_of_years_finely_tuned/"
   },
   {
     "topic": "This subreddit be like:",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
   },
   {
-    "topic": "One video made $1.5 million",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
-  },
-  {
     "topic": "Has anyone else encountered this YouTube channel?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ehei/has_anyone_else_encountered_this_youtube_channel/"
+  },
+  {
+    "topic": "One video made $1.5 million",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
   },
   {
     "topic": "Particularly playlists",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9e1ti/particularly_playlists/"
   },
   {
-    "topic": "I got a 1 minute 35 seconds unskippale ad....this has to be done",
+    "topic": "GUYS WE GET IT. THERES A VERY LONG VIDEO. WE GET IT PLEASE.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q8vfhy/i_got_a_1_minute_35_seconds_unskippale_adthis_has/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1416, Part 1 (Thread #1563)",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q8u132/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US used powerful sonic weapon in Venezuela during raid to capture Maduro: \"We all started bleeding from the nose. Some were vomiting blood. We fell to the ground, unable to move.\"",
+    "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9i8wp/us_used_powerful_sonic_weapon_in_venezuela_during/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9ikvs/us_warns_americans_to_leave_venezuela_immediately/"
   },
   {
     "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
@@ -184,71 +184,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,064,468 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 2,109,558 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-JljYMGebyw"
-  },
-  {
-    "topic": "STEAL A BRAINROT ADMIN ABUSE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,563,644 views \u2022 ~168m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=no-r8J1rymM"
-  },
-  {
-    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,213,336 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9-bxPe_HlMs"
-  },
-  {
-    "topic": "Dueling SAMMY!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 645,819 views \u2022 ~156m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XSEWdf2yLb4"
   },
   {
     "topic": "Minecraft Speedrunner VS 4 Hunters REVIVAL",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 478,126 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 920,288 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ejJzoB2J--U"
-  },
-  {
-    "topic": "Spending $8,589,659 For The CERBERUS In Steal A Brainrot!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 506,815 views \u2022 ~158m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JOj5zJ-8nnk"
   },
   {
     "topic": "The Prototype | Poppy Playtime Chapter 5 Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 806,539 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 1,100,602 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-poSVOan2fw"
   },
   {
-    "topic": "never trust your \"teammate\"",
+    "topic": "Dueling SAMMY!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 799,515 views \u2022 ~626m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EfhMEZbf5Yk"
+    "why": "Trending on YouTube \u2022 661,560 views \u2022 ~314m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XSEWdf2yLb4"
+  },
+  {
+    "topic": "OpTic TEXAS VS FAZE VEGAS!! SCUMP WATCH PARTY - CDL MAJOR 1 QUALIFIERS WEEK 3",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 213,491 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=o0nPp9HigHc"
+  },
+  {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 387,762 views \u2022 ~224m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ot5Y1XzcaFg"
+  },
+  {
+    "topic": "Game Theory: Did the FNAF 2 Movie FINALLY Solve the Timeline?",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 312,175 views \u2022 ~509m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0i_fVDpQBJs"
   },
   {
     "topic": "POPPY PLAYTIME CHAPTER 5 RELEASE DATE!! [The Prototype Cinematic Trailer Reaction]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 130,829 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 196,606 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L73Gq8cNsdg"
   },
   {
@@ -256,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,267 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 151,591 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
+  },
+  {
+    "topic": "Marvel Finally Gives Up",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 51,465 views \u2022 ~235m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aMquCKF5yk4"
   },
   {
     "topic": "THE PROTOTYPE IS FINALLY HERE.. - Poppy Playtime Chapter 5 Broken Things TRAILER",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,258 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 84,886 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8H-Kl47Z7QA"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,950 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 82,053 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3i3sLFJisEg"
   },
   {
@@ -280,15 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,735 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 42,706 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g2z-_AVWopI"
-  },
-  {
-    "topic": "Bears-Packers wild card trailer | Bears Buzz | Chicago Bears",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 16,533 views \u2022 ~595m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Xg29ZjeYcS0"
   }
 ]
