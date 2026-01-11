@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
   },
   {
-    "topic": "How does people make this kind of thumbnails?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9md8j/how_does_people_make_this_kind_of_thumbnails/"
-  },
-  {
     "topic": "Can't be more true",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
+  },
+  {
+    "topic": "How does people make this kind of thumbnails?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9md8j/how_does_people_make_this_kind_of_thumbnails/"
   },
   {
     "topic": "what was the first ever video you recall watching",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qa43w7/a_nowpatched_arc_raiders_exploit_put_the_game_in/"
   },
   {
-    "topic": "Which game did you regret purchasing at full price?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
-  },
-  {
     "topic": "One is a simple creature who thinks they are superior to humanity, the other is a super mutant.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qa5dqj/one_is_a_simple_creature_who_thinks_they_are/"
   },
   {
+    "topic": "Which game did you regret purchasing at full price?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS /w cloakzy & HutchMF | SLUR SATURDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 843,797 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 849,090 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 318,466 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 356,532 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4eCR9fR2dhU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,840 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 44,515 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MMbCcZ_oa2M"
   }
 ]
