@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
   },
   {
-    "topic": "GUYS WE GET IT. THERES A VERY LONG VIDEO. WE GET IT PLEASE.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
-  },
-  {
     "topic": "what was the first ever video you recall watching",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
+  },
+  {
+    "topic": "GUYS WE GET IT. THERES A VERY LONG VIDEO. WE GET IT PLEASE.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
   },
   {
     "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa335j/nobel_institute_rejects_mar\u00eda_corina_machados/"
   },
   {
-    "topic": "Ukrainian intelligence sources report kidney failure in Chechen leader Kadyrov, media say",
+    "topic": "Nordics reject Trump's claim of Chinese and Russian ships around Greenland, FT reports",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9xykc/ukrainian_intelligence_sources_report_kidney/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa1wa8/nordics_reject_trumps_claim_of_chinese_and/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Why do i play only singleplayers games? It's a peaceful life...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qa28nz/why_do_i_play_only_singleplayers_games_its_a/"
-  },
-  {
     "topic": "Which game did you regret purchasing at full price?",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
+  },
+  {
+    "topic": "A Now-Patched Arc Raiders Exploit Put The Game In First-Person Mode",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qa43w7/a_nowpatched_arc_raiders_exploit_put_the_game_in/"
   },
   {
     "topic": "Attacks on Kingdom Come: Deliverance for gay romance, representation 'only mattered to a handful of terminally online culture warriors,' reckons KCD2's exec producer, and probably didn't impact the games' reception",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 833,662 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 837,911 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,581 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 540,597 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jPgqIuN73Vg"
   }
 ]
