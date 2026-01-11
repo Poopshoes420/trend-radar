@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
   },
   {
-    "topic": "Can't be more true",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
-  },
-  {
     "topic": "what was the first ever video you recall watching",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
+  },
+  {
+    "topic": "Can't be more true",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
   },
   {
     "topic": "How does people make this kind of thumbnails?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 727,628 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 728,648 views \u2022 ~143m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kSOlDyyy4cw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 751,802 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 788,471 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jPgqIuN73Vg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 854,422 views \u2022 ~574m old",
+    "why": "Trending on YouTube \u2022 857,943 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 393,535 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 416,264 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4eCR9fR2dhU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,997 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 57,088 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MMbCcZ_oa2M"
   }
 ]
