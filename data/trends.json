@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9md8j/how_does_people_make_this_kind_of_thumbnails/"
   },
   {
-    "topic": "This subreddit be like:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
-  },
-  {
     "topic": "GUYS WE GET IT. THERES A VERY LONG VIDEO. WE GET IT PLEASE.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
+  },
+  {
+    "topic": "This subreddit be like:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
   },
   {
     "topic": "Has anyone else encountered this YouTube channel?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1417, Part 1 (Thread #1564)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Reports claim at least 2,000 people were killed in Iran Protests over the past 48 hours",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9qc85/reports_claim_at_least_2000_people_were_killed_in/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1417, Part 1 (Thread #1564)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9o3jp/death_toll_grows_as_nationwide_protests_rock_iran/"
   },
   {
-    "topic": "'Cannot be shared, or transferred': Nobel Committee shuts doors on Trump's 'will accept Prize from Machado' remark",
+    "topic": "Ukraine wins $18M after US ammo supplier failed to deliver shells despite full prepayment",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q94pba/cannot_be_shared_or_transferred_nobel_committee/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9baev/ukraine_wins_18m_after_us_ammo_supplier_failed_to/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,145,697 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 2,149,874 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-JljYMGebyw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,595,385 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 1,680,276 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ejJzoB2J--U"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 389,760 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 389,780 views \u2022 ~485m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ot5Y1XzcaFg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,166 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 188,112 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o21ePfJRYg8"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,715 views \u2022 ~443m old",
+    "why": "Trending on YouTube \u2022 185,421 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dj0XaTxb8EA"
-  },
-  {
-    "topic": "POPPY PLAYTIME CHAPTER 5 RELEASE DATE!! [The Prototype Cinematic Trailer Reaction]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 263,019 views \u2022 ~710m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L73Gq8cNsdg"
   },
   {
     "topic": "Dream - Minecraft Manhunt Extra Scenes (4 Hunters REVIVAL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 153,685 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 163,876 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K3gvQ2u6k_4"
   },
   {
@@ -240,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 118,799 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 129,673 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xiGs2UqDLgk"
-  },
-  {
-    "topic": "Chapter 5's NEWEST Trailer Is WILD...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 197,443 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g-4J2X5dNG4"
   },
   {
     "topic": "Marvel Finally Gives Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,501 views \u2022 ~465m old",
+    "why": "Trending on YouTube \u2022 103,957 views \u2022 ~496m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aMquCKF5yk4"
   }
 ]
