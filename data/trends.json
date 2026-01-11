@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Harley rider in line at burger joint",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qa1cqh/harley_rider_in_line_at_burger_joint/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qa2hhv/what_kind_of_cat_is_this/"
+  },
+  {
+    "topic": "[OC] Makes no sense",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qa2di5/oc_makes_no_sense/"
   },
   {
     "topic": "I guess he got too excited",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
   },
   {
-    "topic": "This subreddit be like:",
+    "topic": "what was the first ever video you recall watching",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
   },
   {
     "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9vrvf/uk_in_talks_to_deploy_nato_force_to_greenland_to/"
   },
   {
-    "topic": "Ukrainian intelligence sources report kidney failure in Chechen leader Kadyrov, media say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9xykc/ukrainian_intelligence_sources_report_kidney/"
-  },
-  {
     "topic": "Nobel Institute rejects Mar\u00eda Corina Machado\u2019s offer to share peace prize with Trump | Nobel peace prize",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa335j/nobel_institute_rejects_mar\u00eda_corina_machados/"
+  },
+  {
+    "topic": "Ukrainian intelligence sources report kidney failure in Chechen leader Kadyrov, media say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9xykc/ukrainian_intelligence_sources_report_kidney/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 830,857 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 833,662 views \u2022 ~445m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 459,584 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 492,581 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jPgqIuN73Vg"
   }
 ]
