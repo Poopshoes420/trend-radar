@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9n3ln/my_label_printer_privileges_should_be_taken_away/"
   },
   {
-    "topic": "Starlink horse v/s Jammer donkey",
+    "topic": "Social cues",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9woih/starlink_horse_vs_jammer_donkey/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9xcdo/social_cues/"
   },
   {
     "topic": "How does people make this kind of thumbnails?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9meul/guys_we_get_it_theres_a_very_long_video_we_get_it/"
   },
   {
-    "topic": "This subreddit be like:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
-  },
-  {
     "topic": "Can't be more true",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
+  },
+  {
+    "topic": "This subreddit be like:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9cey3/this_subreddit_be_like/"
   },
   {
     "topic": "Has anyone else encountered this YouTube channel?",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ehei/has_anyone_else_encountered_this_youtube_channel/"
   },
   {
-    "topic": "UK in talks to deploy NATO force to Greenland to deter Trump",
+    "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9vrvf/uk_in_talks_to_deploy_nato_force_to_greenland_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9x6mc/trump_asked_us_special_forces_to_plan_greenland/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1417, Part 1 (Thread #1564)",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
+    "topic": "UK in talks to deploy NATO force to Greenland to deter Trump",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9x6mc/trump_asked_us_special_forces_to_plan_greenland/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9vrvf/uk_in_talks_to_deploy_nato_force_to_greenland_to/"
   },
   {
     "topic": "Israel on high alert for possibility of US intervention in Iran, sources say",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 801,004 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 806,471 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 388,198 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 413,222 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o21ePfJRYg8"
   }
 ]
