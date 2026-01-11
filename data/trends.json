@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9xcdo/social_cues/"
   },
   {
-    "topic": "Glad he's promoting healthy eating at my local sandwichshop. [OC]",
+    "topic": "US bobsled team took a tumble today",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qactfz/glad_hes_promoting_healthy_eating_at_my_local/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
   },
   {
     "topic": "Half of all posts on this subreddit right now.",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa335j/nobel_institute_rejects_mar\u00eda_corina_machados/"
   },
   {
-    "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9x6mc/trump_asked_us_special_forces_to_plan_greenland/"
-  },
-  {
     "topic": "Nordics reject Trump's claim of Chinese and Russian ships around Greenland, FT reports",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa1wa8/nordics_reject_trumps_claim_of_chinese_and/"
+  },
+  {
+    "topic": "Trump asked US special forces to plan Greenland invasion, faces resistance from military generals: Report",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9x6mc/trump_asked_us_special_forces_to_plan_greenland/"
   },
   {
     "topic": "UK in talks to deploy NATO force to Greenland to deter Trump",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 733,103 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 733,145 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kSOlDyyy4cw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 273,758 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 294,563 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4dM_giXusZY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 896,064 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 898,831 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jPgqIuN73Vg"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 563,076 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 572,363 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4eCR9fR2dhU"
+  },
+  {
+    "topic": "I Cheated In DUELS To Steal Her Strawberry Elephant In Steal A Brianrot...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 201,518 views \u2022 ~514m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aw7I4_UYpqY"
   },
   {
     "topic": "AVENGERS: DOOMSDAY (2026) | Fantastic 4 & Wakandans Trailer | Marvel Comics | Concept",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,716 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 95,236 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MMbCcZ_oa2M"
   },
   {
@@ -224,7 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,394 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 69,196 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oGI1gaLiW-U"
+  },
+  {
+    "topic": "So, About These Avengers Doomsday Teasers\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 34,561 views \u2022 ~250m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Vb830egWjrw"
   }
 ]
