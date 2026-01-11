@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9ikvs/us_warns_americans_to_leave_venezuela_immediately/"
-  },
-  {
     "topic": "Israel on high alert for possibility of US intervention in Iran, sources say",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9swqo/israel_on_high_alert_for_possibility_of_us/"
+  },
+  {
+    "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9ikvs/us_warns_americans_to_leave_venezuela_immediately/"
   },
   {
     "topic": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9gm63/attacks_on_kingdom_come_deliverance_for_gay/"
   },
   {
-    "topic": "Games don\u2019t need to be \u201cforever games.\u201d",
+    "topic": "Which game did you regret purchasing at full price?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9fv6a/games_dont_need_to_be_forever_games/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
   },
   {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS /w cloakzy & HutchMF | SLUR SATURDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 794,710 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 797,059 views \u2022 ~119m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 365,729 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 371,703 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o21ePfJRYg8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,416 views \u2022 ~688m old",
+    "why": "Trending on YouTube \u2022 218,231 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xiGs2UqDLgk"
   }
 ]
