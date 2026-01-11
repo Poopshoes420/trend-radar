@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Social cues",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9xcdo/social_cues/"
-  },
-  {
     "topic": "[OC] Makes no sense",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qa2di5/oc_makes_no_sense/"
+  },
+  {
+    "topic": "Social cues",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1q9xcdo/social_cues/"
   },
   {
     "topic": "What kind of cat is this?",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9nf7h/which_game_did_you_regret_purchasing_at_full_price/"
   },
   {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 699,476 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kSOlDyyy4cw"
+  },
+  {
+    "topic": "Nari Nari Naduma Murari Trailer | Sharwanand | Samyuktha | Sakshi Vaidya",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 715,364 views \u2022 ~418m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jPgqIuN73Vg"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS /w cloakzy & HutchMF | SLUR SATURDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 849,090 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 850,975 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 356,532 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 371,247 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4eCR9fR2dhU"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,515 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 47,335 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MMbCcZ_oa2M"
   }
 ]
