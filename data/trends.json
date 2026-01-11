@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ehei/has_anyone_else_encountered_this_youtube_channel/"
   },
   {
-    "topic": "One video made $1.5 million",
+    "topic": "Can't be more true",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q92mag/one_video_made_15_million/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1417, Part 1 (Thread #1564)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9pb0q/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9ikvs/us_warns_americans_to_leave_venezuela_immediately/"
-  },
-  {
     "topic": "UK in talks to deploy NATO force to Greenland to deter Trump",
     "sources": [
       "reddit"
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9vrvf/uk_in_talks_to_deploy_nato_force_to_greenland_to/"
   },
   {
-    "topic": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+    "topic": "US warns Americans to leave Venezuela immediately as armed militias set up roadblocks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9o3jp/death_toll_grows_as_nationwide_protests_rock_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9ikvs/us_warns_americans_to_leave_venezuela_immediately/"
   },
   {
     "topic": "Israel on high alert for possibility of US intervention in Iran, sources say",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9swqo/israel_on_high_alert_for_possibility_of_us/"
+  },
+  {
+    "topic": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1q9o3jp/death_toll_grows_as_nationwide_protests_rock_iran/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 781,594 views \u2022 ~65m old",
+    "why": "Trending on YouTube \u2022 792,506 views \u2022 ~90m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzBmfPFvDxQ"
   },
   {
@@ -192,31 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 343,287 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 359,771 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o21ePfJRYg8"
-  },
-  {
-    "topic": "Quarantine Zone (FULL GAME PART 1)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 339,885 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dj0XaTxb8EA"
   },
   {
     "topic": "I Finally Played Iron Lung Before The Movie...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 207,432 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 212,814 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xiGs2UqDLgk"
-  },
-  {
-    "topic": "The Amazing Digital Wonderland [OFFICIAL TRAILER]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 153,154 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=w0jR_D64Rs4"
   }
 ]
