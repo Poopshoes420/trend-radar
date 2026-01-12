@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "US bobsled team took a tumble today",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
-  },
-  {
     "topic": "My 8yr old niece painted this in art class",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qah3q6/my_8yr_old_niece_painted_this_in_art_class/"
+  },
+  {
+    "topic": "US bobsled team took a tumble today",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
   },
   {
     "topic": "What kind of cat is this?",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
   },
   {
-    "topic": "Am I the only one who gets horny bait/Cute bait/anime girls after YouTube can't find you a relevant video?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa9ecu/am_i_the_only_one_who_gets_horny_baitcute/"
-  },
-  {
     "topic": "A youtuber accidentally doxxed themself on stream- should I do something?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qahgca/a_youtuber_accidentally_doxxed_themself_on_stream/"
+  },
+  {
+    "topic": "Am I the only one who gets horny bait/Cute bait/anime girls after YouTube can't find you a relevant video?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa9ecu/am_i_the_only_one_who_gets_horny_baitcute/"
   },
   {
     "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
@@ -126,22 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qah66t/iranian_student_killed_during_protests_was_shot/"
   },
   {
-    "topic": "Nobel Institute rejects Mar\u00eda Corina Machado\u2019s offer to share peace prize with Trump | Nobel peace prize",
+    "topic": "\u2018The streets are full of blood\u2019: Iranian protests gather momentum as regime cracks down",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa335j/nobel_institute_rejects_mar\u00eda_corina_machados/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qagh64/the_streets_are_full_of_blood_iranian_protests/"
   },
   {
-    "topic": "Amy Poehler has won the first ever Golden Globe for Best Podcast for \u2018Good Hang with Amy Poehler\u2019 at the 83rd Annual Golden Globes Awards: \"This is exactly how I pictured it: Snoop Dogg giving me the award. I don't know about award shows, but when they get it right it makes sense\" (January 11, 2026)",
+    "topic": "\u201cThis is for her,\u201d Mark Ruffalo said on the #GoldenGlobes red carpet about his \u201cBe Good\u201d pin \u201cThis is for the people in the United States who are terrorized and scared today. I know I\u2019m one of them. I love this country and what I\u2019m seeing here happening is not America,\u201d he said.",
     "sources": [
       "reddit"
     ],
     "subreddit": "popculturechat",
     "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qaiau4/amy_poehler_has_won_the_first_ever_golden_globe/"
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qakm4b/this_is_for_her_mark_ruffalo_said_on_the/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 702,697 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 736,532 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4dM_giXusZY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 344,935 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 384,219 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4Hm1UE8zLo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,526 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 191,728 views \u2022 ~307m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MKWjM8heLWU"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,410 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 217,326 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=49dmut_Tpv0"
+  },
+  {
+    "topic": "If You Blink, Your Life Changes - Goodnight Universe [Full Game]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 175,815 views \u2022 ~715m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ub-gsF1zFTE"
   },
   {
     "topic": "MAX REACTS: Street Fighter 6 Alex Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,191 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 76,695 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8JURytJrjWc"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,124 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 81,550 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vb830egWjrw"
   }
 ]
