@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
   },
   {
-    "topic": "Mom plays a prank on her daughter",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qanigg/mom_plays_a_prank_on_her_daughter/"
-  },
-  {
     "topic": "When the dream is bigger than Bank Account",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qarq9z/when_the_dream_is_bigger_than_bank_account/"
+  },
+  {
+    "topic": "Mom plays a prank on her daughter",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qanigg/mom_plays_a_prank_on_her_daughter/"
   },
   {
     "topic": "Can we at least agree that ads shouldn\u2019t be on videos that may save someone?",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qasxyb/can_we_at_least_agree_that_ads_shouldnt_be_on/"
   },
   {
-    "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
-  },
-  {
     "topic": "Every Short Video Ever......",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qast3a/every_short_video_ever/"
+  },
+  {
+    "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
   },
   {
     "topic": "A youtuber accidentally doxxed themself on stream- should I do something?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
   },
   {
-    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1418, Part 1 (Thread #1565)",
     "sources": [
       "reddit"
@@ -108,22 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qaksj8/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "EU weighs replacing US troops with unified European army",
+    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qafj2k/eu_weighs_replacing_us_troops_with_unified/"
-  },
-  {
-    "topic": "Iranian student killed during protests was shot in head \u2018from close range\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qah66t/iranian_student_killed_during_protests_was_shot/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
   },
   {
     "topic": "Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes",
@@ -135,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qati77/grok_ai_malaysia_and_indonesia_block_x_chatbot/"
   },
   {
-    "topic": "\u201cThis is for her,\u201d Mark Ruffalo said on the #GoldenGlobes red carpet about his \u201cBe Good\u201d pin \u201cThis is for the people in the United States who are terrorized and scared today. I know I\u2019m one of them. I love this country and what I\u2019m seeing here happening is not America,\u201d he said.",
+    "topic": "EU weighs replacing US troops with unified European army",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qakm4b/this_is_for_her_mark_ruffalo_said_on_the/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qafj2k/eu_weighs_replacing_us_troops_with_unified/"
+  },
+  {
+    "topic": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qatlyo/uk_developing_ballistic_missiles_for_ukraine/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,24 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "The developers of PEAK explain pricing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qat87t/the_developers_of_peak_explain_pricing/"
-  },
-  {
-    "topic": "Steam wishlists",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qatj8n/steam_wishlists/"
-  },
-  {
     "topic": "Took over ten years, but I finaly hit 3 million steps today!",
     "sources": [
       "reddit"
@@ -180,11 +153,38 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qac0af/took_over_ten_years_but_i_finaly_hit_3_million/"
   },
   {
+    "topic": "Stellar Blade studio Shift Up has gifted all its staff $3,400, AirPods Max and an Apple Watch | VGC",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qaulb2/stellar_blade_studio_shift_up_has_gifted_all_its/"
+  },
+  {
+    "topic": "11 Years later, Rise of the Tomb Raider still looks incredible.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qab0u4/11_years_later_rise_of_the_tomb_raider_still/"
+  },
+  {
+    "topic": "The way I play games ruins the fun for my friends",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qatams/the_way_i_play_games_ruins_the_fun_for_my_friends/"
+  },
+  {
     "topic": "Infected or Not? (world record)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 443,009 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 443,430 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,056 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 34,880 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   }
 ]
