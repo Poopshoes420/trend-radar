@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb2g65/greenland_says_it_should_be_defended_by_nato/"
   },
   {
-    "topic": "Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qati77/grok_ai_malaysia_and_indonesia_block_x_chatbot/"
-  },
-  {
     "topic": "Russian air defence systems in Venezuela were not connected to radars during US operation \u2013 NYT",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb14za/russian_air_defence_systems_in_venezuela_were_not/"
+  },
+  {
+    "topic": "Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qati77/grok_ai_malaysia_and_indonesia_block_x_chatbot/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qac0af/took_over_ten_years_but_i_finaly_hit_3_million/"
   },
   {
+    "topic": "Mardaani 3 | Official Trailer | Rani Mukerji | Abhiraj Minawala | Releasing 30 Jan 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,928,947 views \u2022 ~674m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=V4TJKSEftkU"
+  },
+  {
     "topic": "ONE PIECE: Season 2 | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 474,736 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 509,826 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OBDJgW-TJKc"
   },
   {
@@ -192,55 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 573,895 views \u2022 ~352m old",
+    "why": "Trending on YouTube \u2022 600,232 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP_vzHICa4I"
-  },
-  {
-    "topic": "This is a British propaganda game..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 423,667 views \u2022 ~387m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qByLpjxeNv8"
   },
   {
     "topic": "A$AP ROCKY - HELICOPTER (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,343 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 195,078 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g1-46Nu3HxQ"
   },
   {
-    "topic": "Infected or Not? (world record)",
+    "topic": "This is a British propaganda game..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 444,603 views \u2022 ~469m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
+    "why": "Trending on YouTube \u2022 441,652 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qByLpjxeNv8"
   },
   {
     "topic": "Lee Cronin\u2019s The Mummy | Official Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,678 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 69,264 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pbn1yz2p0CU"
-  },
-  {
-    "topic": "HoneyKomb Brazy - I Remember (Official Music Video) Shot By The Director Frazier",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 87,122 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
     "topic": "Palworld Official Card Game - Official Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,021 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 42,437 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   }
 ]
