@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qast3a/every_short_video_ever/"
   },
   {
-    "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
-  },
-  {
     "topic": "Yes YouTube I absolutely wanted to see this",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
+  },
+  {
+    "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
   },
   {
     "topic": "A youtuber accidentally doxxed themself on stream- should I do something?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 445,019 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 445,053 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,037 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 53,858 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
@@ -200,7 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,496 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 24,390 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
+  },
+  {
+    "topic": "Runny Eggs (Acoustic)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,181 views \u2022 ~674m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ur-9o7KrnLQ"
   }
 ]
