@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
   },
   {
-    "topic": "what was the first ever video you recall watching",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
-  },
-  {
     "topic": "A youtuber accidentally doxxed themself on stream- should I do something?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qahgca/a_youtuber_accidentally_doxxed_themself_on_stream/"
+  },
+  {
+    "topic": "what was the first ever video you recall watching",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
   },
   {
     "topic": "Am I the only one who gets horny bait/Cute bait/anime girls after YouTube can't find you a relevant video?",
@@ -144,22 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qakm4b/this_is_for_her_mark_ruffalo_said_on_the/"
   },
   {
-    "topic": "Simple Questions Sunday!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1q9soy4/simple_questions_sunday/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "Took over ten years, but I finaly hit 3 million steps today!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qab0u4/11_years_later_rise_of_the_tomb_raider_still/"
   },
   {
+    "topic": "A Now-Patched Arc Raiders Exploit Put The Game In First-Person Mode",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qa43w7/a_nowpatched_arc_raiders_exploit_put_the_game_in/"
+  },
+  {
     "topic": "I Got EARLY ACCESS To These Brainrots..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 736,532 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 755,603 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4dM_giXusZY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 384,219 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 406,423 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4Hm1UE8zLo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,728 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 212,837 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MKWjM8heLWU"
   },
   {
@@ -208,31 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,326 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 229,140 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=49dmut_Tpv0"
-  },
-  {
-    "topic": "If You Blink, Your Life Changes - Goodnight Universe [Full Game]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 175,815 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ub-gsF1zFTE"
   },
   {
     "topic": "MAX REACTS: Street Fighter 6 Alex Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,695 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 80,477 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8JURytJrjWc"
-  },
-  {
-    "topic": "So, About These Avengers Doomsday Teasers\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 81,550 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Vb830egWjrw"
   }
 ]
