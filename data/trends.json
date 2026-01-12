@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
   },
   {
-    "topic": "Half of all posts on this subreddit right now.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
-  },
-  {
     "topic": "A youtuber accidentally doxxed themself on stream- should I do something?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qahgca/a_youtuber_accidentally_doxxed_themself_on_stream/"
+  },
+  {
+    "topic": "Half of all posts on this subreddit right now.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9zfrt/half_of_all_posts_on_this_subreddit_right_now/"
   },
   {
     "topic": "Now youtube is now advertising YouTube premium on Youtube ads",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 315,071 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 323,760 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MKWjM8heLWU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,516 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 94,700 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8JURytJrjWc"
   }
 ]
