@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1q9ublg/cant_be_more_true/"
   },
   {
+    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1418, Part 1 (Thread #1565)",
     "sources": [
       "reddit"
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qafj2k/eu_weighs_replacing_us_troops_with_unified/"
-  },
-  {
-    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
   },
   {
     "topic": "Iranian student killed during protests was shot in head \u2018from close range\u2019",
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qa335j/nobel_institute_rejects_mar\u00eda_corina_machados/"
   },
   {
-    "topic": "Teyana Taylor's Golden Globes Speech: \u201cTo my brown sisters and little brown girls watching tonight, our softness is not a liability. Our depth is not too much. Our light does not need permission to shine. We belong in every room we walk into. Our voices matter and our dreams deserve space\u201d",
+    "topic": "Amy Poehler has won the first ever Golden Globe for Best Podcast for \u2018Good Hang with Amy Poehler\u2019 at the 83rd Annual Golden Globes Awards: \"This is exactly how I pictured it: Snoop Dogg giving me the award. I don't know about award shows, but when they get it right it makes sense\" (January 11, 2026)",
     "sources": [
       "reddit"
     ],
     "subreddit": "popculturechat",
     "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qahcq5/teyana_taylors_golden_globes_speech_to_my_brown/"
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qaiau4/amy_poehler_has_won_the_first_ever_golden_globe/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 627,237 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 663,433 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4dM_giXusZY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 733,783 views \u2022 ~664m old",
+    "why": "Trending on YouTube \u2022 733,853 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kSOlDyyy4cw"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,118 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 301,924 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4Hm1UE8zLo"
+  },
+  {
+    "topic": "I Added MINIONS in Among Us",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 287,036 views \u2022 ~631m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xS8GliU96V8"
   },
   {
     "topic": "Our Playoff Game Was CRAZY! Wheel of MUT! Ep. #35",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,764 views \u2022 ~434m old",
+    "why": "Trending on YouTube \u2022 164,746 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=49dmut_Tpv0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,397 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 59,530 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8JURytJrjWc"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,381 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 72,309 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vb830egWjrw"
   }
 ]
