@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qaksj8/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Greenland says it should be defended by NATO",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb2g65/greenland_says_it_should_be_defended_by_nato/"
+  },
+  {
     "topic": "Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb14za/russian_air_defence_systems_in_venezuela_were_not/"
-  },
-  {
-    "topic": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qatlyo/uk_developing_ballistic_missiles_for_ukraine/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 419,185 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 474,736 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OBDJgW-TJKc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 529,119 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 573,895 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP_vzHICa4I"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 392,676 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 423,667 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qByLpjxeNv8"
-  },
-  {
-    "topic": "Infected or Not? (world record)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 444,583 views \u2022 ~442m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
     "topic": "A$AP ROCKY - HELICOPTER (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,371 views \u2022 ~122m old",
+    "why": "Trending on YouTube \u2022 149,343 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g1-46Nu3HxQ"
+  },
+  {
+    "topic": "Infected or Not? (world record)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 444,603 views \u2022 ~469m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
     "topic": "Lee Cronin\u2019s The Mummy | Official Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,404 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 59,678 views \u2022 ~148m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pbn1yz2p0CU"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,204 views \u2022 ~689m old",
+    "why": "Trending on YouTube \u2022 87,122 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,955 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 41,021 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   }
 ]
