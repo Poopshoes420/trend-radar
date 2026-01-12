@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qah3q6/my_8yr_old_niece_painted_this_in_art_class/"
   },
   {
-    "topic": "US bobsled team took a tumble today",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
-  },
-  {
     "topic": "Impossible...",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaovxt/impossible/"
+  },
+  {
+    "topic": "US bobsled team took a tumble today",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
   },
   {
     "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qahgca/a_youtuber_accidentally_doxxed_themself_on_stream/"
   },
   {
+    "topic": "Now youtube is now advertising YouTube premium on Youtube ads",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qalo9r/now_youtube_is_now_advertising_youtube_premium_on/"
+  },
+  {
     "topic": "what was the first ever video you recall watching",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa2bal/what_was_the_first_ever_video_you_recall_watching/"
-  },
-  {
-    "topic": "Am I the only one who gets horny bait/Cute bait/anime girls after YouTube can't find you a relevant video?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa9ecu/am_i_the_only_one_who_gets_horny_baitcute/"
   },
   {
     "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 246,707 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 265,572 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MKWjM8heLWU"
+  },
+  {
+    "topic": "ROBLOX ESCAPE TSUNAMI FOR BRAINROTS!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 389,386 views \u2022 ~697m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ro234QpkZm4"
   },
   {
     "topic": "Trash Talking YouTuber Gets Embarassed",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,889 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 241,850 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pf8-jhb52sE"
   },
   {
@@ -200,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 246,510 views \u2022 ~672m old",
+    "why": "Trending on YouTube \u2022 254,064 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=49dmut_Tpv0"
+  },
+  {
+    "topic": "DELTARUNE - It's TV Time!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 92,088 views \u2022 ~532m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=L5sLWs853zM"
   },
   {
     "topic": "MAX REACTS: Street Fighter 6 Alex Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,395 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 87,705 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8JURytJrjWc"
   }
 ]
