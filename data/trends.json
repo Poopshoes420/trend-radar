@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qarrkx/dang_wasnt_spicy_enough/"
   },
   {
+    "topic": "Very fresh",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qawpdh/very_fresh/"
+  },
+  {
     "topic": "Every stage of OH SHIT!",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
-  },
-  {
-    "topic": "When the dream is bigger than Bank Account",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qarq9z/when_the_dream_is_bigger_than_bank_account/"
   },
   {
     "topic": "Can we at least agree that ads shouldn\u2019t be on videos that may save someone?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
   },
   {
+    "topic": "Yes YouTube I absolutely wanted to see this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
+  },
+  {
     "topic": "A youtuber accidentally doxxed themself on stream- should I do something?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qahgca/a_youtuber_accidentally_doxxed_themself_on_stream/"
-  },
-  {
-    "topic": "Now youtube is now advertising YouTube premium on Youtube ads",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qalo9r/now_youtube_is_now_advertising_youtube_premium_on/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1418, Part 1 (Thread #1565)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 444,648 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 445,019 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,894 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 48,037 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,407 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 21,496 views \u2022 ~327m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   }
 ]
