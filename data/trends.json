@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qarrkx/dang_wasnt_spicy_enough/"
   },
   {
-    "topic": "US bobsled team took a tumble today",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
-  },
-  {
     "topic": "Every stage of OH SHIT!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qav6cp/every_stage_of_oh_shit/"
+  },
+  {
+    "topic": "US bobsled team took a tumble today",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
   },
   {
     "topic": "When the dream is bigger than Bank Account",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qaksj8/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
-  },
-  {
     "topic": "Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qati77/grok_ai_malaysia_and_indonesia_block_x_chatbot/"
+  },
+  {
+    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
   },
   {
     "topic": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
@@ -144,13 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "GameStop Closes Hundreds of Stores as CEO Eyes $35 Billion Payout - IGN",
+    "topic": "Stellar Blade studio Shift Up has gifted all its staff $3,400, AirPods Max and an Apple Watch | VGC",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qaw9hb/gamestop_closes_hundreds_of_stores_as_ceo_eyes_35/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qaulb2/stellar_blade_studio_shift_up_has_gifted_all_its/"
   },
   {
     "topic": "Took over ten years, but I finaly hit 3 million steps today!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qac0af/took_over_ten_years_but_i_finaly_hit_3_million/"
   },
   {
-    "topic": "Stellar Blade studio Shift Up has gifted all its staff $3,400, AirPods Max and an Apple Watch | VGC",
+    "topic": "The way I play games ruins the fun for my friends",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qaulb2/stellar_blade_studio_shift_up_has_gifted_all_its/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qatams/the_way_i_play_games_ruins_the_fun_for_my_friends/"
   },
   {
     "topic": "11 Years later, Rise of the Tomb Raider still looks incredible.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 443,936 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 444,648 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,777 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 41,894 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,251 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 18,407 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   }
 ]
