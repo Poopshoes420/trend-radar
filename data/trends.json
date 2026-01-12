@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Very fresh",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qawpdh/very_fresh/"
-  },
-  {
     "topic": "There\u2019s absolutely nothing that will stop this guy",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaz0va/theres_absolutely_nothing_that_will_stop_this_guy/"
+  },
+  {
+    "topic": "Very fresh",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qawpdh/very_fresh/"
   },
   {
     "topic": "Ohhh! Retired Air Force, obviously.",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qast3a/every_short_video_ever/"
   },
   {
-    "topic": "Yes YouTube I absolutely wanted to see this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
-  },
-  {
     "topic": "Isn't it so..?",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qb0wxp/isnt_it_so/"
   },
   {
-    "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
+    "topic": "Yes YouTube I absolutely wanted to see this",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
   },
   {
     "topic": "YouTube users in a nutshell",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qau3c2/youtube_users_in_a_nutshell/"
+  },
+  {
+    "topic": "Why does YouTube keep auto-dubbing when I clearly don't want it?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qa89l6/why_does_youtube_keep_autodubbing_when_i_clearly/"
   },
   {
     "topic": "Greenland says it cannot accept US takeover \u2018under any circumstances\u2019",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qati77/grok_ai_malaysia_and_indonesia_block_x_chatbot/"
   },
   {
-    "topic": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qatlyo/uk_developing_ballistic_missiles_for_ukraine/"
-  },
-  {
     "topic": "Russian air defence systems in Venezuela were not connected to radars during US operation \u2013 NYT",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb14za/russian_air_defence_systems_in_venezuela_were_not/"
+  },
+  {
+    "topic": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qatlyo/uk_developing_ballistic_missiles_for_ukraine/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 378,894 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 419,185 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OBDJgW-TJKc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 495,879 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 529,119 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP_vzHICa4I"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 366,660 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 392,676 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qByLpjxeNv8"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 444,568 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 444,583 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
+  },
+  {
+    "topic": "A$AP ROCKY - HELICOPTER (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 71,371 views \u2022 ~122m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g1-46Nu3HxQ"
+  },
+  {
+    "topic": "Lee Cronin\u2019s The Mummy | Official Teaser",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 47,404 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pbn1yz2p0CU"
   },
   {
     "topic": "HoneyKomb Brazy - I Remember (Official Music Video) Shot By The Director Frazier",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,939 views \u2022 ~667m old",
+    "why": "Trending on YouTube \u2022 83,204 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,945 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 38,955 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   }
 ]
