@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qawpdh/very_fresh/"
   },
   {
+    "topic": "Ohhh! Retired Air Force, obviously.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaxzct/ohhh_retired_air_force_obviously/"
+  },
+  {
     "topic": "Every stage of OH SHIT!",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qav6cp/every_stage_of_oh_shit/"
-  },
-  {
-    "topic": "US bobsled team took a tumble today",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qae2o7/us_bobsled_team_took_a_tumble_today/"
   },
   {
     "topic": "Can we at least agree that ads shouldn\u2019t be on videos that may save someone?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qati77/grok_ai_malaysia_and_indonesia_block_x_chatbot/"
   },
   {
-    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
-  },
-  {
     "topic": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qatlyo/uk_developing_ballistic_missiles_for_ukraine/"
   },
   {
-    "topic": "EU weighs replacing US troops with unified European army",
+    "topic": "US President Trump posts image of himself saying he is the \"Acting President of Venezuela",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qafj2k/eu_weighs_replacing_us_troops_with_unified/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qajzmf/us_president_trump_posts_image_of_himself_saying/"
+  },
+  {
+    "topic": "Cloudflare CEO threatens to pull out of Italy",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qau7lv/cloudflare_ceo_threatens_to_pull_out_of_italy/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 445,053 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 445,077 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x8qqK5MmUco"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,858 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 58,854 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9HfgHB243gA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,390 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 26,808 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,181 views \u2022 ~674m old",
+    "why": "Trending on YouTube \u2022 10,161 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ur-9o7KrnLQ"
   }
 ]
