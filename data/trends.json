@@ -1,14 +1,5 @@
 [
   {
-    "topic": "There\u2019s absolutely nothing that will stop this guy",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaz0va/theres_absolutely_nothing_that_will_stop_this_guy/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "There\u2019s absolutely nothing that will stop this guy",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaz0va/theres_absolutely_nothing_that_will_stop_this_guy/"
   },
   {
     "topic": "Very fresh",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qarrkx/dang_wasnt_spicy_enough/"
   },
   {
-    "topic": "Every Short Video Ever......",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qast3a/every_short_video_ever/"
-  },
-  {
     "topic": "Isn't it so..?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qb0wxp/isnt_it_so/"
+  },
+  {
+    "topic": "Every Short Video Ever......",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qast3a/every_short_video_ever/"
   },
   {
     "topic": "Yes YouTube I absolutely wanted to see this",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 602,401 views \u2022 ~334m old",
+    "why": "Trending on YouTube \u2022 650,266 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OBDJgW-TJKc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 662,653 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 693,250 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP_vzHICa4I"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,438 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 350,392 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g1-46Nu3HxQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 484,223 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 507,786 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qByLpjxeNv8"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,136 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 101,812 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pbn1yz2p0CU"
+  },
+  {
+    "topic": "Beans on terror",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,322 views \u2022 ~172m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XWA9XxWIZK4"
   },
   {
     "topic": "Palworld Official Card Game - Official Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,630 views \u2022 ~612m old",
+    "why": "Trending on YouTube \u2022 47,726 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZMmvK7lnrbo"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,217 views \u2022 ~209m old",
+    "why": "Trending on YouTube \u2022 8,039 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZL1lcP_oY08"
   }
 ]
