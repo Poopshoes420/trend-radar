@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbquzq/eminem_soon_to_be_leaving_top_50_most_subscribed/"
   },
   {
+    "topic": "Countries with most YouTube Video removals",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbssa9/countries_with_most_youtube_video_removals/"
+  },
+  {
     "topic": "Youtube just removed 18 years worth of my favorites playlist because it didn\u2019t follow the \"Community Guidelines\"",
     "sources": [
       "reddit"
@@ -72,15 +81,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qb0wxp/isnt_it_so/"
   },
   {
-    "topic": "Countries with most YouTube Video removals",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbssa9/countries_with_most_youtube_video_removals/"
-  },
-  {
     "topic": "IS YOUTUBE SHORTS COOKED???!",
     "sources": [
       "reddit"
@@ -88,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbf1qq/is_youtube_shorts_cooked/"
-  },
-  {
-    "topic": "Germany warns Trump: International law applies to everyone, including US",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbn9m6/germany_warns_trump_international_law_applies_to/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1419, Part 1 (Thread #1566)",
@@ -108,6 +99,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbhaik/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Germany warns Trump: International law applies to everyone, including US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbn9m6/germany_warns_trump_international_law_applies_to/"
+  },
+  {
+    "topic": "Trump cancel meetings with Iranian officials and tells protesters 'help is on its way'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbtvcq/trump_cancel_meetings_with_iranian_officials_and/"
+  },
+  {
     "topic": "US faces war crime allegation for \u2018disguising\u2019 aircraft in drug boat attack",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbot5l/us_faces_war_crime_allegation_for_disguising/"
-  },
-  {
-    "topic": "Donald Trump Says He Wants 'Ownership' of Greenland Because It's 'Psychologically Important for Me': \u201cMaybe another president would feel differently, but so far I\u2019ve been right about everything\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbhjsn/donald_trump_says_he_wants_ownership_of_greenland/"
   },
   {
     "topic": "'A series of loud explosions' \u2014 Ukraine 'destroys' key Russian drone factory in Taganrog, SBU says",
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "Ron Perlman: \"They invited me to do the first Fallout. Did a couple lines, they gave me $40 and a sandwich and I went home. Year and a half later I get a call \"hey you remember Fallout?\" I go no. They go \"there's a 2nd one\". I go why? \"Cus the 1st one went through the fucking roof.\"\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbv2tg/ron_perlman_they_invited_me_to_do_the_first/"
   },
   {
     "topic": "Today is Anthem's last playable day, servers will be shutdown as Bioware's sunsets the game forever",
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbnbr1/arc_raiders_sales_top_124_million/"
   },
   {
-    "topic": "New apartment new gaming set up!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbl9y0/new_apartment_new_gaming_set_up/"
-  },
-  {
     "topic": "This event is BS! #RandomBS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,753,713 views \u2022 ~465m old",
+    "why": "Trending on YouTube \u2022 1,889,817 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S0JcaNksmE"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 918,882 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 924,123 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KY8q8Ne_Hpc"
   },
   {
-    "topic": "Character Trailer - \"Columbina: To Where She Flies\" | Genshin Impact #GenshinImpact #Columbina",
+    "topic": "Helldivers 2 \u2013 Redacted Regiment Warbond",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 644,820 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
+    "why": "Trending on YouTube \u2022 114,239 views \u2022 ~135m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AtvwvsJRSKk"
   },
   {
-    "topic": "They aren\u2019t my friends anymore.",
+    "topic": "Avengers: Doomsday Teaser Trailer #4 (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 328,920 views \u2022 ~658m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=H0P8Vezg1Zk"
+    "why": "Trending on YouTube \u2022 10,681 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vJK7Q1uHDjo"
   },
   {
-    "topic": "roblox best gameplay",
+    "topic": "AVENGERS: DOOMSDAY - Teaser Trailer | Wakandans and the Fantastic Four | AGBO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 334,686 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
+    "why": "Trending on YouTube \u2022 6,266 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Z-3w-BrE6W0"
   }
 ]
