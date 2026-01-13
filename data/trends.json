@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Hope she said yes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qbc1yw/hope_she_said_yes/"
+  },
+  {
     "topic": "There\u2019s absolutely nothing that will stop this guy",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaxzct/ohhh_retired_air_force_obviously/"
-  },
-  {
-    "topic": "Dang wasn\u2019t spicy enough",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qarrkx/dang_wasnt_spicy_enough/"
   },
   {
     "topic": "Isn't it so..?",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb0xn5/greenland_says_it_cannot_accept_us_takeover_under/"
   },
   {
+    "topic": "Iran to hang 26-year-old in first reported execution over anti-Khamenei protests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbadlb/iran_to_hang_26yearold_in_first_reported/"
+  },
+  {
     "topic": "Russian air defence systems in Venezuela were not connected to radars during US operation \u2013 NYT",
     "sources": [
       "reddit"
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb14za/russian_air_defence_systems_in_venezuela_were_not/"
   },
   {
-    "topic": "Greenland says it should be defended by NATO, rejects any US takeover",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qb9u2t/greenland_says_it_should_be_defended_by_nato/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -142,15 +142,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
-  },
-  {
-    "topic": "Robin Williams showing off his PC setup, with a Max Payne mouse pad.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb88ii/robin_williams_showing_off_his_pc_setup_with_a/"
   },
   {
     "topic": "Today is Anthem's last playable day, servers will be shutdown as Bioware's sunsets the game forever",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb8oqi/the_website_that_listed_steam_machine_for_950/"
   },
   {
+    "topic": "The game you bought thinking it would last years but dropped within a week.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbb0n1/the_game_you_bought_thinking_it_would_last_years/"
+  },
+  {
     "topic": "ONE PIECE: Season 2 | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 931,046 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 1,023,529 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OBDJgW-TJKc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 668,806 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 760,730 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g1-46Nu3HxQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 893,295 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 970,862 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP_vzHICa4I"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 482,378 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 634,625 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pbn1yz2p0CU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 613,809 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 651,046 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qByLpjxeNv8"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 354,952 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 421,781 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kyraA4RY13Y"
+  },
+  {
+    "topic": "Spending $894,271,941 In Escape Tsunami For Brainrots...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 93,454 views \u2022 ~225m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vegIBR1h_9w"
   },
   {
     "topic": "Beans on terror",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 130,685 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 154,256 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XWA9XxWIZK4"
   },
   {
@@ -240,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,712 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 154,380 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=06P19HnIJjs"
+  },
+  {
+    "topic": "\ud83c\udf34\ud83e\udd65 EPISODE 1 TRAILER \ud83e\udd65\ud83c\udf34 Disventure Camp 5: Fans vs Favorites.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,015 views \u2022 ~189m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vy1RjyaZYzM"
   },
   {
     "topic": "The Mummy Teaser Trailer (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,078 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 32,957 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rklxkA6OkRk"
   }
 ]
