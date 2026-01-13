@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbhaik/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Donald Trump Says He Wants 'Ownership' of Greenland Because It's 'Psychologically Important for Me': \u201cMaybe another president would feel differently, but so far I\u2019ve been right about everything\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbhjsn/donald_trump_says_he_wants_ownership_of_greenland/"
-  },
-  {
     "topic": "US faces war crime allegation for \u2018disguising\u2019 aircraft in drug boat attack",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbot5l/us_faces_war_crime_allegation_for_disguising/"
   },
   {
-    "topic": "Trump 'inclined' to keep ExxonMobil out of Venezuela after CEO response at White House meeting",
+    "topic": "Donald Trump Says He Wants 'Ownership' of Greenland Because It's 'Psychologically Important for Me': \u201cMaybe another president would feel differently, but so far I\u2019ve been right about everything\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbl93o/trump_inclined_to_keep_exxonmobil_out_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbhjsn/donald_trump_says_he_wants_ownership_of_greenland/"
+  },
+  {
+    "topic": "Senior Russian official says Greenland could vote to join Russia if Trump does not hurry",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qboxh5/senior_russian_official_says_greenland_could_vote/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -142,15 +142,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
-  },
-  {
-    "topic": "Top 3 games of each year 2003-2025, based on the number of Game of the Year awards they received from all media outlets (online, print, broadcast, industry ceremonies, etc). Which year had the greatest podium, and which year was the weakest?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbqcfs/top_3_games_of_each_year_20032025_based_on_the/"
   },
   {
     "topic": "Today is Anthem's last playable day, servers will be shutdown as Bioware's sunsets the game forever",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbnbr1/arc_raiders_sales_top_124_million/"
   },
   {
+    "topic": "The website that listed Steam Machine for $950 also listed a 1TB OLED Steam Deck, a $650 machine, for the same price.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb8oqi/the_website_that_listed_steam_machine_for_950/"
+  },
+  {
     "topic": "This event is BS! #RandomBS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,393,778 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 1,488,214 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S0JcaNksmE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 904,750 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 909,058 views \u2022 ~374m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KY8q8Ne_Hpc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 587,097 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 601,257 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 334,660 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 334,660 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
   }
 ]
