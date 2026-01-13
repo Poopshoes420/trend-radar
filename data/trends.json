@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qaz0va/theres_absolutely_nothing_that_will_stop_this_guy/"
   },
   {
-    "topic": "Very fresh",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qawpdh/very_fresh/"
-  },
-  {
     "topic": "Smooth operator.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qbal3e/smooth_operator/"
+  },
+  {
+    "topic": "Very fresh",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qawpdh/very_fresh/"
   },
   {
     "topic": "Isn't it so..?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qast3a/every_short_video_ever/"
   },
   {
-    "topic": "IS YOUTUBE SHORTS COOKED???!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbf1qq/is_youtube_shorts_cooked/"
-  },
-  {
     "topic": "Youtube just removed 18 years worth of my favorites playlist because it didn\u2019t follow the \"Community Guidelines\"",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbkb2n/youtube_just_removed_18_years_worth_of_my/"
+  },
+  {
+    "topic": "IS YOUTUBE SHORTS COOKED???!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbf1qq/is_youtube_shorts_cooked/"
   },
   {
     "topic": "Who is a Youtuber that is both Universally beloved by both kids and adults?",
@@ -180,27 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb8oqi/the_website_that_listed_steam_machine_for_950/"
   },
   {
-    "topic": "roblox best gameplay",
+    "topic": "\ud83d\udd34LIVE | ARC RAIDERS wl Gingy & Jamarr Chase | THE TEAM LEADER CHRONICLES | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 334,374 views \u2022 ~274m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
+    "why": "Trending on YouTube \u2022 748,840 views \u2022 ~38m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KY8q8Ne_Hpc"
   },
   {
     "topic": "Character Trailer - \"Columbina: To Where She Flies\" | Genshin Impact #GenshinImpact #Columbina",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 315,551 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 353,309 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 334,424 views \u2022 ~304m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
   },
   {
     "topic": "Jynxzi & Musty 2v2 Vs EVERY Rank in Rocket League!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,884 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 231,013 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PND-ikBrrbs"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,845 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 234,024 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5LGkxW3MERg"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,984 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 63,332 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VXQveAdzC74"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,465 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 71,814 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vy1RjyaZYzM"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,083 views \u2022 ~548m old",
+    "why": "Trending on YouTube \u2022 58,725 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6uhTpPZ0kZo"
   }
 ]
