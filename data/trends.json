@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbf1qq/is_youtube_shorts_cooked/"
   },
   {
+    "topic": "Youtube just removed 18 years worth of my favorites playlist because it didn\u2019t follow the \"Community Guidelines\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbkb2n/youtube_just_removed_18_years_worth_of_my/"
+  },
+  {
     "topic": "Who is a Youtuber that is both Universally beloved by both kids and adults?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qb7oqq/who_is_a_youtuber_that_is_both_universally/"
-  },
-  {
-    "topic": "Yes YouTube I absolutely wanted to see this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
   },
   {
     "topic": "Donald Trump Says He Wants 'Ownership' of Greenland Because It's 'Psychologically Important for Me': \u201cMaybe another president would feel differently, but so far I\u2019ve been right about everything\u201d",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbdjrp/metacritics_top_3_games_by_user_rankings/"
   },
   {
-    "topic": "Call Of Duty: The difference between Black Ops 7 graphics and Black Ops 2 in the remake of Meltdown",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbjhov/call_of_duty_the_difference_between_black_ops_7/"
-  },
-  {
     "topic": "Today is Anthem's last playable day, servers will be shutdown as Bioware's sunsets the game forever",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbb0n1/the_game_you_bought_thinking_it_would_last_years/"
   },
   {
+    "topic": "The website that listed Steam Machine for $950 also listed a 1TB OLED Steam Deck, a $650 machine, for the same price.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb8oqi/the_website_that_listed_steam_machine_for_950/"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 332,304 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 332,370 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,984 views \u2022 ~208m old",
+    "why": "Trending on YouTube \u2022 247,842 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,520 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 191,157 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PND-ikBrrbs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,952 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 198,820 views \u2022 ~527m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5LGkxW3MERg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,086 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 52,138 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VXQveAdzC74"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,006 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 67,870 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vy1RjyaZYzM"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,511 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 54,962 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6uhTpPZ0kZo"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,542 views \u2022 ~688m old",
+    "why": "Trending on YouTube \u2022 33,680 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=r6wyz79tZmo"
   }
 ]
