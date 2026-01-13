@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbf1qq/is_youtube_shorts_cooked/"
   },
   {
-    "topic": "Yes YouTube I absolutely wanted to see this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
-  },
-  {
     "topic": "Who is a Youtuber that is both Universally beloved by both kids and adults?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qb7oqq/who_is_a_youtuber_that_is_both_universally/"
+  },
+  {
+    "topic": "Yes YouTube I absolutely wanted to see this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qawh7x/yes_youtube_i_absolutely_wanted_to_see_this/"
   },
   {
     "topic": "Donald Trump Says He Wants 'Ownership' of Greenland Because It's 'Psychologically Important for Me': \u201cMaybe another president would feel differently, but so far I\u2019ve been right about everything\u201d",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbdjrp/metacritics_top_3_games_by_user_rankings/"
   },
   {
-    "topic": "Today is Anthem's last playable day, servers will be shutdown as Bioware's sunsets the game forever",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb0f4w/today_is_anthems_last_playable_day_servers_will/"
-  },
-  {
     "topic": "Call Of Duty: The difference between Black Ops 7 graphics and Black Ops 2 in the remake of Meltdown",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbjhov/call_of_duty_the_difference_between_black_ops_7/"
+  },
+  {
+    "topic": "Today is Anthem's last playable day, servers will be shutdown as Bioware's sunsets the game forever",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qb0f4w/today_is_anthems_last_playable_day_servers_will/"
   },
   {
     "topic": "The game you bought thinking it would last years but dropped within a week.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 332,304 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 332,304 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3FuP4bV6JY4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,319 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 224,984 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WsYsNoNjbaw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 163,028 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 179,520 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PND-ikBrrbs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,600 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 188,952 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5LGkxW3MERg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,011 views \u2022 ~309m old",
+    "why": "Trending on YouTube \u2022 49,086 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VXQveAdzC74"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,649 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 67,006 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vy1RjyaZYzM"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,385 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 53,511 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6uhTpPZ0kZo"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,728 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 32,542 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=r6wyz79tZmo"
   }
 ]
