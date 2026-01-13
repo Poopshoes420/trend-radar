@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbkb2n/youtube_just_removed_18_years_worth_of_my/"
   },
   {
-    "topic": "Isn't it so..?",
+    "topic": "What YouTuber is Universally beloved by kids but is mostly well-liked by adults?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qb0wxp/isnt_it_so/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qbxuxv/what_youtuber_is_universally_beloved_by_kids_but/"
   },
   {
     "topic": "Trump cancel meetings with Iranian officials and tells protesters 'help is on its way'",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbuhnu/greenlands_pm_has_a_blunt_message_for_trump_we/"
   },
   {
+    "topic": "US official says Greenland action could come within 'weeks or months'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbzf6q/us_official_says_greenland_action_could_come/"
+  },
+  {
     "topic": "Germany warns Trump: International law applies to everyone, including US",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbn9m6/germany_warns_trump_international_law_applies_to/"
-  },
-  {
-    "topic": "US faces war crime allegation for \u2018disguising\u2019 aircraft in drug boat attack",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qbot5l/us_faces_war_crime_allegation_for_disguising/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,414,702 views \u2022 ~302m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XthYu76RJ60"
-  },
-  {
-    "topic": "This event is BS! #RandomBS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,672,819 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8S0JcaNksmE"
+    "why": "Trending on YouTube \u2022 650,953 views \u2022 ~179m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WRxjr50enh0"
   },
   {
     "topic": "Season 6: Night at the Museum // Dev Vision Vol. 13",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 395,059 views \u2022 ~173m old",
+    "why": "Trending on YouTube \u2022 462,391 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rmU6RtypJ3w"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 953,400 views \u2022 ~677m old",
+    "why": "Trending on YouTube \u2022 959,705 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KY8q8Ne_Hpc"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 304,608 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 325,785 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AtvwvsJRSKk"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,984 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 228,878 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VH0pFLcthgI"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 101,228 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 108,733 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vJK7Q1uHDjo"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,230 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 67,302 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e8al2A0FsU0"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,806 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 59,870 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z-3w-BrE6W0"
   }
 ]
