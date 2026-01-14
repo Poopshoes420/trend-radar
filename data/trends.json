@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcs2x2/do_yall_hate_when_youtubers_make_videos_titled_i/"
   },
   {
-    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
-  },
-  {
     "topic": "Youtube knows how to make me hate this site more",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcyi4m/youtube_knows_how_to_make_me_hate_this_site_more/"
+  },
+  {
+    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
   },
   {
     "topic": "Feel like this applies here too lmfao",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcx1u2/germany_joins_european_partners_with_troop/"
   },
   {
-    "topic": "Greenland: Macron warns of 'cascading consequences' if US seizes island",
+    "topic": "Iran closes airspace with anticipated US attack 'imminent'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcscdq/greenland_macron_warns_of_cascading_consequences/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd1y8v/iran_closes_airspace_with_anticipated_us_attack/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,032,348 views \u2022 ~465m old",
+    "why": "Trending on YouTube \u2022 1,059,566 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,650 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 372,418 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,092 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 209,781 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBcllNrY0u8"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,388 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 206,198 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GngEjupmuNw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,406 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 117,264 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zKvDEzTGqCo"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,212 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 64,770 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
   }
 ]
