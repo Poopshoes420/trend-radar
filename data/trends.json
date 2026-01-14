@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
   },
   {
-    "topic": "Denmark to deploy more troops to Greenland, DR reports",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcks0i/denmark_to_deploy_more_troops_to_greenland_dr/"
-  },
-  {
     "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
+  },
+  {
+    "topic": "Germany joins European partners with troop deployment to Greenland",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcx1u2/germany_joins_european_partners_with_troop/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcu2dv/valve_stress_again_that_therell_be_more_steam/"
   },
   {
-    "topic": "Thia game is fucked up, good but totally fucked up. Nightmarish stuff",
+    "topic": "My 6th annual LAN Party",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcawyz/thia_game_is_fucked_up_good_but_totally_fucked_up/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcxr6w/my_6th_annual_lan_party/"
   },
   {
     "topic": "Euphoria Season 3 | Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 513,880 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 583,012 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 857,283 views \u2022 ~674m old",
+    "why": "Trending on YouTube \u2022 861,401 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -200,7 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 268,189 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 280,937 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
+  },
+  {
+    "topic": "My Singing Monsters - What\u2019s the Werd? (Official \u201cMysterious Werdo\u201d Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 78,378 views \u2022 ~331m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zKvDEzTGqCo"
   }
 ]
