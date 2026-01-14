@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc8n5t/you_probably_get_it_by_now/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1420, Part 1 (Thread #1567)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcd8iw/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Nearly 17K Fans Cancel 2026 World Cup Tickets Amid Boycotts Over U.S. Political Climate",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcjk1m/nearly_17k_fans_cancel_2026_world_cup_tickets/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1420, Part 1 (Thread #1567)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcd8iw/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Denmarks Rockwool says Russia has seized four of its factories",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 800,190 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 802,138 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 356,666 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 363,525 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Moj9Enj6P10"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,311 views \u2022 ~514m old",
+    "why": "Trending on YouTube \u2022 185,066 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zFM6iGQ1fTw"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 206,984 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 209,979 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suBAjuuPxnU"
-  },
-  {
-    "topic": "I Need A Raise\u2026 (Quarantine Zone Episode 3)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 225,029 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kfc22DjNZ9c"
   },
   {
     "topic": "Working The Haunted Shawarma Shop",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,020 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 112,098 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dMnzKyM03Ps"
   },
   {
@@ -232,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,374 views \u2022 ~347m old",
+    "why": "Trending on YouTube \u2022 43,901 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bkNaPl4kg7g"
+  },
+  {
+    "topic": "Ella Mai - 100 (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,361 views \u2022 ~369m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hTvp0Vgs42M"
   }
 ]
