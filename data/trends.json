@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qckuus/the_prompt/"
   },
   {
-    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
-  },
-  {
     "topic": "Do y'all hate when YouTubers make videos titled \"I Quit\" and the video isn't about them quitting YouTube but something completely different",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcs2x2/do_yall_hate_when_youtubers_make_videos_titled_i/"
+  },
+  {
+    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
   },
   {
     "topic": "Feel like this applies here too lmfao",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcks0i/denmark_to_deploy_more_troops_to_greenland_dr/"
   },
   {
-    "topic": "France to open consulate in Greenland in February amid Trump threats",
+    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcmno9/france_to_open_consulate_in_greenland_in_february/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "To The Recuse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
-  },
-  {
     "topic": "Warhammer Maker Games Workshop Bans Its Staff From Using AI in Its Content or Designs, Says None of Its Senior Managers Are Currently Excited About the Tech",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
+  },
+  {
+    "topic": "To The Recuse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
   },
   {
     "topic": "Valve stress again that there'll be more Steam Machine Verified games than Steam Deck ones, with \"fewer constraints\" in their testing programme",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcawyz/thia_game_is_fucked_up_good_but_totally_fucked_up/"
   },
   {
+    "topic": "Euphoria Season 3 | Trailer | HBO Max",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 513,880 views \u2022 ~237m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS w/ Cloakzy & A ACTUAL CHEATER/HACKER MAN????? (Nickmercs) WHATTTT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 855,020 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 857,283 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 259,510 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 268,189 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
   }
 ]
