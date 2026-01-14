@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qc9nor/of_course_its_in_florida/"
   },
   {
-    "topic": "My cat after taking a bath",
+    "topic": "This is my type of humor",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcczp6/my_cat_after_taking_a_bath/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcmzm2/this_is_my_type_of_humor/"
   },
   {
     "topic": "remember when we had multiple pages for search results?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcd8iw/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Denmarks Rockwool says Russia has seized four of its factories",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qch2rb/denmarks_rockwool_says_russia_has_seized_four_of/"
-  },
-  {
     "topic": "Trump says anything less than having Greenland in the United States\u2019 hands is \u2018unacceptable\u2019",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
+  },
+  {
+    "topic": "Denmarks Rockwool says Russia has seized four of its factories",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qch2rb/denmarks_rockwool_says_russia_has_seized_four_of/"
   },
   {
     "topic": "Denmark to deploy more troops to Greenland, DR reports",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 806,206 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 808,725 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 386,868 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 400,216 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Moj9Enj6P10"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,484 views \u2022 ~674m old",
+    "why": "Trending on YouTube \u2022 196,726 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zFM6iGQ1fTw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,161 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 120,340 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dMnzKyM03Ps"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,670 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 55,767 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bkNaPl4kg7g"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,130 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 37,988 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hTvp0Vgs42M"
   }
 ]
