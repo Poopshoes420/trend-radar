@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
   },
   {
-    "topic": "Feel like this applies here too lmfao",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcp17p/feel_like_this_applies_here_too_lmfao/"
-  },
-  {
     "topic": "Youtube knows how to make me hate this site more",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcyi4m/youtube_knows_how_to_make_me_hate_this_site_more/"
+  },
+  {
+    "topic": "Feel like this applies here too lmfao",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcp17p/feel_like_this_applies_here_too_lmfao/"
   },
   {
     "topic": "remember when we had multiple pages for search results?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcx1u2/germany_joins_european_partners_with_troop/"
   },
   {
-    "topic": "Trump says anything less than having Greenland in the United States\u2019 hands is \u2018unacceptable\u2019",
+    "topic": "Trump intent on conquering Greenland, Danish minister says as talks with US end",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
   },
   {
-    "topic": "To The Recuse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
-  },
-  {
     "topic": "Meet Ryan Hurst, your Kratos in the upcoming God of War series on Prime Video",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcz0ol/meet_ryan_hurst_your_kratos_in_the_upcoming_god/"
+  },
+  {
+    "topic": "To The Recuse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
   },
   {
     "topic": "My 6th annual LAN Party",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 781,886 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 855,304 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 324,506 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 338,039 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,515 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 99,346 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zKvDEzTGqCo"
   }
 ]
