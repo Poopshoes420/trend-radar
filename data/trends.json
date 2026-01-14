@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Of course its in Florida",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qc9nor/of_course_its_in_florida/"
-  },
-  {
     "topic": "The Prompt",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcl2fx/bro_got_caught_smooching_and_then_emoted/"
+  },
+  {
+    "topic": "Of course its in Florida",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qc9nor/of_course_its_in_florida/"
   },
   {
     "topic": "My cat after taking a bath",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc4sp0/im_so_sick_of_these_tawdry_rape_porn_ai_videos/"
   },
   {
-    "topic": "Anybody know why i'm always getting this ad?",
+    "topic": "You probably get it by now",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qck6o1/anybody_know_why_im_always_getting_this_ad/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc8n5t/you_probably_get_it_by_now/"
   },
   {
     "topic": "Nearly 17K Fans Cancel 2026 World Cup Tickets Amid Boycotts Over U.S. Political Climate",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qch2rb/denmarks_rockwool_says_russia_has_seized_four_of/"
   },
   {
-    "topic": "Trump warns US will \u2018take very strong action\u2019 if Iran starts executing arrested protesters",
+    "topic": "Trump says anything less than having Greenland in the United States\u2019 hands is \u2018unacceptable\u2019",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcf0dy/trump_warns_us_will_take_very_strong_action_if/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
   },
   {
-    "topic": "Russia's own air defense missile hits apartment building in Rostov-on-Don, fire seen at nearby factory, media reports",
+    "topic": "Denmark to deploy more troops to Greenland, DR reports",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcbc4k/russias_own_air_defense_missile_hits_apartment/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcks0i/denmark_to_deploy_more_troops_to_greenland_dr/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 802,816 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 806,206 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 366,621 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 386,868 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Moj9Enj6P10"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,659 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 192,484 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zFM6iGQ1fTw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,366 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 117,161 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dMnzKyM03Ps"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,018 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 51,670 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bkNaPl4kg7g"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,229 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 36,130 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hTvp0Vgs42M"
   }
 ]
