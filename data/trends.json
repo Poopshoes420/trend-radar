@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcd8iw/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump says anything less than having Greenland in the United States\u2019 hands is \u2018unacceptable\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
-  },
-  {
     "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
+  },
+  {
+    "topic": "Trump says anything less than having Greenland in the United States\u2019 hands is \u2018unacceptable\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
   },
   {
     "topic": "Germany joins European partners with troop deployment to Greenland",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
   },
   {
-    "topic": "Valve stress again that there'll be more Steam Machine Verified games than Steam Deck ones, with \"fewer constraints\" in their testing programme",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcu2dv/valve_stress_again_that_therell_be_more_steam/"
-  },
-  {
     "topic": "My 6th annual LAN Party",
     "sources": [
       "reddit"
@@ -180,27 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcxr6w/my_6th_annual_lan_party/"
   },
   {
+    "topic": "Valve stress again that there'll be more Steam Machine Verified games than Steam Deck ones, with \"fewer constraints\" in their testing programme",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcu2dv/valve_stress_again_that_therell_be_more_steam/"
+  },
+  {
     "topic": "Euphoria Season 3 | Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 583,012 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 635,354 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS w/ Cloakzy & A ACTUAL CHEATER/HACKER MAN????? (Nickmercs) WHATTTT | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 861,401 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
     "topic": "Minecraft 2 Is Crazy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 280,937 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 294,851 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,378 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 83,147 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zKvDEzTGqCo"
   }
 ]
