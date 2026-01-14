@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc7khu/remember_when_we_had_multiple_pages_for_search/"
   },
   {
-    "topic": "Ok, this actually pisses me off. WHY DOES YOUTUBE ALLOW THIS?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qci8fr/ok_this_actually_pisses_me_off_why_does_youtube/"
-  },
-  {
     "topic": "where the fuck is the dislike button",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcr1uw/where_the_fuck_is_the_dislike_button/"
+  },
+  {
+    "topic": "Ok, this actually pisses me off. WHY DOES YOUTUBE ALLOW THIS?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qci8fr/ok_this_actually_pisses_me_off_why_does_youtube/"
   },
   {
     "topic": "Feel like this applies here too lmfao",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcjk1m/nearly_17k_fans_cancel_2026_world_cup_tickets/"
   },
   {
-    "topic": "Denmark to deploy more troops to Greenland, DR reports",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcks0i/denmark_to_deploy_more_troops_to_greenland_dr/"
-  },
-  {
     "topic": "Greenland: Macron warns of 'cascading consequences' if US seizes island",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcscdq/greenland_macron_warns_of_cascading_consequences/"
+  },
+  {
+    "topic": "Denmark to deploy more troops to Greenland, DR reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcks0i/denmark_to_deploy_more_troops_to_greenland_dr/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "[RUMOR] FH 6 Release Date Leaked - May 15th EA - May 19th Release",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcp7g0/rumor_fh_6_release_date_leaked_may_15th_ea_may/"
-  },
-  {
     "topic": "To The Recuse",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
+  },
+  {
+    "topic": "[RUMOR] FH 6 Release Date Leaked - May 15th EA - May 19th Release",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcp7g0/rumor_fh_6_release_date_leaked_may_15th_ea_may/"
   },
   {
     "topic": "Thia game is fucked up, good but totally fucked up. Nightmarish stuff",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 838,897 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 837,094 views \u2022 ~552m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,169 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 33,748 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XbVJeM41nac"
   }
 ]
