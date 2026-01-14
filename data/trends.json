@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcp17p/feel_like_this_applies_here_too_lmfao/"
   },
   {
+    "topic": "Youtube knows how to make me hate this site more",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcyi4m/youtube_knows_how_to_make_me_hate_this_site_more/"
+  },
+  {
     "topic": "remember when we had multiple pages for search results?",
     "sources": [
       "reddit"
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc7khu/remember_when_we_had_multiple_pages_for_search/"
   },
   {
-    "topic": "where the fuck is the dislike button",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcr1uw/where_the_fuck_is_the_dislike_button/"
-  },
-  {
-    "topic": "Greenland: Macron warns of 'cascading consequences' if US seizes island",
+    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcscdq/greenland_macron_warns_of_cascading_consequences/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1420, Part 1 (Thread #1567)",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcd8iw/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
+    "topic": "Greenland: Macron warns of 'cascading consequences' if US seizes island",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcscdq/greenland_macron_warns_of_cascading_consequences/"
   },
   {
     "topic": "Germany joins European partners with troop deployment to Greenland",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
   },
   {
-    "topic": "My 6th annual LAN Party",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcxr6w/my_6th_annual_lan_party/"
-  },
-  {
     "topic": "Meet Ryan Hurst, your Kratos in the upcoming God of War series on Prime Video",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcz0ol/meet_ryan_hurst_your_kratos_in_the_upcoming_god/"
   },
   {
+    "topic": "My 6th annual LAN Party",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcxr6w/my_6th_annual_lan_party/"
+  },
+  {
     "topic": "Euphoria Season 3 | Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 695,508 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 739,684 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 309,166 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 316,526 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,735 views \u2022 ~374m old",
+    "why": "Trending on YouTube \u2022 90,118 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zKvDEzTGqCo"
   }
 ]
