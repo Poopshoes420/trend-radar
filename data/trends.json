@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Marked down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcucoy/marked_down/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcmzm2/this_is_my_type_of_humor/"
-  },
-  {
-    "topic": "Marked down",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcucoy/marked_down/"
   },
   {
     "topic": "Bro got caught smooching and then emoted \ud83d\ude06",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcs2x2/do_yall_hate_when_youtubers_make_videos_titled_i/"
   },
   {
-    "topic": "remember when we had multiple pages for search results?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc7khu/remember_when_we_had_multiple_pages_for_search/"
-  },
-  {
     "topic": "Feel like this applies here too lmfao",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcp17p/feel_like_this_applies_here_too_lmfao/"
+  },
+  {
+    "topic": "remember when we had multiple pages for search results?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qc7khu/remember_when_we_had_multiple_pages_for_search/"
   },
   {
     "topic": "where the fuck is the dislike button",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcm2xg/trump_says_anything_less_than_having_greenland_in/"
   },
   {
-    "topic": "Nearly 17K Fans Cancel 2026 World Cup Tickets Amid Boycotts Over U.S. Political Climate",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcjk1m/nearly_17k_fans_cancel_2026_world_cup_tickets/"
-  },
-  {
     "topic": "Denmark to deploy more troops to Greenland, DR reports",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcks0i/denmark_to_deploy_more_troops_to_greenland_dr/"
+  },
+  {
+    "topic": "France to open consulate in Greenland in February amid Trump threats",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcmno9/france_to_open_consulate_in_greenland_in_february/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
   },
   {
+    "topic": "Warhammer Maker Games Workshop Bans Its Staff From Using AI in Its Content or Designs, Says None of Its Senior Managers Are Currently Excited About the Tech",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
+  },
+  {
     "topic": "Valve stress again that there'll be more Steam Machine Verified games than Steam Deck ones, with \"fewer constraints\" in their testing programme",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcawyz/thia_game_is_fucked_up_good_but_totally_fucked_up/"
   },
   {
-    "topic": "I modded Todd Howard into Fallout 4. Do NOT let him touch you.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qbvpy5/i_modded_todd_howard_into_fallout_4_do_not_let/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS w/ Cloakzy & A ACTUAL CHEATER/HACKER MAN????? (Nickmercs) WHATTTT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 848,449 views \u2022 ~617m old",
+    "why": "Trending on YouTube \u2022 852,292 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KTnrD2fSMLU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 230,859 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 248,187 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nngrgOLdZtM"
   }
 ]
