@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd999j/never_let_them_know_your_next_move/"
   },
   {
+    "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd8ub7/making_cr\u00e8me_br\u00fbl\u00e9e/"
+  },
+  {
     "topic": "Marked down",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd65r5/drive_safe/"
   },
   {
-    "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
+    "topic": "AI can summarize videos now... why?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd8ub7/making_cr\u00e8me_br\u00fbl\u00e9e/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdat7f/ai_can_summarize_videos_now_why/"
   },
   {
     "topic": "Do y'all hate when YouTubers make videos titled \"I Quit\" and the video isn't about them quitting YouTube but something completely different",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcs2x2/do_yall_hate_when_youtubers_make_videos_titled_i/"
-  },
-  {
-    "topic": "AI can summarize videos now... why?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdat7f/ai_can_summarize_videos_now_why/"
   },
   {
     "topic": "This clickbait is just ridiculous.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
   },
   {
-    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
+    "topic": "Tehran leaders wiring huge sums of money out of Iran, US Treasury says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9xjw/tehran_leaders_wiring_huge_sums_of_money_out_of/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Warhammer Maker Games Workshop Bans Its Staff From Using AI in Its Content or Designs, Says None of Its Senior Managers Are Currently Excited About the Tech",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
-  },
-  {
     "topic": "Meet Ryan Hurst, your Kratos in the upcoming God of War series on Prime Video",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcz0ol/meet_ryan_hurst_your_kratos_in_the_upcoming_god/"
+  },
+  {
+    "topic": "Warhammer Maker Games Workshop Bans Its Staff From Using AI in Its Content or Designs, Says None of Its Senior Managers Are Currently Excited About the Tech",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
   },
   {
     "topic": "The sense of scale in AC Odyssey still blows my mind.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 879,228 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 883,605 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZK4VBrSqcBI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 462,724 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 485,465 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb9E3lDJZTQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 560,343 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 579,472 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wB2Jy_FfddU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 375,147 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 398,866 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,124 views \u2022 ~451m old",
+    "why": "Trending on YouTube \u2022 327,711 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HEdEAFcV5xE"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 144,167 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 158,230 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
   },
   {
@@ -232,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,606 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 59,088 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNnSBgrC4Zo"
-  },
-  {
-    "topic": "Hunxho - Look In The Mirror [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 31,973 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Wmzy1Uf0Mb0"
   }
 ]
