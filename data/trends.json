@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Found this gem in my son's backpack",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdsb23/found_this_gem_in_my_sons_backpack/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Little d*ck dude is hilarious",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdlttr/msi_is_legalizing_cheating/"
   },
   {
+    "topic": "All of the live action Laras",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qduwbx/all_of_the_live_action_laras/"
+  },
+  {
     "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
     "sources": [
       "reddit"
@@ -171,36 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
   },
   {
-    "topic": "Motion Blur, why?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdk87m/motion_blur_why/"
-  },
-  {
     "topic": "BORDER 2 (Trailer) | Sunny Deol, Varun, Diljit, Ahan | Anurag S | JP Dutta, Bhushan K | 23-Jan-2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,799,936 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 5,903,987 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZGfCK1yTTI"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | CHECK THAT MF's GOOP LEVEL | NUT RAIDERS w/ Cloakzy & (Cheater) Nickmercs | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 868,021 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=D1n7kWcOyx4"
   },
   {
     "topic": "Deep Rock Galactic: Season 06 - Narrated Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 141,271 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 145,598 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ISkjtsSYtsA"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,381 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 90,866 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QIKEy_xgBjk"
   }
 ]
