@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
   },
   {
-    "topic": "AI can summarize videos now... why?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdat7f/ai_can_summarize_videos_now_why/"
-  },
-  {
     "topic": "i hate this",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdv01e/i_hate_this/"
+  },
+  {
+    "topic": "AI can summarize videos now... why?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdat7f/ai_can_summarize_videos_now_why/"
   },
   {
     "topic": "Greenland minister tearful as she describes \u2018intense pressure\u2019 amid Trump\u2019s threats to take territory",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,070,512 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 6,088,978 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZGfCK1yTTI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,736 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 156,578 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ISkjtsSYtsA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,663 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 102,945 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QIKEy_xgBjk"
   }
 ]
