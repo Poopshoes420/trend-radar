@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Never let them know your next move",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd999j/never_let_them_know_your_next_move/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd8ub7/making_cr\u00e8me_br\u00fbl\u00e9e/"
   },
   {
-    "topic": "Marked down",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcucoy/marked_down/"
-  },
-  {
     "topic": "Drive safe",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd65r5/drive_safe/"
+  },
+  {
+    "topic": "Marked down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcucoy/marked_down/"
   },
   {
     "topic": "AI can summarize videos now... why?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcyi4m/youtube_knows_how_to_make_me_hate_this_site_more/"
   },
   {
-    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
+    "topic": "it belongs here",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdcsyc/it_belongs_here/"
   },
   {
     "topic": "Iran closes airspace with anticipated US attack 'imminent'",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 883,605 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 884,414 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZK4VBrSqcBI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 485,465 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 504,156 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb9E3lDJZTQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 579,472 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 600,730 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wB2Jy_FfddU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 398,866 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 413,150 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,711 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 337,723 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HEdEAFcV5xE"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,230 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 169,321 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
+  },
+  {
+    "topic": "I Tried Hytale\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 208,815 views \u2022 ~520m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EZKQ7YgZAak"
   },
   {
     "topic": "Zach Bryan - Pocket Change",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,088 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 60,134 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNnSBgrC4Zo"
   }
 ]
