@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcyi4m/youtube_knows_how_to_make_me_hate_this_site_more/"
   },
   {
-    "topic": "Iran closes airspace with anticipated US attack 'imminent'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd1y8v/iran_closes_airspace_with_anticipated_us_attack/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1421, Part 1 (Thread #1568)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9al4/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Iran closes airspace with anticipated US attack 'imminent'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd1y8v/iran_closes_airspace_with_anticipated_us_attack/"
   },
   {
     "topic": "Tehran leaders wiring huge sums of money out of Iran, US Treasury says",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
+  },
+  {
     "topic": "Meet Ryan Hurst, your Kratos in the upcoming God of War series on Prime Video",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qd5ghl/the_sense_of_scale_in_ac_odyssey_still_blows_my/"
   },
   {
-    "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
-  },
-  {
     "topic": "YoungBoy Never Broke Again - Baby Boo [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 530,516 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 541,573 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb9E3lDJZTQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 453,523 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 469,884 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 187,323 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 203,168 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PpNLVUStKik"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 361,982 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 370,877 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HEdEAFcV5xE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 186,935 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 193,010 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
   },
   {
@@ -224,15 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,492 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 236,338 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EZKQ7YgZAak"
-  },
-  {
-    "topic": "Zach Bryan - Pocket Change",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 62,627 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZNnSBgrC4Zo"
   }
 ]
