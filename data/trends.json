@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcucoy/marked_down/"
   },
   {
-    "topic": "This is my type of humor",
+    "topic": "Drive safe",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcmzm2/this_is_my_type_of_humor/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd65r5/drive_safe/"
   },
   {
     "topic": "Ay Ay ....Ay",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcz5e4/ay_ay_ay/"
   },
   {
-    "topic": "Bro got caught smooching and then emoted \ud83d\ude06",
+    "topic": "This is my type of humor",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcl2fx/bro_got_caught_smooching_and_then_emoted/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcmzm2/this_is_my_type_of_humor/"
   },
   {
     "topic": "Do y'all hate when YouTubers make videos titled \"I Quit\" and the video isn't about them quitting YouTube but something completely different",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
   },
   {
-    "topic": "Feel like this applies here too lmfao",
+    "topic": "This clickbait is just ridiculous.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcp17p/feel_like_this_applies_here_too_lmfao/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qd87b1/this_clickbait_is_just_ridiculous/"
   },
   {
     "topic": "What YouTuber is Universally beloved by kids but is Controversial (mixed opinions) upon adults?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
   },
   {
-    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
-  },
-  {
     "topic": "Greenland and Denmark say Trump set on \u2018conquering\u2019 territory after meeting | Donald Trump News",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd3rjr/greenland_and_denmark_say_trump_set_on_conquering/"
+  },
+  {
+    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcz0ol/meet_ryan_hurst_your_kratos_in_the_upcoming_god/"
   },
   {
-    "topic": "To The Recuse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
-  },
-  {
     "topic": "The sense of scale in AC Odyssey still blows my mind.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qd5ghl/the_sense_of_scale_in_ac_odyssey_still_blows_my/"
   },
   {
+    "topic": "To The Recuse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
+  },
+  {
     "topic": "Euphoria Season 3 | Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,366,616 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 1,518,415 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 380,813 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 434,110 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SVy5vJRdPLA"
   },
   {
@@ -200,31 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 378,009 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 447,041 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBcllNrY0u8"
-  },
-  {
-    "topic": "10 Seconds vs 1 Hour GIANT MAZE Build Challenge!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 279,902 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GngEjupmuNw"
-  },
-  {
-    "topic": "My Singing Monsters - What\u2019s the Werd? (Official \u201cMysterious Werdo\u201d Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 146,639 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zKvDEzTGqCo"
   },
   {
     "topic": "\"Corporate Retreat\" Horror-Dark Comedy | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,686 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 30,326 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cPfl0AoSw1k"
   }
 ]
