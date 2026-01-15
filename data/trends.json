@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd999j/never_let_them_know_your_next_move/"
   },
   {
-    "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd8ub7/making_cr\u00e8me_br\u00fbl\u00e9e/"
-  },
-  {
     "topic": "Last one is epic",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qddexr/last_one_is_epic/"
+  },
+  {
+    "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd8ub7/making_cr\u00e8me_br\u00fbl\u00e9e/"
   },
   {
     "topic": "Drive safe",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9xjw/tehran_leaders_wiring_huge_sums_of_money_out_of/"
   },
   {
-    "topic": "Trump intent on conquering Greenland, Danish minister says as talks with US end",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
-  },
-  {
     "topic": "This time bullet won't miss: Iranian TV airs chilling assassination threat to Trump",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qde3ub/this_time_bullet_wont_miss_iranian_tv_airs/"
+  },
+  {
+    "topic": "Trump intent on conquering Greenland, Danish minister says as talks with US end",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | CHECK THAT MF's GOOP LEVEL | NUT RAIDERS w/ Cloakzy & (Cheater) Nickmercs | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 756,647 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=D1n7kWcOyx4"
+  },
+  {
     "topic": "YoungBoy Never Broke Again - Baby Boo [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 553,520 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 562,569 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb9E3lDJZTQ"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 497,896 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 514,214 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 223,345 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 239,789 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PpNLVUStKik"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 384,698 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 392,397 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HEdEAFcV5xE"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 199,765 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 203,767 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 247,272 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 252,222 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EZKQ7YgZAak"
   }
 ]
