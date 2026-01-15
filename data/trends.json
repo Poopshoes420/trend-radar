@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdulmk/bro_what_is_this/"
   },
   {
+    "topic": "Uploading SRV3 subtitles got broken/disabled. Please restore it.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
+  },
+  {
     "topic": "AI can summarize videos now... why?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdv01e/i_hate_this/"
-  },
-  {
-    "topic": "Do y'all hate when YouTubers make videos titled \"I Quit\" and the video isn't about them quitting YouTube but something completely different",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcs2x2/do_yall_hate_when_youtubers_make_videos_titled_i/"
   },
   {
     "topic": "Greenland minister tearful as she describes \u2018intense pressure\u2019 amid Trump\u2019s threats to take territory",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9al4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Anger in Iceland over incoming US ambassador\u2019s \u201852nd state\u2019 joke",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/"
-  },
-  {
     "topic": "Trump Is Keeping Money From Venezuelan Oil Sale in Offshore Account",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdv0bo/trump_is_keeping_money_from_venezuelan_oil_sale/"
+  },
+  {
+    "topic": "Anger in Iceland over incoming US ambassador\u2019s \u201852nd state\u2019 joke",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/"
   },
   {
     "topic": "France To Send More Forces To Greenland, Says Macron",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,008,626 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 6,070,512 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZGfCK1yTTI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,454 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 154,736 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ISkjtsSYtsA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,799 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 100,663 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QIKEy_xgBjk"
   }
 ]
