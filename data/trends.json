@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdo1hx/this_is_why_im_not_allowed_to_do_magic_at_parties/"
   },
   {
+    "topic": "UK Raves - when the K kicks in",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdrb8e/uk_raves_when_the_k_kicks_in/"
+  },
+  {
     "topic": "She thought I was Gay",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdonb8/she_thought_i_was_gay/"
-  },
-  {
-    "topic": "Drive safe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd65r5/drive_safe/"
   },
   {
     "topic": "it belongs here",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9al4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "NATO nations deploy to Greenland after tense White House talks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdf3fn/nato_nations_deploy_to_greenland_after_tense/"
-  },
-  {
     "topic": "France To Send More Forces To Greenland, Says Macron",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdi6hr/france_to_send_more_forces_to_greenland_says/"
   },
   {
-    "topic": "This time bullet won't miss: Iranian TV airs chilling assassination threat to Trump",
+    "topic": "NATO nations deploy to Greenland after tense White House talks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qde3ub/this_time_bullet_wont_miss_iranian_tv_airs/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdf3fn/nato_nations_deploy_to_greenland_after_tense/"
+  },
+  {
+    "topic": "The Guardian: How a billionaire with interests in Greenland encouraged Trump to acquire the territory",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdmvti/the_guardian_how_a_billionaire_with_interests_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdkhnd/first_look_at_sophie_turner_as_lara_croft_in/"
   },
   {
-    "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
-  },
-  {
     "topic": "MSI is legalizing cheating?",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdlttr/msi_is_legalizing_cheating/"
+  },
+  {
+    "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
   },
   {
     "topic": "Motion Blur, why?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,113,098 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 4,825,533 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZGfCK1yTTI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 843,507 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 852,138 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D1n7kWcOyx4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,280 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 113,422 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ISkjtsSYtsA"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,963 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 61,363 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QIKEy_xgBjk"
   }
 ]
