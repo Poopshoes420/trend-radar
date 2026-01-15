@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "UK Raves - when the K kicks in",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdrb8e/uk_raves_when_the_k_kicks_in/"
-  },
-  {
     "topic": "I lose hair...",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdrwuq/i_lose_hair/"
+  },
+  {
+    "topic": "UK Raves - when the K kicks in",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdrb8e/uk_raves_when_the_k_kicks_in/"
   },
   {
     "topic": "This is why I\u2019m not allowed to do magic at parties anymore",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdulmk/bro_what_is_this/"
   },
   {
-    "topic": "Uploading SRV3 subtitles got broken/disabled. Please restore it.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
-  },
-  {
     "topic": "i hate this",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdv01e/i_hate_this/"
+  },
+  {
+    "topic": "Uploading SRV3 subtitles got broken/disabled. Please restore it.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
   },
   {
     "topic": "AI can summarize videos now... why?",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdat7f/ai_can_summarize_videos_now_why/"
   },
   {
-    "topic": "Greenland minister tearful as she describes \u2018intense pressure\u2019 amid Trump\u2019s threats to take territory",
+    "topic": "Trump Is Keeping Money From Venezuelan Oil Sale in Offshore Account",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdrfgp/greenland_minister_tearful_as_she_describes/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdv0bo/trump_is_keeping_money_from_venezuelan_oil_sale/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1421, Part 1 (Thread #1568)",
@@ -108,22 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9al4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump Is Keeping Money From Venezuelan Oil Sale in Offshore Account",
+    "topic": "Greenland minister tearful as she describes \u2018intense pressure\u2019 amid Trump\u2019s threats to take territory",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdv0bo/trump_is_keeping_money_from_venezuelan_oil_sale/"
-  },
-  {
-    "topic": "Anger in Iceland over incoming US ambassador\u2019s \u201852nd state\u2019 joke",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdrfgp/greenland_minister_tearful_as_she_describes/"
   },
   {
     "topic": "Trump given Nobel Peace medal by Venezuelan opposition leader Machado",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdwsrx/trump_given_nobel_peace_medal_by_venezuelan/"
+  },
+  {
+    "topic": "Anger in Iceland over incoming US ambassador\u2019s \u201852nd state\u2019 joke",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,188,059 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 6,229,628 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZGfCK1yTTI"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,192,660 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 1,253,151 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FW095YeIhmU"
+  },
+  {
+    "topic": "THE BRIDE! | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 519,807 views \u2022 ~376m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IhgcUArO3Uo"
   },
   {
     "topic": "YoungBoy Never Broke Again - Switches [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 417,000 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 451,777 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=luzMcTOgHoo"
   },
   {
@@ -208,23 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 303,339 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 351,587 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lIxQe1R5hs0"
   },
   {
-    "topic": "THE BRIDE! | Official Trailer",
+    "topic": "I Became A TAXI Driver.. (VR)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 323,219 views \u2022 ~350m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IhgcUArO3Uo"
+    "why": "Trending on YouTube \u2022 169,561 views \u2022 ~192m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NtmA1nQTg2w"
   },
   {
     "topic": "The Sims 4: Royalty & Legacy | Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,790 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 234,931 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iyMI9ES-7Nc"
   },
   {
@@ -232,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,769 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 111,272 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M910sjgb3gk"
+  },
+  {
+    "topic": "Big Possibilities Every Spin On These Games",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 81,599 views \u2022 ~211m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FpEnjA15Wvo"
   },
   {
     "topic": "Ren - Vincent's Tale - The Bedroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,208 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 95,401 views \u2022 ~256m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xu8Xm4gpDP8"
   },
   {
@@ -248,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,183 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 67,026 views \u2022 ~212m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rlca-JF6l0U"
+  },
+  {
+    "topic": "ted Season 2 | Official Trailer | Peacock Original",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 90,383 views \u2022 ~406m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=C93GFpbp554"
   },
   {
     "topic": "AVENGERS DOOMSDAY TRAILER: Doctor Doom Hidden Message",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,218 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 106,203 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1WWY54xuswE"
   },
   {
@@ -264,23 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 111,983 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 115,897 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TIUHN3zAPn4"
-  },
-  {
-    "topic": "ted Season 2 | Official Trailer | Peacock Original",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 79,239 views \u2022 ~381m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C93GFpbp554"
   },
   {
     "topic": "Lamb of God - Into Oblivion (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,651 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 117,591 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QIKEy_xgBjk"
   },
   {
@@ -288,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,284 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 32,955 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Yujl05OeeQ"
   }
 ]
