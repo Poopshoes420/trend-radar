@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd65r5/drive_safe/"
   },
   {
+    "topic": "Never let them know your next move",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd999j/never_let_them_know_your_next_move/"
+  },
+  {
     "topic": "Ay Ay ....Ay",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcz5e4/ay_ay_ay/"
-  },
-  {
-    "topic": "This is my type of humor",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcmzm2/this_is_my_type_of_humor/"
   },
   {
     "topic": "Do y'all hate when YouTubers make videos titled \"I Quit\" and the video isn't about them quitting YouTube but something completely different",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcyi4m/youtube_knows_how_to_make_me_hate_this_site_more/"
   },
   {
-    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
-  },
-  {
     "topic": "This clickbait is just ridiculous.",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qd87b1/this_clickbait_is_just_ridiculous/"
   },
   {
-    "topic": "What YouTuber is Universally beloved by kids but is Controversial (mixed opinions) upon adults?",
+    "topic": "TIRED OF WATCHING THESE CLICKBATE THUMBNAILS",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qd2k4w/what_youtuber_is_universally_beloved_by_kids_but/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcqhgt/tired_of_watching_these_clickbate_thumbnails/"
+  },
+  {
+    "topic": "Feel like this applies here too lmfao",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qcp17p/feel_like_this_applies_here_too_lmfao/"
   },
   {
     "topic": "Iran closes airspace with anticipated US attack 'imminent'",
@@ -99,22 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd1y8v/iran_closes_airspace_with_anticipated_us_attack/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1420, Part 1 (Thread #1567)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1421, Part 1 (Thread #1568)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcd8iw/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Trump intent on conquering Greenland, Danish minister says as talks with US end",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd9al4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Greenland and Denmark say Trump set on \u2018conquering\u2019 territory after meeting | Donald Trump News",
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd3rjr/greenland_and_denmark_say_trump_set_on_conquering/"
   },
   {
-    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
+    "topic": "Trump intent on conquering Greenland, Danish minister says as talks with US end",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
+  },
+  {
+    "topic": "Trump is making China \u2013 not America \u2013 great again, global survey suggests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qd8a2m/trump_is_making_china_not_america_great_again/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
   },
   {
-    "topic": "Euphoria Season 3 | Trailer | HBO Max",
+    "topic": "We Played The Creepy Fishing Game Again...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,518,415 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-1UJJPAWudQ"
+    "why": "Trending on YouTube \u2022 457,129 views \u2022 ~506m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wB2Jy_FfddU"
+  },
+  {
+    "topic": "ROBLOX ESCAPE TSUNAMI FOR BRAINROTS!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 276,847 views \u2022 ~342m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
+  },
+  {
+    "topic": "Dunkey's Best of 2025",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 362,723 views \u2022 ~488m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lTZZDIddssI"
   },
   {
     "topic": "I Stole EVERY CELESTIAL in Escape Tsunami For Brainrots!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 434,110 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 457,167 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SVy5vJRdPLA"
   },
   {
@@ -200,15 +216,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 447,041 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 453,754 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBcllNrY0u8"
+  },
+  {
+    "topic": "I Tried Hytale\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 133,595 views \u2022 ~338m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EZKQ7YgZAak"
+  },
+  {
+    "topic": "Back For More On A Slot We Crushed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 190,039 views \u2022 ~534m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=J_dMYSBix8k"
+  },
+  {
+    "topic": "Marvel Rivals - Official Spider-Man Marvel Cosmic Invasion Costume Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 101,045 views \u2022 ~608m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GL478403aXU"
+  },
+  {
+    "topic": "Zach Bryan - Pocket Change",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 46,023 views \u2022 ~467m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZNnSBgrC4Zo"
   },
   {
     "topic": "\"Corporate Retreat\" Horror-Dark Comedy | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,326 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 32,979 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cPfl0AoSw1k"
+  },
+  {
+    "topic": "Hunxho - Look In The Mirror [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,610 views \u2022 ~579m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Wmzy1Uf0Mb0"
   }
 ]
