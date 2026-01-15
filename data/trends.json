@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd999j/never_let_them_know_your_next_move/"
   },
   {
+    "topic": "This was one of the screenshot",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdcn31/this_was_one_of_the_screenshot/"
+  },
+  {
     "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd65r5/drive_safe/"
   },
   {
-    "topic": "Marked down",
+    "topic": "it belongs here",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qcucoy/marked_down/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdcsyc/it_belongs_here/"
   },
   {
     "topic": "AI can summarize videos now... why?",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qd87b1/this_clickbait_is_just_ridiculous/"
-  },
-  {
-    "topic": "it belongs here",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdcsyc/it_belongs_here/"
   },
   {
     "topic": "Youtube knows how to make me hate this site more",
@@ -171,52 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qd5ghl/the_sense_of_scale_in_ac_odyssey_still_blows_my/"
   },
   {
-    "topic": "To The Recuse",
+    "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcsptz/to_the_recuse/"
-  },
-  {
-    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 884,507 views \u2022 ~286m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZK4VBrSqcBI"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
   },
   {
     "topic": "YoungBoy Never Broke Again - Baby Boo [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 513,162 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 530,516 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb9E3lDJZTQ"
-  },
-  {
-    "topic": "We Played The Creepy Fishing Game Again...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 609,035 views \u2022 ~702m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wB2Jy_FfddU"
   },
   {
     "topic": "ROBLOX ESCAPE TSUNAMI FOR BRAINROTS!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 425,947 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 453,523 views \u2022 ~580m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
+  },
+  {
+    "topic": "No one can talk on Roblox anymore..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 187,323 views \u2022 ~241m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PpNLVUStKik"
   },
   {
     "topic": "FAST FREDBEAR CAN TELEPORT NOW..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 345,728 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 361,982 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HEdEAFcV5xE"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,552 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 186,935 views \u2022 ~441m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,048 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 229,492 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EZKQ7YgZAak"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,087 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 62,627 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNnSBgrC4Zo"
   }
 ]
