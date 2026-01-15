@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd999j/never_let_them_know_your_next_move/"
   },
   {
-    "topic": "This was one of the screenshot",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdcn31/this_was_one_of_the_screenshot/"
-  },
-  {
     "topic": "Making cr\u00e8me br\u00fbl\u00e9e",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qd8ub7/making_cr\u00e8me_br\u00fbl\u00e9e/"
+  },
+  {
+    "topic": "Last one is epic",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qddexr/last_one_is_epic/"
   },
   {
     "topic": "Drive safe",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcz1gk/trump_intent_on_conquering_greenland_danish/"
   },
   {
-    "topic": "US military intervention in Iran may begin within 24 hours, European officials say",
+    "topic": "This time bullet won't miss: Iranian TV airs chilling assassination threat to Trump",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qcw90q/us_military_intervention_in_iran_may_begin_within/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qde3ub/this_time_bullet_wont_miss_iranian_tv_airs/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcz0ol/meet_ryan_hurst_your_kratos_in_the_upcoming_god/"
   },
   {
-    "topic": "Warhammer Maker Games Workshop Bans Its Staff From Using AI in Its Content or Designs, Says None of Its Senior Managers Are Currently Excited About the Tech",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
-  },
-  {
     "topic": "The sense of scale in AC Odyssey still blows my mind.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qd5ghl/the_sense_of_scale_in_ac_odyssey_still_blows_my/"
   },
   {
+    "topic": "Warhammer Maker Games Workshop Bans Its Staff From Using AI in Its Content or Designs, Says None of Its Senior Managers Are Currently Excited About the Tech",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qcwiwn/warhammer_maker_games_workshop_bans_its_staff/"
+  },
+  {
     "topic": "YoungBoy Never Broke Again - Baby Boo [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 541,573 views \u2022 ~518m old",
+    "why": "Trending on YouTube \u2022 553,520 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb9E3lDJZTQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 469,884 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 497,896 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kprBpJWAjw8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,168 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 223,345 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PpNLVUStKik"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 370,877 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 384,698 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HEdEAFcV5xE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 193,010 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 199,765 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBk4aYNX_Vc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,338 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 247,272 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EZKQ7YgZAak"
   }
 ]
