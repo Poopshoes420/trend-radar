@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Crown Prince Wilhelm of Germany inspecting troops around 1915",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qedlr5/crown_prince_wilhelm_of_germany_inspecting_troops/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Crown Prince Wilhelm of Germany inspecting troops around 1915",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qedlr5/crown_prince_wilhelm_of_germany_inspecting_troops/"
   },
   {
     "topic": "Vibing in there",
@@ -178,5 +178,13 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qduwbx/all_of_the_live_action_laras/"
+  },
+  {
+    "topic": "Bad Bunny Takes the World\u2019s Biggest Stage | Apple Music Super Bowl Halftime Show (Official Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,877 views \u2022 ~261m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SFKLTYwS9Fg"
   }
 ]
