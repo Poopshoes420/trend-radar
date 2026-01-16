@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
   },
   {
-    "topic": "Which YouTuber is universally despised by adults , but universally beloved by kids",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeaufj/which_youtuber_is_universally_despised_by_adults/"
-  },
-  {
     "topic": "Unfortunately it happened to me more than once",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qemvbv/unfortunately_it_happened_to_me_more_than_once/"
+  },
+  {
+    "topic": "Which YouTuber is universally despised by adults , but universally beloved by kids",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeaufj/which_youtuber_is_universally_despised_by_adults/"
   },
   {
     "topic": "46 minute ad?? I know it's skippable but... :o",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,353 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 90,889 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M4JW3tqWleQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,884 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 35,180 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SFKLTYwS9Fg"
   }
 ]
