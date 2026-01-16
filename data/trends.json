@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qe5q7l/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Norway Stunned After Machado Gifts Nobel Peace Prize Medal to Trump",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qebgt7/norway_stunned_after_machado_gifts_nobel_peace/"
-  },
-  {
     "topic": "France replaces US as main intelligence provider to Kyiv, Macron says",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qej4ad/france_replaces_us_as_main_intelligence_provider/"
+  },
+  {
+    "topic": "Norway Stunned After Machado Gifts Nobel Peace Prize Medal to Trump",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qebgt7/norway_stunned_after_machado_gifts_nobel_peace/"
   },
   {
     "topic": "China has stopped buying power from Russia",
@@ -178,21 +178,5 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qduwbx/all_of_the_live_action_laras/"
-  },
-  {
-    "topic": "Red Dead Redemption Day 3",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 256,824 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UKcL0xU09Z4"
-  },
-  {
-    "topic": "Homer Simpson Breaks Left 4 Dead 2 + Uno No Mercy Chaos! (Day of Failure)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 237,815 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KSm7JXnHj64"
   }
 ]
