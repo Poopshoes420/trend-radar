@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qe6j89/average_life_of_a_keyboard/"
   },
   {
-    "topic": "Found this gem in my son's backpack",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdsb23/found_this_gem_in_my_sons_backpack/"
-  },
-  {
     "topic": "Fun fact",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qe8n69/fun_fact/"
+  },
+  {
+    "topic": "Found this gem in my son's backpack",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qdsb23/found_this_gem_in_my_sons_backpack/"
   },
   {
     "topic": "I lose hair...",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdcsyc/it_belongs_here/"
   },
   {
-    "topic": "What YouTuber is Universally beloved by kids but is Mostly disliked by adults?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qe08l5/what_youtuber_is_universally_beloved_by_kids_but/"
-  },
-  {
     "topic": "46 minute ad?? I know it's skippable but... :o",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qe8368/46_minute_ad_i_know_its_skippable_but_o/"
+  },
+  {
+    "topic": "What YouTuber is Universally beloved by kids but is Mostly disliked by adults?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qe08l5/what_youtuber_is_universally_beloved_by_kids_but/"
   },
   {
     "topic": "Wtf is this!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 698,340 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 743,523 views \u2022 ~132m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-y5T0hjPcPA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,310,489 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 1,313,525 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mi2LO4KIQxQ"
   },
   {
@@ -200,63 +200,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 834,862 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 926,455 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R6e4tBWxIxE"
-  },
-  {
-    "topic": "Red Dead Redemption Day 3",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 207,907 views \u2022 ~163m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UKcL0xU09Z4"
   },
   {
     "topic": "Kenia Os - Belladona (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 626,536 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 641,623 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-mK2MGuNbeo"
   },
   {
-    "topic": "This Game Makes Me Do Drugs",
+    "topic": "Red Dead Redemption Day 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 337,946 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TcVA_1HO0uw"
+    "why": "Trending on YouTube \u2022 212,083 views \u2022 ~194m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UKcL0xU09Z4"
   },
   {
     "topic": "Just Doing My Job (Quarantine Zone Episode 4)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,539 views \u2022 ~557m old",
+    "why": "Trending on YouTube \u2022 177,605 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NtKtyYG-Exk"
-  },
-  {
-    "topic": "Hilary Duff - Roommates (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 141,672 views \u2022 ~497m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Akkzj5p3a3E"
   },
   {
     "topic": "A$AP ROCKY - STOLE YA FLOW (VISUALIZER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,874 views \u2022 ~182m old",
+    "why": "Trending on YouTube \u2022 61,630 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dteNMCNSczE"
+  },
+  {
+    "topic": "Hilary Duff - Roommates (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 148,038 views \u2022 ~528m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Akkzj5p3a3E"
   },
   {
     "topic": "Mitski - Where's My Phone? (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,506 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 55,179 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1mOGviDFRQU"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,377 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 31,702 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=plbNzv3KvWs"
   }
 ]
