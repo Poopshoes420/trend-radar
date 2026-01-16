@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
   },
   {
+    "topic": "Wtf is this!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdyx0j/wtf_is_this/"
+  },
+  {
     "topic": "i hate this",
     "sources": [
       "reddit"
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdv01e/i_hate_this/"
   },
   {
-    "topic": "AI can summarize videos now... why?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdat7f/ai_can_summarize_videos_now_why/"
-  },
-  {
-    "topic": "Trump Is Keeping Money From Venezuelan Oil Sale in Offshore Account",
+    "topic": "Trump given Nobel Peace medal by Venezuelan opposition leader Machado",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdv0bo/trump_is_keeping_money_from_venezuelan_oil_sale/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdwsrx/trump_given_nobel_peace_medal_by_venezuelan/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1421, Part 1 (Thread #1568)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdrfgp/greenland_minister_tearful_as_she_describes/"
   },
   {
-    "topic": "Trump given Nobel Peace medal by Venezuelan opposition leader Machado",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdwsrx/trump_given_nobel_peace_medal_by_venezuelan/"
-  },
-  {
     "topic": "Anger in Iceland over incoming US ambassador\u2019s \u201852nd state\u2019 joke",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/"
+  },
+  {
+    "topic": "Europeans quietly shift away from US tech services, share lists of local alternatives",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qdytqt/europeans_quietly_shift_away_from_us_tech/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qao5wn/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "All of the live action Laras",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qduwbx/all_of_the_live_action_laras/"
+  },
+  {
     "topic": "First look at Sophie Turner as Lara Croft in Prime Video's Tomb Raider series",
     "sources": [
       "reddit"
@@ -153,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdkhnd/first_look_at_sophie_turner_as_lara_croft_in/"
   },
   {
-    "topic": "All of the live action Laras",
+    "topic": "Bully Online, the ambitious mod that brought multiplayer and more to Rockstar's classic school sim, shuts down a month after launch: 'This was not something we wanted'",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qduwbx/all_of_the_live_action_laras/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdzl3e/bully_online_the_ambitious_mod_that_brought/"
   },
   {
     "topic": "MSI is legalizing cheating?",
@@ -171,44 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdlttr/msi_is_legalizing_cheating/"
   },
   {
-    "topic": "Poor Monster Hunter Wilds Performance Allegedly Chalked Up to Aggressive DLC Checks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qdd788/poor_monster_hunter_wilds_performance_allegedly/"
-  },
-  {
-    "topic": "BORDER 2 (Trailer) | Sunny Deol, Varun, Diljit, Ahan | Anurag S | JP Dutta, Bhushan K | 23-Jan-2026",
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,257,434 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AZGfCK1yTTI"
-  },
-  {
-    "topic": "I Survived the Unstable SMP Purge",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,321,534 views \u2022 ~591m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FW095YeIhmU"
+    "why": "Trending on YouTube \u2022 657,388 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rCHtEKJbX4o"
   },
   {
     "topic": "THE BRIDE! | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 815,031 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 1,484,794 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IhgcUArO3Uo"
+  },
+  {
+    "topic": "I Survived the Unstable SMP Purge",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,511,241 views \u2022 ~683m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FW095YeIhmU"
   },
   {
     "topic": "YoungBoy Never Broke Again - Switches [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 489,956 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 599,434 views \u2022 ~465m old",
     "exampleUrl": "https://www.youtube.com/watch?v=luzMcTOgHoo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 390,052 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 516,344 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lIxQe1R5hs0"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 200,017 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 286,393 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NtmA1nQTg2w"
+  },
+  {
+    "topic": "This Game Makes Me Do Drugs",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 146,846 views \u2022 ~280m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TcVA_1HO0uw"
   },
   {
     "topic": "The Sims 4: Royalty & Legacy | Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,871 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 277,068 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iyMI9ES-7Nc"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,963 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 163,111 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M910sjgb3gk"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,352 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 131,721 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FpEnjA15Wvo"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 105,559 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 127,249 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xu8Xm4gpDP8"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,573 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 105,480 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rlca-JF6l0U"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 101,173 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 133,142 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C93GFpbp554"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,890 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 122,350 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1WWY54xuswE"
   },
   {
@@ -288,31 +296,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,063 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 128,556 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TIUHN3zAPn4"
-  },
-  {
-    "topic": "Lamb of God - Into Oblivion (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 122,473 views \u2022 ~651m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QIKEy_xgBjk"
-  },
-  {
-    "topic": "Dalvin La Melodia - Su\u00e9ltenla ( Official Video )",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 54,207 views \u2022 ~424m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nncSxY9qPxI"
   },
   {
     "topic": "Jill Scott - Don't Play | A COLORS SHOW",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,047 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 45,838 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Yujl05OeeQ"
   }
 ]
