@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qe8368/46_minute_ad_i_know_its_skippable_but_o/"
   },
   {
-    "topic": "Uploading SRV3 subtitles got broken/disabled. Please restore it.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
-  },
-  {
     "topic": "Is censoring words really that crucial for visibility?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qecl81/is_censoring_words_really_that_crucial_for/"
+  },
+  {
+    "topic": "Uploading SRV3 subtitles got broken/disabled. Please restore it.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdvgmc/uploading_srv3_subtitles_got_brokendisabled/"
   },
   {
     "topic": "it belongs here",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qdcsyc/it_belongs_here/"
   },
   {
-    "topic": "Norway Stunned After Machado Gifts Nobel Peace Prize Medal to Trump",
+    "topic": "75% of Americans oppose US attempting to take control of Greenland, CNN poll finds",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qebgt7/norway_stunned_after_machado_gifts_nobel_peace/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qef2m4/75_of_americans_oppose_us_attempting_to_take/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1422, Part 1 (Thread #1569)",
@@ -108,22 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qe5q7l/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "75% of Americans oppose US attempting to take control of Greenland, CNN poll finds",
+    "topic": "Norway Stunned After Machado Gifts Nobel Peace Prize Medal to Trump",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qef2m4/75_of_americans_oppose_us_attempting_to_take/"
-  },
-  {
-    "topic": "Canada, China set for 'historic' gains from new partnership, Carney says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qe5ez1/canada_china_set_for_historic_gains_from_new/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qebgt7/norway_stunned_after_machado_gifts_nobel_peace/"
   },
   {
     "topic": "Ukraine\u2019s robot machine gunner held off Russia for six weeks",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qebfiq/ukraines_robot_machine_gunner_held_off_russia_for/"
+  },
+  {
+    "topic": "Canada agrees to cut tariff on Chinese EVs in return for lower tariffs on Canadian farm products",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qebyr8/canada_agrees_to_cut_tariff_on_chinese_evs_in/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,011,948 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 2,225,034 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R6e4tBWxIxE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 238,262 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 241,162 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UKcL0xU09Z4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,903 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 187,124 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KSm7JXnHj64"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,722 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 163,704 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dteNMCNSczE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,952 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 68,905 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WFPAm519lfI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,963 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 54,613 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=plbNzv3KvWs"
   }
 ]
