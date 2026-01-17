@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qej527/note_to_self_if_your_toddler_puts_a_bandaid_on/"
   },
   {
+    "topic": "Very Hard job",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qf1txo/very_hard_job/"
+  },
+  {
     "topic": "Found this while shopping. Someone didn't think this through...",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qeeiy8/vibing_in_there/"
   },
   {
-    "topic": "Crown Prince Wilhelm of Germany inspecting troops around 1915",
+    "topic": "Political organizations are categorizing their ads intentionally incorrectly so they appear on your feed",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qedlr5/crown_prince_wilhelm_of_germany_inspecting_troops/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
   },
   {
     "topic": "Unfortunately it happened to me more than once",
@@ -61,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
-  },
-  {
-    "topic": "Political organizations are categorizing their ads intentionally incorrectly so they appear on your feed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
   },
   {
     "topic": "Tf are these youtube surveys??",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 941,976 views \u2022 ~208m old",
+    "why": "Trending on YouTube \u2022 949,620 views \u2022 ~283m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OaCSzV8yP1A"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 497,981 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 582,556 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dcrZM1w2CQs"
+  },
+  {
+    "topic": "YoungBoy Never Broke Again - Resume [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 432,720 views \u2022 ~645m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=11j9KBDS2Xk"
   },
   {
     "topic": "I Opened The RAREST LUCKY BLOCKS And Got This..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 159,679 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 193,103 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6r0zokWD_l0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 263,004 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 296,041 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tQlhHGtnUyk"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,445 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 165,701 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GMnCuE_KYpY"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 223,928 views \u2022 ~639m old",
+    "why": "Trending on YouTube \u2022 240,636 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M4JW3tqWleQ"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,974 views \u2022 ~443m old",
+    "why": "Trending on YouTube \u2022 80,823 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7OADwM-V9Xk"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,552 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 20,812 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YoMTjC4pDcY"
   }
 ]
