@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Cat is very invested in my fingerboard session",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfa189/cat_is_very_invested_in_my_fingerboard_session/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Cat is very invested in my fingerboard session",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfa189/cat_is_very_invested_in_my_fingerboard_session/"
   },
   {
     "topic": "Today I learned",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfb9nx/kremlin_says_russia_sees_greenland_as_danish/"
   },
   {
-    "topic": "Intelligence indicates Russians are preparing for new large-scale attacks on Ukraine",
+    "topic": "Large crowds expected for 'Hands off Greenland' protests",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf40rn/intelligence_indicates_russians_are_preparing_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf9wy8/large_crowds_expected_for_hands_off_greenland/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qf6sgm/highguard_the_one_last_thing_announcement_at_the/"
   },
   {
-    "topic": "All EB Games outlets in New Zealand will close by the end of the month following 'multi-million dollar' losses",
+    "topic": "Hytale took me back to my childhood, to the times I built my first farm back in 2012 in Minecraft. I feel incredibly nostalgic.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qf918r/all_eb_games_outlets_in_new_zealand_will_close_by/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfg6ji/hytale_took_me_back_to_my_childhood_to_the_times/"
   },
   {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & Hutch | FREAK BOB FRIDAY | #ShartGaseusFumesIntoMyLungs #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 933,870 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 938,045 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 362,369 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 385,845 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zWijkGX0Mdo"
   }
 ]
