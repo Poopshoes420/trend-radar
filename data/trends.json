@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
   },
   {
+    "topic": "YouTube meme I laughed at\u2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfhcvt/youtube_meme_i_laughed_at/"
+  },
+  {
     "topic": "Bruno mars adding a bruno mars ad about his latest music video in his latest music video",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8bas/bruno_mars_adding_a_bruno_mars_ad_about_his/"
   },
   {
-    "topic": "YouTube meme I laughed at\u2026",
+    "topic": "Trump says 8 European countries will be charged a 10% tariff for opposing US control of Greenland",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfhcvt/youtube_meme_i_laughed_at/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfhy7u/trump_says_8_european_countries_will_be_charged_a/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1423, Part 1 (Thread #1570)",
@@ -108,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfa8uq/republican_dissent_as_key_figures_warn_trump/"
   },
   {
-    "topic": "Trump says 8 European countries will be charged a 10% tariff for opposing US control of Greenland",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfhy7u/trump_says_8_european_countries_will_be_charged_a/"
-  },
-  {
     "topic": "Hands off Greenland': Thousands protest in Denmark against Trump's land grab",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfd5ht/hands_off_greenland_thousands_protest_in_denmark/"
   },
   {
-    "topic": "Kremlin says Russia sees Greenland as Danish territory",
+    "topic": "Trump tariffs: US president announces plan to hit UK, Denmark and other European countries with tariffs over Greenland",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfb9nx/kremlin_says_russia_sees_greenland_as_danish/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfhy11/trump_tariffs_us_president_announces_plan_to_hit/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfg6ji/hytale_took_me_back_to_my_childhood_to_the_times/"
   },
   {
+    "topic": "JeraiCathy Live Stream",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 2,763,508 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z_9YQ-5eh_c"
+  },
+  {
+    "topic": "EXTREME SHARK GAME!!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 3,166,634 views \u2022 ~178m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XRgOPWisuog"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & Hutch | FREAK BOB FRIDAY | #ShartGaseusFumesIntoMyLungs #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 943,617 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 946,206 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 418,765 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 435,188 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zWijkGX0Mdo"
   }
 ]
