@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8bas/bruno_mars_adding_a_bruno_mars_ad_about_his/"
   },
   {
-    "topic": "How sad and lifeless can one get?",
+    "topic": "YouTube meme I laughed at\u2026",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf813m/how_sad_and_lifeless_can_one_get/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfhcvt/youtube_meme_i_laughed_at/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1423, Part 1 (Thread #1570)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfa8uq/republican_dissent_as_key_figures_warn_trump/"
   },
   {
+    "topic": "Trump says 8 European countries will be charged a 10% tariff for opposing US control of Greenland",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfhy7u/trump_says_8_european_countries_will_be_charged_a/"
+  },
+  {
     "topic": "Hands off Greenland': Thousands protest in Denmark against Trump's land grab",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfb9nx/kremlin_says_russia_sees_greenland_as_danish/"
-  },
-  {
-    "topic": "Large crowds expected for 'Hands off Greenland' protests",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf9wy8/large_crowds_expected_for_hands_off_greenland/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 940,890 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 943,617 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 402,492 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 418,765 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zWijkGX0Mdo"
   }
 ]
