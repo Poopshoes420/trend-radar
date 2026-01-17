@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf46k2/please_stop/"
   },
   {
-    "topic": "Unfortunately it happened to me more than once",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qemvbv/unfortunately_it_happened_to_me_more_than_once/"
-  },
-  {
     "topic": "EXCUSE ME?!",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
+  },
+  {
+    "topic": "Unfortunately it happened to me more than once",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qemvbv/unfortunately_it_happened_to_me_more_than_once/"
   },
   {
     "topic": "Bruno mars adding a bruno mars ad about his latest music video in his latest music video",
@@ -126,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf4ula/iran_plans_permanent_break_from_global_internet/"
   },
   {
-    "topic": "Trump Says May Slap Tariffs On Nations That Don't Back His Greenland Plans",
+    "topic": "China blocks Nvidia H200 AI chips that US government cleared for export \u2013 report | Nvidia",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qejxed/trump_says_may_slap_tariffs_on_nations_that_dont/"
-  },
-  {
-    "topic": "Jay Leno Says He Was Asked If He Would \u201cGet a Girlfriend\u201d Amid His Wife\u2019s Dementia Battle: \"You take a vow when you get married and people are stunned. They\u2019re so shocked that you live up to it. Why?\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qeyoza/jay_leno_says_he_was_asked_if_he_would_get_a/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf51g9/china_blocks_nvidia_h200_ai_chips_that_us/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qeig5q/i_think_millennials_understand_just_how_powerful/"
   },
   {
+    "topic": "\"We as a company are always ready to take a stand on the right values\" - GOG says selling indie game Horses when Steam and Epic wouldn't was \"a matter of freedom\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qelc6v/we_as_a_company_are_always_ready_to_take_a_stand/"
+  },
+  {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 860,186 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 860,270 views \u2022 ~427m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sc-v5GvZVz0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,110,426 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 1,110,536 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KuWMSpBOSGs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 418,283 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 434,058 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZdXTPqQu6GM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 379,535 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 395,748 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W9xUzSTBEUs"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,600 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 267,742 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=poUtpQ2SzrI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,628 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 154,659 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4__Q2IgYbOU"
   }
 ]
