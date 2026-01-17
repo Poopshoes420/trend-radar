@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
   },
   {
-    "topic": "Please stop.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf46k2/please_stop/"
-  },
-  {
     "topic": "Everything about this thumbnail just feels wrong",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
   },
   {
-    "topic": "Bruno mars adding a bruno mars ad about his latest music video in his latest music video",
+    "topic": "Please stop.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8bas/bruno_mars_adding_a_bruno_mars_ad_about_his/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf46k2/please_stop/"
   },
   {
     "topic": "Just got this notification when liking a video, are we fr Youtube \ud83e\udee9",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8g8t/just_got_this_notification_when_liking_a_video/"
+  },
+  {
+    "topic": "Bruno mars adding a bruno mars ad about his latest music video in his latest music video",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8bas/bruno_mars_adding_a_bruno_mars_ad_about_his/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1423, Part 1 (Thread #1570)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qf6sgm/highguard_the_one_last_thing_announcement_at_the/"
   },
   {
-    "topic": "I think millennials understand just how powerful this sequence was in gaming history.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qeig5q/i_think_millennials_understand_just_how_powerful/"
-  },
-  {
     "topic": "Riot Games (League of Legends developers) caught using AI generated images in their game. This is after receiving heavy backlash in 2025 for uploading a fully AI generated promotional video to their official social media account, then responding to the criticism with \u201cwe can and will do better\u201d",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfali8/riot_games_league_of_legends_developers_caught/"
   },
   {
+    "topic": "I think millennials understand just how powerful this sequence was in gaming history.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qeig5q/i_think_millennials_understand_just_how_powerful/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & Hutch | FREAK BOB FRIDAY | #ShartGaseusFumesIntoMyLungs #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 905,038 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 906,261 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 860,319 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 860,347 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sc-v5GvZVz0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,110,559 views \u2022 ~659m old",
+    "why": "Trending on YouTube \u2022 1,110,564 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KuWMSpBOSGs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 462,667 views \u2022 ~686m old",
+    "why": "Trending on YouTube \u2022 466,726 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZdXTPqQu6GM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 425,060 views \u2022 ~659m old",
+    "why": "Trending on YouTube \u2022 430,487 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W9xUzSTBEUs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,418 views \u2022 ~619m old",
+    "why": "Trending on YouTube \u2022 281,037 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=poUtpQ2SzrI"
   }
 ]
