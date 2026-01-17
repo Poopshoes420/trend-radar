@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qf5duv/told_her_three_times_not_to_forget_the_sandwich/"
   },
   {
+    "topic": "Cat is very invested in my fingerboard session",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfa189/cat_is_very_invested_in_my_fingerboard_session/"
+  },
+  {
     "topic": "Found this while shopping. Someone didn't think this through...",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qej527/note_to_self_if_your_toddler_puts_a_bandaid_on/"
-  },
-  {
-    "topic": "Vibing in there",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qeeiy8/vibing_in_there/"
   },
   {
     "topic": "Political organizations are categorizing their ads intentionally incorrectly so they appear on your feed",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf46k2/please_stop/"
   },
   {
+    "topic": "Everything about this thumbnail just feels wrong",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
+  },
+  {
     "topic": "Bruno mars adding a bruno mars ad about his latest music video in his latest music video",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8bas/bruno_mars_adding_a_bruno_mars_ad_about_his/"
   },
   {
-    "topic": "EXCUSE ME?!",
+    "topic": "Just got this notification when liking a video, are we fr Youtube \ud83e\udee9",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
-  },
-  {
-    "topic": "Unfortunately it happened to me more than once",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qemvbv/unfortunately_it_happened_to_me_more_than_once/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8g8t/just_got_this_notification_when_liking_a_video/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1423, Part 1 (Thread #1570)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf4ula/iran_plans_permanent_break_from_global_internet/"
   },
   {
-    "topic": "US says Canada will regret decision to allow Chinese EVs into their market",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qeodmg/us_says_canada_will_regret_decision_to_allow/"
-  },
-  {
     "topic": "China blocks Nvidia H200 AI chips that US government cleared for export \u2013 report | Nvidia",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf51g9/china_blocks_nvidia_h200_ai_chips_that_us/"
+  },
+  {
+    "topic": "US says Canada will regret decision to allow Chinese EVs into their market",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qeodmg/us_says_canada_will_regret_decision_to_allow/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qeig5q/i_think_millennials_understand_just_how_powerful/"
   },
   {
-    "topic": "\"We as a company are always ready to take a stand on the right values\" - GOG says selling indie game Horses when Steam and Epic wouldn't was \"a matter of freedom\"",
+    "topic": "Riot Games (League of Legends developers) caught using AI generated images in their game. This is after receiving heavy backlash in 2025 for uploading a fully AI generated promotional video to their official social media account, then responding to the criticism with \u201cwe can and will do better\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qelc6v/we_as_a_company_are_always_ready_to_take_a_stand/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfali8/riot_games_league_of_legends_developers_caught/"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & Hutch | FREAK BOB FRIDAY | #ShartGaseusFumesIntoMyLungs #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 905,038 views \u2022 ~154m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 860,288 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 860,319 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sc-v5GvZVz0"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,110,550 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 1,110,559 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KuWMSpBOSGs"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 451,893 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 462,667 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZdXTPqQu6GM"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 412,113 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 425,060 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W9xUzSTBEUs"
   },
   {
@@ -216,15 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 273,999 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 279,418 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=poUtpQ2SzrI"
-  },
-  {
-    "topic": "She Was 98\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 159,676 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4__Q2IgYbOU"
   }
 ]
