@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Today I learned",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
-  },
-  {
     "topic": "My shoes disintegrated yesterday at a church funeral.",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfc7kn/my_shoes_disintegrated_yesterday_at_a_church/"
+  },
+  {
+    "topic": "Today I learned",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
   },
   {
     "topic": "Cat is very invested in my fingerboard session",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,179,141 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 3,179,490 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRgOPWisuog"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,775,543 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 2,775,604 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_9YQ-5eh_c"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 869,578 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 869,711 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wby65kBRWzk"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & Hutch | FREAK BOB FRIDAY | #ShartGaseusFumesIntoMyLungs #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 965,662 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
     "topic": "I Made $108,063,600 Exploiting the Entire Economy With Just 1 Item",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 337,745 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 360,427 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X8XvSM35u9w"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,602 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 303,825 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5WaR_Z8gsbE"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,821 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 20,290 views \u2022 ~312m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pl3dgaEWEHU"
   }
 ]
