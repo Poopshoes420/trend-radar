@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf46k2/please_stop/"
   },
   {
-    "topic": "Just got this notification when liking a video, are we fr Youtube \ud83e\udee9",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8g8t/just_got_this_notification_when_liking_a_video/"
-  },
-  {
     "topic": "Bruno mars adding a bruno mars ad about his latest music video in his latest music video",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf8bas/bruno_mars_adding_a_bruno_mars_ad_about_his/"
+  },
+  {
+    "topic": "EXCUSE ME?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1423, Part 1 (Thread #1570)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf40rn/intelligence_indicates_russians_are_preparing_for/"
   },
   {
+    "topic": "Republican dissent as key figures warn Trump against Greenland pursuit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfa8uq/republican_dissent_as_key_figures_warn_trump/"
+  },
+  {
     "topic": "Iran plans permanent break from global internet, say activists",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf51g9/china_blocks_nvidia_h200_ai_chips_that_us/"
-  },
-  {
-    "topic": "US says Canada will regret decision to allow Chinese EVs into their market",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qeodmg/us_says_canada_will_regret_decision_to_allow/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qf6sgm/highguard_the_one_last_thing_announcement_at_the/"
   },
   {
-    "topic": "Riot Games (League of Legends developers) caught using AI generated images in their game. This is after receiving heavy backlash in 2025 for uploading a fully AI generated promotional video to their official social media account, then responding to the criticism with \u201cwe can and will do better\u201d",
+    "topic": "All EB Games outlets in New Zealand will close by the end of the month following 'multi-million dollar' losses",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfali8/riot_games_league_of_legends_developers_caught/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qf918r/all_eb_games_outlets_in_new_zealand_will_close_by/"
   },
   {
     "topic": "I think millennials understand just how powerful this sequence was in gaming history.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 907,658 views \u2022 ~182m old",
+    "why": "Trending on YouTube \u2022 912,474 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -192,39 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 860,390 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 860,462 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sc-v5GvZVz0"
-  },
-  {
-    "topic": "EXTREME SHARK GAME!!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,110,660 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KuWMSpBOSGs"
-  },
-  {
-    "topic": "MR - Marvel Rivals Shenanigans",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 473,220 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZdXTPqQu6GM"
-  },
-  {
-    "topic": "MEMES I WISH I KNEW..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 436,210 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=W9xUzSTBEUs"
   },
   {
     "topic": "Blueface Ft Stunna Girl - Better (OFFICIAL MUSIC VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,428 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 290,764 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=poUtpQ2SzrI"
   }
 ]
