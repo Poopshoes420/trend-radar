@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Told her three times not to forget the sandwich in the air fryer.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qf5duv/told_her_three_times_not_to_forget_the_sandwich/"
-  },
-  {
     "topic": "Today I learned",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
+  },
+  {
+    "topic": "Told her three times not to forget the sandwich in the air fryer.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qf5duv/told_her_three_times_not_to_forget_the_sandwich/"
   },
   {
     "topic": "Found this while shopping. Someone didn't think this through...",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf40rn/intelligence_indicates_russians_are_preparing_for/"
   },
   {
-    "topic": "Large crowds expected for 'Hands off Greenland' protests",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf9wy8/large_crowds_expected_for_hands_off_greenland/"
-  },
-  {
     "topic": "Kremlin says Russia sees Greenland as Danish territory",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfb9nx/kremlin_says_russia_sees_greenland_as_danish/"
+  },
+  {
+    "topic": "Large crowds expected for 'Hands off Greenland' protests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf9wy8/large_crowds_expected_for_hands_off_greenland/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 924,408 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 925,976 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -192,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 860,617 views \u2022 ~681m old",
+    "why": "Trending on YouTube \u2022 860,617 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sc-v5GvZVz0"
+  },
+  {
+    "topic": "NO ONE saw this coming..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 303,513 views \u2022 ~415m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zWijkGX0Mdo"
   }
 ]
