@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
   },
   {
-    "topic": "Why ??????",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfam44/why/"
-  },
-  {
     "topic": "Genuinely what is this guy doing anymore",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfdpz9/genuinely_what_is_this_guy_doing_anymore/"
+  },
+  {
+    "topic": "Why ??????",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfam44/why/"
   },
   {
     "topic": "YouTube meme I laughed at\u2026",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfhy7u/trump_says_8_european_countries_will_be_charged_a/"
   },
   {
-    "topic": "Denmark officials react to tariff threat: We will not \u2018bow down\u2019 to Trump\u2019s \u2018bullying tactics\u2019",
+    "topic": "EU Set to Halt US Trade Deal Over Trump\u2019s Latest Tariff Threat",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qflyd1/denmark_officials_react_to_tariff_threat_we_will/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfo9c2/eu_set_to_halt_us_trade_deal_over_trumps_latest/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,504,908 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 2,531,999 views \u2022 ~133m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eDk8xVjVkhI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,180,664 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 3,180,975 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRgOPWisuog"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,775,957 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 2,776,020 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_9YQ-5eh_c"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 874,108 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 874,428 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wby65kBRWzk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 507,060 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 550,055 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X8XvSM35u9w"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,390 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 315,129 views \u2022 ~327m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_zo-rv19p0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 380,389 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 403,566 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5WaR_Z8gsbE"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,222 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 77,453 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xGrJVd3nJxM"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,301 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 27,602 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pl3dgaEWEHU"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,179 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 24,847 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-tckRoT4ztg"
   }
 ]
