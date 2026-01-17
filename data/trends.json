@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
   },
   {
+    "topic": "Please stop.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qf46k2/please_stop/"
+  },
+  {
     "topic": "Tf are these youtube surveys??",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qers2y/tf_are_these_youtube_surveys/"
-  },
-  {
-    "topic": "Which YouTuber is universally despised by adults , but universally beloved by kids",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeaufj/which_youtuber_is_universally_despised_by_adults/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1423, Part 1 (Thread #1570)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qem3hz/us_congress_members_visit_denmark_to_support/"
   },
   {
-    "topic": "France replaces US as main intelligence provider to Kyiv, Macron says",
+    "topic": "US Invited To Greenland Military Exercises: Danish General To AFP",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qej4ad/france_replaces_us_as_main_intelligence_provider/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qepobi/us_invited_to_greenland_military_exercises_danish/"
   },
   {
     "topic": "Jay Leno Says He Was Asked If He Would \u201cGet a Girlfriend\u201d Amid His Wife\u2019s Dementia Battle: \"You take a vow when you get married and people are stunned. They\u2019re so shocked that you live up to it. Why?\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 949,833 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 949,863 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OaCSzV8yP1A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 675,745 views \u2022 ~630m old",
+    "why": "Trending on YouTube \u2022 699,465 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dcrZM1w2CQs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,390 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 241,150 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6r0zokWD_l0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,765 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 194,666 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GMnCuE_KYpY"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,446 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 147,730 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oNJ5_uI4tVg"
   },
   {
@@ -224,15 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,134 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 90,738 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7OADwM-V9Xk"
-  },
-  {
-    "topic": "Mary J. Blige Presents Be Happy | Official Trailer (Lifetime 2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 26,788 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YoMTjC4pDcY"
   }
 ]
