@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
   },
   {
+    "topic": "My shoes disintegrated yesterday at a church funeral.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfc7kn/my_shoes_disintegrated_yesterday_at_a_church/"
+  },
+  {
     "topic": "Cat is very invested in my fingerboard session",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfi2qv/who_needs_guitar_capos_anyway/"
-  },
-  {
-    "topic": "Baby laughs \ud83e\udd23",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfhj0r/baby_laughs/"
   },
   {
     "topic": "Everything about this thumbnail just feels wrong",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfj3m4/trump_is_making_china_not_america_great_again/"
   },
   {
-    "topic": "\u2018He Doesn\u2019t Care About Us\u2019: Iranian Protesters Say They Were Betrayed By Trump",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfjedh/he_doesnt_care_about_us_iranian_protesters_say/"
-  },
-  {
     "topic": "Macron says Trump tariff threat over Greenland unacceptable",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfls39/macron_says_trump_tariff_threat_over_greenland/"
+  },
+  {
+    "topic": "\u2018He Doesn\u2019t Care About Us\u2019: Iranian Protesters Say They Were Betrayed By Trump",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfjedh/he_doesnt_care_about_us_iranian_protesters_say/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,774,525 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 2,775,363 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_9YQ-5eh_c"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,178,681 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 3,178,681 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRgOPWisuog"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 392,943 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 394,549 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=93RDvYHgjqg"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 955,662 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 960,734 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
-    "topic": "NO ONE saw this coming..",
+    "topic": "I Made $108,063,600 Exploiting the Entire Economy With Just 1 Item",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 510,857 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zWijkGX0Mdo"
+    "why": "Trending on YouTube \u2022 285,673 views \u2022 ~281m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=X8XvSM35u9w"
+  },
+  {
+    "topic": "Whatever I GOOGLE COMES TO LIFE In Steal A Brainrot!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 250,819 views \u2022 ~252m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5WaR_Z8gsbE"
+  },
+  {
+    "topic": "Avengers Doomsday Teasers Reaction | Thor, X-Men, Fantastic Four",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 15,435 views \u2022 ~250m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pl3dgaEWEHU"
   }
 ]
