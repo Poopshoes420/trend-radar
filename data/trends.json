@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qej527/note_to_self_if_your_toddler_puts_a_bandaid_on/"
   },
   {
-    "topic": "Vibing in there",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qeeiy8/vibing_in_there/"
-  },
-  {
     "topic": "Found this while shopping. Someone didn't think this through...",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qepfg8/found_this_while_shopping_someone_didnt_think/"
+  },
+  {
+    "topic": "Vibing in there",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qeeiy8/vibing_in_there/"
   },
   {
     "topic": "Crown Prince Wilhelm of Germany inspecting troops around 1915",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeopa7/excuse_me/"
   },
   {
+    "topic": "Political organizations are categorizing their ads intentionally incorrectly so they appear on your feed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
+  },
+  {
     "topic": "Tf are these youtube surveys??",
     "sources": [
       "reddit"
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeaufj/which_youtuber_is_universally_despised_by_adults/"
   },
   {
-    "topic": "46 minute ad?? I know it's skippable but... :o",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qe8368/46_minute_ad_i_know_its_skippable_but_o/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1422, Part 1 (Thread #1569)",
     "sources": [
       "reddit"
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qe5q7l/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump Says May Slap Tariffs On Nations That Don't Back His Greenland Plans",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qejxed/trump_says_may_slap_tariffs_on_nations_that_dont/"
-  },
-  {
     "topic": "US says Canada will regret decision to allow Chinese EVs into their market",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qeodmg/us_says_canada_will_regret_decision_to_allow/"
+  },
+  {
+    "topic": "Trump Says May Slap Tariffs On Nations That Don't Back His Greenland Plans",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qejxed/trump_says_may_slap_tariffs_on_nations_that_dont/"
   },
   {
     "topic": "France replaces US as main intelligence provider to Kyiv, Macron says",
@@ -180,59 +180,67 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qejtb6/game_that_is_just_too_long_for_its_own_good/"
   },
   {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 941,976 views \u2022 ~208m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OaCSzV8yP1A"
+  },
+  {
     "topic": "I Got Adopted In Roblox..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 372,014 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 497,981 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dcrZM1w2CQs"
+  },
+  {
+    "topic": "I Opened The RAREST LUCKY BLOCKS And Got This..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 159,679 views \u2022 ~285m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6r0zokWD_l0"
   },
   {
     "topic": "I Gave My Crush Her Own Ritual In Steal A Brainrot...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,200 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 263,004 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tQlhHGtnUyk"
-  },
-  {
-    "topic": "Peanut's Funniest Moments IS BACK | Arc Raiders",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 194,743 views \u2022 ~535m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=M4JW3tqWleQ"
   },
   {
     "topic": "Friends Pick the Hottest Slots",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 105,629 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 143,445 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GMnCuE_KYpY"
   },
   {
-    "topic": "Grandpa Buff the Turban Farmer",
+    "topic": "Peanut's Funniest Moments IS BACK | Arc Raiders",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 128,129 views \u2022 ~406m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5E_Qviqioy8"
+    "why": "Trending on YouTube \u2022 223,928 views \u2022 ~639m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=M4JW3tqWleQ"
   },
   {
     "topic": "Foxhole Airborne - Official Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,445 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 71,974 views \u2022 ~443m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7OADwM-V9Xk"
   },
   {
-    "topic": "Bad Bunny Takes the World\u2019s Biggest Stage | Apple Music Super Bowl Halftime Show (Official Trailer)",
+    "topic": "Mary J. Blige Presents Be Happy | Official Trailer (Lifetime 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,641 views \u2022 ~643m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SFKLTYwS9Fg"
+    "why": "Trending on YouTube \u2022 15,552 views \u2022 ~540m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YoMTjC4pDcY"
   }
 ]
