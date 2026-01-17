@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfhcvt/youtube_meme_i_laughed_at/"
   },
   {
-    "topic": "Political organizations are categorizing their ads intentionally incorrectly so they appear on your feed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
-  },
-  {
     "topic": "Genuinely what is this guy doing anymore",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfdpz9/genuinely_what_is_this_guy_doing_anymore/"
+  },
+  {
+    "topic": "Political organizations are categorizing their ads intentionally incorrectly so they appear on your feed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qeuo5i/political_organizations_are_categorizing_their/"
   },
   {
     "topic": "Trump says 8 European countries will be charged a 10% tariff for opposing US control of Greenland",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qf2z0e/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Trump is making China \u2013 not America \u2013 great again, global survey suggests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfj3m4/trump_is_making_china_not_america_great_again/"
+  },
+  {
     "topic": "Republican dissent as key figures warn Trump against Greenland pursuit",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfa8uq/republican_dissent_as_key_figures_warn_trump/"
   },
   {
-    "topic": "Hands off Greenland': Thousands protest in Denmark against Trump's land grab",
+    "topic": "\u2018He Doesn\u2019t Care About Us\u2019: Iranian Protesters Say They Were Betrayed By Trump",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfd5ht/hands_off_greenland_thousands_protest_in_denmark/"
-  },
-  {
-    "topic": "Kremlin says Russia sees Greenland as Danish territory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfb9nx/kremlin_says_russia_sees_greenland_as_danish/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfjedh/he_doesnt_care_about_us_iranian_protesters_say/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,765,408 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 2,766,130 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_9YQ-5eh_c"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,167,310 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 3,172,774 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRgOPWisuog"
+  },
+  {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 392,677 views \u2022 ~117m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=93RDvYHgjqg"
   },
   {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & Hutch | FREAK BOB FRIDAY | #ShartGaseusFumesIntoMyLungs #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 949,855 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 954,605 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=olKOjy7AVLs"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 458,719 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 484,865 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zWijkGX0Mdo"
   }
 ]
