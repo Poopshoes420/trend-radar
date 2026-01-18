@@ -99,24 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfycb0/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "EU Set to Halt US Trade Deal Over Trump\u2019s Latest Tariff Threat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfo9c2/eu_set_to_halt_us_trade_deal_over_trumps_latest/"
-  },
-  {
-    "topic": "Trump administration demands countries pay $1B for permanent spot on Gaza Board of Peace",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfstmw/trump_administration_demands_countries_pay_1b_for/"
-  },
-  {
     "topic": "India Imposes 30% Retaliatory Tariff On U.S. Pulses, Raising Concerns Over Trade Talks",
     "sources": [
       "reddit"
@@ -126,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qg0tlb/india_imposes_30_retaliatory_tariff_on_us_pulses/"
   },
   {
+    "topic": "EU Set to Halt US Trade Deal Over Trump\u2019s Latest Tariff Threat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfo9c2/eu_set_to_halt_us_trade_deal_over_trumps_latest/"
+  },
+  {
     "topic": "'It's A Big Problem': Trump's Warning After Greenland \"Chooses\" Denmark",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfzznz/its_a_big_problem_trumps_warning_after_greenland/"
+  },
+  {
+    "topic": "Trump administration demands countries pay $1B for permanent spot on Gaza Board of Peace",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfstmw/trump_administration_demands_countries_pay_1b_for/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfd8me/brendan_fraser_says_hes_still_stuck_on_the_legend/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #FartInMyNostrils #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 823,875 views \u2022 ~28m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=flLZfUEwKcI"
+  },
+  {
     "topic": "EXTREME SHARK GAME!!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 857,880 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 857,913 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 619,807 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 619,862 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 722,510 views \u2022 ~700m old",
+    "why": "Trending on YouTube \u2022 738,188 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oRkFD80oy-k"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 377,159 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 379,170 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,375 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 99,830 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fmohHVMMN_o"
-  },
-  {
-    "topic": "HORRIBLE R6 CLIPS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 236,963 views \u2022 ~587m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OtxsgvA8nTw"
   },
   {
     "topic": "SUPER SPACE SHERIFF GAVAN INFINITY\u2502SUPER Official Trailer 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,027 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 48,710 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dg3z-cvp4U0"
   }
 ]
