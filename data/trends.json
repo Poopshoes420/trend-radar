@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfdpz9/genuinely_what_is_this_guy_doing_anymore/"
   },
   {
-    "topic": "How in the fuck is this for kids?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfwkas/how_in_the_fuck_is_this_for_kids/"
-  },
-  {
     "topic": "Am I the only one here who keeps getting old videos recommended?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qftfzu/am_i_the_only_one_here_who_keeps_getting_old/"
+  },
+  {
+    "topic": "How in the fuck is this for kids?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfwkas/how_in_the_fuck_is_this_for_kids/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1424, Part 1 (Thread #1571)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfstmw/trump_administration_demands_countries_pay_1b_for/"
   },
   {
-    "topic": "Macron says Trump tariff threat over Greenland unacceptable",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfls39/macron_says_trump_tariff_threat_over_greenland/"
-  },
-  {
     "topic": "'It's A Big Problem': Trump's Warning After Greenland \"Chooses\" Denmark",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfzznz/its_a_big_problem_trumps_warning_after_greenland/"
+  },
+  {
+    "topic": "Macron says Trump tariff threat over Greenland unacceptable",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfls39/macron_says_trump_tariff_threat_over_greenland/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,645,180 views \u2022 ~680m old",
+    "why": "Trending on YouTube \u2022 2,648,467 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eDk8xVjVkhI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 857,703 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 857,844 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 619,722 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 619,768 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 689,357 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 705,373 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oRkFD80oy-k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,031 views \u2022 ~514m old",
+    "why": "Trending on YouTube \u2022 372,868 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,354 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 66,486 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fmohHVMMN_o"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,925 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 45,493 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dg3z-cvp4U0"
   }
 ]
