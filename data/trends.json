@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfy8y4/english_left_the_chat/"
   },
   {
+    "topic": "It was a simpler time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qg15fo/it_was_a_simpler_time/"
+  },
+  {
     "topic": "Today I learned",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
-  },
-  {
-    "topic": "My shoes disintegrated yesterday at a church funeral.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfc7kn/my_shoes_disintegrated_yesterday_at_a_church/"
   },
   {
     "topic": "From r/hololive YouTube is deleting custom subtitles",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfdpz9/genuinely_what_is_this_guy_doing_anymore/"
   },
   {
-    "topic": "Why ??????",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfam44/why/"
-  },
-  {
     "topic": "How in the fuck is this for kids?!",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfwkas/how_in_the_fuck_is_this_for_kids/"
+  },
+  {
+    "topic": "Why ??????",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfam44/why/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1424, Part 1 (Thread #1571)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 854,244 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 854,244 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,636,919 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 2,638,686 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eDk8xVjVkhI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 618,820 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 619,521 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 639,430 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 649,475 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oRkFD80oy-k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 355,713 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 359,208 views \u2022 ~463m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,224 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 39,252 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dg3z-cvp4U0"
   }
 ]
