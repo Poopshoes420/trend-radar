@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfvn14/got_pulled_over_last_night_wife_left_me_this_note/"
   },
   {
-    "topic": "Today I learned",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
-  },
-  {
     "topic": "English left the chat \ud83d\ude02",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfy8y4/english_left_the_chat/"
+  },
+  {
+    "topic": "Today I learned",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
   },
   {
     "topic": "My shoes disintegrated yesterday at a church funeral.",
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qflyd1/denmark_officials_react_to_tariff_threat_we_will/"
   },
   {
-    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
+    "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qf6ft9/self_promotion_saturday_small_streamer_just/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qg1q6u/simple_questions_sunday/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qflqq6/rockstar_bans_gta_online_missions_recreating/"
   },
   {
-    "topic": "Rockstar Games gave a terminally ill fan early access to GTA 6 after his family shared his touching story!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfzfvw/rockstar_games_gave_a_terminally_ill_fan_early/"
-  },
-  {
     "topic": "Almost 10 years later, The Division still looks incredible! Easily Ubisoft\u2019s most atmospheric open world in my opinion.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfn4at/almost_10_years_later_the_division_still_looks/"
   },
   {
+    "topic": "Brendan Fraser says he's still stuck on 'The Legend of Zelda: Breath of the Wild': \"I wanna know how to get better weapons without getting my ass kicked by all the Lynels. I mean without cheating and going up and looking (guides). And there's not enough bomb flowers...\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qfd8me/brendan_fraser_says_hes_still_stuck_on_the_legend/"
+  },
+  {
     "topic": "EXTREME SHARK GAME!!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 854,244 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 854,244 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,633,246 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 2,636,919 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eDk8xVjVkhI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 617,500 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 618,820 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 612,541 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 639,430 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oRkFD80oy-k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 348,375 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 355,713 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,845 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 38,224 views \u2022 ~373m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dg3z-cvp4U0"
   }
 ]
