@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qftfzu/am_i_the_only_one_here_who_keeps_getting_old/"
   },
   {
-    "topic": "Everything about this thumbnail just feels wrong",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
-  },
-  {
     "topic": "I\u2019m so fucking sick of these repetitive clickbait \u201cdisturbing lost media\u201d videos that always use Roblox avatars and creepypasta slop",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfxmfh/im_so_fucking_sick_of_these_repetitive_clickbait/"
+  },
+  {
+    "topic": "Everything about this thumbnail just feels wrong",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
   },
   {
     "topic": "How in the fuck is this for kids?!",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qg3ypf/leaders_of_france_uk_and_sweden_respond_to_trumps/"
   },
   {
-    "topic": "Iranian official says verified deaths in Iran protests reaches at least 5,000",
+    "topic": "Statement by Denmark, Finland, France, Germany, the Netherlands, Norway, Sweden and the United Kingdom",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qg4tyq/iranian_official_says_verified_deaths_in_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qg9cqc/statement_by_denmark_finland_france_germany_the/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qg8l6p/rockstar_will_give_grand_theft_auto_6_early/"
   },
   {
-    "topic": "Rockstar Bans GTA Online Missions Recreating Charlie Kirk Assassination",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qflqq6/rockstar_bans_gta_online_missions_recreating/"
-  },
-  {
     "topic": "Cyberpunk 2077 still amazes me",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qg6vww/cyberpunk_2077_still_amazes_me/"
   },
   {
+    "topic": "Rockstar Bans GTA Online Missions Recreating Charlie Kirk Assassination",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qflqq6/rockstar_bans_gta_online_missions_recreating/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #FartInMyNostrils #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 982,447 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 984,172 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=flLZfUEwKcI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 858,415 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 858,449 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 620,315 views \u2022 ~680m old",
+    "why": "Trending on YouTube \u2022 620,356 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 303,761 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 324,577 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fmohHVMMN_o"
   }
 ]
