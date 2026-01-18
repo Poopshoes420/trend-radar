@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Got pulled over last night. Wife left me this note on our front door.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfvn14/got_pulled_over_last_night_wife_left_me_this_note/"
+  },
+  {
     "topic": "Today I learned",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfi2qv/who_needs_guitar_capos_anyway/"
   },
   {
-    "topic": "Cat is very invested in my fingerboard session",
+    "topic": "From r/hololive YouTube is deleting custom subtitles",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfa189/cat_is_very_invested_in_my_fingerboard_session/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qft717/from_rhololive_youtube_is_deleting_custom/"
   },
   {
     "topic": "Everything about this thumbnail just feels wrong",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
-  },
-  {
-    "topic": "From r/hololive YouTube is deleting custom subtitles",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qft717/from_rhololive_youtube_is_deleting_custom/"
   },
   {
     "topic": "Genuinely what is this guy doing anymore",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfls39/macron_says_trump_tariff_threat_over_greenland/"
   },
   {
-    "topic": "Trump is making China \u2013 not America \u2013 great again, global survey suggests",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfj3m4/trump_is_making_china_not_america_great_again/"
-  },
-  {
     "topic": "Denmark officials react to tariff threat: We will not \u2018bow down\u2019 to Trump\u2019s \u2018bullying tactics\u2019",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qflyd1/denmark_officials_react_to_tariff_threat_we_will/"
+  },
+  {
+    "topic": "Trump administration demands countries pay $1B for permanent spot on Gaza Board of Peace",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfstmw/trump_administration_demands_countries_pay_1b_for/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,63 +184,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,596,422 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 2,609,307 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eDk8xVjVkhI"
-  },
-  {
-    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,442,902 views \u2022 ~185m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QecYurQmi44"
-  },
-  {
-    "topic": "EXTREME SHARK GAME!!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,182,351 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XRgOPWisuog"
   },
   {
     "topic": "We Built America in Minecraft",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,454,884 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 2,911,053 views \u2022 ~658m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2FE7pOBbRn8"
   },
   {
-    "topic": "I Made $108,063,600 Exploiting the Entire Economy With Just 1 Item",
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 777,192 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X8XvSM35u9w"
-  },
-  {
-    "topic": "We Played The Most Extreme Game of Tag... Again",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 328,932 views \u2022 ~289m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oRkFD80oy-k"
+    "why": "Trending on YouTube \u2022 320,740 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PTPM8CFwu4w"
   },
   {
     "topic": "Jlexis, Dani Barranco, Rome LMN - NADIE COMO NOSOTROS (VIDEO OFICIAL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,731 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 249,054 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 144,209 views \u2022 ~152m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MLiBRGtwYjs"
   },
   {
     "topic": "Hermitcraft 11: Episode 9 - THE RESCUE!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 475,627 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 533,030 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_zo-rv19p0"
   },
   {
@@ -248,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 499,269 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 533,665 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5WaR_Z8gsbE"
   },
   {
@@ -256,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,831 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 268,164 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xGrJVd3nJxM"
-  },
-  {
-    "topic": "Avengers: Doomsday - Final Trailer \"Rise Of Doom\" | Chris Hemsworth, Chris Evans | 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 41,271 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-tckRoT4ztg"
   },
   {
     "topic": "Avengers Doomsday Teasers Reaction | Thor, X-Men, Fantastic Four",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,038 views \u2022 ~631m old",
+    "why": "Trending on YouTube \u2022 36,094 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pl3dgaEWEHU"
   }
 ]
