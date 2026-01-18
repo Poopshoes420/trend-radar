@@ -1,14 +1,5 @@
 [
   {
-    "topic": "I guess he never made it home \ud83e\udd7a",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgcfeg/i_guess_he_never_made_it_home/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I guess he never made it home \ud83e\udd7a",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgcfeg/i_guess_he_never_made_it_home/"
   },
   {
     "topic": "[OC] toxic",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qg5nhe/total_cinema/"
   },
   {
-    "topic": "At least he's putting in the effort",
+    "topic": "[OC] 2016",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qghccu/at_least_hes_putting_in_the_effort/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qge81q/oc_2016/"
   },
   {
     "topic": "This is fucking stupid, youtube.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,949,132 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 1,949,132 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,555 views \u2022 ~465m old",
+    "why": "Trending on YouTube \u2022 236,300 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mvD6GKzgCcw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 208,501 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 212,313 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xD8gmjyPsTg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,865 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 29,066 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,237 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 57,436 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uzMQhc7obDw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,673 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 16,312 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tRmzCb4CW34"
   }
 ]
