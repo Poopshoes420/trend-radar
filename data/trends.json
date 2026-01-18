@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qg5nhe/total_cinema/"
   },
   {
-    "topic": "[OC] 2016",
+    "topic": "Evolutionary paths",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qge81q/oc_2016/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgkuk2/evolutionary_paths/"
   },
   {
     "topic": "This is fucking stupid, youtube.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgdtm5/4_million_view/"
   },
   {
-    "topic": "So uh what do we call this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qg9sxe/so_uh_what_do_we_call_this/"
-  },
-  {
     "topic": "me when I find the person who added 30sec unskippable ads",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgbhmt/me_when_i_find_the_person_who_added_30sec/"
+  },
+  {
+    "topic": "So uh what do we call this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qg9sxe/so_uh_what_do_we_call_this/"
   },
   {
     "topic": "Greenland embraces the new MAGA hat: \u2018Make America Go Away\u2019",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgkod8/greenland_embraces_the_new_maga_hat_make_america/"
   },
   {
-    "topic": "Russia welcomes Trump's tariffs on NATO allies over Greenland as 'collapse' of alliance",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgheme/russia_welcomes_trumps_tariffs_on_nato_allies/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1424, Part 1 (Thread #1571)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfycb0/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Russia welcomes Trump's tariffs on NATO allies over Greenland as 'collapse' of alliance",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgheme/russia_welcomes_trumps_tariffs_on_nato_allies/"
   },
   {
     "topic": "Canada weighs sending soldiers to Greenland as show of NATO solidarity with Denmark",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,949,132 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 1,949,132 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,300 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 245,256 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mvD6GKzgCcw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 212,313 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 217,010 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xD8gmjyPsTg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,066 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 36,737 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,436 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 58,698 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uzMQhc7obDw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,312 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 17,068 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tRmzCb4CW34"
   }
 ]
