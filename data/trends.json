@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qg15fo/it_was_a_simpler_time/"
   },
   {
+    "topic": "Total Cinema",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qg5nhe/total_cinema/"
+  },
+  {
     "topic": "English left the chat \ud83d\ude02",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfy8y4/english_left_the_chat/"
-  },
-  {
-    "topic": "Today I learned",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qfe6er/today_i_learned/"
   },
   {
     "topic": "From r/hololive YouTube is deleting custom subtitles",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qft717/from_rhololive_youtube_is_deleting_custom/"
   },
   {
-    "topic": "Everything about this thumbnail just feels wrong",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
-  },
-  {
     "topic": "Am I the only one here who keeps getting old videos recommended?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qftfzu/am_i_the_only_one_here_who_keeps_getting_old/"
+  },
+  {
+    "topic": "Everything about this thumbnail just feels wrong",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfaa97/everything_about_this_thumbnail_just_feels_wrong/"
   },
   {
     "topic": "How in the fuck is this for kids?!",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qg0tlb/india_imposes_30_retaliatory_tariff_on_us_pulses/"
   },
   {
-    "topic": "'It's A Big Problem': Trump's Warning After Greenland \"Chooses\" Denmark",
+    "topic": "Trump administration demands countries pay $1B for permanent spot on Gaza Board of Peace",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfzznz/its_a_big_problem_trumps_warning_after_greenland/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfstmw/trump_administration_demands_countries_pay_1b_for/"
   },
   {
     "topic": "EU Set to Halt US Trade Deal Over Trump\u2019s Latest Tariff Threat",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfo9c2/eu_set_to_halt_us_trade_deal_over_trumps_latest/"
   },
   {
-    "topic": "Trump administration demands countries pay $1B for permanent spot on Gaza Board of Peace",
+    "topic": "Leaders of France, UK and Sweden respond to Trump's tariff threats",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfstmw/trump_administration_demands_countries_pay_1b_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qg3ypf/leaders_of_france_uk_and_sweden_respond_to_trumps/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 953,718 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 958,167 views \u2022 ~130m old",
     "exampleUrl": "https://www.youtube.com/watch?v=flLZfUEwKcI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 858,122 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 858,122 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1_Bhvry-qg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 619,992 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 620,044 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,274 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 164,496 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fmohHVMMN_o"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 388,423 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 390,687 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,989 views \u2022 ~583m old",
+    "why": "Trending on YouTube \u2022 55,721 views \u2022 ~609m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dg3z-cvp4U0"
   }
 ]
