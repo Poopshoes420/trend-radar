@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qfhcvt/youtube_meme_i_laughed_at/"
   },
   {
-    "topic": "EU Set to Halt US Trade Deal Over Trump\u2019s Latest Tariff Threat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfo9c2/eu_set_to_halt_us_trade_deal_over_trumps_latest/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1424, Part 1 (Thread #1571)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfycb0/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "EU Set to Halt US Trade Deal Over Trump\u2019s Latest Tariff Threat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qfo9c2/eu_set_to_halt_us_trade_deal_over_trumps_latest/"
   },
   {
     "topic": "Macron says Trump tariff threat over Greenland unacceptable",
@@ -184,31 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,616,027 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 2,618,751 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eDk8xVjVkhI"
-  },
-  {
-    "topic": "We Built America in Minecraft",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,207,981 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2FE7pOBbRn8"
   },
   {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 322,061 views \u2022 ~207m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PTPM8CFwu4w"
+    "why": "Trending on YouTube \u2022 607,095 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gkz0IMbhX6s"
   },
   {
     "topic": "We Played The Most Extreme Game of Tag... Again",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 481,498 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 505,120 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oRkFD80oy-k"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,192 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 296,579 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4z9TwEF4LJU"
   },
   {
@@ -224,23 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 562,897 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 575,196 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_zo-rv19p0"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 144,306 views \u2022 ~202m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MLiBRGtwYjs"
   },
   {
     "topic": "Mozzy, EST Gee - YOU HEAR ME THO (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 271,939 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 273,553 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xGrJVd3nJxM"
+  },
+  {
+    "topic": "SUPER SPACE SHERIFF GAVAN INFINITY\u2502SUPER Official Trailer 3",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,320 views \u2022 ~239m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dg3z-cvp4U0"
   }
 ]
