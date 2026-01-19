@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh6am4/psa_you_can_speed_up_yt_videos_faster_than_2x/"
   },
   {
-    "topic": "This is fucking stupid, youtube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgeb1g/this_is_fucking_stupid_youtube/"
-  },
-  {
     "topic": "Ranking every YouTube video I watched",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhanx6/ranking_every_youtube_video_i_watched/"
+  },
+  {
+    "topic": "This is fucking stupid, youtube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgeb1g/this_is_fucking_stupid_youtube/"
   },
   {
     "topic": "Trump links Greenland dispute to not getting Nobel Peace Prize, in letter to Norway's PM",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgx8q5/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Making a cat haven in Fallout's post-apocalypse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
-  },
-  {
     "topic": "Disney delists 14 games from Steam without warning, most notably Armed and Dangerous and that one Hercules game you vaguely remember playing in 1997",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhcuez/disney_delists_14_games_from_steam_without/"
+  },
+  {
+    "topic": "Making a cat haven in Fallout's post-apocalypse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
   },
   {
     "topic": "Steam reportedly raked in a record-breaking $1.6 billion in December with Arc Raiders alone moving over a million copies",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,460,789 views \u2022 ~631m old",
+    "why": "Trending on YouTube \u2022 6,515,669 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWfKkqo1Mk8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 979,022 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 979,243 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=48BuIHM4dd0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,401 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 119,502 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Vx0i90IU74"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,706 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 60,629 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,453 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 47,462 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TrUde1RDyM4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,072 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 15,743 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wTu5S9GWq5U"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,603 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 19,516 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFS1LFNX96A"
   }
 ]
