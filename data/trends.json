@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qh22lx/just_another_level_of_rage_baiting/"
   },
   {
-    "topic": "Evolutionary paths",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgkuk2/evolutionary_paths/"
-  },
-  {
     "topic": "The belated Christmas ornament I finally delivered to my mom",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qguyql/the_belated_christmas_ornament_i_finally/"
+  },
+  {
+    "topic": "Evolutionary paths",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgkuk2/evolutionary_paths/"
   },
   {
     "topic": "Name a YouTuber who suffered a downfall so bad they plummeted through the floor.",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgp1ln/ssundee_is_terrible_now/"
   },
   {
-    "topic": "I\u2019m sorry but why do I suddenly need to have an account to watch YouTube?",
+    "topic": "Bots copied my channel and now has more subscribers than me",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgmseo/im_sorry_but_why_do_i_suddenly_need_to_have_an/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh3kjg/bots_copied_my_channel_and_now_has_more/"
   },
   {
     "topic": "Just a friendly reminder that the ability to report offensive ads is available.",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgf3s2/when_mobile_gaming_peaked/"
   },
   {
+    "topic": "Making a cat haven in Fallout's post-apocalypse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
+  },
+  {
     "topic": "GTA 6 dev Rockstar North building taped off after 'boiler explosion'",
     "sources": [
       "reddit"
@@ -171,52 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh1m3a/gta_6_dev_rockstar_north_building_taped_off_after/"
   },
   {
-    "topic": "Rockstar Will Give 'Grand Theft Auto 6' Early Access to Terminally ill Fan With 6\u201312 Months to Live",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qg8l6p/rockstar_will_give_grand_theft_auto_6_early/"
-  },
-  {
     "topic": "EXO \uc5d1\uc18c 'Crown' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 796,249 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 925,703 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWfKkqo1Mk8"
-  },
-  {
-    "topic": "\ud83d\udd34 LIVE! - TYPICAL GAMER plays FORTNITE then OTHER GAMES!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 151,185 views \u2022 ~158m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wtqk4qkdB4A"
-  },
-  {
-    "topic": "Hytale - Minecraft 2 Sucks",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 356,842 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7Lkl27fkAYs"
   },
   {
     "topic": "A Knight of the Seven Kingdoms | Weeks Ahead Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,783 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 121,643 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvGDPA9SbFE"
-  },
-  {
-    "topic": "What You Don\u2019t See When Airstream Launches a New Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 39,093 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qvWG06wFiK0"
   }
 ]
