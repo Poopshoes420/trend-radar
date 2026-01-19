@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh3kjg/bots_copied_my_channel_and_now_has_more/"
   },
   {
-    "topic": "Kremlin says Trump invited Putin to join 'Board of Peace'",
+    "topic": "Trump links Greenland dispute to not getting Nobel Peace Prize, in letter to Norway's PM",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qh0845/kremlin_says_trump_invited_putin_to_join_board_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qh63ad/trump_links_greenland_dispute_to_not_getting/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1425, Part 1 (Thread #1572)",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgtthh/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump links Greenland dispute to not getting Nobel Peace Prize, in letter to Norway's PM",
+    "topic": "Kremlin says Trump invited Putin to join 'Board of Peace'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qh63ad/trump_links_greenland_dispute_to_not_getting/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qh0845/kremlin_says_trump_invited_putin_to_join_board_of/"
   },
   {
     "topic": "Trump says Nobel Prize denial ends obligation to \u2018think purely of peace\u2019, presses Greenland demand \u2013 Firstpost",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,532,971 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 4,091,431 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWfKkqo1Mk8"
+  },
+  {
+    "topic": "Mickey Factz - False Foe (Official Video) TRU FOE DISS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,448 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wTu5S9GWq5U"
   },
   {
     "topic": "New Avengers Doomsday Trailers | The Escape Pod Podcast Ep. 156",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,958 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 10,370 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFS1LFNX96A"
   }
 ]
