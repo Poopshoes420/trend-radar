@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qge8jk/oc_toxic/"
   },
   {
-    "topic": "This is fucking stupid, youtube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgeb1g/this_is_fucking_stupid_youtube/"
-  },
-  {
     "topic": "Name a YouTuber who suffered a downfall so bad they plummeted through the floor.",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgtz01/name_a_youtuber_who_suffered_a_downfall_so_bad/"
+  },
+  {
+    "topic": "This is fucking stupid, youtube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgeb1g/this_is_fucking_stupid_youtube/"
   },
   {
     "topic": "Ssundee is terrible now.",
@@ -135,22 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgh2ul/eu_considers_108_billion_in_retaliatory_tariffs/"
   },
   {
-    "topic": "Simple Questions Sunday!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qg1q6u/simple_questions_sunday/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgx8q5/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "When Mobile gaming peaked",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgoyhn/have_you_ever_bought_a_console_just_to_play_one/"
   },
   {
+    "topic": "Playstation Estimated to Have Grossed $1.5 Billion From Steam, Selling 43 Million Copies. Death stranding 2 PC Expected Soon",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgcwwt/playstation_estimated_to_have_grossed_15_billion/"
+  },
+  {
     "topic": "Hytale: A Fresh Start",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 594,473 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 619,405 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 208,774 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 225,412 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cdkjaEnkb9w"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 182,910 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 201,050 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X9UTy9D-X8M"
   },
   {
@@ -208,47 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,588 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 218,699 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ymgX-DYanXA"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 171,071 views \u2022 ~518m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bEVza_5jgq0"
   },
   {
     "topic": "I Stayed The Weekend In Grandmas House\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,384 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 158,143 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TnN1yayz7_s"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 171,071 views \u2022 ~556m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bEVza_5jgq0"
   },
   {
     "topic": "Did We Find a Way to Beat This Slot With Eyes Open",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,727 views \u2022 ~669m old",
+    "why": "Trending on YouTube \u2022 208,962 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xERCpS1aqLk"
-  },
-  {
-    "topic": "T.I. - Let Em Know [Prod. by Pharrell Williams] (Official Audio)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 157,924 views \u2022 ~686m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
   },
   {
     "topic": "What You Don\u2019t See When Airstream Launches a New Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,495 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 35,190 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qvWG06wFiK0"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,710 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 18,421 views \u2022 ~227m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvGDPA9SbFE"
   }
 ]
