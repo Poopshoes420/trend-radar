@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgmseo/im_sorry_but_why_do_i_suddenly_need_to_have_an/"
   },
   {
-    "topic": "me when I find the person who added 30sec unskippable ads",
+    "topic": "I hate YouTube shorts!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgbhmt/me_when_i_find_the_person_who_added_30sec/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgx07c/i_hate_youtube_shorts/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1425, Part 1 (Thread #1572)",
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgtthh/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Trump says Nobel Prize denial ends obligation to \u2018think purely of peace\u2019, presses Greenland demand \u2013 Firstpost",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgxmfe/trump_says_nobel_prize_denial_ends_obligation_to/"
   },
   {
     "topic": "Greenland embraces the new MAGA hat: \u2018Make America Go Away\u2019",
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgiov7/canada_weighs_sending_soldiers_to_greenland_as/"
   },
   {
-    "topic": "EU considers $108 billion in retaliatory tariffs on US over Trump's Greenland threat, FT reports",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgh2ul/eu_considers_108_billion_in_retaliatory_tariffs/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qg8l6p/rockstar_will_give_grand_theft_auto_6_early/"
   },
   {
+    "topic": "Steam reportedly raked in a record-breaking $1.6 billion in December with Arc Raiders alone moving over a million copies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgxg7z/steam_reportedly_raked_in_a_recordbreaking_16/"
+  },
+  {
     "topic": "Have you ever bought a console just to play one exclusive game?",
     "sources": [
       "reddit"
@@ -171,28 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgoyhn/have_you_ever_bought_a_console_just_to_play_one/"
   },
   {
-    "topic": "Playstation Estimated to Have Grossed $1.5 Billion From Steam, Selling 43 Million Copies. Death stranding 2 PC Expected Soon",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgcwwt/playstation_estimated_to_have_grossed_15_billion/"
-  },
-  {
-    "topic": "Hytale: A Fresh Start",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 636,577 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
-  },
-  {
     "topic": "Hytale - Minecraft 2 Sucks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,617 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 261,442 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7Lkl27fkAYs"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 234,592 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 252,190 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cdkjaEnkb9w"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 209,476 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 224,994 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X9UTy9D-X8M"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,657 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 236,749 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ymgX-DYanXA"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 164,380 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 174,495 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TnN1yayz7_s"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,071 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 171,071 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bEVza_5jgq0"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,888 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 29,669 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvGDPA9SbFE"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,774 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 36,513 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qvWG06wFiK0"
   }
 ]
