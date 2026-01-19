@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Officially reached the Dicaprio expiration date \ud83d\ude14",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgpsl8/officially_reached_the_dicaprio_expiration_date/"
+  },
+  {
     "topic": "I guess he never made it home \ud83e\udd7a",
     "sources": [
       "reddit"
@@ -16,24 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgcfeg/i_guess_he_never_made_it_home/"
-  },
-  {
-    "topic": "[OC] toxic",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qge8jk/oc_toxic/"
-  },
-  {
-    "topic": "Total Cinema",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qg5nhe/total_cinema/"
   },
   {
     "topic": "Evolutionary paths",
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qgkuk2/evolutionary_paths/"
   },
   {
+    "topic": "[OC] toxic",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qge8jk/oc_toxic/"
+  },
+  {
     "topic": "This is fucking stupid, youtube.",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgeb1g/this_is_fucking_stupid_youtube/"
+  },
+  {
+    "topic": "Ssundee is terrible now.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgp1ln/ssundee_is_terrible_now/"
   },
   {
     "topic": "From r/hololive YouTube is deleting custom subtitles",
@@ -63,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qft717/from_rhololive_youtube_is_deleting_custom/"
   },
   {
-    "topic": "4 Million view \ud83d\ude10",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgdtm5/4_million_view/"
-  },
-  {
     "topic": "me when I find the person who added 30sec unskippable ads",
     "sources": [
       "reddit"
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgbhmt/me_when_i_find_the_person_who_added_30sec/"
   },
   {
-    "topic": "So uh what do we call this?",
+    "topic": "4 Million view \ud83d\ude10",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qg9sxe/so_uh_what_do_we_call_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgdtm5/4_million_view/"
   },
   {
     "topic": "Greenland embraces the new MAGA hat: \u2018Make America Go Away\u2019",
@@ -184,31 +184,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,949,132 views \u2022 ~516m old",
+    "why": "Trending on YouTube \u2022 1,949,384 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vIYYUIIkP-8"
+  },
+  {
+    "topic": "OpTic TEXAS VS LA THIEVES!! SCUMP WATCH PARTY - CDL MAJOR 1 QUALIFIERS WEEK 4",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 246,755 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PO3dUl_tHaY"
+  },
+  {
+    "topic": "Hytale: A Fresh Start",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 390,496 views \u2022 ~389m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jlUY9cYEoJQ"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 170,702 views \u2022 ~254m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bEVza_5jgq0"
   },
   {
     "topic": "10 Seconds vs 1 Hour UNDERGROUND TUNNEL Build Challenge!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 254,838 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 293,572 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mvD6GKzgCcw"
-  },
-  {
-    "topic": "We Went To The BOTTOM OF THE OCEAN In GTA 5...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 224,136 views \u2022 ~596m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xD8gmjyPsTg"
   },
   {
     "topic": "Captain America and the Falcon Air Battle | Captain America: Brave New World | Official Clip",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,853 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 134,470 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qZVKvrHHGw4"
   },
   {
@@ -216,23 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,145 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 87,238 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FVz7T_nZAIw"
   },
   {
-    "topic": "Granblue Fantasy Versus: Rising \u2013 Ilsa Gameplay Trailer",
+    "topic": "What You Don\u2019t See When Airstream Launches a New Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,934 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uzMQhc7obDw"
+    "why": "Trending on YouTube \u2022 9,931 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qvWG06wFiK0"
   },
   {
     "topic": "Marvel's AVENGERS DOOMSDAY & MCU MASTER PLAN is WORKING",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,230 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 22,521 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tRmzCb4CW34"
   }
 ]
