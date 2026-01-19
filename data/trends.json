@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh6am4/psa_you_can_speed_up_yt_videos_faster_than_2x/"
   },
   {
-    "topic": "Name a YouTuber who suffered a downfall so bad they plummeted through the floor.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgtz01/name_a_youtuber_who_suffered_a_downfall_so_bad/"
-  },
-  {
     "topic": "Ranking every YouTube video I watched",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhanx6/ranking_every_youtube_video_i_watched/"
   },
   {
-    "topic": "Do you think YouTube will die Within the next few years?",
+    "topic": "Name a YouTuber who suffered a downfall so bad they plummeted through the floor.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhe98h/do_you_think_youtube_will_die_within_the_next_few/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgtz01/name_a_youtuber_who_suffered_a_downfall_so_bad/"
+  },
+  {
+    "topic": "This is fucking stupid, youtube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgeb1g/this_is_fucking_stupid_youtube/"
   },
   {
     "topic": "Trump's Gaza Peace Board Faces Opposition As France Pulls Back, Canada Refuses To Pay",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,310,716 views \u2022 ~29m old",
+    "why": "Trending on YouTube \u2022 2,374,228 views \u2022 ~49m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bMSgbKEzIOM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 982,275 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 982,688 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=48BuIHM4dd0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,751 views \u2022 ~377m old",
+    "why": "Trending on YouTube \u2022 162,498 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Vx0i90IU74"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,773 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 91,714 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,399 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 70,994 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TrUde1RDyM4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,546 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 33,721 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kj9OK_n6rpw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,976 views \u2022 ~377m old",
+    "why": "Trending on YouTube \u2022 20,672 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wTu5S9GWq5U"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,437 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 25,571 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFS1LFNX96A"
   }
 ]
