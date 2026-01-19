@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh55a2/youtube_is_reportedly_forcing_creators_to_use/"
   },
   {
+    "topic": "This dude creating these disgusting thumbnails",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhi2dt/this_dude_creating_these_disgusting_thumbnails/"
+  },
+  {
     "topic": "PSA: you can speed up yt videos faster than 2x speed and even speed up ads",
     "sources": [
       "reddit"
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qgtz01/name_a_youtuber_who_suffered_a_downfall_so_bad/"
   },
   {
-    "topic": "Do you think YouTube will die Within the next few years?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhe98h/do_you_think_youtube_will_die_within_the_next_few/"
-  },
-  {
     "topic": "Trump's Gaza Peace Board Faces Opposition As France Pulls Back, Canada Refuses To Pay",
     "sources": [
       "reddit"
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qgtthh/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump links Greenland dispute to not getting Nobel Peace Prize, in letter to Norway's PM",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qh63ad/trump_links_greenland_dispute_to_not_getting/"
-  },
-  {
     "topic": "'No such thing as a better colonizer': Inuit emphatically reject U.S. takeover of Greenland",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhefak/no_such_thing_as_a_better_colonizer_inuit/"
   },
   {
-    "topic": "Pentagon Places 1,500 Arctic-Trained Airborne Troops on Standby as Greenland Dispute Escalates",
+    "topic": "Trump links Greenland dispute to not getting Nobel Peace Prize, in letter to Norway's PM",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhhddp/pentagon_places_1500_arctictrained_airborne/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qh63ad/trump_links_greenland_dispute_to_not_getting/"
+  },
+  {
+    "topic": "Macron will not accept Trump\u2019s invitation to join his \"Board of Peace\" \u2013 Bloomberg",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhj5pj/macron_will_not_accept_trumps_invitation_to_join/"
   },
   {
     "topic": "Brooklyn Beckham speaks out against parents Victoria and David Beckham: \u201cI do not want to reconcile with my family. I'm not being controlled, I\u2019m standing up for myself for the first time in my life.\u201c",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
   },
   {
-    "topic": "Trickshot PLATE citY Throwback",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,506,858 views \u2022 ~128m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bMSgbKEzIOM"
-  },
-  {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 982,894 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 982,989 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=48BuIHM4dd0"
   },
   {
@@ -200,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 305,577 views \u2022 ~182m old",
+    "why": "Trending on YouTube \u2022 305,881 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Av0_EOyf9SU"
+  },
+  {
+    "topic": "New Games We Love Playing in the Year of Fun",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 84,610 views \u2022 ~223m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jRbC-UMnCOY"
   },
   {
     "topic": "RAINBOW FRIEND is AT MY DOOR\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,260 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 192,259 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Vx0i90IU74"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,548 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 113,105 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UbNhSVj6WZM"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,660 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 86,583 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TrUde1RDyM4"
   },
   {
@@ -232,23 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,339 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 70,597 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kj9OK_n6rpw"
+  },
+  {
+    "topic": "INSANE! Avengers Doomsday Trailers Cross 1 Billion Views (How Big Will It Be?) - John Campea Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 12,911 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qVchOaiqjBU"
   },
   {
     "topic": "Mickey Factz - False Foe (Official Video) TRU FOE DISS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,812 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 23,458 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wTu5S9GWq5U"
   },
   {
-    "topic": "New Avengers Doomsday Trailers | The Escape Pod Podcast Ep. 156",
+    "topic": "Landman Season 3 Trailer & First Look",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,108 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oFS1LFNX96A"
+    "why": "Trending on YouTube \u2022 10,097 views \u2022 ~297m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g5mVzcjc9xo"
   }
 ]
