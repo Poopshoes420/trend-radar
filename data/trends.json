@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhi2dt/this_dude_creating_these_disgusting_thumbnails/"
   },
   {
+    "topic": "Why is this even allowed?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhwe2j/why_is_this_even_allowed/"
+  },
+  {
     "topic": "PSA: you can speed up yt videos faster than 2x speed and even speed up ads",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhanx6/ranking_every_youtube_video_i_watched/"
-  },
-  {
-    "topic": "Ain't no way",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh86vu/aint_no_way/"
   },
   {
     "topic": "Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat",
@@ -171,36 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
   },
   {
-    "topic": "Steam updates its gen-AI disclosure policies",
+    "topic": "Blooper Team's map designers are some best out there (Cronos: The New Dawn)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhaybc/steam_updates_its_genai_disclosure_policies/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhtyqf/blooper_teams_map_designers_are_some_best_out/"
   },
   {
-    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY!",
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | MANY MEN MONDAY | #ShartInMyButtCallMrShartButt #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 339,622 views \u2022 ~204m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NCLPFcPce0I"
+    "why": "Trending on YouTube \u2022 829,823 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Mix2kvR1Cw8"
   },
   {
     "topic": "How Minecraft Manhunt is Made...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,059,594 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 1,089,538 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=km1IlBAZJH0"
+  },
+  {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS GIVEAWAY!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 339,622 views \u2022 ~239m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NCLPFcPce0I"
   },
   {
     "topic": "#shorts CATCHING PREDS DAY 19",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 399,851 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 399,874 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R0-ZKhpAaA8"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 417,089 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 427,445 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5m1FcUc_puU"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,112 views \u2022 ~683m old",
+    "why": "Trending on YouTube \u2022 316,407 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b9JBRhV73cQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,784 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 289,255 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pnk84gIndCs"
   },
   {
@@ -232,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,281 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 229,794 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fwp90akC86g"
-  },
-  {
-    "topic": "Every Clue that Dr Doom is Hiding in the Avengers: Doomsday Trailers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 161,125 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UtPg0hb8A0o"
   },
   {
     "topic": "MY HERO ULTRA RUMBLE \u2014 Season 15 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,090 views \u2022 ~352m old",
+    "why": "Trending on YouTube \u2022 34,702 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MB8aWvBPEWA"
   }
 ]
