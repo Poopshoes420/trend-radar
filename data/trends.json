@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Jackman who?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhea6v/jackman_who/"
-  },
-  {
     "topic": "Gondor has call for aid",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhynvd/gondor_has_call_for_aid/"
+  },
+  {
+    "topic": "Jackman who?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhea6v/jackman_who/"
   },
   {
     "topic": "Never forget, Millenials ubbi dubbi'd so that GenZ could Skibbidi.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh55a2/youtube_is_reportedly_forcing_creators_to_use/"
   },
   {
-    "topic": "This dude creating these disgusting thumbnails",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhi2dt/this_dude_creating_these_disgusting_thumbnails/"
-  },
-  {
     "topic": "Every year, every month.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhxmns/every_year_every_month/"
+  },
+  {
+    "topic": "This dude creating these disgusting thumbnails",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhi2dt/this_dude_creating_these_disgusting_thumbnails/"
   },
   {
     "topic": "PSA: you can speed up yt videos faster than 2x speed and even speed up ads",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhqpei/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "China slams Trump's tariff threat to Europe over Greenland",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhqww1/china_slams_trumps_tariff_threat_to_europe_over/"
-  },
-  {
     "topic": "Trump Shares Macron's Private Text Questioning His Greenland Stance",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhx25g/trump_shares_macrons_private_text_questioning_his/"
   },
   {
-    "topic": "Hong Kong sees 55% surge in job applications from US academics amid Trump\u2019s university crackdown \u2013 report",
+    "topic": "China slams Trump's tariff threat to Europe over Greenland",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhr7i6/hong_kong_sees_55_surge_in_job_applications_from/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhqww1/china_slams_trumps_tariff_threat_to_europe_over/"
+  },
+  {
+    "topic": "Amid global gold rush, India and China are dumping US treasuries",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhw4nx/amid_global_gold_rush_india_and_china_are_dumping/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhtyqf/blooper_teams_map_designers_are_some_best_out/"
   },
   {
-    "topic": "Making a cat haven in Fallout's post-apocalypse",
+    "topic": "What was a great game seemingly destroyed by Devs bad decision making?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhumru/what_was_a_great_game_seemingly_destroyed_by_devs/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | MANY MEN MONDAY | #ShartInMyButtCallMrShartButt #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 851,943 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 856,878 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mix2kvR1Cw8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 339,622 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 339,622 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NCLPFcPce0I"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 399,974 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 400,003 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R0-ZKhpAaA8"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 454,208 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 466,613 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5m1FcUc_puU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,358 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 40,230 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MB8aWvBPEWA"
   }
 ]
