@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhyhi7/just_buy_more_ram_bro/"
   },
   {
+    "topic": "What Youtuber is this for you?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
+  },
+  {
     "topic": "I love when AI porn and CSAM are labeled as candy, gums, and mints so it becomes widely available",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhzvia/i_love_when_ai_porn_and_csam_are_labeled_as_candy/"
-  },
-  {
-    "topic": "1.4k people are watching a person peeling an egg\ud83d\ude2d.... I mean dude there's a lot on the internet to watch...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi63ml/14k_people_are_watching_a_person_peeling_an_egg_i/"
   },
   {
     "topic": "Greenland Leader Tells People to Prepare for Possible Invasion",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi4wtk/the_old_order_is_not_coming_back_canadian_pm/"
   },
   {
-    "topic": "NATO curbs intelligence sharing with US over Greenland dispute",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi1y59/nato_curbs_intelligence_sharing_with_us_over/"
-  },
-  {
     "topic": "Danish pension fund to sell $100 million in Treasuries, citing 'poor' U.S. government finances",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi7tdk/danish_pension_fund_to_sell_100_million_in/"
+  },
+  {
+    "topic": "NATO curbs intelligence sharing with US over Greenland dispute",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi1y59/nato_curbs_intelligence_sharing_with_us_over/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,206,306 views \u2022 ~193m old",
+    "why": "Trending on YouTube \u2022 1,207,195 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J0mEq3lFTKs"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,535 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 126,279 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b2eHeCKYHJc"
+  },
+  {
+    "topic": "I ENTERED A NEW BRAINROT\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 248,425 views \u2022 ~490m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Vk_ejra3tJM"
   },
   {
     "topic": "Sonic Presents: The Chaotix Casefiles Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,751 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 94,999 views \u2022 ~227m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BftIr01R0uU"
   },
   {
@@ -208,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,560 views \u2022 ~139m old",
+    "why": "Trending on YouTube \u2022 52,778 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h5CtjDLvUVk"
+  },
+  {
+    "topic": "Lorna Shore - In Darkness (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 87,231 views \u2022 ~472m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aMSlF1oo6Bw"
   },
   {
     "topic": "For Honor - Official Juren Hero Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,556 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 24,206 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6iX0aiIcYls"
   }
 ]
