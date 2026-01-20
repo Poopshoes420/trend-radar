@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Kill them with Kindness",
     "sources": [
       "reddit"
@@ -18,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhqaub/kill_them_with_kindness/"
   },
   {
-    "topic": "Jackman who?",
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhea6v/jackman_who/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "The commentary was pure comedic gold",
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhrl3x/the_commentary_was_pure_comedic_gold/"
   },
   {
-    "topic": "Just another level of rage baiting",
+    "topic": "Jackman who?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qh22lx/just_another_level_of_rage_baiting/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhea6v/jackman_who/"
+  },
+  {
+    "topic": "Out of the Mouths of Babes.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qhsmxo/out_of_the_mouths_of_babes/"
   },
   {
     "topic": "YouTube is reportedly forcing creators to use their AI-generated subtitles instead of custom subtitles.",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qh86vu/aint_no_way/"
   },
   {
+    "topic": "Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhsowq/trump_threatens_200_tariff_on_french_wines_as/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1426, Part 1 (Thread #1573)",
     "sources": [
       "reddit"
@@ -108,24 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhefak/no_such_thing_as_a_better_colonizer_inuit/"
   },
   {
-    "topic": "Trump's Gaza Peace Board Faces Opposition As France Pulls Back, Canada Refuses To Pay",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhbgnc/trumps_gaza_peace_board_faces_opposition_as/"
-  },
-  {
-    "topic": "Denmark ramps up defenses in Greenland as Trump zeros in on control of territory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qho43q/denmark_ramps_up_defenses_in_greenland_as_trump/"
-  },
-  {
     "topic": "China slams Trump's tariff threat to Europe over Greenland",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhqww1/china_slams_trumps_tariff_threat_to_europe_over/"
+  },
+  {
+    "topic": "Trump's Gaza Peace Board Faces Opposition As France Pulls Back, Canada Refuses To Pay",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhbgnc/trumps_gaza_peace_board_faces_opposition_as/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhejm0/i_feel_like_the_matrix_universe_is_the_perfect/"
   },
   {
-    "topic": "'Thank You All': Rockstar Games Looks to Have Granted a Terminally Ill Fan's Wish to Play GTA 6",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhn7nb/thank_you_all_rockstar_games_looks_to_have/"
-  },
-  {
     "topic": "Making a cat haven in Fallout's post-apocalypse",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qh3f6g/making_a_cat_haven_in_fallouts_postapocalypse/"
   },
   {
+    "topic": "Steam updates its gen-AI disclosure policies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qhaybc/steam_updates_its_genai_disclosure_policies/"
+  },
+  {
     "topic": "#shorts CATCHING PREDS DAY 19",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,385 views \u2022 ~36m old",
+    "why": "Trending on YouTube \u2022 381,584 views \u2022 ~82m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R0-ZKhpAaA8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 719,186 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 781,899 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=km1IlBAZJH0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 297,954 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 328,120 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5m1FcUc_puU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,720 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 222,554 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b9JBRhV73cQ"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 252,398 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 261,283 views \u2022 ~580m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w60Cew9cZbE"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 180,636 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 193,055 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dg1S9XhtTgY"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,121 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 165,956 views \u2022 ~460m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fwp90akC86g"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 204,005 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 214,074 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jRbC-UMnCOY"
   },
   {
@@ -248,39 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,435 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 116,037 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UtPg0hb8A0o"
-  },
-  {
-    "topic": "Landman Season 3 Trailer & First Look",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 76,713 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g5mVzcjc9xo"
   },
   {
     "topic": "A Knight Of The Seven Kingdoms Episode 2 Trailer: Blackfyre Rebellion & House Of The Dragon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,835 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 53,632 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucPLdLZPb3g"
-  },
-  {
-    "topic": "Max B - I Want The Smoke | From The Block Performance \ud83c\udf99 (New York)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 35,622 views \u2022 ~596m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X6irLz3R2yw"
   },
   {
     "topic": "MY HERO ULTRA RUMBLE \u2014 Season 15 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,873 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 11,186 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MB8aWvBPEWA"
+  },
+  {
+    "topic": "Max B - I Want The Smoke | From The Block Performance \ud83c\udf99 (New York)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 36,806 views \u2022 ~643m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=X6irLz3R2yw"
   }
 ]
