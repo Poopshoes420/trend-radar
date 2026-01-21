@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
   },
   {
+    "topic": "Middle aged gorillas",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjb9ks/middle_aged_gorillas/"
+  },
+  {
     "topic": "omg",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qj8drs/omg/"
-  },
-  {
-    "topic": "WTF is a \"Stone\"? \u00af\\_(\u30c4)_/\u00af",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qivlkc/wtf_is_a_stone_\u30c4/"
   },
   {
     "topic": "I do not need any AI slop on Shorts",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 429,361 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 505,173 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 722,104 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 766,366 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=65jnkBVYfqA"
+  },
+  {
+    "topic": "NO JOHN PORK NOOOOO",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 196,183 views \u2022 ~202m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
   },
   {
     "topic": "Star Wars: Maul - Shadow Lord | Trailer Tomorrow",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 307,931 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 328,907 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 318,518 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 343,218 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,456 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 198,053 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UXWwCYCPHIM"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,854 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 147,837 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=htOpBAhwMhk"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,201 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 93,289 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
   },
   {
@@ -240,7 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,433 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 80,565 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
+  },
+  {
+    "topic": "FullyChop, G Ravon - Fan Hoes (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,654 views \u2022 ~135m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OSm5nw2GkTY"
+  },
+  {
+    "topic": "Fox BD - Free Jr. Foxx (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,103 views \u2022 ~154m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
   }
 ]
