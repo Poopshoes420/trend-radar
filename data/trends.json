@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
   },
   {
-    "topic": "It's been 12 years since this gem has been uploaded to YouTube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qj85om/its_been_12_years_since_this_gem_has_been/"
-  },
-  {
     "topic": "WTF is a \"Stone\"? \u00af\\_(\u30c4)_/\u00af",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qivlkc/wtf_is_a_stone_\u30c4/"
+  },
+  {
+    "topic": "omg",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qj8drs/omg/"
   },
   {
     "topic": "I do not need any AI slop on Shorts",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qirh7r/why_is_my_gamecube_controller_from_2002_still/"
   },
   {
+    "topic": "RESTRICTED_conditioning_1990",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 369,826 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
+  },
+  {
     "topic": "Breaking Hardcore Minecraft to Get Revenge",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 641,320 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 696,790 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=65jnkBVYfqA"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 259,228 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 292,823 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 271,997 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 301,365 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,568 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 163,923 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UXWwCYCPHIM"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 106,413 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 124,509 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=htOpBAhwMhk"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,326 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 73,394 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,530 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 71,852 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
   }
 ]
