@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "You steal it, you wear it.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qi743l/you_steal_it_you_wear_it/"
-  },
-  {
     "topic": "3/10 Dismount \ud83d\ude05",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qif1q4/310_dismount/"
+  },
+  {
+    "topic": "You steal it, you wear it.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qi743l/you_steal_it_you_wear_it/"
   },
   {
     "topic": "Too broke for water \ud83d\ude2d",
@@ -54,24 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhwe2j/why_is_this_even_allowed/"
   },
   {
-    "topic": "Every year, every month.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhxmns/every_year_every_month/"
-  },
-  {
-    "topic": "What Youtuber is this for you?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
-  },
-  {
     "topic": "i\u2019m going to lose my mind with these ads.",
     "sources": [
       "reddit"
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qij4ft/doritos_are_apparently_a_chocolate_brand/"
+  },
+  {
+    "topic": "What Youtuber is this for you?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
+  },
+  {
+    "topic": "Every year, every month.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhxmns/every_year_every_month/"
   },
   {
     "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qhqpei/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Canada is positioning itself on Greenland knowing it could be next",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qikg7p/canada_is_positioning_itself_on_greenland_knowing/"
+  },
+  {
     "topic": "Danish pension fund to sell $100 million in Treasuries, citing 'poor' U.S. government finances",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi7tdk/danish_pension_fund_to_sell_100_million_in/"
   },
   {
-    "topic": "Greenland Leader Tells People to Prepare for Possible Invasion",
+    "topic": "Danish pension fund to sell $100 million in U.S. Treasuries due to \"poor U.S. government finances\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi4r2x/greenland_leader_tells_people_to_prepare_for/"
-  },
-  {
-    "topic": "'The old order is not coming back,' Canadian PM Carney says in provocative speech at Davos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi4wtk/the_old_order_is_not_coming_back_canadian_pm/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifazb/danish_pension_fund_to_sell_100_million_in_us/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgx8q5/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "I miss when PC games came in a big box",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qile2s/i_miss_when_pc_games_came_in_a_big_box/"
   },
   {
     "topic": "Highguard Is One Week Away, And The Only Person Who's Advertised It Is Geoff Keighley",
@@ -171,28 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qie1gh/show_me_the_champion_of_light_alan_wake_2_2023/"
   },
   {
-    "topic": "My Red Dead Redemption painting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qi0kb5/my_red_dead_redemption_painting/"
-  },
-  {
     "topic": "I Got the new TACO BASE in Steal A Brainrot..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 950,122 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 952,208 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ciURKxo-zsU"
   },
   {
-    "topic": "I Got Trained By a Minecraft Combat Master",
+    "topic": "I Got Trained By the World's Best Minecraft Player",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 407,297 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 453,931 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7hmj_cT-Qk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,950 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 223,048 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AUWH7uHPgOY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,937 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 200,760 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XK6mHWUAC9I"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,389 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 284,676 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B4HZNcx6hmY"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 207,641 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 209,052 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h5CtjDLvUVk"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,012 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 222,519 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BftIr01R0uU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,694 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 156,458 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uVsNH8tgVQs"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,223 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 76,690 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U4u0cdUgV5Q"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,368 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 76,664 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0aOU-LBtxUI"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,237 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 84,737 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6iX0aiIcYls"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,624 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 62,809 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0yqrgPk56Ns"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,977 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 39,174 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xwXP0pXGQyU"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,189 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 16,267 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o0Q9D2Tn_NY"
   },
   {
@@ -296,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,258 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 17,581 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v1E2jOkTtng"
   }
 ]
