@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qif1q4/310_dismount/"
   },
   {
+    "topic": "Too broke for water \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qii6wo/too_broke_for_water/"
+  },
+  {
     "topic": "Every airport fast food line",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qi813g/every_airport_fast_food_line/"
-  },
-  {
-    "topic": "Someone\u2019s hand has the same colour as Lunchables ham",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qidczl/someones_hand_has_the_same_colour_as_lunchables/"
   },
   {
     "topic": "Why is this even allowed?",
@@ -72,22 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
   },
   {
-    "topic": "Just buy more RAM bro",
+    "topic": "i\u2019m going to lose my mind with these ads.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhyhi7/just_buy_more_ram_bro/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qii8v9/im_going_to_lose_my_mind_with_these_ads/"
   },
   {
-    "topic": "1.4k people are watching a person peeling an egg\ud83d\ude2d.... I mean dude there's a lot on the internet to watch...",
+    "topic": "Doritos are apparently a chocolate brand according to youtube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi63ml/14k_people_are_watching_a_person_peeling_an_egg_i/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qij4ft/doritos_are_apparently_a_chocolate_brand/"
   },
   {
     "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qi3kow/highguard_is_one_week_away_and_the_only_person/"
   },
   {
-    "topic": "Show me the Champion of Light \ud83c\udfb6 (Alan Wake 2, 2023)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qie1gh/show_me_the_champion_of_light_alan_wake_2_2023/"
-  },
-  {
     "topic": "Still 1 of my favorite classic examples between Japanese and American cover arts...",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qi9oiv/still_1_of_my_favorite_classic_examples_between/"
+  },
+  {
+    "topic": "Show me the Champion of Light \ud83c\udfb6 (Alan Wake 2, 2023)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qie1gh/show_me_the_champion_of_light_alan_wake_2_2023/"
   },
   {
     "topic": "My Red Dead Redemption painting",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qi0kb5/my_red_dead_redemption_painting/"
   },
   {
-    "topic": "I ENTERED A NEW BRAINROT\u2026",
+    "topic": "I Got the new TACO BASE in Steal A Brainrot..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 335,424 views \u2022 ~677m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Vk_ejra3tJM"
+    "why": "Trending on YouTube \u2022 950,122 views \u2022 ~147m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ciURKxo-zsU"
+  },
+  {
+    "topic": "I Got Trained By a Minecraft Combat Master",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 407,297 views \u2022 ~224m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=D7hmj_cT-Qk"
+  },
+  {
+    "topic": "We Played The Most Hilarious Game of 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 181,950 views \u2022 ~155m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AUWH7uHPgOY"
   },
   {
     "topic": "Finishing The 67 Troll Tower In Roblox!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,223 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 198,937 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XK6mHWUAC9I"
-  },
-  {
-    "topic": "Sonic Presents: The Chaotix Casefiles Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 181,703 views \u2022 ~414m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BftIr01R0uU"
   },
   {
     "topic": "Starting Over But You Can BUY Super Luck...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 209,618 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 283,389 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B4HZNcx6hmY"
   },
   {
@@ -216,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,744 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 207,641 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h5CtjDLvUVk"
+  },
+  {
+    "topic": "Sonic Presents: The Chaotix Casefiles Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 222,012 views \u2022 ~564m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BftIr01R0uU"
   },
   {
     "topic": "Something Feels Electric About This Slot",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,266 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 149,694 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uVsNH8tgVQs"
   },
   {
@@ -232,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,729 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 73,223 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U4u0cdUgV5Q"
-  },
-  {
-    "topic": "Lorna Shore - In Darkness (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 120,755 views \u2022 ~658m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aMSlF1oo6Bw"
   },
   {
     "topic": "Imposter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,099 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 76,368 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0aOU-LBtxUI"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,995 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 84,237 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6iX0aiIcYls"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,953 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 62,624 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0yqrgPk56Ns"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,022 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 38,977 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xwXP0pXGQyU"
   },
   {
@@ -280,7 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,326 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 16,189 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o0Q9D2Tn_NY"
+  },
+  {
+    "topic": "Topoppgen - twin towers (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 17,258 views \u2022 ~387m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=v1E2jOkTtng"
   }
 ]
