@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qivlkc/wtf_is_a_stone_\u30c4/"
   },
   {
-    "topic": "Watch your step\u2026",
+    "topic": "It's been 12 years since this gem has been uploaded to YouTube",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qivqfw/watch_your_step/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qj85om/its_been_12_years_since_this_gem_has_been/"
   },
   {
     "topic": "I do not need any AI slop on Shorts",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
   },
   {
-    "topic": "Downloaded Brave Browser and only used YouTube on it for 5 days.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
-  },
-  {
     "topic": "YouTube. Delete. Automatic. Playlists. PLEASE.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj7u4s/youtube_delete_automatic_playlists_please/"
+  },
+  {
+    "topic": "Downloaded Brave Browser and only used YouTube on it for 5 days.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
   },
   {
     "topic": "what is this new trend?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiz899/carney_leaves_davos_without_meeting_trump_after/"
   },
   {
-    "topic": "Trump at Davos Demands \u2018Immediate\u2019 Talks on Acquiring Greenland",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiyy04/trump_at_davos_demands_immediate_talks_on/"
-  },
-  {
     "topic": "Trump says he reached Greenland deal 'framework' with NATO, backs off Europe tariffs",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj7rdk/trump_says_he_reached_greenland_deal_framework/"
+  },
+  {
+    "topic": "Trump at Davos Demands \u2018Immediate\u2019 Talks on Acquiring Greenland",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiyy04/trump_at_davos_demands_immediate_talks_on/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qirh7r/why_is_my_gamecube_controller_from_2002_still/"
   },
   {
-    "topic": "irl stream in Nigeria \ud83c\uddf3\ud83c\uddec  (50 million) + (21st birthday)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 6,772,542 views \u2022 ~64m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=08Y8GmE3O9s"
-  },
-  {
     "topic": "Breaking Hardcore Minecraft to Get Revenge",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 554,923 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 592,782 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=65jnkBVYfqA"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,601 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 226,720 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
   },
   {
@@ -208,31 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 216,391 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 239,681 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
+  },
+  {
+    "topic": "Papers Please but Zombies (Quarantine Zone)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 110,311 views \u2022 ~211m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UXWwCYCPHIM"
   },
   {
     "topic": "MASTERS OF THE UNIVERSE Official Teaser Trailer (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,030 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 89,110 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=htOpBAhwMhk"
-  },
-  {
-    "topic": "Masters of the Universe Teaser Trailer (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 49,395 views \u2022 ~305m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
   },
   {
     "topic": "He-Man: Masters Of The Universe - Teaser Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept ",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,980 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 44,959 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
+  },
+  {
+    "topic": "Masters of the Universe Teaser Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 55,759 views \u2022 ~335m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
   }
 ]
