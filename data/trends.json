@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
   },
   {
+    "topic": "Mythical YouTube Notification",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
+  },
+  {
     "topic": "Why is this even allowed?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiqrwf/so_we_can_advertise_piracy/"
-  },
-  {
-    "topic": "Doritos are apparently a chocolate brand according to youtube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qij4ft/doritos_are_apparently_a_chocolate_brand/"
   },
   {
     "topic": "Carney leaves Davos without meeting Trump after speech on U.S. rupture of world order",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiyy04/trump_at_davos_demands_immediate_talks_on/"
   },
   {
-    "topic": "Nearly 400 millionaires and billionaires call for higher taxes on super-rich",
+    "topic": "Trump Threatens Canada After Carney Draws Standing Ovation at Davos",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiuwi8/nearly_400_millionaires_and_billionaires_call_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
   },
   {
     "topic": "Trump says US won\u2019t use force to seize Greenland and Europe is \u2018destroying\u2019 itself",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgx8q5/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "I miss when seeing a high-level armor set meant you were scared of the player, not their wallet.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qisid0/i_miss_when_seeing_a_highlevel_armor_set_meant/"
-  },
-  {
     "topic": "Massive Ubisoft Shake-Up: Layoffs, Studio Closures Begin in Major Reorganization; Six Games Canceled, Including \u2018Prince of Persia: The Sands of Time\u2019 Remake",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qj31xj/massive_ubisoft_shakeup_layoffs_studio_closures/"
+  },
+  {
+    "topic": "I miss when seeing a high-level armor set meant you were scared of the player, not their wallet.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qisid0/i_miss_when_seeing_a_highlevel_armor_set_meant/"
   },
   {
     "topic": "why is my gamecube controller from 2002 still perfect, but my $70 modern controller has stick drift after 6 months?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,074,371 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 5,642,812 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2M4hKmuBzUU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 434,987 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 504,237 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Va6Hpa9CG0k"
   },
   {
@@ -200,7 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 339,861 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 368,288 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XaqTkZepjPI"
+  },
+  {
+    "topic": "Star Wars: Maul - Shadow Lord | Trailer Tomorrow",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 88,862 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
+  },
+  {
+    "topic": "When times were simpler\u2026 Teaser Trailer Tomorrow | Masters of The Universe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 109,360 views \u2022 ~205m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
+  },
+  {
+    "topic": "MASTERS OF THE UNIVERSE Official Teaser Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 18,896 views \u2022 ~197m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=htOpBAhwMhk"
+  },
+  {
+    "topic": "Masters of the Universe Teaser Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,415 views \u2022 ~165m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
   }
 ]
