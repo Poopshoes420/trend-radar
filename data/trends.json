@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
   },
   {
-    "topic": "Every year, every month.",
+    "topic": "So we can advertise piracy?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhxmns/every_year_every_month/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiqrwf/so_we_can_advertise_piracy/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1427, Part 1 (Thread #1574)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qinlns/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifvu2/macron_on_trump_leaking_their_private_messages_i/"
-  },
-  {
     "topic": "Former South Korean President & Prime Minister Han Duck Soo sentenced to 23 years in prison for insurrection",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiqhv6/former_south_korean_president_prime_minister_han/"
+  },
+  {
+    "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifvu2/macron_on_trump_leaking_their_private_messages_i/"
   },
   {
     "topic": "Denmark deploys F-35A stealth fighters over Greenland supported by French tanker",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qisodn/denmark_deploys_f35a_stealth_fighters_over/"
   },
   {
-    "topic": "Trump says Iran would be wiped off Earth if something happens to him",
+    "topic": "Macron: US seeks to weaken Europe",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qijxsq/trump_says_iran_would_be_wiped_off_earth_if/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qirh38/macron_us_seeks_to_weaken_europe/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,141,213 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 1,148,127 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ciURKxo-zsU"
-  },
-  {
-    "topic": "I Got Trained By the World's Best Minecraft Player",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,198,325 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=D7hmj_cT-Qk"
   },
   {
     "topic": "We Played The Most Hilarious Game of 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 762,685 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 785,367 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AUWH7uHPgOY"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,236 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 122,007 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q-mWC7xuuEA"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,355 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 98,908 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dDAb7PiixUc"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,869 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 30,273 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gk4tzP34ANY"
   }
 ]
