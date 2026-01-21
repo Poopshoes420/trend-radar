@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qikg7p/canada_is_positioning_itself_on_greenland_knowing/"
   },
   {
-    "topic": "Danish pension fund to sell $100 million in U.S. Treasuries due to \"poor U.S. government finances\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifazb/danish_pension_fund_to_sell_100_million_in_us/"
-  },
-  {
     "topic": "Danish pension fund to sell $100 million in Treasuries, citing 'poor' U.S. government finances",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi7tdk/danish_pension_fund_to_sell_100_million_in/"
+  },
+  {
+    "topic": "Trump says Iran would be wiped off Earth if something happens to him",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qijxsq/trump_says_iran_would_be_wiped_off_earth_if/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 963,381 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 994,340 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ciURKxo-zsU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 477,125 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 590,506 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7hmj_cT-Qk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,486 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 323,045 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AUWH7uHPgOY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,550 views \u2022 ~583m old",
+    "why": "Trending on YouTube \u2022 257,984 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XK6mHWUAC9I"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,435 views \u2022 ~684m old",
+    "why": "Trending on YouTube \u2022 237,086 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h5CtjDLvUVk"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 161,375 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 183,649 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uVsNH8tgVQs"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,769 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 98,272 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U4u0cdUgV5Q"
   },
   {
@@ -240,23 +240,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,370 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 58,848 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q-mWC7xuuEA"
+  },
+  {
+    "topic": "Avengers Doomsday Trailer What Happened To Hulk & Spider-Man",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,341 views \u2022 ~304m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dDAb7PiixUc"
   },
   {
     "topic": "Midnight Pre-Expansion Update Trailer | World of Warcraft",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,590 views \u2022 ~682m old",
+    "why": "Trending on YouTube \u2022 66,635 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0yqrgPk56Ns"
+  },
+  {
+    "topic": "BAK Jay - Reap 2 (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,779 views \u2022 ~353m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Gk4tzP34ANY"
   },
   {
     "topic": "FattMack - White Knight [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,160 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 20,909 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o0Q9D2Tn_NY"
   },
   {
@@ -264,23 +280,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,227 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 22,998 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v1E2jOkTtng"
-  },
-  {
-    "topic": "BAK Jay - Reap 2 (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 9,735 views \u2022 ~324m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Gk4tzP34ANY"
   },
   {
     "topic": "Hunxho - Free Da Press [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,284 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 18,807 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_FAD5ePJaM"
   }
 ]
