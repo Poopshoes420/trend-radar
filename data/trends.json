@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qhwe2j/why_is_this_even_allowed/"
   },
   {
-    "topic": "i\u2019m going to lose my mind with these ads.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qii8v9/im_going_to_lose_my_mind_with_these_ads/"
-  },
-  {
     "topic": "Doritos are apparently a chocolate brand according to youtube",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qij4ft/doritos_are_apparently_a_chocolate_brand/"
+  },
+  {
+    "topic": "i\u2019m going to lose my mind with these ads.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qii8v9/im_going_to_lose_my_mind_with_these_ads/"
   },
   {
     "topic": "What Youtuber is this for you?",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qikg7p/canada_is_positioning_itself_on_greenland_knowing/"
   },
   {
-    "topic": "Danish pension fund to sell $100 million in Treasuries, citing 'poor' U.S. government finances",
+    "topic": "Trump doubles down on Greenland threats, saying there is 'no going back'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qi7tdk/danish_pension_fund_to_sell_100_million_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qio5bh/trump_doubles_down_on_greenland_threats_saying/"
   },
   {
     "topic": "Trump says Iran would be wiped off Earth if something happens to him",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,030,663 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 1,051,980 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ciURKxo-zsU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 719,434 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 825,013 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7hmj_cT-Qk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 431,732 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 513,761 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AUWH7uHPgOY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 296,301 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 324,959 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XK6mHWUAC9I"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,296 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 218,131 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uVsNH8tgVQs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,403 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 131,876 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U4u0cdUgV5Q"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,802 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 90,837 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q-mWC7xuuEA"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,226 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 63,777 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dDAb7PiixUc"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,707 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 22,830 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gk4tzP34ANY"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,813 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 29,748 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v1E2jOkTtng"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,919 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 25,760 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o0Q9D2Tn_NY"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,420 views \u2022 ~607m old",
+    "why": "Trending on YouTube \u2022 24,894 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_FAD5ePJaM"
   }
 ]
