@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Somewhere in Japan \ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
+  },
+  {
     "topic": "Pretending to be a car",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qif1q4/310_dismount/"
   },
   {
-    "topic": "Somewhere in Japan \ud83d\ude02",
+    "topic": "WTF is a \"Stone\"? \u00af\\_(\u30c4)_/\u00af",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
-  },
-  {
-    "topic": "Too broke for water \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qii6wo/too_broke_for_water/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qivlkc/wtf_is_a_stone_\u30c4/"
   },
   {
     "topic": "Why is this even allowed?",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qii8v9/im_going_to_lose_my_mind_with_these_ads/"
   },
   {
-    "topic": "What Youtuber is this for you?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
-  },
-  {
     "topic": "So we can advertise piracy?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiqrwf/so_we_can_advertise_piracy/"
+  },
+  {
+    "topic": "What Youtuber is this for you?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
   },
   {
     "topic": "Denmark deploys F-35A stealth fighters over Greenland supported by French tanker",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qinlns/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Nearly 400 millionaires and billionaires call for higher taxes on super-rich",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiuwi8/nearly_400_millionaires_and_billionaires_call_for/"
+  },
+  {
     "topic": "Former South Korean President & Prime Minister Han Duck Soo sentenced to 23 years in prison for insurrection",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qirh38/macron_us_seeks_to_weaken_europe/"
-  },
-  {
-    "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifvu2/macron_on_trump_leaking_their_private_messages_i/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -178,13 +178,5 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qi9oiv/still_1_of_my_favorite_classic_examples_between/"
-  },
-  {
-    "topic": "Avengers Doomsday Trailer What Happened To Hulk & Spider-Man",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 105,182 views \u2022 ~691m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dDAb7PiixUc"
   }
 ]
