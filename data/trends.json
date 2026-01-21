@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qinlns/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifvu2/macron_on_trump_leaking_their_private_messages_i/"
-  },
-  {
     "topic": "Trump doubles down on Greenland threats, saying there is 'no going back'",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qio5bh/trump_doubles_down_on_greenland_threats_saying/"
+  },
+  {
+    "topic": "Macron on Trump leaking their private messages: \"I stand by my words\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qifvu2/macron_on_trump_leaking_their_private_messages_i/"
   },
   {
     "topic": "Former South Korean President & Prime Minister Han Duck Soo sentenced to 23 years in prison for insurrection",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgx8q5/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "I miss when PC games came in a big box",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qile2s/i_miss_when_pc_games_came_in_a_big_box/"
-  },
-  {
     "topic": "I miss when seeing a high-level armor set meant you were scared of the player, not their wallet.",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qisid0/i_miss_when_seeing_a_highlevel_armor_set_meant/"
+  },
+  {
+    "topic": "I miss when PC games came in a big box",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qile2s/i_miss_when_pc_games_came_in_a_big_box/"
   },
   {
     "topic": "why is my gamecube controller from 2002 still perfect, but my $70 modern controller has stick drift after 6 months?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 706,278 views \u2022 ~33m old",
+    "why": "Trending on YouTube \u2022 787,232 views \u2022 ~66m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UHVWz4YlLIM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,116,411 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 1,129,111 views \u2022 ~590m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ciURKxo-zsU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,099,209 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 1,143,920 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7hmj_cT-Qk"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 711,397 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 740,694 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AUWH7uHPgOY"
-  },
-  {
-    "topic": "OK, Let\u2019s Talk About the Avengers Doomsday TIMESTAMPS\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 154,349 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=U4u0cdUgV5Q"
   },
   {
     "topic": "Luis Fonsi, Feid - CAMBIAR\u00c9 (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,351 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 116,568 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q-mWC7xuuEA"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 89,360 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 93,261 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dDAb7PiixUc"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,772 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 29,356 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gk4tzP34ANY"
   }
 ]
