@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
   },
   {
-    "topic": "Mrs Kermit caught in the wild",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiypf1/mrs_kermit_caught_in_the_wild/"
-  },
-  {
     "topic": "WTF is a \"Stone\"? \u00af\\_(\u30c4)_/\u00af",
     "sources": [
       "reddit"
@@ -43,6 +34,24 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qimv1h/pretending_to_be_a_car/"
+  },
+  {
+    "topic": "3/10 Dismount \ud83d\ude05",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qif1q4/310_dismount/"
+  },
+  {
+    "topic": "Downloaded Brave Browser and only used YouTube on it for 5 days.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
   },
   {
     "topic": "Why is this even allowed?",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qii8v9/im_going_to_lose_my_mind_with_these_ads/"
   },
   {
-    "topic": "What Youtuber is this for you?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qi3yds/what_youtuber_is_this_for_you/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1427, Part 1 (Thread #1574)",
     "sources": [
       "reddit"
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qisodn/denmark_deploys_f35a_stealth_fighters_over/"
   },
   {
+    "topic": "Trump at Davos Demands \u2018Immediate\u2019 Talks on Acquiring Greenland",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiyy04/trump_at_davos_demands_immediate_talks_on/"
+  },
+  {
     "topic": "(Swedish) Pension Asset Manager Alecta has sold off an estimated 80 billion kronor (7,5b EUR) of US Treasury Bonds",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiwcs4/swedish_pension_asset_manager_alecta_has_sold_off/"
   },
   {
-    "topic": "Former South Korean President & Prime Minister Han Duck Soo sentenced to 23 years in prison for insurrection",
+    "topic": "Carney leaves Davos without meeting Trump after speech on U.S. rupture of world order",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiqhv6/former_south_korean_president_prime_minister_han/"
-  },
-  {
-    "topic": "Macron: US seeks to weaken Europe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qirh38/macron_us_seeks_to_weaken_europe/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiz899/carney_leaves_davos_without_meeting_trump_after/"
   },
   {
     "topic": "Katy Perry and Justin Trudeau sending each other secret love signals during the World Economic Forum!",
@@ -178,5 +178,29 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qile2s/i_miss_when_pc_games_came_in_a_big_box/"
+  },
+  {
+    "topic": "O'Romeo Official Trailer | Sajid N | Vishal B | Shahid K | Triptii D | Nana P | Avinash T | 13th Feb",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 3,306,421 views \u2022 ~409m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2M4hKmuBzUU"
+  },
+  {
+    "topic": "This is sad",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 169,333 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Va6Hpa9CG0k"
+  },
+  {
+    "topic": "YOU vs HOMER",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 233,018 views \u2022 ~404m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XaqTkZepjPI"
   }
 ]
