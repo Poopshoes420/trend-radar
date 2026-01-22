@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjyf70/white_house_confuses_belgium_with_belarus_and/"
   },
   {
+    "topic": "China Rejects Offer to Join Trump's Gaza Board of Peace",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjzbj3/china_rejects_offer_to_join_trumps_gaza_board_of/"
+  },
+  {
     "topic": "EU leaders to reassess U.S. ties despite Trump U-turn on Greenland",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjvavp/eu_leaders_to_reassess_us_ties_despite_trump/"
-  },
-  {
-    "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
   },
   {
-    "topic": "i really miss when games had \"useless\" physics interactions just for immersion.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjjwff/i_really_miss_when_games_had_useless_physics/"
-  },
-  {
     "topic": "6 year old me struggled for a year. Adult me less then an hour. Nostalgia critical hit",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjwmxx/6_year_old_me_struggled_for_a_year_adult_me_less/"
   },
   {
+    "topic": "i really miss when games had \"useless\" physics interactions just for immersion.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjjwff/i_really_miss_when_games_had_useless_physics/"
+  },
+  {
     "topic": "Glowbert needs a friend! (Brawl Stars Animation)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,702,866 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 1,897,150 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
@@ -192,31 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 671,818 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 1,067,689 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
-  },
-  {
-    "topic": "IT'S THE ALEX TRAILER & 2XKO Full Launch! \ud83d\udd34Full Stream\ud83d\udd34 (1-21)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 90,114 views \u2022 ~292m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xdU6S7TmNu0"
   },
   {
     "topic": "Pok\u00e9mon TCG Pocket: Fantastical Parade | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,970 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 67,566 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
+  },
+  {
+    "topic": "MASTERS OF THE UNIVERSE Official Trailer (2026) He-Man",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,032 views \u2022 ~224m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SnWnFUcBL_0"
+  },
+  {
+    "topic": "Masters of The Universe \u2013 Official Teaser Trailer - Reaction!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 16,049 views \u2022 ~176m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GKBybVSQ9LA"
   },
   {
     "topic": "DEF LEPPARD - Rejoice (Official Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,718 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 32,551 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zy2TLLeNgp0"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
