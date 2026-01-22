@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
   },
   {
-    "topic": "YouTube. Delete. Automatic. Playlists. PLEASE.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj7u4s/youtube_delete_automatic_playlists_please/"
-  },
-  {
     "topic": "How many channels does this guy work for?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
+  },
+  {
+    "topic": "YouTube. Delete. Automatic. Playlists. PLEASE.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj7u4s/youtube_delete_automatic_playlists_please/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1428, Part 1 (Thread #1575)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 208,438 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 256,539 views \u2022 ~101m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,054,123 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 1,089,216 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 346,033 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 372,217 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 500,853 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 531,434 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,811 views \u2022 ~667m old",
+    "why": "Trending on YouTube \u2022 438,418 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UXWwCYCPHIM"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,488 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 152,203 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TvLeKqO1NBg"
+  },
+  {
+    "topic": "Somethings Wrong At This Diner\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 112,641 views \u2022 ~384m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tGeATNyMFn4"
   },
   {
     "topic": "Kodak Black - Endless Nights feat. Gunna, Roddy Ricch, French Montana [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,041 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 100,207 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4sEaJhaKzI"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,584 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 45,255 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mo00i_RFcHk"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,070 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 38,133 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,751 views \u2022 ~516m old",
+    "why": "Trending on YouTube \u2022 39,375 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0IOP69dAZoE"
   },
   {
@@ -264,15 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,529 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 22,952 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hcx0QonGMRA"
-  },
-  {
-    "topic": "Luhh Dyl - Still Having Problems (feat. NoCap) [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 16,154 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=O0XnNjIwXe0"
   }
 ]
