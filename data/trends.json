@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Winter Break Hit Hard",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
-  },
-  {
     "topic": "Tripping like it\u2019s everyone\u2019s business",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk9m51/tripping_like_its_everyones_business/"
+  },
+  {
+    "topic": "Winter Break Hit Hard",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
   },
   {
     "topic": "My wife bought a Kids toy on amazon",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,018,405 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 4,362,382 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,184,845 views \u2022 ~692m old",
+    "why": "Trending on YouTube \u2022 3,214,922 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,445,903 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 1,468,141 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oonACDq89BY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 803,171 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 810,643 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hXn6bvU1Kh4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 478,943 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 492,031 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pWw-UENvdTw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 529,094 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 549,238 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZnfUeVeMKjY"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 235,021 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 248,089 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_4zJJSEm1ag"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 233,616 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 244,847 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dj2PkwfrRP0"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,279 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 156,075 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=r-vsKE1D6Nw"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 238,924 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 242,389 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SnWnFUcBL_0"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,674 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 128,519 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
   },
   {
@@ -272,7 +272,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,233 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 58,919 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iNj3vo3zxGg"
+  },
+  {
+    "topic": "Savannah Dexter - I Hope (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 8,363 views \u2022 ~172m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dtkUnmX6_k8"
   }
 ]
