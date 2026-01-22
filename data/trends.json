@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjb9ks/middle_aged_gorillas/"
   },
   {
-    "topic": "Youtube removed the ability to sort by upload date as of today.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjgsln/youtube_removed_the_ability_to_sort_by_upload/"
-  },
-  {
     "topic": "Even Notch says YouTube suck...",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjw7n9/even_notch_says_youtube_suck/"
+  },
+  {
+    "topic": "Youtube removed the ability to sort by upload date as of today.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjgsln/youtube_removed_the_ability_to_sort_by_upload/"
   },
   {
     "topic": "My phone is about to explode",
@@ -184,23 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,240,861 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 1,362,288 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
-    "topic": "Random Horror Games",
+    "topic": "Masters of The Universe \u2013 Official Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 505,468 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
+    "why": "Trending on YouTube \u2022 285,741 views \u2022 ~122m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
     "topic": "IT'S THE ALEX TRAILER & 2XKO Full Launch! \ud83d\udd34Full Stream\ud83d\udd34 (1-21)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,149 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 87,340 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xdU6S7TmNu0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,984 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 19,732 views \u2022 ~122m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
