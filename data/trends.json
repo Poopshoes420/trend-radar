@@ -1,14 +1,5 @@
 [
   {
-    "topic": "My time to shine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk1usp/my_time_to_shine/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,15 +7,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
-    "topic": "Winter Break Hit Hard",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
   },
   {
     "topic": "\u00ab Best regards, \u00bb",
@@ -36,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk1kjj/best_regards/"
   },
   {
+    "topic": "Winter Break Hit Hard",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
+  },
+  {
     "topic": "I work in a warehouse",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
+  },
+  {
+    "topic": "My wife bought a Kids toy on amazon",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjulxm/my_wife_bought_a_kids_toy_on_amazon/"
   },
   {
     "topic": "Even Notch says YouTube suck...",
@@ -153,6 +153,24 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjv0kt/hanging_by_a_thread_ubisoft_shares_plummet/"
   },
   {
+    "topic": "Fable Releases Autumn 2026 for PC, Xbox Series X/S and PlayStation 5",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk34fr/fable_releases_autumn_2026_for_pc_xbox_series_xs/"
+  },
+  {
+    "topic": "the switch 2 doesn't need extra storage",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk38uk/the_switch_2_doesnt_need_extra_storage/"
+  },
+  {
     "topic": "6 year old me struggled for a year. Adult me less then an hour. Nostalgia critical hit",
     "sources": [
       "reddit"
@@ -162,29 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjwmxx/6_year_old_me_struggled_for_a_year_adult_me_less/"
   },
   {
-    "topic": "Too Big to Fail: Ubisoft is in too deep with Beyond Good & Evil 2. BG&E2 survives wave of cancellations at Ubisoft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
-  },
-  {
-    "topic": "i really miss when games had \"useless\" physics interactions just for immersion.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjjwff/i_really_miss_when_games_had_useless_physics/"
-  },
-  {
     "topic": "Masters of The Universe \u2013 Official Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,831,283 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 2,100,677 views \u2022 ~332m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,259,627 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 2,404,410 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 421,539 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 536,613 views \u2022 ~153m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oonACDq89BY"
+  },
+  {
+    "topic": "Invincible Season 4 - Official Trailer | Prime Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 158,285 views \u2022 ~152m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZnfUeVeMKjY"
   },
   {
     "topic": "MASTERS OF THE UNIVERSE Official Trailer (2026) He-Man",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 106,281 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 125,974 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SnWnFUcBL_0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,222 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 95,721 views \u2022 ~332m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
   },
   {
@@ -224,23 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,619 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 45,771 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zy2TLLeNgp0"
-  },
-  {
-    "topic": "Invincible - Season 4 Official Trailer | Prime Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 6,392 views \u2022 ~121m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=01-oQuNR74Y"
-  },
-  {
-    "topic": "Deadpool & Wolverine",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
