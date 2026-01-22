@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "My time to shine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk1usp/my_time_to_shine/"
+  },
+  {
     "topic": "Winter Break Hit Hard",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjulxm/my_wife_bought_a_kids_toy_on_amazon/"
-  },
-  {
-    "topic": "what",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjswxc/what/"
   },
   {
     "topic": "Even Notch says YouTube suck...",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
   },
   {
-    "topic": "Nobel winner Maria Machado's shocking call for a Venezuela-like US military raid in Cuba and Nicaragua sparks fury, internet calls her 'hypocrite'",
+    "topic": "White House confuses Belgium with \u2018Belarus\u2019 and wrongly puts country on list of Peace Council participants",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjt1or/nobel_winner_maria_machados_shocking_call_for_a/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjyf70/white_house_confuses_belgium_with_belarus_and/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1428, Part 1 (Thread #1575)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjk9pl/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "White House confuses Belgium with \u2018Belarus\u2019 and wrongly puts country on list of Peace Council participants",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjyf70/white_house_confuses_belgium_with_belarus_and/"
-  },
-  {
     "topic": "China Rejects Offer to Join Trump's Gaza Board of Peace",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjzbj3/china_rejects_offer_to_join_trumps_gaza_board_of/"
+  },
+  {
+    "topic": "Nobel winner Maria Machado's shocking call for a Venezuela-like US military raid in Cuba and Nicaragua sparks fury, internet calls her 'hypocrite'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjt1or/nobel_winner_maria_machados_shocking_call_for_a/"
   },
   {
     "topic": "EU leaders to reassess U.S. ties despite Trump U-turn on Greenland",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjv0kt/hanging_by_a_thread_ubisoft_shares_plummet/"
   },
   {
-    "topic": "Too Big to Fail: Ubisoft is in too deep with Beyond Good & Evil 2. BG&E2 survives wave of cancellations at Ubisoft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
-  },
-  {
     "topic": "6 year old me struggled for a year. Adult me less then an hour. Nostalgia critical hit",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjwmxx/6_year_old_me_struggled_for_a_year_adult_me_less/"
+  },
+  {
+    "topic": "Too Big to Fail: Ubisoft is in too deep with Beyond Good & Evil 2. BG&E2 survives wave of cancellations at Ubisoft",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
   },
   {
     "topic": "i really miss when games had \"useless\" physics interactions just for immersion.",
@@ -180,43 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjjwff/i_really_miss_when_games_had_useless_physics/"
   },
   {
-    "topic": "Glowbert needs a friend! (Brawl Stars Animation)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,897,150 views \u2022 ~347m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
-  },
-  {
     "topic": "Masters of The Universe \u2013 Official Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,067,689 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 1,575,281 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
-    "topic": "Pok\u00e9mon TCG Pocket: Fantastical Parade | Official Trailer",
+    "topic": "Glowbert needs a friend! (Brawl Stars Animation)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,566 views \u2022 ~232m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
+    "why": "Trending on YouTube \u2022 2,083,692 views \u2022 ~386m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
     "topic": "MASTERS OF THE UNIVERSE Official Trailer (2026) He-Man",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,032 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 83,400 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SnWnFUcBL_0"
+  },
+  {
+    "topic": "Pok\u00e9mon TCG Pocket: Fantastical Parade | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 78,728 views \u2022 ~270m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
   },
   {
     "topic": "Masters of The Universe \u2013 Official Teaser Trailer - Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,049 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 26,477 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GKBybVSQ9LA"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,551 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 37,229 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zy2TLLeNgp0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
