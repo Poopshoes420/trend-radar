@@ -1,14 +1,5 @@
 [
   {
-    "topic": "I work in a warehouse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I work in a warehouse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
   },
   {
     "topic": "Middle aged gorillas",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjb9ks/middle_aged_gorillas/"
   },
   {
+    "topic": "what",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjswxc/what/"
+  },
+  {
     "topic": "Sharpening minds at a Primary School in the Philippines",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjotgs/sharpening_minds_at_a_primary_school_in_the/"
-  },
-  {
-    "topic": "What's That Sound? [OC]",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjgrgw/whats_that_sound_oc/"
   },
   {
     "topic": "Youtube removed the ability to sort by upload date as of today.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
   },
   {
-    "topic": "I do not need any AI slop on Shorts",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj34bb/i_do_not_need_any_ai_slop_on_shorts/"
-  },
-  {
     "topic": "Random videos that I didn't watch or scroll over appearing in my watch history",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjn5kg/random_videos_that_i_didnt_watch_or_scroll_over/"
+  },
+  {
+    "topic": "I do not need any AI slop on Shorts",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj34bb/i_do_not_need_any_ai_slop_on_shorts/"
   },
   {
     "topic": "Mythical YouTube Notification",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
   },
   {
-    "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
+    "topic": "Nobel winner Maria Machado's shocking call for a Venezuela-like US military raid in Cuba and Nicaragua sparks fury, internet calls her 'hypocrite'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjt1or/nobel_winner_maria_machados_shocking_call_for_a/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1428, Part 1 (Thread #1575)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjk9pl/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
+  },
+  {
     "topic": "US to quit World Health Organization",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjol11/us_to_quit_world_health_organization/"
-  },
-  {
-    "topic": "Nobel winner Maria Machado's shocking call for a Venezuela-like US military raid in Cuba and Nicaragua sparks fury, internet calls her 'hypocrite'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjt1or/nobel_winner_maria_machados_shocking_call_for_a/"
   },
   {
     "topic": "Rutte Says Greenland Sovereignty Was Not Discussed With Trump",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjjwff/i_really_miss_when_games_had_useless_physics/"
   },
   {
-    "topic": "Too Big to Fail: Ubisoft is in too deep with Beyond Good & Evil 2. BG&E2 survives wave of cancellations at Ubisoft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
-  },
-  {
     "topic": "Baldur's Gate 3 publishing lead says Epic Games CEO Tim Sweeney's \"altruistic pro-developer talk\" over the Steam vs Epic debate \"doesn't sit well\" after Alan Wake 2 studio \"seemingly went into financial crisis\"",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjsy6p/baldurs_gate_3_publishing_lead_says_epic_games/"
+  },
+  {
+    "topic": "Too Big to Fail: Ubisoft is in too deep with Beyond Good & Evil 2. BG&E2 survives wave of cancellations at Ubisoft",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
   },
   {
     "topic": "Massive Ubisoft Shake-Up: Layoffs, Studio Closures Begin in Major Reorganization; Six Games Canceled, Including \u2018Prince of Persia: The Sands of Time\u2019 Remake",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qj31xj/massive_ubisoft_shakeup_layoffs_studio_closures/"
   },
   {
+    "topic": "IT'S THE ALEX TRAILER & 2XKO Full Launch! \ud83d\udd34Full Stream\ud83d\udd34 (1-21)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 78,604 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xdU6S7TmNu0"
+  },
+  {
     "topic": "Random Horror Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 453,885 views \u2022 ~560m old",
+    "why": "Trending on YouTube \u2022 467,483 views \u2022 ~609m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,520 views \u2022 ~582m old",
+    "why": "Trending on YouTube \u2022 232,600 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hubd833y18E"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
