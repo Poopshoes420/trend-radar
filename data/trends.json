@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qizx2e/oc_nah/"
   },
   {
-    "topic": "Somewhere in Japan \ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
-  },
-  {
     "topic": "Middle aged gorillas",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjb9ks/middle_aged_gorillas/"
+  },
+  {
+    "topic": "Somewhere in Japan \ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
   },
   {
     "topic": "omg",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj7u4s/youtube_delete_automatic_playlists_please/"
   },
   {
-    "topic": "Downloaded Brave Browser and only used YouTube on it for 5 days.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
-  },
-  {
     "topic": "what is this new trend?",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj94d6/what_is_this_new_trend/"
   },
   {
-    "topic": "Trump Threatens Canada After Carney Draws Standing Ovation at Davos",
+    "topic": "Downloaded Brave Browser and only used YouTube on it for 5 days.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1427, Part 1 (Thread #1574)",
@@ -117,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj7rdk/trump_says_he_reached_greenland_deal_framework/"
   },
   {
+    "topic": "Trump Threatens Canada After Carney Draws Standing Ovation at Davos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
+  },
+  {
+    "topic": "Trump steps back from the brink on Greenland. But the damage has been done.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjfd34/trump_steps_back_from_the_brink_on_greenland_but/"
+  },
+  {
     "topic": "Carney leaves Davos without meeting Trump after speech on U.S. rupture of world order",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiz899/carney_leaves_davos_without_meeting_trump_after/"
-  },
-  {
-    "topic": "Trump at Davos Demands \u2018Immediate\u2019 Talks on Acquiring Greenland",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiyy04/trump_at_davos_demands_immediate_talks_on/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,31 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 555,924 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 840,506 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
-  },
-  {
-    "topic": "Breaking Hardcore Minecraft to Get Revenge",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 795,354 views \u2022 ~594m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=65jnkBVYfqA"
   },
   {
     "topic": "NO JOHN PORK NOOOOO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,927 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 351,216 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
+  },
+  {
+    "topic": "Street Fighter 6 - Alex Gameplay Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 184,325 views \u2022 ~188m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
+  },
+  {
+    "topic": "KINGSMAN DRAMA FULL VOD !gamersupps",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 133,369 views \u2022 ~146m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PJSapsWClFk"
   },
   {
     "topic": "Star Wars: Maul - Shadow Lord | Trailer Tomorrow",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 341,311 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 408,189 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 354,606 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 431,124 views \u2022 ~666m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,718 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 306,072 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UXWwCYCPHIM"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,516 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 210,131 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=htOpBAhwMhk"
   },
   {
@@ -240,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,844 views \u2022 ~428m old",
+    "why": "Trending on YouTube \u2022 154,314 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
+  },
+  {
+    "topic": "Kodak Black - Endless Nights feat. Gunna, Roddy Ricch, French Montana [Official Music Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 34,271 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m4sEaJhaKzI"
   },
   {
     "topic": "FullyChop, G Ravon - Fan Hoes (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,772 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 52,516 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSm5nw2GkTY"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,551 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 112,270 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
   },
   {
@@ -264,7 +280,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,728 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 21,529 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
+  },
+  {
+    "topic": "STOLE YA FLOW",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 23,496 views \u2022 ~350m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0IOP69dAZoE"
   }
 ]
