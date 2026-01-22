@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Just guys being dudes",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjjm7h/just_guys_being_dudes/"
-  },
-  {
     "topic": "Middle aged gorillas",
     "sources": [
       "reddit"
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjgrgw/whats_that_sound_oc/"
   },
   {
+    "topic": "[OC] nah",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qizx2e/oc_nah/"
+  },
+  {
     "topic": "Youtube removed the ability to sort by upload date as of today.",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjgsln/youtube_removed_the_ability_to_sort_by_upload/"
-  },
-  {
-    "topic": "I do not need any AI slop on Shorts",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj34bb/i_do_not_need_any_ai_slop_on_shorts/"
   },
   {
     "topic": "How many channels does this guy work for?",
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
   },
   {
-    "topic": "Mythical YouTube Notification",
+    "topic": "I do not need any AI slop on Shorts",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj34bb/i_do_not_need_any_ai_slop_on_shorts/"
   },
   {
     "topic": "Random videos that I didn't watch or scroll over appearing in my watch history",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjn5kg/random_videos_that_i_didnt_watch_or_scroll_over/"
+  },
+  {
+    "topic": "Mythical YouTube Notification",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
   },
   {
     "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qj31xj/massive_ubisoft_shakeup_layoffs_studio_closures/"
   },
   {
+    "topic": "Too Big to Fail: Ubisoft is in too deep with Beyond Good & Evil 2. BG&E2 survives wave of cancellations at Ubisoft",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjs0e7/too_big_to_fail_ubisoft_is_in_too_deep_with/"
+  },
+  {
     "topic": "Are there other games like Ghost of Tsushima where increasing the difficulty increases the lethality of both the player and the enemies?",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjkdm6/are_there_other_games_like_ghost_of_tsushima/"
   },
   {
-    "topic": "I miss when seeing a high-level armor set meant you were scared of the player, not their wallet.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qisid0/i_miss_when_seeing_a_highlevel_armor_set_meant/"
-  },
-  {
     "topic": "Random Horror Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 430,360 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 435,525 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,226 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 206,303 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hubd833y18E"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,318 views \u2022 ~655m old",
+    "why": "Trending on YouTube \u2022 75,869 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mo00i_RFcHk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
