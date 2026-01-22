@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I work in a warehouse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
-  },
-  {
     "topic": "Winter Break Hit Hard",
     "sources": [
       "reddit"
@@ -27,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
   },
   {
+    "topic": "I work in a warehouse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
+  },
+  {
+    "topic": "My wife bought a Kids toy on amazon",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjulxm/my_wife_bought_a_kids_toy_on_amazon/"
+  },
+  {
     "topic": "what",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjswxc/what/"
-  },
-  {
-    "topic": "Middle aged gorillas",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjb9ks/middle_aged_gorillas/"
   },
   {
     "topic": "Even Notch says YouTube suck...",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjrs6w/my_phone_is_about_to_explode/"
   },
   {
-    "topic": "How many channels does this guy work for?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
-  },
-  {
     "topic": "Random videos that I didn't watch or scroll over appearing in my watch history",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjn5kg/random_videos_that_i_didnt_watch_or_scroll_over/"
+  },
+  {
+    "topic": "How many channels does this guy work for?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
   },
   {
     "topic": "Nobel winner Maria Machado's shocking call for a Venezuela-like US military raid in Cuba and Nicaragua sparks fury, internet calls her 'hypocrite'",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjk9pl/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
-  },
-  {
     "topic": "EU leaders to reassess U.S. ties despite Trump U-turn on Greenland",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjvavp/eu_leaders_to_reassess_us_ties_despite_trump/"
   },
   {
-    "topic": "Japan announces $6 billion in support for Ukraine",
+    "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjrepj/japan_announces_6_billion_in_support_for_ukraine/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
+  },
+  {
+    "topic": "White House confuses Belgium with \u2018Belarus\u2019 and wrongly puts country on list of Peace Council participants",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjyf70/white_house_confuses_belgium_with_belarus_and/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,362,288 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 1,554,225 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 285,741 views \u2022 ~122m old",
+    "why": "Trending on YouTube \u2022 429,319 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,340 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 89,063 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xdU6S7TmNu0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,732 views \u2022 ~122m old",
+    "why": "Trending on YouTube \u2022 34,243 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
