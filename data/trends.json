@@ -9,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] nah",
+    "topic": "I work in a warehouse",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qizx2e/oc_nah/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
   },
   {
     "topic": "Middle aged gorillas",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjb9ks/middle_aged_gorillas/"
   },
   {
+    "topic": "[OC] nah",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qizx2e/oc_nah/"
+  },
+  {
     "topic": "Somewhere in Japan \ud83d\ude02",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qiux1y/somewhere_in_japan/"
-  },
-  {
-    "topic": "omg",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qj8drs/omg/"
   },
   {
     "topic": "I do not need any AI slop on Shorts",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
   },
   {
+    "topic": "Youtube removed the ability to sort by upload date as of today.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjgsln/youtube_removed_the_ability_to_sort_by_upload/"
+  },
+  {
     "topic": "YouTube. Delete. Automatic. Playlists. PLEASE.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj94d6/what_is_this_new_trend/"
-  },
-  {
-    "topic": "Downloaded Brave Browser and only used YouTube on it for 5 days.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qiymm5/downloaded_brave_browser_and_only_used_youtube_on/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1427, Part 1 (Thread #1574)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
   },
   {
-    "topic": "Trump steps back from the brink on Greenland. But the damage has been done.",
+    "topic": "Trump-Greenland Deals Reportedly Includes U.S. \u2018Sovereignty Over Small Pockets\u2019 of Territory",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjfd34/trump_steps_back_from_the_brink_on_greenland_but/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjc9go/trumpgreenland_deals_reportedly_includes_us/"
   },
   {
     "topic": "Carney leaves Davos without meeting Trump after speech on U.S. rupture of world order",
@@ -171,84 +171,76 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qj1m72/playing_resident_evil_7_for_the_first_time_yeah/"
   },
   {
-    "topic": "why is my gamecube controller from 2002 still perfect, but my $70 modern controller has stick drift after 6 months?",
+    "topic": "\u2018God of War\u2019 Live-Action Series Casts \u2018Boots\u2019 Alum Max Parker As Heimdall",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qirh7r/why_is_my_gamecube_controller_from_2002_still/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qj7rvd/god_of_war_liveaction_series_casts_boots_alum_max/"
   },
   {
     "topic": "RESTRICTED_conditioning_1990",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 840,506 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 985,397 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
-  },
-  {
-    "topic": "NO JOHN PORK NOOOOO",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 351,216 views \u2022 ~353m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
   },
   {
     "topic": "Street Fighter 6 - Alex Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 184,325 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 303,873 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
   },
   {
-    "topic": "KINGSMAN DRAMA FULL VOD !gamersupps",
+    "topic": "NO JOHN PORK NOOOOO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,369 views \u2022 ~146m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PJSapsWClFk"
-  },
-  {
-    "topic": "Star Wars: Maul - Shadow Lord | Trailer Tomorrow",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 408,189 views \u2022 ~605m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
-  },
-  {
-    "topic": "When times were simpler\u2026 Teaser Trailer Tomorrow | Masters of The Universe",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 431,124 views \u2022 ~666m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3Qy3AqQK-3E"
+    "why": "Trending on YouTube \u2022 455,728 views \u2022 ~462m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
   },
   {
     "topic": "Papers Please but Zombies (Quarantine Zone)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,072 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 381,239 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UXWwCYCPHIM"
   },
   {
-    "topic": "MASTERS OF THE UNIVERSE Official Teaser Trailer (2026)",
+    "topic": "Star Wars: Maul - Shadow Lord | Trailer Tomorrow",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,131 views \u2022 ~657m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=htOpBAhwMhk"
+    "why": "Trending on YouTube \u2022 440,376 views \u2022 ~713m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g3608ZHapH4"
+  },
+  {
+    "topic": "KINGSMAN DRAMA FULL VOD !gamersupps",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 146,514 views \u2022 ~255m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PJSapsWClFk"
+  },
+  {
+    "topic": "The Browns Super Bowl! Wheel of MUT! Ep. #37",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 110,032 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TvLeKqO1NBg"
   },
   {
     "topic": "He-Man: Masters Of The Universe - Teaser Trailer (2026) Nicholas Galitzine | Amazon MGM | Concept ",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,314 views \u2022 ~560m old",
+    "why": "Trending on YouTube \u2022 197,355 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Ag4H4WxoxU"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,271 views \u2022 ~158m old",
+    "why": "Trending on YouTube \u2022 71,110 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4sEaJhaKzI"
   },
   {
@@ -264,23 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,516 views \u2022 ~286m old",
+    "why": "Trending on YouTube \u2022 74,194 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSm5nw2GkTY"
   },
   {
-    "topic": "Masters of the Universe Teaser Trailer (2026)",
+    "topic": "DCU Batman Doomed, Man Of Tomorrow Update, Spider Man 4 & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,270 views \u2022 ~625m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=06hgj8Bl-0w"
+    "why": "Trending on YouTube \u2022 30,256 views \u2022 ~189m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Mo00i_RFcHk"
   },
   {
     "topic": "Fox BD - Free Jr. Foxx (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,529 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 30,740 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
   },
   {
@@ -288,7 +280,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,496 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 32,738 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0IOP69dAZoE"
+  },
+  {
+    "topic": "THF Lil Law - It Go Up It Go Down | Shot by @TSimsFilmsInc",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,149 views \u2022 ~414m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hcx0QonGMRA"
   }
 ]
