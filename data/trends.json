@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
   },
   {
-    "topic": "I work in a warehouse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
-  },
-  {
     "topic": "My wife bought a Kids toy on amazon",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjulxm/my_wife_bought_a_kids_toy_on_amazon/"
+  },
+  {
+    "topic": "I work in a warehouse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
   },
   {
     "topic": "Even Notch says YouTube suck...",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjv0kt/hanging_by_a_thread_ubisoft_shares_plummet/"
   },
   {
-    "topic": "Fable Releases Autumn 2026 for PC, Xbox Series X/S and PlayStation 5",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk34fr/fable_releases_autumn_2026_for_pc_xbox_series_xs/"
-  },
-  {
     "topic": "the switch 2 doesn't need extra storage",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk38uk/the_switch_2_doesnt_need_extra_storage/"
+  },
+  {
+    "topic": "Fable Releases Autumn 2026 for PC, Xbox Series X/S and PlayStation 5",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk34fr/fable_releases_autumn_2026_for_pc_xbox_series_xs/"
   },
   {
     "topic": "6 year old me struggled for a year. Adult me less then an hour. Nostalgia critical hit",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,100,677 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 2,226,097 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,404,410 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 2,474,429 views \u2022 ~465m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 536,613 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 647,709 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oonACDq89BY"
+  },
+  {
+    "topic": "[4K] Developer_Direct 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 120,925 views \u2022 ~49m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hXn6bvU1Kh4"
   },
   {
     "topic": "Invincible Season 4 - Official Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,285 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 183,044 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZnfUeVeMKjY"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 125,974 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 139,470 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SnWnFUcBL_0"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,721 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 99,400 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
   },
   {
@@ -232,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,771 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 47,951 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zy2TLLeNgp0"
+  },
+  {
+    "topic": "Forza Horizon 6 - Official Gameplay Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,132 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pWw-UENvdTw"
   }
 ]
