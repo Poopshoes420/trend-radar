@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
   },
   {
+    "topic": "US to quit World Health Organization",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjol11/us_to_quit_world_health_organization/"
+  },
+  {
     "topic": "Trump says he reached Greenland deal 'framework' with NATO, backs off Europe tariffs",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjc9go/trumpgreenland_deals_reportedly_includes_us/"
-  },
-  {
-    "topic": "Trump Threatens Canada After Carney Draws Standing Ovation at Davos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjkdm6/are_there_other_games_like_ghost_of_tsushima/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | CERTIFIED GOOP GETTER | WACK MY JUNK WITH A KNOTTED ROPE LIKE IM 007 WEDNESDAY | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 618,853 views \u2022 ~29m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kgSo1FO_hhw"
+  },
+  {
     "topic": "Random Horror Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 347,446 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 358,747 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 470,345 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 481,309 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 226,340 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 232,602 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TvLeKqO1NBg"
   },
   {
@@ -208,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,328 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 189,522 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tGeATNyMFn4"
-  },
-  {
-    "topic": "The SCARIEST Minecraft Horror Mod - The One Who Watches",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 205,182 views \u2022 ~653m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qnWWAJAXyYA"
   },
   {
     "topic": "Kodak Black - Endless Nights feat. Gunna, Roddy Ricch, French Montana [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,412 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 164,287 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4sEaJhaKzI"
   },
   {
@@ -232,31 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,372 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 68,351 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mo00i_RFcHk"
-  },
-  {
-    "topic": "Fox BD - Free Jr. Foxx (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 48,690 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
-  },
-  {
-    "topic": "THF Lil Law - It Go Up It Go Down | Shot by @TSimsFilmsInc",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 27,995 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hcx0QonGMRA"
   },
   {
     "topic": "Deadpool & Wolverine",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
