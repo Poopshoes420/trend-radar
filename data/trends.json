@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj34bb/i_do_not_need_any_ai_slop_on_shorts/"
   },
   {
-    "topic": "Mythical YouTube Notification",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
-  },
-  {
     "topic": "How many channels does this guy work for?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjhle3/how_many_channels_does_this_guy_work_for/"
+  },
+  {
+    "topic": "Mythical YouTube Notification",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qj40jj/mythical_youtube_notification/"
   },
   {
     "topic": "Now I can't even watch youtube with a VPN",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj7rdk/trump_says_he_reached_greenland_deal_framework/"
   },
   {
-    "topic": "Trump Threatens Canada After Carney Draws Standing Ovation at Davos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
-  },
-  {
     "topic": "Trump-Greenland Deals Reportedly Includes U.S. \u2018Sovereignty Over Small Pockets\u2019 of Territory",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjc9go/trumpgreenland_deals_reportedly_includes_us/"
+  },
+  {
+    "topic": "Trump Threatens Canada After Carney Draws Standing Ovation at Davos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
   },
   {
     "topic": "Carney leaves Davos without meeting Trump after speech on U.S. rupture of world order",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,186,083 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 1,217,171 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 301,579 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 317,095 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 602,121 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 623,988 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 428,978 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 444,431 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,044 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 209,126 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TvLeKqO1NBg"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,589 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 161,262 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tGeATNyMFn4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,158 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 143,331 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4sEaJhaKzI"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,524 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 61,328 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mo00i_RFcHk"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,767 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 46,205 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,822 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 47,509 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0IOP69dAZoE"
   },
   {
@@ -264,7 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,013 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 26,855 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hcx0QonGMRA"
+  },
+  {
+    "topic": "Deadpool & Wolverine",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~11m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
