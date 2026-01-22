@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "My time to shine",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk1usp/my_time_to_shine/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Winter Break Hit Hard",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjv3q0/winter_break_hit_hard/"
   },
   {
+    "topic": "\u00ab Best regards, \u00bb",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk1kjj/best_regards/"
+  },
+  {
     "topic": "I work in a warehouse",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjimix/i_work_in_a_warehouse/"
-  },
-  {
-    "topic": "My wife bought a Kids toy on amazon",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjulxm/my_wife_bought_a_kids_toy_on_amazon/"
   },
   {
     "topic": "Even Notch says YouTube suck...",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,575,281 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 1,831,283 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmEx7wQI6RY"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,083,692 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 2,259,627 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uaE40kR6f_U"
+  },
+  {
+    "topic": "Star Wars: Maul - Shadow Lord | Official Teaser Trailer | Streaming April 6 on Disney+",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 421,539 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oonACDq89BY"
   },
   {
     "topic": "MASTERS OF THE UNIVERSE Official Trailer (2026) He-Man",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,400 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 106,281 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SnWnFUcBL_0"
   },
   {
@@ -208,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,728 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 88,222 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1cfNZ_qLeOc"
-  },
-  {
-    "topic": "Masters of The Universe \u2013 Official Teaser Trailer - Reaction!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 26,477 views \u2022 ~214m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GKBybVSQ9LA"
   },
   {
     "topic": "DEF LEPPARD - Rejoice (Official Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,229 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 41,619 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zy2TLLeNgp0"
+  },
+  {
+    "topic": "Invincible - Season 4 Official Trailer | Prime Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,392 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=01-oQuNR74Y"
   },
   {
     "topic": "Deadpool & Wolverine",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
