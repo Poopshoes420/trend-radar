@@ -1,5 +1,14 @@
 [
   {
+    "topic": "It is my time to shine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjmxyi/it_is_my_time_to_shine/"
+  },
+  {
     "topic": "I work in a warehouse",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
-    "topic": "It is my time to shine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qjmxyi/it_is_my_time_to_shine/"
   },
   {
     "topic": "Just guys being dudes",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjk9pl/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Trump backpedals on threats against Greenland, but allies say damage has been done | PBS News",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qjnw6k/trump_backpedals_on_threats_against_greenland_but/"
+  },
+  {
     "topic": "Trump says he reached Greenland deal 'framework' with NATO, backs off Europe tariffs",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qj428n/trump_threatens_canada_after_carney_draws/"
-  },
-  {
-    "topic": "Carney leaves Davos without meeting Trump after speech on U.S. rupture of world order",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qiz899/carney_leaves_davos_without_meeting_trump_after/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,44 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qisid0/i_miss_when_seeing_a_highlevel_armor_set_meant/"
   },
   {
-    "topic": "Playing Resident Evil 7 for the first time\u2026 yeah, this house is terrifying.",
+    "topic": "Are there other games like Ghost of Tsushima where increasing the difficulty increases the lethality of both the player and the enemies?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qj1m72/playing_resident_evil_7_for_the_first_time_yeah/"
-  },
-  {
-    "topic": "RESTRICTED_conditioning_1990",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,228,908 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yfEPN8jWLDE"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjkdm6/are_there_other_games_like_ghost_of_tsushima/"
   },
   {
     "topic": "Random Horror Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 324,086 views \u2022 ~250m old",
+    "why": "Trending on YouTube \u2022 347,446 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fWeRcr3mX44"
-  },
-  {
-    "topic": "NO JOHN PORK NOOOOO",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 630,225 views \u2022 ~701m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8b1qEsQIapI"
   },
   {
     "topic": "Street Fighter 6 - Alex Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 452,099 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 470,345 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1fqbyMXt1Y"
   },
   {
@@ -216,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 213,782 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 226,340 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TvLeKqO1NBg"
   },
   {
@@ -224,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 165,529 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 181,328 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tGeATNyMFn4"
+  },
+  {
+    "topic": "The SCARIEST Minecraft Horror Mod - The One Who Watches",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 205,182 views \u2022 ~653m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qnWWAJAXyYA"
   },
   {
     "topic": "Kodak Black - Endless Nights feat. Gunna, Roddy Ricch, French Montana [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 146,350 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 158,412 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4sEaJhaKzI"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,929 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 66,372 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mo00i_RFcHk"
   },
   {
@@ -248,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,909 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 48,690 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KBxF7jPjSsI"
-  },
-  {
-    "topic": "STOLE YA FLOW",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 48,586 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0IOP69dAZoE"
   },
   {
     "topic": "THF Lil Law - It Go Up It Go Down | Shot by @TSimsFilmsInc",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,172 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 27,995 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hcx0QonGMRA"
   },
   {
@@ -272,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~28m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ZAXqR10ZKE"
   }
 ]
