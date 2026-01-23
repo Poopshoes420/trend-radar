@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkaiq0/this_has_happened_to_me_countless_times/"
   },
   {
-    "topic": "The fuck is this??",
+    "topic": "Youtube is manipulating you with the red watch progress bar",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qk97np/the_fuck_is_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qklodx/youtube_is_manipulating_you_with_the_red_watch/"
   },
   {
     "topic": "Trump says he is withdrawing Canada's invitation to Board of Peace",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkgk0o/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US officially leaves World Health Organization",
+    "topic": "Spain won't join Trump's Board of Peace, Prime Minister S\u00e1nchez says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkcuou/us_officially_leaves_world_health_organization/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkkkql/spain_wont_join_trumps_board_of_peace_prime/"
   },
   {
     "topic": "Sweden's Largest Pension Fund Dumps $8.8B in US Bonds | the deep dive",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkikhw/swedens_largest_pension_fund_dumps_88b_in_us/"
   },
   {
-    "topic": "Spain won't join Trump's Board of Peace, Prime Minister S\u00e1nchez says",
+    "topic": "US officially leaves World Health Organization",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkkkql/spain_wont_join_trumps_board_of_peace_prime/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkcuou/us_officially_leaves_world_health_organization/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Fable Gameplay Overview | Xbox Developer Direct 2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk3es6/fable_gameplay_overview_xbox_developer_direct_2026/"
-  },
-  {
     "topic": "I\u2019m realizing that Sound Design is actually 70% of what makes a game feel \"Next-Gen,\" not the graphics.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkgjgz/im_realizing_that_sound_design_is_actually_70_of/"
+  },
+  {
+    "topic": "Fable Gameplay Overview | Xbox Developer Direct 2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk3es6/fable_gameplay_overview_xbox_developer_direct_2026/"
   },
   {
     "topic": "Hanging by a Thread: Ubisoft Shares Plummet, Plunging 35%",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,094,947 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 1,133,149 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rA_eCxPay7E"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 423,599 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 426,859 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hey8sTZnPNo"
   },
   {
@@ -200,31 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 195,166 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 218,465 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
-  },
-  {
-    "topic": "This Game Almost Made Me Faint\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 244,394 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HU_LFY9cBGY"
-  },
-  {
-    "topic": "Lil Noonie x Big Opp - On Da Same Shit (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 49,946 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DMMkzr7nzi8"
   },
   {
     "topic": "DABABY - POP DAT THING (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,500 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 19,392 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBZxDWMeuUc"
   }
 ]
