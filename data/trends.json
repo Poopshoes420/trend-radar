@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Average gamer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
-  },
-  {
     "topic": "A much cheaper alternative",
     "sources": [
       "reddit"
@@ -27,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qky6vs/a_much_cheaper_alternative/"
   },
   {
+    "topic": "Average gamer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
+  },
+  {
+    "topic": "Wrong place at the wrong time \ud83e\udd76",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkzdy8/wrong_place_at_the_wrong_time/"
+  },
+  {
     "topic": "My head's itchy",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq15z/my_heads_itchy/"
-  },
-  {
-    "topic": "Pspspsps",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
   },
   {
     "topic": "Um\u2026 what is up with thumbnails?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qko27c/stop_it_please/"
   },
   {
+    "topic": "Why is Youtube giving extremely long ads all of a sudden?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkzvvv/why_is_youtube_giving_extremely_long_ads_all_of_a/"
+  },
+  {
     "topic": "Even Notch says YouTube suck...",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjw7n9/even_notch_says_youtube_suck/"
-  },
-  {
-    "topic": "Youtube is manipulating you with the red watch progress bar",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qklodx/youtube_is_manipulating_you_with_the_red_watch/"
   },
   {
     "topic": "Starmer Urges Trump To Apologise Over 'Frankly Appalling' Remarks About Nato Troops In Afghanistan",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 901,188 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 1,109,623 views \u2022 ~151m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 777,324 views \u2022 ~108m old",
+    "why": "Trending on YouTube \u2022 777,432 views \u2022 ~139m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4M3nJ9lFHZM"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 658,201 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 689,333 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
+  },
+  {
+    "topic": "Supergirl | Blast Off :30",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 116,947 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
   },
   {
     "topic": "Xbox revealed new games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,498 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 315,861 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MeuQj8V78h4"
   }
 ]
