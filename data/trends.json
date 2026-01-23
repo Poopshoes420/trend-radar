@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qksacu/starmer_accuses_trump_of_diminishing_sacrifice_of/"
   },
   {
-    "topic": "Sweden's Largest Pension Fund Dumps $8.8B in US Bonds | the deep dive",
+    "topic": "Canada's Carney fires back at Trump after Davos speech",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkikhw/swedens_largest_pension_fund_dumps_88b_in_us/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkrrku/canadas_carney_fires_back_at_trump_after_davos/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -171,20 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkucd4/the_18th_attic_official_launch_trailer/"
   },
   {
-    "topic": "Fable Gameplay Overview | Xbox Developer Direct 2026",
+    "topic": "[OC] Digimon Time Stranger DLC is out. Some fanart to go along with it",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk3es6/fable_gameplay_overview_xbox_developer_direct_2026/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkt6es/oc_digimon_time_stranger_dlc_is_out_some_fanart/"
+  },
+  {
+    "topic": "Harry Styles - Aperture (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 819,834 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
     "topic": "XG - HYPNOTIZE (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 584,950 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 637,123 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
+  },
+  {
+    "topic": "Xbox revealed new games",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 265,544 views \u2022 ~330m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MeuQj8V78h4"
   }
 ]
