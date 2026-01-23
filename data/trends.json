@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qky6vs/a_much_cheaper_alternative/"
   },
   {
-    "topic": "Average gamer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
-  },
-  {
     "topic": "Wrong place at the wrong time \ud83e\udd76",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkzdy8/wrong_place_at_the_wrong_time/"
+  },
+  {
+    "topic": "Average gamer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
   },
   {
     "topic": "My head's itchy",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,109,623 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 1,219,865 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 777,432 views \u2022 ~139m old",
+    "why": "Trending on YouTube \u2022 777,525 views \u2022 ~153m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4M3nJ9lFHZM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 689,333 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 708,037 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 116,947 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 131,799 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 315,861 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 330,536 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MeuQj8V78h4"
   }
 ]
