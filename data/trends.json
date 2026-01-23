@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkaiq0/this_has_happened_to_me_countless_times/"
   },
   {
-    "topic": "My phone is about to explode",
+    "topic": "The fuck is this??",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjrs6w/my_phone_is_about_to_explode/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qk97np/the_fuck_is_this/"
   },
   {
     "topic": "Trump says he is withdrawing Canada's invitation to Board of Peace",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkcuou/us_officially_leaves_world_health_organization/"
   },
   {
-    "topic": "Carney fires back at Trump's Davos remarks at cabinet meeting, says: \"Canada does not live because of the United States. Canada thrives because we are Canadian.\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qk68ka/carney_fires_back_at_trumps_davos_remarks_at/"
-  },
-  {
     "topic": "Trump under fire for claiming NATO allies avoided Afghanistan frontline",
     "sources": [
       "reddit"
@@ -135,13 +126,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkbwh7/trump_under_fire_for_claiming_nato_allies_avoided/"
   },
   {
+    "topic": "Carney fires back at Trump's Davos remarks at cabinet meeting, says: \"Canada does not live because of the United States. Canada thrives because we are Canadian.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qk68ka/carney_fires_back_at_trumps_davos_remarks_at/"
+  },
+  {
+    "topic": "Free Talk Friday!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkjzkc/free_talk_friday/"
+  },
+  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qgx8q5/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "Fable Gameplay Overview | Xbox Developer Direct 2026",
@@ -171,36 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk34fr/fable_releases_autumn_2026_for_pc_xbox_series_xs/"
   },
   {
-    "topic": "[SandStoneInsightsJapan] - Sony expects the PS5 lifecycle to be extended. PS6 likely to be delayed \"longer than many expected\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk9y1y/sandstoneinsightsjapan_sony_expects_the_ps5/"
-  },
-  {
     "topic": "Harry Styles - Aperture (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 851,087 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 878,105 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rA_eCxPay7E"
-  },
-  {
-    "topic": "[4K] Developer_Direct 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 922,274 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hXn6bvU1Kh4"
   },
   {
     "topic": "Kenia Os - Una y Otra Vez (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,027 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 379,680 views \u2022 ~437m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hey8sTZnPNo"
   },
   {
@@ -208,39 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 407,107 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 421,014 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYXm8jVihLQ"
-  },
-  {
-    "topic": "Fable - Gameplay Teaser | PS5 Games",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 459,073 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_4zJJSEm1ag"
   },
   {
     "topic": "Joji - Last of a Dying Breed (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,359 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 78,979 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
-  },
-  {
-    "topic": "Fable Gameplay Overview | Xbox Developer Direct 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 374,073 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=r-vsKE1D6Nw"
   },
   {
     "topic": "THEY'RE INSIDE... | No, I Am Not Human - Part 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,488 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 236,770 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7yMTkGMw8D0"
   },
   {
@@ -248,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 265,196 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 275,614 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kGa-fPqe9Fc"
   },
   {
@@ -256,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 159,820 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 170,767 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HU_LFY9cBGY"
   },
   {
@@ -264,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,876 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 73,763 views \u2022 ~555m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nclS6z4ZTSg"
   },
   {
@@ -272,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,759 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 42,470 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DMMkzr7nzi8"
   },
   {
@@ -280,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,591 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 29,206 views \u2022 ~617m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dtkUnmX6_k8"
   }
 ]
