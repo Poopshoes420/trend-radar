@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
   },
   {
-    "topic": "It all started in 2016!",
+    "topic": "My head's itchy",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkc2ak/it_all_started_in_2016/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq15z/my_heads_itchy/"
   },
   {
     "topic": "Pspspsps",
@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
   },
   {
-    "topic": "My head's itchy",
+    "topic": "It all started in 2016!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq15z/my_heads_itchy/"
-  },
-  {
-    "topic": "Um\u2026 what is up with thumbnails?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkc2ak/it_all_started_in_2016/"
   },
   {
     "topic": "Found this underrated gem in old computer",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkqk5p/found_this_underrated_gem_in_old_computer/"
+  },
+  {
+    "topic": "Um\u2026 what is up with thumbnails?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
   },
   {
     "topic": "You Know your platform is cooked when the OG GOAT complains.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 331,221 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 385,828 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 314,777 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 330,854 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,529 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 95,153 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=edZVnKxKEUU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,087 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 32,449 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBZxDWMeuUc"
   }
 ]
