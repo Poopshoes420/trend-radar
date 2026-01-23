@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qk39xo/you_know_your_platform_is_cooked_when_the_og_goat/"
   },
   {
-    "topic": "Even Notch says YouTube suck...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjw7n9/even_notch_says_youtube_suck/"
-  },
-  {
     "topic": "Stop it... Please...",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qko27c/stop_it_please/"
+  },
+  {
+    "topic": "Even Notch says YouTube suck...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjw7n9/even_notch_says_youtube_suck/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1429, Part 1 (Thread #1576)",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "I\u2019m realizing that Sound Design is actually 70% of what makes a game feel \"Next-Gen,\" not the graphics.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkgjgz/im_realizing_that_sound_design_is_actually_70_of/"
-  },
-  {
     "topic": "Fable Gameplay Overview | Xbox Developer Direct 2026",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjv0kt/hanging_by_a_thread_ubisoft_shares_plummet/"
   },
   {
+    "topic": "[SandStoneInsightsJapan] - Sony expects the PS5 lifecycle to be extended. PS6 likely to be delayed \"longer than many expected\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk9y1y/sandstoneinsightsjapan_sony_expects_the_ps5/"
+  },
+  {
     "topic": "XG - HYPNOTIZE (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 407,010 views \u2022 ~352m old",
+    "why": "Trending on YouTube \u2022 479,367 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 337,259 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 359,890 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,771 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 110,728 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=edZVnKxKEUU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,402 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 36,806 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBZxDWMeuUc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,648 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 16,790 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9MHkpWGqVQ0"
   }
 ]
