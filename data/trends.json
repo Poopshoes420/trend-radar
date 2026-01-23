@@ -1,14 +1,5 @@
 [
   {
-    "topic": "It all started in 2016!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkc2ak/it_all_started_in_2016/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "It all started in 2016!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkc2ak/it_all_started_in_2016/"
   },
   {
     "topic": "Pspspsps",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qk3es6/fable_gameplay_overview_xbox_developer_direct_2026/"
   },
   {
-    "topic": "Hanging by a Thread: Ubisoft Shares Plummet, Plunging 35%",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjv0kt/hanging_by_a_thread_ubisoft_shares_plummet/"
-  },
-  {
     "topic": "I\u2019m realizing that Sound Design is actually 70% of what makes a game feel \"Next-Gen,\" not the graphics.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkgjgz/im_realizing_that_sound_design_is_actually_70_of/"
   },
   {
+    "topic": "Hanging by a Thread: Ubisoft Shares Plummet, Plunging 35%",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qjv0kt/hanging_by_a_thread_ubisoft_shares_plummet/"
+  },
+  {
     "topic": "Harry Styles - Aperture (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,045,668 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 1,081,162 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rA_eCxPay7E"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 497,971 views \u2022 ~674m old",
+    "why": "Trending on YouTube \u2022 511,963 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYXm8jVihLQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 419,696 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 422,668 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hey8sTZnPNo"
   },
   {
@@ -208,39 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,262 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 187,841 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
-  },
-  {
-    "topic": "THEY'RE INSIDE... | No, I Am Not Human - Part 2",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 299,445 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7yMTkGMw8D0"
   },
   {
     "topic": "This Game Almost Made Me Faint\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 227,104 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 238,329 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HU_LFY9cBGY"
-  },
-  {
-    "topic": "MAUL: Shadow Lord Trailer BREAKDOWN - Star Wars Easter Eggs You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 85,710 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nclS6z4ZTSg"
   },
   {
     "topic": "Lil Noonie x Big Opp - On Da Same Shit (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,951 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 49,732 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DMMkzr7nzi8"
   }
 ]
