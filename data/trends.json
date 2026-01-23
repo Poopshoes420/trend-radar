@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
   },
   {
-    "topic": "It all started in 2016!",
+    "topic": "Sing that hook",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkc2ak/it_all_started_in_2016/"
-  },
-  {
-    "topic": "Um\u2026 what is up with thumbnails?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql3cgu/sing_that_hook/"
   },
   {
     "topic": "Found this cool thumbnail that goes with darkmode.",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql32u5/found_this_cool_thumbnail_that_goes_with_darkmode/"
+  },
+  {
+    "topic": "Um\u2026 what is up with thumbnails?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
   },
   {
     "topic": "Why is Youtube giving extremely long ads all of a sudden?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkvqv9/starmer_urges_trump_to_apologise_over_frankly/"
   },
   {
-    "topic": "Polish general who served in Iraq condemns \u201ccoward\u201d Trump over criticism of NATO allies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkycjj/polish_general_who_served_in_iraq_condemns_coward/"
-  },
-  {
     "topic": "A retired Polish general who took part in NATO missions has demanded an apology from Donald Trump after he said that NATO allies had stayed \u201ca little off the front lines\u201d in Afghanistan and that the U.S. had \u201cnever needed them\u201d.",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ql421w/a_retired_polish_general_who_took_part_in_nato/"
+  },
+  {
+    "topic": "Polish general who served in Iraq condemns \u201ccoward\u201d Trump over criticism of NATO allies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkycjj/polish_general_who_served_in_iraq_condemns_coward/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,956,846 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 2,036,398 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 481,322 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 539,415 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 516,356 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 516,356 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AIg46YpSUvg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,039 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 317,861 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 424,272 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 433,229 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MeuQj8V78h4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,161 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 99,049 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,699 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 20,412 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G1l_yUbex0g"
   }
 ]
