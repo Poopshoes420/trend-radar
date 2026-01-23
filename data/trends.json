@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq15z/my_heads_itchy/"
   },
   {
-    "topic": "Pspspsps",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
-  },
-  {
     "topic": "Sing that hook",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql3cgu/sing_that_hook/"
+  },
+  {
+    "topic": "Pspspsps",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
   },
   {
     "topic": "Found this cool thumbnail that goes with darkmode.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
   },
   {
-    "topic": "Why is Youtube giving extremely long ads all of a sudden?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkzvvv/why_is_youtube_giving_extremely_long_ads_all_of_a/"
-  },
-  {
     "topic": "I love messing around with chrome extensions",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql3pg6/i_love_messing_around_with_chrome_extensions/"
+  },
+  {
+    "topic": "Why is Youtube giving extremely long ads all of a sudden?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkzvvv/why_is_youtube_giving_extremely_long_ads_all_of_a/"
   },
   {
     "topic": "Stop it... Please...",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,036,398 views \u2022 ~347m old",
+    "why": "Trending on YouTube \u2022 2,093,154 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 539,415 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 581,562 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 516,356 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 516,356 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AIg46YpSUvg"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 317,861 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 327,234 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
+  },
+  {
+    "topic": "I GOT #1 Leadboard in Escape Tsunami For Brainrots..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 263,865 views \u2022 ~268m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rQiqP4dY-ms"
   },
   {
     "topic": "Xbox revealed new games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 433,229 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 437,701 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MeuQj8V78h4"
   },
   {
-    "topic": "Quarantine Zone  - Part 2",
+    "topic": "Don Toliver - ATM [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,049 views \u2022 ~282m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
+    "why": "Trending on YouTube \u2022 47,753 views \u2022 ~170m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iUFlb4YYYKo"
   },
   {
     "topic": "Belly Gang Kushington - Rent Due (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,412 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 21,697 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G1l_yUbex0g"
   }
 ]
