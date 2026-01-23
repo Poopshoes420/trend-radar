@@ -27,22 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
   },
   {
-    "topic": "Golden Retrievers For Scale",
+    "topic": "Average gamer",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkjwt9/golden_retrievers_for_scale/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
   },
   {
-    "topic": "Someone with the CHEEKS sat here",
+    "topic": "My head's itchy",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qk3ghx/someone_with_the_cheeks_sat_here/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq15z/my_heads_itchy/"
   },
   {
     "topic": "Um\u2026 what is up with thumbnails?",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qjw7n9/even_notch_says_youtube_suck/"
   },
   {
-    "topic": "This has happened to me countless times:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkaiq0/this_has_happened_to_me_countless_times/"
-  },
-  {
     "topic": "Stop it... Please...",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qko27c/stop_it_please/"
   },
   {
-    "topic": "Spain won't join Trump's Board of Peace, Prime Minister S\u00e1nchez says",
+    "topic": "This has happened to me countless times:",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkkkql/spain_wont_join_trumps_board_of_peace_prime/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkaiq0/this_has_happened_to_me_countless_times/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1429, Part 1 (Thread #1576)",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkgk0o/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Spain won't join Trump's Board of Peace, Prime Minister S\u00e1nchez says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkkkql/spain_wont_join_trumps_board_of_peace_prime/"
   },
   {
     "topic": "Trump says he is withdrawing Canada's invitation to Board of Peace",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,382 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 239,103 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 267,743 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 284,451 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,049 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 26,142 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBZxDWMeuUc"
   }
 ]
