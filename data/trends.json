@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Average gamer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
+  },
+  {
     "topic": "It all started in 2016!",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
-  },
-  {
-    "topic": "Average gamer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq0ut/average_gamer/"
   },
   {
     "topic": "My head's itchy",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
   },
   {
-    "topic": "You Know your platform is cooked when the OG GOAT complains.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qk39xo/you_know_your_platform_is_cooked_when_the_og_goat/"
-  },
-  {
     "topic": "Found this underrated gem in old computer",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkqk5p/found_this_underrated_gem_in_old_computer/"
+  },
+  {
+    "topic": "You Know your platform is cooked when the OG GOAT complains.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qk39xo/you_know_your_platform_is_cooked_when_the_og_goat/"
   },
   {
     "topic": "Even Notch says YouTube suck...",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkdzij/trump_says_he_is_withdrawing_canadas_invitation/"
   },
   {
-    "topic": "US officially leaves World Health Organization",
+    "topic": "Trump sparks anger over claim NATO troops avoided Afghan front line",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkcuou/us_officially_leaves_world_health_organization/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkkehj/trump_sparks_anger_over_claim_nato_troops_avoided/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 287,954 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 331,221 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,004 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 314,777 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
+  },
+  {
+    "topic": "SO BE IT | Elevation Worship (feat. Tiffany Hudson & Chris Brown)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 87,529 views \u2022 ~592m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=edZVnKxKEUU"
   },
   {
     "topic": "DABABY - POP DAT THING (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,124 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 30,087 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBZxDWMeuUc"
   }
 ]
