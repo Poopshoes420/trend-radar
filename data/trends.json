@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qk39xo/you_know_your_platform_is_cooked_when_the_og_goat/"
   },
   {
+    "topic": "Found this underrated gem in old computer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkqk5p/found_this_underrated_gem_in_old_computer/"
+  },
+  {
     "topic": "Even Notch says YouTube suck...",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qko27c/stop_it_please/"
-  },
-  {
-    "topic": "This has happened to me countless times:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkaiq0/this_has_happened_to_me_countless_times/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1429, Part 1 (Thread #1576)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkkkql/spain_wont_join_trumps_board_of_peace_prime/"
   },
   {
-    "topic": "Trump says he is withdrawing Canada's invitation to Board of Peace",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkdzij/trump_says_he_is_withdrawing_canadas_invitation/"
-  },
-  {
     "topic": "Sweden's Largest Pension Fund Dumps $8.8B in US Bonds | the deep dive",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkikhw/swedens_largest_pension_fund_dumps_88b_in_us/"
+  },
+  {
+    "topic": "Trump says he is withdrawing Canada's invitation to Board of Peace",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkdzij/trump_says_he_is_withdrawing_canadas_invitation/"
   },
   {
     "topic": "US officially leaves World Health Organization",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,103 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 287,954 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cUfDOS2SINM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,451 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 302,004 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=85UJ8Rvfj9g"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,142 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 28,124 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBZxDWMeuUc"
   }
 ]
