@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Shoji Yamasaki's Littered Mvmnts",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlj27j/shoji_yamasakis_littered_mvmnts/"
-  },
-  {
     "topic": "This Is Who You Are Arguing With Online All Day",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlncod/this_is_who_you_are_arguing_with_online_all_day/"
+  },
+  {
+    "topic": "Shoji Yamasaki's Littered Mvmnts",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlj27j/shoji_yamasakis_littered_mvmnts/"
   },
   {
     "topic": "Its in the way you raise them \ud83d\ude02\ud83d\ude02",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qll00g/its_in_the_way_you_raise_them/"
   },
   {
-    "topic": "We'll see these numbers on YouTube one day.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
-  },
-  {
     "topic": "What are y\u2019all\u2019s honest opinions on ISpeedShow?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlnzwk/what_are_yalls_honest_opinions_on_ispeedshow/"
+  },
+  {
+    "topic": "We'll see these numbers on YouTube one day.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
   },
   {
     "topic": "Honestly, YouTube,I have no idea.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8p8a/honestly_youtubei_have_no_idea/"
   },
   {
-    "topic": "What the fuck YouTube?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlmwkr/what_the_fuck_youtube/"
-  },
-  {
     "topic": "The modern struggle.",
     "sources": [
       "reddit"
@@ -90,31 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlktvz/the_modern_struggle/"
   },
   {
-    "topic": "\u2018Repatriate the gold\u2019: German economists advise withdrawal from US vaults",
+    "topic": "What the fuck YouTube?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlhpz8/repatriate_the_gold_german_economists_advise/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1430, Part 1 (Thread #1577)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlcptp/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "China no longer Pentagon's top security priority",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlem6t/china_no_longer_pentagons_top_security_priority/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlmwkr/what_the_fuck_youtube/"
   },
   {
     "topic": "Trump threatens 100% tariffs on all Canadian goods if Canada 'makes a deal with China' | CBC News",
@@ -126,13 +99,40 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qloc3a/trump_threatens_100_tariffs_on_all_canadian_goods/"
   },
   {
-    "topic": "India rushes to contain deadly virus outbreak",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1430, Part 1 (Thread #1577)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlae3a/india_rushes_to_contain_deadly_virus_outbreak/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlcptp/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "\u2018Repatriate the gold\u2019: German economists advise withdrawal from US vaults",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlhpz8/repatriate_the_gold_german_economists_advise/"
+  },
+  {
+    "topic": "China no longer Pentagon's top security priority",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlem6t/china_no_longer_pentagons_top_security_priority/"
+  },
+  {
+    "topic": "Poland\u2019s President has said the country's soldiers \"deserve respect\" after Donald Trump downplayed the role of NATO allies in Afghanistan",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qll4w4/polands_president_has_said_the_countrys_soldiers/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ql98lj/came_home_and_walked_in_on_my_wife_playing_guitar/"
   },
   {
-    "topic": "What gaming rumor did you believe as a kid that sounds hilarious now.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlav46/what_gaming_rumor_did_you_believe_as_a_kid_that/"
-  },
-  {
     "topic": "Upcoming Techmarine class for 40K Space Marine 2 (no DLC needed)",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlk8wg/upcoming_techmarine_class_for_40k_space_marine_2/"
   },
   {
+    "topic": "What gaming rumor did you believe as a kid that sounds hilarious now.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlav46/what_gaming_rumor_did_you_believe_as_a_kid_that/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | She Raid My Arc Till I Dam Battleground | #FillUpMyShartTankImReadyToFart #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 930,073 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 933,111 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
   }
 ]
