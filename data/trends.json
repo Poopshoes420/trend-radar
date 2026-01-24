@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql5wf4/i_got_a_random_letter_in_the_mail_from_my_sister/"
   },
   {
-    "topic": "What are y\u2019all\u2019s honest opinions on ISpeedShow?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlnzwk/what_are_yalls_honest_opinions_on_ispeedshow/"
-  },
-  {
     "topic": "We'll see these numbers on YouTube one day.",
     "sources": [
       "reddit"
@@ -72,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlktvz/the_modern_struggle/"
   },
   {
+    "topic": "How many times do you subscribe a channel just because they asked you to? To me personally it's just straight up annoying and I don't think it's that effective.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlpjpw/how_many_times_do_you_subscribe_a_channel_just/"
+  },
+  {
     "topic": "Honestly, YouTube,I have no idea.",
     "sources": [
       "reddit"
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8p8a/honestly_youtubei_have_no_idea/"
   },
   {
-    "topic": "How many times do you subscribe a channel just because they asked you to? To me personally it's just straight up annoying and I don't think it's that effective.",
+    "topic": "What the fuck YouTube?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlpjpw/how_many_times_do_you_subscribe_a_channel_just/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlmwkr/what_the_fuck_youtube/"
   },
   {
     "topic": "Trump threatens 100% tariffs on all Canadian goods if Canada 'makes a deal with China' | CBC News",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlem6t/china_no_longer_pentagons_top_security_priority/"
   },
   {
-    "topic": "Poland\u2019s President has said the country's soldiers \"deserve respect\" after Donald Trump downplayed the role of NATO allies in Afghanistan",
+    "topic": "Trump threatens Canada with 100% tariff over possible deal with China",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qll4w4/polands_president_has_said_the_countrys_soldiers/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlo907/trump_threatens_canada_with_100_tariff_over/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlk8wg/upcoming_techmarine_class_for_40k_space_marine_2/"
   },
   {
+    "topic": "2 Minecraft Pros VS 1000 Hunters",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 446,824 views \u2022 ~138m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Udk48Sm60yE"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | She Raid My Arc Till I Dam Battleground | #FillUpMyShartTankImReadyToFart #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 942,541 views \u2022 ~398m old",
+    "why": "Trending on YouTube \u2022 945,219 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
   }
 ]
