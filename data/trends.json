@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "If I taught you anything it\u2019s to replenish!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlaub4/if_i_taught_you_anything_its_to_replenish/"
+  },
+  {
     "topic": "The intrusive thoughts won",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkq15z/my_heads_itchy/"
   },
   {
-    "topic": "Sing that hook",
+    "topic": "We'll see these numbers on YouTube one day.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql3cgu/sing_that_hook/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
   },
   {
     "topic": "Found this cool thumbnail that goes with darkmode.",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkzvvv/why_is_youtube_giving_extremely_long_ads_all_of_a/"
   },
   {
-    "topic": "We'll see these numbers on YouTube one day.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
-  },
-  {
     "topic": "A retired Polish general who took part in NATO missions has demanded an apology from Donald Trump after he said that NATO allies had stayed \u201ca little off the front lines\u201d in Afghanistan and that the U.S. had \u201cnever needed them\u201d.",
     "sources": [
       "reddit"
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkya8g/prince_harry_who_served_in_afghanistan_says/"
   },
   {
+    "topic": "\u2018We were the frontline\u2019: Canadian veterans outraged by Trump\u2019s NATO comments",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ql9k8b/we_were_the_frontline_canadian_veterans_outraged/"
+  },
+  {
     "topic": "Starmer Urges Trump To Apologise Over 'Frankly Appalling' Remarks About Nato Troops In Afghanistan",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkvqv9/starmer_urges_trump_to_apologise_over_frankly/"
-  },
-  {
-    "topic": "Polish general who served in Iraq condemns \u201ccoward\u201d Trump over criticism of NATO allies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkycjj/polish_general_who_served_in_iraq_condemns_coward/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "'I Don't Like It. I Would Prefer That It Not Be Done' \u2014 Master Chief Actor Steve Downes Says Deceptive AI Reproductions of His Voice 'Cross a Line'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkvdaj/i_dont_like_it_i_would_prefer_that_it_not_be_done/"
-  },
-  {
     "topic": "Came home and walked in on my wife playing Guitar Hero on PS2",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ql5re2/remedy_says_thered_be_no_alan_wake_2_without_epic/"
   },
   {
+    "topic": "'I Don't Like It. I Would Prefer That It Not Be Done' \u2014 Master Chief Actor Steve Downes Says Deceptive AI Reproductions of His Voice 'Cross a Line'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkvdaj/i_dont_like_it_i_would_prefer_that_it_not_be_done/"
+  },
+  {
     "topic": "Harry Styles - Aperture (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,286,949 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 3,695,663 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,138,080 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 1,308,222 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 464,218 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 536,432 views \u2022 ~555m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rQiqP4dY-ms"
-  },
-  {
-    "topic": "OpTic TEXAS VS CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 1 QUALIFIERS WEEK 5",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 172,888 views \u2022 ~192m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=p__lQG5C_GE"
   },
   {
     "topic": "Supergirl | Blast Off :30",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 432,487 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 462,649 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
+  },
+  {
+    "topic": "OpTic TEXAS VS CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 1 QUALIFIERS WEEK 5",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 179,339 views \u2022 ~277m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p__lQG5C_GE"
   },
   {
     "topic": "ROBLOX ESCAPE TSUNAMI FOR LUCKY BLOCKS..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 255,192 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 297,844 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3TUTfchZ5w4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 193,234 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 231,751 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,192 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 170,789 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUFlb4YYYKo"
   },
   {
@@ -248,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 235,267 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 262,643 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ov7eaBLpleo"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | FREE SECRETS in Roblox Steal a Brainrot \ud83d\udd34",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 8,327 views \u2022 ~29m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IV3a_6jNDzQ"
   },
   {
     "topic": "A$AP Rocky - FLACKITO JODYE (Official Video) ft. Tokischa",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,169 views \u2022 ~377m old",
+    "why": "Trending on YouTube \u2022 110,074 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BXM6vxMGM-M"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,341 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 66,573 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G1l_yUbex0g"
   }
 ]
