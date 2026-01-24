@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
   },
   {
-    "topic": "Found this cool thumbnail that goes with darkmode.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql32u5/found_this_cool_thumbnail_that_goes_with_darkmode/"
-  },
-  {
     "topic": "Honestly, YouTube,I have no idea.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8p8a/honestly_youtubei_have_no_idea/"
+  },
+  {
+    "topic": "Found this cool thumbnail that goes with darkmode.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql32u5/found_this_cool_thumbnail_that_goes_with_darkmode/"
   },
   {
     "topic": "I cant search anything anymore i guess",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 845,441 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 845,792 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjued1PlhRY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,557,596 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 1,586,259 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,456 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 170,452 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A6VL85vEcvg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,446 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 227,060 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUFlb4YYYKo"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 165,401 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 196,490 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BXM6vxMGM-M"
+  },
+  {
+    "topic": "Neton Vega - Pvta Luna (Video Oficial)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 88,388 views \u2022 ~389m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xs31-zaz5dc"
   },
   {
     "topic": "Grandma Hasn\u2019t Answered My Calls\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 108,247 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 114,306 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YcZcOPbLUAc"
   }
 ]
