@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlufon/would_you_consider_this_good_rushmore_for_gaming/"
   },
   {
-    "topic": "We'll see these numbers on YouTube one day.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
-  },
-  {
     "topic": "Please start cleaning the links you share",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlrcg5/please_start_cleaning_the_links_you_share/"
+  },
+  {
+    "topic": "We'll see these numbers on YouTube one day.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
   },
   {
     "topic": "How many times do you subscribe a channel just because they asked you to? To me personally it's just straight up annoying and I don't think it's that effective.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,226,011 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 1,226,100 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QuYj0wxtIJI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 552,536 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 587,348 views \u2022 ~92m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B6uBkuiWlOM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 986,788 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 1,045,753 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Udk48Sm60yE"
   },
   {
@@ -208,23 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 966,182 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 968,261 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
-  },
-  {
-    "topic": "I Added EMOTIONS To Steal a Brainrot...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 126,791 views \u2022 ~204m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=33noKSI-Wlc"
   },
   {
     "topic": "Terraria 1.4.5 Bigger & Boulder Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,342 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 122,659 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HHNLfxBxcvo"
+  },
+  {
+    "topic": "I Added EMOTIONS To Steal a Brainrot...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 135,701 views \u2022 ~219m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=33noKSI-Wlc"
   }
 ]
