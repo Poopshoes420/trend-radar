@@ -1,5 +1,14 @@
 [
   {
+    "topic": "I got a random letter in the mail from my sister and her two kids.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql5wf4/i_got_a_random_letter_in_the_mail_from_my_sister/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -9,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I got a random letter in the mail from my sister and her two kids.",
+    "topic": "The intrusive thoughts won",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql5wf4/i_got_a_random_letter_in_the_mail_from_my_sister/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql91eh/the_intrusive_thoughts_won/"
   },
   {
     "topic": "My head's itchy",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql3cgu/sing_that_hook/"
-  },
-  {
-    "topic": "Pspspsps",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qkhvpa/pspspsps/"
   },
   {
     "topic": "Found this cool thumbnail that goes with darkmode.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkzvvv/why_is_youtube_giving_extremely_long_ads_all_of_a/"
   },
   {
-    "topic": "Stop it... Please...",
+    "topic": "We'll see these numbers on YouTube one day.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qko27c/stop_it_please/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
   },
   {
     "topic": "A retired Polish general who took part in NATO missions has demanded an apology from Donald Trump after he said that NATO allies had stayed \u201ca little off the front lines\u201d in Afghanistan and that the U.S. had \u201cnever needed them\u201d.",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkvdaj/i_dont_like_it_i_would_prefer_that_it_not_be_done/"
   },
   {
-    "topic": "Am I the only one that hopes the PS6 gets delayed even more?",
+    "topic": "Came home and walked in on my wife playing Guitar Hero on PS2",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ql2vop/am_i_the_only_one_that_hopes_the_ps6_gets_delayed/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ql98lj/came_home_and_walked_in_on_my_wife_playing_guitar/"
   },
   {
     "topic": "Remedy says there'd be \"no Alan Wake 2 without Epic\" after Baldur's Gate 3 dev blames EGS exclusivity for Remedy's \"financial crisis\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,469,993 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 3,286,949 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,55 +192,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 766,185 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 1,138,080 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
-  },
-  {
-    "topic": "OpTic TEXAS VS CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 1 QUALIFIERS WEEK 5",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 131,867 views \u2022 ~49m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=p__lQG5C_GE"
-  },
-  {
-    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 518,370 views \u2022 ~257m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AIg46YpSUvg"
   },
   {
     "topic": "I GOT #1 Leadboard in Escape Tsunami For Brainrots..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,621 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 464,218 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rQiqP4dY-ms"
+  },
+  {
+    "topic": "OpTic TEXAS VS CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 1 QUALIFIERS WEEK 5",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 172,888 views \u2022 ~192m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p__lQG5C_GE"
   },
   {
     "topic": "Supergirl | Blast Off :30",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,647 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 432,487 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
   },
   {
-    "topic": "Xbox revealed new games",
+    "topic": "ROBLOX ESCAPE TSUNAMI FOR LUCKY BLOCKS..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 465,197 views \u2022 ~658m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MeuQj8V78h4"
+    "why": "Trending on YouTube \u2022 255,192 views \u2022 ~515m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3TUTfchZ5w4"
   },
   {
     "topic": "Quarantine Zone  - Part 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,138 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 193,234 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
   },
   {
@@ -248,15 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,492 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 143,192 views \u2022 ~373m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUFlb4YYYKo"
+  },
+  {
+    "topic": "I Gave My Crush Her Own Base In Steal a Brainrot!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 235,267 views \u2022 ~621m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ov7eaBLpleo"
+  },
+  {
+    "topic": "A$AP Rocky - FLACKITO JODYE (Official Video) ft. Tokischa",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 88,169 views \u2022 ~377m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BXM6vxMGM-M"
   },
   {
     "topic": "Belly Gang Kushington - Rent Due (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,580 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 53,341 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G1l_yUbex0g"
   }
 ]
