@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
   },
   {
+    "topic": "Honestly, YouTube,I have no idea.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8p8a/honestly_youtubei_have_no_idea/"
+  },
+  {
     "topic": "I love messing around with chrome extensions",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql3pg6/i_love_messing_around_with_chrome_extensions/"
-  },
-  {
-    "topic": "Why is Youtube giving extremely long ads all of a sudden?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkzvvv/why_is_youtube_giving_extremely_long_ads_all_of_a/"
   },
   {
     "topic": "A retired Polish general who took part in NATO missions has demanded an apology from Donald Trump after he said that NATO allies had stayed \u201ca little off the front lines\u201d in Afghanistan and that the U.S. had \u201cnever needed them\u201d.",
@@ -99,22 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ql421w/a_retired_polish_general_who_took_part_in_nato/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1429, Part 1 (Thread #1576)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1430, Part 1 (Thread #1577)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkgk0o/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Prince Harry, who served in Afghanistan, says sacrifices of British troops deserve 'respect' after Trump comments",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkya8g/prince_harry_who_served_in_afghanistan_says/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlcptp/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "\u2018We were the frontline\u2019: Canadian veterans outraged by Trump\u2019s NATO comments",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ql9k8b/we_were_the_frontline_canadian_veterans_outraged/"
+  },
+  {
+    "topic": "Prince Harry, who served in Afghanistan, says sacrifices of British troops deserve 'respect' after Trump comments",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkya8g/prince_harry_who_served_in_afghanistan_says/"
   },
   {
     "topic": "Starmer Urges Trump To Apologise Over 'Frankly Appalling' Remarks About Nato Troops In Afghanistan",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkvdaj/i_dont_like_it_i_would_prefer_that_it_not_be_done/"
   },
   {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 582,115 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yjued1PlhRY"
+  },
+  {
     "topic": "Harry Styles - Aperture (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,695,663 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 3,858,334 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7sxVHYZ_PnA"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,308,222 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 1,367,355 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 536,432 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 561,318 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rQiqP4dY-ms"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 462,649 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 474,177 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et4clt5xdI4"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,339 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 181,324 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p__lQG5C_GE"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 297,844 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 314,971 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3TUTfchZ5w4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,751 views \u2022 ~582m old",
+    "why": "Trending on YouTube \u2022 247,808 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sJ_VD7Lz2rU"
   },
   {
@@ -240,31 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,789 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 180,726 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUFlb4YYYKo"
-  },
-  {
-    "topic": "I Gave My Crush Her Own Base In Steal a Brainrot!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 262,643 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ov7eaBLpleo"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | FREE SECRETS in Roblox Steal a Brainrot \ud83d\udd34",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 8,327 views \u2022 ~29m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IV3a_6jNDzQ"
   },
   {
     "topic": "A$AP Rocky - FLACKITO JODYE (Official Video) ft. Tokischa",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,074 views \u2022 ~462m old",
+    "why": "Trending on YouTube \u2022 117,514 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BXM6vxMGM-M"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,573 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 71,419 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G1l_yUbex0g"
   }
 ]
