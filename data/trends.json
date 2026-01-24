@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Shoji Yamasaki's Littered Mvmnts",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlj27j/shoji_yamasakis_littered_mvmnts/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "I got a random letter in the mail from my sister and her two kids.",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql5wf4/i_got_a_random_letter_in_the_mail_from_my_sister/"
   },
   {
+    "topic": "Its in the way you raise them \ud83d\ude02\ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qll00g/its_in_the_way_you_raise_them/"
+  },
+  {
     "topic": "The intrusive thoughts won",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql91eh/the_intrusive_thoughts_won/"
-  },
-  {
-    "topic": "I\u2019m Hungarian",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlcppo/im_hungarian/"
   },
   {
     "topic": "We'll see these numbers on YouTube one day.",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlem6t/china_no_longer_pentagons_top_security_priority/"
   },
   {
-    "topic": "German official calls for World Cup boycott talks over Trump.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qli6vf/german_official_calls_for_world_cup_boycott_talks/"
-  },
-  {
     "topic": "India rushes to contain deadly virus outbreak",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlae3a/india_rushes_to_contain_deadly_virus_outbreak/"
+  },
+  {
+    "topic": "\u2018We were the frontline\u2019: Canadian veterans outraged by Trump\u2019s NATO comments",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ql9k8b/we_were_the_frontline_canadian_veterans_outraged/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlav46/what_gaming_rumor_did_you_believe_as_a_kid_that/"
   },
   {
-    "topic": "Am I the only one that hopes the PS6 gets delayed even more?",
+    "topic": "Epic and Google have a secret $800 million Unreal Engine and services deal",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ql2vop/am_i_the_only_one_that_hopes_the_ps6_gets_delayed/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qleiuj/epic_and_google_have_a_secret_800_million_unreal/"
   },
   {
     "topic": "\ud83d\udd34LIVE | She Raid My Arc Till I Dam Battleground | #FillUpMyShartTankImReadyToFart #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 906,349 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 915,427 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 846,135 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 846,217 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjued1PlhRY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,620 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 312,421 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A6VL85vEcvg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,039 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 190,160 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bV1B2cQEZeU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,664 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 159,882 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xs31-zaz5dc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
   }
 ]
