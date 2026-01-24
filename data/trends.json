@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ql5wf4/i_got_a_random_letter_in_the_mail_from_my_sister/"
   },
   {
-    "topic": "We'll see these numbers on YouTube one day.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
-  },
-  {
     "topic": "The modern struggle.",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlktvz/the_modern_struggle/"
+  },
+  {
+    "topic": "We'll see these numbers on YouTube one day.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8g5e/well_see_these_numbers_on_youtube_one_day/"
   },
   {
     "topic": "How many times do you subscribe a channel just because they asked you to? To me personally it's just straight up annoying and I don't think it's that effective.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 603,951 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 660,174 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Udk48Sm60yE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 957,401 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 959,073 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
   }
 ]
