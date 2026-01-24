@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8p8a/honestly_youtubei_have_no_idea/"
   },
   {
-    "topic": "Um\u2026 what is up with thumbnails?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
-  },
-  {
     "topic": "I cant search anything anymore i guess",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlc3c7/i_cant_search_anything_anymore_i_guess/"
+  },
+  {
+    "topic": "Um\u2026 what is up with thumbnails?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qkcezr/um_what_is_up_with_thumbnails/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1430, Part 1 (Thread #1577)",
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qkya8g/prince_harry_who_served_in_afghanistan_says/"
   },
   {
-    "topic": "Free Talk Friday!",
+    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qkjzkc/free_talk_friday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlg5hw/self_promotion_saturday_small_streamer_just/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 844,185 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 845,441 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjued1PlhRY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,542,477 views \u2022 ~644m old",
+    "why": "Trending on YouTube \u2022 1,557,596 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2Gx9icNQiA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,868 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 156,456 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A6VL85vEcvg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,050 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 220,446 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUFlb4YYYKo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,802 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 165,401 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BXM6vxMGM-M"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,177 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 108,247 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YcZcOPbLUAc"
   }
 ]
