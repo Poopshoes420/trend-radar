@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlj27j/shoji_yamasakis_littered_mvmnts/"
   },
   {
+    "topic": "This Is Who You Are Arguing With Online All Day",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlncod/this_is_who_you_are_arguing_with_online_all_day/"
+  },
+  {
     "topic": "Its in the way you raise them \ud83d\ude02\ud83d\ude02",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qll00g/its_in_the_way_you_raise_them/"
-  },
-  {
-    "topic": "PSA",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qlleb3/psa/"
   },
   {
     "topic": "We'll see these numbers on YouTube one day.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql8p8a/honestly_youtubei_have_no_idea/"
   },
   {
-    "topic": "Found this cool thumbnail that goes with darkmode.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql32u5/found_this_cool_thumbnail_that_goes_with_darkmode/"
-  },
-  {
     "topic": "What the fuck YouTube?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlktvz/the_modern_struggle/"
+  },
+  {
+    "topic": "Found this cool thumbnail that goes with darkmode.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ql32u5/found_this_cool_thumbnail_that_goes_with_darkmode/"
   },
   {
     "topic": "\u2018Repatriate the gold\u2019: German economists advise withdrawal from US vaults",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qlae3a/india_rushes_to_contain_deadly_virus_outbreak/"
   },
   {
-    "topic": "\u2018We were the frontline\u2019: Canadian veterans outraged by Trump\u2019s NATO comments",
+    "topic": "Poland\u2019s President has said the country's soldiers \"deserve respect\" after Donald Trump downplayed the role of NATO allies in Afghanistan",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ql9k8b/we_were_the_frontline_canadian_veterans_outraged/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qll4w4/polands_president_has_said_the_countrys_soldiers/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlav46/what_gaming_rumor_did_you_believe_as_a_kid_that/"
   },
   {
-    "topic": "Epic and Google have a secret $800 million Unreal Engine and services deal",
+    "topic": "Upcoming Techmarine class for 40K Space Marine 2 (no DLC needed)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qleiuj/epic_and_google_have_a_secret_800_million_unreal/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlk8wg/upcoming_techmarine_class_for_40k_space_marine_2/"
   },
   {
     "topic": "\ud83d\udd34LIVE | She Raid My Arc Till I Dam Battleground | #FillUpMyShartTankImReadyToFart #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 924,969 views \u2022 ~273m old",
+    "why": "Trending on YouTube \u2022 927,865 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HVAPQZYym-Q"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 846,327 views \u2022 ~697m old",
+    "why": "Trending on YouTube \u2022 846,373 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjued1PlhRY"
-  },
-  {
-    "topic": "why did i return to this fnaf fan game",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 207,512 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bV1B2cQEZeU"
   },
   {
     "topic": "Back to the Future",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqOQ_Quy5Sw"
   }
 ]
