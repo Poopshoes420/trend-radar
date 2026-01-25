@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmkprg/fell_for_the_oldest_trick_in_the_book/"
   },
   {
-    "topic": "Now you tell me...",
+    "topic": "She\u2019s a keeper. Wish her 20 more years of silliness and fun",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmsx4o/now_you_tell_me/"
-  },
-  {
-    "topic": "The length of this video \ud83d\ude48",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qm70vp/the_length_of_this_video/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmswfx/shes_a_keeper_wish_her_20_more_years_of_silliness/"
   },
   {
     "topic": "Is there a way to stop people from buying you as a viewer?",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmpha4/is_there_a_way_to_stop_people_from_buying_you_as/"
+  },
+  {
+    "topic": "The length of this video \ud83d\ude48",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qm70vp/the_length_of_this_video/"
   },
   {
     "topic": "18 years ago I created my YouTube account",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,476,619 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 1,540,457 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 961,891 views \u2022 ~437m old",
+    "why": "Trending on YouTube \u2022 1,015,831 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yP5RGz_CRFM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 293,811 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 322,279 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ijqXQVlay9c"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,632 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 144,119 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4ml1Qf4Bngw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,558 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 55,478 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=47MGUb4VJXw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,634 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 24,243 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lDDgeUfWssA"
   }
 ]
