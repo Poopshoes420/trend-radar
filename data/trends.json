@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qm2hd7/heres_real_slop/"
   },
   {
-    "topic": "Would you consider this good Rushmore for Gaming Youtubers? (What would be yours)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlufon/would_you_consider_this_good_rushmore_for_gaming/"
-  },
-  {
     "topic": "WHY WOULD THEY DO THAT??",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmisfv/why_would_they_do_that/"
   },
   {
-    "topic": "Anyone else receiving extremely unsettling (and creepy) Pro-Israel ads/propaganda?",
+    "topic": "Would you consider this good Rushmore for Gaming Youtubers? (What would be yours)",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmc00s/anyone_else_receiving_extremely_unsettling_and/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlufon/would_you_consider_this_good_rushmore_for_gaming/"
+  },
+  {
+    "topic": "What the fuck YOTUBE",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmh4i9/what_the_fuck_yotube/"
   },
   {
     "topic": "German investments in US nearly halved in Trump\u2019s first year back, report shows",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmbv3g/macron_says_france_to_fasttrack_social_media_ban/"
   },
   {
-    "topic": "UK to create its own FBI in biggest police reform in nearly 200 years",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmcyh5/uk_to_create_its_own_fbi_in_biggest_police_reform/"
-  },
-  {
     "topic": "Pope Leo says civilians in Ukraine are suffering, calls for war to end",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmlfvq/pope_leo_says_civilians_in_ukraine_are_suffering/"
+  },
+  {
+    "topic": "UK to create its own FBI in biggest police reform in nearly 200 years",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmcyh5/uk_to_create_its_own_fbi_in_biggest_police_reform/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmf40q/i_didnt_realise_how_dire_the_state_of_star/"
   },
   {
-    "topic": "The Goodwill Gods have blessed me again!!!!!",
+    "topic": "You know it\u2019ll be a banger indie when this publisher logo shows up",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmddve/the_goodwill_gods_have_blessed_me_again/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmob9b/you_know_itll_be_a_banger_indie_when_this/"
   },
   {
     "topic": "The Super Mario Galaxy Movie \u2013 Yoshi First Look",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 714,077 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 777,787 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_2YywtBYAaw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 623,441 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 717,078 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 967,370 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 971,343 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
   }
 ]
