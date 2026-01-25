@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmswfx/shes_a_keeper_wish_her_20_more_years_of_silliness/"
   },
   {
-    "topic": "18 years ago I created my YouTube account",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmu2sn/18_years_ago_i_created_my_youtube_account/"
-  },
-  {
     "topic": "Is there a way to stop people from buying you as a viewer?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmpha4/is_there_a_way_to_stop_people_from_buying_you_as/"
+  },
+  {
+    "topic": "18 years ago I created my YouTube account",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmu2sn/18_years_ago_i_created_my_youtube_account/"
   },
   {
     "topic": "The length of this video \ud83d\ude48",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qm70vp/the_length_of_this_video/"
   },
   {
-    "topic": "Why is YouTube putting ads on non-monetized videos?!",
+    "topic": "I HATE THIS",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmqs4p/why_is_youtube_putting_ads_on_nonmonetized_videos/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
   },
   {
     "topic": "Oh my gosh I thought we were done with this ad...",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmpp4j/people_collapsed_mystery_chemicals_lobbed_at_iran/"
   },
   {
-    "topic": "Canada has no intent of pursuing free trade deal with China, says PM after Trump threat",
+    "topic": "China's Top General Reportedly Accused Of Leaking Data About Its Nuclear Weapons Program To The U.S.",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmo1ct/canada_has_no_intent_of_pursuing_free_trade_deal/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmsn86/chinas_top_general_reportedly_accused_of_leaking/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,775,953 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 1,832,405 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,163,792 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 1,201,568 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yP5RGz_CRFM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,048 views \u2022 ~173m old",
+    "why": "Trending on YouTube \u2022 327,104 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3NDNLbQKXmc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 434,695 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 464,306 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ijqXQVlay9c"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,108 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 175,055 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4ml1Qf4Bngw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,986 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 66,986 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=47MGUb4VJXw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,200 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 35,478 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lDDgeUfWssA"
   }
 ]
