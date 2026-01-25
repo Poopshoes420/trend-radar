@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlufon/would_you_consider_this_good_rushmore_for_gaming/"
   },
   {
-    "topic": "Please start cleaning the links you share",
+    "topic": "WHY WOULD THEY DO THAT??",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlrcg5/please_start_cleaning_the_links_you_share/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmisfv/why_would_they_do_that/"
   },
   {
     "topic": "Anyone else receiving extremely unsettling (and creepy) Pro-Israel ads/propaganda?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmc00s/anyone_else_receiving_extremely_unsettling_and/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "German investments in US nearly halved in Trump\u2019s first year back, report shows",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmkfoa/german_investments_in_us_nearly_halved_in_trumps/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Macron says France to fast-track social media ban for kids under 15",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmf40q/i_didnt_realise_how_dire_the_state_of_star/"
   },
   {
+    "topic": "Best multiplayer experience that never got its due, or a follow up?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmmuy3/best_multiplayer_experience_that_never_got_its/"
+  },
+  {
     "topic": "The Goodwill Gods have blessed me again!!!!!",
     "sources": [
       "reddit"
@@ -171,28 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmddve/the_goodwill_gods_have_blessed_me_again/"
   },
   {
-    "topic": "The Stop Destroying Videogames (Stop Killing Games) European Citizens' Initiative final verified signature count: 1,294,188 out of 1,448,270",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlworx/the_stop_destroying_videogames_stop_killing_games/"
-  },
-  {
     "topic": "The Super Mario Galaxy Movie Direct 1.25.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 557,641 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 652,374 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_2YywtBYAaw"
+  },
+  {
+    "topic": "I Became a Minecraft Killer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 540,618 views \u2022 ~156m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 955,850 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 962,548 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,309,850 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 1,362,744 views \u2022 ~711m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OOmRInABehI"
   }
 ]
