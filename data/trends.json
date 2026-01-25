@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlktvz/the_modern_struggle/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmfprx/over_36500_killed_in_irans_deadliest_massacre/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Macron says France to fast-track social media ban for kids under 15",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 918,745 views \u2022 ~173m old",
+    "why": "Trending on YouTube \u2022 921,137 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,089,576 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 1,089,576 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J-XpX8Okphg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 792,592 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 827,927 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OOmRInABehI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,071 views \u2022 ~496m old",
+    "why": "Trending on YouTube \u2022 261,076 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0tjur8IGiAE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 251,689 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 257,888 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,589 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 153,082 views \u2022 ~549m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SZhl5-ag0tA"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,168 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 59,228 views \u2022 ~620m old",
     "exampleUrl": "https://www.youtube.com/watch?v=00hzVrHm5VM"
   }
 ]
