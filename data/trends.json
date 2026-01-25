@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qm2hd7/heres_real_slop/"
   },
   {
-    "topic": "Please start cleaning the links you share",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlrcg5/please_start_cleaning_the_links_you_share/"
-  },
-  {
     "topic": "The length of this video \ud83d\ude48",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qm70vp/the_length_of_this_video/"
+  },
+  {
+    "topic": "Please start cleaning the links you share",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlrcg5/please_start_cleaning_the_links_you_share/"
   },
   {
     "topic": "The modern struggle.",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qm7y7j/power_outage_reported_across_greenland_capital/"
   },
   {
+    "topic": "Ariana Grande\u2019s Instagram story to her over 372 million followers",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qm6h8d/ariana_grandes_instagram_story_to_her_over_372/"
+  },
+  {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qlpp0p/following_its_massive_shakeup_and_costcutting/"
   },
   {
-    "topic": "New Dragon Ball Game, Project: Age 1000, Revealed",
+    "topic": "The January 24-25, 2026 Winter Storm Coverage, As It Happened...",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qm6zgq/new_dragon_ball_game_project_age_1000_revealed/"
+    "why": "Trending on YouTube \u2022 3,318,609 views \u2022 ~40m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=K85MbyEq1hY"
   },
   {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,084,311 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 1,085,585 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J-XpX8Okphg"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,725,543 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 1,734,229 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wwcfhb43Ge8"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 259,912 views \u2022 ~147m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0tjur8IGiAE"
   },
   {
     "topic": "This Game is Just Mario Party with Beans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 517,211 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 585,692 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F0JgyHT9wN8"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 260,194 views \u2022 ~194m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0tjur8IGiAE"
   },
   {
     "topic": "Hermitcraft 11: Episode 9 - BAD BAD BAD BAD BAD BAD BAD",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 436,516 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 458,285 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2dNuN7vGigg"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,936 views \u2022 ~256m old",
+    "why": "Trending on YouTube \u2022 115,577 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-cKpkB3qcqo"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,472 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 55,999 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SZhl5-ag0tA"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 108,809 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 113,211 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gp8-TZlTMP0"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,110 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 32,492 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=00hzVrHm5VM"
   },
   {
@@ -256,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,984 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 46,469 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4kPt2x3_bIw"
   },
   {
-    "topic": "Back to the Future Part II",
+    "topic": "Anime \u201cDragon Ball Super: Beerus\u201d | SUPER Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=czkFRiUYgRY"
+    "why": "Trending on YouTube \u2022 5,942 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OOmRInABehI"
   }
 ]
