@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "My wife decided to take the cat for a ride. The cat had some critiques of her driving.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmoqt2/my_wife_decided_to_take_the_cat_for_a_ride_the/"
+  },
+  {
     "topic": "Ain\u2019t no way\u2026",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qm8kos/my_cat_decided_to_make_herself_the_fourth/"
-  },
-  {
-    "topic": "Justify your actions, Sir!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmd0qe/justify_your_actions_sir/"
   },
   {
     "topic": "The length of this video \ud83d\ude48",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmob9b/you_know_itll_be_a_banger_indie_when_this/"
   },
   {
-    "topic": "The Super Mario Galaxy Movie \u2013 Yoshi First Look",
+    "topic": "I\u2019m grinning like a kid again (LoTR The 3rd Age)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmk22o/the_super_mario_galaxy_movie_yoshi_first_look/"
-  },
-  {
-    "topic": "The Super Mario Galaxy Movie Direct 1.25.2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 777,787 views \u2022 ~195m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_2YywtBYAaw"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmoyh4/im_grinning_like_a_kid_again_lotr_the_3rd_age/"
   },
   {
     "topic": "I Became a Minecraft Killer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 717,078 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 796,453 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
+  },
+  {
+    "topic": "The Super Mario Galaxy Movie \u2013 Yoshi First Look",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 490,121 views \u2022 ~213m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yP5RGz_CRFM"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS | She Spaceport My Bluegate Until I Stella Montis | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 971,343 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 970,045 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
   }
 ]
