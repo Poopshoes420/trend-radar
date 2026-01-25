@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmcm10/aint_no_way/"
   },
   {
-    "topic": "my cat decided to make herself the fourth experiment subject on mystery science theater 3000",
+    "topic": "Found this guy in the nurses station today. He looks happy.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qm8kos/my_cat_decided_to_make_herself_the_fourth/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmq8mr/found_this_guy_in_the_nurses_station_today_he/"
   },
   {
     "topic": "The length of this video \ud83d\ude48",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmisfv/why_would_they_do_that/"
   },
   {
+    "topic": "Is there a way to stop people from buying you as a viewer?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmpha4/is_there_a_way_to_stop_people_from_buying_you_as/"
+  },
+  {
     "topic": "Would you consider this good Rushmore for Gaming Youtubers? (What would be yours)",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qlufon/would_you_consider_this_good_rushmore_for_gaming/"
-  },
-  {
-    "topic": "What the fuck YOTUBE",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmh4i9/what_the_fuck_yotube/"
   },
   {
     "topic": "German investments in US nearly halved in Trump\u2019s first year back, report shows",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Macron says France to fast-track social media ban for kids under 15",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmbv3g/macron_says_france_to_fasttrack_social_media_ban/"
-  },
-  {
     "topic": "Pope Leo says civilians in Ukraine are suffering, calls for war to end",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmlfvq/pope_leo_says_civilians_in_ukraine_are_suffering/"
+  },
+  {
+    "topic": "Macron says France to fast-track social media ban for kids under 15",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmbv3g/macron_says_france_to_fasttrack_social_media_ban/"
   },
   {
     "topic": "UK to create its own FBI in biggest police reform in nearly 200 years",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 825,562 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 961,498 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CU2HOhS9yOo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 508,506 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 594,169 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yP5RGz_CRFM"
   },
   {
@@ -200,7 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 971,230 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 978,584 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xXAEVrLoaTs"
+  },
+  {
+    "topic": "THE SUPER MARIO GALAXY MOVIE Official Trailer 2 (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 18,387 views \u2022 ~261m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=47MGUb4VJXw"
   }
 ]
