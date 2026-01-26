@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
   },
   {
-    "topic": "saddest / most beautiful comment i\u2019ve ever read.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn4o9l/saddest_most_beautiful_comment_ive_ever_read/"
-  },
-  {
     "topic": "What is going on with my recommanded",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn7vmp/what_is_going_on_with_my_recommanded/"
+  },
+  {
+    "topic": "All official youtube rewind videos are now private, in other words: gone.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn2mtl/all_official_youtube_rewind_videos_are_now/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,167,836 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 2,169,092 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pfac1KNtU2A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,004,019 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 2,080,732 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,204 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 247,921 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPP6Gc1wZbA"
-  },
-  {
-    "topic": "I\u2019m Not A Hero\u2026 (Quarantine Zone Episode 5)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 224,299 views \u2022 ~701m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eBSURrNvj2w"
   },
   {
     "topic": "Christopher Nolan's newest Trailer for The Odyssey featuring Travis Scott,Tom Holland & Jon Bernthal",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,785 views \u2022 ~617m old",
+    "why": "Trending on YouTube \u2022 10,785 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rr7tQ0jbGUg"
   }
 ]
