@@ -1,14 +1,5 @@
 [
   {
-    "topic": "affection",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qn5r95/affection/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "affection",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qn5r95/affection/"
   },
   {
     "topic": "Tip to have a sexy waistline",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qn9ryz/tip_to_have_a_sexy_waistline/"
   },
   {
+    "topic": "The bait was convincing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qncorb/the_bait_was_convincing/"
+  },
+  {
     "topic": "Death before Dasani - The Blizzard of 2026",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmrh5s/death_before_dasani_the_blizzard_of_2026/"
-  },
-  {
-    "topic": "She\u2019s a keeper. Wish her 20 more years of silliness and fun",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qmswfx/shes_a_keeper_wish_her_20_more_years_of_silliness/"
   },
   {
     "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn2mtl/all_official_youtube_rewind_videos_are_now/"
   },
   {
+    "topic": "European Commission to open investigation into Elon Musk\u2019s X",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qncrcu/european_commission_to_open_investigation_into/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
     "sources": [
       "reddit"
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
   },
   {
     "topic": "Venezuela\u2019s acting president says she has had \u201cenough\u201d of US orders | CNN",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnaedt/venezuelas_acting_president_says_she_has_had/"
   },
   {
-    "topic": "European Commission to open investigation into Elon Musk\u2019s X",
+    "topic": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qncrcu/european_commission_to_open_investigation_into/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
   },
   {
     "topic": "India buys 7 million barrels of crude from Angola as it cuts Russian oil to appease the EU and US",
@@ -184,31 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,170,406 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 2,172,143 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pfac1KNtU2A"
   },
   {
-    "topic": "Minecraft Speedrunner VS 5 Hunters REVIVAL",
+    "topic": "KiiiKiii \ud0a4\ud0a4 '404 (New Era)' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,156,234 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
+    "why": "Trending on YouTube \u2022 190,388 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zhHB4dZTChw"
   },
   {
     "topic": "Dream - Minecraft Manhunt Extra Scenes (5 Hunters REVIVAL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,127 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 274,337 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPP6Gc1wZbA"
-  },
-  {
-    "topic": "Christopher Nolan's newest Trailer for The Odyssey featuring Travis Scott,Tom Holland & Jon Bernthal",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 10,786 views \u2022 ~678m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Rr7tQ0jbGUg"
   }
 ]
