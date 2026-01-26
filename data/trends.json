@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Snowplow vs Dogs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
-  },
-  {
     "topic": "An Amazon review for a food thermometer",
     "sources": [
       "reddit"
@@ -36,22 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
   },
   {
-    "topic": "The bait was convincing",
+    "topic": "Snowplow vs Dogs",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qncorb/the_bait_was_convincing/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
   },
   {
-    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
+    "topic": "Something educational",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnuor6/something_educational/"
   },
   {
     "topic": "YouTube keeps on recommending 10+ year old videos",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
+  },
+  {
+    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
   },
   {
     "topic": "This is just sad man",
@@ -184,23 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 530,073 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 530,123 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cZ0AxvY-BRA"
   },
   {
-    "topic": "Highguard | Official Launch Showcase",
+    "topic": "I Found Caseoh in Quarantine Zone  -  Part 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 111,269 views \u2022 ~299m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0qR9Xbzt5t0"
+    "why": "Trending on YouTube \u2022 192,126 views \u2022 ~392m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=480tBnzK1tI"
   },
   {
     "topic": "\u3010Ado\u3011\u30a8\u30f3\u30bc\u30eb\u30b7\u30fc\u30af\uff08Official Audio\uff09",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,411 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 194,790 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ukdidk1CkaQ"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,508 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 39,243 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yZbexxHip4w"
+  },
+  {
+    "topic": "LOS ILUSIONISTA 3 ...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 38,171 views \u2022 ~498m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=galNepG-13s"
   },
   {
     "topic": "WWE 2K26 TEASER BREAKDOWN! HUGE DETAILS REVEALED!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,564 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 26,461 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nh2v-eiLVZs"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,481 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 31,419 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xFoOGGQCT4A"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,860 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 23,715 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3gmkCwwv1No"
   }
 ]
