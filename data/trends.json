@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
   },
   {
-    "topic": "Oh my gosh I thought we were done with this ad...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmqdpo/oh_my_gosh_i_thought_we_were_done_with_this_ad/"
-  },
-  {
     "topic": "saddest / most beautiful comment i\u2019ve ever read.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn4o9l/saddest_most_beautiful_comment_ive_ever_read/"
+  },
+  {
+    "topic": "Oh my gosh I thought we were done with this ad...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmqdpo/oh_my_gosh_i_thought_we_were_done_with_this_ad/"
   },
   {
     "topic": "18 years ago I created my YouTube account",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmkfoa/german_investments_in_us_nearly_halved_in_trumps/"
   },
   {
-    "topic": "\u2018People collapsed': mystery chemicals lobbed at Iran protestors - eyewitnesses",
+    "topic": "India buys 7 million barrels of crude from Angola as it cuts Russian oil to appease the EU and US",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmpp4j/people_collapsed_mystery_chemicals_lobbed_at_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn0snn/india_buys_7_million_barrels_of_crude_from_angola/"
   },
   {
     "topic": "China's Top General Reportedly Accused Of Leaking Data About Its Nuclear Weapons Program To The U.S.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmsn86/chinas_top_general_reportedly_accused_of_leaking/"
   },
   {
-    "topic": "India buys 7 million barrels of crude from Angola as it cuts Russian oil to appease the EU and US",
+    "topic": "\u2018People collapsed': mystery chemicals lobbed at Iran protestors - eyewitnesses",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn0snn/india_buys_7_million_barrels_of_crude_from_angola/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmpp4j/people_collapsed_mystery_chemicals_lobbed_at_iran/"
   },
   {
     "topic": "Guns N' Roses concert turned into an anti-Trump concert, and they along with the some audience, hung the giant Donald Trump and beat him up.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,116,694 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 2,131,843 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pfac1KNtU2A"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 739,668 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 883,847 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
-  },
-  {
-    "topic": "supersonic spear trap VS youtuber SMP",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 724,307 views \u2022 ~653m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ijqXQVlay9c"
   },
   {
     "topic": "The Penjikent Creature",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,524 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 322,099 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SqKBGnLfO9E"
   },
   {
@@ -216,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 329,213 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 329,213 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3NDNLbQKXmc"
   },
   {
-    "topic": "Dragon Ball - New Game Project 'AGE 1000' Announcement Trailer",
+    "topic": "Dream - Minecraft Manhunt Extra Scenes (5 Hunters REVIVAL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 126,899 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nAHvu2hu6bc"
-  },
-  {
-    "topic": "Everything You MISSED In The NEW Mario Galaxy Movie Trailer #2!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 51,103 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lDDgeUfWssA"
+    "why": "Trending on YouTube \u2022 91,828 views \u2022 ~216m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vPP6Gc1wZbA"
   }
 ]
