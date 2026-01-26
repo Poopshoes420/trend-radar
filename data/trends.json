@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnaedt/venezuelas_acting_president_says_she_has_had/"
   },
   {
-    "topic": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
-  },
-  {
     "topic": "Venezuela\u2019s acting president says she has had \u2018enough\u2019 of US orders",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnfoq4/venezuelas_acting_president_says_she_has_had/"
+  },
+  {
+    "topic": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn4jzo/after_finishing_doom_2016_i_cant_get_into_doom/"
   },
   {
-    "topic": "You know it\u2019ll be a banger indie when this publisher logo shows up",
+    "topic": "Final Fantasy VII Remake Part 3 Will Stick to Unreal Engine 4",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmob9b/you_know_itll_be_a_banger_indie_when_this/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnh2cd/final_fantasy_vii_remake_part_3_will_stick_to/"
   },
   {
     "topic": "KiiiKiii \ud0a4\ud0a4 '404 (New Era)' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 867,809 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 935,274 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zhHB4dZTChw"
+  },
+  {
+    "topic": "\u7a32\u8449\u66c7\u300e\u30b9\u30dd\u30c3\u30c8\u30ec\u30a4\u30c8\u300fVo. \u6b4c\u611b\u30e6\u30ad",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 126,126 views \u2022 ~388m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=STBoCK69vVQ"
   },
   {
     "topic": "Star Wars: Return of the Jedi",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JftMT_V67X0"
   }
 ]
