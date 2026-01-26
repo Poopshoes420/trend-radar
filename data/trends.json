@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Snowplow vs Dogs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
-  },
-  {
     "topic": "Found this after he died. Kinda funny now.",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
+  },
+  {
+    "topic": "Snowplow vs Dogs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
   },
   {
     "topic": "The bait was convincing",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qncorb/the_bait_was_convincing/"
   },
   {
-    "topic": "Tip to have a sexy waistline",
+    "topic": "Something educational",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qn9ryz/tip_to_have_a_sexy_waistline/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnuor6/something_educational/"
   },
   {
     "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnlcq5/this_is_just_sad_man/"
   },
   {
-    "topic": "Another day, another ad block war happening behind the curtain.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
-  },
-  {
     "topic": "YouTube keeps on recommending 10+ year old videos",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
   },
   {
-    "topic": "Youtube is broken",
+    "topic": "Another day, another ad block war happening behind the curtain.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnqegr/youtube_is_broken/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
+  },
+  {
+    "topic": "Another gift farming stream. This time they\u2019re prank calling 9-1-1.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
   },
   {
     "topic": "Sepp Blatter suggests fans should not travel to US for World Cup",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qncrcu/european_commission_to_open_investigation_into/"
   },
   {
-    "topic": "Israel recovers body of last hostage in Gaza",
+    "topic": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnh0ru/israel_recovers_body_of_last_hostage_in_gaza/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
   },
   {
     "topic": "Will you be playing Highguard?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 530,073 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 530,073 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cZ0AxvY-BRA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,312 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 109,075 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0qR9Xbzt5t0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,093 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 185,750 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ukdidk1CkaQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,089 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 31,722 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yZbexxHip4w"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,362 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 24,096 views \u2022 ~374m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nh2v-eiLVZs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,763 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 27,083 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xFoOGGQCT4A"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,659 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 18,301 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3gmkCwwv1No"
   }
 ]
