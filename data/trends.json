@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmzj6b/why_arent_there_as_many_big_youtubers_making/"
   },
   {
-    "topic": "I HATE THIS",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
-  },
-  {
     "topic": "What is going on with my recommanded",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn7vmp/what_is_going_on_with_my_recommanded/"
+  },
+  {
+    "topic": "I HATE THIS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
   },
   {
     "topic": "All official youtube rewind videos are now private, in other words: gone.",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qncrcu/european_commission_to_open_investigation_into/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1432, Part 1 (Thread #1579)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnfvf2/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Venezuela\u2019s acting president says she has had \u201cenough\u201d of US orders | CNN",
@@ -126,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
   },
   {
-    "topic": "India buys 7 million barrels of crude from Angola as it cuts Russian oil to appease the EU and US",
+    "topic": "Russia and Its Leaders Will Always be a Threat to Europe, Poland\u2019s President Says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn0snn/india_buys_7_million_barrels_of_crude_from_angola/"
-  },
-  {
-    "topic": "Edward Norton \"I'm sitting here talking about Movies while an illegal army is being mounted against U.S. Citizens\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qn4nnj/edward_norton_im_sitting_here_talking_about/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnaajm/russia_and_its_leaders_will_always_be_a_threat_to/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmob9b/you_know_itll_be_a_banger_indie_when_this/"
   },
   {
+    "topic": "I\u2019m grinning like a kid again (LoTR The 3rd Age)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmoyh4/im_grinning_like_a_kid_again_lotr_the_3rd_age/"
+  },
+  {
     "topic": "The January 25, 2026 Severe Weather Coverage, As It Happened...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,172,143 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 2,174,518 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pfac1KNtU2A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 190,388 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 311,231 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zhHB4dZTChw"
   },
   {
@@ -200,7 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 274,337 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 293,079 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPP6Gc1wZbA"
+  },
+  {
+    "topic": "Star Wars: Return of the Jedi",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~21m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JftMT_V67X0"
   }
 ]
