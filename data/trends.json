@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "affection",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qn5r95/affection/"
-  },
-  {
     "topic": "The bait was convincing",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qncorb/the_bait_was_convincing/"
+  },
+  {
+    "topic": "affection",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qn5r95/affection/"
   },
   {
     "topic": "Tip to have a sexy waistline",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 575,080 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 708,529 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zhHB4dZTChw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JftMT_V67X0"
   }
 ]
