@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
   },
   {
-    "topic": "Another day, another ad block war happening behind the curtain.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
-  },
-  {
     "topic": "This is just sad man",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnlcq5/this_is_just_sad_man/"
+  },
+  {
+    "topic": "Another day, another ad block war happening behind the curtain.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
   },
   {
     "topic": "Why aren't there as many big YouTubers making entertaining \"fun\" videos anymore?",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnh0ru/israel_recovers_body_of_last_hostage_in_gaza/"
   },
   {
-    "topic": "Pedro Pascal speaks out against ICE again",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qnjljw/pedro_pascal_speaks_out_against_ice_again/"
-  },
-  {
     "topic": "Will you be playing Highguard?",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnnv5v/highguard_wildlight_founders_on_how_their_debut/"
   },
   {
+    "topic": "Dead Space if it was good",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnlzvr/dead_space_if_it_was_good/"
+  },
+  {
     "topic": "\u3010Ado\u3011\u30a8\u30f3\u30bc\u30eb\u30b7\u30fc\u30af\uff08Official Audio\uff09",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,786 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 173,676 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ukdidk1CkaQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,622 views \u2022 ~692m old",
+    "why": "Trending on YouTube \u2022 200,654 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=STBoCK69vVQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,198 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 19,521 views \u2022 ~321m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nh2v-eiLVZs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,412 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 20,937 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xFoOGGQCT4A"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JftMT_V67X0"
   }
 ]
