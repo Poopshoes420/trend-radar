@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn4o9l/saddest_most_beautiful_comment_ive_ever_read/"
   },
   {
-    "topic": "Oh my gosh I thought we were done with this ad...",
+    "topic": "All official youtube rewind videos are now private, in other words: gone.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmqdpo/oh_my_gosh_i_thought_we_were_done_with_this_ad/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn2mtl/all_official_youtube_rewind_videos_are_now/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1431, Part 1 (Thread #1578)",
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmea3n/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
   },
   {
     "topic": "India buys 7 million barrels of crude from Angola as it cuts Russian oil to appease the EU and US",
@@ -117,15 +126,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmkfoa/german_investments_in_us_nearly_halved_in_trumps/"
   },
   {
-    "topic": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qn77t4/trump_says_us_used_secret_weapon_to_disable/"
-  },
-  {
     "topic": "China's Top General Reportedly Accused Of Leaking Data About Its Nuclear Weapons Program To The U.S.",
     "sources": [
       "reddit"
@@ -135,22 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qmsn86/chinas_top_general_reportedly_accused_of_leaking/"
   },
   {
-    "topic": "Simple Questions Sunday!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qmc4ft/simple_questions_sunday/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn8zif/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "Final Fantasy 7 Remake 3 Uses Unreal Engine 4, As Director Says Its Familiarity is \u201cMore Beneficial\u201d",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn5i6g/what_game_has_the_most_grim_ending/"
   },
   {
+    "topic": "After finishing Doom (2016), I can't get into Doom Eternal.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn4jzo/after_finishing_doom_2016_i_cant_get_into_doom/"
+  },
+  {
     "topic": "The January 25, 2026 Severe Weather Coverage, As It Happened...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,147,787 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 2,152,415 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pfac1KNtU2A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,110,104 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 1,214,407 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-_DaUyAB_DE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 372,126 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 396,055 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SqKBGnLfO9E"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,994 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 134,428 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPP6Gc1wZbA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,727 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 9,124 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rr7tQ0jbGUg"
   }
 ]
