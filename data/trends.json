@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn7vmp/what_is_going_on_with_my_recommanded/"
   },
   {
-    "topic": "I HATE THIS",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
-  },
-  {
     "topic": "All official youtube rewind videos are now private, in other words: gone.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn2mtl/all_official_youtube_rewind_videos_are_now/"
+  },
+  {
+    "topic": "I HATE THIS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qmuwqk/i_hate_this/"
   },
   {
     "topic": "European Commission to open investigation into Elon Musk\u2019s X",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn8zif/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Final Fantasy 7 Remake 3 Uses Unreal Engine 4, As Director Says Its Familiarity is \u201cMore Beneficial\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn2qi4/final_fantasy_7_remake_3_uses_unreal_engine_4_as/"
-  },
-  {
     "topic": "Look at my amazing Fire Keeper from Dark Souls cosplay!",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnga9a/look_at_my_amazing_fire_keeper_from_dark_souls/"
+  },
+  {
+    "topic": "Final Fantasy 7 Remake 3 Uses Unreal Engine 4, As Director Says Its Familiarity is \u201cMore Beneficial\u201d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn2qi4/final_fantasy_7_remake_3_uses_unreal_engine_4_as/"
   },
   {
     "topic": "After finishing Doom (2016), I can't get into Doom Eternal.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 413,763 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 575,080 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zhHB4dZTChw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~55m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JftMT_V67X0"
   }
 ]
