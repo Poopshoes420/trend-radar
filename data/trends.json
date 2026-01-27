@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoepco/anyone_2026_im_sick_of_this/"
   },
   {
+    "topic": "Disable this ASAP, if you care about YouTube music and audio",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoj2xm/disable_this_asap_if_you_care_about_youtube_music/"
+  },
+  {
     "topic": "Please go and report this idiot",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnzkkt/please_go_and_report_this_idiot/"
-  },
-  {
-    "topic": "Inappropriate ads need to be regulated (NSFWish)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoexad/inappropriate_ads_need_to_be_regulated_nsfwish/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
   },
   {
-    "topic": "Europe accelerates push for military independence from US",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo9hgr/europe_accelerates_push_for_military_independence/"
-  },
-  {
     "topic": "Canada could gain nearly 7% in real GDP by removing internal trade barriers, says IMF",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qohi2a/canada_could_gain_nearly_7_in_real_gdp_by/"
+  },
+  {
+    "topic": "Europe accelerates push for military independence from US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo9hgr/europe_accelerates_push_for_military_independence/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,019,171 views \u2022 ~518m old",
+    "why": "Trending on YouTube \u2022 2,106,901 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
   },
   {
@@ -192,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 533,449 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 649,594 views \u2022 ~177m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
+  },
+  {
+    "topic": "Helldivers 2 \u2013 Siege Breakers Warbond",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 250,031 views \u2022 ~237m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u9E9-iGwK_4"
   },
   {
     "topic": "My Cousin Vinny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
-  },
-  {
-    "topic": "Mission: Impossible -- Fallout",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~463m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
