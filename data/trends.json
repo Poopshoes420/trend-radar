@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo94bw/whats_going_on_with_youtube_almost_every_link/"
   },
   {
-    "topic": "YouTube is actively forcing users to have an account in order to watch videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qodi4x/youtube_is_actively_forcing_users_to_have_an/"
-  },
-  {
     "topic": "Inappropriate ads need to be regulated (NSFWish)",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoexad/inappropriate_ads_need_to_be_regulated_nsfwish/"
+  },
+  {
+    "topic": "YouTube is actively forcing users to have an account in order to watch videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qodi4x/youtube_is_actively_forcing_users_to_have_an/"
   },
   {
     "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo9hgr/europe_accelerates_push_for_military_independence/"
   },
   {
-    "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
-  },
-  {
     "topic": "Xi Jinping says China seeks to uphold UN-based world order",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8qji/xi_jinping_says_china_seeks_to_uphold_unbased/"
+  },
+  {
+    "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qocu4c/highguard_manages_almost_100k_steam_players_on/"
   },
   {
+    "topic": "Valve Corporation will face a \u00a3656m lawsuit in the UK over alleged unfair prices on its global online store, Steam, following a tribunal ruling that the case could continue",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qofnxg/valve_corporation_will_face_a_656m_lawsuit_in_the/"
+  },
+  {
     "topic": "The Sims 4's most notorious sex mod gets launched 400,000 times a day, which is more people than I realized were even playing The Sims every day",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo1qz9/can_we_stop_w_the_destiny_style_ui_floating/"
   },
   {
-    "topic": "Why success was the worst thing to happen to Prison Architect maker Introversion Software",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo2isr/why_success_was_the_worst_thing_to_happen_to/"
-  },
-  {
     "topic": "i-dle (\uc544\uc774\ub4e4) 'Mono (Feat. skaiwater)' Official Music Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,505,989 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 1,641,178 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
