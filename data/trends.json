@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
   },
   {
-    "topic": "Found this after he died. Kinda funny now.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Found this after he died. Kinda funny now.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
   },
   {
     "topic": "Snowplow vs Dogs",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
   },
   {
-    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
-  },
-  {
     "topic": "The way I watch YouTube has completely changed in the last few years, and I'm not sure if it's just me.",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
   },
   {
-    "topic": "This is just sad man",
+    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnlcq5/this_is_just_sad_man/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
+  },
+  {
+    "topic": "Another day, another ad block war happening behind the curtain.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1432, Part 1 (Thread #1579)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnfvf2/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Sepp Blatter suggests fans should not travel to US for World Cup",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnnnt6/sepp_blatter_suggests_fans_should_not_travel_to/"
-  },
-  {
     "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnozxa/volkswagen_considers_pulling_out_of_us_factory/"
+  },
+  {
+    "topic": "U.S. will have to send its own fighter jets into Canadian airspace if Ottawa doesn't buy 88 F-35s, Hoekstra says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qntzv2/us_will_have_to_send_its_own_fighter_jets_into/"
   },
   {
     "topic": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
@@ -126,13 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
   },
   {
-    "topic": "U.S. will have to send its own fighter jets into Canadian airspace if Ottawa doesn't buy 88 F-35s, Hoekstra says",
+    "topic": "UK loses measles elimination status, WHO confirms",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qntzv2/us_will_have_to_send_its_own_fighter_jets_into/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qno4dv/uk_loses_measles_elimination_status_who_confirms/"
+  },
+  {
+    "topic": "Martha Stewart posts about ICE on her Instagram",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qnyghs/martha_stewart_posts_about_ice_on_her_instagram/"
   },
   {
     "topic": "Will you be playing Highguard?",
@@ -162,15 +171,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnm0fi/the_sims_4s_most_notorious_sex_mod_gets_launched/"
   },
   {
-    "topic": "\u2018Highguard\u2019: Wildlight Founders on How Their Debut Game Is Not Like \u2018Concord\u2019 or \u2018Overwatch\u2019: \"Our trailer didn\u2019t highlight that well, and we\u2019ll own that. But at the end of the day, we\u2019re really excited just to get the game out on Monday and let it speak for itself\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnnv5v/highguard_wildlight_founders_on_how_their_debut/"
-  },
-  {
     "topic": "Dead Space if it was good",
     "sources": [
       "reddit"
@@ -184,31 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 384,936 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 389,928 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
   },
   {
-    "topic": "HIGHGUARD LAUNCH DAY TODAY (NEW FPS)",
+    "topic": "Spending $978,236,156 Getting The HYDRA DRAGON CANNELONI..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,053 views \u2022 ~117m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=G5fbKAuq0qw"
+    "why": "Trending on YouTube \u2022 245,207 views \u2022 ~244m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=R4xIBVOZWPQ"
   },
   {
     "topic": "This New Horror Game is Terrifying",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,171 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 290,634 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
+  },
+  {
+    "topic": "El Aventurero En El Cielo - (Homenaje a Yeison Jim\u00e9nez)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 109,938 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
   },
   {
     "topic": "I Found Caseoh in Quarantine Zone  -  Part 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,016 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 325,095 views \u2022 ~620m old",
     "exampleUrl": "https://www.youtube.com/watch?v=480tBnzK1tI"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,896 views \u2022 ~440m old",
+    "why": "Trending on YouTube \u2022 67,328 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yZbexxHip4w"
-  },
-  {
-    "topic": "LOS ILUSIONISTA 3 ...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 74,819 views \u2022 ~606m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=galNepG-13s"
   },
   {
     "topic": "A Knight Of The Seven Kingdoms Episode 3 Trailer: Dunk vs Aerion & House of the Dragon Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,795 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 49,696 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_ut22lhPJA"
   },
   {
@@ -240,47 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,712 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 44,718 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3gmkCwwv1No"
-  },
-  {
-    "topic": "See Rapper Travis Scott in New \u2018Odyssey\u2019 Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 40,769 views \u2022 ~621m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xFoOGGQCT4A"
   },
   {
     "topic": "Bone Thugs-N-Harmony - Road Nights (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,218 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 29,297 views \u2022 ~441m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gONFPOVkXiI"
+  },
+  {
+    "topic": "Dice Mi Mam\u00e1 - Dany Ome & Kevincito El 13 (Video Official) la sinfonica ",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,146 views \u2022 ~421m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wDV1PQ5gMOs"
   },
   {
     "topic": "WWE 2K26 TEASER BREAKDOWN! HUGE DETAILS REVEALED!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,705 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 34,811 views \u2022 ~650m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nh2v-eiLVZs"
-  },
-  {
-    "topic": "Dice Mi Mam\u00e1 - Dany Ome & Kevincito El 13 (Video Official) ",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 17,815 views \u2022 ~301m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wDV1PQ5gMOs"
-  },
-  {
-    "topic": "The New Terrance and Phillip Movie Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~40m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7Qv3KsbPQ-E"
   }
 ]
