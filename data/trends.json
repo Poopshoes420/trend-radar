@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoddsx/yes_thats_the_stringstation_5_right_there/"
   },
   {
+    "topic": "I think the last one was trying so hard not to faint \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qob6xy/i_think_the_last_one_was_trying_so_hard_not_to/"
+  },
+  {
     "topic": "An Amazon review for a food thermometer",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
-  },
-  {
-    "topic": "Found this after he died. Kinda funny now.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
   },
   {
     "topic": "How do i get past this without showing yt my face or id",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qodi4x/youtube_is_actively_forcing_users_to_have_an/"
   },
   {
-    "topic": "The way I watch YouTube has completely changed in the last few years, and I'm not sure if it's just me.",
+    "topic": "Inappropriate ads need to be regulated (NSFWish)",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoexad/inappropriate_ads_need_to_be_regulated_nsfwish/"
   },
   {
     "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,275,828 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 1,505,989 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
-  },
-  {
-    "topic": "A new Kamen Rider AGITO movie\u2502Teaser Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 68,301 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
   },
   {
     "topic": "My Cousin Vinny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
