@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
   },
   {
+    "topic": "Please go and report this idiot",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnzkkt/please_go_and_report_this_idiot/"
+  },
+  {
     "topic": "Another day, another ad block war happening behind the curtain.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
-  },
-  {
-    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
@@ -171,28 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnm0fi/the_sims_4s_most_notorious_sex_mod_gets_launched/"
   },
   {
-    "topic": "Dead Space if it was good",
+    "topic": "Can We Stop w/ The \"Destiny\" Style UI / Floating Circle It's So Bad. [Console]",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnlzvr/dead_space_if_it_was_good/"
-  },
-  {
-    "topic": "I want Spaghetti tualetti brainrot",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 390,961 views \u2022 ~382m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo1qz9/can_we_stop_w_the_destiny_style_ui_floating/"
   },
   {
     "topic": "El Aventurero En El Cielo - (Homenaje a Yeison Jim\u00e9nez)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 349,287 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 384,120 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
   },
   {
@@ -200,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 433,528 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 472,582 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
+  },
+  {
+    "topic": "I want Spaghetti tualetti brainrot",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 391,006 views \u2022 ~434m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
   },
   {
     "topic": "Spending $978,236,156 Getting The HYDRA DRAGON CANNELONI..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,735 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 395,809 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R4xIBVOZWPQ"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,998 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 270,068 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,226 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 72,063 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_ut22lhPJA"
-  },
-  {
-    "topic": "Anissa & Lucan Gameplay Trailer | Invincible VS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 77,098 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yZbexxHip4w"
   },
   {
     "topic": "Bone Thugs-N-Harmony - Road Nights (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,138 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 40,601 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gONFPOVkXiI"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,493 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 36,564 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wDV1PQ5gMOs"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,996 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 16,824 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,127 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 6,993 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_LGqvTOC2M"
   }
 ]
