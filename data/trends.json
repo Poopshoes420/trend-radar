@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Beware of cat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo9swl/beware_of_cat/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Beware of cat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo9swl/beware_of_cat/"
   },
   {
     "topic": "Yes, thats the StringStation 5 right there.",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoddsx/yes_thats_the_stringstation_5_right_there/"
   },
   {
-    "topic": "I think the last one was trying so hard not to faint \ud83d\ude02\ud83d\ude02\ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qob6xy/i_think_the_last_one_was_trying_so_hard_not_to/"
-  },
-  {
     "topic": "New Mario Squad",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qohupr/new_mario_squad/"
   },
   {
-    "topic": "How do i get past this without showing yt my face or id",
+    "topic": "I think the last one was trying so hard not to faint \ud83d\ude02\ud83d\ude02\ud83d\ude02",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo590r/how_do_i_get_past_this_without_showing_yt_my_face/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qob6xy/i_think_the_last_one_was_trying_so_hard_not_to/"
   },
   {
     "topic": "How are these people able to consume such a large amount of calorie-dense food in one sitting, especially this person and still remain slim.",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qofux7/how_are_these_people_able_to_consume_such_a_large/"
+  },
+  {
+    "topic": "How do i get past this without showing yt my face or id",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo590r/how_do_i_get_past_this_without_showing_yt_my_face/"
   },
   {
     "topic": "Please go and report this idiot",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,806,193 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 1,875,897 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
+  },
+  {
+    "topic": "Marvel Television\u2019s Daredevil: Born Again Season 2 | Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 424,021 views \u2022 ~117m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
   },
   {
     "topic": "Worst game ever made",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 563,890 views \u2022 ~684m old",
+    "why": "Trending on YouTube \u2022 589,198 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yEMcciALMc0"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
