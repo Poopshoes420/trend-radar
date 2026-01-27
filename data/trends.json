@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Beware of cat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo9swl/beware_of_cat/"
+  },
+  {
     "topic": "An Amazon review for a food thermometer",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
-  },
-  {
-    "topic": "Beware of cat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo9swl/beware_of_cat/"
   },
   {
     "topic": "Snowplow vs Dogs",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
   },
   {
-    "topic": "YouTube keeps on recommending 10+ year old videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
-  },
-  {
     "topic": "Another gift farming stream. This time they\u2019re prank calling 9-1-1.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
+  },
+  {
+    "topic": "YouTube keeps on recommending 10+ year old videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
   },
   {
     "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnozxa/volkswagen_considers_pulling_out_of_us_factory/"
   },
   {
-    "topic": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
-  },
-  {
     "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
+  },
+  {
+    "topic": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
   },
   {
     "topic": "John Stamos Posts About ICE on Instagram",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo2isr/why_success_was_the_worst_thing_to_happen_to/"
   },
   {
+    "topic": "i-dle (\uc544\uc774\ub4e4) 'Mono (Feat. skaiwater)' Official Music Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 231,125 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
+  },
+  {
     "topic": "I'm On Observation Duty 8",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 431,910 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 449,879 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 440,943 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 445,851 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 391,121 views \u2022 ~684m old",
+    "why": "Trending on YouTube \u2022 391,153 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,266 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 55,855 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,212 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 26,887 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
-  },
-  {
-    "topic": "Jay Montana - \"Did My Best\" (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 9,430 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=f_LGqvTOC2M"
   },
   {
     "topic": "My Cousin Vinny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~18m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~50m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
