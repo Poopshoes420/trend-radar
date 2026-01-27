@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
   },
   {
+    "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo94bw/whats_going_on_with_youtube_almost_every_link/"
+  },
+  {
     "topic": "Another gift farming stream. This time they\u2019re prank calling 9-1-1.",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
   },
   {
-    "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
+    "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo94bw/whats_going_on_with_youtube_almost_every_link/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
   },
   {
     "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,125 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 279,888 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 449,879 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 461,014 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 445,851 views \u2022 ~693m old",
+    "why": "Trending on YouTube \u2022 449,801 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
-  },
-  {
-    "topic": "I want Spaghetti tualetti brainrot",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 391,153 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
   },
   {
     "topic": "A new Kamen Rider AGITO movie\u2502Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,855 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 57,923 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,887 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 27,341 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~50m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
