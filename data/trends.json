@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qog1x5/carney_stands_by_speech_despite_us_claims/"
   },
   {
-    "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
-  },
-  {
     "topic": "Carney says he told Trump 'I meant what I said in Davos,' contradicting U.S. Treasury Secretary Scott Bessent",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qoiga0/carney_says_he_told_trump_i_meant_what_i_said_in/"
+  },
+  {
+    "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
   },
   {
     "topic": "Canada could gain nearly 7% in real GDP by removing internal trade barriers, says IMF",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qofnxg/valve_corporation_will_face_a_656m_lawsuit_in_the/"
   },
   {
-    "topic": "Emberville: Official Announcement Trailer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qogphf/emberville_official_announcement_trailer/"
-  },
-  {
     "topic": "I FREAKING DID IT, TOOK ME 10 TRIES BUT I GOT THE STUPID ACHIEVEMENT (frostpunk)",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qom065/i_freaking_did_it_took_me_10_tries_but_i_got_the/"
   },
   {
+    "topic": "Emberville: Official Announcement Trailer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qogphf/emberville_official_announcement_trailer/"
+  },
+  {
     "topic": "Marvel Television\u2019s Daredevil: Born Again Season 2 | Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,036,595 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 1,157,506 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,345,877 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 2,379,166 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 373,518 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 401,970 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u9E9-iGwK_4"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,604 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 65,309 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YsmM-SAp1B8"
+  },
+  {
+    "topic": "Emberville: Official Announcement Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 47,796 views \u2022 ~289m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LnJ2XrjLqqI"
   },
   {
     "topic": "Saint Steve Irwin",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,964 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 19,768 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kb15eeqL5lw"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   }
 ]
