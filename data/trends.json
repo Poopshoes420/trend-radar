@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
   },
   {
+    "topic": "Yes, thats the StringStation 5 right there.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoddsx/yes_thats_the_stringstation_5_right_there/"
+  },
+  {
     "topic": "Found this after he died. Kinda funny now.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
-  },
-  {
-    "topic": "Snowplow vs Dogs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
   },
   {
     "topic": "Please go and report this idiot",
@@ -54,24 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnzkkt/please_go_and_report_this_idiot/"
   },
   {
-    "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo94bw/whats_going_on_with_youtube_almost_every_link/"
-  },
-  {
-    "topic": "The way I watch YouTube has completely changed in the last few years, and I'm not sure if it's just me.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
-  },
-  {
     "topic": "How do i get past this without showing yt my face or id",
     "sources": [
       "reddit"
@@ -81,13 +63,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo590r/how_do_i_get_past_this_without_showing_yt_my_face/"
   },
   {
-    "topic": "YouTube keeps on recommending 10+ year old videos",
+    "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo94bw/whats_going_on_with_youtube_almost_every_link/"
+  },
+  {
+    "topic": "YouTube is actively forcing users to have an account in order to watch videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qodi4x/youtube_is_actively_forcing_users_to_have_an/"
+  },
+  {
+    "topic": "The way I watch YouTube has completely changed in the last few years, and I'm not sure if it's just me.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
   },
   {
     "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
@@ -108,24 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
-  },
-  {
-    "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnozxa/volkswagen_considers_pulling_out_of_us_factory/"
-  },
-  {
     "topic": "Europe accelerates push for military independence from US",
     "sources": [
       "reddit"
@@ -135,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo9hgr/europe_accelerates_push_for_military_independence/"
   },
   {
-    "topic": "John Stamos Posts About ICE on Instagram",
+    "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qo2p7x/john_stamos_posts_about_ice_on_instagram/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
+  },
+  {
+    "topic": "Workers from Bangladesh sought jobs in Russia but got sent to combat in Ukraine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo7mrv/workers_from_bangladesh_sought_jobs_in_russia_but/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -151,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn8zif/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "Highguard manages almost 100k Steam players on day one, amidst over 13k negative reviews",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qocu4c/highguard_manages_almost_100k_steam_players_on/"
   },
   {
     "topic": "The Sims 4's most notorious sex mod gets launched 400,000 times a day, which is more people than I realized were even playing The Sims every day",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 409,567 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 933,023 views \u2022 ~276m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
-  },
-  {
-    "topic": "I'm On Observation Duty 8",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 479,616 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
     "topic": "A new Kamen Rider AGITO movie\u2502Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,567 views \u2022 ~574m old",
+    "why": "Trending on YouTube \u2022 65,883 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,099 views \u2022 ~644m old",
+    "why": "Trending on YouTube \u2022 29,034 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
