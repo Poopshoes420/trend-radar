@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qob6xy/i_think_the_last_one_was_trying_so_hard_not_to/"
   },
   {
-    "topic": "Dental procedure, Make sure not to suck.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoe81o/dental_procedure_make_sure_not_to_suck/"
-  },
-  {
     "topic": "Can you open the gate and let me out? Please??",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qojrvf/can_you_open_the_gate_and_let_me_out_please/"
+  },
+  {
+    "topic": "Dental procedure, Make sure not to suck.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoe81o/dental_procedure_make_sure_not_to_suck/"
   },
   {
     "topic": "How are these people able to consume such a large amount of calorie-dense food in one sitting, especially this person and still remain slim.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoj2xm/disable_this_asap_if_you_care_about_youtube_music/"
   },
   {
-    "topic": "Please go and report this idiot",
+    "topic": "Found a larger youtuber with a 112K subs stealing from a smaller creator.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnzkkt/please_go_and_report_this_idiot/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoloq5/found_a_larger_youtuber_with_a_112k_subs_stealing/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
   },
   {
-    "topic": "Canada could gain nearly 7% in real GDP by removing internal trade barriers, says IMF",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qohi2a/canada_could_gain_nearly_7_in_real_gdp_by/"
-  },
-  {
     "topic": "Carney says he told Trump 'I meant what I said in Davos,' contradicting U.S. Treasury Secretary Scott Bessent",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qoiga0/carney_says_he_told_trump_i_meant_what_i_said_in/"
+  },
+  {
+    "topic": "Canada could gain nearly 7% in real GDP by removing internal trade barriers, says IMF",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qohi2a/canada_could_gain_nearly_7_in_real_gdp_by/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,35 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qom065/i_freaking_did_it_took_me_10_tries_but_i_got_the/"
   },
   {
-    "topic": "i-dle (\uc544\uc774\ub4e4) 'Mono (Feat. skaiwater)' Official Music Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,265,708 views \u2022 ~593m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
-  },
-  {
     "topic": "Marvel Television\u2019s Daredevil: Born Again Season 2 | Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 856,827 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 1,036,595 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
+  },
+  {
+    "topic": "i-dle (\uc544\uc774\ub4e4) 'Mono (Feat. skaiwater)' Official Music Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 2,345,877 views \u2022 ~627m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
   },
   {
     "topic": "Helldivers 2 \u2013 Siege Breakers Warbond",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 321,962 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 373,518 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u9E9-iGwK_4"
+  },
+  {
+    "topic": "Terraria - Update 1.4.5 Launch Trailer | PS4 Games",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,604 views \u2022 ~267m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YsmM-SAp1B8"
+  },
+  {
+    "topic": "Saint Steve Irwin",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 17,964 views \u2022 ~270m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Kb15eeqL5lw"
   },
   {
     "topic": "My Cousin Vinny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   }
 ]
