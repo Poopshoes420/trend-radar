@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
   },
   {
-    "topic": "Something educational",
+    "topic": "Beware of cat",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnuor6/something_educational/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo9swl/beware_of_cat/"
   },
   {
     "topic": "Please go and report this idiot",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
   },
   {
-    "topic": "Another day, another ad block war happening behind the curtain.",
+    "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo94bw/whats_going_on_with_youtube_almost_every_link/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnozxa/volkswagen_considers_pulling_out_of_us_factory/"
   },
   {
+    "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
+  },
+  {
     "topic": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
-  },
-  {
-    "topic": "Trump raises US tariffs on South Korea imports to 25%",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnxnrp/trump_raises_us_tariffs_on_south_korea_imports_to/"
   },
   {
     "topic": "Workers from Bangladesh sought jobs in Russia but got sent to combat in Ukraine",
@@ -171,36 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo1qz9/can_we_stop_w_the_destiny_style_ui_floating/"
   },
   {
-    "topic": "Dead Space if it was good",
+    "topic": "Why success was the worst thing to happen to Prison Architect maker Introversion Software",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnlzvr/dead_space_if_it_was_good/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo2isr/why_success_was_the_worst_thing_to_happen_to/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | Maybe HighGuard Later | #ILoveHatingOnNewGamesBecauseTheyAreNew #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 928,773 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 974,058 views \u2022 ~120m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qOVEYk2f_h8"
-  },
-  {
-    "topic": "This New Horror Game is Terrifying",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 594,148 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
   },
   {
     "topic": "I'm On Observation Duty 8",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 404,045 views \u2022 ~516m old",
+    "why": "Trending on YouTube \u2022 423,286 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 434,558 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 438,322 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 391,087 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 391,100 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 212,949 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 223,770 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jp0-psVMD1k"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,163 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 50,266 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,932 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 25,829 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,147 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 9,353 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_LGqvTOC2M"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~4m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~46m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
