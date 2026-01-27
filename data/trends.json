@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoepco/anyone_2026_im_sick_of_this/"
   },
   {
+    "topic": "Nothing is sacred anymore, YouTube is putting ads in the middle of songs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qos7lk/nothing_is_sacred_anymore_youtube_is_putting_ads/"
+  },
+  {
     "topic": "How do i get past this without showing yt my face or id",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo590r/how_do_i_get_past_this_without_showing_yt_my_face/"
   },
   {
-    "topic": "chatgpt speak is ruining youtube scripts",
+    "topic": "Polish President Karol Nawrocki has said that Auschwitz \u201cmight not have happened\u201d if the world had reacted sooner to Nazi crimes in occupied Poland, accusing Western Europe of indifference in the early years of World War II.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qogvdb/chatgpt_speak_is_ruining_youtube_scripts/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qoqesc/polish_president_karol_nawrocki_has_said_that/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Polish President Karol Nawrocki has said that Auschwitz \u201cmight not have happened\u201d if the world had reacted sooner to Nazi crimes in occupied Poland, accusing Western Europe of indifference in the early years of World War II.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qoqesc/polish_president_karol_nawrocki_has_said_that/"
   },
   {
     "topic": "Carney stands by speech despite U.S. claims",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qoiga0/carney_says_he_told_trump_i_meant_what_i_said_in/"
   },
   {
-    "topic": "\u2018Abdication\u2019: Trump takes US out of Paris climate agreement for a second time",
+    "topic": "France to ban officials from US video tools including Zoom, Teams",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qokx47/abdication_trump_takes_us_out_of_paris_climate/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qos5ns/france_to_ban_officials_from_us_video_tools/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,798,200 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 1,882,904 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 558,918 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 560,208 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YlGH0s2jAYM"
-  },
-  {
-    "topic": "Helldivers 2 \u2013 Siege Breakers Warbond",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 535,560 views \u2022 ~531m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u9E9-iGwK_4"
   },
   {
     "topic": "Warhammer 40,000: Dawn of War 4 \u2013 Official Orks Faction Trailer | IGN First",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 348,587 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 389,021 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UUHwQRrlh1g"
+  },
+  {
+    "topic": "Helldivers 2 \u2013 Siege Breakers Warbond",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 553,248 views \u2022 ~559m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u9E9-iGwK_4"
   },
   {
     "topic": "Honest Trailers | The Lord of the Rings: The Return of the King",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,256 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 131,980 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oJ7mRS5XZZY"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,795 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 184,927 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nVvaCe4esCQ"
+  },
+  {
+    "topic": "Daredevil Born Again Season 2 Trailer BREAKDOWN - Marvel Easter Eggs You Missed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 27,778 views \u2022 ~180m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7I5xBH9ZGy4"
   },
   {
     "topic": "Daredevil Born Again Season 2 Trailer 2026: Jessica Jones & Avengers Doomsday Easter Eggs!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,405 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 43,026 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t0Jpd1XNLXk"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,192 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 29,067 views \u2022 ~321m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rnfTmSAnS3c"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,617 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 35,755 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kb15eeqL5lw"
   }
 ]
