@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoddsx/yes_thats_the_stringstation_5_right_there/"
   },
   {
+    "topic": "Torta Lover",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qogfp9/torta_lover/"
+  },
+  {
     "topic": "I think the last one was trying so hard not to faint \ud83d\ude02\ud83d\ude02\ud83d\ude02",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qob6xy/i_think_the_last_one_was_trying_so_hard_not_to/"
-  },
-  {
-    "topic": "An Amazon review for a food thermometer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
   },
   {
     "topic": "How do i get past this without showing yt my face or id",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoexad/inappropriate_ads_need_to_be_regulated_nsfwish/"
   },
   {
-    "topic": "YouTube is actively forcing users to have an account in order to watch videos",
+    "topic": "The amount of bot / AI comments in videos about the current situation in Minnesota is absurd",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qodi4x/youtube_is_actively_forcing_users_to_have_an/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo9j4h/the_amount_of_bot_ai_comments_in_videos_about_the/"
   },
   {
     "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Carney stands by speech despite U.S. claims",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qog1x5/carney_stands_by_speech_despite_us_claims/"
+  },
+  {
     "topic": "Europe accelerates push for military independence from US",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8qji/xi_jinping_says_china_seeks_to_uphold_unbased/"
-  },
-  {
-    "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qnm0fi/the_sims_4s_most_notorious_sex_mod_gets_launched/"
   },
   {
-    "topic": "Can We Stop w/ The \"Destiny\" Style UI / Floating Circle It's So Bad. [Console]",
+    "topic": "Emberville: Official Announcement Trailer",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo1qz9/can_we_stop_w_the_destiny_style_ui_floating/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qogphf/emberville_official_announcement_trailer/"
   },
   {
     "topic": "i-dle (\uc544\uc774\ub4e4) 'Mono (Feat. skaiwater)' Official Music Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,641,178 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 1,734,841 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
+  },
+  {
+    "topic": "Worst game ever made",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 532,503 views \u2022 ~650m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yEMcciALMc0"
   },
   {
     "topic": "My Cousin Vinny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~357m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
