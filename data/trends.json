@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
   },
   {
-    "topic": "Snowplow vs Dogs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
-  },
-  {
     "topic": "Beware of cat",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo9swl/beware_of_cat/"
+  },
+  {
+    "topic": "Snowplow vs Dogs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
   },
   {
     "topic": "Please go and report this idiot",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnozxa/volkswagen_considers_pulling_out_of_us_factory/"
-  },
-  {
     "topic": "\u2018Mother of all deals\u2019: EU and India sign free trade agreement",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo95l6/mother_of_all_deals_eu_and_india_sign_free_trade/"
+  },
+  {
+    "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnozxa/volkswagen_considers_pulling_out_of_us_factory/"
   },
   {
     "topic": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
   },
   {
-    "topic": "Workers from Bangladesh sought jobs in Russia but got sent to combat in Ukraine",
+    "topic": "Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo7mrv/workers_from_bangladesh_sought_jobs_in_russia_but/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
   },
   {
     "topic": "John Stamos Posts About ICE on Instagram",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qo2isr/why_success_was_the_worst_thing_to_happen_to/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | Maybe HighGuard Later | #ILoveHatingOnNewGamesBecauseTheyAreNew #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 974,058 views \u2022 ~120m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qOVEYk2f_h8"
-  },
-  {
     "topic": "I'm On Observation Duty 8",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 423,286 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 431,910 views \u2022 ~580m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 438,322 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 440,943 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
   },
   {
@@ -208,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 391,100 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 391,121 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
-  },
-  {
-    "topic": "There\u2019s Anomalies In This Attic\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 223,770 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jp0-psVMD1k"
   },
   {
     "topic": "A new Kamen Rider AGITO movie\u2502Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,266 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 52,266 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,829 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 26,212 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
@@ -240,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,353 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 9,430 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_LGqvTOC2M"
+  },
+  {
+    "topic": "My Cousin Vinny",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~18m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
     "topic": "Mission: Impossible -- Fallout",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~46m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
