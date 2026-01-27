@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "An Amazon review for a food thermometer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
-  },
-  {
     "topic": "Yes, thats the StringStation 5 right there.",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoddsx/yes_thats_the_stringstation_5_right_there/"
+  },
+  {
+    "topic": "An Amazon review for a food thermometer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnvad0/an_amazon_review_for_a_food_thermometer/"
   },
   {
     "topic": "Found this after he died. Kinda funny now.",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qntzca/found_this_after_he_died_kinda_funny_now/"
   },
   {
-    "topic": "Please go and report this idiot",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnzkkt/please_go_and_report_this_idiot/"
-  },
-  {
     "topic": "How do i get past this without showing yt my face or id",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo590r/how_do_i_get_past_this_without_showing_yt_my_face/"
+  },
+  {
+    "topic": "Please go and report this idiot",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnzkkt/please_go_and_report_this_idiot/"
   },
   {
     "topic": "What's going on with Youtube? Almost every link shows the following error (Goes away when you refresh)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8o2a/microsoft_gave_fbi_bitlocker_encryption_keys/"
   },
   {
-    "topic": "Workers from Bangladesh sought jobs in Russia but got sent to combat in Ukraine",
+    "topic": "Xi Jinping says China seeks to uphold UN-based world order",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo7mrv/workers_from_bangladesh_sought_jobs_in_russia_but/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo8qji/xi_jinping_says_china_seeks_to_uphold_unbased/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 933,023 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 1,275,828 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,883 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 68,301 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SGqE1goUG8g"
-  },
-  {
-    "topic": "Screwly G - \u201cMissing The Old Me\u201d (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 29,034 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
     "topic": "My Cousin Vinny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C_ND1eI8Y9w"
   }
 ]
