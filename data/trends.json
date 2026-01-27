@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qofux7/how_are_these_people_able_to_consume_such_a_large/"
   },
   {
+    "topic": "When you make a typo in a search bar",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
+  },
+  {
     "topic": "\"Anyone 2026?\" I'm sick of this",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qo590r/how_do_i_get_past_this_without_showing_yt_my_face/"
-  },
-  {
-    "topic": "When you make a typo in a search bar",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
   },
   {
     "topic": "Disable this ASAP, if you care about YouTube music and audio",
@@ -184,55 +184,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,487,843 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 1,593,714 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sBVjIlTjoIk"
   },
   {
-    "topic": "i-dle (\uc544\uc774\ub4e4) 'Mono (Feat. skaiwater)' Official Music Video",
+    "topic": "Don't Call Me Noob T-T",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,463,468 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DYgE3SGPEqk"
+    "why": "Trending on YouTube \u2022 558,042 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YlGH0s2jAYM"
   },
   {
     "topic": "Helldivers 2 \u2013 Siege Breakers Warbond",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 465,759 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 488,874 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u9E9-iGwK_4"
+  },
+  {
+    "topic": "Warhammer 40,000: Dawn of War 4 \u2013 Official Orks Faction Trailer | IGN First",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 270,154 views \u2022 ~267m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UUHwQRrlh1g"
+  },
+  {
+    "topic": "Virtual Boy \u2013 Nintendo Classics \u2013 Overview Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 162,699 views \u2022 ~446m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nVvaCe4esCQ"
   },
   {
     "topic": "Honest Trailers | The Lord of the Rings: The Return of the King",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,710 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 74,700 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oJ7mRS5XZZY"
   },
   {
-    "topic": "Terraria - Update 1.4.5 Launch Trailer | PS4 Games",
+    "topic": "Daredevil Born Again Season 2 Trailer 2026: Jessica Jones & Avengers Doomsday Easter Eggs!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,099 views \u2022 ~358m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YsmM-SAp1B8"
-  },
-  {
-    "topic": "Emberville: Official Announcement Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 62,092 views \u2022 ~358m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LnJ2XrjLqqI"
+    "why": "Trending on YouTube \u2022 25,018 views \u2022 ~176m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=t0Jpd1XNLXk"
   },
   {
     "topic": "I LOVE BOOSTERS - Official Teaser Trailer - In Theaters May 22",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,908 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 16,986 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rnfTmSAnS3c"
   },
   {
@@ -240,15 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,437 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 27,930 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kb15eeqL5lw"
-  },
-  {
-    "topic": "My Cousin Vinny",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~615m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_uihXIKNP7c"
   }
 ]
