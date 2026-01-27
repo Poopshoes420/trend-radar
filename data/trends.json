@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnsxnc/youtube_keeps_on_recommending_10_year_old_videos/"
   },
   {
-    "topic": "Another gift farming stream. This time they\u2019re prank calling 9-1-1.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
-  },
-  {
     "topic": "The way I watch YouTube has completely changed in the last few years, and I'm not sure if it's just me.",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnvfuq/the_way_i_watch_youtube_has_completely_changed_in/"
   },
   {
-    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
+    "topic": "Another gift farming stream. This time they\u2019re prank calling 9-1-1.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnmez1/another_gift_farming_stream_this_time_theyre/"
   },
   {
     "topic": "Another day, another ad block war happening behind the curtain.",
@@ -90,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qnfj4k/another_day_another_ad_block_war_happening_behind/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1432, Part 1 (Thread #1579)",
+    "topic": "Has anyone else noticed this trend of \u201cremember this old controversial creator? Their life is ruined now\u201d videos?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qn6yrb/has_anyone_else_noticed_this_trend_of_remember/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1433, Part 1 (Thread #1580)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnfvf2/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 389,928 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 390,768 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,207 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 305,816 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R4xIBVOZWPQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 290,634 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 354,710 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
   },
   {
@@ -208,39 +208,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,938 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 232,762 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
+  },
+  {
+    "topic": "I'm On Observation Duty 8",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 153,403 views \u2022 ~188m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
     "topic": "I Found Caseoh in Quarantine Zone  -  Part 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,095 views \u2022 ~620m old",
+    "why": "Trending on YouTube \u2022 357,939 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=480tBnzK1tI"
-  },
-  {
-    "topic": "Anissa & Lucan Gameplay Trailer | Invincible VS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 67,328 views \u2022 ~560m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yZbexxHip4w"
   },
   {
     "topic": "A Knight Of The Seven Kingdoms Episode 3 Trailer: Dunk vs Aerion & House of the Dragon Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,696 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 57,784 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_ut22lhPJA"
+  },
+  {
+    "topic": "Anissa & Lucan Gameplay Trailer | Invincible VS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 71,820 views \u2022 ~629m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yZbexxHip4w"
   },
   {
     "topic": "15 HIDDEN DETAILS in SUPER MARIO GALAXY MOVIE \ud83c\udf1f Yoshi's Trailer (Analysis) [2026]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,718 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 49,277 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3gmkCwwv1No"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,297 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 33,349 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gONFPOVkXiI"
   },
   {
@@ -256,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,146 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 30,459 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wDV1PQ5gMOs"
   },
   {
-    "topic": "WWE 2K26 TEASER BREAKDOWN! HUGE DETAILS REVEALED!",
+    "topic": "Screwly G - \u201cMissing The Old Me\u201d (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,811 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nh2v-eiLVZs"
+    "why": "Trending on YouTube \u2022 9,034 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
+  },
+  {
+    "topic": "Jay Montana - \"Did My Best\" (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 4,786 views \u2022 ~270m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=f_LGqvTOC2M"
   }
 ]
