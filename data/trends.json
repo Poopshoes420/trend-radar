@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnsf42/snowplow_vs_dogs/"
   },
   {
-    "topic": "Something educational",
+    "topic": "Mom bought this for my brother, can't stop laughing now",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qnuor6/something_educational/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qo7ly6/mom_bought_this_for_my_brother_cant_stop_laughing/"
   },
   {
     "topic": "Please go and report this idiot",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo38m6/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Ted Cruz says Navarro, JD Vance blocked India trade deal; mocks Trump tariffs in leaked audio",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo6iut/ted_cruz_says_navarro_jd_vance_blocked_india/"
+  },
+  {
     "topic": "Volkswagen considers pulling out of US factory plans over tariffs",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qnqji6/us_officially_out_of_who_leaving_hundreds_of/"
-  },
-  {
-    "topic": "Ted Cruz says Navarro, JD Vance blocked India trade deal; mocks Trump tariffs in leaked audio",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qo6iut/ted_cruz_says_navarro_jd_vance_blocked_india/"
   },
   {
     "topic": "Trump raises US tariffs on South Korea imports to 25%",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 519,031 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 539,391 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1t7VlZPl_AU"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 410,919 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 418,468 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10QBu2FKHhA"
-  },
-  {
-    "topic": "Spending $978,236,156 Getting The HYDRA DRAGON CANNELONI..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 429,737 views \u2022 ~512m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R4xIBVOZWPQ"
   },
   {
     "topic": "I'm On Observation Duty 8",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 320,847 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 344,292 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oylnqAzTV08"
   },
   {
@@ -216,31 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 391,036 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 391,077 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__06wWeDoMg"
+  },
+  {
+    "topic": "There\u2019s Anomalies In This Attic\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 181,854 views \u2022 ~558m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jp0-psVMD1k"
   },
   {
     "topic": "A Knight Of The Seven Kingdoms Episode 3 Trailer: Dunk vs Aerion & House of the Dragon Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,844 views \u2022 ~686m old",
+    "why": "Trending on YouTube \u2022 80,308 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_ut22lhPJA"
-  },
-  {
-    "topic": "Bone Thugs-N-Harmony - Road Nights (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 43,547 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gONFPOVkXiI"
   },
   {
     "topic": "Screwly G - \u201cMissing The Old Me\u201d (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,223 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 21,609 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dhkbndx9FoQ"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,436 views \u2022 ~689m old",
+    "why": "Trending on YouTube \u2022 39,236 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wDV1PQ5gMOs"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,971 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 8,450 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_LGqvTOC2M"
   }
 ]
