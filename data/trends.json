@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp2kd2/the_perfect_spot/"
   },
   {
-    "topic": "Plow action",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoxbuo/plow_action/"
-  },
-  {
     "topic": "Dark Humor.jpeg",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp7bwp/dark_humorjpeg/"
+  },
+  {
+    "topic": "Plow action",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoxbuo/plow_action/"
   },
   {
     "topic": "When you make a typo in a search bar",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,031,112 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 1,038,771 views \u2022 ~155m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,694,428 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 1,694,722 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tj96Gm734v4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,195,652 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 1,203,498 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Dpj2aFmWt8"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,584 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 283,208 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z7w_STB9AFk"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 204,232 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 207,540 views \u2022 ~618m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VY7MnoLM2zg"
-  },
-  {
-    "topic": "There\u2019s Always Someone Watching Me\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 229,030 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bL885gbD3es"
   },
   {
     "topic": "DAREDEVIL BORN AGAIN TRAILER BREAKDOWN | Season 2 | Live Reaction",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,513 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 95,729 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KOrLWiHLFHY"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,114 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 64,328 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dDa6vzJeDu8"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,932 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 31,101 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZrtYLVi83h0"
   }
 ]
