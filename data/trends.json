@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp3xam/mission_cancelled/"
   },
   {
-    "topic": "You are the dancing queen...\ud83c\udfb6",
+    "topic": "Plow action",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpc7rs/you_are_the_dancing_queen/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoxbuo/plow_action/"
   },
   {
     "topic": "When you make a typo in a search bar",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp1czc/i_hate_how_you_watch_one_video_and_your_whole/"
   },
   {
-    "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp2pel/ecuador_says_ice_agent_tried_to_invade_sovereign/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1434, Part 1 (Thread #1581)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp2pel/ecuador_says_ice_agent_tried_to_invade_sovereign/"
   },
   {
     "topic": "CSIS: Russia has lost 1.2 million soldiers, twice as many as Ukraine",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
   },
   {
-    "topic": "France to ban officials from US video tools including Zoom, Teams",
+    "topic": "Russia says it's ready for Zelensky-Putin meeting \u2014 but only if Ukraine's president travels to Moscow",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qos5ns/france_to_ban_officials_from_us_video_tools/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpbyyf/russia_says_its_ready_for_zelenskyputin_meeting/"
   },
   {
     "topic": "Mark Carney Says U.S. Trade Talks Will Continue Even Though There is \u2018Nearly Nothing Normal\u2019 in America Right Now",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,069,287 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 1,073,740 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,068 views \u2022 ~670m old",
+    "why": "Trending on YouTube \u2022 52,013 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZrtYLVi83h0"
   }
 ]
