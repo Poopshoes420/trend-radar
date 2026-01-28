@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpd4jd/young_man_in_prison/"
   },
   {
+    "topic": "United opinion",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpdwnh/united_opinion/"
+  },
+  {
     "topic": "Drama is a luxury",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoya79/drama_is_a_luxury/"
   },
   {
-    "topic": "Mission cancelled",
+    "topic": "Comparing the comments of Tyler Oliveira's \"Most Racist White People\" video vs his \"Most Racist Black People\" video.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp3xam/mission_cancelled/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpfqof/comparing_the_comments_of_tyler_oliveiras_most/"
   },
   {
     "topic": "YouTube think they're being real slick with this one...",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoqvac/gem_alert/"
   },
   {
-    "topic": "I hate how you watch one video and your whole feed becomes THAT genre",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp1czc/i_hate_how_you_watch_one_video_and_your_whole/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1434, Part 1 (Thread #1581)",
     "sources": [
       "reddit"
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
   },
   {
-    "topic": "Pentagon warns future wars may hit US soil as 'direct military threats' grow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpd1n7/pentagon_warns_future_wars_may_hit_us_soil_as/"
-  },
-  {
     "topic": "Iranian teen motorcycle influencer \u2018baby rider\u2019 shot dead during anti-government protests",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpcl4o/iranian_teen_motorcycle_influencer_baby_rider/"
   },
   {
-    "topic": "Amazon confirms 16,000 job cuts after accidental email",
+    "topic": "Mark Carney Says U.S. Trade Talks Will Continue Even Though There is \u2018Nearly Nothing Normal\u2019 in America Right Now",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpcimk/amazon_confirms_16000_job_cuts_after_accidental/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp7hwv/mark_carney_says_us_trade_talks_will_continue/"
+  },
+  {
+    "topic": "Russia says it's ready for Zelensky-Putin meeting \u2014 but only if Ukraine's president travels to Moscow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpgez6/russia_says_its_ready_for_zelenskyputin_meeting/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpfn0c/female_capcom_staff_had_a_mission_to_make_leon/"
   },
   {
-    "topic": "Singaporean boy who recreated ISIS attacks, executions in Roblox and Gorebox gets restriction order",
+    "topic": "Top 10 best selling games in the US in 2025",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qp4chl/singaporean_boy_who_recreated_isis_attacks/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpfsp3/top_10_best_selling_games_in_the_us_in_2025/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS | BIRD CITYYYYYYYYYYYY | CAW CAW! | #SheBeakMyBirdTillIEgg #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,097,212 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 1,105,343 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
+  },
+  {
+    "topic": "Holy sh*t.. This is embarrassing",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 231,364 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KHyd-H5RtG0"
   },
   {
     "topic": "Seungmin \"\uc81c\uc790\ub9ac\uac78\uc74c (Still here)\" | [Stray Kids : SKZ-RECORD]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,056 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 191,886 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tsr3lBEn9ww"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,273 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 52,202 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jolaO2Z6xCM"
   }
 ]
