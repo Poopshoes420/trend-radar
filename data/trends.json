@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "France to ban officials from US video tools including Zoom, Teams",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qos5ns/france_to_ban_officials_from_us_video_tools/"
-  },
-  {
     "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp2pel/ecuador_says_ice_agent_tried_to_invade_sovereign/"
+  },
+  {
+    "topic": "France to ban officials from US video tools including Zoom, Teams",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qos5ns/france_to_ban_officials_from_us_video_tools/"
   },
   {
     "topic": "Polish President Karol Nawrocki has said that Auschwitz \u201cmight not have happened\u201d if the world had reacted sooner to Nazi crimes in occupied Poland, accusing Western Europe of indifference in the early years of World War II.",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qom065/i_freaking_did_it_took_me_10_tries_but_i_got_the/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | ARC RAIDERS | BIRD CITYYYYYYYYYYYY | CAW CAW! | #SheBeakMyBirdTillIEgg #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 852,371 views \u2022 ~21m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
+  },
+  {
     "topic": "TACO TUESDAY",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,692,579 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 1,693,004 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tj96Gm734v4"
   },
   {
@@ -192,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,137,081 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 1,148,451 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Dpj2aFmWt8"
-  },
-  {
-    "topic": "Highguard",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 906,644 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Zfk7okTBAs8"
   },
   {
     "topic": "We Can't Escape This Cursed Mall",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 632,455 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 649,573 views \u2022 ~620m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zS7cErGF_5s"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 264,349 views \u2022 ~516m old",
+    "why": "Trending on YouTube \u2022 268,400 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z7w_STB9AFk"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,015 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 184,804 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VY7MnoLM2zg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,652 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 206,409 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bL885gbD3es"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,100 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 84,685 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KOrLWiHLFHY"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,060 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 58,671 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dDa6vzJeDu8"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,090 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 19,824 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZrtYLVi83h0"
   }
 ]
