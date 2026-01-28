@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpbt73/absolutely_sick_of_all_the_upcoming_in_the/"
   },
   {
-    "topic": "YouTube quietly removed \u201cSort by: Upload date\u201d from search filters \u2013 and it\u2019s infuriating",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp66i5/youtube_quietly_removed_sort_by_upload_date_from/"
-  },
-  {
     "topic": "What is the purpose of these videos...?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpnrff/what_is_the_purpose_of_these_videos/"
+  },
+  {
+    "topic": "YouTube quietly removed \u201cSort by: Upload date\u201d from search filters \u2013 and it\u2019s infuriating",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp66i5/youtube_quietly_removed_sort_by_upload_date_from/"
   },
   {
     "topic": "US embassy removes flags with names of fallen Danish soldiers",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 534,819 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 667,610 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wWKSoxG1K7w"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 638,794 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 660,131 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KHyd-H5RtG0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 423,351 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 437,836 views \u2022 ~496m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tsr3lBEn9ww"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 356,206 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 371,895 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PQi8M7CJxhk"
+  },
+  {
+    "topic": "DTF St. Louis | Official Trailer | HBO Max",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 167,496 views \u2022 ~315m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
   },
   {
     "topic": "Becoming a BABY BLOOP in Minecraft!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 223,752 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 240,374 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_18oWQwJvA"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,866 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 226,724 views \u2022 ~496m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jolaO2Z6xCM"
-  },
-  {
-    "topic": "DTF St. Louis | Official Trailer | HBO Max",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 125,808 views \u2022 ~288m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
   },
   {
     "topic": "Fallout - Official Dogmeat Trailer feat. Shroud",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,260 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 87,686 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPtu5elZ9Vo"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,548 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 40,679 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hSJ9KRwMp1s"
   }
 ]
