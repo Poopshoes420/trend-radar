@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "This will never get old \ud83e\udd23",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qplf7r/this_will_never_get_old/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "I'll wipe it off for you",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1434, Part 1 (Thread #1581)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "US embassy removes flags with names of fallen Danish soldiers",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpkkux/us_embassy_removes_flags_with_names_of_fallen/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1434, Part 1 (Thread #1581)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "CSIS: Russia has lost 1.2 million soldiers, twice as many as Ukraine",
@@ -171,60 +171,76 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpfn0c/female_capcom_staff_had_a_mission_to_make_leon/"
   },
   {
-    "topic": "GTA 6 fans reportedly faked Rockstar IDs and flew drones at windows to get gameplay footage \u201cUnfortunately, there are a number of crazy Rockstar fans\u201d",
+    "topic": "I took this landscape screenshot in Kingdom Come Deliverance 2. The enviroment in this game is so beautiful",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpeg33/gta_6_fans_reportedly_faked_rockstar_ids_and_flew/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qphgc7/i_took_this_landscape_screenshot_in_kingdom_come/"
   },
   {
     "topic": "Holy sh*t.. This is embarrassing",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 542,445 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 581,709 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KHyd-H5RtG0"
-  },
-  {
-    "topic": "Seungmin \"\uc81c\uc790\ub9ac\uac78\uc74c (Still here)\" | [Stray Kids : SKZ-RECORD]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 362,866 views \u2022 ~375m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Tsr3lBEn9ww"
   },
   {
     "topic": "Bruce Springsteen - Streets Of Minneapolis (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 199,048 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 320,696 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wWKSoxG1K7w"
   },
   {
-    "topic": "Motionless In White - Afraid of the Dark [Official Video]",
+    "topic": "Seungmin \"\uc81c\uc790\ub9ac\uac78\uc74c (Still here)\" | [Stray Kids : SKZ-RECORD]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,556 views \u2022 ~374m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jolaO2Z6xCM"
+    "why": "Trending on YouTube \u2022 383,149 views \u2022 ~408m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Tsr3lBEn9ww"
+  },
+  {
+    "topic": "TV Royale | Hero Goblins & Hero Mega Minion + Touchdown League",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 224,794 views \u2022 ~408m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iiTukGOCE5s"
   },
   {
     "topic": "Becoming a BABY BLOOP in Minecraft!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,309 views \u2022 ~374m old",
+    "why": "Trending on YouTube \u2022 195,071 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_18oWQwJvA"
+  },
+  {
+    "topic": "Motionless In White - Afraid of the Dark [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 193,454 views \u2022 ~408m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jolaO2Z6xCM"
+  },
+  {
+    "topic": "DTF St. Louis | Official Trailer | HBO Max",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,415 views \u2022 ~227m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
   },
   {
     "topic": "Fallout - Official Dogmeat Trailer feat. Shroud",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,346 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 69,181 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPtu5elZ9Vo"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,101 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 32,866 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hSJ9KRwMp1s"
   }
 ]
