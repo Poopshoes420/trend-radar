@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
   },
   {
-    "topic": "Gem Alert!",
+    "topic": "absolutely sick of all the \"upcoming\" in the beginning of so many videos, just show me the actual thing and not a 40 second teaser!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoqvac/gem_alert/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpbt73/absolutely_sick_of_all_the_upcoming_in_the/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1434, Part 1 (Thread #1581)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "CSIS: Russia has lost 1.2 million soldiers, twice as many as Ukraine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
-  },
-  {
     "topic": "Russia says it's ready for Zelensky-Putin meeting \u2014 but only if Ukraine's president travels to Moscow",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpgez6/russia_says_its_ready_for_zelenskyputin_meeting/"
+  },
+  {
+    "topic": "CSIS: Russia has lost 1.2 million soldiers, twice as many as Ukraine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
   },
   {
     "topic": "Mark Carney Says U.S. Trade Talks Will Continue Even Though There is \u2018Nearly Nothing Normal\u2019 in America Right Now",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp7hwv/mark_carney_says_us_trade_talks_will_continue/"
   },
   {
-    "topic": "Belarus joins Trump's 'Board of Peace,' raising eyebrows over its role",
+    "topic": "US embassy removes flags with names of fallen Danish soldiers",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp8sx5/belarus_joins_trumps_board_of_peace_raising/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpkkux/us_embassy_removes_flags_with_names_of_fallen/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,119,104 views \u2022 ~619m old",
+    "why": "Trending on YouTube \u2022 1,124,413 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 352,945 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 404,590 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KHyd-H5RtG0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 256,759 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 284,000 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tsr3lBEn9ww"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,582 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 127,028 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jolaO2Z6xCM"
+  },
+  {
+    "topic": "Fallout - Official Dogmeat Trailer feat. Shroud",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 39,938 views \u2022 ~209m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RPtu5elZ9Vo"
   },
   {
     "topic": "Bruce Springsteen - Streets Of Minneapolis (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,411 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 23,222 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wWKSoxG1K7w"
+  },
+  {
+    "topic": "John Summit - LIGHTS GO OUT (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,938 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hSJ9KRwMp1s"
   }
 ]
