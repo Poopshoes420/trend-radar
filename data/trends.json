@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoya79/drama_is_a_luxury/"
   },
   {
+    "topic": "Young man in prison",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpd4jd/young_man_in_prison/"
+  },
+  {
     "topic": "Mission cancelled",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp3xam/mission_cancelled/"
   },
   {
-    "topic": "Plow action",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoxbuo/plow_action/"
-  },
-  {
     "topic": "When you make a typo in a search bar",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
-  },
-  {
-    "topic": "Gem Alert!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoqvac/gem_alert/"
   },
   {
     "topic": "YouTube quietly removed \u201cSort by: Upload date\u201d from search filters \u2013 and it\u2019s infuriating",
@@ -81,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp3jj7/youtube_think_theyre_being_real_slick_with_this/"
   },
   {
+    "topic": "Gem Alert!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoqvac/gem_alert/"
+  },
+  {
     "topic": "I hate how you watch one video and your whole feed becomes THAT genre",
     "sources": [
       "reddit"
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp2pel/ecuador_says_ice_agent_tried_to_invade_sovereign/"
-  },
-  {
     "topic": "CSIS: Russia has lost 1.2 million soldiers, twice as many as Ukraine",
     "sources": [
       "reddit"
@@ -117,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
   },
   {
-    "topic": "Russia says it's ready for Zelensky-Putin meeting \u2014 but only if Ukraine's president travels to Moscow",
+    "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpbyyf/russia_says_its_ready_for_zelenskyputin_meeting/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp2pel/ecuador_says_ice_agent_tried_to_invade_sovereign/"
+  },
+  {
+    "topic": "Pentagon warns future wars may hit US soil as 'direct military threats' grow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpd1n7/pentagon_warns_future_wars_may_hit_us_soil_as/"
   },
   {
     "topic": "Mark Carney Says U.S. Trade Talks Will Continue Even Though There is \u2018Nearly Nothing Normal\u2019 in America Right Now",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn8zif/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Larian studio boss Swen Vincke thinks game reviewers should be graded by people similar to metacritic user scores",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpdmq1/larian_studio_boss_swen_vincke_thinks_game/"
+  },
+  {
     "topic": "Singaporean boy who recreated ISIS attacks, executions in Roblox and Gorebox gets restriction order",
     "sources": [
       "reddit"
@@ -162,37 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qp084h/gog_boss_admits_pulling_taiwanese_horror_title/"
   },
   {
-    "topic": "Why did shooters used to ship with a wide variety of game modes but now shooters only focus on a single game mode like Batte Royale or Extraction and that's somehow become a selling point?",
+    "topic": "GTA 6 fans reportedly faked Rockstar IDs and flew drones at windows to get gameplay footage \u201cUnfortunately, there are a number of crazy Rockstar fans\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qowq9s/why_did_shooters_used_to_ship_with_a_wide_variety/"
-  },
-  {
-    "topic": "I FREAKING DID IT, TOOK ME 10 TRIES BUT I GOT THE STUPID ACHIEVEMENT (frostpunk)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qom065/i_freaking_did_it_took_me_10_tries_but_i_got_the/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpeg33/gta_6_fans_reportedly_faked_rockstar_ids_and_flew/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS | BIRD CITYYYYYYYYYYYY | CAW CAW! | #SheBeakMyBirdTillIEgg #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,073,740 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 1,080,867 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
-  },
-  {
-    "topic": "Fallout Ep. 8: Season Finale Trailer 'Mr House' | Prime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 52,013 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZrtYLVi83h0"
   }
 ]
