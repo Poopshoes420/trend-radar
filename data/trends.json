@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Drama is a luxury",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoya79/drama_is_a_luxury/"
-  },
-  {
     "topic": "Young man in prison",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpd4jd/young_man_in_prison/"
+  },
+  {
+    "topic": "Drama is a luxury",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoya79/drama_is_a_luxury/"
   },
   {
     "topic": "Mission cancelled",
@@ -45,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp3xam/mission_cancelled/"
   },
   {
-    "topic": "When you make a typo in a search bar",
+    "topic": "YouTube think they're being real slick with this one...",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp3jj7/youtube_think_theyre_being_real_slick_with_this/"
   },
   {
     "topic": "YouTube quietly removed \u201cSort by: Upload date\u201d from search filters \u2013 and it\u2019s infuriating",
@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp66i5/youtube_quietly_removed_sort_by_upload_date_from/"
   },
   {
-    "topic": "YouTube think they're being real slick with this one...",
+    "topic": "When you make a typo in a search bar",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp3jj7/youtube_think_theyre_being_real_slick_with_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qop9c7/when_you_make_a_typo_in_a_search_bar/"
   },
   {
     "topic": "Gem Alert!",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
   },
   {
-    "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp2pel/ecuador_says_ice_agent_tried_to_invade_sovereign/"
-  },
-  {
     "topic": "Pentagon warns future wars may hit US soil as 'direct military threats' grow",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpd1n7/pentagon_warns_future_wars_may_hit_us_soil_as/"
+  },
+  {
+    "topic": "Iranian teen motorcycle influencer \u2018baby rider\u2019 shot dead during anti-government protests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpcl4o/iranian_teen_motorcycle_influencer_baby_rider/"
   },
   {
     "topic": "Mark Carney Says U.S. Trade Talks Will Continue Even Though There is \u2018Nearly Nothing Normal\u2019 in America Right Now",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qp4chl/singaporean_boy_who_recreated_isis_attacks/"
   },
   {
-    "topic": "GOG boss admits pulling Taiwanese horror title Devotion cost it \"credibility\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qp084h/gog_boss_admits_pulling_taiwanese_horror_title/"
-  },
-  {
     "topic": "GTA 6 fans reportedly faked Rockstar IDs and flew drones at windows to get gameplay footage \u201cUnfortunately, there are a number of crazy Rockstar fans\u201d",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpeg33/gta_6_fans_reportedly_faked_rockstar_ids_and_flew/"
   },
   {
+    "topic": "GOG boss admits pulling Taiwanese horror title Devotion cost it \"credibility\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qp084h/gog_boss_admits_pulling_taiwanese_horror_title/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS | BIRD CITYYYYYYYYYYYY | CAW CAW! | #SheBeakMyBirdTillIEgg #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,080,867 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 1,083,974 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
   }
 ]
