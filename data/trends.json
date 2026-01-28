@@ -1,5 +1,14 @@
 [
   {
+    "topic": "I'll wipe it off for you",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpasw7/ill_wipe_it_off_for_you/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qp3xam/mission_cancelled/"
   },
   {
-    "topic": "Plow action",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qoxbuo/plow_action/"
-  },
-  {
     "topic": "When you make a typo in a search bar",
     "sources": [
       "reddit"
@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qoqvac/gem_alert/"
   },
   {
-    "topic": "I hate how you watch one video and your whole feed becomes THAT genre",
+    "topic": "YouTube quietly removed \u201cSort by: Upload date\u201d from search filters \u2013 and it\u2019s infuriating",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp1czc/i_hate_how_you_watch_one_video_and_your_whole/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp66i5/youtube_quietly_removed_sort_by_upload_date_from/"
   },
   {
     "topic": "YouTube think they're being real slick with this one...",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp3jj7/youtube_think_theyre_being_real_slick_with_this/"
   },
   {
-    "topic": "YouTube quietly removed \u201cSort by: Upload date\u201d from search filters \u2013 and it\u2019s infuriating",
+    "topic": "I hate how you watch one video and your whole feed becomes THAT genre",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp66i5/youtube_quietly_removed_sort_by_upload_date_from/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qp1czc/i_hate_how_you_watch_one_video_and_your_whole/"
   },
   {
     "topic": "Ecuador Says ICE Agent Tried To Invade Sovereign Territory",
@@ -108,22 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp0tyi/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "France to ban officials from US video tools including Zoom, Teams",
+    "topic": "U.S. Embassy removed flags with the names of 44 Danish soldiers who died fighting for the U.S. in Afghanistan",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qos5ns/france_to_ban_officials_from_us_video_tools/"
-  },
-  {
-    "topic": "Polish President Karol Nawrocki has said that Auschwitz \u201cmight not have happened\u201d if the world had reacted sooner to Nazi crimes in occupied Poland, accusing Western Europe of indifference in the early years of World War II.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qoqesc/polish_president_karol_nawrocki_has_said_that/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpba79/us_embassy_removed_flags_with_the_names_of_44/"
   },
   {
     "topic": "CSIS: Russia has lost 1.2 million soldiers, twice as many as Ukraine",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qp90a8/csis_russia_has_lost_12_million_soldiers_twice_as/"
+  },
+  {
+    "topic": "France to ban officials from US video tools including Zoom, Teams",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qos5ns/france_to_ban_officials_from_us_video_tools/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,055,005 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 1,062,193 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4T3CenLkLM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,530 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 45,446 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZrtYLVi83h0"
   }
 ]
