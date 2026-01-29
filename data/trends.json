@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpuqwd/this_baby_photo/"
   },
   {
-    "topic": "United opinion",
+    "topic": "My 8 year old has discovered 3D printing",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpdwnh/united_opinion/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpyooo/my_8_year_old_has_discovered_3d_printing/"
   },
   {
     "topic": "We don't need to know every time one shows up on your feed.",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpq5f1/youtube_live_shorts_is_just_a_breeding_grounds/"
   },
   {
+    "topic": "Why are you recommending me a video if I can\u2019t even watch it?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qq0k35/why_are_you_recommending_me_a_video_if_i_cant/"
+  },
+  {
     "topic": "50% of this sub",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpp1at/50_of_this_sub/"
-  },
-  {
-    "topic": "A solution?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpuscn/a_solution/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1435, Part 1 (Thread #1582)",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn8zif/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "My wife telling me about her Sims mod",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq06m3/my_wife_telling_me_about_her_sims_mod/"
+  },
+  {
     "topic": "My Courier cosplay from Fallout New Vegas",
     "sources": [
       "reddit"
@@ -162,15 +171,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qprlad/dispatch_is_censored_on_nintendo_switch_due_to/"
   },
   {
-    "topic": "My wife telling me about her Sims mod",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq06m3/my_wife_telling_me_about_her_sims_mod/"
-  },
-  {
     "topic": "Larian studio boss Swen Vincke thinks game reviewers should be graded by people similar to metacritic user scores",
     "sources": [
       "reddit"
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 481,195 views \u2022 ~366m old",
+    "why": "Trending on YouTube \u2022 524,716 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=47isS1blUiA"
-  },
-  {
-    "topic": "$0 - $1T Only Using 8X LUCK in Steal a Brainrot..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 424,182 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xYH701ItKxg"
   },
   {
     "topic": "Bears Season is Off to a CRAZY Start! Wheel of MUT! Ep. #39",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,314 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 203,643 views \u2022 ~445m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HrLvQt1XS4"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,898 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 160,097 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lt9RmsrcX_8"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,249 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 174,620 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kwwdY1bp-Ck"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,878 views \u2022 ~366m old",
+    "why": "Trending on YouTube \u2022 54,698 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqEn-bmpV30"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,936 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 40,629 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DKtoN1B9NTY"
   }
 ]
