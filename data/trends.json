@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpzgjs/i_have_to_explain_to_my_child_that_she_absolutely/"
   },
   {
-    "topic": "Old Bud Light Commercial",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpqibe/old_bud_light_commercial/"
-  },
-  {
     "topic": "My 8 year old has discovered 3D printing",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpyooo/my_8_year_old_has_discovered_3d_printing/"
+  },
+  {
+    "topic": "Old Bud Light Commercial",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpqibe/old_bud_light_commercial/"
   },
   {
     "topic": "Why are you recommending me a video if I can\u2019t even watch it?",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq6pri/removal_of_flags_for_fallen_danish_soldiers_at_us/"
   },
   {
+    "topic": "Trump administration secretly met with Canadian Alberta separatists",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qqbpnj/trump_administration_secretly_met_with_canadian/"
+  },
+  {
     "topic": "Estonia warns Russian veterans could flood Europe after Ukraine war, urges EU entry ban",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq5271/german_leader_hails_europe_as_an_alternative_to/"
-  },
-  {
-    "topic": "China executes 11 members of Myanmar scam mafia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpycnu/china_executes_11_members_of_myanmar_scam_mafia/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq7rtc/lore_accurate_fallout_tv_show/"
   },
   {
-    "topic": "Dispatch Is Censored on Nintendo Switch Due to Platform 'Content Criteria', Developer Says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qprlad/dispatch_is_censored_on_nintendo_switch_due_to/"
-  },
-  {
     "topic": "More than a quarter of devs surveyed by GDC were laid off in the past two years, and half of them don\u2019t have a new job",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq9ahu/more_than_a_quarter_of_devs_surveyed_by_gdc_were/"
   },
   {
-    "topic": "Larian studio boss Swen Vincke thinks game reviewers should be graded by people similar to metacritic user scores",
+    "topic": "Dispatch Is Censored on Nintendo Switch Due to Platform 'Content Criteria', Developer Says",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpdmq1/larian_studio_boss_swen_vincke_thinks_game/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qprlad/dispatch_is_censored_on_nintendo_switch_due_to/"
+  },
+  {
+    "topic": "Former Employee",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qqc2pj/former_employee/"
   },
   {
     "topic": "Tomodachi Life: Living the Dream Direct 1.29.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,410 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 358,688 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 961,821 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 961,540 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GdpTp-ClQk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,889 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 18,218 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=isaOditbLPg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b_Rj-YaB2aI"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w2DlnYxf7L8"
   }
 ]
