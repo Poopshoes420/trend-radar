@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpy3lj/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "US embassy removes flags with names of fallen Danish soldiers",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpkkux/us_embassy_removes_flags_with_names_of_fallen/"
-  },
-  {
     "topic": "China executes 11 members of Myanmar scam mafia",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpycnu/china_executes_11_members_of_myanmar_scam_mafia/"
+  },
+  {
+    "topic": "US embassy removes flags with names of fallen Danish soldiers",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpkkux/us_embassy_removes_flags_with_names_of_fallen/"
   },
   {
     "topic": "Germany warns travelers of 'violent clashes' in the US amid protests",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qprlad/dispatch_is_censored_on_nintendo_switch_due_to/"
   },
   {
+    "topic": "My wife telling me about her Sims mod",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq06m3/my_wife_telling_me_about_her_sims_mod/"
+  },
+  {
     "topic": "Larian studio boss Swen Vincke thinks game reviewers should be graded by people similar to metacritic user scores",
     "sources": [
       "reddit"
@@ -171,28 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpdmq1/larian_studio_boss_swen_vincke_thinks_game/"
   },
   {
-    "topic": "Female Capcom Staff Had A Mission To Make Leon Kennedy As Hot As Possible",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qpfn0c/female_capcom_staff_had_a_mission_to_make_leon/"
-  },
-  {
-    "topic": "DTF St. Louis | Official Trailer | HBO Max",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,044,378 views \u2022 ~686m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
-  },
-  {
     "topic": "Melanie Martinez - POSSESSION (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 449,194 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 481,195 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=47isS1blUiA"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 407,493 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 424,182 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xYH701ItKxg"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,605 views \u2022 ~347m old",
+    "why": "Trending on YouTube \u2022 174,314 views \u2022 ~386m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HrLvQt1XS4"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 120,793 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 136,898 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lt9RmsrcX_8"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,689 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 154,249 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kwwdY1bp-Ck"
   },
   {
@@ -232,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,145 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 48,878 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqEn-bmpV30"
+  },
+  {
+    "topic": "Fuerza Regida - Por Esos Ojos (Letra)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 31,936 views \u2022 ~606m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DKtoN1B9NTY"
   }
 ]
