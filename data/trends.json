@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpdwnh/united_opinion/"
   },
   {
-    "topic": "Young man in prison",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpd4jd/young_man_in_prison/"
-  },
-  {
     "topic": "Old Bud Light Commercial",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpqibe/old_bud_light_commercial/"
+  },
+  {
+    "topic": "Young man in prison",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpd4jd/young_man_in_prison/"
   },
   {
     "topic": "Comparing the comments of Tyler Oliveira's \"Most Racist White People\" video vs his \"Most Racist Black People\" video.",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qphgc7/i_took_this_landscape_screenshot_in_kingdom_come/"
   },
   {
+    "topic": "Paradise Season 2 | Official Trailer | Hulu",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 891,920 views \u2022 ~420m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wQfqQ-oIXiA"
+  },
+  {
     "topic": "Bruce Springsteen - Streets Of Minneapolis (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 792,237 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 865,100 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wWKSoxG1K7w"
+  },
+  {
+    "topic": "RESTRICTED_condemnation_1995",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 273,642 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qPhFrANOGss"
   },
   {
     "topic": "Holy sh*t.. This is embarrassing",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 681,963 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 694,233 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KHyd-H5RtG0"
   },
   {
@@ -200,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 455,331 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 465,065 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tsr3lBEn9ww"
-  },
-  {
-    "topic": "Playing Sammys New ROBLOX GAME..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 393,067 views \u2022 ~500m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PQi8M7CJxhk"
   },
   {
     "topic": "DTF St. Louis | Official Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,545 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 287,722 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u1XHd5rIvmY"
+  },
+  {
+    "topic": "Playing Sammys New ROBLOX GAME..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 403,146 views \u2022 ~516m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PQi8M7CJxhk"
   },
   {
     "topic": "TV Royale | Hero Goblins & Hero Mega Minion + Touchdown League",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,110 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 265,713 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iiTukGOCE5s"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 254,715 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 262,943 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_18oWQwJvA"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 235,705 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 241,553 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jolaO2Z6xCM"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,430 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 95,654 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPtu5elZ9Vo"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,228 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 44,446 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hSJ9KRwMp1s"
   }
 ]
