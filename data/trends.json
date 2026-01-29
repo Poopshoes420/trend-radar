@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpqibe/old_bud_light_commercial/"
   },
   {
+    "topic": "50/50 chance you say? I like those odds!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qq1rwk/5050_chance_you_say_i_like_those_odds/"
+  },
+  {
     "topic": "This baby photo",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpuqwd/this_baby_photo/"
   },
   {
-    "topic": "My 8 year old has discovered 3D printing",
+    "topic": "Why are you recommending me a video if I can\u2019t even watch it?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpyooo/my_8_year_old_has_discovered_3d_printing/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qq0k35/why_are_you_recommending_me_a_video_if_i_cant/"
   },
   {
     "topic": "We don't need to know every time one shows up on your feed.",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpwbhw/we_dont_need_to_know_every_time_one_shows_up_on/"
-  },
-  {
-    "topic": "Why are you recommending me a video if I can\u2019t even watch it?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qq0k35/why_are_you_recommending_me_a_video_if_i_cant/"
   },
   {
     "topic": "Comparing the comments of Tyler Oliveira's \"Most Racist White People\" video vs his \"Most Racist Black People\" video.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpt804/germany_warns_travelers_of_violent_clashes_in_the/"
   },
   {
-    "topic": "President Donald Trump is weighing a major new strike on Iran that could include strikes aimed at Iran\u2019s leaders and security officials, as well as strikes on Iranian nuclear sites and government institutions",
+    "topic": "Sepp Blatter suggests fans should not travel to US for World Cup",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qps81h/president_donald_trump_is_weighing_a_major_new/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq1y1v/sepp_blatter_suggests_fans_should_not_travel_to/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qprlad/dispatch_is_censored_on_nintendo_switch_due_to/"
   },
   {
-    "topic": "GOG now using AI generated images on their store",
+    "topic": "The call goes out for a 'massive international strike' at Ubisoft: 'We are treated like children who need to be supervised, while our management gets away with lies and breaking the law'",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qptsvy/gog_now_using_ai_generated_images_on_their_store/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq2zef/the_call_goes_out_for_a_massive_international/"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | 2x FIRE RATE LETS GO | BIRD CITY LETS GOOOO | CAW - CAW!!!!! | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 787,559 views \u2022 ~27m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2GdpTp-ClQk"
   },
   {
     "topic": "Melanie Martinez - POSSESSION (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 581,227 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 603,570 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=47isS1blUiA"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,959 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 247,160 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HrLvQt1XS4"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,393 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 204,790 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lt9RmsrcX_8"
-  },
-  {
-    "topic": "Todo Lo Fue - (Video Oficial) - Lenin Ramirez - DEL Records 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 194,243 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kwwdY1bp-Ck"
   },
   {
     "topic": "Scott Pilgrim EX \u2013 Release Date Trailer \u2013 Nintendo Switch 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,902 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 64,950 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqEn-bmpV30"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~48m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w2DlnYxf7L8"
   }
 ]
