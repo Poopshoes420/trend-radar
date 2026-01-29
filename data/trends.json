@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Shower thoughts interrupted by final boss",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqerpz/shower_thoughts_interrupted_by_final_boss/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Oh that sneeze \ud83d\ude02",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qqf9sx/bc_premier_says_alberta_separatists_seeking/"
   },
   {
+    "topic": "Ukraine\u2019s air defenses reportedly shot down two of Russia\u2019s most prized frontline combat jets in a single day, dealing a significant and costly blow to Moscow\u2019s air power.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qqfic8/ukraines_air_defenses_reportedly_shot_down_two_of/"
+  },
+  {
     "topic": "Removal of flags for fallen Danish soldiers at U.S. Embassy sparks backlash",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq6pri/removal_of_flags_for_fallen_danish_soldiers_at_us/"
-  },
-  {
-    "topic": "Estonia warns Russian veterans could flood Europe after Ukraine war, urges EU entry ban",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq9lva/estonia_warns_russian_veterans_could_flood_europe/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qn8zif/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Lore accurate Fallout TV show",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq7rtc/lore_accurate_fallout_tv_show/"
-  },
-  {
     "topic": "Former Employee",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qqc2pj/former_employee/"
+  },
+  {
+    "topic": "Lore accurate Fallout TV show",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq7rtc/lore_accurate_fallout_tv_show/"
   },
   {
     "topic": "Frostpunk 2: \"Thanks for the heating and infinite food, Steward. Also, we\u2019re starting a civil war because you didn\u2019t build a fountain.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 572,114 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 621,020 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 983,918 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 989,471 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GdpTp-ClQk"
-  },
-  {
-    "topic": "Highguard is the worst game ever made",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 365,791 views \u2022 ~354m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g95wjjutsTE"
   },
   {
     "topic": "2026 State of Azeroth | World of Warcraft",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,826 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 175,731 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pkFMkdZWxdk"
+  },
+  {
+    "topic": "Highguard is the worst game ever made",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 405,339 views \u2022 ~393m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g95wjjutsTE"
   },
   {
     "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Adrenaline' MV Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,256 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 73,086 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gBvUjhPy5v4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,615 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 37,085 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=isaOditbLPg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b_Rj-YaB2aI"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w2DlnYxf7L8"
   }
 ]
