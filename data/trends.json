@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Old Bud Light Commercial",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpqibe/old_bud_light_commercial/"
-  },
-  {
     "topic": "That one friend who always stops you before you do something stupid",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qq252i/that_one_friend_who_always_stops_you_before_you/"
+  },
+  {
+    "topic": "Old Bud Light Commercial",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpqibe/old_bud_light_commercial/"
   },
   {
     "topic": "My 8 year old has discovered 3D printing",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpwbhw/we_dont_need_to_know_every_time_one_shows_up_on/"
   },
   {
-    "topic": "Comparing the comments of Tyler Oliveira's \"Most Racist White People\" video vs his \"Most Racist Black People\" video.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpfqof/comparing_the_comments_of_tyler_oliveiras_most/"
-  },
-  {
     "topic": "YouTube live shorts is just a breeding grounds for attention seekers",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpq5f1/youtube_live_shorts_is_just_a_breeding_grounds/"
   },
   {
-    "topic": "A solution?",
+    "topic": "Comparing the comments of Tyler Oliveira's \"Most Racist White People\" video vs his \"Most Racist Black People\" video.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpuscn/a_solution/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qpfqof/comparing_the_comments_of_tyler_oliveiras_most/"
+  },
+  {
+    "topic": "Hey Youtube I am NOT interested ! You got the WRONG person ! \u270c\ufe0f\ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qq54ni/hey_youtube_i_am_not_interested_you_got_the_wrong/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1435, Part 1 (Thread #1582)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpycnu/china_executes_11_members_of_myanmar_scam_mafia/"
   },
   {
-    "topic": "Sepp Blatter suggests fans should not travel to US for World Cup",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq1y1v/sepp_blatter_suggests_fans_should_not_travel_to/"
-  },
-  {
     "topic": "US embassy removes flags with names of fallen Danish soldiers",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qpt804/germany_warns_travelers_of_violent_clashes_in_the/"
+  },
+  {
+    "topic": "German leader hails Europe as an 'alternative to imperialism and autocracy'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qq5271/german_leader_hails_europe_as_an_alternative_to/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq06m3/my_wife_telling_me_about_her_sims_mod/"
   },
   {
+    "topic": "The call goes out for a 'massive international strike' at Ubisoft: 'We are treated like children who need to be supervised, while our management gets away with lies and breaking the law'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq2zef/the_call_goes_out_for_a_massive_international/"
+  },
+  {
     "topic": "My Courier cosplay from Fallout New Vegas",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qprlad/dispatch_is_censored_on_nintendo_switch_due_to/"
   },
   {
-    "topic": "The call goes out for a 'massive international strike' at Ubisoft: 'We are treated like children who need to be supervised, while our management gets away with lies and breaking the law'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq2zef/the_call_goes_out_for_a_massive_international/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | 2x FIRE RATE LETS GO | BIRD CITY LETS GOOOO | CAW - CAW!!!!! | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 925,334 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 929,828 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GdpTp-ClQk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 640,857 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 656,310 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=47isS1blUiA"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,829 views \u2022 ~677m old",
+    "why": "Trending on YouTube \u2022 265,002 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HrLvQt1XS4"
-  },
-  {
-    "topic": "Obey The Voice (Full Game)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 228,398 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lt9RmsrcX_8"
   },
   {
     "topic": "Scott Pilgrim EX \u2013 Release Date Trailer \u2013 Nintendo Switch 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,321 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 70,776 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqEn-bmpV30"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w2DlnYxf7L8"
   }
 ]
