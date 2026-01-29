@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqblwi/oh_that_sneeze/"
   },
   {
+    "topic": "Disaster movie joke (Moonfall specifically)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqj3gy/disaster_movie_joke_moonfall_specifically/"
+  },
+  {
     "topic": "That one friend who always stops you before you do something stupid",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qpzgjs/i_have_to_explain_to_my_child_that_she_absolutely/"
-  },
-  {
-    "topic": "Disaster movie joke (Moonfall specifically)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqj3gy/disaster_movie_joke_moonfall_specifically/"
   },
   {
     "topic": "YouTube started mass cleaning of channels with AI-generated content",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qq7rtc/lore_accurate_fallout_tv_show/"
   },
   {
-    "topic": "Frostpunk 2: \"Thanks for the heating and infinite food, Steward. Also, we\u2019re starting a civil war because you didn\u2019t build a fountain.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qqcpkx/frostpunk_2_thanks_for_the_heating_and_infinite/"
-  },
-  {
     "topic": "\u2018God of War\u2019 TV Series Casts \u00d3lafur Darri \u00d3lafsson ('Severance') as Thor",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qqglgl/god_of_war_tv_series_casts_\u00f3lafur_darri_\u00f3lafsson/"
   },
   {
+    "topic": "Frostpunk 2: \"Thanks for the heating and infinite food, Steward. Also, we\u2019re starting a civil war because you didn\u2019t build a fountain.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qqcpkx/frostpunk_2_thanks_for_the_heating_and_infinite/"
+  },
+  {
     "topic": "Tomodachi Life: Living the Dream Direct 1.29.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 729,245 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 769,981 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_0kl1WiSPg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 307,624 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 332,048 views \u2022 ~283m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pkFMkdZWxdk"
   },
   {
@@ -200,31 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 484,639 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 512,888 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g95wjjutsTE"
-  },
-  {
-    "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Adrenaline' MV Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 89,594 views \u2022 ~361m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gBvUjhPy5v4"
   },
   {
     "topic": "La Perversa x Ronny GTA - Prende (Video Oficial) PJ Prod. ",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,241 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 47,351 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J0W3Hw94ShA"
+  },
+  {
+    "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Adrenaline' MV Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 94,926 views \u2022 ~398m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gBvUjhPy5v4"
+  },
+  {
+    "topic": "Ren - Vincent's Tale - Starry Night",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,198 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MTn_bhTVr2U"
   },
   {
     "topic": "Outlander | The Final Season: Official Trailer | STARZ",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,967 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 27,081 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BKy4gqIVv9E"
   },
   {
@@ -232,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,483 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 43,887 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=isaOditbLPg"
+  },
+  {
+    "topic": "Mewgenics Features Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,044 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=s8X4X-WeT5w"
   },
   {
     "topic": "Enemy of the State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b_Rj-YaB2aI"
   }
 ]
