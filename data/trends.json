@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Here's another eye patch, the one I used to announce the unfortunate loss of my eye.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxakl/heres_another_eye_patch_the_one_i_used_to/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Here's another eye patch, the one I used to announce the unfortunate loss of my eye.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxakl/heres_another_eye_patch_the_one_i_used_to/"
   },
   {
     "topic": "Accepted as an American.",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
   },
   {
+    "topic": "You Horny??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr6pjc/you_horny/"
+  },
+  {
     "topic": "I'm a professional illustrator, lost my left eye recently, so I'm gonna share the eye patches I make to cope with humour",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqqj9w/im_a_professional_illustrator_lost_my_left_eye/"
-  },
-  {
-    "topic": "Skittles vs Skittles",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr1i8t/skittles_vs_skittles/"
   },
   {
     "topic": "You can no longer have YouTube running in the background.",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
   },
   {
-    "topic": "Canada Signs Auto Deal With South Korea, Moving Further From the U.S.",
+    "topic": "Flag removal at US Embassy deepens rift with key NATO ally Denmark",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qqmfgb/canada_signs_auto_deal_with_south_korea_moving/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr6bt0/flag_removal_at_us_embassy_deepens_rift_with_key/"
   },
   {
     "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 923,373 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 929,333 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 579,469 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 645,301 views \u2022 ~427m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItkITKxvQGo"
-  },
-  {
-    "topic": "Don Toliver - E85 [Official Visualizer]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 73,902 views \u2022 ~544m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7GwLnsVUwHY"
   },
   {
     "topic": "The First Descendant | Dia Awakens | Character Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,855 views \u2022 ~664m old",
+    "why": "Trending on YouTube \u2022 71,134 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2LCUGNFhwyU"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,869 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 49,603 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wRzEvqbrn2c"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,756 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 28,459 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tW8F8JCn6UQ"
   }
 ]
