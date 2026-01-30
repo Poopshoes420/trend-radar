@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrf9g0/dog_steals_ball/"
   },
   {
+    "topic": "Let's fight somewhere empty.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrikm7/lets_fight_somewhere_empty/"
+  },
+  {
     "topic": "Here's another eye patch, the one I used to announce the unfortunate loss of my eye.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxakl/heres_another_eye_patch_the_one_i_used_to/"
-  },
-  {
-    "topic": "Accepted as an American.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
   },
   {
     "topic": "W YouTube!!!!! YouTube has started deleting major AI slop channels",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr3ibb/w_youtube_youtube_has_started_deleting_major_ai/"
   },
   {
-    "topic": "You can no longer have YouTube running in the background.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqt8tb/you_can_no_longer_have_youtube_running_in_the/"
-  },
-  {
     "topic": "FUCK YouTube. (Please read and upvote if you agree)",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qre1z0/fuck_youtube_please_read_and_upvote_if_you_agree/"
+  },
+  {
+    "topic": "You can no longer have YouTube running in the background.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqt8tb/you_can_no_longer_have_youtube_running_in_the/"
   },
   {
     "topic": "Did anyone else have this experience?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,648 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 31,084 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Xpmy4CxT3c"
   }
 ]
