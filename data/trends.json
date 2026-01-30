@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qq0k35/why_are_you_recommending_me_a_video_if_i_cant/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qquzu4/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Trump Strangely Warns Canada That China Will Force Them To Stop Playing Hockey",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr048e/trump_strangely_warns_canada_that_china_will/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qquzu4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Canada Signs Auto Deal With South Korea, Moving Further From the U.S.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 522,080 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 544,501 views \u2022 ~552m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zggy4pzWzIA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 512,178 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 529,266 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x3e-WDxyGVY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 350,551 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 352,702 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YLFyjsESEhQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 266,863 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 281,332 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LQHNRTLGoMU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,785 views \u2022 ~677m old",
+    "why": "Trending on YouTube \u2022 291,777 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lkDHaFAYXV4"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,261 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 152,599 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Yc2BVOI13ow"
-  },
-  {
-    "topic": "HENRY CAVILL HIGHLANDER 2027 First Look Teaser",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 125,461 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MKhod_ziM0s"
   },
   {
     "topic": "Don Toliver - E85 [Official Visualizer]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,283 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 48,383 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7GwLnsVUwHY"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,555 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 49,194 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2LCUGNFhwyU"
   }
 ]
