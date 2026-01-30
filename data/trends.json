@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qre1z0/fuck_youtube_please_read_and_upvote_if_you_agree/"
   },
   {
+    "topic": "What YouTuber is this for you?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qrgumo/what_youtuber_is_this_for_you/"
+  },
+  {
     "topic": "Did anyone else have this experience?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr8hsf/did_anyone_else_have_this_experience/"
-  },
-  {
-    "topic": "What is this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr7mwz/what_is_this/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
@@ -178,13 +178,5 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qr3rq1/the_pok\u00e9mon_company_has_issued_an_apology/"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | FAST FIRE X BIRD CITY EXTRAVAGANZA | OFFICER X GINGY | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 976,431 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   }
 ]
