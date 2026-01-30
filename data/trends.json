@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxakl/heres_another_eye_patch_the_one_i_used_to/"
   },
   {
-    "topic": "Accepted as an American.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
-  },
-  {
     "topic": "You Horny??",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr6pjc/you_horny/"
+  },
+  {
+    "topic": "Accepted as an American.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
   },
   {
     "topic": "I'm a professional illustrator, lost my left eye recently, so I'm gonna share the eye patches I make to cope with humour",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqvwxj/im_sorry_but_how_is_this_even_possible/"
   },
   {
-    "topic": "Zelenskyy responds to Kremlin's invitation to visit Moscow: I invite Putin to Kyiv",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr081s/zelenskyy_responds_to_kremlins_invitation_to/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qquzu4/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Zelenskyy responds to Kremlin's invitation to visit Moscow: I invite Putin to Kyiv",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr081s/zelenskyy_responds_to_kremlins_invitation_to/"
   },
   {
     "topic": "Zelenskyy says Ukraine is aware of Russia's plan with US",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 929,333 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 934,914 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 645,301 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 686,436 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItkITKxvQGo"
-  },
-  {
-    "topic": "The First Descendant | Dia Awakens | Character Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 71,134 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2LCUGNFhwyU"
   },
   {
     "topic": "Noah Kahan - The Great Divide (Official Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,603 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 55,468 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wRzEvqbrn2c"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,459 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 34,498 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tW8F8JCn6UQ"
   }
 ]
