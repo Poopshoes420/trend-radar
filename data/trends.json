@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr6pjc/you_horny/"
   },
   {
+    "topic": "Future of the world????",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr86t1/future_of_the_world/"
+  },
+  {
     "topic": "Here's another eye patch, the one I used to announce the unfortunate loss of my eye.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
-  },
-  {
-    "topic": "I'm a professional illustrator, lost my left eye recently, so I'm gonna share the eye patches I make to cope with humour",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqqj9w/im_a_professional_illustrator_lost_my_left_eye/"
   },
   {
     "topic": "You can no longer have YouTube running in the background.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr3ibb/w_youtube_youtube_has_started_deleting_major_ai/"
   },
   {
-    "topic": "What is this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr7mwz/what_is_this/"
-  },
-  {
     "topic": "Did anyone else have this experience?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr8hsf/did_anyone_else_have_this_experience/"
+  },
+  {
+    "topic": "What is this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr7mwz/what_is_this/"
   },
   {
     "topic": "YouTube started mass cleaning of channels with AI-generated content",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr081s/zelenskyy_responds_to_kremlins_invitation_to/"
   },
   {
-    "topic": "Zelenskyy says Ukraine is aware of Russia's plan with US",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
-  },
-  {
     "topic": "Flag removal at US Embassy deepens rift with key NATO ally Denmark",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr6bt0/flag_removal_at_us_embassy_deepens_rift_with_key/"
+  },
+  {
+    "topic": "Zelenskyy says Ukraine is aware of Russia's plan with US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
   },
   {
     "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 939,318 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 947,313 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 718,750 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 773,950 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItkITKxvQGo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,309 views \u2022 ~662m old",
+    "why": "Trending on YouTube \u2022 71,687 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wRzEvqbrn2c"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,248 views \u2022 ~662m old",
+    "why": "Trending on YouTube \u2022 50,079 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tW8F8JCn6UQ"
   }
 ]
