@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr1i8t/skittles_vs_skittles/"
   },
   {
+    "topic": "W YouTube!!!!! YouTube has started deleting major AI slop channels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr3ibb/w_youtube_youtube_has_started_deleting_major_ai/"
+  },
+  {
     "topic": "You can no longer have YouTube running in the background.",
     "sources": [
       "reddit"
@@ -54,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqt8tb/you_can_no_longer_have_youtube_running_in_the/"
   },
   {
-    "topic": "W YouTube!!!!! YouTube has started deleting major AI slop channels",
+    "topic": "FUCK YouTube. (Please read and upvote if you agree)",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr3ibb/w_youtube_youtube_has_started_deleting_major_ai/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qre1z0/fuck_youtube_please_read_and_upvote_if_you_agree/"
   },
   {
     "topic": "Did anyone else have this experience?",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr7mwz/what_is_this/"
-  },
-  {
-    "topic": "FUCK YouTube. (Please read and upvote if you agree)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qre1z0/fuck_youtube_please_read_and_upvote_if_you_agree/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
@@ -126,13 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrbq6g/ukrainian_troops_were_stunned_to_learn_their/"
   },
   {
-    "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
+    "topic": "Volodymyr Zelenskyy has rejected a Kremlin proposal to hold talks with Vladimir Putin in Moscow, instead inviting the Russian leader to come to Kyiv \u201cif he dares.\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr4co3/confusion_reigns_as_russia_says_it_was_only_asked/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qre25o/volodymyr_zelenskyy_has_rejected_a_kremlin/"
+  },
+  {
+    "topic": "Catherine O'Hara, 'Schitt\u2019s Creek' Star and Comedy Legend, Dies at 71",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qrdu8i/catherine_ohara_schitts_creek_star_and_comedy/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qr3rq1/the_pok\u00e9mon_company_has_issued_an_apology/"
   },
   {
-    "topic": "Nintendo Responds to Dispatch Censorship",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qrcxi3/nintendo_responds_to_dispatch_censorship/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | FAST FIRE X BIRD CITY EXTRAVAGANZA | OFFICER X GINGY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 968,034 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 967,954 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 888,659 views \u2022 ~681m old",
+    "why": "Trending on YouTube \u2022 909,916 views \u2022 ~720m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItkITKxvQGo"
   }
 ]
