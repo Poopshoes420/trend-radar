@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qre1z0/fuck_youtube_please_read_and_upvote_if_you_agree/"
   },
   {
-    "topic": "What YouTuber is this for you?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qrgumo/what_youtuber_is_this_for_you/"
-  },
-  {
     "topic": "Did anyone else have this experience?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr8hsf/did_anyone_else_have_this_experience/"
+  },
+  {
+    "topic": "What is this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr7mwz/what_is_this/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1436, Part 1 (Thread #1583)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
   },
   {
-    "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
+    "topic": "Nestl\u00e9 knew of tainted baby formula in November",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr4co3/confusion_reigns_as_russia_says_it_was_only_asked/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrfsb3/nestl\u00e9_knew_of_tainted_baby_formula_in_november/"
   },
   {
     "topic": "Catherine O'Hara, 'Schitt\u2019s Creek' Star and Comedy Legend, Dies at 71",
@@ -178,5 +178,13 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qr3rq1/the_pok\u00e9mon_company_has_issued_an_apology/"
+  },
+  {
+    "topic": "Teenage Mutant Ninja Turtles 2: The Secret of the Ooze 35th Anniversary - Official Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,648 views \u2022 ~283m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5Xpmy4CxT3c"
   }
 ]
