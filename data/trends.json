@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr6pjc/you_horny/"
   },
   {
+    "topic": "Dog steals ball.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrf9g0/dog_steals_ball/"
+  },
+  {
     "topic": "Here's another eye patch, the one I used to announce the unfortunate loss of my eye.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
-  },
-  {
-    "topic": "Dog steals ball.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrf9g0/dog_steals_ball/"
   },
   {
     "topic": "W YouTube!!!!! YouTube has started deleting major AI slop channels",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr9z71/russian_ship_loitering_near_transatlantic_data/"
   },
   {
-    "topic": "Zelenskyy says Ukraine is aware of Russia's plan with US",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
-  },
-  {
     "topic": "Volodymyr Zelenskyy has rejected a Kremlin proposal to hold talks with Vladimir Putin in Moscow, instead inviting the Russian leader to come to Kyiv \u201cif he dares.\u201d",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qre25o/volodymyr_zelenskyy_has_rejected_a_kremlin/"
+  },
+  {
+    "topic": "Zelenskyy says Ukraine is aware of Russia's plan with US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
   },
   {
     "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 970,325 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 976,431 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   }
 ]
