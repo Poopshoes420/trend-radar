@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qqxhgo/accepted_as_an_american/"
   },
   {
-    "topic": "Skittles vs Skittles",
+    "topic": "Dog steals ball.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qr1i8t/skittles_vs_skittles/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrf9g0/dog_steals_ball/"
   },
   {
     "topic": "W YouTube!!!!! YouTube has started deleting major AI slop channels",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr25sm/zelenskyy_says_ukraine_is_aware_of_russias_plan/"
   },
   {
-    "topic": "Ukrainian troops were 'stunned' to learn their British trainers don't use anti-drone nets, UK officer says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrbq6g/ukrainian_troops_were_stunned_to_learn_their/"
-  },
-  {
     "topic": "Volodymyr Zelenskyy has rejected a Kremlin proposal to hold talks with Vladimir Putin in Moscow, instead inviting the Russian leader to come to Kyiv \u201cif he dares.\u201d",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qre25o/volodymyr_zelenskyy_has_rejected_a_kremlin/"
+  },
+  {
+    "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr4co3/confusion_reigns_as_russia_says_it_was_only_asked/"
   },
   {
     "topic": "Catherine O'Hara, 'Schitt\u2019s Creek' Star and Comedy Legend, Dies at 71",
@@ -184,15 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 967,954 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 970,325 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
-  },
-  {
-    "topic": "Valentine's Day and Lunar New Year in Hay Day",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 909,916 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ItkITKxvQGo"
   }
 ]
