@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqsx8s/fuck_youtube_and_fuck_the_ads/"
   },
   {
-    "topic": "TYLER OLIVEIRA's newest video is not only RACIST but is also AI GENERATED!",
+    "topic": "Im sorry but how is this even possible?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqqk75/tyler_oliveiras_newest_video_is_not_only_racist/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqvwxj/im_sorry_but_how_is_this_even_possible/"
   },
   {
     "topic": "Zelenskyy responds to Kremlin's invitation to visit Moscow: I invite Putin to Kyiv",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qqmfgb/canada_signs_auto_deal_with_south_korea_moving/"
   },
   {
-    "topic": "New Zealand declines invite to join Board of Peace",
+    "topic": "Confusion reigns as Russia says it was only asked to stop attacking Kyiv until Sunday",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qqkev4/new_zealand_declines_invite_to_join_board_of_peace/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr4co3/confusion_reigns_as_russia_says_it_was_only_asked/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "The Pok\u00e9mon Company has issued an apology regarding the Pok\u00e9mon card event held at Yasukuni Shrine.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qr3rq1/the_pok\u00e9mon_company_has_issued_an_apology/"
+  },
+  {
     "topic": "We're in the year 2026 and we're lucky if we even get 6v6 shooters at this point. I miss huge scale war games like MAG or planetside 2.",
     "sources": [
       "reddit"
@@ -171,36 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qr2baq/the_gaming_industry_needs_to_stop_assuming/"
   },
   {
-    "topic": "Reminder: Ubisoft used to cook (2003\u20132004)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qqljkt/reminder_ubisoft_used_to_cook_20032004/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | FAST FIRE X BIRD CITY EXTRAVAGANZA | OFFICER X GINGY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 916,681 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 923,373 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=seZr9wqV4bA"
   },
   {
-    "topic": "Roblox finally addressed it",
+    "topic": "Valentine's Day and Lunar New Year in Hay Day",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 607,491 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Zggy4pzWzIA"
+    "why": "Trending on YouTube \u2022 579,469 views \u2022 ~379m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ItkITKxvQGo"
   },
   {
     "topic": "Don Toliver - E85 [Official Visualizer]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,791 views \u2022 ~496m old",
+    "why": "Trending on YouTube \u2022 73,902 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7GwLnsVUwHY"
   },
   {
@@ -208,7 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,517 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 66,855 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2LCUGNFhwyU"
+  },
+  {
+    "topic": "Noah Kahan - The Great Divide (Official Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 41,869 views \u2022 ~543m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wRzEvqbrn2c"
+  },
+  {
+    "topic": "HARDY, Eric Church, Morgan Wallen, Tim McGraw - McArthur (Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 20,756 views \u2022 ~544m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tW8F8JCn6UQ"
   }
 ]
