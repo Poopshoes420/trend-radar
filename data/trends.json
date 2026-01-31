@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qroqbs/12million_views_but_only_2_likes/"
   },
   {
-    "topic": "You can no longer have YouTube running in the background.",
+    "topic": "YouTube now blocking video downloaders, following crackdown on ad blockers, third-party clients, and background playback workarounds",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqt8tb/you_can_no_longer_have_youtube_running_in_the/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qrxtvl/youtube_now_blocking_video_downloaders_following/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1437, Part 1 (Thread #1584)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrka31/us_military_told_mideast_ally_that_trump_attack/"
   },
   {
-    "topic": "Explosion reported in Iran - as it denies military leader targeted | World News",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qs1gb2/explosion_reported_in_iran_as_it_denies_military/"
-  },
-  {
     "topic": "UN chief warns of imminent financial collapse due to unpaid fees, urges member states to act",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrxzub/un_chief_warns_of_imminent_financial_collapse_due/"
+  },
+  {
+    "topic": "Explosion occurs at Iran's southern port of Bandar Abbas, Iranian media reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qs2idv/explosion_occurs_at_irans_southern_port_of_bandar/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 954,804 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 958,555 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sjuXh6q9ALE"
-  },
-  {
-    "topic": "NLE Choppa - Shotta Flow 8 & Set the Record Straight (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 151,897 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Pem6GlpeBWA"
   },
   {
     "topic": "Trails in the Sky 2nd Chapter - Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,318 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 30,359 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=09CpH5vaZKM"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=beTozV5eYFc"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dA76YWQX1iY"
   }
 ]
