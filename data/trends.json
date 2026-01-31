@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "It all makes sense now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrs9o1/it_all_makes_sense_now/"
+  },
+  {
     "topic": "Had a 2319 this morning",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrnjfm/my_girl_made_this_roast_for_dinner_how_should_i/"
-  },
-  {
-    "topic": "My girlfriend just found her old ringtones",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrhrai/my_girlfriend_just_found_her_old_ringtones/"
   },
   {
     "topic": "FUCK YouTube. (Please read and upvote if you agree)",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qqt8tb/you_can_no_longer_have_youtube_running_in_the/"
   },
   {
-    "topic": "Did anyone else have this experience?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr8hsf/did_anyone_else_have_this_experience/"
-  },
-  {
     "topic": "1.2million views but only 2 likes??",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qroqbs/12million_views_but_only_2_likes/"
+  },
+  {
+    "topic": "Did anyone else have this experience?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qr8hsf/did_anyone_else_have_this_experience/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1437, Part 1 (Thread #1584)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qre25o/volodymyr_zelenskyy_has_rejected_a_kremlin/"
   },
   {
-    "topic": "Russian ship loitering near transatlantic data cables chased off by Royal Navy attack helicopter \u2014 sat within three quarters of a mile of five undersea data cables, including two linking Britain to New York",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr9z71/russian_ship_loitering_near_transatlantic_data/"
-  },
-  {
     "topic": "Nestl\u00e9 knew of tainted baby formula in November",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrfsb3/nestl\u00e9_knew_of_tainted_baby_formula_in_november/"
+  },
+  {
+    "topic": "Russian ship loitering near transatlantic data cables chased off by Royal Navy attack helicopter \u2014 sat within three quarters of a mile of five undersea data cables, including two linking Britain to New York",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qr9z71/russian_ship_loitering_near_transatlantic_data/"
   },
   {
     "topic": "Bill Gates caught STD and begged Epstein for antibiotics to secretly slip to Melinda, according to memo in newest batch of Epstein files",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qrcxi3/nintendo_responds_to_dispatch_censorship/"
   },
   {
-    "topic": "Call of Duty League Major I Tournament Day 2",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 305,050 views \u2022 ~62m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uwlSkKyEiZ4"
-  },
-  {
     "topic": "Garten of BanBan 0",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 301,626 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 325,612 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aLEuIHzLBkI"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 519,923 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 560,756 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wtwt_oeWJ_0"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 355,636 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 408,427 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nJ-HVE2_7iE"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 433,428 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 463,160 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U14VUA3jwu4"
   },
   {
@@ -224,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 218,615 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 218,663 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-P_Ytep5d3g"
+  },
+  {
+    "topic": "Anything You TYPE Gets DESTROYED in Roblox!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 191,641 views \u2022 ~339m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=etlGr334TFE"
   },
   {
     "topic": "Avengers Doomsday Teaser: Doctor Doom First Look & Hidden Details!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,255 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 46,952 views \u2022 ~221m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AEAIs0CnZQw"
   },
   {
@@ -240,31 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,208 views \u2022 ~644m old",
+    "why": "Trending on YouTube \u2022 118,310 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OcYsFD-VPb8"
-  },
-  {
-    "topic": "Teenage Mutant Ninja Turtles 2: The Secret of the Ooze 35th Anniversary - Official Trailer (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 92,699 views \u2022 ~677m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5Xpmy4CxT3c"
   },
   {
     "topic": "Team Fortress 2 Classified Release Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,772 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 56,446 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k1yZr442ALU"
-  },
-  {
-    "topic": "Babyfxce E - Trackhawk [Official Music Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 47,549 views \u2022 ~677m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SL_5S45uq3s"
   }
 ]
