@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Don't do drugs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsc1no/dont_do_drugs/"
+  },
+  {
     "topic": "Had a 2319 this morning",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrnjfm/my_girl_made_this_roast_for_dinner_how_should_i/"
-  },
-  {
-    "topic": "Dog steals ball.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrf9g0/dog_steals_ball/"
   },
   {
     "topic": "The amount of ads on YouTube is become insufferable and puts me off using the platform all together",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qru8mm/has_anyone_noticed_an_increase_of_these_polls_on/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1437, Part 1 (Thread #1584)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrryxe/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Finland looks to end \"uncontrolled human experiment\" with Australia-style ban on social media | Yle News",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qs75ir/finland_looks_to_end_uncontrolled_human/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1437, Part 1 (Thread #1584)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrryxe/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Hundreds protest in Milan over US ICE role in Winter Games security",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 985,081 views \u2022 ~42m old",
+    "why": "Trending on YouTube \u2022 1,071,337 views \u2022 ~55m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kSuMDf60EF8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,179,848 views \u2022 ~347m old",
+    "why": "Trending on YouTube \u2022 1,202,912 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 529,815 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 542,488 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NiIG2oH57nU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,001,915 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 1,003,281 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sjuXh6q9ALE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 301,925 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 307,840 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSUHqAvuSRI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,041 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 385,119 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lGSmr0mMnX0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,896 views \u2022 ~286m old",
+    "why": "Trending on YouTube \u2022 15,389 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TAAINH7HlPs"
   }
 ]
