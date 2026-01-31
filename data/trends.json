@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrsdfv/trumps_wide_ambitions_for_board_of_peace_spark/"
   },
   {
-    "topic": "US Military Told Mideast Ally That Trump Attack on Iran is 'Imminent': Report | Common Dreams",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrka31/us_military_told_mideast_ally_that_trump_attack/"
-  },
-  {
     "topic": "UN chief warns of imminent financial collapse due to unpaid fees, urges member states to act",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrxzub/un_chief_warns_of_imminent_financial_collapse_due/"
+  },
+  {
+    "topic": "US Military Told Mideast Ally That Trump Attack on Iran is 'Imminent': Report | Common Dreams",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrka31/us_military_told_mideast_ally_that_trump_attack/"
   },
   {
     "topic": "Explosion occurs at Iran's southern port of Bandar Abbas, Iranian media reports",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qrcvla/after_a_server_glitch_final_fantasy_11_is/"
   },
   {
+    "topic": "I Explored the Minecraft Farlands",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 428,345 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS | HutchMF X Nickmercs | FREAK BOB FRIDAY | #26Sharts #Shartathon #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 958,555 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 962,481 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sjuXh6q9ALE"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,359 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 32,742 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=09CpH5vaZKM"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=beTozV5eYFc"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dA76YWQX1iY"
   }
 ]
