@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Very cold in Latvia right now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsdoub/very_cold_in_latvia_right_now/"
-  },
-  {
     "topic": "Proof that beluga whales are the funniest animals alive",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qrnjfm/my_girl_made_this_roast_for_dinner_how_should_i/"
+  },
+  {
+    "topic": "Maggie Is Smart",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qs8fxp/maggie_is_smart/"
   },
   {
     "topic": "My brother in christ DO NOT do this",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsd11h/oh_my_god_youtube_is_making_sure_people_with/"
   },
   {
+    "topic": "I'm tired of seeing this guy (Simon whistler) everywhere.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsez2g/im_tired_of_seeing_this_guy_simon_whistler/"
+  },
+  {
     "topic": "YouTube now blocking video downloaders, following crackdown on ad blockers, third-party clients, and background playback workarounds",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qrxtvl/youtube_now_blocking_video_downloaders_following/"
-  },
-  {
-    "topic": "Has anyone noticed an increase of these polls on YouTube and what do you think of them?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qru8mm/has_anyone_noticed_an_increase_of_these_polls_on/"
   },
   {
     "topic": "Finland looks to end \"uncontrolled human experiment\" with Australia-style ban on social media | Yle News",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qrryxe/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Hundreds protest in Milan over US ICE role in Winter Games security",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qs8oh9/hundreds_protest_in_milan_over_us_ice_role_in/"
-  },
-  {
     "topic": "Milan protesters call for U.S. ICE agents to leave Italy as Winter Games approach",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsdvmw/milan_protesters_call_for_us_ice_agents_to_leave/"
   },
   {
-    "topic": "Iranians seal windows and store food and water as they prepare for attack",
+    "topic": "Protesters in Copenhagen rally for Danish veterans after Trump remarks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsbzo5/iranians_seal_windows_and_store_food_and_water_as/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsb1zt/protesters_in_copenhagen_rally_for_danish/"
+  },
+  {
+    "topic": "Explosion occurs at Iran's southern port of Bandar Abbas, Iranian media reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qs2idv/explosion_occurs_at_irans_southern_port_of_bandar/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qs34ap/why_is_this_so_relatable/"
   },
   {
+    "topic": "Simcity4 from 2003, this is what 1500 hours in this game looks like, I made an 8x8km tile (4x4km tile is the largest), it is a 12K x 8K pixel massive megacomposite by cropping it in PS using almost all of my 32GB of RAM, you can zoom in to see the big metro area with 655K sims, airport farms and sea",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qsfx42/simcity4_from_2003_this_is_what_1500_hours_in/"
+  },
+  {
     "topic": "Unity stock falls alongside Take-Two, Roblox after Google\u2019s Project Genie launch",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qs0f46/unity_stock_falls_alongside_taketwo_roblox_after/"
   },
   {
-    "topic": "Sony Patents Touchscreen Controller for Custom Button Placement",
+    "topic": "New BRAINROTS + RITUAL & Admin Abuse!",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qs54v8/sony_patents_touchscreen_controller_for_custom/"
+    "why": "Trending on YouTube \u2022 1,853,999 views \u2022 ~47m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=X_u2jI9qVnU"
   },
   {
     "topic": "#shorts STEAL A BRAINROT ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,494,678 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 1,496,393 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kSuMDf60EF8"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,502,879 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 1,702,180 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=90lzlq8AEX0"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,557,740 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 1,625,495 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4hJr0kmjKlo"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 732,707 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 781,568 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NiIG2oH57nU"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 396,317 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 415,324 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSUHqAvuSRI"
   },
   {
@@ -224,31 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 458,964 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 476,312 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lGSmr0mMnX0"
-  },
-  {
-    "topic": "Kevin Gates - I Release You (Official Audio)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 24,247 views \u2022 ~308m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FK40XThPjLo"
   },
   {
     "topic": "Rooga - Fed Up (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,264 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 34,314 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dSqZm7FdsBo"
+  },
+  {
+    "topic": "Kevin Gates - I Release You (Official Audio)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,578 views \u2022 ~340m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FK40XThPjLo"
   },
   {
     "topic": "Karen Tells Wendy to STFU in RHOP Reunion Trailer | Season Finale One-on-One",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,911 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 25,093 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TAAINH7HlPs"
   }
 ]
