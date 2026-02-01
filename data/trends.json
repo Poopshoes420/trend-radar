@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Don\u2019t belittle the imp",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsyckb/dont_belittle_the_imp/"
-  },
-  {
     "topic": "Concealed memories",
     "sources": [
       "reddit"
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qstnbv/confidence_is_key/"
   },
   {
+    "topic": "How to draw hands",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsz4pl/how_to_draw_hands/"
+  },
+  {
     "topic": "Love the satisfaction of k\u00eell\u00eeng the ad",
     "sources": [
       "reddit"
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsrb14/the_fuck_you_showing_it_to_me_then/"
   },
   {
-    "topic": "I'm tired of seeing this guy (Simon whistler) everywhere.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsez2g/im_tired_of_seeing_this_guy_simon_whistler/"
-  },
-  {
     "topic": "I swear on my fuckin life.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsxdve/i_swear_on_my_fuckin_life/"
+  },
+  {
+    "topic": "I'm tired of seeing this guy (Simon whistler) everywhere.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsez2g/im_tired_of_seeing_this_guy_simon_whistler/"
   },
   {
     "topic": "My brother in christ DO NOT do this",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsqwop/iran_says_it_now_considers_eu_militaries_to_be/"
   },
   {
-    "topic": "Milan protesters call for U.S. ICE agents to leave Italy as Winter Games approach",
+    "topic": "More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsdvmw/milan_protesters_call_for_us_ice_agents_to_leave/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsxcue/more_than_120_dead_after_multiple_suicide_and_gun/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 686,542 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 701,761 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ym_z8Azlk9I"
   },
   {
@@ -192,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 393,098 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 410,498 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7llHLZY3VB4"
+  },
+  {
+    "topic": "THE SEVEN OFFICIAL TEASER TRAILER..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,374 views \u2022 ~532m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=djw-x08DQBY"
   }
 ]
