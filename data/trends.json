@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qs80gf/my_brother_in_christ_do_not_do_this/"
   },
   {
-    "topic": "Oh my god Youtube is making sure people with adblockers have a miserable experience",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsd11h/oh_my_god_youtube_is_making_sure_people_with/"
-  },
-  {
     "topic": "The fuck you showing it to me then?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsrb14/the_fuck_you_showing_it_to_me_then/"
+  },
+  {
+    "topic": "Oh my god Youtube is making sure people with adblockers have a miserable experience",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsd11h/oh_my_god_youtube_is_making_sure_people_with/"
   },
   {
     "topic": "The amount of ads on YouTube is become insufferable and puts me off using the platform all together",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsdvmw/milan_protesters_call_for_us_ice_agents_to_leave/"
   },
   {
-    "topic": "Russia\u2019s Oil Revenue Is Plummeting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsodtr/russias_oil_revenue_is_plummeting/"
-  },
-  {
     "topic": "Iran says it now considers EU militaries to be terrorist groups",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsqwop/iran_says_it_now_considers_eu_militaries_to_be/"
+  },
+  {
+    "topic": "Russia\u2019s Oil Revenue Is Plummeting",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsodtr/russias_oil_revenue_is_plummeting/"
   },
   {
     "topic": "Finland looks to end \"uncontrolled human experiment\" with Australia-style ban on social media | Yle News",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,117,791 views \u2022 ~669m old",
+    "why": "Trending on YouTube \u2022 2,123,018 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X_u2jI9qVnU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 470,875 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 497,591 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ym_z8Azlk9I"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 621,462 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 648,141 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CjNownqJq6c"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,685 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 235,820 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7llHLZY3VB4"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,825 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 223,020 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QoJe7NXUS4k"
-  },
-  {
-    "topic": "The Show Is On! | WWE 2K26 Official Announce Trailer | 2K",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 92,487 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oYd6rXOrz7E"
   },
   {
     "topic": "MAX REACTS: Invincible VS is CHANGING - Lucan/Anissa Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,677 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 37,571 views \u2022 ~445m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W-KEJelf0sw"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,605 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 36,756 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OVPS819MW5g"
   }
 ]
