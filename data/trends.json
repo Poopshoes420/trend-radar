@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsz4pl/how_to_draw_hands/"
   },
   {
-    "topic": "Is the camera on?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qszxku/is_the_camera_on/"
-  },
-  {
     "topic": "Robot struggles to shovel snow",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt6ean/robot_struggles_to_shovel_snow/"
+  },
+  {
+    "topic": "Is the camera on?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qszxku/is_the_camera_on/"
   },
   {
     "topic": "Love the satisfaction of k\u00eell\u00eeng the ad",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsxcue/more_than_120_dead_after_multiple_suicide_and_gun/"
   },
   {
-    "topic": "Peter Dinklage recites poem for Renee Good who was killed by ICE.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qszwi9/peter_dinklage_recites_poem_for_renee_good_who/"
-  },
-  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt1bui/gta_san_andreass_original_pc_version_can_now_be/"
   },
   {
+    "topic": "1 Reboot please...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt7mow/1_reboot_please/"
+  },
+  {
     "topic": "IT'S OVER..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 498,762 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 535,754 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,087 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 116,140 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,702 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 25,130 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
   }
 ]
