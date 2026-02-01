@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qszxku/is_the_camera_on/"
   },
   {
-    "topic": "Confidence is key",
+    "topic": "Robot struggles to shovel snow",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qstnbv/confidence_is_key/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt6ean/robot_struggles_to_shovel_snow/"
   },
   {
     "topic": "Love the satisfaction of k\u00eell\u00eeng the ad",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/"
   },
   {
-    "topic": "More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsxcue/more_than_120_dead_after_multiple_suicide_and_gun/"
-  },
-  {
     "topic": "Ukraine sees 'real results' from blocking Russia\u2019s Starlink use, defense minister says",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qszdi0/ukraine_sees_real_results_from_blocking_russias/"
+  },
+  {
+    "topic": "More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsxcue/more_than_120_dead_after_multiple_suicide_and_gun/"
   },
   {
     "topic": "Peter Dinklage recites poem for Renee Good who was killed by ICE.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 459,287 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 498,762 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
   },
   {
@@ -192,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,146 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 79,087 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
+  },
+  {
+    "topic": "The Devil Wears Prada 2 | Trailer Tonight",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,702 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
   }
 ]
