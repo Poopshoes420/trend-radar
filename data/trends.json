@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsxdve/i_swear_on_my_fuckin_life/"
   },
   {
-    "topic": "The fuck you showing it to me then?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsrb14/the_fuck_you_showing_it_to_me_then/"
-  },
-  {
     "topic": "Help me \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qta6rg/help_me/"
+  },
+  {
+    "topic": "The fuck you showing it to me then?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsrb14/the_fuck_you_showing_it_to_me_then/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1438, Part 1 (Thread #1585)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qt4uhz/slovakia_pms_national_security_adviser_resigns/"
   },
   {
-    "topic": "'Hero' Gaza hospital director and op-ed writer for NYT revealed to have been Hamas colonel",
+    "topic": "Sweden is preparing \"one of the biggest\" military aid packages for Ukraine \u2013 Ukraine's Defence Ministry",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qt9koe/hero_gaza_hospital_director_and_oped_writer_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qt7by9/sweden_is_preparing_one_of_the_biggest_military/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 692,291 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 722,213 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,035 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 248,810 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5yYMALI5rvk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,386 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 234,180 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,395 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 73,700 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,519 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 45,979 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,295 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 16,503 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pwEjymwFspg"
   }
 ]
