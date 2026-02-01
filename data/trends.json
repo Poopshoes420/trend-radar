@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qswhig/committing_serious_crimes_can_now_lead_to_loss_of/"
   },
   {
-    "topic": "Musk steps in - SpaceX blocks Starlink use on Russian drones",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/"
-  },
-  {
     "topic": "Slovakia PM's national security adviser resigns over Epstein links",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qt4uhz/slovakia_pms_national_security_adviser_resigns/"
+  },
+  {
+    "topic": "Musk steps in - SpaceX blocks Starlink use on Russian drones",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/"
   },
   {
     "topic": "Sweden is preparing \"one of the biggest\" military aid packages for Ukraine \u2013 Ukraine's Defence Ministry",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 722,213 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 748,833 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 248,810 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 260,029 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5yYMALI5rvk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 234,180 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 247,578 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,700 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 81,538 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,979 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 51,468 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
   },
   {
@@ -224,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,503 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 18,531 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pwEjymwFspg"
+  },
+  {
+    "topic": "Surviving an Island for 24 Hours With Bonnie - (Official Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 10,226 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=t5cJTHv3uRg"
   }
 ]
