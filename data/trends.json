@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Strength, Peace, Dream",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt85iw/strength_peace_dream/"
+  },
+  {
     "topic": "Concealed memories",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsx7ck/concealed_memories/"
-  },
-  {
-    "topic": "How to draw hands",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsz4pl/how_to_draw_hands/"
   },
   {
     "topic": "Robot struggles to shovel snow",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt6ean/robot_struggles_to_shovel_snow/"
   },
   {
-    "topic": "Is the camera on?",
+    "topic": "How to draw hands",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qszxku/is_the_camera_on/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qsz4pl/how_to_draw_hands/"
   },
   {
     "topic": "Love the satisfaction of k\u00eell\u00eeng the ad",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/"
   },
   {
-    "topic": "Ukraine sees 'real results' from blocking Russia\u2019s Starlink use, defense minister says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qszdi0/ukraine_sees_real_results_from_blocking_russias/"
-  },
-  {
     "topic": "Slovakia PM's national security adviser resigns over Epstein links",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qt4uhz/slovakia_pms_national_security_adviser_resigns/"
+  },
+  {
+    "topic": "Ukraine sees 'real results' from blocking Russia\u2019s Starlink use, defense minister says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qszdi0/ukraine_sees_real_results_from_blocking_russias/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 565,461 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 610,987 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,197 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 189,927 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5yYMALI5rvk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,772 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 169,763 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
   },
   {
@@ -208,7 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,735 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 39,715 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
+  },
+  {
+    "topic": "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 21,089 views \u2022 ~192m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
+  },
+  {
+    "topic": "WWE 2K26: Gameplay Trailer Breakdown! New Details, Hidden Features, Showcase Matches & More!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,169 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pwEjymwFspg"
   }
 ]
