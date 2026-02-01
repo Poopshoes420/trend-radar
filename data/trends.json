@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsu5dj/love_the_satisfaction_of_k\u00eell\u00eeng_the_ad/"
   },
   {
+    "topic": "Wtf even was 2023?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt3gxc/wtf_even_was_2023/"
+  },
+  {
     "topic": "I swear on my fuckin life.",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsrb14/the_fuck_you_showing_it_to_me_then/"
-  },
-  {
-    "topic": "Wtf even was 2023?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt3gxc/wtf_even_was_2023/"
   },
   {
     "topic": "So tired of the ai slop everywhere",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/"
   },
   {
-    "topic": "Indian gangs are terrorising Canada",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qszw8a/indian_gangs_are_terrorising_canada/"
-  },
-  {
     "topic": "More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsxcue/more_than_120_dead_after_multiple_suicide_and_gun/"
+  },
+  {
+    "topic": "Ukraine sees 'real results' from blocking Russia\u2019s Starlink use, defense minister says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qszdi0/ukraine_sees_real_results_from_blocking_russias/"
   },
   {
     "topic": "Peter Dinklage recites poem for Renee Good who was killed by ICE.",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt1bui/gta_san_andreass_original_pc_version_can_now_be/"
   },
   {
-    "topic": "steal a brainrot update",
+    "topic": "IT'S OVER..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,456,074 views \u2022 ~127m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rk4vinwuFmA"
+    "why": "Trending on YouTube \u2022 459,287 views \u2022 ~348m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
+  },
+  {
+    "topic": "TEKKEN 8 - Season 3 Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,146 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
   }
 ]
