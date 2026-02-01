@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Don\u2019t act suspicious \ud83d\ude05",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt852t/dont_act_suspicious/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Robot struggles to shovel snow",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qta6rg/help_me/"
   },
   {
-    "topic": "The fuck you showing it to me then?",
+    "topic": "I hate this with a passion.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsrb14/the_fuck_you_showing_it_to_me_then/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt5ons/i_hate_this_with_a_passion/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1438, Part 1 (Thread #1585)",
@@ -184,31 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 766,431 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 789,376 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjjXIxuBLI8"
-  },
-  {
-    "topic": "I Added COUPLES In Steal a Brainrot...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 271,860 views \u2022 ~432m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5yYMALI5rvk"
   },
   {
     "topic": "TEKKEN 8 - Season 3 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,888 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 272,866 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PSbCMA9Nevk"
+  },
+  {
+    "topic": "I Added COUPLES In Steal a Brainrot...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 281,160 views \u2022 ~462m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5yYMALI5rvk"
   },
   {
     "topic": "The Devil Wears Prada 2 | Trailer Tonight",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,182 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 100,481 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vyyPyV1d6s"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,215 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 67,654 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,216 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 20,641 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t5cJTHv3uRg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,383 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 23,657 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pwEjymwFspg"
   }
 ]
