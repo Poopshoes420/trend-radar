@@ -9,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Sorry dude",
+    "topic": "Best toad photo I ever found",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qu01yq/sorry_dude/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qu2825/best_toad_photo_i_ever_found/"
   },
   {
     "topic": "Fast math",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtqt8e/fast_math/"
   },
   {
-    "topic": "Just Walk Jalen",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtw1na/just_walk_jalen/"
-  },
-  {
     "topic": "This is how I protect myself",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtr40h/this_is_how_i_protect_myself/"
   },
   {
-    "topic": "Everyone talked about this dude like he was the boogeyman",
+    "topic": "I shat myself laughing",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtlp56/everyone_talked_about_this_dude_like_he_was_the/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qu2eor/i_shat_myself_laughing/"
   },
   {
     "topic": "since when did the side suggested videos tab became larger?",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtz9qn/since_when_did_the_side_suggested_videos_tab/"
+  },
+  {
+    "topic": "Everyone talked about this dude like he was the boogeyman",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtlp56/everyone_talked_about_this_dude_like_he_was_the/"
   },
   {
     "topic": "Using YouTube on my steam deck and was about to sign into my premium account this is first Ad I see BRUH",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtl7sx/are_you_fucking_blind/"
   },
   {
-    "topic": "There should be a way to turn off shorts",
+    "topic": "YouTube side videos have gotten BIGGER",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qttkjf/there_should_be_a_way_to_turn_off_shorts/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qu1941/youtube_side_videos_have_gotten_bigger/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1439, Part 1 (Thread #1586)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qttcs3/portugals_conservatives_back_leftwing_candidate/"
   },
   {
+    "topic": "Trump still aims for control of Greenland, its PM Nielsen warns",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qu372b/trump_still_aims_for_control_of_greenland_its_pm/"
+  },
+  {
     "topic": "Putin \u2018will send thousands of criminals to wreak havoc across Europe\u2019, Estonia\u2019s foreign minister claims",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtqml1/putin_will_send_thousands_of_criminals_to_wreak/"
-  },
-  {
-    "topic": "Canada Nears $3 Billion Uranium Deal With India, May Be Inked In March",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtsrcz/canada_nears_3_billion_uranium_deal_with_india/"
   },
   {
     "topic": "Trump says U.S. and India reached trade deal, will lower tariffs immediately",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtii2d/terraria_help_the_wiki_team_find_one_of_3_secret/"
   },
   {
+    "topic": "I Got Trained By a Minecraft TNT Master",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,326,498 views \u2022 ~542m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AjhaNdGsoFE"
+  },
+  {
     "topic": "Michael (2026) Official Trailer - Jaafar Jackson",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,030 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 1,247,501 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mbtgEE6rkxw"
+  },
+  {
+    "topic": "Love Story: John F. Kennedy Jr. & Carolyn Bessette | Official Trailer | FX",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 981,879 views \u2022 ~483m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Gw2RakWShdE"
   },
   {
     "topic": "Stranger Things: Tales From \u201885 | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,924 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 571,594 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fUiJulYbUaE"
   },
   {
@@ -200,23 +216,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,092 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 220,102 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RcvKH_VjhIQ"
   },
   {
-    "topic": "Remember the Titans",
+    "topic": "Season 13 Trailer: Last Week Tonight with John Oliver (HBO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5B4y-WlP-Lo"
+    "why": "Trending on YouTube \u2022 122,145 views \u2022 ~363m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PawUmci7JuU"
   },
   {
-    "topic": "Jumanji: The Next Level",
+    "topic": "RESIDENT EVIL 9: REQUIEM | OFFICIAL LIVE-ACTION SHORT FILM (4k) | Evil Has Always Had A Name",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QoR9cxutYhw"
+    "why": "Trending on YouTube \u2022 82,485 views \u2022 ~380m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FXnWZ_Nkspc"
+  },
+  {
+    "topic": "Conep, Michael Flores - Mamamelo (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 10,099 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=af9lGLcDkSA"
+  },
+  {
+    "topic": "Mickey Factz - Shutter Island - Plague #2 (AYE VERB DISS)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,320 views \u2022 ~243m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=poQ1_KsMJTk"
   }
 ]
