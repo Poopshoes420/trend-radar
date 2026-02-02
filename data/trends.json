@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsu5dj/love_the_satisfaction_of_k\u00eell\u00eeng_the_ad/"
   },
   {
-    "topic": "Help me \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qta6rg/help_me/"
-  },
-  {
     "topic": "I hate this with a passion.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt5ons/i_hate_this_with_a_passion/"
+  },
+  {
+    "topic": "Help me \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qta6rg/help_me/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1438, Part 1 (Thread #1585)",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qtld3j/bad_bunnys_debi_tirar_mas_fotos_wins_album_of_the/"
   },
   {
-    "topic": "Trevor Noah to Kendrick Lamar at the GRAMMYS: \u201cI actually thought about roasting you, and then I remembered what you can do to light-skinned men from other countries\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qthgzr/trevor_noah_to_kendrick_lamar_at_the_grammys_i/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -171,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt7mow/1_reboot_please/"
   },
   {
+    "topic": "One game idea per day: the true story behind Highguard's 'wild' four-year development",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtngd7/one_game_idea_per_day_the_true_story_behind/"
+  },
+  {
     "topic": "GTA: San Andreas's Original PC Version Can Now Be Beaten in Just an Hour Thanks to the Weirdest Skip You've Ever Seen",
     "sources": [
       "reddit"
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,364,942 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 1,532,404 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e9HXmMnUEdE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 688,330 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 690,360 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H_ZyBrUzcCA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 589,679 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 590,876 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ofj7NkYl9JY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,437 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 337,680 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ljS-wcfyMA8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 199,795 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 210,528 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=beaNDFJCdA8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 206,823 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 218,496 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0PASJ7A16wg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,914 views \u2022 ~310m old",
+    "why": "Trending on YouTube \u2022 101,108 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SKs80r2Lp34"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,702 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 101,321 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Z7SY0qrf5w"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,339 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 47,615 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pX9IoUSuxtM"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,104 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 34,733 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Paj4bfYx6JA"
   }
 ]
