@@ -9,24 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Fast math",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtqt8e/fast_math/"
-  },
-  {
-    "topic": "This is how I protect myself",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtr40h/this_is_how_i_protect_myself/"
-  },
-  {
     "topic": "Unexpected apology",
     "sources": [
       "reddit"
@@ -36,13 +18,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtv0ah/unexpected_apology/"
   },
   {
-    "topic": "Our big skeleton woke up with a high top this morning.",
+    "topic": "Fast math",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtglbd/our_big_skeleton_woke_up_with_a_high_top_this/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtqt8e/fast_math/"
+  },
+  {
+    "topic": "tom got rugged up on the stairs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtv89z/tom_got_rugged_up_on_the_stairs/"
+  },
+  {
+    "topic": "This is how I protect myself",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtr40h/this_is_how_i_protect_myself/"
   },
   {
     "topic": "Everyone talked about this dude like he was the boogeyman",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtl7sx/are_you_fucking_blind/"
   },
   {
+    "topic": "Using YouTube on my steam deck and was about to sign into my premium account this is first Ad I see BRUH",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtvniv/using_youtube_on_my_steam_deck_and_was_about_to/"
+  },
+  {
     "topic": "There should be a way to turn off shorts",
     "sources": [
       "reddit"
@@ -81,31 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt3gxc/wtf_even_was_2023/"
   },
   {
-    "topic": "Love the satisfaction of k\u00eell\u00eeng the ad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsu5dj/love_the_satisfaction_of_k\u00eell\u00eeng_the_ad/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1438, Part 1 (Thread #1585)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1439, Part 1 (Thread #1586)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qsnzqo/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Putin \u2018will send thousands of criminals to wreak havoc across Europe\u2019, Estonia\u2019s foreign minister claims",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtqml1/putin_will_send_thousands_of_criminals_to_wreak/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtwuzh/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Portugal\u2019s conservatives back left-wing candidate to avoid a far-right president",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qttcs3/portugals_conservatives_back_leftwing_candidate/"
   },
   {
-    "topic": "Trump moves to raise tariffs on Korea despite government's all-out-efforts to clear misunderstandings",
+    "topic": "Putin \u2018will send thousands of criminals to wreak havoc across Europe\u2019, Estonia\u2019s foreign minister claims",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtdn36/trump_moves_to_raise_tariffs_on_korea_despite/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtqml1/putin_will_send_thousands_of_criminals_to_wreak/"
   },
   {
     "topic": "Canada Nears $3 Billion Uranium Deal With India, May Be Inked In March",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtsrcz/canada_nears_3_billion_uranium_deal_with_india/"
+  },
+  {
+    "topic": "Australian snowboarder dies after becoming caught on ski lift in Japan",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtwa6n/australian_snowboarder_dies_after_becoming_caught/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtngd7/one_game_idea_per_day_the_true_story_behind/"
   },
   {
+    "topic": "[Terraria] Help the wiki team find one of 3 Secret World Seeds",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtii2d/terraria_help_the_wiki_team_find_one_of_3_secret/"
+  },
+  {
     "topic": "1 Reboot please...",
     "sources": [
       "reddit"
@@ -171,36 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt7mow/1_reboot_please/"
   },
   {
-    "topic": "GTA: San Andreas's Original PC Version Can Now Be Beaten in Just an Hour Thanks to the Weirdest Skip You've Ever Seen",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt1bui/gta_san_andreass_original_pc_version_can_now_be/"
-  },
-  {
-    "topic": "CDL DALLAS MAJOR 1 GRAND FINALS!! OpTic TEXAS VS GENTLE MATES",
+    "topic": "Stranger Things: Tales From \u201885 | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 706,286 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=H_ZyBrUzcCA"
-  },
-  {
-    "topic": "Call of Duty League Major I Tournament | Championship Sunday",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 598,896 views \u2022 ~686m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ofj7NkYl9JY"
+    "why": "Trending on YouTube \u2022 72,932 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fUiJulYbUaE"
   },
   {
     "topic": "Character Trailer - \"Zibai: Mortal Flesh to Kindred Earth\" | Genshin Impact #GenshinImpact #Zibai",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,072 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 229,508 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6iE9Gwiuz3E"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~333m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5B4y-WlP-Lo"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QoR9cxutYhw"
   }
 ]
