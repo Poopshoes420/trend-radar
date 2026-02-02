@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Fast math",
     "sources": [
       "reddit"
@@ -18,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtqt8e/fast_math/"
   },
   {
-    "topic": "Our big skeleton woke up with a high top this morning.",
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtglbd/our_big_skeleton_woke_up_with_a_high_top_this/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "This is how I protect myself",
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtr40h/this_is_how_i_protect_myself/"
   },
   {
-    "topic": "Don\u2019t act suspicious \ud83d\ude05",
+    "topic": "Our big skeleton woke up with a high top this morning.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt852t/dont_act_suspicious/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtglbd/our_big_skeleton_woke_up_with_a_high_top_this/"
+  },
+  {
+    "topic": "This is how a whale thought \ud83d\udcad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtsg1s/this_is_how_a_whale_thought/"
   },
   {
     "topic": "Everyone talked about this dude like he was the boogeyman",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt3gxc/wtf_even_was_2023/"
   },
   {
+    "topic": "There should be a way to turn off shorts",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qttkjf/there_should_be_a_way_to_turn_off_shorts/"
+  },
+  {
     "topic": "Love the satisfaction of k\u00eell\u00eeng the ad",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsu5dj/love_the_satisfaction_of_k\u00eell\u00eeng_the_ad/"
-  },
-  {
-    "topic": "YouTube sucks now...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtot08/youtube_sucks_now/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1438, Part 1 (Thread #1585)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtdn36/trump_moves_to_raise_tariffs_on_korea_despite/"
   },
   {
+    "topic": "Portugal\u2019s conservatives back left-wing candidate to avoid a far-right president",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qttcs3/portugals_conservatives_back_leftwing_candidate/"
+  },
+  {
     "topic": "Trump says if Iran doesn't agree to nuclear deal, 'we'll find out' whether U.S. attack would spark a regional war",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qthh7m/trump_says_if_iran_doesnt_agree_to_nuclear_deal/"
-  },
-  {
-    "topic": "Slovakia PM's national security adviser resigns over Epstein links",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qt4uhz/slovakia_pms_national_security_adviser_resigns/"
   },
   {
     "topic": "Bad Bunny's Debi Tirar Mas Fotos Wins Album of the Year + Speech",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtngd7/one_game_idea_per_day_the_true_story_behind/"
   },
   {
-    "topic": "GOG.com has a new TOS and it's scary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtqq1a/gogcom_has_a_new_tos_and_its_scary/"
-  },
-  {
     "topic": "1 Reboot please...",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt7mow/1_reboot_please/"
   },
   {
-    "topic": "The Devil Wears Prada 2 | Official Trailer",
+    "topic": "GTA: San Andreas's Original PC Version Can Now Be Beaten in Just an Hour Thanks to the Weirdest Skip You've Ever Seen",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 2,551,974 views \u2022 ~686m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e9HXmMnUEdE"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qt1bui/gta_san_andreass_original_pc_version_can_now_be/"
   },
   {
     "topic": "CDL DALLAS MAJOR 1 GRAND FINALS!! OpTic TEXAS VS GENTLE MATES",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 703,003 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 704,923 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H_ZyBrUzcCA"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 596,975 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 598,112 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ofj7NkYl9JY"
   },
   {
@@ -208,47 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 180,714 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 202,583 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6iE9Gwiuz3E"
-  },
-  {
-    "topic": "This New Madden Team is JUICED! Wheel of MUT! Ep. #40",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 253,941 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=beaNDFJCdA8"
   },
   {
     "topic": "Noah Kahan - The Great Divide (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,902 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 148,358 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SKs80r2Lp34"
-  },
-  {
-    "topic": "THE DEVIL WEARS PRADA 2 | Official Trailer (2026) 4K",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 78,481 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pX9IoUSuxtM"
-  },
-  {
-    "topic": "PhiDX Reacts: Tekken 8 Season 3 Announcement Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 50,543 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Paj4bfYx6JA"
   },
   {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5B4y-WlP-Lo"
   },
   {
@@ -256,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~280m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QoR9cxutYhw"
   }
 ]
