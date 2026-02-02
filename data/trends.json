@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt852t/dont_act_suspicious/"
   },
   {
-    "topic": "Robot struggles to shovel snow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt6ean/robot_struggles_to_shovel_snow/"
-  },
-  {
     "topic": "The most cute gesture of apologizing",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtjd96/the_most_cute_gesture_of_apologizing/"
+  },
+  {
+    "topic": "Robot struggles to shovel snow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qt6ean/robot_struggles_to_shovel_snow/"
   },
   {
     "topic": "Wtf even was 2023?",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsu5dj/love_the_satisfaction_of_k\u00eell\u00eeng_the_ad/"
   },
   {
+    "topic": "Are you fucking blind??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtl7sx/are_you_fucking_blind/"
+  },
+  {
     "topic": "Help me \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qt5ons/i_hate_this_with_a_passion/"
-  },
-  {
-    "topic": "I swear on my fuckin life.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qsxdve/i_swear_on_my_fuckin_life/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1438, Part 1 (Thread #1585)",
@@ -184,55 +184,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 676,608 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 682,774 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H_ZyBrUzcCA"
-  },
-  {
-    "topic": "Call of Duty League Major I Tournament | Championship Sunday",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 582,965 views \u2022 ~126m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ofj7NkYl9JY"
   },
   {
     "topic": "The Devil Wears Prada 2 | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 637,939 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 1,006,992 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e9HXmMnUEdE"
+  },
+  {
+    "topic": "Call of Duty League Major I Tournament | Championship Sunday",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 586,834 views \u2022 ~191m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ofj7NkYl9JY"
   },
   {
     "topic": "ROBLOX BRAINROT MONSTERS!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,499 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 286,997 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ljS-wcfyMA8"
+  },
+  {
+    "topic": "This New Madden Team is JUICED! Wheel of MUT! Ep. #40",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 161,030 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=beaNDFJCdA8"
   },
   {
     "topic": "My Neighbor Stinks\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,537 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 173,767 views \u2022 ~434m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0PASJ7A16wg"
-  },
-  {
-    "topic": "THE DEVIL WEARS PRADA 2 Official Teaser Trailer (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 215,336 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9IAcXv6Q-cQ"
   },
   {
     "topic": "Noah Kahan - The Great Divide (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,310 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 71,636 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SKs80r2Lp34"
   },
   {
@@ -240,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,609 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 80,054 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Z7SY0qrf5w"
+  },
+  {
+    "topic": "THE DEVIL WEARS PRADA 2 | Official Trailer (2026) 4K",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 31,730 views \u2022 ~304m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pX9IoUSuxtM"
   },
   {
     "topic": "PhiDX Reacts: Tekken 8 Season 3 Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,025 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 25,836 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Paj4bfYx6JA"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,511 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 40,943 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pwEjymwFspg"
-  },
-  {
-    "topic": "THE DEVIL WEARS PRADA 2 | Official Trailer (2026) 4K",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 12,543 views \u2022 ~239m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pX9IoUSuxtM"
   }
 ]
