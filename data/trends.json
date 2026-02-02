@@ -1,14 +1,5 @@
 [
   {
-    "topic": "tom got rugged up on the stairs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qtv89z/tom_got_rugged_up_on_the_stairs/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Sorry dude",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qu01yq/sorry_dude/"
   },
   {
     "topic": "Fast math",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qttkjf/there_should_be_a_way_to_turn_off_shorts/"
   },
   {
-    "topic": "Portugal\u2019s conservatives back left-wing candidate to avoid a far-right president",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qttcs3/portugals_conservatives_back_leftwing_candidate/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1439, Part 1 (Thread #1586)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtwuzh/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Portugal\u2019s conservatives back left-wing candidate to avoid a far-right president",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qttcs3/portugals_conservatives_back_leftwing_candidate/"
   },
   {
     "topic": "Putin \u2018will send thousands of criminals to wreak havoc across Europe\u2019, Estonia\u2019s foreign minister claims",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtqml1/putin_will_send_thousands_of_criminals_to_wreak/"
   },
   {
-    "topic": "Australian snowboarder dies after becoming caught on ski lift in Japan",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtwa6n/australian_snowboarder_dies_after_becoming_caught/"
-  },
-  {
     "topic": "Canada Nears $3 Billion Uranium Deal With India, May Be Inked In March",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qtsrcz/canada_nears_3_billion_uranium_deal_with_india/"
+  },
+  {
+    "topic": "Trump says U.S. and India reached trade deal, will lower tariffs immediately",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qu0x7r/trump_says_us_and_india_reached_trade_deal_will/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,453 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 369,030 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mbtgEE6rkxw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,397 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 244,924 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fUiJulYbUaE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,494 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 42,092 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RcvKH_VjhIQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5B4y-WlP-Lo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QoR9cxutYhw"
   }
 ]
