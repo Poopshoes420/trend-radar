@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtlp56/everyone_talked_about_this_dude_like_he_was_the/"
   },
   {
-    "topic": "Using YouTube on my steam deck and was about to sign into my premium account this is first Ad I see BRUH",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtvniv/using_youtube_on_my_steam_deck_and_was_about_to/"
-  },
-  {
     "topic": "since when did the side suggested videos tab became larger?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtz9qn/since_when_did_the_side_suggested_videos_tab/"
+  },
+  {
+    "topic": "Using YouTube on my steam deck and was about to sign into my premium account this is first Ad I see BRUH",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtvniv/using_youtube_on_my_steam_deck_and_was_about_to/"
   },
   {
     "topic": "Are you fucking blind??",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtngd7/one_game_idea_per_day_the_true_story_behind/"
   },
   {
-    "topic": "Anyone Remember Chex Quest came in a Cereal Boxes Back in the Day.",
+    "topic": "[Terraria] Help the wiki team find one of 3 Secret World Seeds",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtzrkt/anyone_remember_chex_quest_came_in_a_cereal_boxes/"
-  },
-  {
-    "topic": "Stranger Things: Tales From \u201885 | Official Teaser | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 147,024 views \u2022 ~174m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fUiJulYbUaE"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtii2d/terraria_help_the_wiki_team_find_one_of_3_secret/"
   },
   {
     "topic": "Michael (2026) Official Trailer - Jaafar Jackson",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,563 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 239,453 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mbtgEE6rkxw"
+  },
+  {
+    "topic": "Stranger Things: Tales From \u201885 | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 203,397 views \u2022 ~220m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fUiJulYbUaE"
   },
   {
     "topic": "Scream 7 | Big Game Spot (2026 Movie) \u2013 Neve Campbell, Courteney Cox",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,844 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 34,494 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RcvKH_VjhIQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5B4y-WlP-Lo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QoR9cxutYhw"
   }
 ]
