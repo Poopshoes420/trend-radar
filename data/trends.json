@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qunzg2/paris_prosecutors_raid_france_offices_of_elon/"
   },
   {
-    "topic": "[Canada] B.C. premier doubles down on calling Alberta separatist movement seeking U.S. support 'treason'",
+    "topic": "Andrew moves out of Royal Lodge home",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quvwet/canada_bc_premier_doubles_down_on_calling_alberta/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qv6k7c/andrew_moves_out_of_royal_lodge_home/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qur4y2/this_is_how_i_will_go_out_hes_got_weeks_left_to/"
   },
   {
+    "topic": "IEM Krakow 2026 - Day 7 - Stream A",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,346,724 views \u2022 ~34m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8blHz4yAer8"
+  },
+  {
     "topic": "The Drama | Official Trailer HD | A24",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,492,179 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 1,578,812 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 426,159 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 439,749 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 106,024 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 127,338 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-4_y299yx4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,516 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 184,146 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRNJoZD_nvQ"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,678 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 90,830 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BPy1NIiKKW0"
   },
   {
@@ -224,39 +232,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,595 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 48,950 views \u2022 ~397m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
-  },
-  {
-    "topic": "Good Kid - Eastside (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 26,470 views \u2022 ~360m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-kVTMlbAywQ"
-  },
-  {
-    "topic": "Wale, Leon Thomas - Watching Us",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 26,228 views \u2022 ~360m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MYIVW-wvlJQ"
   },
   {
     "topic": "Vonoff1700  - Bread Winner (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,117 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 18,903 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVTjhyxsJqM"
+  },
+  {
+    "topic": "Wale, Leon Thomas - Watching Us",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,587 views \u2022 ~398m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MYIVW-wvlJQ"
+  },
+  {
+    "topic": "Good Kid - Eastside (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,669 views \u2022 ~398m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-kVTMlbAywQ"
   },
   {
     "topic": "Bally Baby & Belly Gang Kushington - Hustlin Mf Pt. 2 (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,775 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 8,051 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kWZhG9fvpL0"
+  },
+  {
+    "topic": "Compton Av, Steelz, Lola Brooke & Natalie Nunn - YAYA (SheMix) (Video) (feat. Blueface & India Love)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,983 views \u2022 ~243m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PrU4SVVBVdw"
   }
 ]
