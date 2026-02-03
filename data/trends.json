@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv0817/ive_designed_and_3dprinted_this_funny_gadget_for/"
   },
   {
-    "topic": "This warning on the plastic packaging of my new clothes",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qurv11/this_warning_on_the_plastic_packaging_of_my_new/"
-  },
-  {
     "topic": "No more homework",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv1e1y/no_more_homework/"
   },
   {
-    "topic": "No, I don't think I will verify the age of my 19+ year old YouTube account...",
+    "topic": "This warning on the plastic packaging of my new clothes",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qujb9w/no_i_dont_think_i_will_verify_the_age_of_my_19/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qurv11/this_warning_on_the_plastic_packaging_of_my_new/"
   },
   {
     "topic": "Good old days",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quyiit/good_old_days/"
+  },
+  {
+    "topic": "No, I don't think I will verify the age of my 19+ year old YouTube account...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qujb9w/no_i_dont_think_i_will_verify_the_age_of_my_19/"
   },
   {
     "topic": "Regarding youtube",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,412,209 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 1,492,179 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 417,916 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 426,159 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,484 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 106,024 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-4_y299yx4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 166,910 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 173,516 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRNJoZD_nvQ"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,563 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 78,678 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BPy1NIiKKW0"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,153 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 45,595 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
   },
   {
@@ -232,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,712 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 26,470 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-kVTMlbAywQ"
-  },
-  {
-    "topic": "Sleep Theory - \"Words Are Worthless\"",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 31,852 views \u2022 ~453m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FAuEiDxHu9c"
   },
   {
     "topic": "Wale, Leon Thomas - Watching Us",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,911 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 26,228 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MYIVW-wvlJQ"
   },
   {
@@ -256,7 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,486 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 12,117 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVTjhyxsJqM"
+  },
+  {
+    "topic": "Bally Baby & Belly Gang Kushington - Hustlin Mf Pt. 2 (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,775 views \u2022 ~180m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kWZhG9fvpL0"
   }
 ]
