@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Owl vibing hits hard...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1quhsvw/owl_vibing_hits_hard/"
-  },
-  {
     "topic": "Old Habits come handy they say",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qunhal/old_habits_come_handy_they_say/"
+  },
+  {
+    "topic": "Owl vibing hits hard...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1quhsvw/owl_vibing_hits_hard/"
   },
   {
     "topic": "Best toad photo I ever found",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qulz0b/this_person_has_been_commenting_daily_on_alone_by/"
   },
   {
+    "topic": "WTF youtube!?! I paid \u00a315 for this movie why have you taken it away from me wtf?!?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quljw1/wtf_youtube_i_paid_15_for_this_movie_why_have_you/"
+  },
+  {
     "topic": "since when did the side suggested videos tab became larger?",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtz9qn/since_when_did_the_side_suggested_videos_tab/"
-  },
-  {
-    "topic": "Everyone talked about this dude like he was the boogeyman",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtlp56/everyone_talked_about_this_dude_like_he_was_the/"
   },
   {
     "topic": "Anyone remember pre-2016 when you could frequently find conspiracy-related and anti-establishment videos on YouTube?",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qufxi1/former_canadian_prime_ministers_stephen_harper/"
   },
   {
+    "topic": "Paris prosecutors raid France offices of Elon Musk's X",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qunzg2/paris_prosecutors_raid_france_offices_of_elon/"
+  },
+  {
     "topic": "Notepad++ says Chinese government hackers hijacked its software updates for months",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qucg9k/notepad_says_chinese_government_hackers_hijacked/"
-  },
-  {
-    "topic": "Nipah Virus Outbreak Has Asia on High Alert Amid Deaths in India",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qudhrg/nipah_virus_outbreak_has_asia_on_high_alert_amid/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,777,969 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 2,181,221 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN0lNff-zm0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 443,605 views \u2022 ~619m old",
+    "why": "Trending on YouTube \u2022 475,588 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yXXc61pVpZE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,696 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 341,703 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WDtpoVoUpEM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,698 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 216,851 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0P1Xyxv22mo"
   },
   {
@@ -216,7 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,062 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 192,616 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q8qRTRft-ic"
+  },
+  {
+    "topic": "Deadpool",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~15m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yIcjKi_EOaA"
   }
 ]
