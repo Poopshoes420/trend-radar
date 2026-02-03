@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quljw1/wtf_youtube_i_paid_15_for_this_movie_why_have_you/"
   },
   {
+    "topic": "Regarding youtube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qup2eh/regarding_youtube/"
+  },
+  {
     "topic": "since when did the side suggested videos tab became larger?",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtz9qn/since_when_did_the_side_suggested_videos_tab/"
   },
   {
-    "topic": "Anyone remember pre-2016 when you could frequently find conspiracy-related and anti-establishment videos on YouTube?",
+    "topic": "Paris prosecutors raid France offices of Elon Musk's X",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quikxd/anyone_remember_pre2016_when_you_could_frequently/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qunzg2/paris_prosecutors_raid_france_offices_of_elon/"
   },
   {
     "topic": "China to ban hidden car door handles made popular by Tesla in world first",
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qum4s1/china_to_ban_hidden_car_door_handles_made_popular/"
-  },
-  {
-    "topic": "Paris prosecutors raid France offices of Elon Musk's X",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qunzg2/paris_prosecutors_raid_france_offices_of_elon/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1440, Part 1 (Thread #1587)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qufxi1/former_canadian_prime_ministers_stephen_harper/"
   },
   {
-    "topic": "Musk's X office in France raided by Paris prosecutor",
+    "topic": "Notepad++ says Chinese government hackers hijacked its software updates for months",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quo494/musks_x_office_in_france_raided_by_paris/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qucg9k/notepad_says_chinese_government_hackers_hijacked/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,588,995 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 2,788,492 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN0lNff-zm0"
-  },
-  {
-    "topic": "OWNER Gave Me ADMIN COMMANDS In Escape Tsunami For Brainrots..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 505,981 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yXXc61pVpZE"
   },
   {
     "topic": "The Most Hectic Creator Among Us Ever.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,930 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 232,263 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0P1Xyxv22mo"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,680 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 185,974 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LuGhK_bVjUU"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yIcjKi_EOaA"
   }
 ]
