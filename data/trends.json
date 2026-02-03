@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtl7sx/are_you_fucking_blind/"
   },
   {
-    "topic": "YouTube side videos have gotten BIGGER",
+    "topic": "How tf can i resize the left sidebar?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qu1941/youtube_side_videos_have_gotten_bigger/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qtzgmh/how_tf_can_i_resize_the_left_sidebar/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1439, Part 1 (Thread #1586)",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qtngd7/one_game_idea_per_day_the_true_story_behind/"
   },
   {
+    "topic": "IEM Krakow 2026 - Day 6 - Stream A",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,442,561 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UUlJ1ueO2w8"
+  },
+  {
     "topic": "I Got Trained By a Minecraft TNT Master",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,413,391 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 1,459,408 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AjhaNdGsoFE"
-  },
-  {
-    "topic": "Michael (2026) Official Trailer - Jaafar Jackson",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,342,421 views \u2022 ~581m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mbtgEE6rkxw"
   },
   {
     "topic": "Love Story: John F. Kennedy Jr. & Carolyn Bessette | Official Trailer | FX",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,119,814 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 1,279,401 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gw2RakWShdE"
+  },
+  {
+    "topic": "Michael (2026) Official Trailer - Jaafar Jackson",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,394,826 views \u2022 ~602m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mbtgEE6rkxw"
   },
   {
     "topic": "Stranger Things: Tales From \u201885 | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 611,162 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 630,244 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fUiJulYbUaE"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,267 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 284,789 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RcvKH_VjhIQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,827 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 139,578 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PawUmci7JuU"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 89,322 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 93,394 views \u2022 ~437m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FXnWZ_Nkspc"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,178 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 27,996 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=af9lGLcDkSA"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,178 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 8,697 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=poQ1_KsMJTk"
   }
 ]
