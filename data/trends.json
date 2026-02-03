@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qugkjg/being_scottish_is_honestly_just_hard/"
   },
   {
-    "topic": "Just let the old man watch the game.",
+    "topic": "The secret to happiness",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qulm6o/just_let_the_old_man_watch_the_game/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1quwerq/the_secret_to_happiness/"
   },
   {
     "topic": "No, I don't think I will verify the age of my 19+ year old YouTube account...",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quljw1/wtf_youtube_i_paid_15_for_this_movie_why_have_you/"
   },
   {
+    "topic": "Genuinely starting to hate these comments",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quq3lu/genuinely_starting_to_hate_these_comments/"
+  },
+  {
     "topic": "This person has been commenting daily on \u201cAlone\u201d by Marshmello for 1500+ days straight",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qulz0b/this_person_has_been_commenting_daily_on_alone_by/"
-  },
-  {
-    "topic": "Channel with 845,000 subscribers but only one actual video?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qurhmb/channel_with_845000_subscribers_but_only_one/"
   },
   {
     "topic": "Paris prosecutors raid France offices of Elon Musk's X",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qutkuf/avowed_and_the_outer_worlds_2_failed_to_meet/"
   },
   {
+    "topic": "Highguard boss Chad Grenier says it \"doesn\u2019t matter\" how many people played the game, only that \"the game is loved by the people who played it.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1quw531/highguard_boss_chad_grenier_says_it_doesnt_matter/"
+  },
+  {
     "topic": "'This is how I will go out': He's got weeks left to live, and he's spending them playing Doom",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qukz1x/nintendo_switch_2_has_officially_sold_1737/"
   },
   {
-    "topic": "Ashes of Creation's leadership team quits \"in protest\" as director accuses board of decisions he could \"not ethically agree with or carry out\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1quesva/ashes_of_creations_leadership_team_quits_in/"
-  },
-  {
     "topic": "Dhurandhar: The Revenge Official Hindi Teaser | Ranveer S | Aditya D | In Cinemas 19 March 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,627,105 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 5,177,715 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN0lNff-zm0"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 352,839 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 354,300 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ordje0LjzJ4"
+  },
+  {
+    "topic": "The Drama | Official Trailer HD | A24",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 240,127 views \u2022 ~189m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
   },
   {
     "topic": "HELLDIVERS\u2122 2: Galactic Offensive Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 153,736 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 211,389 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 276,563 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 305,230 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dkqff-Sp0A0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yIcjKi_EOaA"
   }
 ]
