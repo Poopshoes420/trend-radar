@@ -1,23 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
-    "topic": "recently got a place with my boyfriend and he thinks this is perfectly fine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvevem/recently_got_a_place_with_my_boyfriend_and_he/"
-  },
-  {
     "topic": "Recently got a place with my girlfriend. She thinks this is totally fine",
     "sources": [
       "reddit"
@@ -25,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvp387/recently_got_a_place_with_my_girlfriend_she/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Uh\u2026 what time is it?",
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvpauu/uh_what_time_is_it/"
   },
   {
-    "topic": "Japanese Idol Carries Love & Peace in Her Travel Bag \ud83d\ude2d",
+    "topic": "recently got a place with my boyfriend and he thinks this is perfectly fine",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvo12q/japanese_idol_carries_love_peace_in_her_travel_bag/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvevem/recently_got_a_place_with_my_boyfriend_and_he/"
+  },
+  {
+    "topic": "See no evil*",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvqc3r/see_no_evil/"
   },
   {
     "topic": "Good old days",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
   },
   {
-    "topic": "Nearly 900 Nazi-linked accounts discovered at Credit Suisse, US lawmaker says",
+    "topic": "Banks warn AI data center debt boom poses systemic risks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvo8l2/nearly_900_nazilinked_accounts_discovered_at/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvn9f1/banks_warn_ai_data_center_debt_boom_poses/"
   },
   {
     "topic": "Elon Musk calls Pedro S\u00e1nchez a \u2018tyrant and traitor to the people of Spain\u2019",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 901,216 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 911,419 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
   }
 ]
