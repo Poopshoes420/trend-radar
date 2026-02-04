@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Now we know",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvibqz/now_we_know/"
-  },
-  {
     "topic": "I\u2019ve designed and 3D-printed this funny gadget for Valentine\u2019s Day.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qus1su/look_closely_its_his_snout/"
+  },
+  {
+    "topic": "No more homework",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv1e1y/no_more_homework/"
   },
   {
     "topic": "Good old days",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv82or/why_did_youtube_remove_the_option_to_sort_by/"
   },
   {
+    "topic": "Subscription Tab doesnt have list view anymore, and doesnt show the most recent uploads until you scroll past the shorts",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv8mby/subscription_tab_doesnt_have_list_view_anymore/"
+  },
+  {
     "topic": "?flow=2 was removed, the new UI is terrible",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv165q/flow2_was_removed_the_new_ui_is_terrible/"
   },
   {
-    "topic": "Subscription Tab doesnt have list view anymore, and doesnt show the most recent uploads until you scroll past the shorts",
+    "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv8mby/subscription_tab_doesnt_have_list_view_anymore/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvc9oy/elon_musk_calls_pedro_s\u00e1nchez_a_tyrant_and/"
-  },
-  {
-    "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
   },
   {
     "topic": "Canada's next election likely to face AI-assisted interference, watchdogs say - Officials plan to monitor for interference from any country, including the United States",
@@ -184,31 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,014,651 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 1,030,110 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvasHKo6Oos"
-  },
-  {
-    "topic": "We Delivered Pizza in the Wrong Neighborhood",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 654,643 views \u2022 ~631m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ccDi4P-23y4"
   },
   {
     "topic": "FUERZA REGIDA - TRISTON (OFICIAL VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 379,846 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 625,648 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1vj7-QHImKg"
+  },
+  {
+    "topic": "We Delivered Pizza in the Wrong Neighborhood",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 689,224 views \u2022 ~690m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ccDi4P-23y4"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sahcs5wovnk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 230,039 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 248,958 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nSYwAV_NwWA"
   },
   {
@@ -224,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,360 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 265,208 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6SVRDHlhTbQ"
+  },
+  {
+    "topic": "Cast Away",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~19m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   }
 ]
