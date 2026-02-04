@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvoyd4/nintendo_acknowledges_switch_2_sales_have_been/"
   },
   {
-    "topic": "CAIRN is an absolute 10/10 indie game.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvujzq/cairn_is_an_absolute_1010_indie_game/"
-  },
-  {
     "topic": "Doom devs including John Romero respond to terminally ill fan spending his final days playing Doom: The Dark Ages: \"You are not alone in that hospital room\" \ud83e\udd18",
     "sources": [
       "reddit"
@@ -180,19 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvvq87/doom_devs_including_john_romero_respond_to/"
   },
   {
+    "topic": "CAIRN is an absolute 10/10 indie game.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvujzq/cairn_is_an_absolute_1010_indie_game/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS + DAY 1 DELTA FORCE EVENT Cloakzy x Mendo x Gingy | #Bungulate",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 944,863 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 949,582 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
+  },
+  {
+    "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 172,081 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
   },
   {
     "topic": "HELLDIVERS\u2122 2: A Bastion of Freedom Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 172,827 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 181,307 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
   },
   {
@@ -200,39 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,509 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 90,443 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yogNTgCr9-A"
-  },
-  {
-    "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 26,124 views \u2022 ~108m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
   },
   {
     "topic": "Freya Skye - golden boy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,361 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 44,681 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n5Wy48g_byQ"
-  },
-  {
-    "topic": "Real Boston Richey - Double R (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 32,253 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iVLQ60L57z4"
   },
   {
     "topic": "Cast Away",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   }
 ]
