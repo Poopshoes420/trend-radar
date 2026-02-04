@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv1e1y/no_more_homework/"
   },
   {
-    "topic": "Look closely, it's his snout.",
+    "topic": "An Ontario Ice Cream Store.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qus1su/look_closely_its_his_snout/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvhxk8/an_ontario_ice_cream_store/"
   },
   {
     "topic": "Good old days",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qujb9w/no_i_dont_think_i_will_verify_the_age_of_my_19/"
   },
   {
-    "topic": "Why did youtube remove the option to sort by upload date ??",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv82or/why_did_youtube_remove_the_option_to_sort_by/"
-  },
-  {
     "topic": "I lost power for a few seconds and now my background is an image of Willem Dafoe",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvfq3j/i_lost_power_for_a_few_seconds_and_now_my/"
+  },
+  {
+    "topic": "Why did youtube remove the option to sort by upload date ??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv82or/why_did_youtube_remove_the_option_to_sort_by/"
   },
   {
     "topic": "Subscription Tab doesnt have list view anymore, and doesnt show the most recent uploads until you scroll past the shorts",
@@ -180,43 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qv4ld3/gta_6_marketing_will_kick_off_this_summer_as/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS",
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS + DAY 1 DELTA FORCE EVENT Cloakzy x Mendo x Gingy | #Bungulate",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 870,555 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 876,524 views \u2022 ~118m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
-  },
-  {
-    "topic": "TACO TUESDAY ADMIN ABUSE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,041,930 views \u2022 ~637m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IvasHKo6Oos"
   },
   {
     "topic": "FUERZA REGIDA - TRISTON (OFICIAL VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 655,090 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 665,410 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1vj7-QHImKg"
   },
   {
-    "topic": "Someone Is Stalking Me In My New Apartment\u2026",
+    "topic": "Guessing YOUR Ranks in Rainbow Six Siege!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 287,058 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6SVRDHlhTbQ"
+    "why": "Trending on YouTube \u2022 271,975 views \u2022 ~705m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nSYwAV_NwWA"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sahcs5wovnk"
   },
   {
@@ -224,7 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
+  },
+  {
+    "topic": "Thor: Ragnarok",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~35m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
   }
 ]
