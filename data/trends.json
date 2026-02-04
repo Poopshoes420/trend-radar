@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv0817/ive_designed_and_3dprinted_this_funny_gadget_for/"
   },
   {
-    "topic": "No more homework",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv1e1y/no_more_homework/"
-  },
-  {
     "topic": "An Ontario Ice Cream Store.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvhxk8/an_ontario_ice_cream_store/"
+  },
+  {
+    "topic": "No more homework",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv1e1y/no_more_homework/"
   },
   {
     "topic": "Good old days",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvezkv/sorry_but_that_countdown_on_amazons_fallout_site/"
   },
   {
+    "topic": "Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio\u2019s Shocking Collapse: \u2018None Of Us Are Receiving Our Final Paychecks\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvlou5/ashes_of_creation_dev_details_32_million/"
+  },
+  {
     "topic": "Whatever happened to \"The Last Night\" !? It's been almost 9 years since the announcement at E3!",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qve3nv/whatever_happened_to_the_last_night_its_been/"
   },
   {
-    "topic": "GTA 6 Marketing Will Kick Off This Summer, as Take-Two Confidently Reaffirms November Release Date",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qv4ld3/gta_6_marketing_will_kick_off_this_summer_as/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS + DAY 1 DELTA FORCE EVENT Cloakzy x Mendo x Gingy | #Bungulate",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 876,524 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 879,066 views \u2022 ~144m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 665,410 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 673,169 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1vj7-QHImKg"
-  },
-  {
-    "topic": "Guessing YOUR Ranks in Rainbow Six Siege!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 271,975 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nSYwAV_NwWA"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sahcs5wovnk"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~35m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
   }
 ]
