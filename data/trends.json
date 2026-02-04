@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvpauu/uh_what_time_is_it/"
   },
   {
-    "topic": "recently got a place with my boyfriend and he thinks this is perfectly fine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvevem/recently_got_a_place_with_my_boyfriend_and_he/"
-  },
-  {
     "topic": "See no evil*",
     "sources": [
       "reddit"
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvqc3r/see_no_evil/"
   },
   {
+    "topic": "recently got a place with my boyfriend and he thinks this is perfectly fine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvevem/recently_got_a_place_with_my_boyfriend_and_he/"
+  },
+  {
     "topic": "Good old days",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quyiit/good_old_days/"
+  },
+  {
+    "topic": "The new Subscriptions view sucks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvsupq/the_new_subscriptions_view_sucks/"
   },
   {
     "topic": "I lost power for a few seconds and now my background is an image of Willem Dafoe",
@@ -72,40 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvk2hn/why_is_youtube_so_censored_i_saw_real_video_with/"
   },
   {
-    "topic": "No, I don't think I will verify the age of my 19+ year old YouTube account...",
+    "topic": "How is it possible that YT had an actual explicit adult image in an ad I was shown? (link to screenshot in comments)",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qujb9w/no_i_dont_think_i_will_verify_the_age_of_my_19/"
-  },
-  {
-    "topic": "Why did youtube remove the option to sort by upload date ??",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv82or/why_did_youtube_remove_the_option_to_sort_by/"
-  },
-  {
-    "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qve8y7/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvoanv/how_is_it_possible_that_yt_had_an_actual_explicit/"
   },
   {
     "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
@@ -117,22 +99,49 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
   },
   {
-    "topic": "Banks warn AI data center debt boom poses systemic risks",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvn9f1/banks_warn_ai_data_center_debt_boom_poses/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qve8y7/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Elon Musk calls Pedro S\u00e1nchez a \u2018tyrant and traitor to the people of Spain\u2019",
+    "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvc9oy/elon_musk_calls_pedro_s\u00e1nchez_a_tyrant_and/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
+  },
+  {
+    "topic": "Former Canadian PM Harper says Canada should make 'any sacrifice necessary' to preserve independence from US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvrp9l/former_canadian_pm_harper_says_canada_should_make/"
+  },
+  {
+    "topic": "Canada and France establish diplomatic presence in Greenland amid Trump threats",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvni17/canada_and_france_establish_diplomatic_presence/"
+  },
+  {
+    "topic": "Woody Allen's wife Soon-Yi Previn emails Jeffrey Epstein about Anthony Weiner sexting a 15-year-old girl and calls the girl a \"despicable and disgusting person who preys on the weak.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qvq8yk/woody_allens_wife_soonyi_previn_emails_jeffrey/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +171,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvoyd4/nintendo_acknowledges_switch_2_sales_have_been/"
   },
   {
-    "topic": "Ubisoft fires 13-year Assassin's Creed veteran just days after suspending him for speaking out against the company's return-to-office mandate: \"This was not my decision\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvaifu/ubisoft_fires_13year_assassins_creed_veteran_just/"
-  },
-  {
     "topic": "Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio\u2019s Shocking Collapse: \u2018None Of Us Are Receiving Our Final Paychecks\u2019",
     "sources": [
       "reddit"
@@ -184,15 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 911,419 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 916,968 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
+  },
+  {
+    "topic": "#Pokemon30 | Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,772 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yogNTgCr9-A"
+  },
+  {
+    "topic": "Real Boston Richey - Double R (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,426 views \u2022 ~526m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iVLQ60L57z4"
   },
   {
     "topic": "Cast Away",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~443m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
   }
 ]
