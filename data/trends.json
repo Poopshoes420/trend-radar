@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvsupq/the_new_subscriptions_view_sucks/"
   },
   {
+    "topic": "How is this ad allowed?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvutw9/how_is_this_ad_allowed/"
+  },
+  {
     "topic": "Good old days",
     "sources": [
       "reddit"
@@ -63,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quyiit/good_old_days/"
   },
   {
-    "topic": "How is this ad allowed?",
+    "topic": "Does anyone actually use the \"Bell\" icon?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvutw9/how_is_this_ad_allowed/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvxtqp/does_anyone_actually_use_the_bell_icon/"
   },
   {
     "topic": "I lost power for a few seconds and now my background is an image of Willem Dafoe",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvfq3j/i_lost_power_for_a_few_seconds_and_now_my/"
   },
   {
-    "topic": "Why is youtube so censored? I saw real video with the creator censoring the word \"Peaceful\" but my functionally-delusionalass forgot to screenshot it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvk2hn/why_is_youtube_so_censored_i_saw_real_video_with/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
     "sources": [
       "reddit"
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qve8y7/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
-  },
-  {
     "topic": "Former Canadian PM Harper says Canada should make 'any sacrifice necessary' to preserve independence from US",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvrp9l/former_canadian_pm_harper_says_canada_should_make/"
+  },
+  {
+    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
   },
   {
     "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
@@ -180,27 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvujzq/cairn_is_an_absolute_1010_indie_game/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS + DAY 1 DELTA FORCE EVENT Cloakzy x Mendo x Gingy | #Bungulate",
+    "topic": "WAR MACHINE | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 949,582 views \u2022 ~644m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
+    "why": "Trending on YouTube \u2022 371,807 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AFuE1LRxm80"
   },
   {
     "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 172,081 views \u2022 ~139m old",
+    "why": "Trending on YouTube \u2022 289,879 views \u2022 ~177m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS + DAY 1 DELTA FORCE EVENT Cloakzy x Mendo x Gingy | #Bungulate",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 955,072 views \u2022 ~682m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
   },
   {
     "topic": "HELLDIVERS\u2122 2: A Bastion of Freedom Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,307 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 188,294 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,443 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 96,806 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yogNTgCr9-A"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,681 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 51,099 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n5Wy48g_byQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   }
 ]
