@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvutw9/how_is_this_ad_allowed/"
   },
   {
+    "topic": "Recommendations and \"don't recommend this channel\" features are broken",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw38ws/recommendations_and_dont_recommend_this_channel/"
+  },
+  {
     "topic": "Good old days",
     "sources": [
       "reddit"
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvxtqp/does_anyone_actually_use_the_bell_icon/"
   },
   {
-    "topic": "I lost power for a few seconds and now my background is an image of Willem Dafoe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvfq3j/i_lost_power_for_a_few_seconds_and_now_my/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
     "sources": [
       "reddit"
@@ -97,15 +97,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qve8y7/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
   },
   {
     "topic": "Kyiv bureau among those axed by Jeff Bezos' Washington Post, hundreds of journalists laid off",
@@ -117,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvxynr/kyiv_bureau_among_those_axed_by_jeff_bezos/"
   },
   {
+    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
+  },
+  {
+    "topic": "NDP wants Carney to kill U.S. fighter jet contract in favour of Swedish aircraft",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qw36nr/ndp_wants_carney_to_kill_us_fighter_jet_contract/"
+  },
+  {
     "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
-  },
-  {
-    "topic": "Finland's Stubb: We must admit the US is changing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvucak/finlands_stubb_we_must_admit_the_us_is_changing/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvv50q/it_is_hilarious_when_npcs_call_you_out_on_your/"
   },
   {
+    "topic": "BIG UPDATE In My Own Game!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 207,310 views \u2022 ~41m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QN6PnfFwPSI"
+  },
+  {
     "topic": "WAR MACHINE | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 916,709 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 1,071,673 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AFuE1LRxm80"
+  },
+  {
+    "topic": "RESTRICTED_salvation",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 413,968 views \u2022 ~209m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HCXE75VR0NI"
   },
   {
     "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 556,343 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 610,582 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
-  },
-  {
-    "topic": "BIG NEWS DAY! OVERWATCH SPOTLIGHT TODAY !gamersupps",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 97,611 views \u2022 ~144m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0wIbKV2KBVA"
   },
   {
     "topic": "HELLDIVERS\u2122 2: A Bastion of Freedom Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 208,351 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 212,993 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,009 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 96,089 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n5Wy48g_byQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,909 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 120,318 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yogNTgCr9-A"
   }
 ]
