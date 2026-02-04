@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Look closely, it's his snout.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qus1su/look_closely_its_his_snout/"
-  },
-  {
     "topic": "I\u2019ve designed and 3D-printed this funny gadget for Valentine\u2019s Day.",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv0817/ive_designed_and_3dprinted_this_funny_gadget_for/"
+  },
+  {
+    "topic": "Look closely, it's his snout.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qus1su/look_closely_its_his_snout/"
   },
   {
     "topic": "No more homework",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qujb9w/no_i_dont_think_i_will_verify_the_age_of_my_19/"
   },
   {
-    "topic": "Regarding youtube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qup2eh/regarding_youtube/"
-  },
-  {
     "topic": "?flow=2 was removed, the new UI is terrible",
     "sources": [
       "reddit"
@@ -81,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv165q/flow2_was_removed_the_new_ui_is_terrible/"
   },
   {
+    "topic": "Regarding youtube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qup2eh/regarding_youtube/"
+  },
+  {
     "topic": "Genuinely starting to hate these comments",
     "sources": [
       "reddit"
@@ -88,6 +88,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quq3lu/genuinely_starting_to_hate_these_comments/"
+  },
+  {
+    "topic": "Andrew moves out of Royal Lodge home",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qv6k7c/andrew_moves_out_of_royal_lodge_home/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1440, Part 1 (Thread #1587)",
@@ -108,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qusqrc/french_prosecutors_seek_to_ban_marine_le_pen_from/"
   },
   {
-    "topic": "Andrew moves out of Royal Lodge home",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qv6k7c/andrew_moves_out_of_royal_lodge_home/"
-  },
-  {
     "topic": "US shoots down Iranian drone approaching aircraft carrier, official says",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quy7qi/us_shoots_down_iranian_drone_approaching_aircraft/"
   },
   {
-    "topic": "Paris prosecutors raid France offices of Elon Musk's X",
+    "topic": "[Canada] B.C. premier doubles down on calling Alberta separatist movement seeking U.S. support 'treason'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qunzg2/paris_prosecutors_raid_france_offices_of_elon/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quvwet/canada_bc_premier_doubles_down_on_calling_alberta/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qto2jp/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "Ubisoft fires 13-year Assassin's Creed veteran just days after suspending him for speaking out against the company's return-to-office mandate: \"This was not my decision\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvaifu/ubisoft_fires_13year_assassins_creed_veteran_just/"
   },
   {
     "topic": "Highguard boss Chad Grenier says it \"doesn\u2019t matter\" how many people played the game, only that \"the game is loved by the people who played it.\"",
@@ -171,52 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qutkuf/avowed_and_the_outer_worlds_2_failed_to_meet/"
   },
   {
-    "topic": "'This is how I will go out': He's got weeks left to live, and he's spending them playing Doom",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qur4y2/this_is_how_i_will_go_out_hes_got_weeks_left_to/"
-  },
-  {
-    "topic": "IEM Krakow 2026 - Day 7 - Stream A",
+    "topic": "STEAL A BRAINROT ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,390,541 views \u2022 ~55m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8blHz4yAer8"
+    "why": "Trending on YouTube \u2022 1,728,021 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0zFPVxzb_Ms"
   },
   {
-    "topic": "The Drama | Official Trailer HD | A24",
+    "topic": "TACO TUESDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,626,218 views \u2022 ~598m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
+    "why": "Trending on YouTube \u2022 940,392 views \u2022 ~151m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IvasHKo6Oos"
+  },
+  {
+    "topic": "Monarch: Legacy of Monsters \u2014 Season 2 Official Trailer | Apple TV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,305,714 views \u2022 ~512m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZgWrFoaisdk"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,113 views \u2022 ~97m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_-e_WloZrg0"
+    "why": "Trending on YouTube \u2022 260,032 views \u2022 ~217m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HkLmqkuZOrU"
   },
   {
-    "topic": "HELLDIVERS\u2122 2: Galactic Offensive Trailer",
+    "topic": "We Delivered Pizza in the Wrong Neighborhood",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 447,559 views \u2022 ~658m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3_ZVYxDgbM0"
+    "why": "Trending on YouTube \u2022 290,394 views \u2022 ~259m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ccDi4P-23y4"
   },
   {
     "topic": "Can you figure out what game I'm actually playing?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,733 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 285,710 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-4_y299yx4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 190,110 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 225,376 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XRNJoZD_nvQ"
   },
   {
@@ -232,63 +240,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,275 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 149,771 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BPy1NIiKKW0"
-  },
-  {
-    "topic": "MLB The Show 26 Gameplay Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 50,688 views \u2022 ~417m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
   },
   {
     "topic": "Vonoff1700  - Bread Winner (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,470 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 51,646 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVTjhyxsJqM"
+  },
+  {
+    "topic": "MLB The Show 26 Gameplay Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,354 views \u2022 ~587m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
   },
   {
     "topic": "Wale, Leon Thomas - Watching Us",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,301 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 59,791 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MYIVW-wvlJQ"
   },
   {
-    "topic": "Good Kid - Eastside (Official Video)",
+    "topic": "Bonita Bonita",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,430 views \u2022 ~418m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-kVTMlbAywQ"
-  },
-  {
-    "topic": "Nino Paid - 13th Reason (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 14,841 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0EfTmYCtYLo"
-  },
-  {
-    "topic": "Bally Baby & Belly Gang Kushington - Hustlin Mf Pt. 2 (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 9,106 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kWZhG9fvpL0"
+    "why": "Trending on YouTube \u2022 67,919 views \u2022 ~708m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e-kipIfGvJg"
   },
   {
     "topic": "Compton Av, Steelz, Lola Brooke & Natalie Nunn - YAYA (SheMix) (Video) (feat. Blueface & India Love)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,720 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 38,573 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PrU4SVVBVdw"
+  },
+  {
+    "topic": "Nino Paid - 13th Reason (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,337 views \u2022 ~407m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0EfTmYCtYLo"
+  },
+  {
+    "topic": "Good Kid - Eastside (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 41,727 views \u2022 ~587m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-kVTMlbAywQ"
+  },
+  {
+    "topic": "Bally Baby & Belly Gang Kushington - Hustlin Mf Pt. 2 (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 25,246 views \u2022 ~407m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kWZhG9fvpL0"
   }
 ]
