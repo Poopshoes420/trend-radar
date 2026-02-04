@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv165q/flow2_was_removed_the_new_ui_is_terrible/"
   },
   {
+    "topic": "Why did youtube remove the option to sort by upload date ??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv82or/why_did_youtube_remove_the_option_to_sort_by/"
+  },
+  {
     "topic": "Regarding youtube",
     "sources": [
       "reddit"
@@ -81,13 +90,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qup2eh/regarding_youtube/"
   },
   {
-    "topic": "Genuinely starting to hate these comments",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quq3lu/genuinely_starting_to_hate_these_comments/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qve8y7/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Mother says asking 13-year-old son to swim four hours to save family \u2018one of the hardest decisions\u2019 ever made",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvc7dg/mother_says_asking_13yearold_son_to_swim_four/"
   },
   {
     "topic": "Andrew moves out of Royal Lodge home",
@@ -99,24 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qv6k7c/andrew_moves_out_of_royal_lodge_home/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1440, Part 1 (Thread #1587)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quhqso/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "French prosecutors seek to ban Marine Le Pen from office, jeopardizing her 2027 presidential bid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qusqrc/french_prosecutors_seek_to_ban_marine_le_pen_from/"
-  },
-  {
     "topic": "US shoots down Iranian drone approaching aircraft carrier, official says",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quy7qi/us_shoots_down_iranian_drone_approaching_aircraft/"
   },
   {
-    "topic": "[Canada] B.C. premier doubles down on calling Alberta separatist movement seeking U.S. support 'treason'",
+    "topic": "French prosecutors seek to ban Marine Le Pen from office, jeopardizing her 2027 presidential bid",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1quvwet/canada_bc_premier_doubles_down_on_calling_alberta/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qusqrc/french_prosecutors_seek_to_ban_marine_le_pen_from/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,728,021 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 1,733,029 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0zFPVxzb_Ms"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 940,392 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 962,861 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvasHKo6Oos"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,305,714 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 1,531,952 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZgWrFoaisdk"
   },
   {
@@ -208,15 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,032 views \u2022 ~217m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HkLmqkuZOrU"
+    "why": "Trending on YouTube \u2022 194,961 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sahcs5wovnk"
   },
   {
     "topic": "We Delivered Pizza in the Wrong Neighborhood",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 290,394 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 394,914 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ccDi4P-23y4"
   },
   {
@@ -224,23 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 285,710 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 354,123 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-4_y299yx4"
   },
   {
-    "topic": "Apex Legends: Breach Gameplay Trailer",
+    "topic": "Someone Is Stalking Me In My New Apartment\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,376 views \u2022 ~647m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XRNJoZD_nvQ"
+    "why": "Trending on YouTube \u2022 121,134 views \u2022 ~323m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6SVRDHlhTbQ"
+  },
+  {
+    "topic": "FUERZA REGIDA - TRISTON (OFICIAL VIDEO)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 69,926 views \u2022 ~212m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1vj7-QHImKg"
   },
   {
     "topic": "Mitski - I'll Change for You",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,771 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 172,119 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BPy1NIiKKW0"
   },
   {
@@ -248,47 +256,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,646 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 65,945 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVTjhyxsJqM"
-  },
-  {
-    "topic": "MLB The Show 26 Gameplay Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 61,354 views \u2022 ~587m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
   },
   {
     "topic": "Wale, Leon Thomas - Watching Us",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,791 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 72,927 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MYIVW-wvlJQ"
-  },
-  {
-    "topic": "Bonita Bonita",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 67,919 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e-kipIfGvJg"
   },
   {
     "topic": "Compton Av, Steelz, Lola Brooke & Natalie Nunn - YAYA (SheMix) (Video) (feat. Blueface & India Love)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,573 views \u2022 ~432m old",
+    "why": "Trending on YouTube \u2022 53,866 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PrU4SVVBVdw"
+  },
+  {
+    "topic": "MLB The Show 26 Gameplay Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 65,930 views \u2022 ~682m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5wBQfm6RxLo"
   },
   {
     "topic": "Nino Paid - 13th Reason (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,337 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 41,737 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0EfTmYCtYLo"
   },
   {
@@ -296,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,727 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 46,328 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-kVTMlbAywQ"
   },
   {
@@ -304,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,246 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 33,587 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kWZhG9fvpL0"
   }
 ]
