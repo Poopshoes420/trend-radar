@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvp387/recently_got_a_place_with_my_girlfriend_she/"
   },
   {
-    "topic": "Uh\u2026 what time is it?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvpauu/uh_what_time_is_it/"
-  },
-  {
     "topic": "See no evil*",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvqc3r/see_no_evil/"
+  },
+  {
+    "topic": "Uh\u2026 what time is it?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvpauu/uh_what_time_is_it/"
   },
   {
     "topic": "The new Subscriptions view sucks",
@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1quyiit/good_old_days/"
   },
   {
-    "topic": "How is it possible that YT had an actual explicit adult image in an ad I was shown? (link to screenshot in comments)",
+    "topic": "How is this ad allowed?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvoanv/how_is_it_possible_that_yt_had_an_actual_explicit/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvutw9/how_is_this_ad_allowed/"
   },
   {
     "topic": "I lost power for a few seconds and now my background is an image of Willem Dafoe",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
   },
   {
-    "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
-  },
-  {
     "topic": "Former Canadian PM Harper says Canada should make 'any sacrifice necessary' to preserve independence from US",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvrp9l/former_canadian_pm_harper_says_canada_should_make/"
   },
   {
-    "topic": "Canada and France establish diplomatic presence in Greenland amid Trump threats",
+    "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvni17/canada_and_france_establish_diplomatic_presence/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvj4u1/investigating_child_sex_abuse_isnt_controversial/"
+  },
+  {
+    "topic": "Finland's Stubb: We must admit the US is changing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvucak/finlands_stubb_we_must_admit_the_us_is_changing/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,13 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qto2jp/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Microtransactions: the product idea of actual sex criminals. Epstein and Bobby Kottick discussing the indoctrination of children",
+    "topic": "Overwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvq01r/microtransactions_the_product_idea_of_actual_sex/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvxaro/overwatch_2_is_ditching_the_2_amid_launch_of_new/"
   },
   {
     "topic": "Nintendo Acknowledges Switch 2 Sales Have Been Weaker Than Expected Outside Japan",
@@ -171,36 +171,52 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvujzq/cairn_is_an_absolute_1010_indie_game/"
   },
   {
-    "topic": "Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio\u2019s Shocking Collapse: \u2018None Of Us Are Receiving Our Final Paychecks\u2019",
+    "topic": "Doom devs including John Romero respond to terminally ill fan spending his final days playing Doom: The Dark Ages: \"You are not alone in that hospital room\" \ud83e\udd18",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvlou5/ashes_of_creation_dev_details_32_million/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvvq87/doom_devs_including_john_romero_respond_to/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS + DAY 1 DELTA FORCE EVENT Cloakzy x Mendo x Gingy | #Bungulate",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 937,197 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 944,863 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
+  },
+  {
+    "topic": "HELLDIVERS\u2122 2: A Bastion of Freedom Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 172,827 views \u2022 ~408m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=B8ZhrAP7k6Y"
   },
   {
     "topic": "#Pokemon30 | Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,828 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 84,509 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yogNTgCr9-A"
+  },
+  {
+    "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,124 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
   },
   {
     "topic": "Freya Skye - golden boy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,988 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 37,361 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n5Wy48g_byQ"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,011 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 32,253 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iVLQ60L57z4"
   },
   {
@@ -216,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
-  },
-  {
-    "topic": "Thor: Ragnarok",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=a4rMn3QOd3c"
   }
 ]
