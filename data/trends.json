@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv0817/ive_designed_and_3dprinted_this_funny_gadget_for/"
   },
   {
-    "topic": "Look closely, it's his snout.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qus1su/look_closely_its_his_snout/"
-  },
-  {
     "topic": "No more homework",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qv1e1y/no_more_homework/"
+  },
+  {
+    "topic": "Look closely, it's his snout.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qus1su/look_closely_its_his_snout/"
   },
   {
     "topic": "Good old days",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv82or/why_did_youtube_remove_the_option_to_sort_by/"
   },
   {
+    "topic": "I lost power for a few seconds and now my background is an image of Willem Dafoe",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvfq3j/i_lost_power_for_a_few_seconds_and_now_my/"
+  },
+  {
     "topic": "Subscription Tab doesnt have list view anymore, and doesnt show the most recent uploads until you scroll past the shorts",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv8mby/subscription_tab_doesnt_have_list_view_anymore/"
-  },
-  {
-    "topic": "?flow=2 was removed, the new UI is terrible",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qv165q/flow2_was_removed_the_new_ui_is_terrible/"
   },
   {
     "topic": "\u2018Investigating child sex abuse isn\u2019t controversial. Turning it into political theater is manipulation. Maybe that logic flies on some island. Doesn\u2019t fly in France\u2019: France rejects Musk\u2019s charge after raid on X\u2019s Paris office",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvc9oy/elon_musk_calls_pedro_s\u00e1nchez_a_tyrant_and/"
   },
   {
-    "topic": "Canada's next election likely to face AI-assisted interference, watchdogs say - Officials plan to monitor for interference from any country, including the United States",
+    "topic": "Spanish Prime Minister Pedro Sanchez announces plans to ban social media access for under-16s",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qv9exg/canadas_next_election_likely_to_face_aiassisted/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvggam/spanish_prime_minister_pedro_sanchez_announces/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvezkv/sorry_but_that_countdown_on_amazons_fallout_site/"
   },
   {
+    "topic": "Whatever happened to \"The Last Night\" !? It's been almost 9 years since the announcement at E3!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qve3nv/whatever_happened_to_the_last_night_its_been/"
+  },
+  {
     "topic": "GTA 6 Marketing Will Kick Off This Summer, as Take-Two Confidently Reaffirms November Release Date",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qv4ld3/gta_6_marketing_will_kick_off_this_summer_as/"
   },
   {
-    "topic": "Highguard boss Chad Grenier says it \"doesn\u2019t matter\" how many people played the game, only that \"the game is loved by the people who played it.\"",
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1quw531/highguard_boss_chad_grenier_says_it_doesnt_matter/"
+    "why": "Trending on YouTube \u2022 870,555 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XKzwVyE4d_E"
   },
   {
     "topic": "TACO TUESDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,030,110 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 1,041,930 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvasHKo6Oos"
   },
   {
@@ -192,47 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 625,648 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 655,090 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1vj7-QHImKg"
-  },
-  {
-    "topic": "We Delivered Pizza in the Wrong Neighborhood",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 689,224 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ccDi4P-23y4"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~478m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sahcs5wovnk"
-  },
-  {
-    "topic": "Guessing YOUR Ranks in Rainbow Six Siege!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 248,958 views \u2022 ~610m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nSYwAV_NwWA"
   },
   {
     "topic": "Someone Is Stalking Me In My New Apartment\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 265,208 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 287,058 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6SVRDHlhTbQ"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 196,003 views \u2022 ~534m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sahcs5wovnk"
   },
   {
     "topic": "Cast Away",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~19m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0amJWBSCtA"
   }
 ]
