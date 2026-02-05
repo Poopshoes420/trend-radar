@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwkaw5/she_came_ready_for_the_famous_turkish_ice_cream/"
   },
   {
-    "topic": "The pig with a wooden leg",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwiq05/the_pig_with_a_wooden_leg/"
-  },
-  {
     "topic": "He really said \"Yo\"",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwlrqn/he_really_said_yo/"
+  },
+  {
+    "topic": "The pig with a wooden leg",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwiq05/the_pig_with_a_wooden_leg/"
   },
   {
     "topic": "Someone please explain why this happens",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwgx0t/russia_used_starlink_in_strike_drones_that/"
   },
   {
+    "topic": "Volkswagen overtook Tesla as Europe's top EV seller in 2025",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwu50d/volkswagen_overtook_tesla_as_europes_top_ev/"
+  },
+  {
     "topic": "North Korea: teenagers \u2018executed for watching Squid Game\u2019 as regime wages war on K-Drama and K-Pop",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwdzy5/north_korea_teenagers_executed_for_watching_squid/"
-  },
-  {
-    "topic": "Ukraine strikes heart of Russia\u2019s nuclear blackmail \u2014 hitting Oreshnik launch site with domestic FP-5 cruise missiles",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwhyyn/ukraine_strikes_heart_of_russias_nuclear/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 987,074 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 991,714 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mELI-cjw6HQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 382,859 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 421,013 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=88Ym9SCKFpc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 160,703 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 178,132 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JubgL46Xkmk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,114 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 218,547 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21puudq4H7g"
   },
   {
@@ -216,7 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,498 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 95,026 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gKw5lbapjvI"
+  },
+  {
+    "topic": "READY OR NOT 2: HERE I COME | Official Trailer | Searchlight Pictures",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 60,304 views \u2022 ~378m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jczr0KCloXk"
+  },
+  {
+    "topic": "EXIT 8 - Official Trailer - In Theaters April 10",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 24,567 views \u2022 ~260m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DlRQ1oatOt8"
+  },
+  {
+    "topic": "Borderlands 4 - Story Pack 1: Mad Ellie and the Vault of the Damned - Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 8,761 views \u2022 ~196m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gYdrwCVvPPo"
   }
 ]
