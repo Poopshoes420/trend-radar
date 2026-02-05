@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwlrqn/he_really_said_yo/"
   },
   {
-    "topic": "Damn",
+    "topic": "My new favorite blooper.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwn70b/damn/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwp15p/my_new_favorite_blooper/"
   },
   {
     "topic": "Someone please explain why this happens",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwg0ob/sony_cfo_says_ghost_of_yotei_sold_better_than/"
   },
   {
-    "topic": "Just noticed planes land nose gear first in SimCity 4- a big nono in commercial aviation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwag22/just_noticed_planes_land_nose_gear_first_in/"
-  },
-  {
     "topic": "Sony confirmed it has secured PS5 stock and prices wont be affected by RAM shortage for 2026 holidays and GTA 6 release window",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwnrbq/sony_confirmed_it_has_secured_ps5_stock_and/"
   },
   {
+    "topic": "Just noticed planes land nose gear first in SimCity 4- a big nono in commercial aviation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwag22/just_noticed_planes_land_nose_gear_first_in/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS | 1 MILLION SPACE DOLLAR CHALLENGE | FROM DUMB & POOR 2 RICH & SEXY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 954,573 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 959,666 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mELI-cjw6HQ"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 116,191 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 175,203 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=88Ym9SCKFpc"
-  },
-  {
-    "topic": "FEELING POWERFUL! TAKING DOWN EVERYONE IN MY WAY!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 229,799 views \u2022 ~316m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pTOyjn7E8Dk"
   },
   {
     "topic": "What the f*ck is happening in Minecraft??",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 371,335 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 395,251 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mdNC4cbNogs"
   },
   {
@@ -216,7 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 74,326 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 98,121 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21puudq4H7g"
+  },
+  {
+    "topic": "Horizon Hunters Gathering - Announcement Trailer | PS5 Games",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 25,625 views \u2022 ~129m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JubgL46Xkmk"
   }
 ]
