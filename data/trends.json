@@ -1,14 +1,5 @@
 [
   {
-    "topic": "new guy at work",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvyy39/new_guy_at_work/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "new guy at work",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvyy39/new_guy_at_work/"
   },
   {
     "topic": "Consequences",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qw4ubf/consequences/"
   },
   {
+    "topic": "The best told version of the joke",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qw82f4/the_best_told_version_of_the_joke/"
+  },
+  {
     "topic": "Do it for the love of the game",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvu58k/do_it_for_the_love_of_the_game/"
   },
   {
-    "topic": "The best told version of the joke",
+    "topic": "&sp=CAI%253D is dead",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qw82f4/the_best_told_version_of_the_joke/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw91b9/spcai253d_is_dead/"
   },
   {
     "topic": "nowadays youtube is filled with AI generated \"stories\" and sometimes barely human made content... and I hate that",
@@ -54,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw5faq/nowadays_youtube_is_filled_with_ai_generated/"
   },
   {
-    "topic": "The new Subscriptions view sucks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvsupq/the_new_subscriptions_view_sucks/"
-  },
-  {
     "topic": "Why is there so much AI slop on YouTube?",
     "sources": [
       "reddit"
@@ -70,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw5sha/why_is_there_so_much_ai_slop_on_youtube/"
+  },
+  {
+    "topic": "The new Subscriptions view sucks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvsupq/the_new_subscriptions_view_sucks/"
   },
   {
     "topic": "How is this ad allowed?",
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvutw9/how_is_this_ad_allowed/"
   },
   {
-    "topic": "Recommendations and \"don't recommend this channel\" features are broken",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw38ws/recommendations_and_dont_recommend_this_channel/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1441, Part 1 (Thread #1588)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1442, Part 1 (Thread #1589)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qve8y7/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwayrd/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "NDP wants Carney to kill U.S. fighter jet contract in favour of Swedish aircraft",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvxynr/kyiv_bureau_among_those_axed_by_jeff_bezos/"
   },
   {
-    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
-  },
-  {
     "topic": "Russia\u2019s Oil and Gas Revenues Plunge 50%, Hit Lowest Level of Putin Era",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvxyv4/russias_oil_and_gas_revenues_plunge_50_hit_lowest/"
+  },
+  {
+    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qto2jp/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "One of the more creatively horrifying quests I've ever encountered. [Cyberpunk]",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qw5e6v/one_of_the_more_creatively_horrifying_quests_ive/"
+  },
+  {
     "topic": "Overwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes",
     "sources": [
       "reddit"
@@ -153,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvxaro/overwatch_2_is_ditching_the_2_amid_launch_of_new/"
   },
   {
-    "topic": "One of the more creatively horrifying quests I've ever encountered. [Cyberpunk]",
+    "topic": "Just noticed planes land nose gear first in SimCity 4- a big nono in commercial aviation",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qw5e6v/one_of_the_more_creatively_horrifying_quests_ive/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwag22/just_noticed_planes_land_nose_gear_first_in/"
   },
   {
     "topic": "Doom devs including John Romero respond to terminally ill fan spending his final days playing Doom: The Dark Ages: \"You are not alone in that hospital room\" \ud83e\udd18",
@@ -171,36 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvvq87/doom_devs_including_john_romero_respond_to/"
   },
   {
-    "topic": "It is hilarious when NPCs call you out on your previous loss or losses.",
+    "topic": "roblox best gameplay",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvv50q/it_is_hilarious_when_npcs_call_you_out_on_your/"
+    "why": "Trending on YouTube \u2022 952,454 views \u2022 ~125m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=szMYKKuiRt0"
   },
   {
     "topic": "WAR MACHINE | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,968,091 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 2,370,011 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AFuE1LRxm80"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 703,874 views \u2022 ~194m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dB1o_-Q-nBo"
   },
   {
     "topic": "RESTRICTED_salvation",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 715,896 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 845,646 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCXE75VR0NI"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 776,355 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 829,896 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
-  },
-  {
-    "topic": "BIG UPDATE In My Own Game!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 305,492 views \u2022 ~232m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QN6PnfFwPSI"
   },
   {
     "topic": "W Sound 23 \u201c5 Estrellas\u201d - Myke Towers, Westcol, Ovy On The Drums",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,889 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 342,948 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3rg0p23brQ0"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,544 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 188,988 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N72OEc9DPI"
   },
   {
@@ -240,31 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,876 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 148,063 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soQI92_tSuc"
   },
   {
-    "topic": "Steal A Brainrot But There's HIDDEN Rebirths...",
+    "topic": "Trolling My Friend As NOOB With REAL OWNER in Escape Tsunami For Brainrots",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,972 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5ruwwPja-Bs"
-  },
-  {
-    "topic": "BAKI-DOU: The Invincible Samurai | Official Trailer | Netflix Anime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 220,745 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_TYx9iNvk9E"
+    "why": "Trending on YouTube \u2022 87,134 views \u2022 ~327m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OvSXPyS0Czw"
   },
   {
     "topic": "Freya Skye - golden boy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 138,622 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 156,004 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n5Wy48g_byQ"
   },
   {
@@ -272,7 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,368 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 71,249 views \u2022 ~639m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BtD7p5f0KpI"
+  },
+  {
+    "topic": "Ya Borracho - Herencia De Grandes (Letra)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 76,329 views \u2022 ~699m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4BvXZ4Gqnc0"
   }
 ]
