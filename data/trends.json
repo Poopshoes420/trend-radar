@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwrit6/removal_of_the_upload_date_filter_proves_youtube/"
   },
   {
-    "topic": "Why they removed this??",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwh2ii/why_they_removed_this/"
-  },
-  {
     "topic": "How do I get this edgelord-teenager crap away from my recommended? It keeps ruining my mood...",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwvzt9/how_do_i_get_this_edgelordteenager_crap_away_from/"
+  },
+  {
+    "topic": "Why they removed this??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwh2ii/why_they_removed_this/"
   },
   {
     "topic": "https://www.youtube.com/feed/subscriptions is ruined",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwg2yz/mount_fuji_cherry_blossom_festival_cancelled_over/"
   },
   {
-    "topic": "Russia used Starlink in strike drones that reached Kyiv. SpaceX\u2019s response collapsed entire command system",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwgx0t/russia_used_starlink_in_strike_drones_that/"
-  },
-  {
     "topic": "Zelenskyy: No country\u2019s recognition can give away Ukrainian land",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwvu41/zelenskyy_no_countrys_recognition_can_give_away/"
+  },
+  {
+    "topic": "Russia used Starlink in strike drones that reached Kyiv. SpaceX\u2019s response collapsed entire command system",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwgx0t/russia_used_starlink_in_strike_drones_that/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,262,410 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 1,265,096 views \u2022 ~162m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DTbgG3MFAVU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 480,411 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 539,100 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=spXJwMbHZSw"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 574,662 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 601,636 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=88Ym9SCKFpc"
+  },
+  {
+    "topic": "This game is exactly what we want",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 198,883 views \u2022 ~275m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=egpwAAZ96Qk"
   },
   {
     "topic": "Horizon Hunters Gathering - Announcement Trailer | PS5 Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 269,876 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 282,567 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JubgL46Xkmk"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 290,876 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 303,134 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21puudq4H7g"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,836 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 112,884 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xY_E_h7nKFE"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,916 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 108,320 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MgEcQTvsObY"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,680 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 141,351 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gKw5lbapjvI"
   },
   {
@@ -248,15 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 74,186 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 83,989 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L00r5BGgP64"
+  },
+  {
+    "topic": "Marc Anthony, NATHY PELUSO - Como en el Idilio (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 75,690 views \u2022 ~395m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OYtHvS7n7ic"
   },
   {
     "topic": "READY OR NOT 2: HERE I COME | Official Trailer | Searchlight Pictures",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,156 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 101,336 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jczr0KCloXk"
   },
   {
@@ -264,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,812 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 47,537 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DlRQ1oatOt8"
   },
   {
@@ -272,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,210 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 18,407 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gYdrwCVvPPo"
   }
 ]
