@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwh2ii/why_they_removed_this/"
   },
   {
-    "topic": "Random videos I know I never watched popping up in history",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwiy42/random_videos_i_know_i_never_watched_popping_up/"
-  },
-  {
     "topic": "https://www.youtube.com/feed/subscriptions is ruined",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwsjet/httpswwwyoutubecomfeedsubscriptions_is_ruined/"
+  },
+  {
+    "topic": "Random videos I know I never watched popping up in history",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwiy42/random_videos_i_know_i_never_watched_popping_up/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1442, Part 1 (Thread #1589)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwgx0t/russia_used_starlink_in_strike_drones_that/"
   },
   {
-    "topic": "North Korea: teenagers \u2018executed for watching Squid Game\u2019 as regime wages war on K-Drama and K-Pop",
+    "topic": "Ukraine strikes heart of Russia\u2019s nuclear blackmail \u2014 hitting Oreshnik launch site with domestic FP-5 cruise missiles",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwdzy5/north_korea_teenagers_executed_for_watching_squid/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwhyyn/ukraine_strikes_heart_of_russias_nuclear/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 455,849 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 496,634 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=88Ym9SCKFpc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,844 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 223,386 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JubgL46Xkmk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 233,570 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 252,457 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21puudq4H7g"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,822 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 115,048 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gKw5lbapjvI"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,602 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 45,487 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L00r5BGgP64"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,468 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 77,789 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jczr0KCloXk"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,445 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 12,746 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gYdrwCVvPPo"
   }
 ]
