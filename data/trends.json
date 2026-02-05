@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw5faq/nowadays_youtube_is_filled_with_ai_generated/"
   },
   {
-    "topic": "Subscriptions page change? I hate when Google \"beta\" tests stuff on literally everyone.",
+    "topic": "The top comment on every goddamn music video on YouTube these days",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwa8b4/subscriptions_page_change_i_hate_when_google_beta/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1442, Part 1 (Thread #1589)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwayrd/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw4z97/the_top_comment_on_every_goddamn_music_video_on/"
   },
   {
     "topic": "'India will not be bullied by Trump, will wait out his term': NSA Ajit Doval told US Secy of State Marco Rubio before trade deal",
@@ -108,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwcvta/india_will_not_be_bullied_by_trump_will_wait_out/"
   },
   {
-    "topic": "NDP wants Carney to kill U.S. fighter jet contract in favour of Swedish aircraft",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1442, Part 1 (Thread #1589)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qw36nr/ndp_wants_carney_to_kill_us_fighter_jet_contract/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwayrd/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "North Korea: teenagers \u2018executed for watching Squid Game\u2019 as regime wages war on K-Drama and K-Pop",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwdzy5/north_korea_teenagers_executed_for_watching_squid/"
+  },
+  {
+    "topic": "NDP wants Carney to kill U.S. fighter jet contract in favour of Swedish aircraft",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qw36nr/ndp_wants_carney_to_kill_us_fighter_jet_contract/"
   },
   {
     "topic": "Kyiv bureau among those axed by Jeff Bezos' Washington Post, hundreds of journalists laid off",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qto2jp/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Overwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvxaro/overwatch_2_is_ditching_the_2_amid_launch_of_new/"
-  },
-  {
     "topic": "Just noticed planes land nose gear first in SimCity 4- a big nono in commercial aviation",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwag22/just_noticed_planes_land_nose_gear_first_in/"
+  },
+  {
+    "topic": "Overwatch 2 Is Ditching the '2' Amid Launch of 'New, Story-Driven Era' With 10 New Heroes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qvxaro/overwatch_2_is_ditching_the_2_amid_launch_of_new/"
   },
   {
     "topic": "Doom devs including John Romero respond to terminally ill fan spending his final days playing Doom: The Dark Ages: \"You are not alone in that hospital room\" \ud83e\udd18",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 784,134 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 784,164 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gATtksfxvn4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 561,550 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 577,813 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3rg0p23brQ0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 299,955 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 315,282 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N72OEc9DPI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,997 views \u2022 ~583m old",
+    "why": "Trending on YouTube \u2022 233,888 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soQI92_tSuc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,634 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 160,082 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8j9z9429Oas"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,484 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 39,080 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ujs_MLnWU6o"
   }
 ]
