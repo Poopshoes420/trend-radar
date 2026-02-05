@@ -1,14 +1,5 @@
 [
   {
-    "topic": "My new favorite blooper.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwp15p/my_new_favorite_blooper/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "My new favorite blooper.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwp15p/my_new_favorite_blooper/"
   },
   {
     "topic": "She came ready for the famous Turkish ice cream tricks\u2026 and got the normal service instead",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwh2ii/why_they_removed_this/"
   },
   {
-    "topic": "https://www.youtube.com/feed/subscriptions is ruined",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwsjet/httpswwwyoutubecomfeedsubscriptions_is_ruined/"
-  },
-  {
     "topic": "How do I get this edgelord-teenager crap away from my recommended? It keeps ruining my mood...",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwvzt9/how_do_i_get_this_edgelordteenager_crap_away_from/"
+  },
+  {
+    "topic": "https://www.youtube.com/feed/subscriptions is ruined",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwsjet/httpswwwyoutubecomfeedsubscriptions_is_ruined/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1442, Part 1 (Thread #1589)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwgx0t/russia_used_starlink_in_strike_drones_that/"
   },
   {
-    "topic": "Ukraine strikes heart of Russia\u2019s nuclear blackmail \u2014 hitting Oreshnik launch site with domestic FP-5 cruise missiles",
+    "topic": "Zelenskyy: No country\u2019s recognition can give away Ukrainian land",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwhyyn/ukraine_strikes_heart_of_russias_nuclear/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwvu41/zelenskyy_no_countrys_recognition_can_give_away/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwg0ob/sony_cfo_says_ghost_of_yotei_sold_better_than/"
   },
   {
-    "topic": "Can someone explain to me, why some people want no skill based matchmaking?",
+    "topic": "Highguard\u2019s \u201cEpisode 2\u201d Starts Tomorrow, Less Than 2 Weeks After Launch Day",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwr6us/can_someone_explain_to_me_why_some_people_want_no/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwyk2n/highguards_episode_2_starts_tomorrow_less_than_2/"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,119,655 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 1,262,410 views \u2022 ~128m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DTbgG3MFAVU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 435,552 views \u2022 ~252m old",
+    "why": "Trending on YouTube \u2022 480,411 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=spXJwMbHZSw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 554,851 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 574,662 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=88Ym9SCKFpc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 256,769 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 269,876 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JubgL46Xkmk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,244 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 290,876 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21puudq4H7g"
   },
   {
@@ -224,31 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,754 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 100,836 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xY_E_h7nKFE"
-  },
-  {
-    "topic": "Launch Trailer | Burning Crusade Classic Anniversary Edition | World of Warcraft",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 130,350 views \u2022 ~459m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gKw5lbapjvI"
   },
   {
     "topic": "ROCHY RD FT EZZY R X RONNY GTA - ME QUITE UN TENI (VIDEO OFICIAL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,075 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 96,916 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MgEcQTvsObY"
+  },
+  {
+    "topic": "Launch Trailer | Burning Crusade Classic Anniversary Edition | World of Warcraft",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 134,680 views \u2022 ~481m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gKw5lbapjvI"
   },
   {
     "topic": "Rooster | Official Trailer | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,483 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 74,186 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L00r5BGgP64"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,989 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 96,156 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jczr0KCloXk"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,080 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 43,812 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DlRQ1oatOt8"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,902 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 17,210 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gYdrwCVvPPo"
   }
 ]
