@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "new guy at work",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvyy39/new_guy_at_work/"
-  },
-  {
     "topic": "Consequences",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qw82f4/the_best_told_version_of_the_joke/"
+  },
+  {
+    "topic": "new guy at work",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qvyy39/new_guy_at_work/"
   },
   {
     "topic": "Do it for the love of the game",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw91b9/spcai253d_is_dead/"
   },
   {
-    "topic": "nowadays youtube is filled with AI generated \"stories\" and sometimes barely human made content... and I hate that",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw5faq/nowadays_youtube_is_filled_with_ai_generated/"
-  },
-  {
     "topic": "Why is there so much AI slop on YouTube?",
     "sources": [
       "reddit"
@@ -72,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw5sha/why_is_there_so_much_ai_slop_on_youtube/"
   },
   {
+    "topic": "nowadays youtube is filled with AI generated \"stories\" and sometimes barely human made content... and I hate that",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw5faq/nowadays_youtube_is_filled_with_ai_generated/"
+  },
+  {
+    "topic": "AI voices are so annoying!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qw9xqs/ai_voices_are_so_annoying/"
+  },
+  {
     "topic": "The new Subscriptions view sucks",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvsupq/the_new_subscriptions_view_sucks/"
-  },
-  {
-    "topic": "How is this ad allowed?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qvutw9/how_is_this_ad_allowed/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1442, Part 1 (Thread #1589)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvxyv4/russias_oil_and_gas_revenues_plunge_50_hit_lowest/"
   },
   {
-    "topic": "At Least 35 Dead and Almost 400 Injured as 6.5 Feet of Snow Hits Japan, with Authorities Warning of Impending Avalanches",
+    "topic": "Keith Kellogg says he left Trump's White House to be 'free to talk' about Ukraine",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qvmh94/at_least_35_dead_and_almost_400_injured_as_65/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qw0pi0/keith_kellogg_says_he_left_trumps_white_house_to/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,15 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 952,454 views \u2022 ~125m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=szMYKKuiRt0"
+    "why": "Trending on YouTube \u2022 779,096 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gATtksfxvn4"
   },
   {
     "topic": "WAR MACHINE | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,370,011 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 2,647,126 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AFuE1LRxm80"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 845,646 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 917,572 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCXE75VR0NI"
-  },
-  {
-    "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 829,896 views \u2022 ~642m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
   },
   {
     "topic": "W Sound 23 \u201c5 Estrellas\u201d - Myke Towers, Westcol, Ovy On The Drums",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 342,948 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 440,754 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3rg0p23brQ0"
+  },
+  {
+    "topic": "Overwatch 2026 Spotlight | New Heroes, Cosmetics, Gameplay Updates, & More",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 851,934 views \u2022 ~703m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
   },
   {
     "topic": "YoungBoy Never Broke Again - I Want [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,988 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 226,807 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N72OEc9DPI"
   },
   {
@@ -232,39 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,063 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 173,723 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=soQI92_tSuc"
   },
   {
-    "topic": "Trolling My Friend As NOOB With REAL OWNER in Escape Tsunami For Brainrots",
+    "topic": "This Capybara Visited My Farm\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,134 views \u2022 ~327m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OvSXPyS0Czw"
-  },
-  {
-    "topic": "Freya Skye - golden boy",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 156,004 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=n5Wy48g_byQ"
+    "why": "Trending on YouTube \u2022 107,486 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8j9z9429Oas"
   },
   {
     "topic": "From Season 4 Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,249 views \u2022 ~639m old",
+    "why": "Trending on YouTube \u2022 81,246 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BtD7p5f0KpI"
   },
   {
-    "topic": "Ya Borracho - Herencia De Grandes (Letra)",
+    "topic": "Chuckyy - Kobe (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,329 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4BvXZ4Gqnc0"
+    "why": "Trending on YouTube \u2022 28,636 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ujs_MLnWU6o"
   }
 ]
