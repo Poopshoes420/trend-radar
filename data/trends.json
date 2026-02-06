@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qx7cv1/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "\u201cWe can breathe easier\u201d: Ukrainian soldiers say Russians in panic after Starlink shutdown",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxjsb3/we_can_breathe_easier_ukrainian_soldiers_say/"
-  },
-  {
     "topic": "Russian general shot several times in Moscow",
     "sources": [
       "reddit"
@@ -117,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
   },
   {
-    "topic": "ICE has become an international pariah",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxo89s/ice_has_become_an_international_pariah/"
-  },
-  {
     "topic": "Ukraine\u2019s kill rate just overtook Russia\u2019s troop replacement, Syrskyi says",
     "sources": [
       "reddit"
@@ -133,6 +115,33 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxe9x5/ukraines_kill_rate_just_overtook_russias_troop/"
+  },
+  {
+    "topic": "Pakistan Suicide Blast: 69 Killed, 169 Injured In Suicide Bombing At Shrine In Islamabad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxficy/pakistan_suicide_blast_69_killed_169_injured_in/"
+  },
+  {
+    "topic": "Russian Forces \u2018Destroying Themselves\u2019 as Starlink Shutdown Sparks Friendly Fire \u2013 ATESH Partisans",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxbru4/russian_forces_destroying_themselves_as_starlink/"
+  },
+  {
+    "topic": "British actor Sir Ian McKellen recites pro-immigrant Shakespeare monologue to criticize Trump\u2019s immigration crackdown.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qxlg1f/british_actor_sir_ian_mckellen_recites/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,29 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxll6s/the_devs_team_behind_clair_obscur_expedition_33/"
   },
   {
-    "topic": "Look at my amazing Triss from The Witcher 3 cosplay! I made it by myself.",
+    "topic": "My GameStop has closed down, soon this masterpiece will be lost",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxha3d/look_at_my_amazing_triss_from_the_witcher_3/"
-  },
-  {
-    "topic": "[OC] No Such Thing As A Free Loadout",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxgc8y/oc_no_such_thing_as_a_free_loadout/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxpoh0/my_gamestop_has_closed_down_soon_this_masterpiece/"
   },
   {
     "topic": "\ud83d\udd34LIVE |ARC NUTTERS | THICC MEN THURSDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 902,304 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 906,712 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KP_AAbE1AKU"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 330,973 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 357,862 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
-  },
-  {
-    "topic": "Version 4.0 Trailer: \"No Aha at Full Moon\" | Honkai: Star Rail",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 163,092 views \u2022 ~413m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   },
   {
     "topic": "Tom MacDonald - \"Pray For The Left\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,605 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 88,531 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
+  },
+  {
+    "topic": "Version 4.0 Trailer: \"No Aha at Full Moon\" | Honkai: Star Rail",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 172,304 views \u2022 ~445m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   },
   {
     "topic": "A Knight of the Seven Kingdoms: Ep. 5 - NEW TRAILER 'In the Name of the Mother\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,951 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 63,539 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qL5z4IZzSt8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,755 views \u2022 ~139m old",
+    "why": "Trending on YouTube \u2022 8,299 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
