@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxspmw/uh_sir/"
   },
   {
-    "topic": "I wasn't expecting this ending.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxin1n/i_wasnt_expecting_this_ending/"
-  },
-  {
     "topic": "Didn\u2019t see that coming..",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxktvi/didnt_see_that_coming/"
   },
   {
-    "topic": "Buddy is scarred for life!",
+    "topic": "I wasn't expecting this ending.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxnbj0/buddy_is_scarred_for_life/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxin1n/i_wasnt_expecting_this_ending/"
+  },
+  {
+    "topic": "He forgot his keys and asked his cat to open the door",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxwzsb/he_forgot_his_keys_and_asked_his_cat_to_open_the/"
   },
   {
     "topic": "This is why he left",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxogq9/japan_moves_for_the_first_time_to_criminalize/"
   },
   {
-    "topic": "Russian general shot several times in Moscow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
-  },
-  {
     "topic": "Donald Trump endorses Hungary's Viktor Orb\u00e1n ahead of key elections",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxu2zd/donald_trump_endorses_hungarys_viktor_orb\u00e1n_ahead/"
+  },
+  {
+    "topic": "Russian general shot several times in Moscow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxha3d/look_at_my_amazing_triss_from_the_witcher_3/"
   },
   {
+    "topic": "ILLIT (\uc544\uc77c\ub9bf) 'NOT ME\u2019 Official MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 713,739 views \u2022 ~657m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9nEp9eeGaJk"
+  },
+  {
     "topic": "Roblox RUINED Faces.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 548,805 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 574,083 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
+  },
+  {
+    "topic": "Getting The RAREST THING In Survive Lava For Brainrots..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 239,900 views \u2022 ~277m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tC3MU2zuVhc"
   },
   {
     "topic": "Tom MacDonald - \"Pray For The Left\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 282,691 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 292,316 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 336,946 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 346,071 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QvxEbBhfb_Q"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,943 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 153,611 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhAEOtzbaTE"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,078 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 212,360 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,644 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 19,350 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
