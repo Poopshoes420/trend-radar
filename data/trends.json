@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxfnj4/what_youtube_comment_youve_seen_has_hit_you_the/"
   },
   {
-    "topic": "Removal of the \"Upload Date\" filter proves YouTube is 100% evil",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwrit6/removal_of_the_upload_date_filter_proves_youtube/"
-  },
-  {
     "topic": "\"Wait let me refresh...\"",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxfylc/wait_let_me_refresh/"
+  },
+  {
+    "topic": "Removal of the \"Upload Date\" filter proves YouTube is 100% evil",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwrit6/removal_of_the_upload_date_filter_proves_youtube/"
   },
   {
     "topic": "Someone please explain why this happens",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxficy/pakistan_suicide_blast_69_killed_169_injured_in/"
   },
   {
-    "topic": "Russian Forces \u2018Destroying Themselves\u2019 as Starlink Shutdown Sparks Friendly Fire \u2013 ATESH Partisans",
+    "topic": "Saudi Arabia is lifting the alcohol ban for wealthy foreigners",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxbru4/russian_forces_destroying_themselves_as_starlink/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxen1g/saudi_arabia_is_lifting_the_alcohol_ban_for/"
   },
   {
     "topic": "British actor Sir Ian McKellen recites pro-immigrant Shakespeare monologue to criticize Trump\u2019s immigration crackdown.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 906,712 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 912,715 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KP_AAbE1AKU"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 357,862 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 395,046 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
+  },
+  {
+    "topic": "Is this Concord 4..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 254,082 views \u2022 ~319m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QvxEbBhfb_Q"
   },
   {
     "topic": "Tom MacDonald - \"Pray For The Left\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,531 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 168,823 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
   },
   {
@@ -208,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 172,304 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 182,098 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
-  },
-  {
-    "topic": "A Knight of the Seven Kingdoms: Ep. 5 - NEW TRAILER 'In the Name of the Mother\"",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 63,539 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qL5z4IZzSt8"
   },
   {
     "topic": "Pok\u00e9mon Pinball Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,299 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 11,600 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
