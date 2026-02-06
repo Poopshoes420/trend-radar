@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Friend of mine got this in the mail, such considerate neighbors",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxk1jb/friend_of_mine_got_this_in_the_mail_such/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "I wasn't expecting this ending.",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxe9x5/ukraines_kill_rate_just_overtook_russias_troop/"
   },
   {
+    "topic": "\u201cWe can breathe easier\u201d: Ukrainian soldiers say Russians in panic after Starlink shutdown",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxjsb3/we_can_breathe_easier_ukrainian_soldiers_say/"
+  },
+  {
     "topic": "Russian Forces \u2018Destroying Themselves\u2019 as Starlink Shutdown Sparks Friendly Fire \u2013 ATESH Partisans",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxbru4/russian_forces_destroying_themselves_as_starlink/"
-  },
-  {
-    "topic": "Pakistan Suicide Blast: 69 Killed, 169 Injured In Suicide Bombing At Shrine In Islamabad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxficy/pakistan_suicide_blast_69_killed_169_injured_in/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxgc8y/oc_no_such_thing_as_a_free_loadout/"
   },
   {
-    "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Adrenaline' Official MV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 4,752,949 views \u2022 ~710m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vqkfEUqjl6Y"
-  },
-  {
     "topic": "\ud83d\udd34LIVE |ARC NUTTERS | THICC MEN THURSDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 878,721 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 885,038 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KP_AAbE1AKU"
   },
   {
@@ -200,31 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,031 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 226,054 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
-  },
-  {
-    "topic": "ZAYN - Die For Me (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 469,463 views \u2022 ~710m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LoElk8clGVg"
-  },
-  {
-    "topic": "29 Intro",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 312,405 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JDVRv15xqRI"
   },
   {
     "topic": "Version 4.0 Trailer: \"No Aha at Full Moon\" | Honkai: Star Rail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,584 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 124,586 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   }
 ]
