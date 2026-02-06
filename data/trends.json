@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Punctuation is Important",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qx7er1/punctuation_is_important/"
-  },
-  {
     "topic": "Reminds me of Boss Baby",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxagnk/reminds_me_of_boss_baby/"
+  },
+  {
+    "topic": "Punctuation is Important",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qx7er1/punctuation_is_important/"
   },
   {
     "topic": "Saw these two scratching their heads trying to figure out how to fit this 65inch tv in a small car\u2026",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwftfy/someone_please_explain_why_this_happens/"
   },
   {
+    "topic": "OH HELL NAH BRO",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxa8dh/oh_hell_nah_bro/"
+  },
+  {
     "topic": "How do I get this edgelord-teenager crap away from my recommended? It keeps ruining my mood...",
     "sources": [
       "reddit"
@@ -72,15 +81,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwvzt9/how_do_i_get_this_edgelordteenager_crap_away_from/"
   },
   {
-    "topic": "https://www.youtube.com/feed/subscriptions is ruined",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwsjet/httpswwwyoutubecomfeedsubscriptions_is_ruined/"
-  },
-  {
     "topic": "Why have nearly 8% of all MrBeast's videos stalled at around 61,400 views?",
     "sources": [
       "reddit"
@@ -88,6 +88,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qx8k7c/why_have_nearly_8_of_all_mrbeasts_videos_stalled/"
+  },
+  {
+    "topic": "Russian general shot several times in Moscow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1443, Part 1 (Thread #1590)",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwvu41/zelenskyy_no_countrys_recognition_can_give_away/"
-  },
-  {
-    "topic": "Nunavik Inuit travel to Greenland in solidarity against U.S. threats",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qx6kmy/nunavik_inuit_travel_to_greenland_in_solidarity/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,019,083 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 1,019,221 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sXyj4iFEVd0"
+  },
+  {
+    "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Adrenaline' Official MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 391,072 views \u2022 ~240m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vqkfEUqjl6Y"
   },
   {
     "topic": "Roblox gave up. We win.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 379,603 views \u2022 ~423m old",
+    "why": "Trending on YouTube \u2022 415,207 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hz1q0InamYQ"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 374,351 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 399,383 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mQezde_qeXw"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,972 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 138,343 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LoElk8clGVg"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,266 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 279,474 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rn89mUndYbo"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 248,276 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 270,772 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9AzOoMm1CQ8"
   },
   {
@@ -232,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,351 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 99,325 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDVRv15xqRI"
-  },
-  {
-    "topic": "Hades66 - Manhattan II X MR GOAT (Video Oficial) ",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 159,265 views \u2022 ~426m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sSUrYVBQegM"
   },
   {
     "topic": "The Monsters Mimic Your Friends...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,380 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 142,292 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_TQUuqyPazE"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,189 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 148,302 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2seS3W2VQ_Y"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,558 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 71,518 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJj7pOeW2nA"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,305 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 24,507 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L8J6VYqczg4"
   }
 ]
