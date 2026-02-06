@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxk1jb/friend_of_mine_got_this_in_the_mail_such/"
   },
   {
-    "topic": "Wife texted me that she had 2 appointments. I was outside, my phone was inside.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxttp2/wife_texted_me_that_she_had_2_appointments_i_was/"
-  },
-  {
     "topic": "I wasn't expecting this ending.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxktvi/didnt_see_that_coming/"
+  },
+  {
+    "topic": "Uh ... Sir?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxspmw/uh_sir/"
   },
   {
     "topic": "This is why he left",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxtka2/us_to_fund_magaaligned_groups_in_europe_amid_free/"
   },
   {
-    "topic": "Russian general shot several times in Moscow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
-  },
-  {
     "topic": "Japan moves for the first time to criminalize paying for sex",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxogq9/japan_moves_for_the_first_time_to_criminalize/"
+  },
+  {
+    "topic": "Russian general shot several times in Moscow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
   },
   {
     "topic": "Ukraine\u2019s kill rate just overtook Russia\u2019s troop replacement, Syrskyi says",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "The devs team behind Clair Obscur: Expedition 33 has been awarded the rank of Knight of the Order of Arts and Letters",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxll6s/the_devs_team_behind_clair_obscur_expedition_33/"
-  },
-  {
     "topic": "My GameStop has closed down, soon this masterpiece will be lost",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxgc8y/oc_no_such_thing_as_a_free_loadout/"
   },
   {
+    "topic": "Look at my amazing Triss from The Witcher 3 cosplay! I made it by myself.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxha3d/look_at_my_amazing_triss_from_the_witcher_3/"
+  },
+  {
     "topic": "Roblox RUINED Faces.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,343 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 518,386 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 248,710 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 263,951 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 312,844 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 324,429 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QvxEbBhfb_Q"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,065 views \u2022 ~278m old",
+    "why": "Trending on YouTube \u2022 126,379 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhAEOtzbaTE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,203 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 204,992 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,805 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 17,658 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
