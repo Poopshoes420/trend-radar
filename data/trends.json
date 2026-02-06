@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qx7er1/punctuation_is_important/"
   },
   {
-    "topic": "My new favorite blooper.",
+    "topic": "Reminds me of Boss Baby",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qwp15p/my_new_favorite_blooper/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxagnk/reminds_me_of_boss_baby/"
   },
   {
     "topic": "Saw these two scratching their heads trying to figure out how to fit this 65inch tv in a small car\u2026",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwsjet/httpswwwyoutubecomfeedsubscriptions_is_ruined/"
   },
   {
-    "topic": "Why they removed this??",
+    "topic": "Why have nearly 8% of all MrBeast's videos stalled at around 61,400 views?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwh2ii/why_they_removed_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qx8k7c/why_have_nearly_8_of_all_mrbeasts_videos_stalled/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1443, Part 1 (Thread #1590)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwu50d/volkswagen_overtook_tesla_as_europes_top_ev/"
   },
   {
-    "topic": "Zelenskyy: No country\u2019s recognition can give away Ukrainian land",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwvu41/zelenskyy_no_countrys_recognition_can_give_away/"
-  },
-  {
     "topic": "Trump says he won\u2019t extend nuclear arms treaty with Russia",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qx46c6/trump_says_he_wont_extend_nuclear_arms_treaty/"
+  },
+  {
+    "topic": "Zelenskyy: No country\u2019s recognition can give away Ukrainian land",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qwvu41/zelenskyy_no_countrys_recognition_can_give_away/"
   },
   {
     "topic": "Nunavik Inuit travel to Greenland in solidarity against U.S. threats",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Baldur\u2019s Gate is set to become a TV series at HBO, helmed by Craig Mazan from The Last of Us",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qx1rpu/baldurs_gate_is_set_to_become_a_tv_series_at_hbo/"
-  },
-  {
     "topic": "Highguard\u2019s \u201cEpisode 2\u201d Starts Tomorrow, Less Than 2 Weeks After Launch Day",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwjkqe/i_collected_over_900_greatest_games_lists_and/"
   },
   {
+    "topic": "Sony confirmed it has secured PS5 stock and prices wont be affected by RAM shortage for 2026 holidays and GTA 6 release window",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwnrbq/sony_confirmed_it_has_secured_ps5_stock_and/"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,018,533 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 1,019,083 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sXyj4iFEVd0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 356,360 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 379,603 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hz1q0InamYQ"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 355,612 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 374,351 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mQezde_qeXw"
+  },
+  {
+    "topic": "ZAYN - Die For Me (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 97,972 views \u2022 ~186m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LoElk8clGVg"
   },
   {
     "topic": "LADY GAGA - ABRACADABRA (LIVE AT THE 2026 GRAMMYS)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 246,717 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 262,266 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rn89mUndYbo"
   },
   {
@@ -216,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,995 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 248,276 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9AzOoMm1CQ8"
   },
   {
-    "topic": "ZAYN - Die For Me (Official Video)",
+    "topic": "29 Intro",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,460 views \u2022 ~153m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LoElk8clGVg"
+    "why": "Trending on YouTube \u2022 69,351 views \u2022 ~185m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JDVRv15xqRI"
   },
   {
     "topic": "Hades66 - Manhattan II X MR GOAT (Video Oficial) ",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,715 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 159,265 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sSUrYVBQegM"
   },
   {
@@ -240,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,647 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 127,380 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_TQUuqyPazE"
-  },
-  {
-    "topic": "29 Intro",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 42,967 views \u2022 ~153m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JDVRv15xqRI"
   },
   {
     "topic": "Chief Keef - Talking Ish Ft.  Ballout (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,130 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 142,189 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2seS3W2VQ_Y"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,678 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 69,558 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJj7pOeW2nA"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,093 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 21,305 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L8J6VYqczg4"
   }
 ]
