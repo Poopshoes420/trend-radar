@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qx7cv1/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Russian general shot several times in Moscow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
-  },
-  {
     "topic": "\u201cWe can breathe easier\u201d: Ukrainian soldiers say Russians in panic after Starlink shutdown",
     "sources": [
       "reddit"
@@ -117,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxjsb3/we_can_breathe_easier_ukrainian_soldiers_say/"
   },
   {
+    "topic": "Russian general shot several times in Moscow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
+  },
+  {
+    "topic": "ICE has become an international pariah",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxo89s/ice_has_become_an_international_pariah/"
+  },
+  {
     "topic": "Ukraine\u2019s kill rate just overtook Russia\u2019s troop replacement, Syrskyi says",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxe9x5/ukraines_kill_rate_just_overtook_russias_troop/"
-  },
-  {
-    "topic": "Pakistan Suicide Blast: 69 Killed, 169 Injured In Suicide Bombing At Shrine In Islamabad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxficy/pakistan_suicide_blast_69_killed_169_injured_in/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 893,870 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 902,304 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KP_AAbE1AKU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 280,270 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 330,973 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
   },
   {
@@ -200,7 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,889 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 163,092 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
+  },
+  {
+    "topic": "Tom MacDonald - \"Pray For The Left\"",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,605 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
+  },
+  {
+    "topic": "A Knight of the Seven Kingdoms: Ep. 5 - NEW TRAILER 'In the Name of the Mother\"",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 57,951 views \u2022 ~668m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qL5z4IZzSt8"
+  },
+  {
+    "topic": "Pok\u00e9mon Pinball Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,755 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
