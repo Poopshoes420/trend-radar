@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwftfy/someone_please_explain_why_this_happens/"
   },
   {
-    "topic": "OH HELL NAH BRO",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxa8dh/oh_hell_nah_bro/"
-  },
-  {
     "topic": "How do I get this edgelord-teenager crap away from my recommended? It keeps ruining my mood...",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qx8k7c/why_have_nearly_8_of_all_mrbeasts_videos_stalled/"
+  },
+  {
+    "topic": "Can't like some videos?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxbhtf/cant_like_some_videos/"
   },
   {
     "topic": "Russian general shot several times in Moscow",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwnrbq/sony_confirmed_it_has_secured_ps5_stock_and/"
   },
   {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,019,221 views \u2022 ~350m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sXyj4iFEVd0"
-  },
-  {
     "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'Adrenaline' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 391,072 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 809,396 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vqkfEUqjl6Y"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,019,344 views \u2022 ~407m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sXyj4iFEVd0"
   },
   {
     "topic": "Roblox gave up. We win.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,207 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 452,986 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hz1q0InamYQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 399,383 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 426,172 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mQezde_qeXw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 138,343 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 175,114 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LoElk8clGVg"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,474 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 299,833 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rn89mUndYbo"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,772 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 291,492 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9AzOoMm1CQ8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,325 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 125,165 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDVRv15xqRI"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,292 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 154,177 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_TQUuqyPazE"
   },
   {
@@ -256,23 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,302 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 153,714 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2seS3W2VQ_Y"
-  },
-  {
-    "topic": "Montana 700 - LL Da Wizard [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 71,518 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XJj7pOeW2nA"
   },
   {
     "topic": "Fast and Furious: Hollywood Drift - Official Teaser Trailer (Universal Studios Roller Coaster)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,507 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 27,898 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L8J6VYqczg4"
   }
 ]
