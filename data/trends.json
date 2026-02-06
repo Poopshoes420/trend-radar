@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxin1n/i_wasnt_expecting_this_ending/"
   },
   {
-    "topic": "Reminds me of Boss Baby",
+    "topic": "Didn\u2019t see that coming..",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxagnk/reminds_me_of_boss_baby/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxktvi/didnt_see_that_coming/"
   },
   {
     "topic": "Eat or breath, choose one bro.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwrit6/removal_of_the_upload_date_filter_proves_youtube/"
   },
   {
-    "topic": "Someone please explain why this happens",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwftfy/someone_please_explain_why_this_happens/"
-  },
-  {
     "topic": "\"Wait let me refresh...\"",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxfylc/wait_let_me_refresh/"
+  },
+  {
+    "topic": "Someone please explain why this happens",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qwftfy/someone_please_explain_why_this_happens/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1443, Part 1 (Thread #1590)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
   },
   {
-    "topic": "Ukraine\u2019s kill rate just overtook Russia\u2019s troop replacement, Syrskyi says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxe9x5/ukraines_kill_rate_just_overtook_russias_troop/"
-  },
-  {
     "topic": "\u201cWe can breathe easier\u201d: Ukrainian soldiers say Russians in panic after Starlink shutdown",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxjsb3/we_can_breathe_easier_ukrainian_soldiers_say/"
   },
   {
-    "topic": "Russian Forces \u2018Destroying Themselves\u2019 as Starlink Shutdown Sparks Friendly Fire \u2013 ATESH Partisans",
+    "topic": "Ukraine\u2019s kill rate just overtook Russia\u2019s troop replacement, Syrskyi says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxbru4/russian_forces_destroying_themselves_as_starlink/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxe9x5/ukraines_kill_rate_just_overtook_russias_troop/"
+  },
+  {
+    "topic": "Pakistan Suicide Blast: 69 Killed, 169 Injured In Suicide Bombing At Shrine In Islamabad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxficy/pakistan_suicide_blast_69_killed_169_injured_in/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 885,038 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 893,870 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KP_AAbE1AKU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 226,054 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 280,270 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,586 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 145,889 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   }
 ]
