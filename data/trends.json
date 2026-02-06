@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qx7cv1/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Russian general shot several times in Moscow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
-  },
-  {
     "topic": "US to Fund MAGA-Aligned Groups in Europe Amid Free Speech Disputes",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxtka2/us_to_fund_magaaligned_groups_in_europe_amid_free/"
+  },
+  {
+    "topic": "Russian general shot several times in Moscow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxborh/russian_general_shot_several_times_in_moscow/"
   },
   {
     "topic": "Ukraine\u2019s kill rate just overtook Russia\u2019s troop replacement, Syrskyi says",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxe9x5/ukraines_kill_rate_just_overtook_russias_troop/"
   },
   {
-    "topic": "Facing high Trump tariffs, Africa's leading economy says it's close to a new trade deal with China",
+    "topic": "Japan moves for the first time to criminalize paying for sex",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxmwe7/facing_high_trump_tariffs_africas_leading_economy/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxogq9/japan_moves_for_the_first_time_to_criminalize/"
   },
   {
     "topic": "British actor Sir Ian McKellen recites pro-immigrant Shakespeare monologue to criticize Trump\u2019s immigration crackdown.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 443,060 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 458,021 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Ek5QUa3DEI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,565 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 227,328 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 289,060 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 296,948 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QvxEbBhfb_Q"
+  },
+  {
+    "topic": "Can We Escape Together?",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 97,576 views \u2022 ~239m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GhAEOtzbaTE"
   },
   {
     "topic": "Version 4.0 Trailer: \"No Aha at Full Moon\" | Honkai: Star Rail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 193,811 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 196,413 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2hH0hILcWPs"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,883 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 15,494 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
