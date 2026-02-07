@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "My GameStop has closed down, soon this masterpiece will be lost",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxpoh0/my_gamestop_has_closed_down_soon_this_masterpiece/"
-  },
-  {
     "topic": "I\u2019m Making an RPG Set Inside the 1990s Internet (WEBSCAPE)",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qye9yd/im_making_an_rpg_set_inside_the_1990s_internet/"
+  },
+  {
+    "topic": "My GameStop has closed down, soon this masterpiece will be lost",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxpoh0/my_gamestop_has_closed_down_soon_this_masterpiece/"
   },
   {
     "topic": "Who is the video game boss with the highest total listed HP that is not infinite and is defeated by reaching 0?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 943,133 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 946,524 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
@@ -192,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 333,426 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 385,110 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4hco660Ino"
+  },
+  {
+    "topic": "Knight Of The Seven Kingdoms Episode 5 Trailer: Trial Of Seven & House Of The Dragon Easter Eggs",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,073 views \u2022 ~182m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DpfMTS-1hkM"
   }
 ]
