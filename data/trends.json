@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qybnsn/woke_up_morning_after_party_to_all_the_silverware/"
   },
   {
-    "topic": "Jesus cat\ud83d\ude3c",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qy7xvr/jesus_cat/"
-  },
-  {
     "topic": "GK shoots ball in striker's arse",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qyjer4/gk_shoots_ball_in_strikers_arse/"
+  },
+  {
+    "topic": "Jesus cat\ud83d\ude3c",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qy7xvr/jesus_cat/"
   },
   {
     "topic": "Brutal yakuza turf war",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyc5ch/2147483647_hours_in_1_video/"
   },
   {
+    "topic": "Real real good",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyj27z/real_real_good/"
+  },
+  {
     "topic": "Why are YouTube comments like this?",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qybo27/why_are_youtube_comments_like_this/"
   },
   {
-    "topic": "This is why he left",
+    "topic": "Orban declares Ukraine 'enemy' of Hungary",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxe76j/this_is_why_he_left/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qylihr/orban_declares_ukraine_enemy_of_hungary/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy3mz4/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Orban declares Ukraine 'enemy' of Hungary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qylihr/orban_declares_ukraine_enemy_of_hungary/"
   },
   {
     "topic": "Russia offers US US$12trn cooperation package \u2013 Zelenskyy",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qymd39/update_i_tracked_1200_unique_players_in_a/"
   },
   {
+    "topic": "Jason Schreier says Horizon 3 is still a long ways away as most of Guerrilla is working on the recently announced Horizon Hunters Gathering",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qyn8hr/jason_schreier_says_horizon_3_is_still_a_long/"
+  },
+  {
     "topic": "Toyota Developing A Console-Grade, Open-Source Game Engine - Using Flutter & Dart",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qyfqch/toyota_developing_a_consolegrade_opensource_game/"
   },
   {
-    "topic": "My GameStop has closed down, soon this masterpiece will be lost",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxpoh0/my_gamestop_has_closed_down_soon_this_masterpiece/"
-  },
-  {
     "topic": "Minecraft Pro VS 1000 Players",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,364,723 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 1,489,445 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLm57ZHTJvQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 981,631 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 1,033,624 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4hco660Ino"
   },
   {
@@ -200,31 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 987,688 views \u2022 ~655m old",
+    "why": "Trending on YouTube \u2022 993,839 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
-  },
-  {
-    "topic": "Sampradayini Suppini Suddapoosani Trailer | #SSS  | Shivaji, Laya | Premieres Feb 12 | WIN Original",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 336,337 views \u2022 ~635m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8rgXwgSFkHE"
   },
   {
     "topic": "Surviving 99 Years as a BLOOP in Minecraft!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,134 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 176,396 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8P94COKek0w"
+  },
+  {
+    "topic": "Sampradayini Suppini Suddapoosani Trailer | #SSS  | Shivaji, Laya | Premieres Feb 12 | WIN Original",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 346,454 views \u2022 ~676m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8rgXwgSFkHE"
+  },
+  {
+    "topic": "What is the Worst Bug Type Pokemon?",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 135,881 views \u2022 ~277m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tbEy6wqNW7A"
   },
   {
     "topic": "WE ENTERED 67...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,802 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 235,062 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8VYt09vCca8"
   },
   {
@@ -232,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,384 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 92,987 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DpfMTS-1hkM"
+  },
+  {
+    "topic": "Wynncraft: Fruma Expansion Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,223 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mXqZIo-AjZU"
   }
 ]
