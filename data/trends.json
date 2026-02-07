@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxtmyv/youtube_banned_a_happy_tree_friends_episode/"
   },
   {
+    "topic": "Wtf is going on YT?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy2eo6/wtf_is_going_on_yt/"
+  },
+  {
     "topic": "What YouTube comment you've seen has hit you the hardest ?",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxpesy/does_anyone_else_find_this_pathetic/"
   },
   {
-    "topic": "Wtf is going on YT?!",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy2eo6/wtf_is_going_on_yt/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy3mz4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "France uncovers Russian disinformation campaign falsely linking Macron to Epstein",
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxx3wg/france_uncovers_russian_disinformation_campaign/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy3mz4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "US to Fund MAGA-Aligned Groups in Europe Amid Free Speech Disputes",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxpoh0/my_gamestop_has_closed_down_soon_this_masterpiece/"
   },
   {
-    "topic": "[OC] No Such Thing As A Free Loadout",
+    "topic": "Who is the video game boss with the highest total listed HP that is not infinite and is defeated by reaching 0?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxgc8y/oc_no_such_thing_as_a_free_loadout/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qy0cyv/who_is_the_video_game_boss_with_the_highest_total/"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,205,209 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 1,205,326 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uhre-dGsRWM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 353,359 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 370,363 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPRx161QoYQ"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 623,725 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 658,232 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvf_Qv4rmLM"
-  },
-  {
-    "topic": "Getting The RAREST THING In Survive Lava For Brainrots..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 493,407 views \u2022 ~604m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tC3MU2zuVhc"
   },
   {
     "topic": "We Went on a Roadtrip... in Roblox",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 338,138 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 370,201 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iasj6B3TscI"
+  },
+  {
+    "topic": "Getting The RAREST THING In Survive Lava For Brainrots..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 522,188 views \u2022 ~643m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tC3MU2zuVhc"
   },
   {
     "topic": "Jlexis - HOY SI (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,701 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 273,874 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=av8XkeZ-Al0"
   },
   {
@@ -232,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 286,684 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 299,904 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PkXa-NSsLIU"
-  },
-  {
-    "topic": "Can We Escape Together?",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 302,883 views \u2022 ~684m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GhAEOtzbaTE"
   },
   {
     "topic": "\"Yoshi eats Kamek\" THE SUPER MARIO GALAXY MOVIE Trailer (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 243,594 views \u2022 ~664m old",
+    "why": "Trending on YouTube \u2022 263,663 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0Rv4OwZNOos"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,512 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 145,177 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gwW6Gaq8oko"
   }
 ]
