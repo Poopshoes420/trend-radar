@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qybixr/russia_offers_us_us12trn_cooperation_package/"
   },
   {
+    "topic": "Ukraine hits 'important' Russian cruise missile fuel plant in Tver Oblast, drones spark 'massive fire'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qyfc5s/ukraine_hits_important_russian_cruise_missile/"
+  },
+  {
     "topic": "France uncovers Russian disinformation campaign falsely linking Macron to Epstein",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy9jzf/zelenskyy_says_us_gave_ukraine_and_russia_a_june/"
-  },
-  {
-    "topic": "Ukraine hits 'important' Russian cruise missile fuel plant in Tver Oblast, drones spark 'massive fire'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qyfc5s/ukraine_hits_important_russian_cruise_missile/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "I\u2019m Making an RPG Set Inside the 1990s Internet (WEBSCAPE)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qye9yd/im_making_an_rpg_set_inside_the_1990s_internet/"
-  },
-  {
     "topic": "My GameStop has closed down, soon this masterpiece will be lost",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qy0cyv/who_is_the_video_game_boss_with_the_highest_total/"
   },
   {
+    "topic": "Toyota Developing A Console-Grade, Open-Source Game Engine - Using Flutter & Dart",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qyfqch/toyota_developing_a_consolegrade_opensource_game/"
+  },
+  {
     "topic": "Minecraft Pro VS 1000 Players",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,691 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 641,249 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLm57ZHTJvQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 950,341 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 958,811 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 430,728 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 528,356 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4hco660Ino"
+  },
+  {
+    "topic": "Sampradayini Suppini Suddapoosani Trailer | #SSS  | Shivaji, Laya | Premieres Feb 12 | WIN Original",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 240,581 views \u2022 ~444m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8rgXwgSFkHE"
   },
   {
     "topic": "Knight Of The Seven Kingdoms Episode 5 Trailer: Trial Of Seven & House Of The Dragon Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,829 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 39,856 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DpfMTS-1hkM"
   }
 ]
