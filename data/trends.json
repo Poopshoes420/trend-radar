@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxe76j/this_is_why_he_left/"
   },
   {
-    "topic": "YouTube banned a Happy Tree Friends episode!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxtmyv/youtube_banned_a_happy_tree_friends_episode/"
-  },
-  {
     "topic": "What the fuck are beages",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy7hix/what_the_fuck_are_beages/"
+  },
+  {
+    "topic": "YouTube banned a Happy Tree Friends episode!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxtmyv/youtube_banned_a_happy_tree_friends_episode/"
   },
   {
     "topic": "What YouTube comment you've seen has hit you the hardest ?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 914,006 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 916,432 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 514,838 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 519,643 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPRx161QoYQ"
-  },
-  {
-    "topic": "Im Quitting Clash Royale",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 395,126 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u3l9Nuo1Opg"
   },
   {
     "topic": "Jlexis - HOY SI (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,428 views \u2022 ~697m old",
+    "why": "Trending on YouTube \u2022 307,677 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=av8XkeZ-Al0"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 116,449 views \u2022 ~697m old",
+    "why": "Trending on YouTube \u2022 117,576 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=63d8KjO7TTk"
   }
 ]
