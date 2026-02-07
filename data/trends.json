@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qyfc5s/ukraine_hits_important_russian_cruise_missile/"
   },
   {
-    "topic": "Mexican cartels overpower police with ammunition made for the US military",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qyin14/mexican_cartels_overpower_police_with_ammunition/"
-  },
-  {
     "topic": "Zelenskyy says U.S. gave Ukraine and Russia a June deadline to reach agreement to end war",
     "sources": [
       "reddit"
@@ -135,80 +126,89 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy9jzf/zelenskyy_says_us_gave_ukraine_and_russia_a_june/"
   },
   {
-    "topic": "Mobile \"gaming\" is an absolute cesspool",
+    "topic": "France uncovers Russian disinformation campaign falsely linking Macron to Epstein",
     "sources": [
       "reddit"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwwygb/mobile_gaming_is_an_absolute_cesspool/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxx3wg/france_uncovers_russian_disinformation_campaign/"
   },
   {
-    "topic": "In modern gaming there is exactly 0 reason to have or play new game +.",
+    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxamv0/in_modern_gaming_there_is_exactly_0_reason_to/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qy71uh/self_promotion_saturday_small_streamer_just/"
   },
   {
-    "topic": "Nintendo Partner Direct - 5th Feb '26 - Whatcha Think?",
+    "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwnmdp/nintendo_partner_direct_5th_feb_26_whatcha_think/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Stop blaming greedy CEOs for the state of gaming. It\u2019s our fault.",
+    "topic": "My GameStop has closed down, soon this masterpiece will be lost",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxeisr/stop_blaming_greedy_ceos_for_the_state_of_gaming/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxpoh0/my_gamestop_has_closed_down_soon_this_masterpiece/"
   },
   {
-    "topic": "What game should I play next?",
+    "topic": "Toyota Developing A Console-Grade, Open-Source Game Engine - Using Flutter & Dart",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qwva4j/what_game_should_i_play_next/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qyfqch/toyota_developing_a_consolegrade_opensource_game/"
+  },
+  {
+    "topic": "Who is the video game boss with the highest total listed HP that is not infinite and is defeated by reaching 0?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qy0cyv/who_is_the_video_game_boss_with_the_highest_total/"
   },
   {
     "topic": "Minecraft Pro VS 1000 Players",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 821,133 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 895,706 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLm57ZHTJvQ"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | NUT RAIDERS | FREAK A FAN FRIDAY | Nickmercs X HutchMF | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 967,623 views \u2022 ~524m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
     "topic": "FUNKY - TRAILER | Vishwak Sen, Kayadu Lohar | Anudeep | Bheems Ceciroleo | Naga Vamsi",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 626,808 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 681,050 views \u2022 ~357m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m4hco660Ino"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS | FREAK A FAN FRIDAY | Nickmercs X HutchMF | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 965,639 views \u2022 ~539m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
     "topic": "PRESTIGE ULTIMA IS HERE! NEW MOST OP UNIT EVER! LET THE RACE BEGIN! SpongeBob Tower Defense Roblox",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,467 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 89,627 views \u2022 ~110m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3Mv_zzcHWDA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 263,884 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 277,389 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8rgXwgSFkHE"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,400 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 55,172 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DpfMTS-1hkM"
   }
 ]
