@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxspmw/uh_sir/"
   },
   {
-    "topic": "Didn\u2019t see that coming..",
+    "topic": "Jesus cat\ud83d\ude3c",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxktvi/didnt_see_that_coming/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qy7xvr/jesus_cat/"
   },
   {
     "topic": "This is why he left",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy7hix/what_the_fuck_are_beages/"
   },
   {
-    "topic": "Wtf is going on YT?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy2eo6/wtf_is_going_on_yt/"
-  },
-  {
     "topic": "What YouTube comment you've seen has hit you the hardest ?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxfnj4/what_youtube_comment_youve_seen_has_hit_you_the/"
+  },
+  {
+    "topic": "Wtf is going on YT?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy2eo6/wtf_is_going_on_yt/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qy0cyv/who_is_the_video_game_boss_with_the_highest_total/"
   },
   {
-    "topic": "[OC] No Such Thing As A Free Loadout",
+    "topic": "'We Tried to Think of Someone Who Makes You Go, 'This Guy's a Creep'': Yakuza/Like a Dragon Director Addresses Controversial Casting",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qxgc8y/oc_no_such_thing_as_a_free_loadout/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qy0hvd/we_tried_to_think_of_someone_who_makes_you_go/"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS | FREAK A FAN FRIDAY | Nickmercs X HutchMF | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 774,640 views \u2022 ~47m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,205,733 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 1,205,778 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uhre-dGsRWM"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 450,763 views \u2022 ~443m old",
+    "why": "Trending on YouTube \u2022 462,742 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPRx161QoYQ"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 495,872 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 510,206 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iasj6B3TscI"
-  },
-  {
-    "topic": "ROBLOX SURVIVE LAVA FOR BRAINROTS!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 316,269 views \u2022 ~451m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AO3jzWFH954"
   },
   {
     "topic": "Im Quitting Clash Royale",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 334,137 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 346,008 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u3l9Nuo1Opg"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 298,996 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 300,853 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=av8XkeZ-Al0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,161 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 95,752 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=63d8KjO7TTk"
   }
 ]
