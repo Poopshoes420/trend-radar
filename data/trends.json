@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy7hix/what_the_fuck_are_beages/"
   },
   {
-    "topic": "What YouTube comment you've seen has hit you the hardest ?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxfnj4/what_youtube_comment_youve_seen_has_hit_you_the/"
-  },
-  {
     "topic": "Wtf is going on YT?!",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy2eo6/wtf_is_going_on_yt/"
+  },
+  {
+    "topic": "What YouTube comment you've seen has hit you the hardest ?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxfnj4/what_youtube_comment_youve_seen_has_hit_you_the/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxogq9/japan_moves_for_the_first_time_to_criminalize/"
   },
   {
-    "topic": "Donald Trump endorses Hungary's Viktor Orb\u00e1n ahead of key elections",
+    "topic": "China overturns death sentence for Canadian Robert Schellenberg",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxu2zd/donald_trump_endorses_hungarys_viktor_orb\u00e1n_ahead/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxxezt/china_overturns_death_sentence_for_canadian/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 862,068 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 905,119 views \u2022 ~106m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kQgb8zPmCWk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,205,864 views \u2022 ~679m old",
+    "why": "Trending on YouTube \u2022 1,206,025 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uhre-dGsRWM"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 472,616 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 504,207 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPRx161QoYQ"
-  },
-  {
-    "topic": "We Went on a Roadtrip... in Roblox",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 523,856 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Iasj6B3TscI"
   },
   {
     "topic": "Im Quitting Clash Royale",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 358,410 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 376,957 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u3l9Nuo1Opg"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,192 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 304,201 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=av8XkeZ-Al0"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,400 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 113,321 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=63d8KjO7TTk"
   }
 ]
