@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxwzsb/he_forgot_his_keys_and_asked_his_cat_to_open_the/"
   },
   {
+    "topic": "Is there anything else I can help you with?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qy3a68/is_there_anything_else_i_can_help_you_with/"
+  },
+  {
     "topic": "Uh ... Sir?",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxktvi/didnt_see_that_coming/"
-  },
-  {
-    "topic": "I wasn't expecting this ending.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qxin1n/i_wasnt_expecting_this_ending/"
   },
   {
     "topic": "This is why he left",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxpesy/does_anyone_else_find_this_pathetic/"
   },
   {
-    "topic": "I sent YouTube feedback about the changes 'Subscription' page, and hope others will too...",
+    "topic": "Wtf is going on YT?!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qxsn90/i_sent_youtube_feedback_about_the_changes/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy3mz4/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qy2eo6/wtf_is_going_on_yt/"
   },
   {
     "topic": "France uncovers Russian disinformation campaign falsely linking Macron to Epstein",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qxx3wg/france_uncovers_russian_disinformation_campaign/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1444, Part 1 (Thread #1591)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qy3mz4/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "US to Fund MAGA-Aligned Groups in Europe Amid Free Speech Disputes",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,205,079 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 1,205,209 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uhre-dGsRWM"
-  },
-  {
-    "topic": "PLAYING ROBLOX\u2049\ufe0f #roblox #gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 916,924 views \u2022 ~356m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vCDgypkCfhg"
   },
   {
     "topic": "I'm on Observation Duty: LIVE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,963 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 353,359 views \u2022 ~212m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RPRx161QoYQ"
   },
   {
@@ -208,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 574,674 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 623,725 views \u2022 ~523m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvf_Qv4rmLM"
-  },
-  {
-    "topic": "Jlexis - HOY SI (Visualizer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 231,076 views \u2022 ~261m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=av8XkeZ-Al0"
   },
   {
     "topic": "Getting The RAREST THING In Survive Lava For Brainrots..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 451,446 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 493,407 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tC3MU2zuVhc"
   },
   {
@@ -232,23 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,452 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 338,138 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iasj6B3TscI"
   },
   {
-    "topic": "Tom MacDonald - \"Pray For The Left\"",
+    "topic": "Jlexis - HOY SI (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 407,662 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FuzKVhhDJE4"
+    "why": "Trending on YouTube \u2022 258,701 views \u2022 ~324m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=av8XkeZ-Al0"
+  },
+  {
+    "topic": "I Got My Own Brainrot In Escape Tsunami For Brainrots...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 286,684 views \u2022 ~633m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PkXa-NSsLIU"
   },
   {
     "topic": "Can We Escape Together?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 278,257 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 302,883 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhAEOtzbaTE"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,354 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 243,594 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0Rv4OwZNOos"
   },
   {
@@ -264,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,013 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 140,512 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gwW6Gaq8oko"
-  },
-  {
-    "topic": "Pok\u00e9mon Pinball Teaser Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 24,545 views \u2022 ~678m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aJmsmfRHpcc"
   }
 ]
