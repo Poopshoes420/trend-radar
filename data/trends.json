@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyj27z/real_real_good/"
   },
   {
+    "topic": "Wth?!? Panicking pls help!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz3pfo/wth_panicking_pls_help/"
+  },
+  {
     "topic": "This is one of the worst bot comments i ever seen",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qytubu/this_is_one_of_the_worst_bot_comments_i_ever_seen/"
-  },
-  {
-    "topic": "Videos that don't go straight to the point are exhausting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyee1w/videos_that_dont_go_straight_to_the_point_are/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1445, Part 1 (Thread #1592)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qymd39/update_i_tracked_1200_unique_players_in_a/"
   },
   {
-    "topic": "Jason Schreier says Horizon 3 is still a long ways away as most of Guerrilla is working on the recently announced Horizon Hunters Gathering",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qyn8hr/jason_schreier_says_horizon_3_is_still_a_long/"
-  },
-  {
     "topic": "Me and my baguette",
     "sources": [
       "reddit"
@@ -180,27 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qz0gpx/me_and_my_baguette/"
   },
   {
+    "topic": "Jason Schreier says Horizon 3 is still a long ways away as most of Guerrilla is working on the recently announced Horizon Hunters Gathering",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qyn8hr/jason_schreier_says_horizon_3_is_still_a_long/"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,126,627 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 1,130,657 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hz23JIumMnI"
-  },
-  {
-    "topic": "Big VALENTINES Update + Lucky Blocks!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,696,348 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=utf5K4NQDBc"
   },
   {
     "topic": "I MUST KEEP GAMBLING",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 317,682 views \u2022 ~682m old",
+    "why": "Trending on YouTube \u2022 327,403 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W12cVfSWmLI"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,258 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 123,177 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kmzwoua4dUk"
   }
 ]
