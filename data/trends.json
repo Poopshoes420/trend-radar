@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyj27z/real_real_good/"
   },
   {
-    "topic": "Videos that don't go straight to the point are exhausting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyee1w/videos_that_dont_go_straight_to_the_point_are/"
-  },
-  {
     "topic": "This is one of the worst bot comments i ever seen",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qytubu/this_is_one_of_the_worst_bot_comments_i_ever_seen/"
+  },
+  {
+    "topic": "Videos that don't go straight to the point are exhausting",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyee1w/videos_that_dont_go_straight_to_the_point_are/"
   },
   {
     "topic": "2,147,483,647 HOURS IN 1 VIDEO??",
@@ -184,15 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 774,639 views \u2022 ~191m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PCgg4Pjtdek"
+    "why": "Trending on YouTube \u2022 909,635 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hTDMXVoZ4X4"
   },
   {
     "topic": "Big VALENTINES Update + Lucky Blocks!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,673,264 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 1,679,136 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=utf5K4NQDBc"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 677,043 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 734,352 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jS2ykSmI9FA"
-  },
-  {
-    "topic": "ROBLOX STEAL FROM BRAINROTS..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 203,817 views \u2022 ~393m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XIaySq11pow"
   },
   {
     "topic": "I Built the first moving base in official Rust...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 276,763 views \u2022 ~545m old",
+    "why": "Trending on YouTube \u2022 304,550 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GBWgVZiPZzA"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,056 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 305,783 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hLX1IBineaQ"
   },
   {
@@ -232,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,818 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 241,340 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W12cVfSWmLI"
+  },
+  {
+    "topic": "Improv Tour Trailer: \"Beyond Weal and Woe\" | Honkai: Star Rail",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 62,656 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kmzwoua4dUk"
   },
   {
     "topic": "Volare / Nothing Is Impossible Medley (Milano Cortina 2026 Olympic Winter Games Opening Ceremony)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,903 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 195,815 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i9mZIIi3tgE"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,316 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 128,039 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7nBDOX0YQeE"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,872 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 75,381 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mI7n1W_lOds"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,973 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 65,146 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mXqZIo-AjZU"
   }
 ]
