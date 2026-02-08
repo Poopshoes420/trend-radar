@@ -1,14 +1,5 @@
 [
   {
-    "topic": "How was the slumber party?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzdlt1/how_was_the_slumber_party/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -18,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "A big day for American sports \ud83c\udfc8",
+    "topic": "How was the slumber party?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzi1q6/a_big_day_for_american_sports/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzdlt1/how_was_the_slumber_party/"
   },
   {
     "topic": "Recycling in 2026",
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qz9ie7/what_gets_me/"
+  },
+  {
+    "topic": "Better use of the remaining hair, looks dope",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzguk2/better_use_of_the_remaining_hair_looks_dope/"
   },
   {
     "topic": "Red bar appearing on videos I've never watched",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qyyu3j/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Russia filmed its \u201cvictory\u201d in Ternuvate with drones \u2014 an hour later, Ukrainian forces wiped the group out",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzk17j/russia_filmed_its_victory_in_ternuvate_with/"
-  },
-  {
     "topic": "Japan's Sanae Takaichi wins a landslide in snap election, exit polls project",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qz6trh/japans_sanae_takaichi_wins_a_landslide_in_snap/"
+  },
+  {
+    "topic": "Iran sentences Nobel laureate Narges Mohammadi to seven more years in prison",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzgyft/iran_sentences_nobel_laureate_narges_mohammadi_to/"
   },
   {
     "topic": "Pro-Ukrainian partisans disable military communication infrastructure in Russia's Belgorod Oblast, group claims",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qz5kig/proukrainian_partisans_disable_military/"
   },
   {
-    "topic": "Iran sentences Nobel laureate Narges Mohammadi to seven more years in prison",
+    "topic": "\u2018We must get through the next few days\u2019: Ukrainians face bitter cold without power",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzgyft/iran_sentences_nobel_laureate_narges_mohammadi_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzix37/we_must_get_through_the_next_few_days_ukrainians/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzd8o1/i_just_did_the_death_stranding_intro_and_i_have/"
   },
   {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 774,971 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S1gLMwB8K-o"
+  },
+  {
     "topic": "Taylor Swift - Opalite (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,777,136 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 1,878,580 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1FVF-9KQiPo"
   },
   {
@@ -192,47 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 525,267 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 533,625 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7CbcAzl0VQo"
-  },
-  {
-    "topic": "I BECAME A BRAINROT..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 462,527 views \u2022 ~178m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I9VbVJUUOnQ"
-  },
-  {
-    "topic": "I Fused Me & Emma Into One Brainrot...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 319,967 views \u2022 ~423m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I_bW43tXyzk"
-  },
-  {
-    "topic": "Helldivers 2 - Attack on Cyberstan Deep Dive",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 406,120 views \u2022 ~602m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WrfT-ox5lIk"
   },
   {
     "topic": "Project Hail Mary | Final Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 111,908 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 174,591 views \u2022 ~224m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P0XN3-n-2Lo"
+  },
+  {
+    "topic": "I Fused Me & Emma Into One Brainrot...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 335,839 views \u2022 ~463m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I_bW43tXyzk"
+  },
+  {
+    "topic": "ROBLOX DIG TO ESCAPE DETENTION!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 159,578 views \u2022 ~268m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YVC17r--Gjo"
   },
   {
     "topic": "Supergirl | Home",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,847 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 116,317 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
   },
   {
@@ -240,23 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,648 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 60,829 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jQi2a2MDIbk"
   },
   {
-    "topic": "The Super Mario Galaxy Movie TV SPOT!! (NEW TRAILER\u203c\ufe0f) | the super mario galaxy movie trailer",
+    "topic": "Supergirl Super Bowl Teaser Trailer - Home (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,022 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vlxoHilyoTs"
+    "why": "Trending on YouTube \u2022 14,994 views \u2022 ~175m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ydqvWEeJpdk"
   },
   {
     "topic": "Mickey Factz - Letter From Hitman Remix Feat. Hitman Holla - Plague #8 (Aye Verb Destruction)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,635 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 20,447 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDXh52LC43I"
+  },
+  {
+    "topic": "Morgan Wallen - Thought You Should Know (Lyrics)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,625 views \u2022 ~673m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SpcBjgRMet4"
   }
 ]
