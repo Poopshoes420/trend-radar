@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qyzt0v/the_sketches_are_taking_me_out/"
   },
   {
-    "topic": "Wth?!? Panicking pls help!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz3pfo/wth_panicking_pls_help/"
-  },
-  {
     "topic": "Red bar appearing on videos I've never watched",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz4ie4/3_months_of_hard_work_everyday/"
+  },
+  {
+    "topic": "my recommendations are absolutely terrible!!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzb9ss/my_recommendations_are_absolutely_terrible/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1445, Part 1 (Thread #1592)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzeeyw/air_traversal_in_crimson_desert/"
   },
   {
-    "topic": "Loving replaying Lego Racers!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qz6lb3/loving_replaying_lego_racers/"
-  },
-  {
     "topic": "Nintendo Fan Since Childhood. These Prices are Crazy",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzgajp/nintendo_fan_since_childhood_these_prices_are/"
   },
   {
+    "topic": "Loving replaying Lego Racers!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qz6lb3/loving_replaying_lego_racers/"
+  },
+  {
     "topic": "giving viewers secret brainrots",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,030,042 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 1,031,359 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G9_Dw15xWA4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,021,083 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 1,122,757 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1FVF-9KQiPo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 269,642 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 299,064 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WrfT-ox5lIk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,231 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 150,508 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_bW43tXyzk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,317 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 46,872 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vlxoHilyoTs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,106 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 24,111 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jQi2a2MDIbk"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,231 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 12,095 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDXh52LC43I"
   }
 ]
