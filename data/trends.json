@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 891,167 views \u2022 ~54m old",
+    "why": "Trending on YouTube \u2022 903,162 views \u2022 ~70m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KQkXxd1vAg8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,131,067 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 1,131,108 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hz23JIumMnI"
   },
   {
@@ -200,7 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,654 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 155,587 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kmzwoua4dUk"
+  },
+  {
+    "topic": "Avengers: Infinity War",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~10m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6iEcZ7rlfwU"
   }
 ]
