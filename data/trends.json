@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qz6rcd/_/"
   },
   {
-    "topic": "Red bar appearing on videos I've never watched",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyw1t4/red_bar_appearing_on_videos_ive_never_watched/"
-  },
-  {
     "topic": "Wth?!? Panicking pls help!",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz3pfo/wth_panicking_pls_help/"
+  },
+  {
+    "topic": "Red bar appearing on videos I've never watched",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyw1t4/red_bar_appearing_on_videos_ive_never_watched/"
   },
   {
     "topic": "DO NOT USE THIS GREEN SCREEN!!! I LOST EVERYTHING",
@@ -180,43 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qz0gpx/me_and_my_baguette/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | NUT RAIDERS | SILLY GOOSE SATURDAY | #FartInMyPalmWhileIHuffIt | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 934,814 views \u2022 ~311m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KQkXxd1vAg8"
-  },
-  {
     "topic": "Taylor Swift - Opalite (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 479,672 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 616,612 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1FVF-9KQiPo"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS | SILLY GOOSE SATURDAY | #FartInMyPalmWhileIHuffIt | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 941,301 views \u2022 ~356m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KQkXxd1vAg8"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,128,286 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 1,128,393 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hz23JIumMnI"
-  },
-  {
-    "topic": "Improv Tour Trailer: \"Beyond Weal and Woe\" | Honkai: Star Rail",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 197,124 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kmzwoua4dUk"
   },
   {
     "topic": "Avengers: Infinity War",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6iEcZ7rlfwU"
   }
 ]
