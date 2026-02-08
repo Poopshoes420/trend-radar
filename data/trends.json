@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qz9ie7/what_gets_me/"
   },
   {
-    "topic": "The sketches are taking me out \ud83d\udc80",
+    "topic": "A big day for American sports \ud83c\udfc8",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qyzt0v/the_sketches_are_taking_me_out/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzi1q6/a_big_day_for_american_sports/"
   },
   {
     "topic": "Red bar appearing on videos I've never watched",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qza16c/this_is_hilarious/"
   },
   {
+    "topic": "Youtube sucks now, but I continued using it for free anyway",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzjaue/youtube_sucks_now_but_i_continued_using_it_for/"
+  },
+  {
     "topic": "3 months of hard work, everyday",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz4ie4/3_months_of_hard_work_everyday/"
-  },
-  {
-    "topic": "my recommendations are absolutely terrible!!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzb9ss/my_recommendations_are_absolutely_terrible/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1445, Part 1 (Thread #1592)",
@@ -180,19 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qz6lb3/loving_replaying_lego_racers/"
   },
   {
-    "topic": "giving viewers secret brainrots",
+    "topic": "HUGE UPDATE IN MY GAME!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,033,449 views \u2022 ~203m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=G9_Dw15xWA4"
+    "why": "Trending on YouTube \u2022 375,806 views \u2022 ~35m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I9VbVJUUOnQ"
+  },
+  {
+    "topic": "MASSIVE UPDATE In My Game + Admin Abuse!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 371,035 views \u2022 ~41m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7CbcAzl0VQo"
   },
   {
     "topic": "Taylor Swift - Opalite (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,244,038 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 1,353,859 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1FVF-9KQiPo"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 193,359 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 227,427 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_bW43tXyzk"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 323,112 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 342,370 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WrfT-ox5lIk"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,600 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 36,882 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jQi2a2MDIbk"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,042 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 55,610 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vlxoHilyoTs"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,867 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 15,248 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDXh52LC43I"
   }
 ]
