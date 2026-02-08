@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyw1t4/red_bar_appearing_on_videos_ive_never_watched/"
   },
   {
-    "topic": "DO NOT USE THIS GREEN SCREEN!!! I LOST EVERYTHING",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz2plb/do_not_use_this_green_screen_i_lost_everything/"
-  },
-  {
     "topic": "This is hilarious",
     "sources": [
       "reddit"
@@ -72,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qza16c/this_is_hilarious/"
   },
   {
-    "topic": "Well.. wtf is this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzkog7/well_wtf_is_this/"
-  },
-  {
     "topic": "Inappropriate profiles on linked accounts",
     "sources": [
       "reddit"
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzjq22/inappropriate_profiles_on_linked_accounts/"
+  },
+  {
+    "topic": "Youtube sucks now, but I continued using it for free anyway",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzjaue/youtube_sucks_now_but_i_continued_using_it_for/"
+  },
+  {
+    "topic": "3 months of hard work, everyday",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qz4ie4/3_months_of_hard_work_everyday/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1445, Part 1 (Thread #1592)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qz5kig/proukrainian_partisans_disable_military/"
   },
   {
-    "topic": "UK threatens seizure of Russian shadow fleet tankers, The Guardian says",
+    "topic": "Iran sentences Nobel laureate Narges Mohammadi to seven more years in prison",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qz82ei/uk_threatens_seizure_of_russian_shadow_fleet/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzgyft/iran_sentences_nobel_laureate_narges_mohammadi_to/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 502,280 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 517,252 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7CbcAzl0VQo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 451,764 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 459,598 views \u2022 ~154m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I9VbVJUUOnQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,599,385 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 1,688,240 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1FVF-9KQiPo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 287,409 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 306,274 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_bW43tXyzk"
   },
   {
@@ -216,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 382,250 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 396,194 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WrfT-ox5lIk"
-  },
-  {
-    "topic": "Supergirl | Home",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 55,543 views \u2022 ~119m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
   },
   {
     "topic": "Project Hail Mary | Final Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,142 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 78,627 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P0XN3-n-2Lo"
+  },
+  {
+    "topic": "Supergirl | Home",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 78,284 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
   },
   {
     "topic": "The Last Guest: Reimagined (FINAL TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,697 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 53,669 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jQi2a2MDIbk"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,543 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 67,517 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vlxoHilyoTs"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,001 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 18,862 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDXh52LC43I"
   }
 ]
