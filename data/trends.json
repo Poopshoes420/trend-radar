@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qz7xtf/recycling_in_2026/"
   },
   {
-    "topic": "What gets me...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qz9ie7/what_gets_me/"
-  },
-  {
     "topic": "A big day for American sports \ud83c\udfc8",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzi1q6/a_big_day_for_american_sports/"
+  },
+  {
+    "topic": "What gets me...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1qz9ie7/what_gets_me/"
   },
   {
     "topic": "Red bar appearing on videos I've never watched",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qza16c/this_is_hilarious/"
   },
   {
-    "topic": "Youtube sucks now, but I continued using it for free anyway",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzjaue/youtube_sucks_now_but_i_continued_using_it_for/"
-  },
-  {
     "topic": "Inappropriate profiles on linked accounts",
     "sources": [
       "reddit"
@@ -90,6 +81,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzjq22/inappropriate_profiles_on_linked_accounts/"
   },
   {
+    "topic": "Youtube sucks now, but I continued using it for free anyway",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzjaue/youtube_sucks_now_but_i_continued_using_it_for/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1445, Part 1 (Thread #1592)",
     "sources": [
       "reddit"
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qyyu3j/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Russia filmed its \u201cvictory\u201d in Ternuvate with drones \u2014 an hour later, Ukrainian forces wiped the group out",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzk17j/russia_filmed_its_victory_in_ternuvate_with/"
   },
   {
     "topic": "Japan's Sanae Takaichi wins a landslide in snap election, exit polls project",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qz82ei/uk_threatens_seizure_of_russian_shadow_fleet/"
-  },
-  {
-    "topic": "Kyiv calls for Polish aid after 'massive' Russian attack on Ukraine power grid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzbb7s/kyiv_calls_for_polish_aid_after_massive_russian/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzd8o1/i_just_did_the_death_stranding_intro_and_i_have/"
   },
   {
-    "topic": "HUGE UPDATE IN MY GAME!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 394,580 views \u2022 ~56m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I9VbVJUUOnQ"
-  },
-  {
     "topic": "MASSIVE UPDATE In My Game + Admin Abuse!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 406,948 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 471,534 views \u2022 ~100m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7CbcAzl0VQo"
+  },
+  {
+    "topic": "HUGE UPDATE IN MY GAME!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 436,928 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I9VbVJUUOnQ"
   },
   {
     "topic": "Taylor Swift - Opalite (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,437,534 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 1,540,177 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1FVF-9KQiPo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 246,860 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 273,892 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_bW43tXyzk"
   },
   {
@@ -216,15 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 353,763 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 372,473 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WrfT-ox5lIk"
+  },
+  {
+    "topic": "Supergirl | Home",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 49,181 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
+  },
+  {
+    "topic": "Project Hail Mary | Final Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 43,558 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P0XN3-n-2Lo"
   },
   {
     "topic": "The Last Guest: Reimagined (FINAL TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,436 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 45,392 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jQi2a2MDIbk"
   },
   {
@@ -232,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,146 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 62,132 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vlxoHilyoTs"
-  },
-  {
-    "topic": "SPIDER-MAN BRAND NEW DAY LEAKED TRAILER!?",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 8,713 views \u2022 ~149m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SX1lIe6ek_w"
   },
   {
     "topic": "Mickey Factz - Letter From Hitman Remix Feat. Hitman Holla - Plague #8 (Aye Verb Destruction)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,276 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 17,369 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JDXh52LC43I"
   }
 ]
