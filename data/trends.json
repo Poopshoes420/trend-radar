@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzmpxm/does_yt_have_dementia_image_unrelated/"
   },
   {
-    "topic": "This is hilarious",
+    "topic": "Youtube has become terrible now!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qza16c/this_is_hilarious/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzxcha/youtube_has_become_terrible_now/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1446, Part 1 (Thread #1593)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzqg97/cuba_warns_airlines_that_it_will_be_out_of_fuel/"
   },
   {
+    "topic": "Taiwan says 40% shift of chip capacity to US is 'impossible'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r00vo9/taiwan_says_40_shift_of_chip_capacity_to_us_is/"
+  },
+  {
     "topic": "Empty Ukrainian embassy in Moscow fined for not paying US$71,000 electricity bill",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzshlo/empty_ukrainian_embassy_in_moscow_fined_for_not/"
-  },
-  {
-    "topic": "Ukraine war must become 'untenable' for Russia, Zelenskyy says after latest strikes",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzmz5l/ukraine_war_must_become_untenable_for_russia/"
   },
   {
     "topic": "In Belgorod, about 80,000 people were left without heating after a missile attack",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzplxk/flappy_bird_was_removed_from_the_app_store/"
   },
   {
+    "topic": "Things Are a Little Bits Nuts Over on Helldivers Right Now (Players are able to push to the Automaton homeworld for the first time, new faction incoming)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r00hem/things_are_a_little_bits_nuts_over_on_helldivers/"
+  },
+  {
     "topic": "Air Traversal in Crimson Desert",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzeeyw/air_traversal_in_crimson_desert/"
   },
   {
-    "topic": "Skyblivion Reveals New Screenshots and Gets Encouraging Development Update",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzshx8/skyblivion_reveals_new_screenshots_and_gets/"
-  },
-  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 885,516 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 885,581 views \u2022 ~676m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ezZlOYeLHOQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 419,872 views \u2022 ~309m old",
+    "why": "Trending on YouTube \u2022 419,883 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tbLRBBcwy1I"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 341,479 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 354,271 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 335,618 views \u2022 ~574m old",
+    "why": "Trending on YouTube \u2022 345,319 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9ik8sxTkTbw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 309,454 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 322,193 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UC4INGdHwhs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 303,570 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 310,694 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,936 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 267,544 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrXuXtMZfXo"
   },
   {
@@ -240,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,778 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 223,928 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ik0drfECnPo"
   },
   {
-    "topic": "STAR WARS: THE MANDALORIAN AND GROGU Official Super Bowl Trailer (2026)",
+    "topic": "Days of Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 182,172 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ONGPpYvypmc"
-  },
-  {
-    "topic": "Disclosure Day | Big Game Spot",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 178,617 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N32YL6wV2j0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~3m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Qg317F7cwQ4"
   }
 ]
