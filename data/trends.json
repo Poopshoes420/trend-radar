@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzo7th/aside_from_mr_beast_t_series_i_literally_cannot/"
   },
   {
+    "topic": "My YouTube doesn't have a \"Skip Ad\" button anymore, and it's been like this the last few days since cancelling my YouTube Premium",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzo0i3/my_youtube_doesnt_have_a_skip_ad_button_anymore/"
+  },
+  {
     "topic": "This is hilarious",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qza16c/this_is_hilarious/"
-  },
-  {
-    "topic": "Red bar appearing on videos I've never watched",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qyw1t4/red_bar_appearing_on_videos_ive_never_watched/"
   },
   {
     "topic": "Cuba warns airlines that it will be out of fuel for planes in 24 hours",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzmz5l/ukraine_war_must_become_untenable_for_russia/"
   },
   {
-    "topic": "Japan's Sanae Takaichi wins a landslide in snap election, exit polls project",
+    "topic": "Empty Ukrainian embassy in Moscow fined for not paying US$71,000 electricity bill",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qz6trh/japans_sanae_takaichi_wins_a_landslide_in_snap/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzshlo/empty_ukrainian_embassy_in_moscow_fined_for_not/"
   },
   {
     "topic": "\u2018We must get through the next few days\u2019: Ukrainians face bitter cold without power",
@@ -142,15 +142,6 @@
     "subreddit": "popculturechat",
     "why": "New post on r/popculturechat \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qzqyi0/bad_bunny_lady_gaga_ricky_martins_super_bowl_lx/"
-  },
-  {
-    "topic": "Bad Bunny finished his Halftime show shouting out all the countries in the American continent while performing Debi Tirar Mas Fotos and a poignant message: \" The only thing more powerful than hate, is love\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1qzrbi3/bad_bunny_finished_his_halftime_show_shouting_out/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,27 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzplxk/flappy_bird_was_removed_from_the_app_store/"
   },
   {
-    "topic": "roblox best gameplay",
+    "topic": "Air Traversal in Crimson Desert",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 883,923 views \u2022 ~264m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ezZlOYeLHOQ"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzeeyw/air_traversal_in_crimson_desert/"
   },
   {
     "topic": "Project Hail Mary | Final Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,425,997 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 1,715,542 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P0XN3-n-2Lo"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 884,923 views \u2022 ~347m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ezZlOYeLHOQ"
+  },
+  {
+    "topic": "ROBLOX BOTE RIED.. but I have ADMIN",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 135,331 views \u2022 ~154m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
   },
   {
     "topic": "THE SUPER MARIO GALAXY MOVIE Super Bowl Trailer (NEW 2026) 4K",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,927 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 191,183 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrXuXtMZfXo"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 304,700 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 329,031 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YVC17r--Gjo"
   },
   {
@@ -216,55 +224,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 267,049 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 300,051 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VoqjnU_wGJM"
   },
   {
-    "topic": "\ud83d\udd34 LIVE\ud83d\udd34Seattle Seahawks vs Los Angeles Rams / Today/ February 8/ Super Bowl/ Madden NFL 26",
+    "topic": "Your WORST Clips...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,673 views \u2022 ~554m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vIOYy62kdeA"
-  },
-  {
-    "topic": "Disclosure Day | Big Game Spot",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 101,398 views \u2022 ~337m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N32YL6wV2j0"
-  },
-  {
-    "topic": "STAR WARS: THE MANDALORIAN AND GROGU Official Super Bowl Trailer (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 86,476 views \u2022 ~310m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ONGPpYvypmc"
-  },
-  {
-    "topic": "Supergirl Super Bowl Teaser Trailer - Home (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 134,183 views \u2022 ~505m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ydqvWEeJpdk"
+    "why": "Trending on YouTube \u2022 167,809 views \u2022 ~376m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FqxFEn7w_2s"
   },
   {
     "topic": "ALL SUPER BOWL 2026 (Trailers)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,028 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 124,406 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UC4INGdHwhs"
+  },
+  {
+    "topic": "STAR WARS: THE MANDALORIAN AND GROGU Official Super Bowl Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 118,054 views \u2022 ~393m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ONGPpYvypmc"
+  },
+  {
+    "topic": "Disclosure Day | Big Game Spot",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 125,373 views \u2022 ~419m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N32YL6wV2j0"
+  },
+  {
+    "topic": "Supergirl Super Bowl Teaser Trailer - Home (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 159,800 views \u2022 ~588m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ydqvWEeJpdk"
   },
   {
     "topic": "The Adventures of Cliff Booth | Official Trailer (Brad Pitt, 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,371 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 71,671 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ik0drfECnPo"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 11,771 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 15,532 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4t-Bx1eB6RE"
   }
 ]
