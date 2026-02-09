@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0bc9e/subtitles_had_one_job/"
   },
   {
+    "topic": "Every third ad during the super bowl",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0fhou/every_third_ad_during_the_super_bowl/"
+  },
+  {
     "topic": "Every time Bad Bunny said \"Ey!\" in the Halftime Show",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r045eq/every_time_bad_bunny_said_ey_in_the_halftime_show/"
-  },
-  {
-    "topic": "A beef that has been going on for 186 years.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r05u6y/a_beef_that_has_been_going_on_for_186_years/"
   },
   {
     "topic": "LETS GO YOUTUBE!!!",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzo0i3/my_youtube_doesnt_have_a_skip_ad_button_anymore/"
   },
   {
-    "topic": "SINCE WHEN??? \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "topic": "youtube showing ads as normal videos so ad blockers don't hide them",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r049iz/since_when/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r0ec1o/youtube_showing_ads_as_normal_videos_so_ad/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1446, Part 1 (Thread #1593)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzu18g/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Grief grows as bodies of kidnapped workers of Canadian mining company identified in Mexico",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r054vv/grief_grows_as_bodies_of_kidnapped_workers_of/"
-  },
-  {
     "topic": "Obsession with growth is destroying nature, 150 countries warn",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r0c0tq/obsession_with_growth_is_destroying_nature_150/"
+  },
+  {
+    "topic": "Grief grows as bodies of kidnapped workers of Canadian mining company identified in Mexico",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r054vv/grief_grows_as_bodies_of_kidnapped_workers_of/"
   },
   {
     "topic": "Taiwan says 40% shift of chip capacity to US is 'impossible'",
@@ -171,60 +171,52 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r00hem/things_are_a_little_bits_nuts_over_on_helldivers/"
   },
   {
-    "topic": "Flappy Bird was removed from the App Store exactly 12 years ago...",
+    "topic": "Riot Games is reducing the size of the 2XKO team less than a month after its launch.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzplxk/flappy_bird_was_removed_from_the_app_store/"
-  },
-  {
-    "topic": "IVE \uc544\uc774\ube0c 'BANG BANG' MV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,361,283 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9qkpcLK422o"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r0e93p/riot_games_is_reducing_the_size_of_the_2xko_team/"
   },
   {
     "topic": "Helldivers 2 - Return of the Cyborgs Deep Dive",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 529,376 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 560,695 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=leM2NjGmCbY"
+  },
+  {
+    "topic": "This is genuinely bad..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 119,017 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=W6syt9DObB8"
   },
   {
     "topic": "Joji - Last of a Dying Breed / Dior (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,949 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 134,551 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fV8bKLHKLYI"
   },
   {
-    "topic": "BANG BANG",
+    "topic": "5 New Heroes Gameplay Trailer | Season 1: Conquest | Overwatch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,842 views \u2022 ~691m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=q6Ey0coO-wE"
+    "why": "Trending on YouTube \u2022 106,971 views \u2022 ~261m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Jxli-VIX8fw"
   },
   {
     "topic": "Days of Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qg317F7cwQ4"
-  },
-  {
-    "topic": "Star Wars: The Rise of Skywalker",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KvflidlQrwU"
   }
 ]
