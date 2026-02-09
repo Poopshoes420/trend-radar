@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "poor cat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r05g1q/poor_cat/"
+  },
+  {
     "topic": "Imagine waking up this morning knowing you're going into work as a shrub",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1qzqdz9/they_ordered_a_self_driving_taxi_and_there_was_a/"
-  },
-  {
-    "topic": "poor cat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r05g1q/poor_cat/"
   },
   {
     "topic": "How is this possible?",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r00vo9/taiwan_says_40_shift_of_chip_capacity_to_us_is/"
   },
   {
-    "topic": "Cuba warns airlines that it will be out of fuel for planes in 24 hours",
+    "topic": "Discord will require a face scan or ID for full access next month",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzqg97/cuba_warns_airlines_that_it_will_be_out_of_fuel/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r05wbx/discord_will_require_a_face_scan_or_id_for_full/"
   },
   {
     "topic": "South Korean scientist discovers a molecular switch that reverse cancer cells back to normal",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r02qaz/south_korean_scientist_discovers_a_molecular/"
   },
   {
-    "topic": "Russian offensive appears to be slowing after Musk blocks Starlink access, Ukraine says",
+    "topic": "Cuba warns airlines that it will be out of fuel for planes in 24 hours",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r0199m/russian_offensive_appears_to_be_slowing_after/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1qzqg97/cuba_warns_airlines_that_it_will_be_out_of_fuel/"
   },
   {
     "topic": "Bad Bunny has smashed the record for the most watched Super Bowl Halftime Show in history with 135.4 MILLION views",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzxfj7/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Flappy Bird was removed from the App Store exactly 12 years ago...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzplxk/flappy_bird_was_removed_from_the_app_store/"
-  },
-  {
     "topic": "Things Are a Little Bits Nuts Over on Helldivers Right Now (Players are able to push to the Automaton homeworld for the first time, new faction incoming)",
     "sources": [
       "reddit"
@@ -171,28 +162,45 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r00hem/things_are_a_little_bits_nuts_over_on_helldivers/"
   },
   {
-    "topic": "Skyblivion Reveals New Screenshots and Gets Encouraging Development Update",
+    "topic": "Flappy Bird was removed from the App Store exactly 12 years ago...",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzshx8/skyblivion_reveals_new_screenshots_and_gets/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzplxk/flappy_bird_was_removed_from_the_app_store/"
   },
   {
-    "topic": "Seattle Seahawks vs New England Patriots / Super Bowl LX / Full Highlights / Madden NFL Simulation!",
+    "topic": "A side activity so good it made you forget you were fighting a murderous cult (Far Cry 5)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r068jf/a_side_activity_so_good_it_made_you_forget_you/"
+  },
+  {
+    "topic": "IVE \uc544\uc774\ube0c 'BANG BANG' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 419,979 views \u2022 ~499m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tbLRBBcwy1I"
+    "why": "Trending on YouTube \u2022 2,748,487 views \u2022 ~399m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9qkpcLK422o"
+  },
+  {
+    "topic": "Helldivers 2 - Return of the Cyborgs Deep Dive",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 170,531 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=leM2NjGmCbY"
   },
   {
     "topic": "ROBLOX BOTE RIED.. but I have ADMIN",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 446,467 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 503,612 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L-eqpSkNL5Q"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qg317F7cwQ4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KvflidlQrwU"
   }
 ]
