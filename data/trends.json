@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Seriously though?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r154t3/seriously_though/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0u55z/oo/"
   },
   {
-    "topic": "Mom\u2019s skincare routine: $0. The car\u2019s skincare routine: $500.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0n6xe/moms_skincare_routine_0_the_cars_skincare_routine/"
-  },
-  {
     "topic": "YouTube algorithm works in mysterious ways",
     "sources": [
       "reddit"
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r110gh/has_anyone_else_noticed_the_amount_of/"
   },
   {
-    "topic": "Jimmy PM\u2019d me back in 2012!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r055xm/jimmy_pmd_me_back_in_2012/"
-  },
-  {
     "topic": "I can\u2019t scroll YouTube\u2019s homepage past only a couple videos on mobile",
     "sources": [
       "reddit"
@@ -90,6 +81,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r12d1a/i_cant_scroll_youtubes_homepage_past_only_a/"
   },
   {
+    "topic": "Jimmy PM\u2019d me back in 2012!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r055xm/jimmy_pmd_me_back_in_2012/"
+  },
+  {
     "topic": "Trump demands \u2018at least\u2019 half U.S. ownership of Gordie Howe bridge that Canada is fully paying for",
     "sources": [
       "reddit"
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r112th/trump_demands_at_least_half_us_ownership_of/"
+  },
+  {
+    "topic": "We cover security, defense, and technology at Foreign Policy magazine. Ask us anything ahead of this week\u2019s Munich Security Conference.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r14ryq/we_cover_security_defense_and_technology_at/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1447, Part 1 (Thread #1594)",
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r10sq8/macron_urges_europe_to_start_acting_like_world/"
   },
   {
-    "topic": "South Korean official expelled for suggesting \u2018importing women\u2019 to boost birth rate",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r0vbm2/south_korean_official_expelled_for_suggesting/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r10sho/we_agree_that_she_can_be_even_better_overwatch/"
   },
   {
-    "topic": "Remedy's new CEO wants to \"deliver sustained value to our players, partners, and shareholders\". Enshittification incoming.",
+    "topic": "French government awards knighthoods to Clair Obscur: Expedition 33 devs",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r0jyup/remedys_new_ceo_wants_to_deliver_sustained_value/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r148ub/french_government_awards_knighthoods_to_clair/"
   },
   {
     "topic": "Friend\u2019s Pass Is the Best Thing to Happen to Co-op Gaming in Years",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,120,961 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 1,133,100 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y-bROxkPDSk"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,474 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 460,811 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S-XxKVxZ2fU"
+  },
+  {
+    "topic": "IVE \uc544\uc774\ube0c 'BANG BANG' PERFORMANCE VIDEO",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 558,300 views \u2022 ~491m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uVpGElT--E8"
   },
   {
     "topic": "Helldivers 2 - Machinery of Oppression",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,629 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 232,597 views \u2022 ~252m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gj5JS68ny14"
   }
 ]
