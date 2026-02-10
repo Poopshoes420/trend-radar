@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r042fm/lets_go_youtube/"
   },
   {
-    "topic": "How is this possible?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzsa2e/how_is_this_possible/"
-  },
-  {
     "topic": "Jimmy PM\u2019d me back in 2012!",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r055xm/jimmy_pmd_me_back_in_2012/"
+  },
+  {
+    "topic": "How is this possible?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzsa2e/how_is_this_possible/"
   },
   {
     "topic": "youtube showing ads as normal videos so ad blockers don't hide them",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r0ec1o/youtube_showing_ads_as_normal_videos_so_ad/"
   },
   {
-    "topic": "My YouTube doesn't have a \"Skip Ad\" button anymore, and it's been like this the last few days since cancelling my YouTube Premium",
+    "topic": "Is anyone else experiencing the YouTube app only showing you like 5 videos and you can\u2019t scroll past that?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1qzo0i3/my_youtube_doesnt_have_a_skip_ad_button_anymore/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r0k4bn/is_anyone_else_experiencing_the_youtube_app_only/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1446, Part 1 (Thread #1593)",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzxfj7/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Remedy's new CEO wants to \"deliver sustained value to our players, partners, and shareholders\". Enshittification incoming.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r0jyup/remedys_new_ceo_wants_to_deliver_sustained_value/"
+  },
+  {
     "topic": "Blizzard reportedly partnering with Arc Raiders owner Nexon to revive StarCraft as a shooter",
     "sources": [
       "reddit"
@@ -171,36 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r068jf/a_side_activity_so_good_it_made_you_forget_you/"
   },
   {
-    "topic": "Remedy's new CEO wants to \"deliver sustained value to our players, partners, and shareholders\". Enshittification incoming.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r0jyup/remedys_new_ceo_wants_to_deliver_sustained_value/"
-  },
-  {
-    "topic": "Six Invitational 2026 | Stream A | Playoffs - Day 7",
+    "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 243,383 views \u2022 ~63m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=k0aUr9mvnDE"
+    "why": "Trending on YouTube \u2022 846,528 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g7OxNslQev0"
   },
   {
-    "topic": "Helldivers 2 - Return of the Cyborgs Deep Dive",
+    "topic": "i HID brainrot in my game..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 636,460 views \u2022 ~638m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=leM2NjGmCbY"
+    "why": "Trending on YouTube \u2022 239,040 views \u2022 ~116m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9jIox0Zsn2I"
+  },
+  {
+    "topic": "Spawning OP BRAINROTS in My Game..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 215,420 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LrzZjd-rEW4"
+  },
+  {
+    "topic": "Monday 2/9",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 200,756 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=idgdNQV2dYE"
   },
   {
     "topic": "This is genuinely bad..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,400 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 339,877 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W6syt9DObB8"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,540 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 228,314 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fV8bKLHKLYI"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,673 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 166,312 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jxli-VIX8fw"
   }
 ]
