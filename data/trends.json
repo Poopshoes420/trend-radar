@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r110gh/has_anyone_else_noticed_the_amount_of/"
   },
   {
-    "topic": "I can\u2019t scroll YouTube\u2019s homepage past only a couple videos on mobile",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r12d1a/i_cant_scroll_youtubes_homepage_past_only_a/"
-  },
-  {
     "topic": "YT HOME PAGE IS FUCKED",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r129zy/yt_home_page_is_fucked/"
+  },
+  {
+    "topic": "I can\u2019t scroll YouTube\u2019s homepage past only a couple videos on mobile",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r12d1a/i_cant_scroll_youtubes_homepage_past_only_a/"
   },
   {
     "topic": "Trump demands \u2018at least\u2019 half U.S. ownership of Gordie Howe bridge that Canada is fully paying for",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r148ub/french_government_awards_knighthoods_to_clair/"
   },
   {
-    "topic": "Friend\u2019s Pass Is the Best Thing to Happen to Co-op Gaming in Years",
+    "topic": "Overwatch 2 is dead. Long live Overwatch.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r0wh28/friends_pass_is_the_best_thing_to_happen_to_coop/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r1a49o/overwatch_2_is_dead_long_live_overwatch/"
   },
   {
     "topic": "ONE PIECE: Season 2 | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 734,904 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 1,068,180 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S-XxKVxZ2fU"
+  },
+  {
+    "topic": "I Became King of the Unstable SMP",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 589,384 views \u2022 ~222m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2WusTNLmBpE"
   },
   {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS | MANY MEN MONDAY | #Shart3Times&GrantYouAWish #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,136,658 views \u2022 ~518m old",
+    "why": "Trending on YouTube \u2022 1,148,197 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y-bROxkPDSk"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,386 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 294,688 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e12fPPx8-_0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 622,480 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 664,252 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uVpGElT--E8"
   },
   {
@@ -216,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 308,448 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 366,788 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gj5JS68ny14"
+  },
+  {
+    "topic": "MUNA - Dancing On The Wall (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,950 views \u2022 ~154m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ISlZNU6WWFo"
   }
 ]
