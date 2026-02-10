@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Every third ad during the super bowl",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0fhou/every_third_ad_during_the_super_bowl/"
-  },
-  {
     "topic": "Subtitles had one job.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0i23g/city_boy/"
+  },
+  {
+    "topic": "Oblivious drunk > zombie horde",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r0r8cj/oblivious_drunk_zombie_horde/"
   },
   {
     "topic": "YouTube algorithm works in mysterious ways",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r0hz98/foxhole_airborne_release_doubles_its_previous/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | NUT RAIDERS | MANY MEN MONDAY | #Shart3Times&GrantYouAWish #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,071,386 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=y-bROxkPDSk"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 503,157 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 503,248 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=13JlSUEopnc"
   },
   {
@@ -192,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 375,282 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 414,067 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0EeUOCxnwU"
-  },
-  {
-    "topic": "Aliens Are After Me\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 248,826 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_jK8s444YLU"
   },
   {
     "topic": "The Super Bowl Players Went OFF! Wheel of MUT! Ep. #42",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 141,979 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 152,241 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WEa67-HsEC8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,918 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 134,696 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LgQlc28YK7Y"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,474 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 99,764 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xqn9zWMtTmc"
   },
   {
@@ -232,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,754 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 44,413 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ataWh9V62A0"
-  },
-  {
-    "topic": "The Perfect Storm",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LapnF_8oXIk"
   }
 ]
