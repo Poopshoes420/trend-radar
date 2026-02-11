@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "What you all think",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1ng7i/what_you_all_think/"
-  },
-  {
     "topic": "Come on out we won't even touch you",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1om0j/come_on_out_we_wont_even_touch_you/"
   },
   {
-    "topic": "Local headline in Aberdeen, Scotland where there has been no sunshine in 20 days",
+    "topic": "What you all think",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1a91d/local_headline_in_aberdeen_scotland_where_there/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1ng7i/what_you_all_think/"
+  },
+  {
+    "topic": "Fr",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1looo/fr/"
   },
   {
     "topic": "WHAT??!?!? \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r1nzwr/the_witcher_3_has_some_amazing_video_game/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | TESTY TORSION TUESDAY | #ShartOnThatThangForADollar #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 753,444 views \u2022 ~56m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
+  },
+  {
     "topic": "I Got The New LA ROMANTIC GRANDE..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 883,001 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 906,233 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SgJpGVWwKWY"
   },
   {
@@ -192,31 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 354,575 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 377,716 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AMA6AkkexzE"
   },
   {
-    "topic": "I Found Aliens In The Woods\u2026",
+    "topic": "Silent Hill f - Part 11 (ENDING)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,166 views \u2022 ~570m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3U18NA68ruk"
+    "why": "Trending on YouTube \u2022 71,578 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Zs4a7Iwky6A"
   },
   {
     "topic": "Vybz Kartel, Dj Mac, Crashdummy - SYM\u00a0(Official Visualizer) | WYFL Riddim",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 101,698 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 104,935 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=phakn8Lrgtw"
-  },
-  {
-    "topic": "T.I. - LET 'EM KNOW (Official Lyric Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 35,715 views \u2022 ~663m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6WObyunYRxo"
   }
 ]
