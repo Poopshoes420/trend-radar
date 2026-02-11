@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Old Pa",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1k6nm/old_pa/"
-  },
-  {
     "topic": "He is Pigminator",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1vthc/he_is_pigminator/"
   },
   {
-    "topic": "Local headline in Aberdeen, Scotland where there has been no sunshine in 20 days",
+    "topic": "Old Pa",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1a91d/local_headline_in_aberdeen_scotland_where_there/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1k6nm/old_pa/"
+  },
+  {
+    "topic": "Easy Apply",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1x97r/easy_apply/"
   },
   {
     "topic": "Youtube dislike button MUST return.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r1i3q6/what_the_actual_fuck_is_this/"
   },
   {
-    "topic": "YouTube algorithm works in mysterious ways",
+    "topic": "Bye bye Youtube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r0syyp/youtube_algorithm_works_in_mysterious_ways/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r1w8xv/bye_bye_youtube/"
   },
   {
     "topic": "Orb\u00e1n says EU and Ukraine have \"declared war\" on Hungary",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1s64u/ten_dead_after_shooter_opens_fire_at_high_school/"
   },
   {
-    "topic": "Ukrainian drones reportedly strike Russia's Volgograd oil refinery",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1hera/ukrainian_drones_reportedly_strike_russias/"
-  },
-  {
     "topic": "Mark Carney reminds Trump that Canada paid for key border bridge US president says he won\u2019t open",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1vyar/mark_carney_reminds_trump_that_canada_paid_for/"
+  },
+  {
+    "topic": "Ukrainian drones reportedly strike Russia's Volgograd oil refinery",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1hera/ukrainian_drones_reportedly_strike_russias/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 905,055 views \u2022 ~312m old",
+    "why": "Trending on YouTube \u2022 912,678 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
   },
   {
@@ -192,15 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,602 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 142,340 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zs4a7Iwky6A"
-  },
-  {
-    "topic": "Sauce Walka -   Not Yet (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 28,990 views \u2022 ~678m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2uo65nStKpA"
   }
 ]
