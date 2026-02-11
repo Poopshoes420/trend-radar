@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r27i4x/charlie_was_on_a_roll/"
   },
   {
-    "topic": "Youtube dislike button MUST return.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r1ux6b/youtube_dislike_button_must_return/"
-  },
-  {
     "topic": "\"This content isn't available, try again later.\" appears on every video.",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r224tv/this_content_isnt_available_try_again_later/"
+  },
+  {
+    "topic": "Youtube dislike button MUST return.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r1ux6b/youtube_dislike_button_must_return/"
   },
   {
     "topic": "Is the moderation THAT bad?",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzxfj7/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "They've made some steady improvements over the years (and it's now pretty good), but there is literally no better time for Valve to go all in and pump resources into Steam Chat. Discord has left the gate open for a new top gaming communication platform.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r20t6q/theyve_made_some_steady_improvements_over_the/"
-  },
-  {
     "topic": "Apparently my 10-year-old did something \u201cinsane\u201d in Cuphead and I had no idea",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r29ibf/apparently_my_10yearold_did_something_insane_in/"
+  },
+  {
+    "topic": "They've made some steady improvements over the years (and it's now pretty good), but there is literally no better time for Valve to go all in and pump resources into Steam Chat. Discord has left the gate open for a new top gaming communication platform.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r20t6q/theyve_made_some_steady_improvements_over_the/"
   },
   {
     "topic": "Friendly reminder that we are almost 9 months from GTA6. Start getting frisky with your wife or gf, so you can line up your paternity leave",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r1vcbb/friendly_reminder_that_we_are_almost_9_months/"
   },
   {
-    "topic": "Jason Momoa Has Been Cast As The Lead In Sony's \u2018Helldivers\u2019 Video Game Movie. Directed By Justin Lin ('Fast & Furious'), Releasing November 10, 2027",
+    "topic": "If I wind up in prison one more time...",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r22y6l/jason_momoa_has_been_cast_as_the_lead_in_sonys/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2bs8j/if_i_wind_up_in_prison_one_more_time/"
   },
   {
     "topic": "Poppy Playtime: Chapter 5 - Official Game Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,768,153 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 1,967,871 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EriEensiy0I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,473 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 298,639 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tl1ZPfGb99w"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 315,346 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 357,964 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DEW8MDMqOXQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,444 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 182,212 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tlNJQ0darFs"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,896 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 175,727 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JEn8zxLcFcI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 250,302 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 261,404 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IXWYo58yiz4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,509 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 19,486 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i583Sy5gxkQ"
   }
 ]
