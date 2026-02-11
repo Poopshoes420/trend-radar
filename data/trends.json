@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Easy Apply",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1x97r/easy_apply/"
-  },
-  {
     "topic": "Walmart is selling valentines day break-up cards",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r25v5p/walmart_is_selling_valentines_day_breakup_cards/"
+  },
+  {
+    "topic": "Easy Apply",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r1x97r/easy_apply/"
   },
   {
     "topic": "Found a roast list in my little sister room",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r25nuc/is_the_moderation_that_bad/"
   },
   {
+    "topic": "uBlock Origin (and probably other mainstream Ad Blockers) not working on YouTube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r27h2n/ublock_origin_and_probably_other_mainstream_ad/"
+  },
+  {
     "topic": "CrazyRuissianHacker",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r1jz10/crazyruissianhacker/"
-  },
-  {
-    "topic": "My Entire Homepage Is a SINGLE CHANNEL - What Is Going on???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r1rc6w/my_entire_homepage_is_a_single_channel_what_is/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1448, Part 1 (Thread #1595)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1vyar/mark_carney_reminds_trump_that_canada_paid_for/"
   },
   {
-    "topic": "Orb\u00e1n says EU and Ukraine have \"declared war\" on Hungary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1sqqp/orb\u00e1n_says_eu_and_ukraine_have_declared_war_on/"
-  },
-  {
     "topic": "Nearly half of powerful .50-caliber ammo seized by Mexican government came from US Army plant, defense minister says",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r22van/nearly_half_of_powerful_50caliber_ammo_seized_by/"
+  },
+  {
+    "topic": "Orb\u00e1n says EU and Ukraine have \"declared war\" on Hungary",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1sqqp/orb\u00e1n_says_eu_and_ukraine_have_declared_war_on/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzxfj7/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Friendly reminder that we are almost 9 months from GTA6. Start getting frisky with your wife or gf, so you can line up your paternity leave",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r1vcbb/friendly_reminder_that_we_are_almost_9_months/"
-  },
-  {
     "topic": "They've made some steady improvements over the years (and it's now pretty good), but there is literally no better time for Valve to go all in and pump resources into Steam Chat. Discord has left the gate open for a new top gaming communication platform.",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r20t6q/theyve_made_some_steady_improvements_over_the/"
+  },
+  {
+    "topic": "Friendly reminder that we are almost 9 months from GTA6. Start getting frisky with your wife or gf, so you can line up your paternity leave",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r1vcbb/friendly_reminder_that_we_are_almost_9_months/"
   },
   {
     "topic": "1,200 Ubisoft Employees Kicked Off Three-Day International Strike in Response to Company\u2019s \u201cMajor Reset\u201d",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2330y/1200_ubisoft_employees_kicked_off_threeday/"
   },
   {
-    "topic": "Happy 27th, Final Fantasy VIII, my first FF and still (unfairly) underrated. Love it or hate it.",
+    "topic": "Jason Momoa Has Been Cast As The Lead In Sony's \u2018Helldivers\u2019 Video Game Movie. Directed By Justin Lin ('Fast & Furious'), Releasing November 10, 2027",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r22e55/happy_27th_final_fantasy_viii_my_first_ff_and/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r22y6l/jason_momoa_has_been_cast_as_the_lead_in_sonys/"
   },
   {
     "topic": "Poppy Playtime: Chapter 5 - Official Game Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 684,192 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 1,120,505 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EriEensiy0I"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | TESTY TORSION TUESDAY | #ShartOnThatThangForADollar #BUNGULATE",
+    "topic": "Poppy Playtime Chapter 5 Trailer Reaction",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 959,551 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UAUBNBpdBU4"
+    "why": "Trending on YouTube \u2022 269,496 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tl1ZPfGb99w"
   },
   {
     "topic": "ROSAL\u00cdA - Sauvignon Blanc (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,656 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 212,542 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DEW8MDMqOXQ"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 417,313 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 444,979 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wP8ZNjOwPPw"
-  },
-  {
-    "topic": "No Man's Sky Remnant Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 196,866 views \u2022 ~385m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IXWYo58yiz4"
   },
   {
     "topic": "Poppy Playtime: Chapter 5 FINAL GAMEPLAY TRAILER! (Reaction + Analysis)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,860 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 93,580 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JEn8zxLcFcI"
+  },
+  {
+    "topic": "No Man's Sky Remnant Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 214,329 views \u2022 ~426m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IXWYo58yiz4"
   },
   {
     "topic": "Chapter 5's NEW Gameplay Trailer Is WILD...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,272 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 81,145 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tlNJQ0darFs"
+  },
+  {
+    "topic": "Parker McCollum - Killin' Me (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 11,809 views \u2022 ~304m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i583Sy5gxkQ"
   }
 ]
