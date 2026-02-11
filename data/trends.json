@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r27h2n/ublock_origin_and_probably_other_mainstream_ad/"
   },
   {
-    "topic": "\"This content isn't available, try again later.\" Only when logged into my account.",
+    "topic": "AI channels are a cancer and we should not condone it",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r2a2p3/this_content_isnt_available_try_again_later_only/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r28wqf/ai_channels_are_a_cancer_and_we_should_not/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1448, Part 1 (Thread #1595)",
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1n3he/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "House votes to override Trump's Canada tariffs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2d9mx/house_votes_to_override_trumps_canada_tariffs/"
   },
   {
     "topic": "Poland and Italy say they will not join Trump's Board of Peace",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1vyar/mark_carney_reminds_trump_that_canada_paid_for/"
-  },
-  {
-    "topic": "Orb\u00e1n says EU and Ukraine have \"declared war\" on Hungary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1sqqp/orb\u00e1n_says_eu_and_ukraine_have_declared_war_on/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,967,871 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 2,094,769 views \u2022 ~357m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EriEensiy0I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 298,639 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 302,364 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tl1ZPfGb99w"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 357,964 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 375,654 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DEW8MDMqOXQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 182,212 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 195,707 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tlNJQ0darFs"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,727 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 189,447 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JEn8zxLcFcI"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,404 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 268,571 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IXWYo58yiz4"
+  },
+  {
+    "topic": "Scrubs Revival | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 40,630 views \u2022 ~377m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dJq8WJ5lMec"
   },
   {
     "topic": "Parker McCollum - Killin' Me (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,486 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 20,863 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i583Sy5gxkQ"
   }
 ]
