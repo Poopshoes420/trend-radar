@@ -54,24 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r2bg22/jacksepticeye_implies_that_mrbeast_is_evil/"
   },
   {
-    "topic": "\"This content isn't available, try again later.\" appears on every video.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r224tv/this_content_isnt_available_try_again_later/"
-  },
-  {
-    "topic": "Is the moderation THAT bad?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r25nuc/is_the_moderation_that_bad/"
-  },
-  {
     "topic": "Am I the only one or is this guy an idiot?",
     "sources": [
       "reddit"
@@ -81,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r29amg/am_i_the_only_one_or_is_this_guy_an_idiot/"
   },
   {
+    "topic": "\"This content isn't available, try again later.\" appears on every video.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r224tv/this_content_isnt_available_try_again_later/"
+  },
+  {
     "topic": "uBlock Origin (and probably other mainstream Ad Blockers) not working on YouTube.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r27h2n/ublock_origin_and_probably_other_mainstream_ad/"
+  },
+  {
+    "topic": "AI channels are a cancer and we should not condone it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r28wqf/ai_channels_are_a_cancer_and_we_should_not/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1449, Part 1 (Thread #1596)",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1qzxfj7/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Apparently my 10-year-old did something \u201cinsane\u201d in Cuphead and I had no idea",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r29ibf/apparently_my_10yearold_did_something_insane_in/"
-  },
-  {
     "topic": "If I wind up in prison one more time...",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2d9es/designer_claims_most_of_highguards_dev_team_have/"
   },
   {
+    "topic": "Friendly reminder that we are almost 9 months from GTA6. Start getting frisky with your wife or gf, so you can line up your paternity leave",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r1vcbb/friendly_reminder_that_we_are_almost_9_months/"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 573,842 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 576,794 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7ILtgVTjdpw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 399,958 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 467,114 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_RjyzK5yVz4"
   },
   {
@@ -200,23 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,458 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 309,924 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GIt4GkQZ1jg"
   },
   {
-    "topic": "Diablo 30th Anniversary Spotlight",
+    "topic": "GTA5 Online - Moo Returns For Speed Glitches and Launching! (Funny Moments)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,501 views \u2022 ~500m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KnAsWN-6hvw"
+    "why": "Trending on YouTube \u2022 152,145 views \u2022 ~254m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2cfFnFQd8Ao"
+  },
+  {
+    "topic": "Yao Guang Character Trailer: \"All the Best\" | Honkai: Star Rail",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 81,894 views \u2022 ~210m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XpQ0TXUnESQ"
   },
   {
     "topic": "I Worked At A Church In The Middle Of Nowhere\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 144,299 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 173,160 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8jXVw9946vc"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,268 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 30,128 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLXJNNxLx3Q"
   }
 ]
