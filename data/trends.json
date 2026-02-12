@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r2tuqc/a_man_in_turkey_robbed_a_jewellery_store_and_fled/"
   },
   {
-    "topic": "Went to Mus\u00e9e d\u2018Orsay today\u2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r29p49/went_to_mus\u00e9e_dorsay_today/"
-  },
-  {
     "topic": "Two fools",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r2ql96/two_fools/"
+  },
+  {
+    "topic": "Went to Mus\u00e9e d\u2018Orsay today\u2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r29p49/went_to_mus\u00e9e_dorsay_today/"
   },
   {
     "topic": "Jacksepticeye implies that MrBeast is evil",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2je4e/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Russia, Iran accuse Elon Musk's Starlink of violating international law",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2o7de/russia_iran_accuse_elon_musks_starlink_of/"
-  },
-  {
     "topic": "Macron calls Musk \u2018an oversubsidized guy\u2019, prompting retort",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2vijc/macron_calls_musk_an_oversubsidized_guy_prompting/"
   },
   {
-    "topic": "Sweden to send fighter jets to patrol around Greenland as part of NATO's Arctic Sentry",
+    "topic": "Russia, Iran accuse Elon Musk's Starlink of violating international law",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2r07t/sweden_to_send_fighter_jets_to_patrol_around/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2o7de/russia_iran_accuse_elon_musks_starlink_of/"
+  },
+  {
+    "topic": "'A new range record'\u2014 Ukrainian drones strike oil refinery in Russia's Komi Republic, SBU source says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2upey/a_new_range_record_ukrainian_drones_strike_oil/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2bs8j/if_i_wind_up_in_prison_one_more_time/"
   },
   {
-    "topic": "Apparently my 10-year-old did something \u201cinsane\u201d in Cuphead and I had no idea",
+    "topic": "25 years later, Diablo II gets a new class and QOL features.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r29ibf/apparently_my_10yearold_did_something_insane_in/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2x7hv/25_years_later_diablo_ii_gets_a_new_class_and_qol/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS: CLANKA WARFARE | CLOAKZY X HUTCHMF | #ShartThrice&BeNice | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 941,641 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 953,132 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hmdKduBi-ig"
   },
   {
-    "topic": "Yao Guang Character Trailer: \"All the Best\" | Honkai: Star Rail",
+    "topic": "Greed",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,084 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XpQ0TXUnESQ"
+    "why": "Trending on YouTube \u2022 45,536 views \u2022 ~666m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-1MsBC6Ecw8"
   },
   {
     "topic": "The Red Clay Strays - If I Didn't Know You (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,059 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 11,507 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XqU8W23E4-I"
   }
 ]
