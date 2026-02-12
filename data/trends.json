@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r25nuc/is_the_moderation_that_bad/"
   },
   {
-    "topic": "uBlock Origin (and probably other mainstream Ad Blockers) not working on YouTube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r27h2n/ublock_origin_and_probably_other_mainstream_ad/"
-  },
-  {
     "topic": "Am I the only one or is this guy an idiot?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r29amg/am_i_the_only_one_or_is_this_guy_an_idiot/"
+  },
+  {
+    "topic": "uBlock Origin (and probably other mainstream Ad Blockers) not working on YouTube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r27h2n/ublock_origin_and_probably_other_mainstream_ad/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1449, Part 1 (Thread #1596)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1y50m/poland_and_italy_say_they_will_not_join_trumps/"
   },
   {
-    "topic": "Mark Carney reminds Trump that Canada paid for key border bridge US president says he won\u2019t open",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r1vyar/mark_carney_reminds_trump_that_canada_paid_for/"
-  },
-  {
     "topic": "Point of no return: a hellish \u2018hothouse Earth\u2019 getting closer, scientists say",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r25jeo/point_of_no_return_a_hellish_hothouse_earth/"
+  },
+  {
+    "topic": "NATO estimates Russian casualties on the front line",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r260pp/nato_estimates_russian_casualties_on_the_front/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,35 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2d9es/designer_claims_most_of_highguards_dev_team_have/"
   },
   {
-    "topic": "Poppy Playtime: Chapter 5 - Official Game Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,121,170 views \u2022 ~670m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EriEensiy0I"
-  },
-  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 573,071 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 573,842 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7ILtgVTjdpw"
-  },
-  {
-    "topic": "Scrubs Revival | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 667,499 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dJq8WJ5lMec"
   },
   {
     "topic": "DO NOT Go Into These Bunkers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 340,512 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 399,958 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_RjyzK5yVz4"
   },
   {
@@ -216,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,721 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 262,458 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GIt4GkQZ1jg"
   },
   {
@@ -224,31 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,544 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 253,501 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KnAsWN-6hvw"
-  },
-  {
-    "topic": "Poppy Playtime: Chapter 5 FINAL GAMEPLAY TRAILER! (Reaction + Analysis)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 335,666 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JEn8zxLcFcI"
-  },
-  {
-    "topic": "Chapter 5's NEW Gameplay Trailer Is WILD...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 310,367 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tlNJQ0darFs"
   },
   {
     "topic": "I Worked At A Church In The Middle Of Nowhere\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,706 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 144,299 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8jXVw9946vc"
   },
   {
@@ -256,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,124 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 27,268 views \u2022 ~555m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLXJNNxLx3Q"
   }
 ]
