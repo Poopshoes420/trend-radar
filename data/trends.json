@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "The body weakens, the spirit doesn't",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r37udc/the_body_weakens_the_spirit_doesnt/"
-  },
-  {
     "topic": "Guess What?",
     "sources": [
       "reddit"
@@ -36,13 +27,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r31p0f/guess_what/"
   },
   {
-    "topic": "You are already dead",
+    "topic": "Dark... But made me laugh",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r37012/you_are_already_dead/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r38v83/dark_but_made_me_laugh/"
+  },
+  {
+    "topic": "That was really nice of him to help fix the helmet.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r2qy6o/that_was_really_nice_of_him_to_help_fix_the_helmet/"
+  },
+  {
+    "topic": "I wannna see if I can find an archive of this dude's videos, does anyone remember his name?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r390wg/i_wannna_see_if_i_can_find_an_archive_of_this/"
   },
   {
     "topic": "My Youtube Channel Disappeared. The page says the account was closed by me but I did not. There is no email of termination. Is this a bug?",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r36jiu/we_need_to_do_something_about_the_ai_overviews/"
   },
   {
-    "topic": "I wannna see if I can find an archive of this dude's videos, does anyone remember his name?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r390wg/i_wannna_see_if_i_can_find_an_archive_of_this/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1449, Part 1 (Thread #1596)",
     "sources": [
       "reddit"
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2rs7i/price_of_dignity_says_ukrainian_athlete_banned/"
   },
   {
-    "topic": "Russia, Iran accuse Elon Musk's Starlink of violating international law",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2o7de/russia_iran_accuse_elon_musks_starlink_of/"
-  },
-  {
     "topic": "In blunt warning, the U.S. says Peru could lose its sovereignty to China",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r328qn/in_blunt_warning_the_us_says_peru_could_lose_its/"
+  },
+  {
+    "topic": "\u201cPoland will not be a vassal\u201d of America, says PM Tusk",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r342rk/poland_will_not_be_a_vassal_of_america_says_pm/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r34enh/for_the_people_that_downvoted_me_for_saying_my/"
   },
   {
+    "topic": "God of War Trilogy Remake - Announcement Teaser",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r38n3y/god_of_war_trilogy_remake_announcement_teaser/"
+  },
+  {
     "topic": "12 years ago Twitch Plays Pok\u00e9mon somehow beat Pok\u00e9mon Red",
     "sources": [
       "reddit"
@@ -160,15 +169,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r2nxeu/12_years_ago_twitch_plays_pok\u00e9mon_somehow_beat/"
-  },
-  {
-    "topic": "GOD OF WAR TRILOGY REMAKE",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r38m8n/god_of_war_trilogy_remake/"
   },
   {
     "topic": "Highguard Dev Mourns The Game - \"The Future Seemed Bright\" Before TGA Reveal - Gamespot",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r34clj/highguard_dev_mourns_the_game_the_future_seemed/"
   },
   {
+    "topic": "State of Play | February 12, 2026 [English]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 2,113,973 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P0e5YEXtZu0"
+  },
+  {
     "topic": "\u201cSpider-Noir\u201d \u2013 Authentic Black & White Teaser Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,763,820 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 1,968,546 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HgMbkitzhEM"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,122,823 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 1,251,925 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xDypUdR_8d0"
-  },
-  {
-    "topic": "CENTRAL CEE - ICEMAN FREESTYLE (MUSIC VIDEO)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 317,006 views \u2022 ~288m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OqYoYuoIiik"
   },
   {
     "topic": "Reacting To \"The Rise Of Foltyn\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 366,415 views \u2022 ~336m old",
+    "why": "Trending on YouTube \u2022 458,283 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NGwUUYERExQ"
+  },
+  {
+    "topic": "CENTRAL CEE - ICEMAN FREESTYLE (MUSIC VIDEO)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 391,120 views \u2022 ~365m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OqYoYuoIiik"
   },
   {
     "topic": "You Get Hurt in the Game, You Get Hurt in Real Life",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 349,845 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 413,597 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M53vMum29KQ"
   },
   {
@@ -224,31 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,405 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 414,858 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d8XunyLe9co"
   },
   {
-    "topic": "Resident Evil Requiem - 4th Trailer",
+    "topic": "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,535 views \u2022 ~90m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fXVy4mALHLY"
+    "why": "Trending on YouTube \u2022 88,068 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
   },
   {
-    "topic": "The DOOMED Fnaf World Refreshed NUZLOCKE",
+    "topic": "Star Wars: Galactic Racer\u2122 - Official Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,800 views \u2022 ~648m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bnaRVg5GEwk"
+    "why": "Trending on YouTube \u2022 51,204 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2MtgIoToa7I"
   },
   {
     "topic": "Yailin La Mas Viral x Ezzy R - Shorty Remix (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,471 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 168,471 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7_EQNxz40io"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,378 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 87,038 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0nPTEgP8U-4"
   },
   {
@@ -264,31 +272,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,038 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 54,410 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_dqSWQQQGlE"
   },
   {
-    "topic": "EVERYTHING You MISSED In CHAPTER 5\u2019S GAMEPLAY TRAILER (Lore and Theories)",
+    "topic": "Gerardo Coronel \u201cEl Jerry\u201d - Chalupas Y Buenas (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,813 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cGm1VFGMgfw"
-  },
-  {
-    "topic": "The Red Clay Strays - If I Didn't Know You (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 85,017 views \u2022 ~647m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XqU8W23E4-I"
-  },
-  {
-    "topic": "Gerardo Coronel \u201cEl Jerry\u201d - Chalupas Y Buenas ( video oficial )",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 29,284 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 36,428 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eI301iO3Bi4"
   }
 ]
