@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3faeo/im_your_mommy_now/"
   },
   {
-    "topic": "Never seen this in all my years of teaching. A child had this in their lunch today as a snack, mom fail!",
+    "topic": "WTF",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r31k9m/never_seen_this_in_all_my_years_of_teaching_a/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3iob3/wtf/"
   },
   {
     "topic": "I wannna see if I can find an archive of this dude's videos, does anyone remember his name?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r2pi4o/is_it_true/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1450, Part 1 (Thread #1597)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3f37e/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "After 1,600 years underwater, remains of the Lighthouse of Alexandria emerge",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3ii30/after_1600_years_underwater_remains_of_the/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1450, Part 1 (Thread #1597)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3f37e/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Herzog responds to Trump request for Netanyahu pardon: \"To the best of my recollection, I am the president of Israel.\"",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r38n3y/god_of_war_trilogy_remake_announcement_teaser/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | EXCLUSIVE MARATHON GAMEPLAY + ARC RAIDERS w/ HUTCHMF & NICKMERCS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,113,858 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZRtmsJyjycA"
+  },
+  {
     "topic": "State of Play | February 12, 2026 [English Subtitles]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 843,635 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 864,770 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bGdFBim7nYY"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 690,838 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 750,175 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
   },
   {
@@ -200,39 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 570,149 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 590,485 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BrIeC37G668"
-  },
-  {
-    "topic": "STATE OF PLAY LIVE...GET IN HERE \ud83d\udd34Full Stream\ud83d\udd34 (2-12)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 347,267 views \u2022 ~475m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RrCLDfB6t1c"
   },
   {
     "topic": "I Hired A Rocket League PRO to SECRETLY Troll Streamers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,279 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 446,873 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l-Dql2_zbbM"
-  },
-  {
-    "topic": "Maluma, Yeison Jimenez - Con el Coraz\u00f3n (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 368,163 views \u2022 ~541m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cDh7e8dLklE"
   },
   {
     "topic": "Resident Evil Requiem - 4th Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 383,134 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 413,827 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fXVy4mALHLY"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 308,571 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 319,331 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qskc0BCkFwU"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,930 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 280,904 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2MtgIoToa7I"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,890 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 210,229 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MTIYxDzpOms"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,789 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 165,806 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OcbGrqEF5d8"
   },
   {
@@ -272,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,361 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 105,476 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WcrpshkCqyY"
+  },
+  {
+    "topic": "Junior H x Gael Valenzuela - POLE DANCE [Official Visualizer]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 78,303 views \u2022 ~457m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=a5wOmuGiytY"
   },
   {
     "topic": "Launch Gameplay Trailer | Marathon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,157 views \u2022 ~604m old",
+    "why": "Trending on YouTube \u2022 104,461 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MXhQbF7TlbA"
   },
   {
@@ -288,23 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,647 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 46,838 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tdHhtTvJBDc"
-  },
-  {
-    "topic": "Spider-Noir Trailer BREAKDOWN - Every Spider-Man Easter Egg You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 71,286 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BIudcvwYLPY"
   },
   {
     "topic": "Mike WiLL Made-It ft. NBA YoungBoy & Chief Keef - ROOMS (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,880 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 31,514 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MXMBxoDQSkM"
   },
   {
@@ -312,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,657 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 21,067 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dg47eNL_Usw"
   },
   {
@@ -320,7 +312,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~39m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
+  },
+  {
+    "topic": "We've Lost Dale Earnhardt: 25 Years Later",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~21m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
   }
 ]
