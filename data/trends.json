@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3nfku/beach_day_surprise/"
   },
   {
-    "topic": "\u201cDo you take any drugs?\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3e7cc/do_you_take_any_drugs/"
-  },
-  {
     "topic": "I'm your mommy now",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3faeo/im_your_mommy_now/"
+  },
+  {
+    "topic": "\u201cDo you take any drugs?\u201d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3e7cc/do_you_take_any_drugs/"
   },
   {
     "topic": "When going into full screen mode, the video is moving to the top and there's a black bar at the bottom. I've tried resetting site data, removing extensions, but nothing is working. Anyone know why this is happening?",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3f37e/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "After 1,600 years underwater, remains of the Lighthouse of Alexandria emerge",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3ii30/after_1600_years_underwater_remains_of_the/"
-  },
-  {
     "topic": "Armed with 'supermajority,' PM Takaichi eyes revising Japan's constitution",
     "sources": [
       "reddit"
@@ -117,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3k891/armed_with_supermajority_pm_takaichi_eyes/"
   },
   {
-    "topic": "Sweden confirms Ukraine to use EU\u2019s $95 bn defense tranche for Gripen fighter purchase",
+    "topic": "German Chancellor Merz says US leadership \u2018lost,\u2019 calls for repair of relations",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3jurv/sweden_confirms_ukraine_to_use_eus_95_bn_defense/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3wgcu/german_chancellor_merz_says_us_leadership_lost/"
+  },
+  {
+    "topic": "Ukraine Says Russian Troops Paid for Fake Starlink, Doxxed Themselves - Business Insider",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3wo26/ukraine_says_russian_troops_paid_for_fake/"
   },
   {
     "topic": "Air Transat suspending all flights to U.S. as of this spring",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,222,807 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 1,228,538 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZRtmsJyjycA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 308,748 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 361,311 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P87Exm0VMrI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,387 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 98,574 views \u2022 ~182m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0RkJrO4kvHU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
   }
 ]
