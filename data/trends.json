@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Olympic commentary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3cufm/olympic_commentary/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3faeo/im_your_mommy_now/"
   },
   {
-    "topic": "WTF",
+    "topic": "Never seen this in all my years of teaching. A child had this in their lunch today as a snack, mom fail!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3iob3/wtf/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r31k9m/never_seen_this_in_all_my_years_of_teaching_a/"
+  },
+  {
+    "topic": "Guess What?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r31p0f/guess_what/"
   },
   {
     "topic": "I wannna see if I can find an archive of this dude's videos, does anyone remember his name?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r36jiu/we_need_to_do_something_about_the_ai_overviews/"
   },
   {
-    "topic": "Is it true?",
+    "topic": "How is this Thumbnail?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r2pi4o/is_it_true/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3j693/how_is_this_thumbnail/"
   },
   {
     "topic": "After 1,600 years underwater, remains of the Lighthouse of Alexandria emerge",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,113,858 views \u2022 ~74m old",
+    "why": "Trending on YouTube \u2022 1,144,321 views \u2022 ~130m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZRtmsJyjycA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 864,770 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 884,709 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bGdFBim7nYY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 750,175 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 804,312 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 590,485 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 602,561 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BrIeC37G668"
   },
   {
@@ -216,63 +216,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 446,873 views \u2022 ~644m old",
+    "why": "Trending on YouTube \u2022 473,634 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l-Dql2_zbbM"
-  },
-  {
-    "topic": "Resident Evil Requiem - 4th Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 413,827 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fXVy4mALHLY"
   },
   {
     "topic": "Cazzu - Jujuy Estrellado (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 319,331 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 328,042 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qskc0BCkFwU"
-  },
-  {
-    "topic": "Star Wars: Galactic Racer\u2122 - Official Gameplay Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 280,904 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2MtgIoToa7I"
   },
   {
     "topic": "I Worked At A Haunted Ice Cream Shop (Full Game)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,229 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 232,620 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MTIYxDzpOms"
-  },
-  {
-    "topic": "Chapter 5's Trailer Controversy Explained (News)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 165,806 views \u2022 ~671m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OcbGrqEF5d8"
   },
   {
     "topic": "Tempo - RIP ALDO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 105,476 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 110,276 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WcrpshkCqyY"
+  },
+  {
+    "topic": "Brent Faiyaz - wrong faces. [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 57,224 views \u2022 ~352m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tdHhtTvJBDc"
   },
   {
     "topic": "Junior H x Gael Valenzuela - POLE DANCE [Official Visualizer]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,303 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 80,989 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a5wOmuGiytY"
   },
   {
@@ -280,23 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,461 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 111,054 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MXhQbF7TlbA"
-  },
-  {
-    "topic": "Brent Faiyaz - wrong faces. [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 46,838 views \u2022 ~297m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tdHhtTvJBDc"
   },
   {
     "topic": "Mike WiLL Made-It ft. NBA YoungBoy & Chief Keef - ROOMS (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,514 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 41,795 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MXMBxoDQSkM"
   },
   {
@@ -304,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,067 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 24,897 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dg47eNL_Usw"
   },
   {
@@ -312,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
   },
   {
@@ -320,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~21m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
     "exampleUrl": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
   }
 ]
