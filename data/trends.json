@@ -1,5 +1,14 @@
 [
   {
+    "topic": "there\u2019s a town in massachusetts called \u201csandwich\u201d and the cop cars are labeled \u201csandwich police\u201d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3sxaa/theres_a_town_in_massachusetts_called_sandwich/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -9,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "there\u2019s a town in massachusetts called \u201csandwich\u201d and the cop cars are labeled \u201csandwich police\u201d",
+    "topic": "Beach day surprise",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3sxaa/theres_a_town_in_massachusetts_called_sandwich/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3nfku/beach_day_surprise/"
   },
   {
     "topic": "\u201cDo you take any drugs?\u201d",
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3faeo/im_your_mommy_now/"
   },
   {
-    "topic": "Beach day surprise",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3nfku/beach_day_surprise/"
-  },
-  {
     "topic": "When going into full screen mode, the video is moving to the top and there's a black bar at the bottom. I've tried resetting site data, removing extensions, but nothing is working. Anyone know why this is happening?",
     "sources": [
       "reddit"
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3m4bw/when_going_into_full_screen_mode_the_video_is/"
   },
   {
-    "topic": "Youtube in full screen have a white bar in the bottom. It is in both chrome and edge. Any solution?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3n21y/youtube_in_full_screen_have_a_white_bar_in_the/"
-  },
-  {
     "topic": "All I watch is pengunz0, science vids, and the daily show. wtf is up with the algorithm??? \u2620\ufe0f",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3olpz/all_i_watch_is_pengunz0_science_vids_and_the/"
+  },
+  {
+    "topic": "Youtube in full screen have a white bar in the bottom. It is in both chrome and edge. Any solution?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3n21y/youtube_in_full_screen_have_a_white_bar_in_the/"
   },
   {
     "topic": "Empty space on video when its on full screen",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3f37e/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "\u201cWe are f\u2014\u201d: 10 Ukrainians with drones wipe out two NATO battalions in war game",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3t4vr/we_are_f_10_ukrainians_with_drones_wipe_out_two/"
-  },
-  {
     "topic": "After 1,600 years underwater, remains of the Lighthouse of Alexandria emerge",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3jurv/sweden_confirms_ukraine_to_use_eus_95_bn_defense/"
+  },
+  {
+    "topic": "Air Transat suspending all flights to U.S. as of this spring",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3ot8d/air_transat_suspending_all_flights_to_us_as_of/"
   },
   {
     "topic": "JIMMY KIMMEL: \"I propose that we should think about adding his name to the Epstein files... it will heretofore be known as the Trump-Epstein Files.\"",
@@ -184,39 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,201,785 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 1,198,578 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZRtmsJyjycA"
   },
   {
-    "topic": "Brent Faiyaz - wrong faces. [Official Video]",
+    "topic": "Bridgerton Season 4 | Part 2 Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 120,126 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tdHhtTvJBDc"
-  },
-  {
-    "topic": "Mike WiLL Made-It ft. NBA YoungBoy & Chief Keef - ROOMS (Official Audio)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 111,190 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MXMBxoDQSkM"
-  },
-  {
-    "topic": "Ella Langley - Be Her (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 77,533 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Dg47eNL_Usw"
+    "why": "Trending on YouTube \u2022 126,897 views \u2022 ~169m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P87Exm0VMrI"
   },
   {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
   }
 ]
