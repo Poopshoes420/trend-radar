@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Olympic commentary",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3cufm/olympic_commentary/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Never seen this in all my years of teaching. A child had this in their lunch today as a snack, mom fail!",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r31p0f/guess_what/"
   },
   {
-    "topic": "That was really nice of him to help fix the helmet.",
+    "topic": "\u201cDo you take any drugs?\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r2qy6o/that_was_really_nice_of_him_to_help_fix_the_helmet/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r3e7cc/do_you_take_any_drugs/"
   },
   {
     "topic": "I wannna see if I can find an archive of this dude's videos, does anyone remember his name?",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r30g27/my_youtube_channel_disappeared_the_page_says_the/"
   },
   {
+    "topic": "Are we being deadass rn?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3cmos/are_we_being_deadass_rn/"
+  },
+  {
     "topic": "Is it true?",
     "sources": [
       "reddit"
@@ -81,31 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r36jiu/we_need_to_do_something_about_the_ai_overviews/"
   },
   {
-    "topic": "Jacksepticeye implies that MrBeast is evil",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r2bg22/jacksepticeye_implies_that_mrbeast_is_evil/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1449, Part 1 (Thread #1596)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1450, Part 1 (Thread #1597)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2je4e/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Macron calls Musk \u2018an oversubsidized guy\u2019, prompting retort",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2vijc/macron_calls_musk_an_oversubsidized_guy_prompting/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3f37e/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Herzog responds to Trump request for Netanyahu pardon: \"To the best of my recollection, I am the president of Israel.\"",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r38y8x/herzog_responds_to_trump_request_for_netanyahu/"
   },
   {
-    "topic": "'Price of dignity' says Ukrainian athlete banned over helmet",
+    "topic": "Macron calls Musk \u2018an oversubsidized guy\u2019, prompting retort",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2rs7i/price_of_dignity_says_ukrainian_athlete_banned/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2vijc/macron_calls_musk_an_oversubsidized_guy_prompting/"
   },
   {
     "topic": "British Airways passenger hands out drugged sweets to crew, 3 rushed to hospital",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r384e2/british_airways_passenger_hands_out_drugged/"
+  },
+  {
+    "topic": "'Price of dignity' says Ukrainian athlete banned over helmet",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2rs7i/price_of_dignity_says_ukrainian_athlete_banned/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,75 +180,67 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3bew5/star_wars_galactic_racer_official_gameplay_trailer/"
   },
   {
-    "topic": "State of Play | February 12, 2026 [English]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,627,855 views \u2022 ~264m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=P0e5YEXtZu0"
-  },
-  {
-    "topic": "\u201cSpider-Noir\u201d \u2013 Authentic Black & White Teaser Trailer | Prime Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,289,920 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HgMbkitzhEM"
-  },
-  {
-    "topic": "STATE OF PLAY LIVE...GET IN HERE \ud83d\udd34Full Stream\ud83d\udd34 (2-12)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 307,270 views \u2022 ~161m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RrCLDfB6t1c"
-  },
-  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 359,746 views \u2022 ~225m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FjFslYtUM7g"
+    "why": "Trending on YouTube \u2022 590,071 views \u2022 ~186m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZtUk9hPakbU"
+  },
+  {
+    "topic": "State of Play | February 12, 2026 [English Subtitles]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 730,243 views \u2022 ~352m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bGdFBim7nYY"
   },
   {
     "topic": "BOTELLA$ VAC\u00cdA$",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,896 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 461,167 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dTnBq_RexFw"
   },
   {
-    "topic": "Reacting To \"The Rise Of Foltyn\"",
+    "topic": "NO TENGA$ MIEDO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 642,274 views \u2022 ~574m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NGwUUYERExQ"
+    "why": "Trending on YouTube \u2022 428,490 views \u2022 ~312m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wbstEDi0Jzw"
   },
   {
-    "topic": "EN DONDE ESTA$",
+    "topic": "STATE OF PLAY LIVE...GET IN HERE \ud83d\udd34Full Stream\ud83d\udd34 (2-12)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,616 views \u2022 ~224m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BrIeC37G668"
+    "why": "Trending on YouTube \u2022 325,431 views \u2022 ~249m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RrCLDfB6t1c"
   },
   {
     "topic": "Untitled John Wick Game - Official Reveal Trailer | State of Play 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,136 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 412,067 views \u2022 ~372m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kbyUZhheUSQ"
+  },
+  {
+    "topic": "Reacting To \"The Rise Of Foltyn\"",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 732,499 views \u2022 ~662m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NGwUUYERExQ"
   },
   {
     "topic": "CENTRAL CEE - ICEMAN FREESTYLE (MUSIC VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 489,687 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 524,991 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OqYoYuoIiik"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 522,173 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 555,950 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M53vMum29KQ"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 186,011 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 254,907 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l-Dql2_zbbM"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,991 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 203,954 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qskc0BCkFwU"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,279 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 259,095 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fXVy4mALHLY"
   },
   {
@@ -288,31 +280,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 125,207 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 170,421 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2MtgIoToa7I"
-  },
-  {
-    "topic": "Yailin La Mas Viral x Ezzy R - Shorty Remix (Video Oficial)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 214,477 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7_EQNxz40io"
   },
   {
     "topic": "Chapter 5's Trailer Controversy Explained (News)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,860 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 109,319 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OcbGrqEF5d8"
+  },
+  {
+    "topic": "Tempo - RIP ALDO",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 51,293 views \u2022 ~209m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WcrpshkCqyY"
   },
   {
     "topic": "Teddy Hashtag - Ou Banm Lanmou Feat Rutshelle Guillaume ( Official Music Video )",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 129,000 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 145,553 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0nPTEgP8U-4"
   },
   {
@@ -320,7 +312,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,250 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 66,710 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MXhQbF7TlbA"
   },
   {
@@ -328,15 +320,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,030 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 89,208 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_dqSWQQQGlE"
-  },
-  {
-    "topic": "Tempo - RIP ALDO",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 14,280 views \u2022 ~121m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WcrpshkCqyY"
   }
 ]
