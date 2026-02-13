@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3j693/how_is_this_thumbnail/"
   },
   {
-    "topic": "Is it true?",
+    "topic": "When going into full screen mode, the video is moving to the top and there's a black bar at the bottom. I've tried resetting site data, removing extensions, but nothing is working. Anyone know why this is happening?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r2pi4o/is_it_true/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3m4bw/when_going_into_full_screen_mode_the_video_is/"
   },
   {
     "topic": "After 1,600 years underwater, remains of the Lighthouse of Alexandria emerge",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3bkoz/ukraine_will_not_accept_a_bad_peace_deal_zelensky/"
   },
   {
-    "topic": "Macron calls Musk \u2018an oversubsidized guy\u2019, prompting retort",
+    "topic": "Armed with 'supermajority,' PM Takaichi eyes revising Japan's constitution",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r2vijc/macron_calls_musk_an_oversubsidized_guy_prompting/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r3k891/armed_with_supermajority_pm_takaichi_eyes/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,149,509 views \u2022 ~168m old",
+    "why": "Trending on YouTube \u2022 1,153,428 views \u2022 ~193m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZRtmsJyjycA"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 607,510 views \u2022 ~690m old",
+    "why": "Trending on YouTube \u2022 610,957 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BrIeC37G668"
+  },
+  {
+    "topic": "Maluma, Yeison Jimenez - Con el Coraz\u00f3n (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 393,126 views \u2022 ~717m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cDh7e8dLklE"
   },
   {
     "topic": "Cazzu - Jujuy Estrellado (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 330,797 views \u2022 ~691m old",
+    "why": "Trending on YouTube \u2022 335,083 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qskc0BCkFwU"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,685 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 117,148 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WcrpshkCqyY"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,099 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 67,437 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tdHhtTvJBDc"
-  },
-  {
-    "topic": "Junior H x Gael Valenzuela - POLE DANCE [Official Visualizer]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 81,689 views \u2022 ~551m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=a5wOmuGiytY"
   },
   {
     "topic": "Mike WiLL Made-It ft. NBA YoungBoy & Chief Keef - ROOMS (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,476 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 50,153 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MXMBxoDQSkM"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,084 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 29,205 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dg47eNL_Usw"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TTKGo_ijOCk"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=98qo7Tl4QsE"
   }
 ]
