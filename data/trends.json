@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Perfect 5/5 .",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4o20c/perfect_55/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4hltj/how_were_these_impressions_of_you_guys_lol/"
   },
   {
+    "topic": "Michelangelo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
+  },
+  {
     "topic": "Cute little gangsters protecting the property",
     "sources": [
       "reddit"
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4o1u6/this_is_a_real_billboard_in_los_angeles_right_now/"
   },
   {
-    "topic": "I have a feeling theyre going to scorch the earth over adblockers LOL",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4geph/i_have_a_feeling_theyre_going_to_scorch_the_earth/"
-  },
-  {
     "topic": "Man, this is really hard. I keep thinking it's the heart, but I'm afraid that I could be wrong. This is so impossible to guess!!!",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4nuxi/man_this_is_really_hard_i_keep_thinking_its_the/"
+  },
+  {
+    "topic": "I have a feeling theyre going to scorch the earth over adblockers LOL",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4geph/i_have_a_feeling_theyre_going_to_scorch_the_earth/"
   },
   {
     "topic": "Hey YouTube! What is 9+10?",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4oid5/got_these_cookies_from_the_wife_for_valentines_day/"
   },
   {
-    "topic": "Started playing Sons of Sparta",
+    "topic": "In the mood...",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4phz3/started_playing_sons_of_sparta/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4qt0u/in_the_mood/"
   },
   {
     "topic": "DATE A BRAWLER! \ud83e\udd75 #Brawlentines",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,915,297 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 3,020,108 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=weN28bKNqdY"
   },
   {
@@ -192,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 699,554 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 767,246 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_aRA-KcTQs"
-  },
-  {
-    "topic": "quitting Roblox\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 522,325 views \u2022 ~541m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nL_pT3ktqQQ"
   },
   {
     "topic": "DROPPING THE FIRST EVER CODE CRATE IN SPONGEBOB TOWER DEFENSE! Roblox",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,148 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 112,925 views \u2022 ~96m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6utMSI3uPFA"
+  },
+  {
+    "topic": "quitting Roblox\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 557,962 views \u2022 ~561m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nL_pT3ktqQQ"
   }
 ]
