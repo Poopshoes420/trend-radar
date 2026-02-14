@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r46mpw/sisters_are_their_to_be_messed_with_so_that_no/"
   },
   {
-    "topic": "Soldier down...",
+    "topic": "How were these impressions of you guys lol!?!?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4hapg/soldier_down/"
-  },
-  {
-    "topic": "I'm starting to realize why they don't want us looking up videos by \"most recent\" anymore.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4b6fi/im_starting_to_realize_why_they_dont_want_us/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4hltj/how_were_these_impressions_of_you_guys_lol/"
   },
   {
     "topic": "I have a feeling theyre going to scorch the earth over adblockers LOL",
@@ -63,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4geph/i_have_a_feeling_theyre_going_to_scorch_the_earth/"
   },
   {
-    "topic": "WTF? YouTube Shorts Are Straight-Up Advertising Porn",
+    "topic": "I'm starting to realize why they don't want us looking up videos by \"most recent\" anymore.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r47nv2/wtf_youtube_shorts_are_straightup_advertising_porn/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4b6fi/im_starting_to_realize_why_they_dont_want_us/"
   },
   {
     "topic": "how come every video has comments turned off for me?",
@@ -90,6 +81,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r41r01/happy_21st_birthday_to_youtube_i_guess/"
   },
   {
+    "topic": "YouTube are trying to create the worst possible nightmare for end users",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4j6bl/youtube_are_trying_to_create_the_worst_possible/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1451, Part 1 (Thread #1598)",
     "sources": [
       "reddit"
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r44dg2/us_military_preparing_for_potentially_weekslong/"
   },
   {
-    "topic": "Russia confirms $12 trillion pitch to Trump tied to Ukraine deal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r43nyg/russia_confirms_12_trillion_pitch_to_trump_tied/"
-  },
-  {
     "topic": "Iran TV reporter says 'Death to Ali Khamenei' live",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r47xqq/iran_tv_reporter_says_death_to_ali_khamenei_live/"
+  },
+  {
+    "topic": "Russia confirms $12 trillion pitch to Trump tied to Ukraine deal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r43nyg/russia_confirms_12_trillion_pitch_to_trump_tied/"
   },
   {
     "topic": "Ukrainian Forces Destroy British Brigade in NATO Wargame",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3wroa/castlevania_belmonts_curse_the_recently_revealed/"
   },
   {
-    "topic": "join stream now!!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,469,460 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3ekNxeY0YA0"
-  },
-  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 522,567 views \u2022 ~545m old",
+    "why": "Trending on YouTube \u2022 522,582 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zflAGS1IYJk"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 372,058 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 374,496 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JSXK9-qFAbY"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5o_ShK1QPhE"
   }
 ]
