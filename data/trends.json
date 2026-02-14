@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Michelangelo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4hltj/how_were_these_impressions_of_you_guys_lol/"
-  },
-  {
-    "topic": "Michelangelo",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
   },
   {
     "topic": "Cute little gangsters protecting the property",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4muqn/hey_youtube_what_is_910/"
   },
   {
-    "topic": "I'm starting to realize why they don't want us looking up videos by \"most recent\" anymore.",
+    "topic": "YouTube are trying to create the worst possible nightmare for end users",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4b6fi/im_starting_to_realize_why_they_dont_want_us/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4j6bl/youtube_are_trying_to_create_the_worst_possible/"
   },
   {
     "topic": "Canada Is Now Being Joined By U.K. and Australia In Boycott Of U.S. National Parks",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4k67c/zelenskiy_says_us_too_often_asks_ukraine_not/"
   },
   {
-    "topic": "Iran TV reporter says 'Death to Ali Khamenei' live",
+    "topic": "Ukrainian forces destroyed half of Russia's Pantsir missile systems in 2025 \u2013 Ukraine's Security Service",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r47xqq/iran_tv_reporter_says_death_to_ali_khamenei_live/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4iway/ukrainian_forces_destroyed_half_of_russias/"
   },
   {
     "topic": "Employees of Las Gaviotas Cevicher\u00eda in Lima, Peru recreate the Bad Bunny halftime show with vegetables at their restaurant",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,020,108 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 3,192,101 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=weN28bKNqdY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 767,246 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 950,319 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_aRA-KcTQs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,925 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 160,028 views \u2022 ~143m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6utMSI3uPFA"
   },
   {
@@ -208,7 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 557,962 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 615,826 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nL_pT3ktqQQ"
+  },
+  {
+    "topic": "LA INSUPERABLE X MICHAEL FLORES X ALOFOKE MUSIC - EMOJI",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 118,847 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g9rhBE_RSOA"
+  },
+  {
+    "topic": "I Bought Abandoned Bases in Steal a Brainrot...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 106,134 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=O8-T0VL0CWw"
   }
 ]
