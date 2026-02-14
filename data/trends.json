@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r41r01/happy_21st_birthday_to_youtube_i_guess/"
   },
   {
+    "topic": "WTF? YouTube Shorts Are Straight-Up Advertising Porn",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r47nv2/wtf_youtube_shorts_are_straightup_advertising_porn/"
+  },
+  {
     "topic": "how come every video has comments turned off for me?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4aqf3/how_come_every_video_has_comments_turned_off_for/"
-  },
-  {
-    "topic": "When going into full screen mode, the video is moving to the top and there's a black bar at the bottom. I've tried resetting site data, removing extensions, but nothing is working. Anyone know why this is happening?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r3m4bw/when_going_into_full_screen_mode_the_video_is/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1451, Part 1 (Thread #1598)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,393,803 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 1,404,150 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ekNxeY0YA0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 521,668 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 522,126 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zflAGS1IYJk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 350,749 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 354,397 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JSXK9-qFAbY"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 490,270 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 509,252 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EgDfiTbfJME"
-  },
-  {
-    "topic": "11TH ANNIVERSARY PART 2 ALL DETAILS STREAM!!!! (DBZ: Dokkan Battle)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 129,248 views \u2022 ~177m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=w0lZkKUnkJ4"
   },
   {
     "topic": "How Many TYLERS will SURVIVE?!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 342,079 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 364,989 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RR_9wDJHswo"
   },
   {
@@ -232,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 367,101 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 388,731 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjZ2jNZiRXc"
+  },
+  {
+    "topic": "I Worked At A Bar On A Train\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 151,441 views \u2022 ~523m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VqSmSOxsAjo"
   },
   {
     "topic": "Glorb - ATLANTIS (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,202 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 159,080 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EyooFwjlUFA"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,136 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 46,775 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YiJpnqQGXyg"
   }
 ]
