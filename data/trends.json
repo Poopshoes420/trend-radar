@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4muqn/hey_youtube_what_is_910/"
   },
   {
-    "topic": "YouTube are trying to create the worst possible nightmare for end users",
+    "topic": "Dear YouTube Advertisers...",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4j6bl/youtube_are_trying_to_create_the_worst_possible/"
-  },
-  {
-    "topic": "Canada Is Now Being Joined By U.K. and Australia In Boycott Of U.S. National Parks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4kadq/canada_is_now_being_joined_by_uk_and_australia_in/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4m48e/dear_youtube_advertisers/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1451, Part 1 (Thread #1598)",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4iway/ukrainian_forces_destroyed_half_of_russias/"
+  },
+  {
+    "topic": "Doctors Without Borders suspends activities at Gaza hospital due to presence of gunmen",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4lbli/doctors_without_borders_suspends_activities_at/"
   },
   {
     "topic": "Employees of Las Gaviotas Cevicher\u00eda in Lima, Peru recreate the Bad Bunny halftime show with vegetables at their restaurant",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,305,757 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 3,402,612 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=weN28bKNqdY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,051,391 views \u2022 ~312m old",
+    "why": "Trending on YouTube \u2022 1,134,719 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_aRA-KcTQs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 658,998 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 699,459 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nL_pT3ktqQQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 164,162 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 165,973 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6utMSI3uPFA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,175 views \u2022 ~193m old",
+    "why": "Trending on YouTube \u2022 156,685 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g9rhBE_RSOA"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 129,110 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 152,347 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O8-T0VL0CWw"
   }
 ]
