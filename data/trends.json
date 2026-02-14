@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4b6fi/im_starting_to_realize_why_they_dont_want_us/"
   },
   {
+    "topic": "YouTube are trying to create the worst possible nightmare for end users",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4j6bl/youtube_are_trying_to_create_the_worst_possible/"
+  },
+  {
     "topic": "how come every video has comments turned off for me?",
     "sources": [
       "reddit"
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r41r01/happy_21st_birthday_to_youtube_i_guess/"
   },
   {
-    "topic": "YouTube are trying to create the worst possible nightmare for end users",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4j6bl/youtube_are_trying_to_create_the_worst_possible/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1451, Part 1 (Thread #1598)",
     "sources": [
       "reddit"
@@ -97,6 +97,24 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4al5i/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Canada Is Now Being Joined By U.K. and Australia In Boycott Of U.S. National Parks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4kadq/canada_is_now_being_joined_by_uk_and_australia_in/"
+  },
+  {
+    "topic": "Alexei Navalny died after being poisoned with dart frog toxin, UK and allies say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4k9m7/alexei_navalny_died_after_being_poisoned_with/"
   },
   {
     "topic": "US military preparing for potentially weeks-long Iran operations",
@@ -115,24 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r47xqq/iran_tv_reporter_says_death_to_ali_khamenei_live/"
-  },
-  {
-    "topic": "Russia confirms $12 trillion pitch to Trump tied to Ukraine deal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r43nyg/russia_confirms_12_trillion_pitch_to_trump_tied/"
-  },
-  {
-    "topic": "Ukrainian Forces Destroy British Brigade in NATO Wargame",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4c0r0/ukrainian_forces_destroy_british_brigade_in_nato/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3otcg/young_gamers_in_japan_may_not_be_forming_the_same/"
   },
   {
-    "topic": "Castlevania: Belmont's Curse, the recently revealed (and long awaited) new mainline entry in the Castlevania franchise is priced at $39.99 (USD). Konami has just been making all the right moves since their return to the traditional games industry.",
+    "topic": "Akali and Senna revealed as next champions for 2XKO as Director discusses future of the game",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3wroa/castlevania_belmonts_curse_the_recently_revealed/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4aswq/akali_and_senna_revealed_as_next_champions_for/"
+  },
+  {
+    "topic": "DATE A BRAWLER! \ud83e\udd75 #Brawlentines",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,947,130 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=weN28bKNqdY"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 522,582 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 522,660 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zflAGS1IYJk"
-  },
-  {
-    "topic": "Friday 2/13",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 374,496 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JSXK9-qFAbY"
   },
   {
     "topic": "Unstoppable",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5o_ShK1QPhE"
   }
 ]
