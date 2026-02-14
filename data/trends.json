@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4j6bl/youtube_are_trying_to_create_the_worst_possible/"
   },
   {
+    "topic": "Dear YouTube Advertisers...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4m48e/dear_youtube_advertisers/"
+  },
+  {
     "topic": "Hey YouTube! What is 9+10?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4muqn/hey_youtube_what_is_910/"
-  },
-  {
-    "topic": "how come every video has comments turned off for me?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4aqf3/how_come_every_video_has_comments_turned_off_for/"
   },
   {
     "topic": "Canada Is Now Being Joined By U.K. and Australia In Boycott Of U.S. National Parks",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4al5i/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Zelenskyy suggests ceasefire to allow elections in Russia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4mh36/zelenskyy_suggests_ceasefire_to_allow_elections/"
+  },
+  {
     "topic": "Zelenskiy says US too often asks Ukraine, not Russia, for concessions",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4k67c/zelenskiy_says_us_too_often_asks_ukraine_not/"
   },
   {
-    "topic": "Volodymyr Zelenskyy honours disqualified skeleton racer with order of freedom",
+    "topic": "The Republic of Niger Announces Mobilization to \u201cPrepare for War with France\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4kedi/volodymyr_zelenskyy_honours_disqualified_skeleton/"
-  },
-  {
-    "topic": "Ukrainian Forces Destroy British Brigade in NATO Wargame",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4c0r0/ukrainian_forces_destroy_british_brigade_in_nato/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4lgsj/the_republic_of_niger_announces_mobilization_to/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,23 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,410,231 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 2,515,219 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=weN28bKNqdY"
+  },
+  {
+    "topic": "Unstable SMP: The LAW",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 416,118 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=f_aRA-KcTQs"
   },
   {
     "topic": "quitting Roblox\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 381,269 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 406,039 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nL_pT3ktqQQ"
-  },
-  {
-    "topic": "Unstoppable",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~278m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5o_ShK1QPhE"
   }
 ]
