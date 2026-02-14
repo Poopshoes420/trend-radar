@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4al5i/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Russia killed opposition leader Alexei Navalny using toxin from dart frog, UK says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4k9ef/russia_killed_opposition_leader_alexei_navalny/"
-  },
-  {
     "topic": "US military preparing for potentially weeks-long Iran operations",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r44dg2/us_military_preparing_for_potentially_weekslong/"
+  },
+  {
+    "topic": "Ukrainian Forces Destroy British Brigade in NATO Wargame",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4c0r0/ukrainian_forces_destroy_british_brigade_in_nato/"
   },
   {
     "topic": "Iran TV reporter says 'Death to Ali Khamenei' live",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3x27c/high_on_life_2_might_have_the_best_character/"
   },
   {
-    "topic": "Young gamers in Japan may not be forming the same attachment to Final Fantasy or Dragon Quest because modern dev cycles are as long as their childhood, users theorize",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3otcg/young_gamers_in_japan_may_not_be_forming_the_same/"
-  },
-  {
     "topic": "What's a bad game that had one specific mechanic that was actually really good, but was overshadowed.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4fnyq/whats_a_bad_game_that_had_one_specific_mechanic/"
   },
   {
+    "topic": "Young gamers in Japan may not be forming the same attachment to Final Fantasy or Dragon Quest because modern dev cycles are as long as their childhood, users theorize",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r3otcg/young_gamers_in_japan_may_not_be_forming_the_same/"
+  },
+  {
     "topic": "DATE A BRAWLER! \ud83e\udd75 #Brawlentines",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,082,706 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 2,239,441 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=weN28bKNqdY"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,327 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 343,391 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nL_pT3ktqQQ"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 522,724 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zflAGS1IYJk"
   },
   {
     "topic": "Unstoppable",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5o_ShK1QPhE"
   }
 ]
