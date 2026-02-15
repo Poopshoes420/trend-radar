@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Try to stay as clean as possible.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5jbdo/try_to_stay_as_clean_as_possible/"
-  },
-  {
     "topic": "Generational aura debt",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5mwmg/generational_aura_debt/"
+  },
+  {
+    "topic": "Try to stay as clean as possible.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5jbdo/try_to_stay_as_clean_as_possible/"
   },
   {
     "topic": "We love pigs \ud83e\udef6",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r53kpr/the_latest_ai_slop_content_farm_to_plague_youtube/"
   },
   {
-    "topic": "Why can't we report bots FOR BEING BOTS?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ecbe/why_cant_we_report_bots_for_being_bots/"
-  },
-  {
     "topic": "The trailer for the new Animal Farm movie has the highest (estimated) dislike to view ratio I've ever seen",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5jjh5/the_trailer_for_the_new_animal_farm_movie_has_the/"
+  },
+  {
+    "topic": "Why can't we report bots FOR BEING BOTS?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ecbe/why_cant_we_report_bots_for_being_bots/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1452, Part 1 (Thread #1599)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5k7rv/china_has_planted_so_many_trees_around_the/"
   },
   {
-    "topic": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5emki/cia_pentagon_reviewed_secret_havana_syndrome/"
-  },
-  {
     "topic": "Canadian passport holders can travel to China visa-free starting this week",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5mswg/canadian_passport_holders_can_travel_to_china/"
+  },
+  {
+    "topic": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5emki/cia_pentagon_reviewed_secret_havana_syndrome/"
   },
   {
     "topic": "China confirms visa-free travel for UK and Canadian nationals",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5ew13/i_feel_cheated_and_i_want_a_refund_fans_lash_out/"
   },
   {
-    "topic": "Gravity Rush 2's Air Traversal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5kgaw/gravity_rush_2s_air_traversal/"
-  },
-  {
     "topic": "Civilization 7\u2019s \u2018Test of Time\u2019 Update Lets You Stick With One Civ\u2014and Fans Are Excited",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5qdyb/civilization_7s_test_of_time_update_lets_you/"
   },
   {
+    "topic": "Gravity Rush 2's Air Traversal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5kgaw/gravity_rush_2s_air_traversal/"
+  },
+  {
     "topic": "Sunday 2/15",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 163,974 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 186,066 views \u2022 ~120m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I93kvIjPXhw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 248,691 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 281,436 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XefLWHDEorM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 316,801 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 331,998 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9DORLMskzR0"
   },
   {
@@ -208,23 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 210,944 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 223,448 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FJA8N2CUwwk"
+  },
+  {
+    "topic": "Rainbow Six Siege: Operation Silent Hunt Operator Gameplay Gadget & Starter Tips",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 107,622 views \u2022 ~327m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kzoCyLaeuto"
   },
   {
     "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,216 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 43,843 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
   },
   {
-    "topic": "SPIDER-MAN BRAND NEW DAY TRAILER UPDATE & EPIC LEAKS!",
+    "topic": "Slade: The Swagger of the Sea | Official Character Trailer - Rivals of Aether II",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,455 views \u2022 ~324m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-XtJdIWj4y4"
+    "why": "Trending on YouTube \u2022 5,112 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LwlS8IHwEDM"
   }
 ]
