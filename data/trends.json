@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5ckt1/ups_driver_delivering_packages_while_dodging/"
   },
   {
+    "topic": "Are you a Belgium ?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5gt3d/are_you_a_belgium/"
+  },
+  {
     "topic": "Busted \ud83e\udd15",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5bstf/busted/"
-  },
-  {
-    "topic": "[OC] table for 2",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5g35y/oc_table_for_2/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
   },
   {
-    "topic": "The latest AI slop content farm to plague YouTube . It\u2019s even worse than the paint explainer clones.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r53kpr/the_latest_ai_slop_content_farm_to_plague_youtube/"
-  },
-  {
     "topic": "Unskippable Ads have officially come to an end in Vietnam as the new law takes effect today.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5azvu/unskippable_ads_have_officially_come_to_an_end_in/"
+  },
+  {
+    "topic": "The latest AI slop content farm to plague YouTube . It\u2019s even worse than the paint explainer clones.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r53kpr/the_latest_ai_slop_content_farm_to_plague_youtube/"
   },
   {
     "topic": "The day YouTube stopped showing dislikes\u2026 what was your reaction?",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,257 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 7,356 views \u2022 ~120m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
+  },
+  {
+    "topic": "THE SUPER MARIO GALAXY MOVIE \"Bowser Vs Yoshi\" Trailer (NEW 2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,167 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9DORLMskzR0"
   },
   {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
