@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Are you a Belgium ?",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5gt3d/are_you_a_belgium/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "We love pigs \ud83e\udef6",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r54iv3/father_of_sega_hardware_hideki_sato_has_passed/"
   },
   {
-    "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 10,888 views \u2022 ~164m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
-  },
-  {
     "topic": "THE SUPER MARIO GALAXY MOVIE \"Bowser Vs Yoshi\" Trailer (NEW 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,806 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 22,330 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9DORLMskzR0"
+  },
+  {
+    "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 12,466 views \u2022 ~186m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
   },
   {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
