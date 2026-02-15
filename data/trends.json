@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
   },
   {
+    "topic": "Skeletor Reacts To The He-Man Movie",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r560c5/skeletor_reacts_to_the_heman_movie/"
+  },
+  {
     "topic": "That is quite a Handshake",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4yi1g/that_is_quite_a_handshake/"
   },
   {
-    "topic": "Skeletor Reacts To The He-Man Movie",
+    "topic": "No YouTube , I will not disable my ad blocker",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r560c5/skeletor_reacts_to_the_heman_movie/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
   },
   {
     "topic": "The latest AI slop content farm to plague YouTube . It\u2019s even worse than the paint explainer clones.",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4nuxi/man_this_is_really_hard_i_keep_thinking_its_the/"
-  },
-  {
-    "topic": "No YouTube , I will not disable my ad blocker",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
   },
   {
     "topic": "Air India flight 171 crash: Pilot deliberately cut fuel switch, report reveals",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,652,863 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 1,668,255 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vmTf5JqdKU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,599 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 922,712 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 641,271 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 702,874 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JZm2gwn5dBQ"
   }
 ]
