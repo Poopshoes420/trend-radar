@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
   },
   {
-    "topic": "Best mom",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4t4zd/best_mom/"
-  },
-  {
     "topic": "That is quite a Handshake",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4yi1g/that_is_quite_a_handshake/"
+  },
+  {
+    "topic": "Best mom",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4t4zd/best_mom/"
   },
   {
     "topic": "The day YouTube stopped showing dislikes\u2026 what was your reaction?",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4uflz/the_day_youtube_stopped_showing_dislikes_what_was/"
   },
   {
-    "topic": "Man, this is really hard. I keep thinking it's the heart, but I'm afraid that I could be wrong. This is so impossible to guess!!!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4nuxi/man_this_is_really_hard_i_keep_thinking_its_the/"
-  },
-  {
     "topic": "The latest AI slop content farm to plague YouTube . It\u2019s even worse than the paint explainer clones.",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r53kpr/the_latest_ai_slop_content_farm_to_plague_youtube/"
   },
   {
-    "topic": "Fuck you for not letting me use ublock",
+    "topic": "Man, this is really hard. I keep thinking it's the heart, but I'm afraid that I could be wrong. This is so impossible to guess!!!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4y68u/fuck_you_for_not_letting_me_use_ublock/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4nuxi/man_this_is_really_hard_i_keep_thinking_its_the/"
   },
   {
     "topic": "18 views in 17 years, wrap it up",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r52czq/18_views_in_17_years_wrap_it_up/"
+  },
+  {
+    "topic": "Fuck you for not letting me use ublock",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4y68u/fuck_you_for_not_letting_me_use_ublock/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1452, Part 1 (Thread #1599)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5373s/ukraine_destroys_half_of_russias_key_pantsir_air/"
   },
   {
-    "topic": "The Republic of Niger Announces Mobilization to \u201cPrepare for War with France\u201d",
+    "topic": "Macron urges calm after far-right activist fatally beaten",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r4lgsj/the_republic_of_niger_announces_mobilization_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54282/macron_urges_calm_after_farright_activist_fatally/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r54p1d/no_way_i_was_literally_just_thinking_about_this_2/"
   },
   {
-    "topic": "Got these cookies from the wife for valentine's day",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4oid5/got_these_cookies_from_the_wife_for_valentines_day/"
-  },
-  {
     "topic": "\"Father Of Sega Hardware,\" Hideki Sato, Has Passed Away",
     "sources": [
       "reddit"
@@ -180,27 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r54iv3/father_of_sega_hardware_hideki_sato_has_passed/"
   },
   {
-    "topic": "roblox best gameplay",
+    "topic": "Got these cookies from the wife for valentine's day",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 919,473 views \u2022 ~244m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4oid5/got_these_cookies_from_the_wife_for_valentines_day/"
   },
   {
     "topic": "Sammy GIFTED ME a STRAWBERRY ELEPHANT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,619,873 views \u2022 ~462m old",
+    "why": "Trending on YouTube \u2022 1,631,683 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vmTf5JqdKU8"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 922,325 views \u2022 ~306m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
   },
   {
     "topic": "Breaking into this house as Gnomes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 458,885 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 521,929 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JZm2gwn5dBQ"
   }
 ]
