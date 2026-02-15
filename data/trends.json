@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "We love pigs \ud83e\udef6",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r58xkh/we_love_pigs/"
-  },
-  {
     "topic": "Try to stay as clean as possible.",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5jbdo/try_to_stay_as_clean_as_possible/"
+  },
+  {
+    "topic": "We love pigs \ud83e\udef6",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r58xkh/we_love_pigs/"
   },
   {
     "topic": "UPS driver delivering packages while dodging turkeys",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5ew13/i_feel_cheated_and_i_want_a_refund_fans_lash_out/"
   },
   {
+    "topic": "Gravity Rush 2's Air Traversal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5kgaw/gravity_rush_2s_air_traversal/"
+  },
+  {
     "topic": "Insomniac Games Bluntly Denies Any Chance Of Spider-Man Games Heading To Xbox",
     "sources": [
       "reddit"
@@ -171,36 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5haan/insomniac_games_bluntly_denies_any_chance_of/"
   },
   {
-    "topic": "Denuvo in Borderlands 4 Hacked After 5 Months",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5j01t/denuvo_in_borderlands_4_hacked_after_5_months/"
-  },
-  {
     "topic": "THE SUPER MARIO GALAXY MOVIE \"Bowser Vs Yoshi\" Trailer (NEW 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 159,337 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 193,917 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9DORLMskzR0"
-  },
-  {
-    "topic": "Kodak Black - Gods Plan [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 76,250 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yT-h3TxA1P8"
   },
   {
     "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,407 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 23,828 views \u2022 ~323m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
