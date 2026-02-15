@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "We love pigs \ud83e\udef6",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r58xkh/we_love_pigs/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Michelangelo",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4yi1g/that_is_quite_a_handshake/"
   },
   {
-    "topic": "Best mom",
+    "topic": "A scary moment for Scarlett Johansson",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4t4zd/best_mom/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4zn7p/a_scary_moment_for_scarlett_johansson/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
   },
   {
-    "topic": "\u201cWe are f\u2014\u201d: 10 Ukrainians with drones wipe out two NATO battalions in war game",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54lz1/we_are_f_10_ukrainians_with_drones_wipe_out_two/"
-  },
-  {
     "topic": "Ukraine destroys half of Russia's 'key' Pantsir air defense systems, security service says",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54282/macron_urges_calm_after_farright_activist_fatally/"
+  },
+  {
+    "topic": "Zelenskyy blasts Orb\u00e1n: Grows his belly instead of his army",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r52j9r/zelenskyy_blasts_orb\u00e1n_grows_his_belly_instead_of/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,862 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 922,889 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
