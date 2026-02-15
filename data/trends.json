@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5ckt1/ups_driver_delivering_packages_while_dodging/"
   },
   {
-    "topic": "Michelangelo",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
-  },
-  {
     "topic": "Busted \ud83e\udd15",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5bstf/busted/"
+  },
+  {
+    "topic": "Michelangelo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
   },
   {
-    "topic": "British Museum removes \u2018Palestine\u2019 from ancient Middle East displays",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5cd81/british_museum_removes_palestine_from_ancient/"
-  },
-  {
     "topic": "Ukraine destroys half of Russia's 'key' Pantsir air defense systems, security service says",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54282/macron_urges_calm_after_farright_activist_fatally/"
+  },
+  {
+    "topic": "Zelenskyy blasts Orb\u00e1n: Grows his belly instead of his army",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r52j9r/zelenskyy_blasts_orb\u00e1n_grows_his_belly_instead_of/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "'I Feel Cheated and I Want a Refund': Fans Lash Out at New PS5 God of War's Unlockable Local Multiplayer Mode",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5ew13/i_feel_cheated_and_i_want_a_refund_fans_lash_out/"
+  },
+  {
     "topic": "\"Father Of Sega Hardware,\" Hideki Sato, Has Passed Away",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r52q8s/in_romeo_is_a_deadman_you_pick_your_difficulty_by/"
   },
   {
-    "topic": "We got Spider Garbage Trucks in No Man's Sky before GTA VI",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r58dpj/we_got_spider_garbage_trucks_in_no_mans_sky/"
-  },
-  {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
