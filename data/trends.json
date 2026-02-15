@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5bstf/busted/"
   },
   {
-    "topic": "Michelangelo",
+    "topic": "[OC] table for 2",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5g35y/oc_table_for_2/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4uflz/the_day_youtube_stopped_showing_dislikes_what_was/"
   },
   {
-    "topic": "18 views in 17 years, wrap it up",
+    "topic": "Why can't we report bots FOR BEING BOTS?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r52czq/18_views_in_17_years_wrap_it_up/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ecbe/why_cant_we_report_bots_for_being_bots/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1452, Part 1 (Thread #1599)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
   },
   {
+    "topic": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5emki/cia_pentagon_reviewed_secret_havana_syndrome/"
+  },
+  {
     "topic": "Ukraine destroys half of Russia's 'key' Pantsir air defense systems, security service says",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54282/macron_urges_calm_after_farright_activist_fatally/"
-  },
-  {
-    "topic": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5emki/cia_pentagon_reviewed_secret_havana_syndrome/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r52q8s/in_romeo_is_a_deadman_you_pick_your_difficulty_by/"
   },
   {
+    "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,257 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
+  },
+  {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
