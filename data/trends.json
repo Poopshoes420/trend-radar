@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r53kpr/the_latest_ai_slop_content_farm_to_plague_youtube/"
   },
   {
-    "topic": "The day YouTube stopped showing dislikes\u2026 what was your reaction?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4uflz/the_day_youtube_stopped_showing_dislikes_what_was/"
-  },
-  {
     "topic": "Unskippable Ads have officially come to an end in Vietnam as the new law takes effect today.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5azvu/unskippable_ads_have_officially_come_to_an_end_in/"
+  },
+  {
+    "topic": "The day YouTube stopped showing dislikes\u2026 what was your reaction?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r4uflz/the_day_youtube_stopped_showing_dislikes_what_was/"
   },
   {
     "topic": "18 views in 17 years, wrap it up",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r52czq/18_views_in_17_years_wrap_it_up/"
   },
   {
-    "topic": "Air India flight 171 crash: Pilot deliberately cut fuel switch, report reveals",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1452, Part 1 (Thread #1599)",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54vep/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Air India flight 171 crash: Pilot deliberately cut fuel switch, report reveals",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
   },
   {
     "topic": "\u201cWe are f\u2014\u201d: 10 Ukrainians with drones wipe out two NATO battalions in war game",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "C.I. Games has approved a proposed capital raise authorization. The raised money is apparently to buy out Epic Game's 'permanent exclusivity' investment in Lords of The Fallen 2, allowing for the game to release on Steam when it launches.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r56rmd/ci_games_has_approved_a_proposed_capital_raise/"
-  },
-  {
     "topic": "\"Father Of Sega Hardware,\" Hideki Sato, Has Passed Away",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r52q8s/in_romeo_is_a_deadman_you_pick_your_difficulty_by/"
   },
   {
+    "topic": "Got these cookies from the wife for valentine's day",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4oid5/got_these_cookies_from_the_wife_for_valentines_day/"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,852 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 922,862 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
