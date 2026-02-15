@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r58xkh/we_love_pigs/"
   },
   {
-    "topic": "Michelangelo",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
-  },
-  {
     "topic": "Skeletor Reacts To The He-Man Movie",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r560c5/skeletor_reacts_to_the_heman_movie/"
+  },
+  {
+    "topic": "Michelangelo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,734 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 922,776 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 739,913 views \u2022 ~672m old",
+    "why": "Trending on YouTube \u2022 757,179 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JZm2gwn5dBQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~4m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~23m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
