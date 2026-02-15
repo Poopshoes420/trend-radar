@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Michelangelo",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
-  },
-  {
     "topic": "UPS driver delivering packages while dodging turkeys",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5ckt1/ups_driver_delivering_packages_while_dodging/"
   },
   {
-    "topic": "That is quite a Handshake",
+    "topic": "Michelangelo",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4yi1g/that_is_quite_a_handshake/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4p6sy/michelangelo/"
+  },
+  {
+    "topic": "Busted \ud83e\udd15",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5bstf/busted/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
   },
   {
-    "topic": "Ukraine destroys half of Russia's 'key' Pantsir air defense systems, security service says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5373s/ukraine_destroys_half_of_russias_key_pantsir_air/"
-  },
-  {
     "topic": "British Museum removes \u2018Palestine\u2019 from ancient Middle East displays",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5cd81/british_museum_removes_palestine_from_ancient/"
+  },
+  {
+    "topic": "Ukraine destroys half of Russia's 'key' Pantsir air defense systems, security service says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5373s/ukraine_destroys_half_of_russias_key_pantsir_air/"
   },
   {
     "topic": "Macron urges calm after far-right activist fatally beaten",
@@ -171,28 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r52q8s/in_romeo_is_a_deadman_you_pick_your_difficulty_by/"
   },
   {
-    "topic": "Got these cookies from the wife for valentine's day",
+    "topic": "We got Spider Garbage Trucks in No Man's Sky before GTA VI",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r4oid5/got_these_cookies_from_the_wife_for_valentines_day/"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 922,977 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r58dpj/we_got_spider_garbage_trucks_in_no_mans_sky/"
   },
   {
     "topic": "Remember the Titans",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
