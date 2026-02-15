@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Are you a Belgium ?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5gt3d/are_you_a_belgium/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5ckt1/ups_driver_delivering_packages_while_dodging/"
+  },
+  {
+    "topic": "[OC] table for 2",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5g35y/oc_table_for_2/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54vep/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5emki/cia_pentagon_reviewed_secret_havana_syndrome/"
-  },
-  {
     "topic": "China has planted so many trees around the Taklamakan Desert that it's turned this 'biological void' into a carbon sink",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5k7rv/china_has_planted_so_many_trees_around_the/"
+  },
+  {
+    "topic": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5emki/cia_pentagon_reviewed_secret_havana_syndrome/"
   },
   {
     "topic": "China confirms visa-free travel for UK and Canadian nationals",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5kgaw/gravity_rush_2s_air_traversal/"
   },
   {
-    "topic": "Insomniac Games Bluntly Denies Any Chance Of Spider-Man Games Heading To Xbox",
+    "topic": "Denuvo in Borderlands 4 Hacked After 5 Months",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5haan/insomniac_games_bluntly_denies_any_chance_of/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5j01t/denuvo_in_borderlands_4_hacked_after_5_months/"
   },
   {
     "topic": "THE SUPER MARIO GALAXY MOVIE \"Bowser Vs Yoshi\" Trailer (NEW 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 193,917 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 219,493 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9DORLMskzR0"
+  },
+  {
+    "topic": "Starting Over But You Can BUY Custom Waves...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 145,126 views \u2022 ~223m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FJA8N2CUwwk"
   },
   {
     "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,828 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 26,624 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
