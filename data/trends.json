@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r53rm5/air_india_flight_171_crash_pilot_deliberately_cut/"
   },
   {
+    "topic": "China confirms visa-free travel for UK and Canadian nationals",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5hkuu/china_confirms_visafree_travel_for_uk_and/"
+  },
+  {
     "topic": "Ukraine destroys half of Russia's 'key' Pantsir air defense systems, security service says",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5373s/ukraine_destroys_half_of_russias_key_pantsir_air/"
-  },
-  {
-    "topic": "Macron urges calm after far-right activist fatally beaten",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r54282/macron_urges_calm_after_farright_activist_fatally/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5haan/insomniac_games_bluntly_denies_any_chance_of/"
   },
   {
-    "topic": "\"Father Of Sega Hardware,\" Hideki Sato, Has Passed Away",
+    "topic": "Denuvo in Borderlands 4 Hacked After 5 Months",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r54iv3/father_of_sega_hardware_hideki_sato_has_passed/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5j01t/denuvo_in_borderlands_4_hacked_after_5_months/"
   },
   {
     "topic": "THE SUPER MARIO GALAXY MOVIE \"Bowser Vs Yoshi\" Trailer (NEW 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,330 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 66,680 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9DORLMskzR0"
+  },
+  {
+    "topic": "Kodak Black - Gods Plan [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,714 views \u2022 ~641m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yT-h3TxA1P8"
   },
   {
     "topic": "I Tried To Watch Ancient Aliens: Origins... It Was Insane (TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,466 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 15,867 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ooL25MaGVrs"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~447m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
