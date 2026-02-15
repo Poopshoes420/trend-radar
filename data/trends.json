@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "We love pigs \ud83e\udef6",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r58xkh/we_love_pigs/"
+  },
+  {
     "topic": "Michelangelo",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r560c5/skeletor_reacts_to_the_heman_movie/"
-  },
-  {
-    "topic": "That is quite a Handshake",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r4yi1g/that_is_quite_a_handshake/"
   },
   {
     "topic": "No YouTube , I will not disable my ad blocker",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pn12dh/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "\"Father Of Sega Hardware,\" Hideki Sato, Has Passed Away",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r54iv3/father_of_sega_hardware_hideki_sato_has_passed/"
-  },
-  {
     "topic": "C.I. Games has approved a proposed capital raise authorization. The raised money is apparently to buy out Epic Game's 'permanent exclusivity' investment in Lords of The Fallen 2, allowing for the game to release on Steam when it launches.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r56rmd/ci_games_has_approved_a_proposed_capital_raise/"
+  },
+  {
+    "topic": "\"Father Of Sega Hardware,\" Hideki Sato, Has Passed Away",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r54iv3/father_of_sega_hardware_hideki_sato_has_passed/"
   },
   {
     "topic": "In Romeo is a Deadman, you pick your difficulty by choosing from a box of chocolates. Yup, this is a Suda51 game alright",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r52q8s/in_romeo_is_a_deadman_you_pick_your_difficulty_by/"
   },
   {
-    "topic": "Sammy GIFTED ME a STRAWBERRY ELEPHANT",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,668,255 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vmTf5JqdKU8"
-  },
-  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,712 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 922,734 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=918Kc2awYFo"
   },
   {
@@ -200,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 702,874 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 739,913 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JZm2gwn5dBQ"
+  },
+  {
+    "topic": "Remember the Titans",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~4m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NKTcdUylTuQ"
   }
 ]
