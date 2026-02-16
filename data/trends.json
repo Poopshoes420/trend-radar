@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r67tep/curling_training_prep/"
   },
   {
-    "topic": "Whale 1: 0 people",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6gpq9/whale_1_0_people/"
-  },
-  {
     "topic": "There can be only one",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6lewl/there_can_be_only_one/"
+  },
+  {
+    "topic": "Whale 1: 0 people",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6gpq9/whale_1_0_people/"
   },
   {
     "topic": "Hatching eggs tutorial",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ew6r/pinterest_has_a_clearly_visible_ai_marker_why/"
   },
   {
+    "topic": "Dougdoug come out in her new video",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ixdp/dougdoug_come_out_in_her_new_video/"
+  },
+  {
     "topic": "Does anybody else not feel the title of this is disrespectful to the victims of this massacre",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5rz4q/youtube_posts_be_like/"
-  },
-  {
-    "topic": "Dougdoug come out in her new video",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ixdp/dougdoug_come_out_in_her_new_video/"
   },
   {
     "topic": "Would you rather have Youtube with shorts or youtube with videos only, Why?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 824,969 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 886,621 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YPWMMa4XxLs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 396,405 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 467,676 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w50J1jWfC2o"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 450,222 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 469,200 views \u2022 ~596m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DabpqTZLQpk"
-  },
-  {
-    "topic": "I Played With The OWNER of Survive Lava For Brainrots\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 390,902 views \u2022 ~593m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N-wV9kYx29I"
   },
   {
     "topic": "Tyler, The Creator - Thought I Was Dead / Sugar On My Tongue (Live at the 2026 GRAMMYs)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,428 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 253,902 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zMrVd3NjHgs"
+  },
+  {
+    "topic": "I Played With The OWNER of Survive Lava For Brainrots\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 405,597 views \u2022 ~626m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N-wV9kYx29I"
   },
   {
     "topic": "Steal A Brainrot, But Brainrots Can EAT You!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 172,398 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 183,914 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eGroQD1BT78"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 131,274 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 141,852 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5a5UlPi0PUM"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,653 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 68,956 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DyU7ZPEhi-Q"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,355 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 62,286 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsPcVOUmNKs"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,808 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 50,576 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4DZ6WqXVAw"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,681 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 32,435 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NhEZOOEXwx0"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,421 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 25,448 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mj_kkJFm4AQ"
   }
 ]
