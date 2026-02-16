@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r66gtm/winter_olympics_500m_shorttrack_photo_finish/"
   },
   {
+    "topic": "Let me show you how it's done.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6gmz1/let_me_show_you_how_its_done/"
+  },
+  {
     "topic": "A Better Answer",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5zfwr/a_better_answer/"
-  },
-  {
-    "topic": "Camera Angles Are Wild\u2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5ylo7/camera_angles_are_wild/"
   },
   {
     "topic": "YouTube Posts be like",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r66whw/estonia_would_take_war_onto_russian_territory_if/"
   },
   {
-    "topic": "Israeli producer of 'Tehran' Apple TV series found dead in Athens hotel",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6d1js/israeli_producer_of_tehran_apple_tv_series_found/"
-  },
-  {
     "topic": "BBC News- Police framed man for murder, new evidence suggests",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r638be/bbc_news_police_framed_man_for_murder_new/"
+  },
+  {
+    "topic": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5warn/canada_gives_us_arms_makers_the_cold_shoulder_on/"
   },
   {
     "topic": "Obama clarifies his stance on aliens: \u201cStatistically, the universe is so vast that the odds are good there\u2019s life out there. (\u2026) I saw no evidence during my presidency that extraterrestrials have made contact with us. Really!\u201d",
@@ -180,19 +180,59 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6a9jw/whats_a_unique_game_that_really_broke_your/"
   },
   {
+    "topic": "2500 Players VS Minecraft Combat Master",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 291,646 views \u2022 ~116m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YPWMMa4XxLs"
+  },
+  {
     "topic": "Gamers actually won",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 228,853 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 269,311 views \u2022 ~321m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DabpqTZLQpk"
+  },
+  {
+    "topic": "I Played With The OWNER of Survive Lava For Brainrots\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 248,515 views \u2022 ~350m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N-wV9kYx29I"
+  },
+  {
+    "topic": "Tyler, The Creator - Thought I Was Dead / Sugar On My Tongue (Live at the 2026 GRAMMYs)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 62,091 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zMrVd3NjHgs"
+  },
+  {
+    "topic": "Booman II | Ca$ino Documentary",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 42,730 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5a5UlPi0PUM"
+  },
+  {
+    "topic": "The Mandalorian and Grogu | Trailer Tomorrow",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 18,541 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dsPcVOUmNKs"
   },
   {
     "topic": "A KNIGHT OF THE SEVEN KINGDOMS Episode 6 Trailer | The Aftermath Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,994 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 19,594 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4DZ6WqXVAw"
   },
   {
@@ -200,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,701 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 36,398 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dRlHgFdChJc"
   }
 ]
