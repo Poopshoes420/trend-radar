@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5rz4q/youtube_posts_be_like/"
   },
   {
-    "topic": "No YouTube , I will not disable my ad blocker",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
-  },
-  {
     "topic": "really youtube?",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ut3n/really_youtube/"
   },
   {
-    "topic": "The trailer for the new Animal Farm movie has the highest (estimated) dislike to view ratio I've ever seen",
+    "topic": "No YouTube , I will not disable my ad blocker",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5jjh5/the_trailer_for_the_new_animal_farm_movie_has_the/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
   },
   {
     "topic": "Would you rather have Youtube with shorts or youtube with videos only, Why?",
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r65fi5/would_you_rather_have_youtube_with_shorts_or/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1453, Part 1 (Thread #1600)",
+    "topic": "The trailer for the new Animal Farm movie has the highest (estimated) dislike to view ratio I've ever seen",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5ze7a/rworldnews_live_thread_russian_invasion_of/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5jjh5/the_trailer_for_the_new_animal_farm_movie_has_the/"
   },
   {
     "topic": "French MP \u00c9ric Bothorel sanctioned by the United States for reporting X to the authorities",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r64kub/french_mp_\u00e9ric_bothorel_sanctioned_by_the_united/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1453, Part 1 (Thread #1600)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5ze7a/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
@@ -184,39 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 694,568 views \u2022 ~548m old",
+    "why": "Trending on YouTube \u2022 694,568 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y0cD4zlntQQ"
-  },
-  {
-    "topic": "This showed up in my camera\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 369,667 views \u2022 ~529m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6EfW33LxpC0"
   },
   {
     "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'NASA' Performance Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,767 views \u2022 ~368m old",
+    "why": "Trending on YouTube \u2022 329,309 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tVJBWoof09Q"
   },
   {
-    "topic": "Tyler's STUCK LIKE THIS NOW!",
+    "topic": "This showed up in my camera\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 346,224 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sc0tUTURSpY"
+    "why": "Trending on YouTube \u2022 385,380 views \u2022 ~575m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6EfW33LxpC0"
+  },
+  {
+    "topic": "Lethal Company - Electric Chairs And Exploding Loot Bugs?!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 224,285 views \u2022 ~523m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iMSoG8wt3OY"
   },
   {
     "topic": "Jynxzi Challenged Me To A Rocket League 1v1...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,980 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 234,409 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0PXGCC-FFbw"
   },
   {
@@ -224,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H9Q5WxPrUmM"
+  },
+  {
+    "topic": "Godzilla x Kong: The New Empire",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~32m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MCRXMtvmJHs"
   }
 ]
