@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r66gtm/winter_olympics_500m_shorttrack_photo_finish/"
   },
   {
-    "topic": "A Better Answer",
+    "topic": "Whale 1: 0 people",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5zfwr/a_better_answer/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6gpq9/whale_1_0_people/"
   },
   {
     "topic": "YouTube Posts be like",
@@ -63,22 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r65fi5/would_you_rather_have_youtube_with_shorts_or/"
   },
   {
-    "topic": "really youtube?",
+    "topic": "Pinterest has a clearly visible AI marker - Why can't youtube do the same?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ut3n/really_youtube/"
-  },
-  {
-    "topic": "I'm mourning the loss of my 10 years of YouTube watch history that I accidentally deleted.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r676bc/im_mourning_the_loss_of_my_10_years_of_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ew6r/pinterest_has_a_clearly_visible_ai_marker_why/"
   },
   {
     "topic": "Does anybody else not feel the title of this is disrespectful to the victims of this massacre",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6hh7x/does_anybody_else_not_feel_the_title_of_this_is/"
+  },
+  {
+    "topic": "really youtube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ut3n/really_youtube/"
   },
   {
     "topic": "Carney constructs a mega anti-Trump trade alliance",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 396,679 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 482,173 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YPWMMa4XxLs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 312,536 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 348,809 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DabpqTZLQpk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 282,518 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 309,272 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N-wV9kYx29I"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,292 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 120,736 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zMrVd3NjHgs"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,946 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 70,551 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5a5UlPi0PUM"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,365 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 31,492 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsPcVOUmNKs"
   },
   {
@@ -232,7 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,402 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 29,938 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4DZ6WqXVAw"
+  },
+  {
+    "topic": "THE MANDALORIAN AND GROGU Trailer 2 Teaser (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,465 views \u2022 ~155m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NhEZOOEXwx0"
   }
 ]
