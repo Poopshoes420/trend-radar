@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5zfwr/a_better_answer/"
   },
   {
+    "topic": "Winter Olympics: 500m shorttrack photo finish",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r66gtm/winter_olympics_500m_shorttrack_photo_finish/"
+  },
+  {
     "topic": "Camera Angles Are Wild\u2026",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5ylo7/camera_angles_are_wild/"
-  },
-  {
-    "topic": "Dutch skater summarizing 2026 for all of us.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r5yv5c/dutch_skater_summarizing_2026_for_all_of_us/"
   },
   {
     "topic": "YouTube Posts be like",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5ze7a/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5warn/canada_gives_us_arms_makers_the_cold_shoulder_on/"
-  },
-  {
     "topic": "Estonia would take war onto Russian territory if Moscow invades, foreign minister says",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r66whw/estonia_would_take_war_onto_russian_territory_if/"
   },
   {
-    "topic": "China has planted so many trees around the Taklamakan Desert that it's turned this 'biological void' into a carbon sink",
+    "topic": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5k7rv/china_has_planted_so_many_trees_around_the/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5warn/canada_gives_us_arms_makers_the_cold_shoulder_on/"
+  },
+  {
+    "topic": "BBC News- Police framed man for murder, new evidence suggests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r638be/bbc_news_police_framed_man_for_murder_new/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,218,588 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 1,669,851 views \u2022 ~552m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tVJBWoof09Q"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 694,599 views \u2022 ~673m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Y0cD4zlntQQ"
   },
   {
     "topic": "This showed up in my camera\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 416,238 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 437,492 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6EfW33LxpC0"
   },
   {
@@ -208,31 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,271 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 258,000 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iMSoG8wt3OY"
-  },
-  {
-    "topic": "Jynxzi Challenged Me To A Rocket League 1v1...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 250,890 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0PXGCC-FFbw"
-  },
-  {
-    "topic": "Overland Gladiator Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=H9Q5WxPrUmM"
   },
   {
     "topic": "Godzilla x Kong: The New Empire",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MCRXMtvmJHs"
   }
 ]
