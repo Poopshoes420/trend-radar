@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r5ut3n/really_youtube/"
   },
   {
-    "topic": "No YouTube , I will not disable my ad blocker",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
-  },
-  {
     "topic": "I'm mourning the loss of my 10 years of YouTube watch history that I accidentally deleted.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r676bc/im_mourning_the_loss_of_my_10_years_of_youtube/"
+  },
+  {
+    "topic": "No YouTube , I will not disable my ad blocker",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r58edt/no_youtube_i_will_not_disable_my_ad_blocker/"
   },
   {
     "topic": "Carney constructs a mega anti-Trump trade alliance",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6d1js/israeli_producer_of_tehran_apple_tv_series_found/"
   },
   {
-    "topic": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
+    "topic": "BBC News- Police framed man for murder, new evidence suggests",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5warn/canada_gives_us_arms_makers_the_cold_shoulder_on/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r638be/bbc_news_police_framed_man_for_murder_new/"
   },
   {
     "topic": "Obama clarifies his stance on aliens: \u201cStatistically, the universe is so vast that the odds are good there\u2019s life out there. (\u2026) I saw no evidence during my presidency that extraterrestrials have made contact with us. Really!\u201d",
@@ -171,28 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6abov/ashes_of_creation_lawsuits_expose_massive_fraud/"
   },
   {
-    "topic": "Civilization 7\u2019s \u2018Test of Time\u2019 Update Lets You Stick With One Civ\u2014and Fans Are Excited",
+    "topic": "What's a unique game that really broke your perception of what games can do?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r5qdyb/civilization_7s_test_of_time_update_lets_you/"
-  },
-  {
-    "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - 'NASA' Performance Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,116,528 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tVJBWoof09Q"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6a9jw/whats_a_unique_game_that_really_broke_your/"
   },
   {
     "topic": "Gamers actually won",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,545 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 228,853 views \u2022 ~276m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DabpqTZLQpk"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,796 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 13,994 views \u2022 ~155m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4DZ6WqXVAw"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,084 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 32,701 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dRlHgFdChJc"
   }
 ]
