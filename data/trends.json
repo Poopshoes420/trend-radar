@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7522d/delivery_completed/"
   },
   {
+    "topic": "The origins of bread",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7cgts/the_origins_of_bread/"
+  },
+  {
     "topic": "Feels illegal to laugh",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r72ek0/feels_illegal_to_laugh/"
-  },
-  {
-    "topic": "My son's daycare did not understand the assignment.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6u4fa/my_sons_daycare_did_not_understand_the_assignment/"
   },
   {
     "topic": "James Charles Allegations Billboard",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r73ws8/iran_fires_missiles_khamenei_threatens_to_sink_us/"
   },
   {
-    "topic": "Ukraine forms F-16 squadron staffed by Ukrainian, US and Dutch pilots",
+    "topic": "Stephen Colbert says CBS didn't air Rep. James Talarico interview out of fear of FCC",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r71ktp/ukraine_forms_f16_squadron_staffed_by_ukrainian/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7cxl1/stephen_colbert_says_cbs_didnt_air_rep_james/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -142,15 +142,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r62qjz/making_friends_monday_share_your_game_tags_here/"
-  },
-  {
-    "topic": "Western Digital confirms having sold out all manufacturing capacity of Hard Drives for 2026, and that most of 2027 and 2028 are already pre-sold, adding further instability to the gaming PC market.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r72g8o/western_digital_confirms_having_sold_out_all/"
   },
   {
     "topic": "Valve breaks its silence on Steam Deck OLED scarcity and yes, it's because of the RAM and storage crisis",
@@ -171,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6tu3y/i_tried_star_citizen_so_you_dont_have_to_and_will/"
   },
   {
+    "topic": "As an OG God of War fan, I DO want the remake to overhaul gameplay, and I would appreciate it if creators could stop trying to speak for the community as a whole when they say we don't want that.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r77qyj/as_an_og_god_of_war_fan_i_do_want_the_remake_to/"
+  },
+  {
     "topic": "Ah yes, the small Indy developers Disney and Gameloft",
     "sources": [
       "reddit"
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 502,198 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 881,633 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IHWlvwu8t1w"
   },
   {
@@ -192,31 +192,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,013,496 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 1,024,548 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ONue961iIog"
   },
   {
-    "topic": "Heartbreak High: Season 3 | Official Trailer | Netflix",
+    "topic": "DEATH AWAITS | Marathon Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,776 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wymtRy0AviI"
+    "why": "Trending on YouTube \u2022 8,388 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hWwXSb7dlnQ"
   },
   {
     "topic": "Shinedown - Safe And Sound (Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,075 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 19,086 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6Jwoiy1Z6hI"
+  },
+  {
+    "topic": "Digimon Story Time Stranger | Season Pass DLC3 Anti-ParadoX Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 12,828 views \u2022 ~245m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kfIsScJbH20"
+  },
+  {
+    "topic": "The Mandalorian and Grogu | Official Trailer REACTION!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,663 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-fRiy-S74Lg"
   },
   {
     "topic": "THE MANDALORIAN & GROGU Official Final Trailer (2026) Star Wars",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,622 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 7,628 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=akTLd02Oc0Y"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bYrHoTdEnPw"
   }
 ]
