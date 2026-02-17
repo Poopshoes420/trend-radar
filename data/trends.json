@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6lewl/there_can_be_only_one/"
   },
   {
+    "topic": "OMG",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6qz7u/omg/"
+  },
+  {
+    "topic": "Did Frankie Pee in the Pool?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6rtrm/did_frankie_pee_in_the_pool/"
+  },
+  {
     "topic": "Curling training prep \ud83d\udcaa",
     "sources": [
       "reddit"
@@ -27,24 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r67tep/curling_training_prep/"
   },
   {
-    "topic": "A master at You laugh You lose.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6fcnt/a_master_at_you_laugh_you_lose/"
-  },
-  {
-    "topic": "Winter Olympics: 500m shorttrack photo finish",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r66gtm/winter_olympics_500m_shorttrack_photo_finish/"
-  },
-  {
     "topic": "I'm so tired of these hyperbolic video titles, man.",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nn8y/im_so_tired_of_these_hyperbolic_video_titles_man/"
+  },
+  {
+    "topic": "The amount of ads is actually embarrassing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
   },
   {
     "topic": "Pinterest has a clearly visible AI marker - Why can't youtube do the same?",
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ixdp/dougdoug_come_out_in_her_new_video/"
   },
   {
-    "topic": "The amount of ads is actually embarrassing",
+    "topic": "Would you rather have Youtube with shorts or youtube with videos only, Why?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
-  },
-  {
-    "topic": "Does anybody else not feel the title of this is disrespectful to the victims of this massacre",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6hh7x/does_anybody_else_not_feel_the_title_of_this_is/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r65fi5/would_you_rather_have_youtube_with_shorts_or/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1453, Part 1 (Thread #1600)",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r5ze7a/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Ukraine makes fastest battlefield gain in 2.5 years",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6mfr5/ukraine_makes_fastest_battlefield_gain_in_25_years/"
+  },
+  {
     "topic": "Carney constructs a mega anti-Trump trade alliance",
     "sources": [
       "reddit"
@@ -106,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6bubt/carney_constructs_a_mega_antitrump_trade_alliance/"
+  },
+  {
+    "topic": "Canada Completes $9.4B Darlington Nuclear Plant Rebuild Early, on Budget",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6o101/canada_completes_94b_darlington_nuclear_plant/"
   },
   {
     "topic": "Canada signs agreement for defence co-operation with Denmark",
@@ -117,24 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6iff9/canada_signs_agreement_for_defence_cooperation/"
   },
   {
-    "topic": "Ukraine makes fastest battlefield gain in 2.5 years",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6mfr5/ukraine_makes_fastest_battlefield_gain_in_25_years/"
-  },
-  {
-    "topic": "UK bank bosses plan to set up Visa and Mastercard alternative amid Trump fears",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6mo4q/uk_bank_bosses_plan_to_set_up_visa_and_mastercard/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r62qjz/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "Bloomberg claims 'rampant AI demand for memory' is forcing Sony to consider pushing back the launch of its next-gen PlayStation as far back as 2029",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6razd/bloomberg_claims_rampant_ai_demand_for_memory_is/"
   },
   {
     "topic": "Ah yes, the small Indy developers Disney and Gameloft",
@@ -153,70 +162,69 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6p8sk/ah_yes_the_small_indy_developers_disney_and/"
   },
   {
-    "topic": "One of the most violent racing games ever. Burnout 3 (Playstation 2)",
+    "topic": "Ladies and gentlemen, battery operated GameCube.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6181t/one_of_the_most_violent_racing_games_ever_burnout/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6psne/ladies_and_gentlemen_battery_operated_gamecube/"
   },
   {
-    "topic": "Ashes of Creation Lawsuits Expose Massive Fraud (Fast Facts) [Legal Mindset]",
+    "topic": "If there's one thing the Far Cry franchise excels at it's creating great villains",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6abov/ashes_of_creation_lawsuits_expose_massive_fraud/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6pn63/if_theres_one_thing_the_far_cry_franchise_excels/"
   },
   {
-    "topic": "Suddenly remembered Monday Night Combat today and now I miss it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6njas/suddenly_remembered_monday_night_combat_today_and/"
-  },
-  {
-    "topic": "I Added a new GODLY Into My Roblox Game..",
+    "topic": "Monday 2/16",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 275,594 views \u2022 ~70m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u1fjZ9P9mOI"
+    "why": "Trending on YouTube \u2022 390,542 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6feveqNAaqM"
   },
   {
-    "topic": "2500 Players VS Minecraft Combat Master",
+    "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 982,627 views \u2022 ~455m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YPWMMa4XxLs"
+    "why": "Trending on YouTube \u2022 453,183 views \u2022 ~176m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oLMFdlIsEUI"
   },
   {
     "topic": "SIDEMEN AMONG US IS BACK",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 597,388 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 950,460 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w50J1jWfC2o"
   },
   {
-    "topic": "Gamers actually won",
+    "topic": "2500 Players VS Minecraft Combat Master",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 495,726 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DabpqTZLQpk"
+    "why": "Trending on YouTube \u2022 1,227,082 views \u2022 ~629m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YPWMMa4XxLs"
+  },
+  {
+    "topic": "3 SCARY GAMES #110",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 181,006 views \u2022 ~187m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mOPRNQD6c60"
   },
   {
     "topic": "Tyler, The Creator - Thought I Was Dead / Sugar On My Tongue (Live at the 2026 GRAMMYs)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,340 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 365,518 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zMrVd3NjHgs"
   },
   {
@@ -224,55 +232,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 146,571 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 233,898 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q_dJGrF9ulc"
-  },
-  {
-    "topic": "Booman II | Ca$ino Documentary",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 157,342 views \u2022 ~423m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5a5UlPi0PUM"
   },
   {
     "topic": "Knight Of The Seven Kingdoms Episode 6 Finale Trailer Breakdown & Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,662 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 151,700 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DyU7ZPEhi-Q"
+  },
+  {
+    "topic": "Booman II | Ca$ino Documentary",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 195,071 views \u2022 ~597m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5a5UlPi0PUM"
   },
   {
     "topic": "The Mandalorian and Grogu | Trailer Tomorrow",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,172 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 86,577 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsPcVOUmNKs"
-  },
-  {
-    "topic": "A KNIGHT OF THE SEVEN KINGDOMS Episode 6 Trailer | The Aftermath Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 53,922 views \u2022 ~538m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=h4DZ6WqXVAw"
   },
   {
     "topic": "THE MANDALORIAN AND GROGU Trailer 2 Teaser (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,908 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 57,576 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NhEZOOEXwx0"
+  },
+  {
+    "topic": "A KNIGHT OF THE SEVEN KINGDOMS Episode 6 Trailer | The Aftermath Breakdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,813 views \u2022 ~712m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=h4DZ6WqXVAw"
   },
   {
     "topic": "A PRAYER FOR THE DYING Trailer (2026) John C. Reilly, Johnny Flynn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,589 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 49,199 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mj_kkJFm4AQ"
+  },
+  {
+    "topic": "Avengers Doomsday TRAILER UPDATE, INSANE FIGHT SCENE & RDJ Doom Tease!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 16,184 views \u2022 ~355m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KeQi2EV-2NU"
   }
 ]
