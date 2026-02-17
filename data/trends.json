@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ew6r/pinterest_has_a_clearly_visible_ai_marker_why/"
   },
   {
-    "topic": "Dougdoug come out in her new video",
+    "topic": "Is this that targeted advertising I've heard of",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ixdp/dougdoug_come_out_in_her_new_video/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6qh90/is_this_that_targeted_advertising_ive_heard_of/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6vtmz/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "International Rebellion as Canada's Prime Minister Leads 40 Nations in Plan to Buck Trump",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6xxw2/international_rebellion_as_canadas_prime_minister/"
   },
   {
     "topic": "Ukraine makes fastest battlefield gain in 2.5 years",
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6o101/canada_completes_94b_darlington_nuclear_plant/"
-  },
-  {
-    "topic": "Carney constructs a mega anti-Trump trade alliance",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6bubt/carney_constructs_a_mega_antitrump_trade_alliance/"
   },
   {
     "topic": "Canada signs agreement for defence co-operation with Denmark",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6razd/bloomberg_claims_rampant_ai_demand_for_memory_is/"
   },
   {
-    "topic": "Ah yes, the small Indy developers Disney and Gameloft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6p8sk/ah_yes_the_small_indy_developers_disney_and/"
-  },
-  {
     "topic": "I tried Star Citizen so you don't have to! (and will tell you why you shouldn't)",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6tu3y/i_tried_star_citizen_so_you_dont_have_to_and_will/"
+  },
+  {
+    "topic": "Ah yes, the small Indy developers Disney and Gameloft",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6p8sk/ah_yes_the_small_indy_developers_disney_and/"
   },
   {
     "topic": "Ladies and gentlemen, battery operated GameCube.",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6psne/ladies_and_gentlemen_battery_operated_gamecube/"
   },
   {
-    "topic": "SIDEMEN AMONG US IS BACK",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,204,233 views \u2022 ~655m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=w50J1jWfC2o"
-  },
-  {
     "topic": "3 SCARY GAMES #110",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 366,106 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 443,962 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mOPRNQD6c60"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 336,637 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 386,678 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f-aAPIyuvgQ"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,615 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 209,794 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RwlT3hESUBA"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 318,837 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 345,444 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q_dJGrF9ulc"
   },
   {
@@ -224,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 166,372 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 203,799 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nHV9fzlGDSE"
+  },
+  {
+    "topic": "Can 7 Streamers Beat A Pro?",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 181,382 views \u2022 ~457m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5UJLZ7CmlXI"
   },
   {
     "topic": "Knight Of The Seven Kingdoms Episode 6 Finale Trailer Breakdown & Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 196,359 views \u2022 ~639m old",
+    "why": "Trending on YouTube \u2022 210,026 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DyU7ZPEhi-Q"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,296 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 25,724 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KeQi2EV-2NU"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,112 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 11,528 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-aLQdaOX5Z0"
   }
 ]
