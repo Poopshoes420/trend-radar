@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
   },
   {
-    "topic": "Pinterest has a clearly visible AI marker - Why can't youtube do the same?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ew6r/pinterest_has_a_clearly_visible_ai_marker_why/"
-  },
-  {
     "topic": "Why am I getting right wing sponsored ads in my feed? What is wrong with YouTube ads?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ut75/why_am_i_getting_right_wing_sponsored_ads_in_my/"
+  },
+  {
+    "topic": "Pinterest has a clearly visible AI marker - Why can't youtube do the same?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ew6r/pinterest_has_a_clearly_visible_ai_marker_why/"
   },
   {
     "topic": "Dougdoug come out in her new video",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,122,122 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 1,204,233 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w50J1jWfC2o"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,009 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 366,106 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mOPRNQD6c60"
+  },
+  {
+    "topic": "We Have Minecraft At Home... Part 2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 336,637 views \u2022 ~448m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=f-aAPIyuvgQ"
   },
   {
     "topic": "YoungBoy Never Broke Again - HeadTap [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,658 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 171,615 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RwlT3hESUBA"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,015 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 318,837 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q_dJGrF9ulc"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 135,875 views \u2022 ~352m old",
+    "why": "Trending on YouTube \u2022 166,372 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nHV9fzlGDSE"
   },
   {
@@ -224,39 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,479 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 196,359 views \u2022 ~639m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DyU7ZPEhi-Q"
-  },
-  {
-    "topic": "Booman II | Ca$ino Documentary",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 212,524 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5a5UlPi0PUM"
-  },
-  {
-    "topic": "The Mandalorian and Grogu | Trailer Tomorrow",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 94,061 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dsPcVOUmNKs"
-  },
-  {
-    "topic": "THE MANDALORIAN AND GROGU Trailer 2 Teaser (2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 65,764 views \u2022 ~702m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NhEZOOEXwx0"
   },
   {
     "topic": "Avengers Doomsday TRAILER UPDATE, INSANE FIGHT SCENE & RDJ Doom Tease!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,890 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 23,296 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KeQi2EV-2NU"
   },
   {
@@ -264,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,918 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 9,112 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-aLQdaOX5Z0"
   }
 ]
