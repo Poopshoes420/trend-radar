@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6vy31/youtube_is_disabling_comments_descriptions_if_you/"
   },
   {
-    "topic": "I'm so tired of these hyperbolic video titles, man.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nn8y/im_so_tired_of_these_hyperbolic_video_titles_man/"
-  },
-  {
     "topic": "Stop Auto-Dubbing!",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6z89w/stop_autodubbing/"
+  },
+  {
+    "topic": "I'm so tired of these hyperbolic video titles, man.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nn8y/im_so_tired_of_these_hyperbolic_video_titles_man/"
   },
   {
     "topic": "The amount of ads is actually embarrassing",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ut75/why_am_i_getting_right_wing_sponsored_ads_in_my/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6vtmz/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Germany\u2019s arms giant says it can flood Ukraine with ammo right now\u2014if Western governments unlock funding",
     "sources": [
       "reddit"
@@ -108,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r70sf6/germanys_arms_giant_says_it_can_flood_ukraine/"
   },
   {
-    "topic": "Ukraine makes fastest battlefield gain in 2.5 years",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6mfr5/ukraine_makes_fastest_battlefield_gain_in_25_years/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6vtmz/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "New Zealand Declares Prediction Markets Are Gambling",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r71uvi/new_zealand_declares_prediction_markets_are/"
+  },
+  {
+    "topic": "Ukraine makes fastest battlefield gain in 2.5 years",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6mfr5/ukraine_makes_fastest_battlefield_gain_in_25_years/"
   },
   {
     "topic": "Canada Completes $9.4B Darlington Nuclear Plant Rebuild Early, on Budget",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6zrrh/valve_breaks_its_silence_on_steam_deck_oled/"
   },
   {
-    "topic": "I tried Star Citizen so you don't have to! (and will tell you why you shouldn't)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6tu3y/i_tried_star_citizen_so_you_dont_have_to_and_will/"
-  },
-  {
     "topic": "Western Digital confirms having sold out all manufacturing capacity of Hard Drives for 2026, and that most of 2027 and 2028 are already pre-sold, adding further instability to the gaming PC market.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r72g8o/western_digital_confirms_having_sold_out_all/"
+  },
+  {
+    "topic": "I tried Star Citizen so you don't have to! (and will tell you why you shouldn't)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6tu3y/i_tried_star_citizen_so_you_dont_have_to_and_will/"
   },
   {
     "topic": "Ah yes, the small Indy developers Disney and Gameloft",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 964,734 views \u2022 ~135m old",
+    "why": "Trending on YouTube \u2022 971,768 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ONue961iIog"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 290,576 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 300,555 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RwlT3hESUBA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,884 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 57,276 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wymtRy0AviI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,718 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 14,893 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-aLQdaOX5Z0"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bYrHoTdEnPw"
   }
 ]
