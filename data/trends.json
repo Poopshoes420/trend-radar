@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Feels illegal to laugh",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r72ek0/feels_illegal_to_laugh/"
-  },
-  {
     "topic": "Delivery completed",
     "sources": [
       "reddit"
@@ -36,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7522d/delivery_completed/"
   },
   {
+    "topic": "Feels illegal to laugh",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r72ek0/feels_illegal_to_laugh/"
+  },
+  {
     "topic": "My son's daycare did not understand the assignment.",
     "sources": [
       "reddit"
@@ -43,6 +43,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r6u4fa/my_sons_daycare_did_not_understand_the_assignment/"
+  },
+  {
+    "topic": "James Charles Allegations Billboard",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7532u/james_charles_allegations_billboard/"
   },
   {
     "topic": "Youtube is disabling comments & descriptions if you have Adblock turned on EVEN IF YOU HAVE PREMIUM",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
   },
   {
-    "topic": "Why am I getting right wing sponsored ads in my feed? What is wrong with YouTube ads?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6ut75/why_am_i_getting_right_wing_sponsored_ads_in_my/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
     "sources": [
       "reddit"
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r71uvi/new_zealand_declares_prediction_markets_are/"
   },
   {
-    "topic": "Ukraine makes fastest battlefield gain in 2.5 years",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6mfr5/ukraine_makes_fastest_battlefield_gain_in_25_years/"
-  },
-  {
     "topic": "Iran fires missiles, Khamenei threatens to sink US warship as nuclear talks start",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r73ws8/iran_fires_missiles_khamenei_threatens_to_sink_us/"
+  },
+  {
+    "topic": "Ukraine forms F-16 squadron staffed by Ukrainian, US and Dutch pilots",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r71ktp/ukraine_forms_f16_squadron_staffed_by_ukrainian/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r62qjz/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Valve breaks its silence on Steam Deck OLED scarcity and yes, it's because of the RAM and storage crisis",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6zrrh/valve_breaks_its_silence_on_steam_deck_oled/"
-  },
-  {
     "topic": "Western Digital confirms having sold out all manufacturing capacity of Hard Drives for 2026, and that most of 2027 and 2028 are already pre-sold, adding further instability to the gaming PC market.",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r72g8o/western_digital_confirms_having_sold_out_all/"
+  },
+  {
+    "topic": "Valve breaks its silence on Steam Deck OLED scarcity and yes, it's because of the RAM and storage crisis",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6zrrh/valve_breaks_its_silence_on_steam_deck_oled/"
   },
   {
     "topic": "I tried Star Citizen so you don't have to! (and will tell you why you shouldn't)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 990,485 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 1,001,430 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ONue961iIog"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,344 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 86,460 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wymtRy0AviI"
+  },
+  {
+    "topic": "Shinedown - Safe And Sound (Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,803 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6Jwoiy1Z6hI"
   },
   {
     "topic": "Star Wars: The Empire Strikes Back",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bYrHoTdEnPw"
   }
 ]
