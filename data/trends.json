@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nn8y/im_so_tired_of_these_hyperbolic_video_titles_man/"
   },
   {
-    "topic": "The amount of ads is actually embarrassing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
-  },
-  {
     "topic": "Youtube is disabling comments & descriptions if you have Adblock turned on EVEN IF YOU HAVE PREMIUM",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6vy31/youtube_is_disabling_comments_descriptions_if_you/"
+  },
+  {
+    "topic": "The amount of ads is actually embarrassing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
   },
   {
     "topic": "Why am I getting right wing sponsored ads in my feed? What is wrong with YouTube ads?",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6razd/bloomberg_claims_rampant_ai_demand_for_memory_is/"
   },
   {
+    "topic": "Valve breaks its silence on Steam Deck OLED scarcity and yes, it's because of the RAM and storage crisis",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6zrrh/valve_breaks_its_silence_on_steam_deck_oled/"
+  },
+  {
     "topic": "I tried Star Citizen so you don't have to! (and will tell you why you shouldn't)",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6p8sk/ah_yes_the_small_indy_developers_disney_and/"
   },
   {
-    "topic": "Ladies and gentlemen, battery operated GameCube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6psne/ladies_and_gentlemen_battery_operated_gamecube/"
-  },
-  {
     "topic": "3 SCARY GAMES #110",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 482,923 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 525,477 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mOPRNQD6c60"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,509 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 446,460 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f-aAPIyuvgQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,612 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 251,594 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RwlT3hESUBA"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 227,766 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 252,963 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nHV9fzlGDSE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 196,631 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 210,723 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5UJLZ7CmlXI"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,009 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 24,418 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wymtRy0AviI"
-  },
-  {
-    "topic": "Avengers Doomsday TRAILER UPDATE, INSANE FIGHT SCENE & RDJ Doom Tease!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 26,771 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KeQi2EV-2NU"
   },
   {
     "topic": "EDC Las Vegas 2026 - Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,703 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 13,608 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-aLQdaOX5Z0"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~23m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bYrHoTdEnPw"
   }
 ]
