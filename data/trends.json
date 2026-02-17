@@ -1,14 +1,5 @@
 [
   {
-    "topic": "This is less a fight and more a very tense negotiation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r74g1q/this_is_less_a_fight_and_more_a_very_tense/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "This is less a fight and more a very tense negotiation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r74g1q/this_is_less_a_fight_and_more_a_very_tense/"
   },
   {
     "topic": "Delivery completed",
@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7522d/delivery_completed/"
   },
   {
-    "topic": "The origins of bread",
+    "topic": "The bathroom lock at a local coffee shop",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7cgts/the_origins_of_bread/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7b6qr/the_bathroom_lock_at_a_local_coffee_shop/"
   },
   {
     "topic": "Feels illegal to laugh",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nn8y/im_so_tired_of_these_hyperbolic_video_titles_man/"
   },
   {
-    "topic": "The amount of ads is actually embarrassing",
+    "topic": "Can't even watch real animal videos because 90% of them are AI",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r6nd82/the_amount_of_ads_is_actually_embarrassing/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r767gk/cant_even_watch_real_animal_videos_because_90_of/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r73ws8/iran_fires_missiles_khamenei_threatens_to_sink_us/"
   },
   {
-    "topic": "Stephen Colbert says CBS didn't air Rep. James Talarico interview out of fear of FCC",
+    "topic": "Russian Military Facility Near St. Petersburg Rocked by Explosion, Three Dead",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7cxl1/stephen_colbert_says_cbs_didnt_air_rep_james/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r78c0u/russian_military_facility_near_st_petersburg/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6zrrh/valve_breaks_its_silence_on_steam_deck_oled/"
   },
   {
+    "topic": "Highguard's Website Goes Down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7ee48/highguards_website_goes_down/"
+  },
+  {
     "topic": "I tried Star Citizen so you don't have to! (and will tell you why you shouldn't)",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r77qyj/as_an_og_god_of_war_fan_i_do_want_the_remake_to/"
   },
   {
-    "topic": "Ah yes, the small Indy developers Disney and Gameloft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6p8sk/ah_yes_the_small_indy_developers_disney_and/"
-  },
-  {
     "topic": "The Mandalorian and Grogu | Official Trailer | In Theaters May 22",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 881,633 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 1,342,017 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IHWlvwu8t1w"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,024,548 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 1,036,466 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ONue961iIog"
   },
   {
@@ -200,39 +200,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,388 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 33,367 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hWwXSb7dlnQ"
   },
   {
-    "topic": "Shinedown - Safe And Sound (Lyric Video)",
+    "topic": "White Feather Hawk Tail Deer Hunter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,086 views \u2022 ~306m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6Jwoiy1Z6hI"
-  },
-  {
-    "topic": "Digimon Story Time Stranger | Season Pass DLC3 Anti-ParadoX Teaser Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 12,828 views \u2022 ~245m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kfIsScJbH20"
+    "why": "Trending on YouTube \u2022 10,707 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Y5eMaCRbYds"
   },
   {
     "topic": "The Mandalorian and Grogu | Official Trailer REACTION!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,663 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 14,888 views \u2022 ~210m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-fRiy-S74Lg"
+  },
+  {
+    "topic": "Digimon Story Time Stranger | Season Pass DLC3 Anti-ParadoX Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 20,693 views \u2022 ~312m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kfIsScJbH20"
+  },
+  {
+    "topic": "Shinedown - Safe And Sound (Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 24,294 views \u2022 ~373m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6Jwoiy1Z6hI"
   },
   {
     "topic": "THE MANDALORIAN & GROGU Official Final Trailer (2026) Star Wars",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,628 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 10,347 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=akTLd02Oc0Y"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bYrHoTdEnPw"
   }
 ]
