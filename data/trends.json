@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6vtmz/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Germany\u2019s arms giant says it can flood Ukraine with ammo right now\u2014if Western governments unlock funding",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r70sf6/germanys_arms_giant_says_it_can_flood_ukraine/"
-  },
-  {
     "topic": "New Zealand Declares Prediction Markets Are Gambling",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r71uvi/new_zealand_declares_prediction_markets_are/"
+  },
+  {
+    "topic": "Germany\u2019s arms giant says it can flood Ukraine with ammo right now\u2014if Western governments unlock funding",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r70sf6/germanys_arms_giant_says_it_can_flood_ukraine/"
   },
   {
     "topic": "Iran fires missiles, Khamenei threatens to sink US warship as nuclear talks start",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r6p8sk/ah_yes_the_small_indy_developers_disney_and/"
   },
   {
+    "topic": "The Mandalorian and Grogu | Official Trailer | In Theaters May 22",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 502,198 views \u2022 ~188m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IHWlvwu8t1w"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ CLOAKZY | MANY MEN MONDAY | #ShartPocalypse #TheWalkingShart # BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,001,430 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 1,013,496 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ONue961iIog"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,460 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 97,776 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wymtRy0AviI"
   },
   {
@@ -200,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,803 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 13,075 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6Jwoiy1Z6hI"
+  },
+  {
+    "topic": "THE MANDALORIAN & GROGU Official Final Trailer (2026) Star Wars",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,622 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=akTLd02Oc0Y"
   },
   {
     "topic": "Star Wars: The Empire Strikes Back",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bYrHoTdEnPw"
   }
 ]
