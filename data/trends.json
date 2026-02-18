@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r88mg1/wait_a_secthis_isnt_part_of_the_script/"
   },
   {
-    "topic": "Oops Bathroom Sketch (THE ORIGINAL)",
+    "topic": "[OC] true",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7wfar/oops_bathroom_sketch_the_original/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8com4/oc_true/"
   },
   {
     "topic": "YouTube Shorts",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7sred/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
-  },
-  {
     "topic": "Major European allies decline to join first meeting of Trump\u2019s Board of Peace",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8ef3j/major_european_allies_decline_to_join_first/"
+  },
+  {
+    "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
   },
   {
     "topic": "Macron Blasts Social Media\u2019s Free Speech Defense as \u2018Bullshit\u2019",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r88tko/unreal_tournament_2004_is_now_available_for_free/"
   },
   {
+    "topic": "Todd Howard says 'The Elder Scrolls VI' will run on Creation Engine 3 (upgraded from 'Starfield') and is going back to the feel of a 'classic Bethesda game' ala Oblivion and Skyrim",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8g6vy/todd_howard_says_the_elder_scrolls_vi_will_run_on/"
+  },
+  {
     "topic": "It's 2001 and I'm playing the brand new expansions of my two favorite games",
     "sources": [
       "reddit"
@@ -171,60 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8234l/its_2001_and_im_playing_the_brand_new_expansions/"
   },
   {
-    "topic": "Sony Will Offset Soaring RAM Prices by Further Monetising PS5 Players",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7z7z5/sony_will_offset_soaring_ram_prices_by_further/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE - POPPY PLAYTIME CHAPTER 5",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,676,325 views \u2022 ~64m old",
+    "why": "Trending on YouTube \u2022 1,782,386 views \u2022 ~112m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bfu4BrHygzs"
-  },
-  {
-    "topic": "5-7 (Music Video) Karan Aujla | Mxrci | Alankriitaa Sahai | Rehaan Records | Punjabi Songs 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,532,282 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=x9RC77Oc-0Q"
   },
   {
     "topic": "Poppy Playtime Chapter 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 610,644 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 773,433 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_HQ_5p-k_DI"
-  },
-  {
-    "topic": "Vishnu Vinyasam - Official Teaser | Sree Vishnu | Yadunaath Maruthi Rao | Radhan",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 688,325 views \u2022 ~645m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fUJYDjfrQ7k"
   },
   {
     "topic": "Lee Cronin's The Mummy | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 314,446 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 470,958 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJ0uv-phsDk"
+  },
+  {
+    "topic": "Vishnu Vinyasam - Official Teaser | Sree Vishnu | Yadunaath Maruthi Rao | Radhan",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 704,367 views \u2022 ~694m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fUJYDjfrQ7k"
   },
   {
     "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,025 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 165,282 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
@@ -232,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,149 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 239,823 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TeVHh_hpm_0"
+  },
+  {
+    "topic": "Bruno Mars - I Just Might (Live at the 68th Annual Grammy Awards)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 355,362 views \u2022 ~529m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
   },
   {
     "topic": "Poppy Playtime Chapter 5 - Full Game Walkthrough (No Commentary) 4K",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,438 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 224,407 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6keGjTr-h6k"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,470 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 187,198 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orVyWVcpfxQ"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,630 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 65,751 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y3ziTSYyook"
   },
   {
@@ -264,7 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,617 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 25,829 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tNlOK3NEGXc"
+  },
+  {
+    "topic": "The Gates (2026) Official Trailer - Mason Gooding, Algee Smith, James Van Der Beek",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,893 views \u2022 ~469m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rooCFaczeXQ"
   }
 ]
