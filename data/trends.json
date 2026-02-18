@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7knh5/we_get_it_bro_you_drive_a_jeep/"
   },
   {
-    "topic": "Emotional Support Rotisserie Chicken",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7p2dd/emotional_support_rotisserie_chicken/"
-  },
-  {
     "topic": "What did I just watch !",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7tg6v/what_did_i_just_watch/"
+  },
+  {
+    "topic": "Emotional Support Rotisserie Chicken",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7p2dd/emotional_support_rotisserie_chicken/"
   },
   {
     "topic": "YouTube went down. 8:00pm.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 861,163 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 868,071 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2MViVv8vKa8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 644,336 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 673,920 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bxntgxuXkoY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 582,246 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 600,938 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m0BFZkPsoWY"
   },
   {
@@ -208,39 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,333 views \u2022 ~208m old",
+    "why": "Trending on YouTube \u2022 193,629 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EPd7zg1O-oc"
-  },
-  {
-    "topic": "BLOODMONEY 2: The Human Expenditure Program",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 487,613 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=h_uPq4vI5ng"
   },
   {
     "topic": "YOU vs The RANK You \"Deserve\"... (Rainbow Six Siege)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,440 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 253,100 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GlPjicLZx9k"
-  },
-  {
-    "topic": "I built a program to make Twitch Chat be nice to me",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 311,560 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OYf6n-tlLC0"
   },
   {
     "topic": "The Skin Stapler\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,932 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 215,452 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yDtIcozTOEk"
   },
   {
@@ -248,39 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,823 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 94,912 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ahDMZSLlj3I"
-  },
-  {
-    "topic": "VonOff1700 - Threw (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 94,844 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-gEWa87x2H4"
   },
   {
     "topic": "Mandalorian & Grogu Trailer BREAKDOWN - Every Star Wars Easter Egg You Missed",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,652 views \u2022 ~683m old",
+    "why": "Trending on YouTube \u2022 90,504 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rZkWjQlX5hE"
-  },
-  {
-    "topic": "Topoppgen - She Screaming Purr (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 60,658 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Qmnj1YNAH-I"
   },
   {
     "topic": "Hidden Cameos in the SPIDER-NOIR Trailer!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,715 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 57,408 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LLqgLhojcso"
   }
 ]
