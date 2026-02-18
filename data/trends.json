@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7wfar/oops_bathroom_sketch_the_original/"
   },
   {
-    "topic": "[OC] Fruity",
+    "topic": "My Chemistry Book",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82axv/oc_fruity/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r87qjb/my_chemistry_book/"
   },
   {
     "topic": "YouTube went down. 8:00pm.",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7sred/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "US Senator Lindsey Graham Threatens Danish Prime Minister Behind Closed Doors in Munich",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r88ne5/us_senator_lindsey_graham_threatens_danish_prime/"
+  },
+  {
     "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7ynd6/climber_on_trial_for_leaving_girlfriend_to_die_on/"
-  },
-  {
-    "topic": "Amazon deforestation on pace to be the lowest on record, says Brazil",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r852gw/amazon_deforestation_on_pace_to_be_the_lowest_on/"
   },
   {
     "topic": "Trump moves closer to a major war with Iran",
@@ -171,12 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7z7z5/sony_will_offset_soaring_ram_prices_by_further/"
   },
   {
-    "topic": "Developer at Wildlight insists that Highguard isn't dead and more content and updates are on the way. Website will be back eventually but is a low priority as \"reputational damage is already done.\"",
+    "topic": "Unreal Tournament 2004 is now available for free thanks to its fan community, and they've even updated the game for modern PCs: 'This is the first public patch for Unreal Tournament 2004 in over 20 years'",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r81zff/developer_at_wildlight_insists_that_highguard/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r88tko/unreal_tournament_2004_is_now_available_for_free/"
+  },
+  {
+    "topic": "Poppy Playtime Chapter 5 Release Countdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 733,612 views \u2022 ~56m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OO6WPtnG_6M"
   }
 ]
