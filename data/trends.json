@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oo3y/youtube_server_down_never_seen_this_before/"
   },
   {
+    "topic": "Can you tell what's wrong with this picture?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8b48v/can_you_tell_whats_wrong_with_this_picture/"
+  },
+  {
     "topic": "Is YouTube Down?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oxd3/is_youtube_down/"
-  },
-  {
-    "topic": "YOUTUBE IS DOWN WORLDWIDE\ud83d\udde3\ufe0f",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7phxd/youtube_is_down_worldwide/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1455, Part 1 (Thread #1602)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
   },
   {
-    "topic": "Macron Blasts Social Media\u2019s Free Speech Defense as \u2018Bullshit\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r89wix/macron_blasts_social_medias_free_speech_defense/"
-  },
-  {
     "topic": "Trump ally calls Danish PM \u2018little lady\u2019 in foul-mouthed Greenland rant",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8f9q2/trump_ally_calls_danish_pm_little_lady_in/"
+  },
+  {
+    "topic": "Macron Blasts Social Media\u2019s Free Speech Defense as \u2018Bullshit\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r89wix/macron_blasts_social_medias_free_speech_defense/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8234l/its_2001_and_im_playing_the_brand_new_expansions/"
   },
   {
-    "topic": "\ud83d\udd34LIVE - POPPY PLAYTIME CHAPTER 5",
+    "topic": "POPPY PLAYTIME CHAPTER 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,782,386 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 1,799,042 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bfu4BrHygzs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 773,433 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 876,035 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_HQ_5p-k_DI"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 470,958 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 545,382 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJ0uv-phsDk"
-  },
-  {
-    "topic": "Vishnu Vinyasam - Official Teaser | Sree Vishnu | Yadunaath Maruthi Rao | Radhan",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 704,367 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fUJYDjfrQ7k"
   },
   {
     "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 165,282 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 186,713 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
@@ -224,39 +216,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,823 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 274,070 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TeVHh_hpm_0"
-  },
-  {
-    "topic": "Bruno Mars - I Just Might (Live at the 68th Annual Grammy Awards)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 355,362 views \u2022 ~529m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
   },
   {
     "topic": "Poppy Playtime Chapter 5 - Full Game Walkthrough (No Commentary) 4K",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,407 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 254,300 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6keGjTr-h6k"
+  },
+  {
+    "topic": "Bruno Mars - I Just Might (Live at the 68th Annual Grammy Awards)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 373,871 views \u2022 ~557m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
   },
   {
     "topic": "CHAPTER 5 IS HERE & SO IS THE PROTOTYPE.. | Poppy Playtime (Chapter 5 - Full Game ENDING)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 187,198 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 217,776 views \u2022 ~374m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orVyWVcpfxQ"
+  },
+  {
+    "topic": "PLAYING POPPY PLAYTIME CHAPTER 5... (Full Game + Crazy Ending)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 165,805 views \u2022 ~376m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bZp1QRibllE"
   },
   {
     "topic": "U2 - American Obituary (Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,751 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 74,714 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y3ziTSYyook"
   },
   {
@@ -264,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,829 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 27,127 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tNlOK3NEGXc"
+  },
+  {
+    "topic": "Yung Miami - News Flash",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 10,119 views \u2022 ~197m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zcYsrK734nk"
   },
   {
     "topic": "The Gates (2026) Official Trailer - Mason Gooding, Algee Smith, James Van Der Beek",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,893 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 24,284 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rooCFaczeXQ"
   }
 ]
