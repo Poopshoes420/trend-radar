@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7knh5/we_get_it_bro_you_drive_a_jeep/"
   },
   {
-    "topic": "The bathroom lock at a local coffee shop",
+    "topic": "[OC] please help",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7b6qr/the_bathroom_lock_at_a_local_coffee_shop/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82b9a/oc_please_help/"
   },
   {
     "topic": "YouTube went down. 8:00pm.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oxd3/is_youtube_down/"
   },
   {
-    "topic": "now what D:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7os1e/now_what_d/"
-  },
-  {
     "topic": "YOUTUBE IS DOWN WORLDWIDE\ud83d\udde3\ufe0f",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7phxd/youtube_is_down_worldwide/"
+  },
+  {
+    "topic": "now what D:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7os1e/now_what_d/"
   },
   {
     "topic": "Zelenskyy: Unfair that Trump publicly urges Ukraine, not Russia, to make concessions for peace",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7z7z5/sony_will_offset_soaring_ram_prices_by_further/"
   },
   {
+    "topic": "It's 2001 and I'm playing the brand new expansions of my two favorite games",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8234l/its_2001_and_im_playing_the_brand_new_expansions/"
+  },
+  {
     "topic": "In a desperate attempt to undo the damage of accidentally wiping their fianc\u00e9e's Red Dead Redemption 2 save, someone paid $159 to enlist Arthur Morgan's voice actor Roger Clark to apologise for them",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7k5l3/in_a_desperate_attempt_to_undo_the_damage_of/"
   },
   {
-    "topic": "Took this photo of Aloy in Horizon Forbidden West. I really love how the war paint & battle regalia in HFW feel authentic rather than cheesy looking video game loot. Guerilla's commitment to anthropological consistency made the games aesthetic feel really organic.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7ox3a/took_this_photo_of_aloy_in_horizon_forbidden_west/"
-  },
-  {
     "topic": "KNOCKOUT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 344,961 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 392,562 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EPd7zg1O-oc"
   }
 ]
