@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7b6qr/the_bathroom_lock_at_a_local_coffee_shop/"
   },
   {
-    "topic": "This is less a fight and more a very tense negotiation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r74g1q/this_is_less_a_fight_and_more_a_very_tense/"
-  },
-  {
     "topic": "Delivery completed",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7522d/delivery_completed/"
+  },
+  {
+    "topic": "This is less a fight and more a very tense negotiation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r74g1q/this_is_less_a_fight_and_more_a_very_tense/"
   },
   {
     "topic": "James Charles Allegations Billboard",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r767gk/cant_even_watch_real_animal_videos_because_90_of/"
   },
   {
-    "topic": "What is youtube recommending me.",
+    "topic": "YouTube genuinely tries to rage bait you into paying for premium.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7d374/what_is_youtube_recommending_me/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6vtmz/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7i5a4/youtube_genuinely_tries_to_rage_bait_you_into/"
   },
   {
     "topic": "\u201cWe simply don\u2019t have any left\u201d: Germany has run out of air defense missiles for Ukraine, foreign minister says",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7huaj/we_simply_dont_have_any_left_germany_has_run_out/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1454, Part 1 (Thread #1601)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r6vtmz/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Zelensky says Ukrainian public won't let him hand Russia territory",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,174,210 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 3,256,800 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IHWlvwu8t1w"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 309,776 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 331,004 views \u2022 ~397m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VjUmd-a7LI0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,554 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 132,065 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OYf6n-tlLC0"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,769 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 183,071 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y5eMaCRbYds"
+  },
+  {
+    "topic": "Twenty One Pilots - Drag Path (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 24,290 views \u2022 ~59m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m0BFZkPsoWY"
   },
   {
     "topic": "Gunna - forever be mine (feat. Wizkid) [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,264 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 133,554 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HX2cgqnbk1A"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,396 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 73,853 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EplRl80NA8c"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,808 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 85,852 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hWwXSb7dlnQ"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,622 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 37,844 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-gEWa87x2H4"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,335 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 51,270 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qz_N8LPepxM"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,928 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 28,714 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rZkWjQlX5hE"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,777 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 59,705 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vvC3SeLk1mM"
   },
   {
@@ -272,39 +280,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,274 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 33,349 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o6NHHpue4Xs"
-  },
-  {
-    "topic": "The Mandalorian and Grogu | Official Trailer REACTION!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 36,170 views \u2022 ~476m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-fRiy-S74Lg"
   },
   {
     "topic": "Topoppgen - She Screaming Purr (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,289 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 18,529 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qmnj1YNAH-I"
   },
   {
-    "topic": "Shinedown - Safe And Sound (Lyric Video)",
+    "topic": "The Mandalorian and Grogu | Official Trailer REACTION!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,605 views \u2022 ~639m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6Jwoiy1Z6hI"
+    "why": "Trending on YouTube \u2022 37,430 views \u2022 ~497m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-fRiy-S74Lg"
   },
   {
     "topic": "THE MANDALORIAN & GROGU Official Final Trailer (2026) Star Wars",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,634 views \u2022 ~569m old",
+    "why": "Trending on YouTube \u2022 25,280 views \u2022 ~590m old",
     "exampleUrl": "https://www.youtube.com/watch?v=akTLd02Oc0Y"
   }
 ]
