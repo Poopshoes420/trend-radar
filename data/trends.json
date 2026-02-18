@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "What did I just watch !",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7tg6v/what_did_i_just_watch/"
-  },
-  {
     "topic": "We get it bro you drive a Jeep",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7p2dd/emotional_support_rotisserie_chicken/"
+  },
+  {
+    "topic": "The bathroom lock at a local coffee shop",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7b6qr/the_bathroom_lock_at_a_local_coffee_shop/"
   },
   {
     "topic": "YouTube went down. 8:00pm.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7os1e/now_what_d/"
   },
   {
-    "topic": "YouTube down for anyone else?",
+    "topic": "YOUTUBE IS DOWN WORLDWIDE\ud83d\udde3\ufe0f",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7ontz/youtube_down_for_anyone_else/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7phxd/youtube_is_down_worldwide/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1455, Part 1 (Thread #1602)",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r62qjz/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Simple Questions Sunday!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
+  },
+  {
     "topic": "In a desperate attempt to undo the damage of accidentally wiping their fianc\u00e9e's Red Dead Redemption 2 save, someone paid $159 to enlist Arthur Morgan's voice actor Roger Clark to apologise for them",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7hksg/tencent_was_the_secret_primary_financial_backer/"
   },
   {
-    "topic": "The Most Broken Weapon In Halo History",
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS GONE SEGXUALLLLL!!!! w/ Cloakzy | TESTICULAR TORSION TUESDAY | #BUNGULATE",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7jghm/the_most_broken_weapon_in_halo_history/"
+    "why": "Trending on YouTube \u2022 798,363 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jdtEUlS1Rww"
   },
   {
     "topic": "TACO TUESDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 880,755 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 894,937 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2MViVv8vKa8"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 723,672 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 762,736 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bxntgxuXkoY"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 640,371 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 674,892 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m0BFZkPsoWY"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 228,880 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 260,532 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EPd7zg1O-oc"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,876 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 308,533 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GlPjicLZx9k"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,539 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 252,578 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yDtIcozTOEk"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,765 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 106,105 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ahDMZSLlj3I"
   }
 ]
