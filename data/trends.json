@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7wfar/oops_bathroom_sketch_the_original/"
   },
   {
-    "topic": "[OC] Fruity",
+    "topic": "Wait a sec....This isn't part of the script!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82axv/oc_fruity/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r88mg1/wait_a_secthis_isnt_part_of_the_script/"
   },
   {
     "topic": "YouTube went down. 8:00pm.",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7onh1/youtube_went_down_800pm/"
   },
   {
-    "topic": "YouTube Server Down - Never Seen This Before",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oo3y/youtube_server_down_never_seen_this_before/"
-  },
-  {
     "topic": "YouTube Shorts",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r87uch/youtube_shorts/"
+  },
+  {
+    "topic": "YouTube Server Down - Never Seen This Before",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oo3y/youtube_server_down_never_seen_this_before/"
   },
   {
     "topic": "Is YouTube Down?",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r89wix/macron_blasts_social_medias_free_speech_defense/"
   },
   {
+    "topic": "Major European allies decline to join first meeting of Trump\u2019s Board of Peace",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8ef3j/major_european_allies_decline_to_join_first/"
+  },
+  {
     "topic": "Amazon deforestation on pace to be the lowest on record, says Brazil",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r852gw/amazon_deforestation_on_pace_to_be_the_lowest_on/"
-  },
-  {
-    "topic": "Israel on high alert as officials assess imminent US strike on Iran; security cabinet meeting postponed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8c7so/israel_on_high_alert_as_officials_assess_imminent/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7z7z5/sony_will_offset_soaring_ram_prices_by_further/"
   },
   {
+    "topic": "\ud83d\udd34LIVE - POPPY PLAYTIME CHAPTER 5",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,596,157 views \u2022 ~34m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bfu4BrHygzs"
+  },
+  {
     "topic": "5-7 (Music Video) Karan Aujla | Mxrci | Alankriitaa Sahai | Rehaan Records | Punjabi Songs 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,445,648 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 1,497,878 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x9RC77Oc-0Q"
   },
   {
@@ -192,15 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 412,019 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 514,318 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_HQ_5p-k_DI"
+  },
+  {
+    "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 101,770 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
+  },
+  {
+    "topic": "Vishnu Vinyasam - Official Teaser | Sree Vishnu | Yadunaath Maruthi Rao | Radhan",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 671,107 views \u2022 ~616m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fUJYDjfrQ7k"
   },
   {
     "topic": "Lee Cronin's The Mummy | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,781 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 242,803 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJ0uv-phsDk"
   },
   {
@@ -208,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,491 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 306,272 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
   },
   {
@@ -216,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,316 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 154,072 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TeVHh_hpm_0"
+  },
+  {
+    "topic": "Poppy Playtime Chapter 5 - Full Game Walkthrough (No Commentary) 4K",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 145,030 views \u2022 ~270m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6keGjTr-h6k"
   },
   {
     "topic": "CHAPTER 5 IS HERE & SO IS THE PROTOTYPE.. | Poppy Playtime (Chapter 5 - Full Game ENDING)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,346 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 115,528 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orVyWVcpfxQ"
   },
   {
@@ -232,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,906 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 21,968 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tNlOK3NEGXc"
   }
 ]
