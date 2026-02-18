@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82b9a/oc_please_help/"
   },
   {
-    "topic": "Miracle \ud83d\ude4f",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8altx/miracle/"
-  },
-  {
     "topic": "Oops Bathroom Sketch (THE ORIGINAL)",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7wfar/oops_bathroom_sketch_the_original/"
+  },
+  {
+    "topic": "[OC] Fruity",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82axv/oc_fruity/"
   },
   {
     "topic": "YouTube went down. 8:00pm.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r852gw/amazon_deforestation_on_pace_to_be_the_lowest_on/"
   },
   {
-    "topic": "[Canada] Conservative MP Matt Jeneroux joins Liberal caucus: Carney",
+    "topic": "Israel on high alert as officials assess imminent US strike on Iran; security cabinet meeting postponed",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r86pby/canada_conservative_mp_matt_jeneroux_joins/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8c7so/israel_on_high_alert_as_officials_assess_imminent/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r7z7z5/sony_will_offset_soaring_ram_prices_by_further/"
   },
   {
+    "topic": "5-7 (Music Video) Karan Aujla | Mxrci | Alankriitaa Sahai | Rehaan Records | Punjabi Songs 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,445,648 views \u2022 ~638m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x9RC77Oc-0Q"
+  },
+  {
     "topic": "Poppy Playtime Chapter 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 287,056 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 412,019 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_HQ_5p-k_DI"
   },
   {
@@ -192,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,156 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 168,781 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJ0uv-phsDk"
+  },
+  {
+    "topic": "Bruno Mars - I Just Might (Live at the 68th Annual Grammy Awards)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 279,491 views \u2022 ~411m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
   },
   {
     "topic": "Poppy Playtime: Chapter 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,284 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 112,316 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TeVHh_hpm_0"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,628 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 83,346 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orVyWVcpfxQ"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,299 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 19,906 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tNlOK3NEGXc"
   }
 ]
