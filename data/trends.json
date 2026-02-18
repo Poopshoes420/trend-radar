@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82b9a/oc_please_help/"
   },
   {
-    "topic": "Oops Bathroom Sketch (THE ORIGINAL)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7wfar/oops_bathroom_sketch_the_original/"
-  },
-  {
     "topic": "Wait a sec....This isn't part of the script!",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r88mg1/wait_a_secthis_isnt_part_of_the_script/"
   },
   {
-    "topic": "YouTube went down. 8:00pm.",
+    "topic": "Oops Bathroom Sketch (THE ORIGINAL)",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7onh1/youtube_went_down_800pm/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r7wfar/oops_bathroom_sketch_the_original/"
   },
   {
     "topic": "YouTube Shorts",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r87uch/youtube_shorts/"
+  },
+  {
+    "topic": "YouTube went down. 8:00pm.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7onh1/youtube_went_down_800pm/"
   },
   {
     "topic": "YouTube Server Down - Never Seen This Before",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
   },
   {
-    "topic": "Macron Blasts Social Media\u2019s Free Speech Defense as \u2018Bullshit\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r89wix/macron_blasts_social_medias_free_speech_defense/"
-  },
-  {
     "topic": "Major European allies decline to join first meeting of Trump\u2019s Board of Peace",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8ef3j/major_european_allies_decline_to_join_first/"
   },
   {
-    "topic": "Amazon deforestation on pace to be the lowest on record, says Brazil",
+    "topic": "Macron Blasts Social Media\u2019s Free Speech Defense as \u2018Bullshit\u2019",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r852gw/amazon_deforestation_on_pace_to_be_the_lowest_on/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r89wix/macron_blasts_social_medias_free_speech_defense/"
+  },
+  {
+    "topic": "Trump ally calls Danish PM \u2018little lady\u2019 in foul-mouthed Greenland rant",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8f9q2/trump_ally_calls_danish_pm_little_lady_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,596,157 views \u2022 ~34m old",
+    "why": "Trending on YouTube \u2022 1,676,325 views \u2022 ~64m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bfu4BrHygzs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,497,878 views \u2022 ~677m old",
+    "why": "Trending on YouTube \u2022 1,532,282 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x9RC77Oc-0Q"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 514,318 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 610,644 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_HQ_5p-k_DI"
-  },
-  {
-    "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 101,770 views \u2022 ~91m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
     "topic": "Vishnu Vinyasam - Official Teaser | Sree Vishnu | Yadunaath Maruthi Rao | Radhan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 671,107 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 688,325 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fUJYDjfrQ7k"
   },
   {
@@ -224,23 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 242,803 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 314,446 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJ0uv-phsDk"
   },
   {
-    "topic": "Bruno Mars - I Just Might (Live at the 68th Annual Grammy Awards)",
+    "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,272 views \u2022 ~451m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
+    "why": "Trending on YouTube \u2022 123,025 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
     "topic": "Poppy Playtime: Chapter 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,072 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 188,149 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TeVHh_hpm_0"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,030 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 175,438 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6keGjTr-h6k"
   },
   {
@@ -256,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,528 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 143,470 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orVyWVcpfxQ"
+  },
+  {
+    "topic": "U2 - American Obituary (Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 50,630 views \u2022 ~299m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Y3ziTSYyook"
   },
   {
     "topic": "NBA 2K26 | Season 5 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,968 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 23,617 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tNlOK3NEGXc"
   }
 ]
