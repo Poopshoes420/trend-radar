@@ -54,24 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r87uch/youtube_shorts/"
   },
   {
-    "topic": "YouTube went down. 8:00pm.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7onh1/youtube_went_down_800pm/"
-  },
-  {
-    "topic": "YouTube Server Down - Never Seen This Before",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oo3y/youtube_server_down_never_seen_this_before/"
-  },
-  {
     "topic": "Maybe his could be the logo for YouTube when the servers are down lol",
     "sources": [
       "reddit"
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8lcmx/did_anybody_else_get_this_new_youtube_gui/"
+  },
+  {
+    "topic": "YouTube went down. 8:00pm.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7onh1/youtube_went_down_800pm/"
+  },
+  {
+    "topic": "YouTube Server Down - Never Seen This Before",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oo3y/youtube_server_down_never_seen_this_before/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1456, Part 1 (Thread #1603)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8f9q2/trump_ally_calls_danish_pm_little_lady_in/"
   },
   {
-    "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
-  },
-  {
     "topic": "Zelensky says Ukraine won\u2019t withdraw from Donbas, 'won\u2019t lose dignity' as peace talks stall on territory",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8p9ll/zelensky_says_ukraine_wont_withdraw_from_donbas/"
+  },
+  {
+    "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
   },
   {
     "topic": "Rihanna's reaction to C\u00e9line Dion saying 'Love on the Brain' should have been hers: \"She\u2019s C\u00e9line Dion, she can have whatever she wants of mine.\"",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
   },
   {
-    "topic": "Todd Howard says Bethesda will return to 'that classic style' for Elder Scrolls 6: 'Fallout 76 and Starfield are a little bit of a creative detour'",
+    "topic": "I can't think of a lot of situations that are THIS stressful in gaming (Dead Space 2, 2011)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8llke/todd_howard_says_bethesda_will_return_to_that/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8kuvb/i_cant_think_of_a_lot_of_situations_that_are_this/"
   },
   {
     "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 451,703 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 482,264 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,545 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 238,739 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4lU_-AsVdOI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,231 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 213,272 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JItNnHx7N_g"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,624 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 75,542 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q1qcktWJ2n8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,964 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 66,386 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R7avTb3RdnE"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,010 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 68,923 views \u2022 ~618m old",
     "exampleUrl": "https://www.youtube.com/watch?v=46fBCS0vi_0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,651 views \u2022 ~615m old",
+    "why": "Trending on YouTube \u2022 71,821 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zcYsrK734nk"
   },
   {
@@ -240,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,876 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 72,094 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ugz0eOaNrsA"
-  },
-  {
-    "topic": "Over Your Dead Body | Official Trailer ft. Samara Weaving & Jason Segel \ufeff| Independent Film Company",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 43,025 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pGxKTIegUZ4"
   }
 ]
