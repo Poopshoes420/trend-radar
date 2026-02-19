@@ -1,5 +1,14 @@
 [
   {
+    "topic": "resemblance",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9d08t/resemblance/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r90id9/first_payment_on_a_30year_mortgage/"
-  },
-  {
-    "topic": "resemblance",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9d08t/resemblance/"
   },
   {
     "topic": "It caught me off guard",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r90yh9/whoever_came_up_with_this_genius_feature_needs_an/"
   },
   {
-    "topic": "THIS IS SOME GRADE A BULSHIT",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
-  },
-  {
     "topic": "literally has nothing to do with the video",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9b7ap/literally_has_nothing_to_do_with_the_video/"
+  },
+  {
+    "topic": "THIS IS SOME GRADE A BULSHIT",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
   },
   {
     "topic": "I swear to God..",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9ar60/slay_the_spire_2_early_access_trailer/"
   },
   {
+    "topic": "BOSTON MAJOR | MAIN STREAM | DAY 1 | GROUP STAGE | RLCS 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 224,747 views \u2022 ~51m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=37sKQzAb25Q"
+  },
+  {
     "topic": "House of the Dragon Season 3 | Official Teaser | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,451,691 views \u2022 ~440m old",
+    "why": "Trending on YouTube \u2022 1,504,113 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i6w7O1kwuBk"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 955,966 views \u2022 ~560m old",
+    "why": "Trending on YouTube \u2022 1,013,560 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 324,742 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 359,351 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nDGEWgzcxJ4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,552 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 172,523 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PW22jwFNxU8"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 242,801 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 262,145 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WujjCSEJcDk"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,824 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 226,217 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yKnP08Xoci4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,674 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 225,264 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LC0XfI25wro"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,644 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 120,797 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e6YqICT3PzM"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,278 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 94,171 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VLAKfS3RlB0"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,083 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 115,259 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8sMdT9pkvKE"
   }
 ]
