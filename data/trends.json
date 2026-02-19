@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "And here I thought bowling was for everyone",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8sb1p/and_here_i_thought_bowling_was_for_everyone/"
+  },
+  {
     "topic": "Meeting your best friend for the first time.",
     "sources": [
       "reddit"
@@ -27,15 +36,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8kwjs/my_8_year_old_made_this_out_of_clay_enjoy/"
   },
   {
-    "topic": "And here I thought bowling was for everyone",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8sb1p/and_here_i_thought_bowling_was_for_everyone/"
-  },
-  {
     "topic": "The brutal honesty of a toddler",
     "sources": [
       "reddit"
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8wzf5/the_brutal_honesty_of_a_toddler/"
   },
   {
-    "topic": "YouTube Shorts",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r87uch/youtube_shorts/"
-  },
-  {
     "topic": "THIS IS SOME GRADE A BULSHIT",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
+  },
+  {
+    "topic": "YouTube Shorts",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r87uch/youtube_shorts/"
   },
   {
     "topic": "Maybe his could be the logo for YouTube when the servers are down lol",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8lcmx/did_anybody_else_get_this_new_youtube_gui/"
   },
   {
-    "topic": "Can you tell what's wrong with this picture?",
+    "topic": "Ive already fixed this issue but im just going to leave this screenshot here because I think its funny",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8b48v/can_you_tell_whats_wrong_with_this_picture/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v2ji/ive_already_fixed_this_issue_but_im_just_going_to/"
   },
   {
     "topic": "Former South Korean President Yoon Sentenced to Life in Prison for Coup Attempt",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8kuvb/i_cant_think_of_a_lot_of_situations_that_are_this/"
   },
   {
-    "topic": "Todd Howard says 'The Elder Scrolls VI' will run on Creation Engine 3 (upgraded from 'Starfield') and is going back to the feel of a 'classic Bethesda game' ala Oblivion and Skyrim",
+    "topic": "Become - Official Announcement Trailer",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8g6vy/todd_howard_says_the_elder_scrolls_vi_will_run_on/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8o0a9/become_official_announcement_trailer/"
+  },
+  {
+    "topic": "Sirius - The Untold Lore (Brawl Stars Animation)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,675,578 views \u2022 ~351m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS (GONE SEGXUALLLLLL!!!!) | #Shart3TimesInABucket&HuffIt #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 951,507 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 960,637 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lP_uCm4Y3Fs"
   }
 ]
