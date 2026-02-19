@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8sb1p/and_here_i_thought_bowling_was_for_everyone/"
   },
   {
-    "topic": "Justellinthetruth\ud83d\ude01",
+    "topic": "Winter's Journey: A Single Picture Story",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8wb68/justellinthetruth/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r980e7/winters_journey_a_single_picture_story/"
+  },
+  {
+    "topic": "There are kids on YouTube bruh. This shouldn't be allowed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r991ds/there_are_kids_on_youtube_bruh_this_shouldnt_be/"
   },
   {
     "topic": "Whoever came up with this genius feature needs an award or sumn \ud83e\udd40 (It shows Nothing)",
@@ -61,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
-  },
-  {
-    "topic": "There are kids on YouTube bruh. This shouldn't be allowed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r991ds/there_are_kids_on_youtube_bruh_this_shouldnt_be/"
   },
   {
     "topic": "Is it just me who it so tired of these types of comments?",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r94f4d/santa_monica_studio_kratos_kratos_twenty_years/"
   },
   {
-    "topic": "It was a struggle at times but he persevered.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
-  },
-  {
     "topic": "Bloomberg: Sony Shuts Down 'Demon's Souls' Remake Developer Bluepoint Games",
     "sources": [
       "reddit"
@@ -180,51 +171,68 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r97z13/bloomberg_sony_shuts_down_demons_souls_remake/"
   },
   {
+    "topic": "It was a struggle at times but he persevered.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
+  },
+  {
     "topic": "House of the Dragon Season 3 | Official Teaser | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 923,923 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 1,041,780 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i6w7O1kwuBk"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC RAIDERS (GONE SEGXUALLLLLL!!!!) | #Shart3TimesInABucket&HuffIt #BUNGULATE",
+    "topic": "PRESSURE - Official Trailer [HD] - Only In Theaters May 29",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,013,628 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
+    "why": "Trending on YouTube \u2022 492,906 views \u2022 ~297m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zdM4tdLQBg0"
   },
   {
     "topic": "Peaky Blinders: The Immortal Man | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 536,249 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 619,040 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
   },
   {
-    "topic": "Xenoblade Chronicles X: Definitive Edition \u2014 Nintendo Switch 2 Edition \u2014 Announcement Trailer",
+    "topic": "\ud83d\udd34LIVE | ARC RAIDERS (GONE SEGXUALLLLLL!!!!) | #Shart3TimesInABucket&HuffIt #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,009 views \u2022 ~382m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LC0XfI25wro"
+    "why": "Trending on YouTube \u2022 1,019,214 views \u2022 ~700m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
   },
   {
     "topic": "PRESSURE Official Trailer (2026) Brendan Fraser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,712 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 141,512 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nDGEWgzcxJ4"
+  },
+  {
+    "topic": "Xenoblade Chronicles X: Definitive Edition \u2014 Nintendo Switch 2 Edition \u2014 Announcement Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 199,847 views \u2022 ~417m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LC0XfI25wro"
   },
   {
     "topic": "Booman III | Ca$ino Documentary",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,277 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 68,603 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e6YqICT3PzM"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,450 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 59,977 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8sMdT9pkvKE"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,545 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 61,314 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1wZTfa-2hQs"
   }
 ]
