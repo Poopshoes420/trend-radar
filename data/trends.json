@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8sb1p/and_here_i_thought_bowling_was_for_everyone/"
   },
   {
-    "topic": "My Chemistry Book",
+    "topic": "The brutal honesty of a toddler",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r87qjb/my_chemistry_book/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8wzf5/the_brutal_honesty_of_a_toddler/"
   },
   {
     "topic": "YouTube Shorts",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r87uch/youtube_shorts/"
+  },
+  {
+    "topic": "THIS IS SOME GRADE A BULSHIT",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
   },
   {
     "topic": "Maybe his could be the logo for YouTube when the servers are down lol",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8lcmx/did_anybody_else_get_this_new_youtube_gui/"
-  },
-  {
-    "topic": "THIS IS SOME GRADE A BULSHIT",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
   },
   {
     "topic": "Can you tell what's wrong with this picture?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8p3ds/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8vfai/andrew_mountbattenwindsor_arrested_on_suspicion/"
-  },
-  {
     "topic": "Andrew Mountbatten-Windsor arrested on 'misconduct in office' allegations",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8vg2d/andrew_mountbattenwindsor_arrested_on_misconduct/"
+  },
+  {
+    "topic": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8vfai/andrew_mountbattenwindsor_arrested_on_suspicion/"
   },
   {
     "topic": "Major European allies decline to join first meeting of Trump\u2019s Board of Peace",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 944,653 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 951,507 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
-  },
-  {
-    "topic": "Daredevil Born Again Season 2 Trailer: Spider-Man Brand New Day & Wonder Man Easter Eggs",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 42,035 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=r5JIfpFBM4s"
   },
   {
     "topic": "Avengers: Infinity War",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lP_uCm4Y3Fs"
   }
 ]
