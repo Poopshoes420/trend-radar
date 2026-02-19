@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8kq7k/meeting_your_best_friend_for_the_first_time/"
   },
   {
-    "topic": "THIS IS SOME GRADE A BULSHIT",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
-  },
-  {
     "topic": "Whoever came up with this genius feature needs an award or sumn \ud83e\udd40 (It shows Nothing)",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r90yh9/whoever_came_up_with_this_genius_feature_needs_an/"
+  },
+  {
+    "topic": "THIS IS SOME GRADE A BULSHIT",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
   },
   {
     "topic": "YouTube Shorts",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "It was a struggle at times but he persevered.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
-  },
-  {
     "topic": "[Santa Monica Studio] \"Kratos \ud83e\udd1d Kratos Twenty years. Two Gods of War. One amazing legacy.\"",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r94f4d/santa_monica_studio_kratos_kratos_twenty_years/"
+  },
+  {
+    "topic": "It was a struggle at times but he persevered.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
   },
   {
     "topic": "I can't think of a lot of situations that are THIS stressful in gaming (Dead Space 2, 2011)",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,692,679 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 3,000,107 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
+  },
+  {
+    "topic": "House of the Dragon Season 3 | Official Teaser | HBO Max",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 444,580 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i6w7O1kwuBk"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS (GONE SEGXUALLLLLL!!!!) | #Shart3TimesInABucket&HuffIt #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 987,999 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 998,220 views \u2022 ~527m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,150 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 263,765 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 111,862 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 138,140 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LC0XfI25wro"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,522 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 39,122 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1wZTfa-2hQs"
   }
 ]
