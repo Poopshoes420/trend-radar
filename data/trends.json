@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "And here I thought bowling was for everyone",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8sb1p/and_here_i_thought_bowling_was_for_everyone/"
-  },
-  {
     "topic": "The brutal honesty of a toddler",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8wzf5/the_brutal_honesty_of_a_toddler/"
+  },
+  {
+    "topic": "And here I thought bowling was for everyone",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8sb1p/and_here_i_thought_bowling_was_for_everyone/"
   },
   {
     "topic": "Meeting your best friend for the first time.",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8v1ab/this_is_some_grade_a_bulshit/"
+  },
+  {
+    "topic": "Whoever came up with this genius feature needs an award or sumn \ud83e\udd40 (It shows Nothing)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r90yh9/whoever_came_up_with_this_genius_feature_needs_an/"
   },
   {
     "topic": "YouTube Shorts",
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8pqc4/maybe_his_could_be_the_logo_for_youtube_when_the/"
   },
   {
-    "topic": "Did anybody else get this new YouTube GUI?",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1456, Part 1 (Thread #1603)",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8lcmx/did_anybody_else_get_this_new_youtube_gui/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8p3ds/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Former South Korean President Yoon Sentenced to Life in Prison for Coup Attempt",
@@ -97,15 +106,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8sk9s/former_south_korean_president_yoon_sentenced_to/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1456, Part 1 (Thread #1603)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8p3ds/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,967,971 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 2,311,212 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
   },
   {
@@ -192,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 968,438 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 977,541 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
+  },
+  {
+    "topic": "Xenoblade Chronicles X: Definitive Edition \u2014 Nintendo Switch 2 Edition \u2014 Announcement Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 73,138 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LC0XfI25wro"
   }
 ]
