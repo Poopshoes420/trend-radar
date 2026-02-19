@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Meeting your best friend for the first time.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8kq7k/meeting_your_best_friend_for_the_first_time/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -7,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "My 8 year old made this out of clay. Enjoy.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8kwjs/my_8_year_old_made_this_out_of_clay_enjoy/"
   },
   {
     "topic": "My Chemistry Book",
@@ -18,15 +36,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r87qjb/my_chemistry_book/"
   },
   {
-    "topic": "Meeting your best friend for the first time.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8kq7k/meeting_your_best_friend_for_the_first_time/"
-  },
-  {
     "topic": "[OC] true",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r8com4/oc_true/"
-  },
-  {
-    "topic": "[OC] please help",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r82b9a/oc_please_help/"
   },
   {
     "topic": "YouTube Shorts",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r8b48v/can_you_tell_whats_wrong_with_this_picture/"
   },
   {
-    "topic": "Is YouTube Down?",
+    "topic": "YOUTUBE IS DOWN WORLDWIDE\ud83d\udde3\ufe0f",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7oxd3/is_youtube_down/"
-  },
-  {
-    "topic": "Major European allies decline to join first meeting of Trump\u2019s Board of Peace",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8ef3j/major_european_allies_decline_to_join_first/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r7phxd/youtube_is_down_worldwide/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1455, Part 1 (Thread #1602)",
@@ -108,22 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r7sred/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
+    "topic": "Major European allies decline to join first meeting of Trump\u2019s Board of Peace",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
-  },
-  {
-    "topic": "US military prepared to strike Iran as early as this weekend, but Trump has yet to make a final call, sources say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8jkb7/us_military_prepared_to_strike_iran_as_early_as/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8ef3j/major_european_allies_decline_to_join_first/"
   },
   {
     "topic": "Trump ally calls Danish PM \u2018little lady\u2019 in foul-mouthed Greenland rant",
@@ -133,6 +115,33 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8f9q2/trump_ally_calls_danish_pm_little_lady_in/"
+  },
+  {
+    "topic": "Kremlin threatens to deploy navy if Europe seizes more Russian shadow fleet vessels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r845ms/kremlin_threatens_to_deploy_navy_if_europe_seizes/"
+  },
+  {
+    "topic": "Macron Blasts Social Media\u2019s Free Speech Defense as \u2018Bullshit\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r89wix/macron_blasts_social_medias_free_speech_defense/"
+  },
+  {
+    "topic": "Rihanna's reaction to C\u00e9line Dion saying 'Love on the Brain' should have been hers: \"She\u2019s C\u00e9line Dion, she can have whatever she wants of mine.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1r8lyuw/rihannas_reaction_to_c\u00e9line_dion_saying_love_on/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,38 +162,37 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Todd Howard says 'The Elder Scrolls VI' will run on Creation Engine 3 (upgraded from 'Starfield') and is going back to the feel of a 'classic Bethesda game' ala Oblivion and Skyrim",
+    "topic": "It was a struggle at times but he persevered.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8g6vy/todd_howard_says_the_elder_scrolls_vi_will_run_on/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
   },
   {
-    "topic": "Unreal Tournament 2004 is now available for free thanks to its fan community, and they've even updated the game for modern PCs: 'This is the first public patch for Unreal Tournament 2004 in over 20 years'",
+    "topic": "Todd Howard says Bethesda will return to 'that classic style' for Elder Scrolls 6: 'Fallout 76 and Starfield are a little bit of a creative detour'",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r88tko/unreal_tournament_2004_is_now_available_for_free/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8llke/todd_howard_says_bethesda_will_return_to_that/"
   },
   {
-    "topic": "It's 2001 and I'm playing the brand new expansions of my two favorite games",
+    "topic": "Wednesday 2/18",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8234l/its_2001_and_im_playing_the_brand_new_expansions/"
+    "why": "Trending on YouTube \u2022 331,074 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AKgA0pXpmGE"
   },
   {
     "topic": "Poppy Playtime Chapter 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,254,977 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 1,721,182 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_HQ_5p-k_DI"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 969,061 views \u2022 ~486m old",
+    "why": "Trending on YouTube \u2022 1,560,748 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XJ0uv-phsDk"
-  },
-  {
-    "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 264,783 views \u2022 ~306m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
     "topic": "Poppy Playtime: Chapter 5 (FULL GAME)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 393,114 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 528,927 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TeVHh_hpm_0"
+  },
+  {
+    "topic": "Lana Del Rey - White Feather Hawk Tail Deer Hunter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 369,624 views \u2022 ~465m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S1stZOAIcW4"
   },
   {
     "topic": "Poppy Playtime Chapter 5 - Full Game Walkthrough (No Commentary) 4K",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 361,876 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 499,468 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6keGjTr-h6k"
   },
   {
@@ -224,39 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,569 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 462,999 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orVyWVcpfxQ"
-  },
-  {
-    "topic": "Bruno Mars - I Just Might (Live at the 68th Annual Grammy Awards)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 441,237 views \u2022 ~666m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AnY9kgflPPk"
   },
   {
     "topic": "PLAYING POPPY PLAYTIME CHAPTER 5... (Full Game + Crazy Ending)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,934 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 378,410 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bZp1QRibllE"
   },
   {
-    "topic": "I Added SIZES In Steal a Brainrot...",
+    "topic": "Sabrina Carpenter - Manchild (Live From The 68th Annual GRAMMY Awards / 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,663 views \u2022 ~545m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZlTBjxcdR-M"
+    "why": "Trending on YouTube \u2022 240,821 views \u2022 ~645m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7uEp74EuZSk"
+  },
+  {
+    "topic": "Our New Players are JUICED! Wheel of MUT! Ep. #43",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 135,504 views \u2022 ~405m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JItNnHx7N_g"
   },
   {
     "topic": "U2 - American Obituary (Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,748 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 138,665 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y3ziTSYyook"
   },
   {
@@ -264,47 +272,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,875 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 43,585 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R7avTb3RdnE"
-  },
-  {
-    "topic": "OVER YOUR DEAD BODY Official Trailer (2026) Jason Segel",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 45,847 views \u2022 ~330m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ugz0eOaNrsA"
   },
   {
     "topic": "Mandalorian and Grogu Trailer BREAKDOWN! Every Star Wars Easter Egg You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,599 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 47,220 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q1qcktWJ2n8"
   },
   {
-    "topic": "Yung Miami - News Flash",
+    "topic": "OVER YOUR DEAD BODY Official Trailer (2026) Jason Segel",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,833 views \u2022 ~305m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zcYsrK734nk"
+    "why": "Trending on YouTube \u2022 59,597 views \u2022 ~490m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ugz0eOaNrsA"
   },
   {
     "topic": "Sexyy Red & Key Glock - Hang Wit a Bad Bitch (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,094 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 45,712 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=46fBCS0vi_0"
   },
   {
-    "topic": "NBA 2K26 | Season 5 Trailer",
+    "topic": "Yung Miami - News Flash",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,738 views \u2022 ~546m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tNlOK3NEGXc"
+    "why": "Trending on YouTube \u2022 50,381 views \u2022 ~464m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zcYsrK734nk"
+  },
+  {
+    "topic": "Over Your Dead Body | Official Trailer ft. Samara Weaving & Jason Segel \ufeff| Independent Film Company",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,588 views \u2022 ~525m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pGxKTIegUZ4"
   }
 ]
