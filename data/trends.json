@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8p3ds/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Former South Korean President Yoon Sentenced to Life in Prison for Coup Attempt",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8sk9s/former_south_korean_president_yoon_sentenced_to/"
-  },
-  {
     "topic": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8vfai/andrew_mountbattenwindsor_arrested_on_suspicion/"
+  },
+  {
+    "topic": "Former South Korean President Yoon Sentenced to Life in Prison for Coup Attempt",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8sk9s/former_south_korean_president_yoon_sentenced_to/"
   },
   {
     "topic": "King Charles Breaks Silence After Ex-Prince Andrew\u2019s Arrest",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8luc7/it_was_a_struggle_at_times_but_he_persevered/"
   },
   {
+    "topic": "[Santa Monica Studio] \"Kratos \ud83e\udd1d Kratos Twenty years. Two Gods of War. One amazing legacy.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r94f4d/santa_monica_studio_kratos_kratos_twenty_years/"
+  },
+  {
     "topic": "I can't think of a lot of situations that are THIS stressful in gaming (Dead Space 2, 2011)",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8kuvb/i_cant_think_of_a_lot_of_situations_that_are_this/"
   },
   {
-    "topic": "Become - Official Announcement Trailer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r8o0a9/become_official_announcement_trailer/"
-  },
-  {
     "topic": "Sirius - The Untold Lore (Brawl Stars Animation)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,311,212 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 2,692,679 views \u2022 ~536m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d-NtBVjvP6Y"
   },
   {
@@ -192,15 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 977,541 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 987,999 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjFmRgE3wxY"
+  },
+  {
+    "topic": "Peaky Blinders: The Immortal Man | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 170,150 views \u2022 ~188m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lcvUGs3xaDM"
   },
   {
     "topic": "Xenoblade Chronicles X: Definitive Edition \u2014 Nintendo Switch 2 Edition \u2014 Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,138 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 111,862 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LC0XfI25wro"
+  },
+  {
+    "topic": "Pok\u00e9mon TCG Pocket: Paldean Wonders | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,522 views \u2022 ~175m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1wZTfa-2hQs"
   }
 ]
