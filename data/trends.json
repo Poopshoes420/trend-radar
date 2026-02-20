@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Don't. Just don't.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9zkqf/dont_just_dont/"
+  },
+  {
     "topic": "Plot twist: The officer brought a laser pointer",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9ills/teenage_son_trying_not_to_lose_street_cred_on/"
   },
   {
-    "topic": "Baby throws parents iPhone into a reflecting pool",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9kms1/baby_throws_parents_iphone_into_a_reflecting_pool/"
-  },
-  {
     "topic": "I just love when 20 year old videos randomly show up on my feed",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9vxha/i_just_love_when_20_year_old_videos_randomly_show/"
+  },
+  {
+    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
   },
   {
     "topic": "In a CNBC-TV18 poll, 99% of over 154K voters agree that the U.S. should make Epstein-related arrests like the arrest of Andrew Mountbatten-Windsor in the U.K.",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r991ds/there_are_kids_on_youtube_bruh_this_shouldnt_be/"
-  },
-  {
-    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
   },
   {
     "topic": "Is anyone else having a problem with videos not loading?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9pgj4/israeli_settlers_kill_19yearold_palestinian/"
   },
   {
-    "topic": "Pentagon aggressively lobbies EU against Buy European weapons push",
+    "topic": "Zelenskyy on Ukrainian troops leaving Donbas: We can't withdraw from our territory",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9mwco/pentagon_aggressively_lobbies_eu_against_buy/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9sh83/zelenskyy_on_ukrainian_troops_leaving_donbas_we/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,004,078 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 3,390,527 views \u2022 ~460m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F7sGJVUrkjQ"
-  },
-  {
-    "topic": "Toxic Official Telugu Teaser | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,081,407 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zjlCyAibeWg"
   },
   {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ HutchMF & Nickmercs | #ShartInMyMouthFromAnElevatedPosition #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 889,209 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 896,424 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 528,579 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 538,437 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VYp1-GVv8jI"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 295,955 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 338,890 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k8c_C4vfUMo"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,216 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 15,747 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iJ2sRS8FkCs"
   }
 ]
