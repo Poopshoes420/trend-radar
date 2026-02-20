@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r991ds/there_are_kids_on_youtube_bruh_this_shouldnt_be/"
   },
   {
-    "topic": "My account was banned for violating norms about violent criminal organizations.",
+    "topic": "Video Unavailable for ALL VIDEOS",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9uly3/my_account_was_banned_for_violating_norms_about/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra53iz/video_unavailable_for_all_videos/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,601,281 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 4,623,198 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F7sGJVUrkjQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,276 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 924,391 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 451,498 views \u2022 ~703m old",
+    "why": "Trending on YouTube \u2022 455,782 views \u2022 ~720m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k8c_C4vfUMo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,770 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 122,089 views \u2022 ~243m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c7UotLxLSU8"
   },
   {
@@ -216,7 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,880 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 149,816 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
+  },
+  {
+    "topic": "Vybz Kartel, Shenseea - PANIC (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 72,652 views \u2022 ~301m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tcEFkqD9cx0"
   }
 ]
