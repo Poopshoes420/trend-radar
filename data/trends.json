@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9wjji/core_memory_unlocked/"
   },
   {
+    "topic": "I\u2019m just going to leave this here",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ra97kh/im_just_going_to_leave_this_here/"
+  },
+  {
     "topic": "Plot twist: The officer brought a laser pointer",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9qq77/plot_twist_the_officer_brought_a_laser_pointer/"
-  },
-  {
-    "topic": "\u201cPaper folding?\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9xdea/paper_folding/"
   },
   {
     "topic": "I just love when 20 year old videos randomly show up on my feed",
@@ -72,31 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra61xb/has_anyone_elses_youtube_been_acting_weird/"
   },
   {
-    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
+    "topic": "My algorithm sucks now",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra9wni/my_algorithm_sucks_now/"
   },
   {
-    "topic": "Is there anyway to disable this?",
+    "topic": "The buffering is getting so bad to where I have PTSD from seeing that fuck of a spinning wheel.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra6hpt/is_there_anyway_to_disable_this/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9l5xj/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra47sh/the_buffering_is_getting_so_bad_to_where_i_have/"
   },
   {
     "topic": "UK Government considers removing Andrew from royal line of succession",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9l5xj/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Poland pulls out of treaty banning antipersonnel mines, says it will use them to defend against Russia",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,953 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 194,494 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c7UotLxLSU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,690 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 215,623 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,710 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 116,616 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tcEFkqD9cx0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,959 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 48,206 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsfdwYvr0PM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,780 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 35,274 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Drru-5oiZU"
   }
 ]
