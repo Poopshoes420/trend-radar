@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Core memory unlocked",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9wjji/core_memory_unlocked/"
-  },
-  {
     "topic": "No, you idiots, not the way you thinking... The other way",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ra59gd/no_you_idiots_not_the_way_you_thinking_the_other/"
+  },
+  {
+    "topic": "Core memory unlocked",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9wjji/core_memory_unlocked/"
   },
   {
     "topic": "Plot twist: The officer brought a laser pointer",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,299 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 188,953 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c7UotLxLSU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,461 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 211,690 views \u2022 ~523m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,319 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 112,710 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tcEFkqD9cx0"
+  },
+  {
+    "topic": "Mozzy & EST Gee - ROUNDS (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 40,959 views \u2022 ~279m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dsfdwYvr0PM"
   },
   {
     "topic": "Babyfxce E - Die Bout It (feat. Rio da Yung OG) [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,166 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 32,780 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Drru-5oiZU"
   }
 ]
