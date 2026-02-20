@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9qq77/plot_twist_the_officer_brought_a_laser_pointer/"
   },
   {
-    "topic": "I just love when 20 year old videos randomly show up on my feed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9vxha/i_just_love_when_20_year_old_videos_randomly_show/"
-  },
-  {
     "topic": "My algorithm sucks now",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra9wni/my_algorithm_sucks_now/"
+  },
+  {
+    "topic": "I just love when 20 year old videos randomly show up on my feed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9vxha/i_just_love_when_20_year_old_videos_randomly_show/"
   },
   {
     "topic": "Video Unavailable for ALL VIDEOS",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra53iz/video_unavailable_for_all_videos/"
   },
   {
-    "topic": "Has anyone elses youtube been acting weird?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra61xb/has_anyone_elses_youtube_been_acting_weird/"
-  },
-  {
     "topic": "The buffering is getting so bad to where I have PTSD from seeing that fuck of a spinning wheel.",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra47sh/the_buffering_is_getting_so_bad_to_where_i_have/"
   },
   {
-    "topic": "UK Government considers removing Andrew from royal line of succession",
+    "topic": "Has anyone elses youtube been acting weird?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra61xb/has_anyone_elses_youtube_been_acting_weird/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9l5xj/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "UK Government considers removing Andrew from royal line of succession",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
   },
   {
     "topic": "Poland pulls out of treaty banning antipersonnel mines, says it will use them to defend against Russia",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra35ry/zelensky_says_ukraine_has_liberated_300_square/"
   },
   {
-    "topic": "'Happy liberation day': British Columbia Premier David Eby reacts to U.S. ruling against Trump's tariffs",
+    "topic": "Peter Thiel is unleashing a neocolonial billionaire fantasy in Honduras",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra7alk/happy_liberation_day_british_columbia_premier/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1raads2/peter_thiel_is_unleashing_a_neocolonial/"
   },
   {
     "topic": "Johnny Depp let Eric Dane live 'rent-free in one of his LA homes' as he tried to ease Grey's Anatomy star's financial worries in the months before his death from ALS",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1raa8o7/ai_slop_exec_turned_microsoft_gaming_ceo_swears/"
   },
   {
+    "topic": "CG5 - Wrong Side Out (from Poppy Playtime: Chapter 5)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 319,944 views \u2022 ~119m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lsndkQuEwaM"
+  },
+  {
     "topic": "The Mountain, The Moon Cave and The Sad God (Trailer 1)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,336 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 211,050 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c7UotLxLSU8"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,187 views \u2022 ~582m old",
+    "why": "Trending on YouTube \u2022 232,561 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 122,946 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 127,843 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tcEFkqD9cx0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,180 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 60,650 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsfdwYvr0PM"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,157 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 42,147 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Drru-5oiZU"
   }
 ]
