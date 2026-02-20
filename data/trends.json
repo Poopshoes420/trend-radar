@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r904pz/i_swear_to_god/"
   },
   {
-    "topic": "No....NOT AGAIN!",
+    "topic": "Is anyone else having a problem with videos not loading?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9gvs5/nonot_again/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ojvx/is_anyone_else_having_a_problem_with_videos_not/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r953u2/uk_refusing_to_allow_trump_to_use_raf_bases_to/"
   },
   {
-    "topic": "Iran Protests: 17% of demonstrators were students \u2014 Over 200 killed were school-age children",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9h0m5/iran_protests_17_of_demonstrators_were_students/"
-  },
-  {
     "topic": "Single vaccine could protect against all coughs, colds and flus, researchers say",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9b4mu/single_vaccine_could_protect_against_all_coughs/"
   },
   {
-    "topic": "Ukraine regains over 200 sq km in five days",
+    "topic": "Iran\u2019s Currency Crashes to Record Low as $1 Hits 1.63 Million Rials",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9n3jn/ukraine_regains_over_200_sq_km_in_five_days/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9auhy/irans_currency_crashes_to_record_low_as_1_hits/"
+  },
+  {
+    "topic": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r8vfai/andrew_mountbattenwindsor_arrested_on_suspicion/"
   },
   {
     "topic": "Our smiley girl has won!!!\ud83e\udd47 Alyssa Liu is the first US athlete since 2002 to win gold in women\u2019s individual figure skating \u2764\ufe0f\ud83e\udd0d\ud83d\udc99",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 692,030 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 833,552 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zjlCyAibeWg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 353,515 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 392,282 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VYp1-GVv8jI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 562,206 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 617,270 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sB6w8oMeino"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 581,131 views \u2022 ~671m old",
+    "why": "Trending on YouTube \u2022 603,555 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PW22jwFNxU8"
   },
   {
@@ -216,47 +216,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 344,848 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 361,969 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lkb7uzHUAZw"
-  },
-  {
-    "topic": "#cbum",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 323,679 views \u2022 ~503m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=57yo82Qc9KE"
   },
   {
     "topic": "Dharius, Gera MX, MC Davo, C-Kan, La Santa Grifa - Top Top",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 273,564 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 294,943 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-Gayqqqq6h8"
+  },
+  {
+    "topic": "#cbum",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 323,700 views \u2022 ~547m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=57yo82Qc9KE"
   },
   {
     "topic": "1v1 Me & I'll Guess Your Rank!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,545 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 199,379 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8OGmnIru1-A"
-  },
-  {
-    "topic": "Having INFINITE HEARTS in Minecraft!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 281,729 views \u2022 ~631m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cJLoO4u-Itg"
   },
   {
     "topic": "Hades66, Ovi, LMR - Si Mijo Si \ud83d\udcbf EL SEI66EIS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,411 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 239,549 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wWQeLMVvQsE"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,963 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 157,829 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nONFnjR5VFI"
   },
   {
@@ -272,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,972 views \u2022 ~675m old",
+    "why": "Trending on YouTube \u2022 240,469 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hqu7DKaoy_U"
+  },
+  {
+    "topic": "REANIMAL IS ACTUAL CINEMA [Part 1/2]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 160,901 views \u2022 ~716m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-IFD6FcFv3Q"
   },
   {
     "topic": "The Toy Story 5 Trailer Looks...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,088 views \u2022 ~675m old",
+    "why": "Trending on YouTube \u2022 89,575 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wFWs_ut6L-4"
   }
 ]
