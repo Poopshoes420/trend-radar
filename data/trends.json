@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9okjy/discussion/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9l5xj/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Heads roll in Europe over Epst\u0435in files while US justice declines to act",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9phvb/heads_roll_in_europe_over_epst\u0435in_files_while_us/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9l5xj/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Ukraine can still fight for years and will not agree to lose territory, National Guard chief says",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r953u2/uk_refusing_to_allow_trump_to_use_raf_bases_to/"
   },
   {
-    "topic": "Single vaccine could protect against all coughs, colds and flus, researchers say",
+    "topic": "Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9b4mu/single_vaccine_could_protect_against_all_coughs/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9pgj4/israeli_settlers_kill_19yearold_palestinian/"
   },
   {
     "topic": "Our smiley girl has won!!!\ud83e\udd47 Alyssa Liu is the first US athlete since 2002 to win gold in women\u2019s individual figure skating \u2764\ufe0f\ud83e\udd0d\ud83d\udc99",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 856,889 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 860,973 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,542,655 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 1,832,281 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zjlCyAibeWg"
   },
   {
@@ -200,39 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 471,307 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 479,431 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VYp1-GVv8jI"
-  },
-  {
-    "topic": "Tainy, Rauw Alejandro & JHAYCO - Rosita (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 405,049 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lkb7uzHUAZw"
   },
   {
     "topic": "1v1 Me & I'll Guess Your Rank!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 295,100 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 305,417 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8OGmnIru1-A"
-  },
-  {
-    "topic": "Dharius, Gera MX, MC Davo, C-Kan, La Santa Grifa - Top Top",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 332,766 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-Gayqqqq6h8"
   },
   {
     "topic": "OMAR COURTZ (((ousi))), ROA - WO OH OH (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,809 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 193,964 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nONFnjR5VFI"
   }
 ]
