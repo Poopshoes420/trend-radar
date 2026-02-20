@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Hat, ya all",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9u5g2/hat_ya_all/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9ills/teenage_son_trying_not_to_lose_street_cred_on/"
+  },
+  {
+    "topic": "Core memory unlocked",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9wjji/core_memory_unlocked/"
   },
   {
     "topic": "Baby throws parents iPhone into a reflecting pool",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r991ds/there_are_kids_on_youtube_bruh_this_shouldnt_be/"
   },
   {
-    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
-  },
-  {
     "topic": "I just love when 20 year old videos randomly show up on my feed",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9vxha/i_just_love_when_20_year_old_videos_randomly_show/"
+  },
+  {
+    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
   },
   {
     "topic": "Is anyone else having a problem with videos not loading?",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9pgj4/israeli_settlers_kill_19yearold_palestinian/"
   },
   {
-    "topic": "UK refusing to allow Trump to use RAF bases to attack Iran",
+    "topic": "Pentagon aggressively lobbies EU against Buy European weapons push",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r953u2/uk_refusing_to_allow_trump_to_use_raf_bases_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9mwco/pentagon_aggressively_lobbies_eu_against_buy/"
   },
   {
     "topic": "Zelenskyy on Ukrainian troops leaving Donbas: We can't withdraw from our territory",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9u3e3/in_regards_to_the_recent_pokemon_redfiregreenleaf/"
   },
   {
-    "topic": "I'm trying out cult games. My first pick this year was XCOM. And it's definitely a great game",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9tbya/im_trying_out_cult_games_my_first_pick_this_year/"
-  },
-  {
     "topic": "Tunic, Night in the Woods Publisher Says TikTok Is Creating and Running Racist GenAI Ads for Its Games Without Permission",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9vrtb/tunic_night_in_the_woods_publisher_says_tiktok_is/"
   },
   {
+    "topic": "I'm trying out cult games. My first pick this year was XCOM. And it's definitely a great game",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9tbya/im_trying_out_cult_games_my_first_pick_this_year/"
+  },
+  {
     "topic": "Hearts2Hearts \ud558\uce20\ud22c\ud558\uce20 'RUDE!' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,235,728 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 2,583,126 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F7sGJVUrkjQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,560,469 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 2,777,227 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zjlCyAibeWg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 875,540 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 882,111 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 506,291 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 517,257 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VYp1-GVv8jI"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,592 views \u2022 ~385m old",
+    "why": "Trending on YouTube \u2022 261,030 views \u2022 ~428m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k8c_C4vfUMo"
   }
 ]
