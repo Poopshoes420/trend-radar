@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "With friends like this, you don't need enemies.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ra0n5d/with_friends_like_this_you_dont_need_enemies/"
+  },
+  {
     "topic": "Core memory unlocked",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1r9qq77/plot_twist_the_officer_brought_a_laser_pointer/"
-  },
-  {
-    "topic": "With friends like this, you don't need enemies.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ra0n5d/with_friends_like_this_you_dont_need_enemies/"
   },
   {
     "topic": "I just love when 20 year old videos randomly show up on my feed",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r991ds/there_are_kids_on_youtube_bruh_this_shouldnt_be/"
   },
   {
-    "topic": "Could this be able top the likes of Insane Food Flips and Beating Minecraft While Beating It?",
+    "topic": "My account was banned for violating norms about violent criminal organizations.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9s503/could_this_be_able_top_the_likes_of_insane_food/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9uly3/my_account_was_banned_for_violating_norms_about/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1457, Part 1 (Thread #1604)",
@@ -108,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9phvb/heads_roll_in_europe_over_epst\u0435in_files_while_us/"
   },
   {
+    "topic": "UK Government considers removing Andrew from royal line of succession",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
+  },
+  {
+    "topic": "Britain blocking use of air bases Trump says would be needed for strikes on Iran, UK media report",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra20kb/britain_blocking_use_of_air_bases_trump_says/"
+  },
+  {
     "topic": "Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say",
     "sources": [
       "reddit"
@@ -115,24 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9pgj4/israeli_settlers_kill_19yearold_palestinian/"
-  },
-  {
-    "topic": "Pentagon aggressively lobbies EU against Buy European weapons push",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9mwco/pentagon_aggressively_lobbies_eu_against_buy/"
-  },
-  {
-    "topic": "BBC: Nasa boss says Boeing Starliner failure one of worst in its history",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1r9tjxw/bbc_nasa_boss_says_boeing_starliner_failure_one/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "In regards to the recent Pokemon RedFire/GreenLeaf announcement, it's at least a welcoming alternative over this...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9u3e3/in_regards_to_the_recent_pokemon_redfiregreenleaf/"
-  },
-  {
     "topic": "Thank you, Bluepoint Games.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra16qx/thank_you_bluepoint_games/"
+  },
+  {
+    "topic": "In regards to the recent Pokemon RedFire/GreenLeaf announcement, it's at least a welcoming alternative over this...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9u3e3/in_regards_to_the_recent_pokemon_redfiregreenleaf/"
   },
   {
     "topic": "Tunic, Night in the Woods Publisher Says TikTok Is Creating and Running Racist GenAI Ads for Its Games Without Permission",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,274,447 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 4,493,109 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F7sGJVUrkjQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 910,989 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 913,971 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9N0KrJkFAsc"
   },
   {
@@ -200,23 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 401,965 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 432,948 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k8c_C4vfUMo"
-  },
-  {
-    "topic": "FireRed & LeafGreen on Switch - What You Need to Know",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 75,058 views \u2022 ~246m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
   },
   {
     "topic": "The Mountain, The Moon Cave and The Sad God (Trailer 1)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,114 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 79,744 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c7UotLxLSU8"
+  },
+  {
+    "topic": "FireRed & LeafGreen on Switch - What You Need to Know",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 112,872 views \u2022 ~306m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
   }
 ]
