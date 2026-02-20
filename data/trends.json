@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra53iz/video_unavailable_for_all_videos/"
   },
   {
-    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
-  },
-  {
     "topic": "Has anyone elses youtube been acting weird?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra61xb/has_anyone_elses_youtube_been_acting_weird/"
+  },
+  {
+    "topic": "Did anyone else\u2019s algorithm go absolutely nuts yesterday?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1r9ugne/did_anyone_elses_algorithm_go_absolutely_nuts/"
   },
   {
     "topic": "Is there anyway to disable this?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
   },
   {
-    "topic": "Zelensky says Ukraine Has Liberated 300 Square Kilometers in Southern Counteroffensive",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra35ry/zelensky_says_ukraine_has_liberated_300_square/"
-  },
-  {
     "topic": "Poland pulls out of treaty banning antipersonnel mines, says it will use them to defend against Russia",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra6fvc/poland_pulls_out_of_treaty_banning_antipersonnel/"
+  },
+  {
+    "topic": "Zelensky says Ukraine Has Liberated 300 Square Kilometers in Southern Counteroffensive",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra35ry/zelensky_says_ukraine_has_liberated_300_square/"
   },
   {
     "topic": "Hungary blocks \u20ac90bn loan for Ukraine \u2013 FTA",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,221 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 174,299 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c7UotLxLSU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 190,290 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 198,461 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaQfR_tIbcI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,762 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 102,319 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tcEFkqD9cx0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,670 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 26,166 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Drru-5oiZU"
   }
 ]
