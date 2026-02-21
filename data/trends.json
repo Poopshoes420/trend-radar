@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "0% Language 100% Understand",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1raoc5b/0_language_100_understand/"
+  },
+  {
     "topic": "\"I'm Shocked\".....to see that a reverse tuxedo is possible",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rait89/he_did_it_again/"
-  },
-  {
-    "topic": "the rooster was wearing a condom",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rai88p/the_rooster_was_wearing_a_condom/"
   },
   {
     "topic": "YouTube algorithm suddenly changed!",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1racqib/they_need_to_remove_all_the_ai_slop_channels/"
   },
   {
-    "topic": "My algorithm sucks now",
+    "topic": "Average Youtube experience",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra9wni/my_algorithm_sucks_now/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
   },
   {
     "topic": "Gordon Brown hands new sex trafficking dossier to police",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 859,473 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 865,328 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,482,344 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 1,508,761 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QO3sBFiEOpI"
   },
   {
@@ -200,31 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 298,182 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 306,859 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5xUMMhX82F4"
   },
   {
-    "topic": "Ego Renegade Boy ft. Kagamine Len",
+    "topic": "Biathlon: Men's 15km Mass Start",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,328 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OSYmTw6_bjc"
-  },
-  {
-    "topic": "ALL of Poppy Chapter 5",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 196,914 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=P-W42DYgeXM"
-  },
-  {
-    "topic": "Solo: A Star Wars Story",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~13m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oSp1fYJYcnU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
