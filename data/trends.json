@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rad028/im_shockedto_see_that_a_reverse_tuxedo_is_possible/"
   },
   {
+    "topic": "He did it again!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rait89/he_did_it_again/"
+  },
+  {
     "topic": "Massage guys massage",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1raen7g/massage_guys_massage/"
   },
   {
-    "topic": "No, you idiots, not the way you thinking... The other way",
+    "topic": "YouTube algorithm suddenly changed!",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ra59gd/no_you_idiots_not_the_way_you_thinking_the_other/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
   },
   {
     "topic": "They need to remove all the AI slop channels",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1racqib/they_need_to_remove_all_the_ai_slop_channels/"
-  },
-  {
-    "topic": "YouTube algorithm suddenly changed!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
   },
   {
     "topic": "My algorithm sucks now",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra35ry/zelensky_says_ukraine_has_liberated_300_square/"
   },
   {
-    "topic": "Ukraine liberates 300 square kilometers in southern counteroffensive, Zelensky tells AFP",
+    "topic": "Drone hits Russian ballistic missile factory over 1,300 km from Ukraine's border, officials, media report",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rac7o3/ukraine_liberates_300_square_kilometers_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra9jjs/drone_hits_russian_ballistic_missile_factory_over/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "AI Slop Exec Turned Microsoft Gaming CEO Swears There Won't Be \"Soulless AI Slop\" in Xbox",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1raa8o7/ai_slop_exec_turned_microsoft_gaming_ceo_swears/"
-  },
-  {
     "topic": "Thank you, Bluepoint Games.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra5420/skate_charging_players_to_return_to_tutorial/"
   },
   {
+    "topic": "In regards to the recent Pokemon RedFire/GreenLeaf announcement, it's at least a welcoming alternative over this...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9u3e3/in_regards_to_the_recent_pokemon_redfiregreenleaf/"
+  },
+  {
     "topic": "Poppy Playtime: Chapter 5",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,296,382 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 1,333,147 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QO3sBFiEOpI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,210,018 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 1,262,616 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lsndkQuEwaM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 685,098 views \u2022 ~560m old",
+    "why": "Trending on YouTube \u2022 732,841 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wrV70wmLHvU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 242,442 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 272,022 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AWXPqhybtKU"
   },
   {
@@ -216,55 +216,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,429 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 257,487 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5xUMMhX82F4"
-  },
-  {
-    "topic": "ROBLOX JUMP TO STEAL BRAINROTS!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 337,406 views \u2022 ~622m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Abkz94lSGVY"
   },
   {
     "topic": "Romeo Santos, Prince Royce - Lokita Por M\u00ed & Dardos (Premio Lo Nuestro 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 230,373 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 249,540 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t2F_hgmF0DI"
-  },
-  {
-    "topic": "Ego Renegade Boy ft. Kagamine Len",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 169,811 views \u2022 ~478m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OSYmTw6_bjc"
   },
   {
     "topic": "Can You LOSE in FNAF Games with the BEST POSSIBLE LUCK? (Minimum Inputs Challenge)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,047 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 205,408 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CGQrR8v-j_E"
   },
   {
-    "topic": "Mavado, Dj Mac, Crashdummy - Bad & Bbc Rich \u00a0(Official Music Video) | WYFL Riddim",
+    "topic": "Ego Renegade Boy ft. Kagamine Len",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,833 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HsaXkeejbEA"
+    "why": "Trending on YouTube \u2022 180,894 views \u2022 ~523m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OSYmTw6_bjc"
+  },
+  {
+    "topic": "ALL of Poppy Chapter 5",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 145,159 views \u2022 ~508m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P-W42DYgeXM"
   },
   {
     "topic": "House of the Dragon Season 3 TRAILER BREAKDOWN! Every Detail You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,064 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 64,202 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HD9eE5GXx08"
   }
 ]
