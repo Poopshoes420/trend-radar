@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "0% Language 100% Understand",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1raoc5b/0_language_100_understand/"
-  },
-  {
     "topic": "\"I'm Shocked\".....to see that a reverse tuxedo is possible",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rait89/he_did_it_again/"
+  },
+  {
+    "topic": "the rooster was wearing a condom",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rai88p/the_rooster_was_wearing_a_condom/"
   },
   {
     "topic": "YouTube algorithm suddenly changed!",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rakdod/educational_only/"
   },
   {
+    "topic": "Average Youtube experience",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
+  },
+  {
     "topic": "New exploit lets you put 2 videos in one",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1racqib/they_need_to_remove_all_the_ai_slop_channels/"
-  },
-  {
-    "topic": "Average Youtube experience",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
   },
   {
     "topic": "Gordon Brown hands new sex trafficking dossier to police",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra16qx/thank_you_bluepoint_games/"
   },
   {
-    "topic": "I do not think Phil Spencer was good at his job.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rafuov/i_do_not_think_phil_spencer_was_good_at_his_job/"
-  },
-  {
     "topic": "Skate Charging Players To Return To Tutorial Island Despite Promising No Paywalled Locations",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra5420/skate_charging_players_to_return_to_tutorial/"
   },
   {
+    "topic": "In regards to the recent Pokemon RedFire/GreenLeaf announcement, it's at least a welcoming alternative over this...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9u3e3/in_regards_to_the_recent_pokemon_redfiregreenleaf/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | FLUFF A FAN FRIDAY | ARC NUTTERS w/ HutchMF & Nickmercs | #30RabbitShartsInMySock #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 865,328 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 870,492 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,508,761 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 1,534,585 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QO3sBFiEOpI"
-  },
-  {
-    "topic": "YoungBoy Never Broke Again - Ballin [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 306,859 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5xUMMhX82F4"
   },
   {
     "topic": "Biathlon: Men's 15km Mass Start",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
