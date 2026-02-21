@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rah4vk/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Gordon Brown hands new sex trafficking dossier to police",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ran7sa/gordon_brown_hands_new_sex_trafficking_dossier_to/"
-  },
-  {
     "topic": "Ship Believed To Be Carrying Russian Fuel Reportedly On Its Way To Cuba, Challenging U.S. Blockade",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb2ggx/ship_believed_to_be_carrying_russian_fuel/"
+  },
+  {
+    "topic": "Gordon Brown hands new sex trafficking dossier to police",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ran7sa/gordon_brown_hands_new_sex_trafficking_dossier_to/"
   },
   {
     "topic": "Iranian Students Chant Anti-Government Slogans, Clash With Security Forces In Tehran",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rasrlb/i_think_the_franchise_is_dead_saints_row_design/"
   },
   {
+    "topic": "New DIVINE MUTATION + New Brainrots!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,561,141 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MRFk9TcW4hI"
+  },
+  {
     "topic": "100th Brawler Reveal - Brawl Talk",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,526,294 views \u2022 ~374m old",
+    "why": "Trending on YouTube \u2022 4,715,000 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VWLl18skl7Y"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,731,806 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 1,800,936 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=La1zClF8jdY"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 838,371 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 849,217 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N3Z6QV6bGq8"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 276,997 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 312,595 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3FS3meSF-b8"
   }
 ]
