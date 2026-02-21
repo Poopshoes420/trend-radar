@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1raeujb/the_answer_to_her_question_is_simple/"
   },
   {
-    "topic": "YouTube algorithm suddenly changed!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
-  },
-  {
     "topic": "Average Youtube experience",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
+  },
+  {
+    "topic": "YouTube algorithm suddenly changed!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
   },
   {
     "topic": "Educational only",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rakdod/educational_only/"
   },
   {
+    "topic": "Youtube has an easter egg for the 67th like",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ras2sk/youtube_has_an_easter_egg_for_the_67th_like/"
+  },
+  {
     "topic": "YouTube\u2019s Aggressive Advertising Strategy Sucks",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rar8hm/youtubes_aggressive_advertising_strategy_sucks/"
-  },
-  {
-    "topic": "New exploit lets you put 2 videos in one",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra6lqt/new_exploit_lets_you_put_2_videos_in_one/"
   },
   {
     "topic": "Gordon Brown hands new sex trafficking dossier to police",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "\u2018I think the franchise is dead\u2019: Saints Row design director says IP owner \u2018ghosted\u2019 his prequel pitch",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rasrlb/i_think_the_franchise_is_dead_saints_row_design/"
+  },
+  {
     "topic": "Thank you, Bluepoint Games.",
     "sources": [
       "reddit"
@@ -171,36 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra5420/skate_charging_players_to_return_to_tutorial/"
   },
   {
-    "topic": "\u2018I think the franchise is dead\u2019: Saints Row design director says IP owner \u2018ghosted\u2019 his prequel pitch",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rasrlb/i_think_the_franchise_is_dead_saints_row_design/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | FLUFF A FAN FRIDAY | ARC NUTTERS w/ HutchMF & Nickmercs | #30RabbitShartsInMySock #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 880,171 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 884,726 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
   },
   {
-    "topic": "ImDOntai Reacts To Toy Story 5 Trailer !!!!",
+    "topic": "#CULT Red Band Teaser - India's First Slasher | Vishwak Sen | Ravi Basrur | Sandeep Kakarala",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,324 views \u2022 ~592m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TVCQ8xok984"
+    "why": "Trending on YouTube \u2022 339,178 views \u2022 ~273m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N3Z6QV6bGq8"
   },
   {
     "topic": "Biathlon: Men's 15km Mass Start",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
