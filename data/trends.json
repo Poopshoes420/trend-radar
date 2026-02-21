@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Next level Marketing! Genius",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rahpw3/next_level_marketing_genius/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Next level Marketing! Genius",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rahpw3/next_level_marketing_genius/"
   },
   {
     "topic": "\"I'm Shocked\".....to see that a reverse tuxedo is possible",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rait89/he_did_it_again/"
   },
   {
-    "topic": "the rooster was wearing a condom",
+    "topic": "the answer to her question is simple",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rai88p/the_rooster_was_wearing_a_condom/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1raeujb/the_answer_to_her_question_is_simple/"
   },
   {
     "topic": "YouTube algorithm suddenly changed!",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
   },
   {
-    "topic": "Educational only",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rakdod/educational_only/"
-  },
-  {
     "topic": "Average Youtube experience",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
+  },
+  {
+    "topic": "Educational only",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rakdod/educational_only/"
   },
   {
     "topic": "New exploit lets you put 2 videos in one",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra6lqt/new_exploit_lets_you_put_2_videos_in_one/"
   },
   {
-    "topic": "They need to remove all the AI slop channels",
+    "topic": "YouTube\u2019s Aggressive Advertising Strategy Sucks",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1racqib/they_need_to_remove_all_the_ai_slop_channels/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rar8hm/youtubes_aggressive_advertising_strategy_sucks/"
   },
   {
     "topic": "Gordon Brown hands new sex trafficking dossier to police",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 873,686 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 877,669 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,553,883 views \u2022 ~669m old",
+    "why": "Trending on YouTube \u2022 1,571,594 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QO3sBFiEOpI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,365 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 24,552 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVCQ8xok984"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
