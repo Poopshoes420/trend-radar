@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rakdod/educational_only/"
   },
   {
-    "topic": "New exploit lets you put 2 videos in one",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra6lqt/new_exploit_lets_you_put_2_videos_in_one/"
-  },
-  {
     "topic": "YouTube\u2019s Aggressive Advertising Strategy Sucks",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rar8hm/youtubes_aggressive_advertising_strategy_sucks/"
+  },
+  {
+    "topic": "New exploit lets you put 2 videos in one",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra6lqt/new_exploit_lets_you_put_2_videos_in_one/"
   },
   {
     "topic": "Gordon Brown hands new sex trafficking dossier to police",
@@ -171,36 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra5420/skate_charging_players_to_return_to_tutorial/"
   },
   {
-    "topic": "In regards to the recent Pokemon RedFire/GreenLeaf announcement, it's at least a welcoming alternative over this...",
+    "topic": "\u2018I think the franchise is dead\u2019: Saints Row design director says IP owner \u2018ghosted\u2019 his prequel pitch",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1r9u3e3/in_regards_to_the_recent_pokemon_redfiregreenleaf/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rasrlb/i_think_the_franchise_is_dead_saints_row_design/"
   },
   {
     "topic": "\ud83d\udd34LIVE | FLUFF A FAN FRIDAY | ARC NUTTERS w/ HutchMF & Nickmercs | #30RabbitShartsInMySock #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 877,669 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 880,171 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
-  },
-  {
-    "topic": "Poppy Playtime: Chapter 5",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,571,594 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QO3sBFiEOpI"
   },
   {
     "topic": "ImDOntai Reacts To Toy Story 5 Trailer !!!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,552 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 25,324 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVCQ8xok984"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
