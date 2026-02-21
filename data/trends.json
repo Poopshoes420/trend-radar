@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1racqib/they_need_to_remove_all_the_ai_slop_channels/"
   },
   {
-    "topic": "My algorithm sucks now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra9wni/my_algorithm_sucks_now/"
-  },
-  {
     "topic": "New exploit lets you put 2 videos in one",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra6lqt/new_exploit_lets_you_put_2_videos_in_one/"
+  },
+  {
+    "topic": "My algorithm sucks now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ra9wni/my_algorithm_sucks_now/"
   },
   {
     "topic": "Is Youtube broken AGAIN??",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,333,147 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 1,358,564 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QO3sBFiEOpI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,262,616 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 1,300,345 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lsndkQuEwaM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 732,841 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 765,320 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wrV70wmLHvU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 272,022 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 296,414 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AWXPqhybtKU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,487 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 268,869 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5xUMMhX82F4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,540 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 256,241 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t2F_hgmF0DI"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,408 views \u2022 ~583m old",
+    "why": "Trending on YouTube \u2022 216,282 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CGQrR8v-j_E"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 180,894 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 189,115 views \u2022 ~555m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSYmTw6_bjc"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,159 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 153,861 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P-W42DYgeXM"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,202 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 66,355 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HD9eE5GXx08"
   }
 ]
