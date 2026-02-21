@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rasebp/ukraine_strikes_a_key_industrial_site_deep_inside/"
   },
   {
-    "topic": "Dogs Clamped, Poisoned & Shot for World Cup in Morocco",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ratz14/dogs_clamped_poisoned_shot_for_world_cup_in/"
-  },
-  {
     "topic": "UK Government considers removing Andrew from royal line of succession",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
+  },
+  {
+    "topic": "US revokes visas for Chilean minister, two officials over China cable plan",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1raqj7s/us_revokes_visas_for_chilean_minister_two/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ra16qx/thank_you_bluepoint_games/"
   },
   {
+    "topic": "100th Brawler Reveal - Brawl Talk",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,437,060 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VWLl18skl7Y"
+  },
+  {
     "topic": "I Explored the World's Largest Minecraft Server",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 732,300 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 864,749 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=La1zClF8jdY"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 897,468 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 902,475 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 467,329 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 514,128 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N3Z6QV6bGq8"
-  },
-  {
-    "topic": "ImDOntai Reacts To Toy Story 5 Trailer !!!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 31,031 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TVCQ8xok984"
   },
   {
     "topic": "Biathlon: Men's 15km Mass Start",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
