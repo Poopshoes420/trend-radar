@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "A father in Brazil misunderstood his daughter's request for a K-pop themed birthday party.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb0ipz/a_father_in_brazil_misunderstood_his_daughters/"
+  },
+  {
+    "topic": "This Italian restaurant in Malta charges \u20ac100 if you ask for a Hawaiian pizza",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb04ii/this_italian_restaurant_in_malta_charges_100_if/"
+  },
+  {
     "topic": "Next level Marketing! Genius",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rahpw3/next_level_marketing_genius/"
-  },
-  {
-    "topic": "Cats be catting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1raoqzr/cats_be_catting/"
-  },
-  {
-    "topic": "Japanese pranks are out of this world.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rat27r/japanese_pranks_are_out_of_this_world/"
   },
   {
     "topic": "Average Youtube experience",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rasebp/ukraine_strikes_a_key_industrial_site_deep_inside/"
   },
   {
-    "topic": "Iranian Students Chant Anti-Government Slogans, Clash With Security Forces In Tehran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ratjd2/iranian_students_chant_antigovernment_slogans/"
-  },
-  {
     "topic": "US ambassador says it would be \u2018fine\u2019 if Israel took over much of the Middle East",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rax98s/us_ambassador_says_it_would_be_fine_if_israel/"
+  },
+  {
+    "topic": "Ukraine strikes ballistic missile producer deep inside Russia, Kyiv says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb00vm/ukraine_strikes_ballistic_missile_producer_deep/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,321,171 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 3,781,819 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VWLl18skl7Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,353,413 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 1,484,628 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=La1zClF8jdY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 740,085 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 779,671 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N3Z6QV6bGq8"
   },
   {
@@ -208,15 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,657 views \u2022 ~670m old",
+    "why": "Trending on YouTube \u2022 927,950 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
-  },
-  {
-    "topic": "Biathlon: Men's 15km Mass Start",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
