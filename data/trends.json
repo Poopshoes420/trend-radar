@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Uber driver has a coffee machine and breakfast for his riders",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ratmxv/uber_driver_has_a_coffee_machine_and_breakfast/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rad028/im_shockedto_see_that_a_reverse_tuxedo_is_possible/"
   },
   {
+    "topic": "Cats be catting",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1raoqzr/cats_be_catting/"
+  },
+  {
     "topic": "Average Youtube experience",
     "sources": [
       "reddit"
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
   },
   {
-    "topic": "YouTube algorithm suddenly changed!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
-  },
-  {
     "topic": "Youtube has an easter egg for the 67th like",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ras2sk/youtube_has_an_easter_egg_for_the_67th_like/"
+  },
+  {
+    "topic": "YouTube algorithm suddenly changed!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raj434/youtube_algorithm_suddenly_changed/"
   },
   {
     "topic": "Educational only",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rasebp/ukraine_strikes_a_key_industrial_site_deep_inside/"
   },
   {
+    "topic": "Iranian Students Chant Anti-Government Slogans, Clash With Security Forces In Tehran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ratjd2/iranian_students_chant_antigovernment_slogans/"
+  },
+  {
     "topic": "UK Government considers removing Andrew from royal line of succession",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ra2l7d/uk_government_considers_removing_andrew_from/"
-  },
-  {
-    "topic": "US revokes visas for Chilean minister, two officials over China cable plan",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1raqj7s/us_revokes_visas_for_chilean_minister_two/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,437,060 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 1,601,127 views \u2022 ~116m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VWLl18skl7Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 864,749 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 947,194 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=La1zClF8jdY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 902,475 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 905,584 views \u2022 ~549m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-eV5R-3g-fQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 514,128 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 546,633 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N3Z6QV6bGq8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tuPeJhhYl8c"
   }
 ]
