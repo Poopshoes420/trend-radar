@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb2z5q/ah_yes_lies/"
   },
   {
+    "topic": "The Amazing Digital Circus Is Ending Forever",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbeat7/the_amazing_digital_circus_is_ending_forever/"
+  },
+  {
     "topic": "Youtube has an easter egg for the 67th like",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ravaoh/mounir_strikes_again/"
-  },
-  {
-    "topic": "Does Anyone Remember This Thumbnail Where If A Video Got Age-Restricted Or Deleted?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb77a4/does_anyone_remember_this_thumbnail_where_if_a/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
@@ -144,22 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rb9tgl/cardi_b_on_ramadan_god_knew_not_to_make_me_no/"
   },
   {
-    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rakgz4/self_promotion_saturday_small_streamer_just/"
-  },
-  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbf34i/simple_questions_sunday/"
   },
   {
     "topic": "My weekend plans haven't changed since 1999...",
@@ -180,43 +171,68 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1razm2f/the_decline_of_the_dragon_age_series_should_be/"
   },
   {
+    "topic": "Arc Raiders is such a huge hit, Nexon has put Embark Studios CEO Patrick S\u00f6derlund in charge of everything else too",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rayqts/arc_raiders_is_such_a_huge_hit_nexon_has_put/"
+  },
+  {
     "topic": "New DIVINE MUTATION + New Brainrots!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,700,709 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 1,708,380 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MRFk9TcW4hI"
+  },
+  {
+    "topic": "YOU vs DAVID (baszucki)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 214,081 views \u2022 ~239m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dJRU4v78QfM"
   },
   {
     "topic": "Your HORRENDOUS Clips...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 314,998 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 362,764 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
   },
   {
-    "topic": "Burglin\u2019 Gnomes With Moist Critical ",
+    "topic": "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,114 views \u2022 ~447m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WZGDptK-vuM"
+    "why": "Trending on YouTube \u2022 91,940 views \u2022 ~453m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IJXhkibXCNg"
   },
   {
-    "topic": "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer",
+    "topic": "SCP:GALLIONIC | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,578 views \u2022 ~148m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
+    "why": "Trending on YouTube \u2022 94,955 views \u2022 ~513m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RSbPdf3CGD8"
   },
   {
     "topic": "YFG Fatso - Ok Teeze (Official Music Video) [Shot by @Fatboyyfilms ]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,904 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 76,563 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9ZGwI6Xg7bI"
+  },
+  {
+    "topic": "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 24,749 views \u2022 ~203m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
