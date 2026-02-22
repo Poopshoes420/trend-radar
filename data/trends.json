@@ -54,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbd8hp/i_havent_kept_up_on_his_channel_as_of_late_but/"
   },
   {
-    "topic": "Average Youtube experience",
+    "topic": "Do you think YouTube favours companies rather than actual people as YouTube channels nowadays?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbilmk/do_you_think_youtube_favours_companies_rather/"
   },
   {
     "topic": "Ok what the FUCK?!",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
   },
   {
+    "topic": "Average Youtube experience",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
+  },
+  {
     "topic": "Ah yes, lies!",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb2z5q/ah_yes_lies/"
-  },
-  {
-    "topic": "Youtube has an easter egg for the 67th like",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ras2sk/youtube_has_an_easter_egg_for_the_67th_like/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbswp/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Ship Believed To Be Carrying Russian Fuel Reportedly On Its Way To Cuba, Challenging U.S. Blockade",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb2ggx/ship_believed_to_be_carrying_russian_fuel/"
-  },
-  {
     "topic": "Trump says he is sending a hospital ship to Greenland",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbb84t/trump_says_he_is_sending_a_hospital_ship_to/"
+  },
+  {
+    "topic": "Ship Believed To Be Carrying Russian Fuel Reportedly On Its Way To Cuba, Challenging U.S. Blockade",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb2ggx/ship_believed_to_be_carrying_russian_fuel/"
   },
   {
     "topic": "Sofia airport to close for civilian flights as US military planes stage in Bulgaria",
@@ -126,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbh645/sofia_airport_to_close_for_civilian_flights_as_us/"
   },
   {
-    "topic": "India joins over 100 nations in condemning Israel\u2019s 'unilateral' actions in West Bank",
+    "topic": "Greenland does not need US hospital boat sent by Trump, says Denmark",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbr36/india_joins_over_100_nations_in_condemning/"
-  },
-  {
-    "topic": "Cardi B on Ramadan: \"God knew not to make me no Muslim. Bitch if I wake up and I go three hours without eating, I start hearing voices and shit\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rb9tgl/cardi_b_on_ramadan_god_knew_not_to_make_me_no/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1razm2f/the_decline_of_the_dragon_age_series_should_be/"
   },
   {
+    "topic": "Roblox responds to LA County lawsuit, the latest of many alleging the game fails to protect children from predators: 'While no system can be perfect, our commitment to safety never ends'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbdccg/roblox_responds_to_la_county_lawsuit_the_latest/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS | SLUR SATURDAY w/ HUTCHMF | #ShartTillYouCan'tShartNoMore #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,182,487 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 1,189,268 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z5fdNO52wU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 513,848 views \u2022 ~677m old",
+    "why": "Trending on YouTube \u2022 534,938 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,527 views \u2022 ~669m old",
+    "why": "Trending on YouTube \u2022 178,340 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IJXhkibXCNg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,614 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 44,344 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
