@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Norway Olympics",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbke5h/norway_olympics/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbgt4n/free_will_is_crazy_nowadays/"
+  },
+  {
+    "topic": "This Italian restaurant in Malta charges \u20ac100 if you ask for a Hawaiian pizza",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb04ii/this_italian_restaurant_in_malta_charges_100_if/"
   },
   {
     "topic": "I haven't kept up on his channel as of late but isnt 11 million views in 12 hours really low for mr beast",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
   },
   {
-    "topic": "Greenland does not need US hospital boat sent by Trump, says Denmark",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb2ggx/ship_believed_to_be_carrying_russian_fuel/"
+  },
+  {
+    "topic": "Ukraine to boycott Paralympic Games ceremony due to Russian participation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbm4q5/ukraine_to_boycott_paralympic_games_ceremony_due/"
   },
   {
     "topic": "Sofia airport to close for civilian flights as US military planes stage in Bulgaria",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 427,713 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 446,241 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dJRU4v78QfM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,925 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 56,367 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
