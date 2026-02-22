@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Norway Olympics",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbke5h/norway_olympics/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb04ii/this_italian_restaurant_in_malta_charges_100_if/"
-  },
-  {
-    "topic": "Westworld in 1973 had it right",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb7rmz/westworld_in_1973_had_it_right/"
   },
   {
     "topic": "Free will is crazy nowadays \ud83d\ude02",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbilmk/do_you_think_youtube_favours_companies_rather/"
   },
   {
-    "topic": "Ok what the FUCK?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
-  },
-  {
     "topic": "Suggest some YouTube videos to watch. My food is getting cold",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbj2pd/suggest_some_youtube_videos_to_watch_my_food_is/"
+  },
+  {
+    "topic": "Ok what the FUCK?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
   },
   {
     "topic": "Average Youtube experience",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbswp/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
     "topic": "Greenland does not need US hospital boat sent by Trump, says Denmark",
     "sources": [
       "reddit"
@@ -106,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/"
+  },
+  {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbswp/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Trump says he is sending a hospital ship to Greenland",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rayqts/arc_raiders_is_such_a_huge_hit_nexon_has_put/"
   },
   {
-    "topic": "\u2018I think the franchise is dead\u2019: Saints Row design director says IP owner \u2018ghosted\u2019 his prequel pitch",
+    "topic": "Gaming buddy (parker the doggo)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rasrlb/i_think_the_franchise_is_dead_saints_row_design/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbiq86/gaming_buddy_parker_the_doggo/"
   },
   {
     "topic": "YOU vs DAVID (baszucki)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 386,854 views \u2022 ~545m old",
+    "why": "Trending on YouTube \u2022 415,682 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dJRU4v78QfM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,111 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 52,258 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
