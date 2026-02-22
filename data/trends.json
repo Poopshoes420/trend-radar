@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "The Faucet",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb8uzs/the_faucet/"
-  },
-  {
     "topic": "[OC] \u2604\ufe0f",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbkk9s/oc/"
+  },
+  {
+    "topic": "The Faucet",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb8uzs/the_faucet/"
   },
   {
     "topic": "Free will is crazy nowadays \ud83d\ude02",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbh645/sofia_airport_to_close_for_civilian_flights_as_us/"
   },
   {
-    "topic": "India joins over 100 nations in condemning Israel\u2019s 'unilateral' actions in West Bank",
+    "topic": "India delays U.S. trade talks after Supreme Court rejects Trump tariffs",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbr36/india_joins_over_100_nations_in_condemning/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbklw5/india_delays_us_trade_talks_after_supreme_court/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rayqts/arc_raiders_is_such_a_huge_hit_nexon_has_put/"
   },
   {
-    "topic": "YOU vs DAVID (baszucki)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 457,167 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dJRU4v78QfM"
-  },
-  {
     "topic": "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,775 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 59,469 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
