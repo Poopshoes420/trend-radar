@@ -1,14 +1,5 @@
 [
   {
-    "topic": "The Faucet",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb8uzs/the_faucet/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "The Faucet",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rb8uzs/the_faucet/"
   },
   {
     "topic": "This Italian restaurant in Malta charges \u20ac100 if you ask for a Hawaiian pizza",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
   },
   {
+    "topic": "Suggest some YouTube videos to watch. My food is getting cold",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbj2pd/suggest_some_youtube_videos_to_watch_my_food_is/"
+  },
+  {
     "topic": "Average Youtube experience",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
-  },
-  {
-    "topic": "Ah yes, lies!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb2z5q/ah_yes_lies/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb2ggx/ship_believed_to_be_carrying_russian_fuel/"
   },
   {
-    "topic": "Sofia airport to close for civilian flights as US military planes stage in Bulgaria",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbh645/sofia_airport_to_close_for_civilian_flights_as_us/"
-  },
-  {
     "topic": "Greenland does not need US hospital boat sent by Trump, says Denmark",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/"
+  },
+  {
+    "topic": "Sofia airport to close for civilian flights as US military planes stage in Bulgaria",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbh645/sofia_airport_to_close_for_civilian_flights_as_us/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbf34i/simple_questions_sunday/"
   },
   {
-    "topic": "My weekend plans haven't changed since 1999...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rb31yu/my_weekend_plans_havent_changed_since_1999/"
-  },
-  {
     "topic": "Slay the Spire 2 release date announcement forces Handmancers devs to delay their release",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbhbu0/slay_the_spire_2_release_date_announcement_forces/"
+  },
+  {
+    "topic": "My weekend plans haven't changed since 1999...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rb31yu/my_weekend_plans_havent_changed_since_1999/"
   },
   {
     "topic": "The Decline of the Dragon Age Series Should be Studied",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,189,268 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 1,191,822 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z5fdNO52wU8"
-  },
-  {
-    "topic": "Your HORRENDOUS Clips...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 534,938 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
   },
   {
     "topic": "THIS IS NOT A NORMAL GROCERY STORE [Hellmart]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,340 views \u2022 ~700m old",
+    "why": "Trending on YouTube \u2022 179,835 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IJXhkibXCNg"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,344 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 45,495 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
