@@ -72,22 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbilmk/do_you_think_youtube_favours_companies_rather/"
   },
   {
-    "topic": "Ok what the FUCK?!",
+    "topic": "Anyone else feel like they just grabbed the search engine page straight from PH?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbpye0/anyone_else_feel_like_they_just_grabbed_the/"
   },
   {
-    "topic": "Suggest some YouTube videos to watch. My food is getting cold",
+    "topic": "YouTube Ad Center is a fraud. Blocking and reporting Ads does nothing.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbj2pd/suggest_some_youtube_videos_to_watch_my_food_is/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbqtyf/youtube_ad_center_is_a_fraud_blocking_and/"
   },
   {
     "topic": "Leader of Mexicos Jalisco Cartel Nemesio Ruben Oseguera Cervantes Alias \"El Mencho\" has been killed by the Mexican Army",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbswp/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Greenland prime minister says 'no thanks' to Trump's hospital ship",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbqk01/greenland_prime_minister_says_no_thanks_to_trumps/"
-  },
-  {
     "topic": "Mexican cartel leader Nemesio \u2018el Mencho\u2019 Oseguera killed in federal operation",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbtlgn/mexican_cartel_leader_nemesio_el_mencho_oseguera/"
+  },
+  {
+    "topic": "Greenland prime minister says 'no thanks' to Trump's hospital ship",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbqk01/greenland_prime_minister_says_no_thanks_to_trumps/"
   },
   {
     "topic": "Trump curious why Iran has not 'capitulated', Witkoff says",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,636,166 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 1,708,610 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BjB1MvWZn4s"
   },
   {
@@ -192,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 572,034 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 585,310 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8xb_P7ureNU"
-  },
-  {
-    "topic": "GOO GOO GAGA IS IN MY BED?!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 262,876 views \u2022 ~294m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZbEW9s8KwHs"
   },
   {
     "topic": "It Watches",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,452 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 208,245 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_cFkX3D9y8"
+  },
+  {
+    "topic": "GOO GOO GAGA IS IN MY BED?!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 276,521 views \u2022 ~315m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZbEW9s8KwHs"
   }
 ]
