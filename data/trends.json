@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ras2sk/youtube_has_an_easter_egg_for_the_67th_like/"
   },
   {
+    "topic": "Ok what the FUCK?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
+  },
+  {
     "topic": "Does Anyone Remember This Thumbnail Where If A Video Got Age-Restricted Or Deleted?",
     "sources": [
       "reddit"
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb77a4/does_anyone_remember_this_thumbnail_where_if_a/"
   },
   {
-    "topic": "Mounir strikes again",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ravaoh/mounir_strikes_again/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
     "sources": [
       "reddit"
@@ -97,15 +97,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbswp/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Taliban Legalizes Wife Beating: Afghanistan's Shocking 2026 Penal Code and the World's Outcry",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbcdea/taliban_legalizes_wife_beating_afghanistans/"
   },
   {
     "topic": "Ship Believed To Be Carrying Russian Fuel Reportedly On Its Way To Cuba, Challenging U.S. Blockade",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb9d0a/denmarks_joint_arctic_command_evacuates_us/"
+  },
+  {
+    "topic": "Russian missile strikes Oreo factory in Ukraine, foreign minister says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbahe4/russian_missile_strikes_oreo_factory_in_ukraine/"
   },
   {
     "topic": "Cardi B on Ramadan: \"God knew not to make me no Muslim. Bitch if I wake up and I go three hours without eating, I start hearing voices and shit\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 972,244 views \u2022 ~38m old",
+    "why": "Trending on YouTube \u2022 1,029,497 views \u2022 ~54m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z5fdNO52wU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 469,955 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 483,395 views \u2022 ~618m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,395 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 138,672 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IJXhkibXCNg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 122,536 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 126,009 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RSbPdf3CGD8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,400 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 37,877 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
