@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbpye0/anyone_else_feel_like_they_just_grabbed_the/"
   },
   {
-    "topic": "Do you think YouTube favours companies rather than actual people as YouTube channels nowadays?",
+    "topic": "Why isn't there an AI filter yet?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbilmk/do_you_think_youtube_favours_companies_rather/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rby61n/why_isnt_there_an_ai_filter_yet/"
   },
   {
     "topic": "Leader of Mexicos Jalisco Cartel Nemesio Ruben Oseguera Cervantes Alias \"El Mencho\" has been killed by the Mexican Army",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbswp/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Puerto Vallarta, Mexico Under Siege After Army Kills Major Cartel Leader",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbwzot/puerto_vallarta_mexico_under_siege_after_army/"
+  },
+  {
     "topic": "Mexican cartel leader Nemesio \u2018el Mencho\u2019 Oseguera killed in federal operation",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbqk01/greenland_prime_minister_says_no_thanks_to_trumps/"
-  },
-  {
-    "topic": "Puerto Vallarta, Mexico Under Siege After Army Kills Major Cartel Leader",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbwzot/puerto_vallarta_mexico_under_siege_after_army/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rb31yu/my_weekend_plans_havent_changed_since_1999/"
   },
   {
-    "topic": "Roblox responds to LA County lawsuit, the latest of many alleging the game fails to protect children from predators: 'While no system can be perfect, our commitment to safety never ends'",
+    "topic": "I hope to see at least one other sci fi or fantasy game with a \"Sense of Wonder\" as strong as ME1's in my lifetime!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbdccg/roblox_responds_to_la_county_lawsuit_the_latest/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rbxyi0/i_hope_to_see_at_least_one_other_sci_fi_or/"
   },
   {
     "topic": "Aura Of Ustaad - Lyric Video | Ustaad Bhagat Singh | Pawan Kalyan | Harish Shankar | Devi Sri Prasad",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,890,394 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 1,978,976 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BjB1MvWZn4s"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 613,001 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 624,875 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8xb_P7ureNU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 256,562 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 286,683 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_cFkX3D9y8"
   },
   {
@@ -208,7 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 320,187 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 336,270 views \u2022 ~404m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZbEW9s8KwHs"
+  },
+  {
+    "topic": "Mansplaining Resident Evil Lore",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 161,051 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=V563dGxDiaI"
+  },
+  {
+    "topic": "Disarming A Bomb With Jynxzi Is IMPOSSIBLE.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 105,249 views \u2022 ~245m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i4sWgov4sWU"
   }
 ]
