@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1raore2/average_youtube_experience/"
   },
   {
-    "topic": "Ah yes, lies!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb2z5q/ah_yes_lies/"
-  },
-  {
     "topic": "Ok what the FUCK?!",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbflfh/ok_what_the_fuck/"
+  },
+  {
+    "topic": "Ah yes, lies!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rb2z5q/ah_yes_lies/"
   },
   {
     "topic": "Youtube has an easter egg for the 67th like",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbh645/sofia_airport_to_close_for_civilian_flights_as_us/"
   },
   {
-    "topic": "Denmark's Joint Arctic Command evacuates US submarine crew member in Greenlandic waters",
+    "topic": "India joins over 100 nations in condemning Israel\u2019s 'unilateral' actions in West Bank",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rb9d0a/denmarks_joint_arctic_command_evacuates_us/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbbr36/india_joins_over_100_nations_in_condemning/"
   },
   {
     "topic": "Cardi B on Ramadan: \"God knew not to make me no Muslim. Bitch if I wake up and I go three hours without eating, I start hearing voices and shit\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,166,812 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 1,182,487 views \u2022 ~113m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z5fdNO52wU8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 502,578 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 513,848 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HgeOw1JAqdQ"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 155,935 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 173,527 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IJXhkibXCNg"
-  },
-  {
-    "topic": "SCP:GALLIONIC | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 130,739 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RSbPdf3CGD8"
   },
   {
     "topic": "Monster Hunter Stories 3: Twisted Reflection - Go Forth Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,110 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 41,614 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNZEhzQ8euc"
   }
 ]
