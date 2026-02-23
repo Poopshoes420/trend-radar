@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbx6rg/only_possible_explanation/"
   },
   {
-    "topic": "Losing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbx2ow/losing/"
-  },
-  {
     "topic": "This is how horses sit",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc4j7g/this_is_how_horses_sit/"
+  },
+  {
+    "topic": "To my gym bros",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc78pr/to_my_gym_bros/"
   },
   {
     "topic": "If this video came out today, everyone would think it\u2019s AI",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbqtgx/youtube_has_quietly_and_intentionally_cut_back/"
   },
   {
-    "topic": "I haven't kept up on his channel as of late but isnt 11 million views in 12 hours really low for mr beast",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbd8hp/i_havent_kept_up_on_his_channel_as_of_late_but/"
-  },
-  {
     "topic": "The amount of ai slop on youtube has made me disappointed in just how much of it my mom watches",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rc5tvf/the_amount_of_ai_slop_on_youtube_has_made_me/"
+  },
+  {
+    "topic": "I haven't kept up on his channel as of late but isnt 11 million views in 12 hours really low for mr beast",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbd8hp/i_havent_kept_up_on_his_channel_as_of_late_but/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1459, Part 1 (Thread #1606)",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 578,977 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 584,419 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lBjOkp8zeI4"
-  },
-  {
-    "topic": "It Watches",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 577,712 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=K_cFkX3D9y8"
   },
   {
     "topic": "YoungBoy Never Broke Again - Another Episode [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,235 views \u2022 ~150m old",
+    "why": "Trending on YouTube \u2022 160,617 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KEBbwRTf8mw"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 384,803 views \u2022 ~630m old",
+    "why": "Trending on YouTube \u2022 423,488 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V563dGxDiaI"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,381 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 356,398 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i4sWgov4sWU"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,850 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 133,611 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=utBWqGAz6fM"
   },
   {
@@ -232,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,785 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 113,468 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SArhNp6p4jM"
+  },
+  {
+    "topic": "T.I. - War (Official Audio)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,140 views \u2022 ~204m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jFLA6ynTClk"
   }
 ]
