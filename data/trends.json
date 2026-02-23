@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcgi83/im_sure_no_one_will_care_since_im_irrelevant_but/"
   },
   {
-    "topic": "A small Youtuber bullying a smaller youtuber",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcjsaf/a_small_youtuber_bullying_a_smaller_youtuber/"
-  },
-  {
     "topic": "Why doesnt YouTube create filter that hides AI generated videos or videos that use AI voices?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcpvqy/why_doesnt_youtube_create_filter_that_hides_ai/"
+  },
+  {
+    "topic": "A small Youtuber bullying a smaller youtuber",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcjsaf/a_small_youtuber_bullying_a_smaller_youtuber/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1460, Part 1 (Thread #1607)",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rccrry/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "25 Mexican National Guard troops left dead during an operation that killed cartel leader \u2018El Mencho\u2019",
+    "topic": "US ambassador to France banned from meeting French government",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rck7tu/25_mexican_national_guard_troops_left_dead_during/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcujsp/us_ambassador_to_france_banned_from_meeting/"
   },
   {
     "topic": "Netherlands appoints first out gay and youngest prime minister",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,687,532 views \u2022 ~552m old",
+    "why": "Trending on YouTube \u2022 1,798,339 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EN58d013xWY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 628,395 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 638,745 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BCQwSlYlEe8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,625 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 114,259 views \u2022 ~162m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8sAVQWKgMjg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,680 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 225,591 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xPaKRV76Tlc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,460 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 268,311 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4g8OciWNJn4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,640 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 71,040 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C7VFe2YNFm8"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,277 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 39,430 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CJ0pnRhIN5M"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,101 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 20,778 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MTYB31KJyds"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,693 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 8,991 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H4-rMC88ylQ"
   }
 ]
