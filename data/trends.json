@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc9dqn/construction_workers_dream_come_true/"
   },
   {
-    "topic": "point",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc4fue/point/"
-  },
-  {
     "topic": "Bond, James Bond",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rcjaio/bond_james_bond/"
   },
   {
-    "topic": "This is how horses sit",
+    "topic": "point",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc4j7g/this_is_how_horses_sit/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc4fue/point/"
+  },
+  {
+    "topic": "First day at work",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rchtm7/first_day_at_work/"
   },
   {
     "topic": "Who else agrees that Mr.beast kinda ruined YouTube a bit",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcjsaf/a_small_youtuber_bullying_a_smaller_youtuber/"
   },
   {
-    "topic": "I fucking hate these epstein edits",
+    "topic": "Premium users should be able to disable shorts",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rc4vu7/i_fucking_hate_these_epstein_edits/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcgj0j/premium_users_should_be_able_to_disable_shorts/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1460, Part 1 (Thread #1607)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rck7tu/25_mexican_national_guard_troops_left_dead_during/"
   },
   {
+    "topic": "50% Drop in Study Permits Issued to Indian Students by Canada in 2025",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcm6u3/50_drop_in_study_permits_issued_to_indian/"
+  },
+  {
     "topic": "\u2018Narco-Submarine\u2019 Carrying 4 Tons of Cocaine Captured by Mexico\u2019s Navy",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rc87xs/iceland_looks_to_fasttrack_vote_on_joining_eu/"
-  },
-  {
-    "topic": "50% Drop in Study Permits Issued to Indian Students by Canada in 2025",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcm6u3/50_drop_in_study_permits_issued_to_indian/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcgcgk/resident_evil_requiem_leakers_deserve_a_thousand/"
   },
   {
-    "topic": "I had a vision and went through with it",
+    "topic": "So is Pokemon effectively an invincible IP?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rc92s6/i_had_a_vision_and_went_through_with_it/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcc9ag/so_is_pokemon_effectively_an_invincible_ip/"
   },
   {
     "topic": "IVE \uc544\uc774\ube0c 'BLACKHOLE' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,124,419 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 3,291,553 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Lmy7qwmSMc"
   },
   {
@@ -192,39 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 839,605 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 1,080,275 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EN58d013xWY"
-  },
-  {
-    "topic": "Aaya Sher - Song Promo | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,355,256 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Z2-_EYDUFAk"
   },
   {
     "topic": "NCT JNJM \uc5d4\uc2dc\ud2f0 \uc81c\ub178\uc7ac\ubbfc 'BOTH SIDES' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 613,242 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 677,553 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QWFIz75ad6I"
   },
   {
-    "topic": "11900+ Knocks (Stella Montis demon)",
+    "topic": "Thaai Kizhavi - Official Trailer | Radikaa Sarathkumar | Sivakumar Murugesan | Nivas K Prasanna",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 550,583 views \u2022 ~458m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ol83Zt74I0s"
+    "why": "Trending on YouTube \u2022 471,217 views \u2022 ~404m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BCQwSlYlEe8"
   },
   {
     "topic": "[Official Trailer] Girl Rules \u0e01\u0e0e\u0e2b\u0e25\u0e31\u0e01...\u0e2b\u0e49\u0e32\u0e21\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 269,810 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 305,732 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lDUD3omAlHA"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,421 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 154,044 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zfq87oi0kGE"
   },
   {
@@ -240,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,279 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 41,626 views \u2022 ~254m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4g8OciWNJn4"
+  },
+  {
+    "topic": "THE NEXT CHAPTER | WWE 2K26 Official Island Trailer | 2K",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 18,596 views \u2022 ~194m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CJ0pnRhIN5M"
   },
   {
     "topic": "Winter Storm HQ Live Coverage",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3GmtapNDbY0"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1AYHz1VlRQ"
   }
 ]
