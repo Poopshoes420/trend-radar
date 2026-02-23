@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbx6rg/only_possible_explanation/"
   },
   {
+    "topic": "Who was this for you?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcga23/who_was_this_for_you/"
+  },
+  {
     "topic": "If this video came out today, everyone would think it\u2019s AI",
     "sources": [
       "reddit"
@@ -63,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rc4vu7/i_fucking_hate_these_epstein_edits/"
   },
   {
-    "topic": "Who was this for you?",
+    "topic": "I\u2019m sure no one will care since I\u2019m irrelevant, but they are claiming I showed nudity",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcga23/who_was_this_for_you/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcgi83/im_sure_no_one_will_care_since_im_irrelevant_but/"
   },
   {
     "topic": "YouTube has quietly and intentionally cut back quality on PC desktops",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbqtgx/youtube_has_quietly_and_intentionally_cut_back/"
   },
   {
-    "topic": "The amount of ai slop on youtube has made me disappointed in just how much of it my mom watches",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rc5tvf/the_amount_of_ai_slop_on_youtube_has_made_me/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1460, Part 1 (Thread #1607)",
     "sources": [
       "reddit"
@@ -97,15 +97,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rccrry/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Zelenskyy: Putin has effectively started World War III, but Ukraine is preventing full-scale escalation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcbnx8/zelenskyy_putin_has_effectively_started_world_war/"
   },
   {
     "topic": "Iceland looks to fast-track vote on joining EU",
@@ -135,6 +126,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rbwzot/puerto_vallarta_mexico_under_siege_after_army/"
   },
   {
+    "topic": "\u2018Narco-Submarine\u2019 Carrying 4 Tons of Cocaine Captured by Mexico\u2019s Navy",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcfrwa/narcosubmarine_carrying_4_tons_of_cocaine/"
+  },
+  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcc7up/my_game_about_laying_off_everyone_joins_steam/"
   },
   {
+    "topic": "Resident Evil Requiem Leakers Deserve \"A Thousand Deaths\", Says Hideki Kamiya",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcgcgk/resident_evil_requiem_leakers_deserve_a_thousand/"
+  },
+  {
     "topic": "I had a vision and went through with it",
     "sources": [
       "reddit"
@@ -171,60 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rc92s6/i_had_a_vision_and_went_through_with_it/"
   },
   {
-    "topic": "So is Pokemon effectively an invincible IP?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcc9ag/so_is_pokemon_effectively_an_invincible_ip/"
-  },
-  {
     "topic": "IVE \uc544\uc774\ube0c 'BLACKHOLE' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 893,019 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 1,355,981 views \u2022 ~312m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Lmy7qwmSMc"
-  },
-  {
-    "topic": "This RE4 Remake Randomizer is insane...\ud83d\udd34Full Stream\ud83d\udd34 (2-22)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 130,636 views \u2022 ~36m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zfq87oi0kGE"
   },
   {
     "topic": "11900+ Knocks (Stella Montis demon)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 544,007 views \u2022 ~206m old",
+    "why": "Trending on YouTube \u2022 546,157 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ol83Zt74I0s"
+  },
+  {
+    "topic": "This RE4 Remake Randomizer is insane...\ud83d\udd34Full Stream\ud83d\udd34 (2-22)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 146,626 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zfq87oi0kGE"
   },
   {
     "topic": "[Official Trailer] Girl Rules \u0e01\u0e0e\u0e2b\u0e25\u0e31\u0e01...\u0e2b\u0e49\u0e32\u0e21\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,269 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 159,072 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lDUD3omAlHA"
-  },
-  {
-    "topic": "YoungBoy Never Broke Again - Another Episode [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 282,402 views \u2022 ~663m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KEBbwRTf8mw"
   },
   {
     "topic": "T.I. - War (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,978 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 60,935 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jFLA6ynTClk"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3GmtapNDbY0"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i1AYHz1VlRQ"
   }
 ]
