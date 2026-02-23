@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "To my gym bros",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc78pr/to_my_gym_bros/"
-  },
-  {
     "topic": "Construction Workers Dream come true.",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc9dqn/construction_workers_dream_come_true/"
   },
   {
-    "topic": "only possible explanation",
+    "topic": "To my gym bros",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rbx6rg/only_possible_explanation/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc78pr/to_my_gym_bros/"
+  },
+  {
+    "topic": "This is how horses sit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rc4j7g/this_is_how_horses_sit/"
   },
   {
     "topic": "If this video came out today, everyone would think it\u2019s AI",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 592,323 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 595,599 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lBjOkp8zeI4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,390 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 284,161 views \u2022 ~465m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xwU6cko2TpE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,414 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 239,638 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KEBbwRTf8mw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 184,508 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 200,055 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=utBWqGAz6fM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 138,505 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 147,176 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SArhNp6p4jM"
   },
   {
@@ -224,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,849 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 39,621 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jFLA6ynTClk"
+  },
+  {
+    "topic": "Winter Storm HQ Live Coverage",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3GmtapNDbY0"
   }
 ]
