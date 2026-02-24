@@ -1,5 +1,14 @@
 [
   {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
     "topic": "It IS big",
     "sources": [
       "reddit"
@@ -9,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdewzv/it_is_big/"
   },
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "topic": "Throbbin from Gyattham",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
   },
   {
     "topic": "Fast doggo",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdjdxt/every_outdoor_runner/"
-  },
-  {
-    "topic": "Will they ever meet again?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rd7v23/will_they_ever_meet_again/"
   },
   {
     "topic": "I cannot unsee it now tf",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdhibo/switzerland_leads_europe_in_technology_found_in/"
   },
   {
-    "topic": "Macron: ''This war is a triple failure for Russia''",
+    "topic": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdcno7/macron_this_war_is_a_triple_failure_for_russia/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdffkk/us_has_breached_trade_deal_and_europe_is_ready_to/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,950,184 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 3,915,713 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iAtoZar5W58"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,257,088 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 1,265,475 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rNCFe6Qob3Y"
   },
   {
@@ -200,23 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 135,944 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 137,140 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtPZ6S0gaM4"
+  },
+  {
+    "topic": "Marvel's Wolverine - Official Release Date Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 34,888 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0XdGFYXkk6w"
   },
   {
     "topic": "For All Mankind \u2014 Season 5 Official Trailer | Apple TV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,090 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 55,584 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zojwKLlY_H8"
+  },
+  {
+    "topic": "Slayyyter - OLD TECHNOLOGY (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 18,577 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rg1CEKM0nd0"
   },
   {
     "topic": "The Madison | Official Trailer | Paramount+",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,329 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 24,731 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSb-X_YkLg4"
   }
 ]
