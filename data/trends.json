@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Fast doggo",
+    "topic": "It IS big",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdckal/fast_doggo/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdewzv/it_is_big/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "It IS big",
+    "topic": "Fast doggo",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdewzv/it_is_big/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdckal/fast_doggo/"
   },
   {
     "topic": "Will they ever meet again?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdcjb2/senior_russian_official_claims_russian_soldiers/"
   },
   {
-    "topic": "US ambassador to France banned from meeting French government",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcujsp/us_ambassador_to_france_banned_from_meeting/"
-  },
-  {
     "topic": "Macron: ''This war is a triple failure for Russia''",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdcno7/macron_this_war_is_a_triple_failure_for_russia/"
   },
   {
-    "topic": "Rodrigo Duterte: Ex-Philippine president faces court for crimes against humanity",
+    "topic": "Kremlin says Russia has not achieved all its goals in war against Ukraine",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd8d51/rodrigo_duterte_exphilippine_president_faces/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rddgoh/kremlin_says_russia_has_not_achieved_all_its/"
+  },
+  {
+    "topic": "US ambassador to France banned from meeting French government",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcujsp/us_ambassador_to_france_banned_from_meeting/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,24 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Anyone ever think how weird first person shooter views actually are?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdgo2m/anyone_ever_think_how_weird_first_person_shooter/"
+  },
+  {
+    "topic": "The Masters of Doom - John Romero and John Carmack with their matching Ferraris.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdgozf/the_masters_of_doom_john_romero_and_john_carmack/"
+  },
+  {
     "topic": "The Pok\u00e9mon FireRed and LeafGreen Switch re-release is already topping the eShop charts",
     "sources": [
       "reddit"
@@ -162,29 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcoljp/the_pok\u00e9mon_firered_and_leafgreen_switch/"
   },
   {
-    "topic": "Resident Evil: The current voice actresses of Jill, Claire and Rebecca. Nicole Tompkins, Stephanie Panisello and Erin Cahill",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcygae/resident_evil_the_current_voice_actresses_of_jill/"
-  },
-  {
-    "topic": "Beat Super Mario Bros 3 at the Nintendo Museum",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcwakk/beat_super_mario_bros_3_at_the_nintendo_museum/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | TEACHING ROGUE HOW THE LEBRON JAMES OF ARC RAIDERS DOES IT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,212,742 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 1,222,407 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rNCFe6Qob3Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,582 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 129,749 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtPZ6S0gaM4"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 352,092 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 391,827 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Q-i5CA0ogM"
   },
   {
-    "topic": "Bernard Picks My Operator in Rainbow Six Siege",
+    "topic": "Pokemon Stardew Valley Mods! Playing For The First Time In Forever",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 441,562 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=m8iJCE-o29A"
-  },
-  {
-    "topic": "Michigan vs. Duke",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KkzFTandyjw"
+    "why": "Trending on YouTube \u2022 36,656 views \u2022 ~70m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=v4xMVtW-RMU"
   }
 ]
