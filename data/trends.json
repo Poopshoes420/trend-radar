@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "This is why I have social anxiety \ud83e\udd72",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rcqq6c/this_is_why_i_have_social_anxiety/"
-  },
-  {
     "topic": "This is the toilet with the best view ever!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rd0yi0/this_is_the_toilet_with_the_best_view_ever/"
+  },
+  {
+    "topic": "This is why I have social anxiety \ud83e\udd72",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rcqq6c/this_is_why_i_have_social_anxiety/"
   },
   {
     "topic": "Bond, James Bond",
@@ -99,22 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcujsp/us_ambassador_to_france_banned_from_meeting/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1460, Part 1 (Thread #1607)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1461, Part 1 (Thread #1608)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rccrry/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Mexican Special Forces Kill Mastermind Behind Cartel Terrorism Outbreak",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd1fsp/mexican_special_forces_kill_mastermind_behind/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd4p5c/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Netherlands appoints first out gay and youngest prime minister",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcp5dy/netherlands_appoints_first_out_gay_and_youngest/"
+  },
+  {
+    "topic": "Trump growing frustrated with limits of Iran military options, sources say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd25sv/trump_growing_frustrated_with_limits_of_iran/"
   },
   {
     "topic": "Mexico's most-wanted cartel leader was killed after visit from romantic partner",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcwakk/beat_super_mario_bros_3_at_the_nintendo_museum/"
   },
   {
-    "topic": "Monday 2/23",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 161,757 views \u2022 ~47m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FeoHB9O2Rp4"
-  },
-  {
     "topic": "The Dumbest Game We've Ever Played",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 354,348 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 480,725 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RXFy3z5AUuo"
   },
   {
@@ -200,39 +192,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 414,030 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 475,863 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p7XwXHTIPcA"
+  },
+  {
+    "topic": "Bernard Picks My Operator in Rainbow Six Siege",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 142,380 views \u2022 ~219m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m8iJCE-o29A"
   },
   {
     "topic": "ENA: Dating Oblivion - Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,474 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 245,055 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zPHLojHUCvk"
-  },
-  {
-    "topic": "Baby Keem - Birds & the Bees (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 245,963 views \u2022 ~415m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8sAVQWKgMjg"
   },
   {
     "topic": "T.I. - The Right One (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,830 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 225,316 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjfg9fzTo_8"
+  },
+  {
+    "topic": "Baby Keem - Birds & the Bees (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 292,283 views \u2022 ~527m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8sAVQWKgMjg"
   },
   {
     "topic": "This Might Be The Scariest Demo Ever\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,969 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 141,445 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wsTZxwEVHkE"
   },
   {
@@ -240,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 122,669 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 139,424 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C7VFe2YNFm8"
   },
   {
-    "topic": "A GREAT AWAKENING | Official Trailer",
+    "topic": "The Mummy Returns - Official 25th Anniversary Trailer (2026) Brendan Fraser, Rachel Weisz",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,113 views \u2022 ~670m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=H4-rMC88ylQ"
+    "why": "Trending on YouTube \u2022 32,154 views \u2022 ~302m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=czuNF3JO9fk"
+  },
+  {
+    "topic": "Marshals | Trailer 2 | Watch on CBS - Stream on Paramount+",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,262 views \u2022 ~565m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FGKuQa6ulEQ"
   }
 ]
