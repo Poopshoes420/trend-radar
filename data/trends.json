@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "This is why I have social anxiety \ud83e\udd72",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rcqq6c/this_is_why_i_have_social_anxiety/"
-  },
-  {
     "topic": "Will they ever meet again?",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rd7v23/will_they_ever_meet_again/"
+  },
+  {
+    "topic": "This is why I have social anxiety \ud83e\udd72",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rcqq6c/this_is_why_i_have_social_anxiety/"
   },
   {
     "topic": "Bond, James Bond",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd8cgy/i_cannot_unsee_it_now_tf/"
   },
   {
-    "topic": "Who Remembers Are ChildHood TV Show On PBS Kids Zoom. (Zoom came out in 1999)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd03iq/who_remembers_are_childhood_tv_show_on_pbs_kids/"
-  },
-  {
     "topic": "Genuinely why do people do this in comments? Do they think it makes them cool???",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd90eg/genuinely_why_do_people_do_this_in_comments_do/"
   },
   {
-    "topic": "A small Youtuber bullying a smaller youtuber",
+    "topic": "Wtf is this?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcjsaf/a_small_youtuber_bullying_a_smaller_youtuber/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd86dj/wtf_is_this/"
+  },
+  {
+    "topic": "Who Remembers Are ChildHood TV Show On PBS Kids Zoom. (Zoom came out in 1999)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd03iq/who_remembers_are_childhood_tv_show_on_pbs_kids/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1461, Part 1 (Thread #1608)",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcp8s0/mexicos_mostwanted_cartel_leader_was_killed_after/"
   },
   {
-    "topic": "Flavor Flav says he'll host the USA Women's Hockey gold medal team in Las Vegas",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rd35th/flavor_flav_says_hell_host_the_usa_womens_hockey/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -180,35 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcygae/resident_evil_the_current_voice_actresses_of_jill/"
   },
   {
-    "topic": "When the Ladies LACE UP to FIGHT",
+    "topic": "Beat Super Mario Bros 3 at the Nintendo Museum",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 3,052,713 views \u2022 ~45m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1UZe3UNNLKs"
-  },
-  {
-    "topic": "12000+ Knocks (Stella Montis PvP)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 262,133 views \u2022 ~193m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Pyhc9bO_cfw"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcwakk/beat_super_mario_bros_3_at_the_nintendo_museum/"
   },
   {
     "topic": "The Dumbest Game We've Ever Played",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 677,034 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 723,435 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RXFy3z5AUuo"
+  },
+  {
+    "topic": "12000+ Knocks (Stella Montis PvP)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 263,422 views \u2022 ~254m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pyhc9bO_cfw"
   },
   {
     "topic": "Bernard Picks My Operator in Rainbow Six Siege",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 286,254 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 329,153 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m8iJCE-o29A"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,288 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 208,289 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Q-i5CA0ogM"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 338,003 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 359,559 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zPHLojHUCvk"
   },
   {
@@ -232,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 307,967 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 321,771 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjfg9fzTo_8"
-  },
-  {
-    "topic": "Baby Keem - Birds & the Bees (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 365,995 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8sAVQWKgMjg"
   },
   {
     "topic": "This Might Be The Scariest Demo Ever\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,580 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 241,077 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wsTZxwEVHkE"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,199 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 189,309 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6GYZvR3jDak"
   },
   {
@@ -264,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,150 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 58,933 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=czuNF3JO9fk"
   }
 ]
