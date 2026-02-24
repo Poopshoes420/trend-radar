@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd03iq/who_remembers_are_childhood_tv_show_on_pbs_kids/"
   },
   {
-    "topic": "If this video came out today, everyone would think it\u2019s AI",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbxi84/if_this_video_came_out_today_everyone_would_think/"
-  },
-  {
     "topic": "A small Youtuber bullying a smaller youtuber",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcjsaf/a_small_youtuber_bullying_a_smaller_youtuber/"
+  },
+  {
+    "topic": "If this video came out today, everyone would think it\u2019s AI",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rbxi84/if_this_video_came_out_today_everyone_would_think/"
   },
   {
     "topic": "Seriously youtube.. police your ads, im just trying to watch a British guy break games",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rcnt05/seriously_youtube_police_your_ads_im_just_trying/"
   },
   {
-    "topic": "US ambassador to France banned from meeting French government",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcujsp/us_ambassador_to_france_banned_from_meeting/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1461, Part 1 (Thread #1608)",
     "sources": [
       "reddit"
@@ -108,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd4p5c/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Netherlands appoints first out gay and youngest prime minister",
+    "topic": "US ambassador to France banned from meeting French government",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcp5dy/netherlands_appoints_first_out_gay_and_youngest/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcujsp/us_ambassador_to_france_banned_from_meeting/"
   },
   {
     "topic": "Trump growing frustrated with limits of Iran military options, sources say",
@@ -126,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd25sv/trump_growing_frustrated_with_limits_of_iran/"
   },
   {
+    "topic": "Netherlands appoints first out gay and youngest prime minister",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcp5dy/netherlands_appoints_first_out_gay_and_youngest/"
+  },
+  {
     "topic": "Mexico's most-wanted cartel leader was killed after visit from romantic partner",
     "sources": [
       "reddit"
@@ -133,6 +133,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rcp8s0/mexicos_mostwanted_cartel_leader_was_killed_after/"
+  },
+  {
+    "topic": "Flavor Flav says he'll host the USA Women's Hockey gold medal team in Las Vegas",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rd35th/flavor_flav_says_hell_host_the_usa_womens_hockey/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,28 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcygae/resident_evil_the_current_voice_actresses_of_jill/"
   },
   {
-    "topic": "Beat Super Mario Bros 3 at the Nintendo Museum",
+    "topic": "12000+ Knocks (Stella Montis PvP)",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcwakk/beat_super_mario_bros_3_at_the_nintendo_museum/"
+    "why": "Trending on YouTube \u2022 253,751 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pyhc9bO_cfw"
   },
   {
     "topic": "The Dumbest Game We've Ever Played",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 480,725 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 569,182 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RXFy3z5AUuo"
+  },
+  {
+    "topic": "Character Trailer - \"Varka: The Code of Chivalry\" | Genshin Impact #GenshinImpact #Varka",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 95,937 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_Q-i5CA0ogM"
   },
   {
     "topic": "Trading a NOOBINI to a DRAGON in 1 Hour in Steal a Brainrot..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 475,863 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 502,380 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p7XwXHTIPcA"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,380 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 200,650 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m8iJCE-o29A"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,055 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 287,424 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zPHLojHUCvk"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,316 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 266,904 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yjfg9fzTo_8"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,283 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 323,146 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8sAVQWKgMjg"
   },
   {
@@ -232,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 141,445 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 173,088 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wsTZxwEVHkE"
   },
   {
-    "topic": "DC Next Level - Trailer",
+    "topic": "Testing FAKE Survive Lava For Brainrots Games!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 139,424 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C7VFe2YNFm8"
+    "why": "Trending on YouTube \u2022 136,656 views \u2022 ~380m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6GYZvR3jDak"
   },
   {
     "topic": "The Mummy Returns - Official 25th Anniversary Trailer (2026) Brendan Fraser, Rachel Weisz",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,154 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 40,464 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=czuNF3JO9fk"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,262 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 26,736 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FGKuQa6ulEQ"
   }
 ]
