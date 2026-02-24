@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdckal/fast_doggo/"
   },
   {
-    "topic": "Will they ever meet again?",
+    "topic": "Every outdoor runner",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rd7v23/will_they_ever_meet_again/"
-  },
-  {
-    "topic": "Who else agrees that Mr.beast kinda ruined YouTube a bit",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rckdu7/who_else_agrees_that_mrbeast_kinda_ruined_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdjdxt/every_outdoor_runner/"
   },
   {
     "topic": "I cannot unsee it now tf",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd8cgy/i_cannot_unsee_it_now_tf/"
+  },
+  {
+    "topic": "Who else agrees that Mr.beast kinda ruined YouTube a bit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rckdu7/who_else_agrees_that_mrbeast_kinda_ruined_youtube/"
   },
   {
     "topic": "Wtf is this?",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd4p5c/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Mexico weighs legal action after Musk links president to drug cartels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdl280/mexico_weighs_legal_action_after_musk_links/"
+  },
+  {
     "topic": "Senior Russian official claims Russian soldiers don't need visas to enter European countries",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdcno7/macron_this_war_is_a_triple_failure_for_russia/"
-  },
-  {
-    "topic": "Kremlin says Russia has not achieved all its goals in war against Ukraine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rddgoh/kremlin_says_russia_has_not_achieved_all_its/"
   },
   {
     "topic": "Switzerland leads Europe in technology found in Russia's weapons",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Wolverine officially coming Sept 15",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdlw0s/wolverine_officially_coming_sept_15/"
+  },
+  {
     "topic": "Death Stranding 2 PC specs",
     "sources": [
       "reddit"
@@ -171,36 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdgozf/the_masters_of_doom_john_romero_and_john_carmack/"
   },
   {
-    "topic": "The Pok\u00e9mon FireRed and LeafGreen Switch re-release is already topping the eShop charts",
+    "topic": "Aaya Sher - Lyrical | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcoljp/the_pok\u00e9mon_firered_and_leafgreen_switch/"
+    "why": "Trending on YouTube \u2022 994,898 views \u2022 ~179m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iAtoZar5W58"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC NUTTERS | TEACHING ROGUE HOW THE LEBRON JAMES OF ARC RAIDERS DOES IT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,240,735 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 1,248,530 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rNCFe6Qob3Y"
+  },
+  {
+    "topic": "\u3010DRAGON BALL LEGENDS\u3011 LEGENDS INFORMATION - February 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 112,544 views \u2022 ~223m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bFDrh0Wrrmc"
   },
   {
     "topic": "RE4 randomizer...CAN YOU CHILL OUT?! \ud83d\udd34Full Stream\ud83d\udd34 (2-23)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,234 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 134,740 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtPZ6S0gaM4"
   },
   {
-    "topic": "Pokemon Stardew Valley Mods! Playing For The First Time In Forever",
+    "topic": "For All Mankind \u2014 Season 5 Official Trailer | Apple TV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,856 views \u2022 ~201m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v4xMVtW-RMU"
+    "why": "Trending on YouTube \u2022 23,956 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zojwKLlY_H8"
   }
 ]
