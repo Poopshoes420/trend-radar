@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Fast doggo",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdckal/fast_doggo/"
-  },
-  {
     "topic": "Tourettes in Scotland (I swear - 2025)",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdhf5p/tourettes_in_scotland_i_swear_2025/"
+  },
+  {
+    "topic": "Fast doggo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdckal/fast_doggo/"
   },
   {
     "topic": "Will they ever meet again?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rddgoh/kremlin_says_russia_has_not_achieved_all_its/"
   },
   {
-    "topic": "Rodrigo Duterte: Ex-Philippine president faces court for crimes against humanity",
+    "topic": "Switzerland leads Europe in technology found in Russia's weapons",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd8d51/rodrigo_duterte_exphilippine_president_faces/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdhibo/switzerland_leads_europe_in_technology_found_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,230,933 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 1,240,735 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rNCFe6Qob3Y"
-  },
-  {
-    "topic": "Character Trailer - \"Varka: The Code of Chivalry\" | Genshin Impact #GenshinImpact #Varka",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 423,716 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_Q-i5CA0ogM"
   },
   {
     "topic": "RE4 randomizer...CAN YOU CHILL OUT?! \ud83d\udd34Full Stream\ud83d\udd34 (2-23)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 131,585 views \u2022 ~255m old",
+    "why": "Trending on YouTube \u2022 133,234 views \u2022 ~323m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtPZ6S0gaM4"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,322 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 43,856 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v4xMVtW-RMU"
   }
 ]
