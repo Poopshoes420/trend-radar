@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1regsfd/reddit_every_few_months/"
   },
   {
-    "topic": "Kids are easy to please!",
+    "topic": "[OC] must be",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1re5198/kids_are_easy_to_please/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rekem0/oc_must_be/"
   },
   {
     "topic": "Anyone else hate how most of the videos on YouTube are now AI narrated?",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2tls/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "Cuba says four shot dead on US-registered speedboat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1renfrv/cuba_says_four_shot_dead_on_usregistered_speedboat/"
+  },
+  {
     "topic": "US Warns Ukraine Over Novorossiysk Oil Hub Strike That Involved Chevron",
     "sources": [
       "reddit"
@@ -108,22 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1redavy/us_warns_ukraine_over_novorossiysk_oil_hub_strike/"
   },
   {
-    "topic": "Armed confrontation in Cuban waters leaves four dead and seven injured",
+    "topic": "Canada pledges $8 million in food aid for Cuba as U.S. fuel blockade continues",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1remtpy/armed_confrontation_in_cuban_waters_leaves_four/"
-  },
-  {
-    "topic": "Cuba says four shot dead on US-registered speedboat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1renfrv/cuba_says_four_shot_dead_on_usregistered_speedboat/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1reig7v/canada_pledges_8_million_in_food_aid_for_cuba_as/"
   },
   {
     "topic": "Hungary's opposition Tisza party widens its lead ahead of Orban's Fidesz",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rejnnh/someone_at_xbox_testing_in_production_brave/"
   },
   {
-    "topic": "Chief of CoreAI",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rejp4f/chief_of_coreai/"
-  },
-  {
     "topic": "Ubisoft Suffers Major \u201cTalent Drain\u201d Because They\u2019re \u201cAllergic\u201d To New Things, Says Insider",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ren9bm/ubisoft_suffers_major_talent_drain_because_theyre/"
   },
   {
+    "topic": "Tried to label all the dev's from that New Years photo posted here earlier today.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1re4csk/tried_to_label_all_the_devs_from_that_new_years/"
+  },
+  {
     "topic": "Mortal Kombat II | Official Trailer II",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 218,579 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 297,528 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b24oG7qCwp4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 365,562 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 376,452 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w09RpSumTX8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,772 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 163,116 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G3tAquQx_Mg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,541 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 78,622 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EpYekgwNFjc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,572 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 90,453 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zNDD4XWNqcI"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,537 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 84,092 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6f5SsjjrSp0"
+  },
+  {
+    "topic": "MARVEL MaXimum Collection | Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 23,437 views \u2022 ~169m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XwzjDboeb5Q"
   },
   {
     "topic": "Social Distortion - \"Born To Kill\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,042 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 41,116 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5kCv95gBJOk"
   },
   {
@@ -240,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,787 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 21,227 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MA5NqUMEdbI"
-  },
-  {
-    "topic": "MARVEL MaXimum Collection | Reveal Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 7,490 views \u2022 ~129m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XwzjDboeb5Q"
   },
   {
     "topic": "The State of the Union and Democratic Response",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~428m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mlH_7dkZMrc"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_anzvf9fug"
   }
 ]
