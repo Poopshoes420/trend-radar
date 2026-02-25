@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
   },
   {
-    "topic": "What if Google never bought YouTube?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdxapd/what_if_google_never_bought_youtube/"
-  },
-  {
     "topic": "Free movies exist on YouTube now?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re4fss/i_successfully_curated_my_youtube_ads_to_feature/"
+  },
+  {
+    "topic": "What if Google never bought YouTube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdxapd/what_if_google_never_bought_youtube/"
   },
   {
     "topic": "Wow some of these people are so fcked",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2tls/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Gay and bisexual Sydney teenagers lured and bashed on camera in IS-inspired attacks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdyc7z/gay_and_bisexual_sydney_teenagers_lured_and/"
-  },
-  {
     "topic": "Canada announces $1.4 billion military aid package for Ukraine, expands sanctions against Russia",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdzju9/iran_nears_deal_to_buy_supersonic_antiship/"
+  },
+  {
+    "topic": "Ukraine remembers its dead as war enters a fifth year",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2e9e/ukraine_remembers_its_dead_as_war_enters_a_fifth/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdlw0s/wolverine_officially_coming_sept_15/"
   },
   {
+    "topic": "THE INAUGURAL MCSR JERK-OFFS  EVENT! WE GO FAST AND HARD!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 190,237 views \u2022 ~23m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wGabQPyHS7s"
+  },
+  {
+    "topic": "12000+ Knocks (Stella Montis PvP)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 362,220 views \u2022 ~65m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lafNmpr7ZvY"
+  },
+  {
     "topic": "SAMMY'S BDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 848,301 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 857,551 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jy6DJPdrWK0"
   },
   {
@@ -192,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,873 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 123,482 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YQdQrnpa4cw"
-  },
-  {
-    "topic": "Aphmau ADOPTS YOU in Minecraft!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 361,831 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4-16mNHgOzA"
   },
   {
     "topic": "What's the SMALLEST theme park that still makes money?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,308 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 321,992 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ikhclgBZ818"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,029 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 231,922 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVN-S7hfkDs"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,734 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 202,351 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J72fLYwlJsM"
   },
   {
@@ -232,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,523 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 69,173 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W67tImh4ZDc"
-  },
-  {
-    "topic": "Nino Paid - Holding Me Back (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 52,298 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uajc3EAdFOM"
   }
 ]
