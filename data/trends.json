@@ -27,22 +27,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
   },
   {
-    "topic": "It IS big",
+    "topic": "Ok, I didn't expect that",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdewzv/it_is_big/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdzfjr/ok_i_didnt_expect_that/"
   },
   {
-    "topic": "Every outdoor runner",
+    "topic": "Key & Peele",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdjdxt/every_outdoor_runner/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdtfl1/key_peele/"
+  },
+  {
+    "topic": "What if Google never bought YouTube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdxapd/what_if_google_never_bought_youtube/"
   },
   {
     "topic": "I cannot unsee it now tf",
@@ -54,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd8cgy/i_cannot_unsee_it_now_tf/"
   },
   {
+    "topic": "Wow some of these people are so fcked",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdyjhz/wow_some_of_these_people_are_so_fcked/"
+  },
+  {
+    "topic": "this is a fucking joke?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdziiq/this_is_a_fucking_joke/"
+  },
+  {
     "topic": "Wtf is this?",
     "sources": [
       "reddit"
@@ -63,33 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd86dj/wtf_is_this/"
   },
   {
-    "topic": "Who exactly is the target audience ? Adults ? I think not",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdikuq/who_exactly_is_the_target_audience_adults_i_think/"
-  },
-  {
-    "topic": "I was just scrolling through my fyp until this shit randomly pop up \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd9tco/i_was_just_scrolling_through_my_fyp_until_this/"
-  },
-  {
-    "topic": "Why did YouTube get rid of banner ads?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdw9j7/why_did_youtube_get_rid_of_banner_ads/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1461, Part 1 (Thread #1608)",
     "sources": [
       "reddit"
@@ -97,6 +97,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rd4p5c/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "Gay and bisexual Sydney teenagers lured and bashed on camera in IS-inspired attacks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdyc7z/gay_and_bisexual_sydney_teenagers_lured_and/"
   },
   {
     "topic": "Mexico weighs legal action after Musk links president to drug cartels",
@@ -117,15 +126,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdpp5j/canada_announces_14_billion_military_aid_package/"
   },
   {
-    "topic": "Senior Russian official claims Russian soldiers don't need visas to enter European countries",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdcjb2/senior_russian_official_claims_russian_soldiers/"
-  },
-  {
     "topic": "Switzerland leads Europe in technology found in Russia's weapons",
     "sources": [
       "reddit"
@@ -133,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdhibo/switzerland_leads_europe_in_technology_found_in/"
-  },
-  {
-    "topic": "The 4 members of the Men's Team USA Hockey team that are confirmed to be skipping Trump's State of the Union invite: Brock Nelson, Jake Oettinger, Jake Guentzel, and Kyle Connor",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rdqp83/the_4_members_of_the_mens_team_usa_hockey_team/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,83 +171,108 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdlw0s/wolverine_officially_coming_sept_15/"
   },
   {
-    "topic": "Aaya Sher - Lyrical | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela",
+    "topic": "Death Stranding 2 PC specs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdhra6/death_stranding_2_pc_specs/"
+  },
+  {
+    "topic": "SAMMY'S BDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,108,302 views \u2022 ~558m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iAtoZar5W58"
+    "why": "Trending on YouTube \u2022 774,627 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Jy6DJPdrWK0"
+  },
+  {
+    "topic": "ARC RAIDERS NEW UPDATE! #1 PVP POV \ud83d\udd25",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 275,414 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=t_LaO42a7yg"
+  },
+  {
+    "topic": "Nintendo Treehouse: Live | February 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 366,913 views \u2022 ~221m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8SyOGO_ubSo"
   },
   {
     "topic": "The Madison | Official Trailer | Paramount+",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 435,697 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 762,716 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OSb-X_YkLg4"
   },
   {
-    "topic": "Whatever I GOOGLE COMES TO LIFE In Steal a Brainrot...",
+    "topic": "What's the SMALLEST theme park that still makes money?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 183,829 views \u2022 ~481m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g6vA3gXXsbs"
+    "why": "Trending on YouTube \u2022 178,799 views \u2022 ~332m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ikhclgBZ818"
   },
   {
     "topic": "Honest Trailers | Predator: Badlands",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,713 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 146,280 views \u2022 ~552m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cflGcCLqBzk"
-  },
-  {
-    "topic": "Marvel's Wolverine - Release Date Reveal",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 106,155 views \u2022 ~419m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BMU9iACrRO8"
-  },
-  {
-    "topic": "For All Mankind \u2014 Season 5 Official Trailer | Apple TV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 131,501 views \u2022 ~542m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zojwKLlY_H8"
   },
   {
     "topic": "Marvel's Wolverine - Official Release Date Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,433 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 125,485 views \u2022 ~596m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0XdGFYXkk6w"
   },
   {
-    "topic": "Slayyyter - OLD TECHNOLOGY (Official Video)",
+    "topic": "Spider-Man Spin Off Reboot, Backrooms Trailer, Ghostface Controversy & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,580 views \u2022 ~422m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rg1CEKM0nd0"
+    "why": "Trending on YouTube \u2022 41,915 views \u2022 ~275m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=W67tImh4ZDc"
+  },
+  {
+    "topic": "NAV & Young Thug - Trimski (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,132 views \u2022 ~492m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-yElvysKMCY"
   },
   {
     "topic": "Wage War - SONG OF THE SWAMP (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,309 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 58,580 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2EjR1ovTpBc"
   },
   {
-    "topic": "The Backrooms Movie Trailer BREAKDOWN & ANALYSIS!! (Easter Eggs + Things you Missed)",
+    "topic": "Slayyyter - OLD TECHNOLOGY (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,989 views \u2022 ~357m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1hdKhfaPUV4"
+    "why": "Trending on YouTube \u2022 54,940 views \u2022 ~612m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rg1CEKM0nd0"
+  },
+  {
+    "topic": "Nino Paid - Holding Me Back (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 33,316 views \u2022 ~431m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uajc3EAdFOM"
   }
 ]
