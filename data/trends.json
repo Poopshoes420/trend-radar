@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Instead of cutting you off verbally, they just hand you this.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdufms/instead_of_cutting_you_off_verbally_they_just/"
-  },
-  {
     "topic": "Key & Peele",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdtfl1/key_peele/"
   },
   {
-    "topic": "Proven results",
+    "topic": "Throbbin from Gyattham",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1re5na2/proven_results/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
+  },
+  {
+    "topic": "Guess I Failed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdskay/guess_i_failed/"
   },
   {
     "topic": "I successfully curated my YouTube ads to feature Japanese music, and not brainrot from my country.",
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2tls/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "Canada announces $1.4 billion military aid package for Ukraine, expands sanctions against Russia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdpp5j/canada_announces_14_billion_military_aid_package/"
-  },
-  {
     "topic": "ISIS sympathisers lured gay and bisexual teenagers into bashings via dating apps in Sydney",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re86by/isis_sympathisers_lured_gay_and_bisexual/"
+  },
+  {
+    "topic": "Canada announces $1.4 billion military aid package for Ukraine, expands sanctions against Russia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdpp5j/canada_announces_14_billion_military_aid_package/"
   },
   {
     "topic": "Ukraine remembers its dead as war enters a fifth year",
@@ -184,47 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 388,617 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 396,087 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lafNmpr7ZvY"
-  },
-  {
-    "topic": "THE INAUGURAL MCSR JERK-OFFS  EVENT! WE GO FAST AND HARD!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 224,170 views \u2022 ~145m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wGabQPyHS7s"
   },
   {
     "topic": "SAMMY'S BDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 894,100 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 908,099 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jy6DJPdrWK0"
+  },
+  {
+    "topic": "THE INAUGURAL MCSR JERK-OFFS  EVENT! WE GO FAST AND HARD!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 232,323 views \u2022 ~205m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wGabQPyHS7s"
   },
   {
     "topic": "99 Nights but it's FLAMINGO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 184,359 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 211,322 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YQdQrnpa4cw"
-  },
-  {
-    "topic": "He Followed Me\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 274,803 views \u2022 ~670m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TVN-S7hfkDs"
-  },
-  {
-    "topic": "Spider-Man Spin Off Reboot, Backrooms Trailer, Ghostface Controversy & MORE!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 74,452 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=W67tImh4ZDc"
   }
 ]
