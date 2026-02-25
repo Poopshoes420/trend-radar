@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re4fss/i_successfully_curated_my_youtube_ads_to_feature/"
   },
   {
+    "topic": "7 years on YouTube and it's gone",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rec2si/7_years_on_youtube_and_its_gone/"
+  },
+  {
     "topic": "Free movies exist on YouTube now?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdxapd/what_if_google_never_bought_youtube/"
-  },
-  {
-    "topic": "7 years on YouTube and it's gone",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rec2si/7_years_on_youtube_and_its_gone/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1462, Part 1 (Thread #1609)",
@@ -108,24 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re86by/isis_sympathisers_lured_gay_and_bisexual/"
   },
   {
-    "topic": "Hundreds of American nurses choose Canada over the U.S. under Trump",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1reg147/hundreds_of_american_nurses_choose_canada_over/"
-  },
-  {
-    "topic": "AIs can\u2019t stop recommending nuclear strikes in war game simulations",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1reh8td/ais_cant_stop_recommending_nuclear_strikes_in_war/"
-  },
-  {
     "topic": "US Warns Ukraine Over Novorossiysk Oil Hub Strike That Involved Chevron",
     "sources": [
       "reddit"
@@ -133,6 +115,24 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1redavy/us_warns_ukraine_over_novorossiysk_oil_hub_strike/"
+  },
+  {
+    "topic": "Hungary's opposition Tisza party widens its lead ahead of Orban's Fidesz",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re9mg0/hungarys_opposition_tisza_party_widens_its_lead/"
+  },
+  {
+    "topic": "India set to launch free nationwide HPV vaccination for adolescent girls",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re6vbp/india_set_to_launch_free_nationwide_hpv/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,517 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 283,571 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w09RpSumTX8"
   },
   {
@@ -192,47 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 403,139 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 400,979 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lafNmpr7ZvY"
-  },
-  {
-    "topic": "99 Nights but it's FLAMINGO",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 366,232 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YQdQrnpa4cw"
-  },
-  {
-    "topic": "Laufey - How I Get (Official Lyric Video With Chords)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 104,217 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZtRNT-JYg1w"
-  },
-  {
-    "topic": "Metallica: Life Burns Faster at Sphere in Las Vegas (Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 14,323 views \u2022 ~96m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6f5SsjjrSp0"
   },
   {
     "topic": "My Singing Monsters - Welcome to the Clubbox feat. T-Pain (Official Trailer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,961 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 41,682 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zNDD4XWNqcI"
+  },
+  {
+    "topic": "Metallica: Life Burns Faster at Sphere in Las Vegas (Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,581 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6f5SsjjrSp0"
   },
   {
     "topic": "The State of the Union and Democratic Response",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mlH_7dkZMrc"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_anzvf9fug"
   }
 ]
