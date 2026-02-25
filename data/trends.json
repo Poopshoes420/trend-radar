@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Someone at Xbox testing in production, brave",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rejnnh/someone_at_xbox_testing_in_production_brave/"
+  },
+  {
     "topic": "Tried to label all the dev's from that New Years photo posted here earlier today.",
     "sources": [
       "reddit"
@@ -162,29 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1re4csk/tried_to_label_all_the_devs_from_that_new_years/"
   },
   {
-    "topic": "'RESIDENT EVIL REQUIEM' - Review Thread",
+    "topic": "Chief of CoreAI",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1refia1/resident_evil_requiem_review_thread/"
-  },
-  {
-    "topic": "14 years later and I am not over this and what it could have been.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ref5qb/14_years_later_and_i_am_not_over_this_and_what_it/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rejp4f/chief_of_coreai/"
   },
   {
     "topic": "BTS WORLD TOUR 'ARIRANG' LIVE VIEWING IN GOYANG & JAPAN Main Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,571 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 322,461 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w09RpSumTX8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 400,979 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 401,876 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lafNmpr7ZvY"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,682 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 62,640 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zNDD4XWNqcI"
+  },
+  {
+    "topic": "Gorillaz - The Mountain, The Moon Cave and The Sad God (Trailer 2)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 41,241 views \u2022 ~147m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EpYekgwNFjc"
   },
   {
     "topic": "Metallica: Life Burns Faster at Sphere in Las Vegas (Trailer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,581 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 39,689 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6f5SsjjrSp0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mlH_7dkZMrc"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z_anzvf9fug"
   }
 ]
