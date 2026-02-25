@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
   },
   {
-    "topic": "Free movies exist on YouTube now?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re3efv/free_movies_exist_on_youtube_now/"
-  },
-  {
     "topic": "I successfully curated my YouTube ads to feature Japanese music, and not brainrot from my country.",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re4fss/i_successfully_curated_my_youtube_ads_to_feature/"
+  },
+  {
+    "topic": "Free movies exist on YouTube now?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re3efv/free_movies_exist_on_youtube_now/"
   },
   {
     "topic": "What if Google never bought YouTube?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdl280/mexico_weighs_legal_action_after_musk_links/"
   },
   {
-    "topic": "Iran nears deal to buy supersonic anti-ship missiles from Beijing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdzju9/iran_nears_deal_to_buy_supersonic_antiship/"
-  },
-  {
     "topic": "Ukraine remembers its dead as war enters a fifth year",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2e9e/ukraine_remembers_its_dead_as_war_enters_a_fifth/"
+  },
+  {
+    "topic": "Iran nears deal to buy supersonic anti-ship missiles from Beijing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdzju9/iran_nears_deal_to_buy_supersonic_antiship/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdlw0s/wolverine_officially_coming_sept_15/"
   },
   {
-    "topic": "THE INAUGURAL MCSR JERK-OFFS  EVENT! WE GO FAST AND HARD!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 190,237 views \u2022 ~23m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wGabQPyHS7s"
-  },
-  {
     "topic": "12000+ Knocks (Stella Montis PvP)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 362,220 views \u2022 ~65m old",
+    "why": "Trending on YouTube \u2022 383,630 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lafNmpr7ZvY"
+  },
+  {
+    "topic": "THE INAUGURAL MCSR JERK-OFFS  EVENT! WE GO FAST AND HARD!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 217,044 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wGabQPyHS7s"
   },
   {
     "topic": "SAMMY'S BDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 857,551 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 871,405 views \u2022 ~536m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jy6DJPdrWK0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,482 views \u2022 ~206m old",
+    "why": "Trending on YouTube \u2022 151,482 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YQdQrnpa4cw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 321,992 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 339,010 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ikhclgBZ818"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,922 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 253,971 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVN-S7hfkDs"
-  },
-  {
-    "topic": "Roblox Has Gotten Even More Mindnumbing...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 202,351 views \u2022 ~664m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=J72fLYwlJsM"
   },
   {
     "topic": "Spider-Man Spin Off Reboot, Backrooms Trailer, Ghostface Controversy & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,173 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 71,687 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W67tImh4ZDc"
   }
 ]
