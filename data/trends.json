@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Throbbin from Gyattham",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
-  },
-  {
     "topic": "Key & Peele",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdtfl1/key_peele/"
+  },
+  {
+    "topic": "Throbbin from Gyattham",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rdns44/throbbin_from_gyattham/"
   },
   {
     "topic": "Guess I Failed",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdxapd/what_if_google_never_bought_youtube/"
   },
   {
+    "topic": "Free movies exist on YouTube now?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re3efv/free_movies_exist_on_youtube_now/"
+  },
+  {
     "topic": "Wow some of these people are so fcked",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rd8cgy/i_cannot_unsee_it_now_tf/"
   },
   {
-    "topic": "Free movies exist on YouTube now?",
+    "topic": "I successfully curated my YouTube ads to feature Japanese music, and not brainrot from my country.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re3efv/free_movies_exist_on_youtube_now/"
-  },
-  {
-    "topic": "this is a fucking joke?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdziiq/this_is_a_fucking_joke/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re4fss/i_successfully_curated_my_youtube_ads_to_feature/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1462, Part 1 (Thread #1609)",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdppqz/1_million_in_debt_devs_on_handheld_tony_hawks_pro/"
   },
   {
+    "topic": "Tried to label all the dev's from that New Years photo posted here earlier today.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1re4csk/tried_to_label_all_the_devs_from_that_new_years/"
+  },
+  {
     "topic": "Wolverine officially coming Sept 15",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rdlw0s/wolverine_officially_coming_sept_15/"
   },
   {
-    "topic": "Shout out to Ghost of Tsushima",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1re0n2k/shout_out_to_ghost_of_tsushima/"
-  },
-  {
     "topic": "SAMMY'S BDAY ADMIN ABUSE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 810,726 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 829,045 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jy6DJPdrWK0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 298,901 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 330,918 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4-16mNHgOzA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,780 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 272,979 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ikhclgBZ818"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,484 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 180,485 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVN-S7hfkDs"
   },
   {
@@ -216,31 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,739 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 168,384 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J72fLYwlJsM"
-  },
-  {
-    "topic": "Honest Trailers | Predator: Badlands",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 166,742 views \u2022 ~664m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cflGcCLqBzk"
-  },
-  {
-    "topic": "Marvel's Wolverine - Official Release Date Reveal Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 150,418 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0XdGFYXkk6w"
   },
   {
     "topic": "Spider-Man Spin Off Reboot, Backrooms Trailer, Ghostface Controversy & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,008 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 61,661 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W67tImh4ZDc"
   },
   {
@@ -248,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,796 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 73,564 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-yElvysKMCY"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,857 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 48,046 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uajc3EAdFOM"
   }
 ]
