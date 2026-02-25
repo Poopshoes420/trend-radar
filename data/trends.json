@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdxapd/what_if_google_never_bought_youtube/"
   },
   {
-    "topic": "Wow some of these people are so fcked",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdyjhz/wow_some_of_these_people_are_so_fcked/"
-  },
-  {
     "topic": "Can someone tell my why a video titled \u201cHal the Misinterpretive Porn Star\u201d is labeled as for kids?",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re2xks/can_someone_tell_my_why_a_video_titled_hal_the/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1462, Part 1 (Thread #1609)",
+    "topic": "Wow some of these people are so fcked",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2tls/rworldnews_live_thread_russian_invasion_of/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rdyjhz/wow_some_of_these_people_are_so_fcked/"
   },
   {
     "topic": "ISIS sympathisers lured gay and bisexual teenagers into bashings via dating apps in Sydney",
@@ -108,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re86by/isis_sympathisers_lured_gay_and_bisexual/"
   },
   {
-    "topic": "Canada announces $1.4 billion military aid package for Ukraine, expands sanctions against Russia",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1462, Part 1 (Thread #1609)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdpp5j/canada_announces_14_billion_military_aid_package/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2tls/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "Ukraine remembers its dead as war enters a fifth year",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1re2e9e/ukraine_remembers_its_dead_as_war_enters_a_fifth/"
+  },
+  {
+    "topic": "Canada announces $1.4 billion military aid package for Ukraine, expands sanctions against Russia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rdpp5j/canada_announces_14_billion_military_aid_package/"
   },
   {
     "topic": "Mexico weighs legal action after Musk links president to drug cartels",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 396,087 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 397,208 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lafNmpr7ZvY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 908,099 views \u2022 ~659m old",
+    "why": "Trending on YouTube \u2022 915,253 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Jy6DJPdrWK0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,323 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 234,088 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wGabQPyHS7s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,322 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 225,540 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YQdQrnpa4cw"
   }
 ]
