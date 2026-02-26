@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Mysterious Monster",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rewcbx/mysterious_monster/"
-  },
-  {
     "topic": "Comments",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1regpq8/class_participation/"
+  },
+  {
+    "topic": "Termites vs Chaindrite",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rf3el3/termites_vs_chaindrite/"
   },
   {
     "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
@@ -184,63 +184,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 212,903 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 231,323 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aCuGieFUDjE"
-  },
-  {
-    "topic": "This Could be a CRAZY Playoff Run! Wheel of MUT! Ep. #45",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 191,889 views \u2022 ~520m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tsJ9pk5DyF8"
   },
   {
     "topic": "I Solo Queued in Champ Lobbies...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,048 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 194,426 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_wdLPmEApTg"
+  },
+  {
+    "topic": "This Could be a CRAZY Playoff Run! Wheel of MUT! Ep. #45",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 204,427 views \u2022 ~568m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tsJ9pk5DyF8"
   },
   {
     "topic": "VonOff 1700 - I Tried ft BigOpp (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,828 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 50,220 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Q_sCOFwC5g"
-  },
-  {
-    "topic": "T.I. - \u201cLet \u2018Em Know\u201d (Official Trailer) [Dir. Hype Williams]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 73,012 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qtZeYpjJHi8"
   },
   {
     "topic": "MORTAL KOMBAT 2 TRAILER 2026 | You Weak Pathetic Fool!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,427 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 56,195 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iStz-F0BRIA"
-  },
-  {
-    "topic": "BabyDrill- Knocked Off (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 44,378 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BzTEykaT93U"
   },
   {
     "topic": "Mortal Kombat II | Official Trailer II | Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,324 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 33,261 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1pJy3AAp3G4"
   }
 ]
