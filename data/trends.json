@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
   },
   {
+    "topic": "That would be shit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
+  },
+  {
     "topic": "what the fuck are 7k people actually doing with their lived",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf8dhc/wth_happened_to_my_youtube_subscription_page/"
-  },
-  {
-    "topic": "New Game: *gets popular* Gaming Channels:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf3dik/new_game_gets_popular_gaming_channels/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1463, Part 1 (Thread #1610)",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfj2ad/jason_schreier_bloomberg_inside_the_failure_of/"
   },
   {
-    "topic": "Wasn\u2019t really on my radar but couldn\u2019t pass it up for $21",
+    "topic": "Found my wife\u2019s NES games from when she was a kid \ud83d\udd79\ufe0f",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfhktp/wasnt_really_on_my_radar_but_couldnt_pass_it_up/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfmc2n/found_my_wifes_nes_games_from_when_she_was_a_kid/"
   },
   {
     "topic": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 305,574 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 423,620 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 360,883 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 407,543 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4Jhh3P9UGK0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,278 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 223,272 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fwf7n7vBAC4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 255,141 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 276,240 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FmKEQVXodVo"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,160 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 109,496 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
+  },
+  {
+    "topic": "Path of Exile: Mirage Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 43,905 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=y8X5MC5gdzA"
   },
   {
     "topic": "Jury Duty Presents: Company Retreat \u2013 Official Trailer | Season 2 | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,120 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 69,468 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K4q_0DtugOA"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R9M4MFpdJ74"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~45m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QJcCN9J6jcQ"
   }
 ]
