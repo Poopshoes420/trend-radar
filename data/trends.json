@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "No Lies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rf516q/no_lies/"
+  },
+  {
     "topic": "Termites vs Chaindrite",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1replme/comments/"
-  },
-  {
-    "topic": "Class Participation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1regpq8/class_participation/"
   },
   {
     "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rebb3g/anyone_else_hate_how_most_of_the_videos_on/"
   },
   {
+    "topic": "New Game: *gets popular* Gaming Channels:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf3dik/new_game_gets_popular_gaming_channels/"
+  },
+  {
     "topic": "7 years on YouTube and it's gone",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1revj05/this_is_straight_up_bullshit/"
-  },
-  {
-    "topic": "I successfully curated my YouTube ads to feature Japanese music, and not brainrot from my country.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re4fss/i_successfully_curated_my_youtube_ads_to_feature/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1463, Part 1 (Thread #1610)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rewp5l/canada_and_south_korea_sign_a_defence_agreement/"
   },
   {
+    "topic": "World leaders congratulate the Netherlands new gay Prime Minister\u2026 with one big exception",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rf5ot7/world_leaders_congratulate_the_netherlands_new/"
+  },
+  {
     "topic": "Cuba says four shot dead on US-registered speedboat",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1renfrv/cuba_says_four_shot_dead_on_usregistered_speedboat/"
-  },
-  {
-    "topic": "Cuba says it killed heavily armed exiles who attacked from US-registered speedboat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rezu7j/cuba_says_it_killed_heavily_armed_exiles_who/"
   },
   {
     "topic": "Former New Zealand prime minister Jacinda Ardern moves to Australia",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 250,416 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 266,532 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aCuGieFUDjE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,392 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 232,156 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_wdLPmEApTg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,230 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 55,359 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Q_sCOFwC5g"
   },
   {
@@ -208,7 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,144 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 63,700 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iStz-F0BRIA"
+  },
+  {
+    "topic": "The Lost World: Jurassic Park",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~34m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jM3SCZo8rAE"
   }
 ]
