@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1regpq8/class_participation/"
   },
   {
-    "topic": "Epileptic attack",
+    "topic": "Dr Evil's granddaughter",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ret2n5/epileptic_attack/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rex963/dr_evils_granddaughter/"
   },
   {
     "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf3dik/new_game_gets_popular_gaming_channels/"
   },
   {
+    "topic": "Youtube became a sh_thole...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf7j5r/youtube_became_a_sh_thole/"
+  },
+  {
     "topic": "Anyone else hate how most of the videos on YouTube are now AI narrated?",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rebb3g/anyone_else_hate_how_most_of_the_videos_on/"
-  },
-  {
-    "topic": "7 years on YouTube and it's gone",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rec2si/7_years_on_youtube_and_its_gone/"
   },
   {
     "topic": "Why is this even a thing? YouTube limits how many people can view your livestream.",
@@ -97,15 +97,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rezzrt/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "World leaders congratulate the Netherlands new gay Prime Minister\u2026 with one big exception",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rf5ot7/world_leaders_congratulate_the_netherlands_new/"
   },
   {
     "topic": "Canada and South Korea sign a defence agreement",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1renfrv/cuba_says_four_shot_dead_on_usregistered_speedboat/"
+  },
+  {
+    "topic": "Cuba says it killed heavily armed exiles who attacked from US-registered speedboat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rezu7j/cuba_says_it_killed_heavily_armed_exiles_who/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,36 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ren9bm/ubisoft_suffers_major_talent_drain_because_theyre/"
   },
   {
-    "topic": "\u201cLoot Box Litigation\u201d New York Attorney General Brings Case Against Valve Alleging Criminal Violations of Gambling Laws",
+    "topic": "Marvel Tokon Pre-Orders Go Live, but Several Steam Regions Remain Locked Out",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1reoftw/loot_box_litigation_new_york_attorney_general/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rf3r02/marvel_tokon_preorders_go_live_but_several_steam/"
   },
   {
     "topic": "\ud83d\udd34LIVE | RV THERE YET NEW MAP w/ Cloakzy & Gingy & Officer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 927,248 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 933,054 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e0ii_btaNWs"
-  },
-  {
-    "topic": "I Solo Queued in Champ Lobbies...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 243,365 views \u2022 ~701m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_wdLPmEApTg"
   },
   {
     "topic": "VonOff 1700 - I Tried ft BigOpp (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,062 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 57,936 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Q_sCOFwC5g"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jM3SCZo8rAE"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dx9k3qPzh6k"
   }
 ]
