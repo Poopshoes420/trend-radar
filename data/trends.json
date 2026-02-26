@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1replme/comments/"
   },
   {
-    "topic": "Class Participation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1regpq8/class_participation/"
-  },
-  {
     "topic": "The dog doesn\u2019t like being disturbed when he\u2019s watching his favorite cartoon.",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1reyq31/the_dog_doesnt_like_being_disturbed_when_hes/"
   },
   {
-    "topic": "Youtube became a sh_thole...",
+    "topic": "Class Participation",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf7j5r/youtube_became_a_sh_thole/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1regpq8/class_participation/"
   },
   {
     "topic": "YouTube has no shame.",
@@ -63,22 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf8wud/youtube_has_no_shame/"
   },
   {
-    "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
+    "topic": "Youtube became a sh_thole...",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rexvmt/why_do_older_inactive_youtube_channels_have_their/"
-  },
-  {
-    "topic": "New Game: *gets popular* Gaming Channels:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf3dik/new_game_gets_popular_gaming_channels/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf7j5r/youtube_became_a_sh_thole/"
   },
   {
     "topic": "WTH Happened to my Youtube Subscription Page",
@@ -90,6 +72,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf8dhc/wth_happened_to_my_youtube_subscription_page/"
   },
   {
+    "topic": "New Game: *gets popular* Gaming Channels:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf3dik/new_game_gets_popular_gaming_channels/"
+  },
+  {
+    "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rexvmt/why_do_older_inactive_youtube_channels_have_their/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1463, Part 1 (Thread #1610)",
     "sources": [
       "reddit"
@@ -97,15 +97,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rezzrt/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "Canada and South Korea sign a defence agreement",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rewp5l/canada_and_south_korea_sign_a_defence_agreement/"
   },
   {
     "topic": "Don\u2019t meddle in our elections, EU\u2019s Metsola tells Trump\u2019s MAGA warriors",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rf8mw9/the_talibans_new_penal_code_two_weeks_in_jail_for/"
+  },
+  {
+    "topic": "Canada and South Korea sign a defence agreement",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rewp5l/canada_and_south_korea_sign_a_defence_agreement/"
   },
   {
     "topic": "Cuba says four shot dead on US-registered speedboat",
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Someone at Xbox testing in production, brave",
+    "topic": "Happy 10th anniversary of Stardew Valley!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rejnnh/someone_at_xbox_testing_in_production_brave/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfaf4b/happy_10th_anniversary_of_stardew_valley/"
   },
   {
     "topic": "Ubisoft Suffers Major \u201cTalent Drain\u201d Because They\u2019re \u201cAllergic\u201d To New Things, Says Insider",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ren9bm/ubisoft_suffers_major_talent_drain_because_theyre/"
   },
   {
-    "topic": "Project Apollo - Cancelled Batman Game (Monolith)",
+    "topic": "Someone at Xbox testing in production, brave",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rf7qqi/project_apollo_cancelled_batman_game_monolith/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rejnnh/someone_at_xbox_testing_in_production_brave/"
   },
   {
     "topic": "Sirius - No more Brawl Stars! (Brawl Stars Animation)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,297,462 views \u2022 ~334m old",
+    "why": "Trending on YouTube \u2022 1,543,782 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WuwxkkSSeug"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 947,207 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 956,560 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e0ii_btaNWs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jM3SCZo8rAE"
   }
 ]
