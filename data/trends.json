@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfehca/he_said_dont_touch_his_thing_i_mean_his_tail/"
   },
   {
-    "topic": "You can make so much money farming",
+    "topic": "Domino Day",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rewcsp/you_can_make_so_much_money_farming/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfis0d/domino_day/"
   },
   {
     "topic": "YouTube has no shame.",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf8wud/youtube_has_no_shame/"
+  },
+  {
+    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
   },
   {
     "topic": "Youtube became a sh_thole...",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf8dhc/wth_happened_to_my_youtube_subscription_page/"
   },
   {
-    "topic": "New Game: *gets popular* Gaming Channels:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rf3dik/new_game_gets_popular_gaming_channels/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1463, Part 1 (Thread #1610)",
     "sources": [
       "reddit"
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rf80ms/dont_meddle_in_our_elections_eus_metsola_tells/"
   },
   {
-    "topic": "The Taliban\u2019s new penal code: Two weeks in jail for breaking a woman\u2019s arm and five months for mistreating a camel",
+    "topic": "Croatia refuses to transport Russian oil to Hungary",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rf8mw9/the_talibans_new_penal_code_two_weeks_in_jail_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfhgwt/croatia_refuses_to_transport_russian_oil_to/"
   },
   {
     "topic": "British Citizenship Applications by US Nationals Hit Record High",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfeq2u/british_citizenship_applications_by_us_nationals/"
   },
   {
-    "topic": "White House officials believe \u2018the politics are a lot better\u2019 if Israel strikes Iran first",
+    "topic": "10 Cubans on U.S. boat intended to carry out an 'armed infiltration,' Havana says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rf6wpq/white_house_officials_believe_the_politics_are_a/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfgxw0/10_cubans_on_us_boat_intended_to_carry_out_an/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,52 +171,68 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rffnd9/re9_arrived/"
   },
   {
-    "topic": "Ubisoft Suffers Major \u201cTalent Drain\u201d Because They\u2019re \u201cAllergic\u201d To New Things, Says Insider",
+    "topic": "[Jason Schreier, Bloomberg] Inside the failure of Highguard, which flopped so badly that developer Wildlight laid off most of its staff just two weeks after release | When asked what they thought went wrong, developers used the word \"hubris\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ren9bm/ubisoft_suffers_major_talent_drain_because_theyre/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfj2ad/jason_schreier_bloomberg_inside_the_failure_of/"
   },
   {
     "topic": "Sirius - No more Brawl Stars! (Brawl Stars Animation)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,656,600 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 2,887,155 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WuwxkkSSeug"
+  },
+  {
+    "topic": "Poppy Playtime Chapter 5 - Accolades Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 171,277 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4Jhh3P9UGK0"
   },
   {
     "topic": "\ud83d\udd34LIVE | RV THERE YET NEW MAP w/ Cloakzy & Gingy & Officer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,005,891 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 1,012,059 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e0ii_btaNWs"
+  },
+  {
+    "topic": "Resident Evil 9 Requiem - Part 1",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 160,335 views \u2022 ~268m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FmKEQVXodVo"
+  },
+  {
+    "topic": "'Ninth Wave' Update Trailer / War Thunder",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 36,299 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
   },
   {
     "topic": "Jury Duty Presents: Company Retreat \u2013 Official Trailer | Season 2 | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,262 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 34,967 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K4q_0DtugOA"
   },
   {
-    "topic": "FOX & Friends First",
+    "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=txx4T_OuCrs"
-  },
-  {
-    "topic": "The Lost World: Jurassic Park",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~519m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jM3SCZo8rAE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~47m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=R9M4MFpdJ74"
   }
 ]
