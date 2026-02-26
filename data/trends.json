@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Dude made a six-pointer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfkj3h/dude_made_a_sixpointer/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfehca/he_said_dont_touch_his_thing_i_mean_his_tail/"
   },
   {
-    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
+    "topic": "Monkey grosses out by century egg",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rf5glo/monkey_grosses_out_by_century_egg/"
   },
   {
     "topic": "That would be shit",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
+  },
+  {
+    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
   },
   {
     "topic": "what the fuck are 7k people actually doing with their lived",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfeq2u/british_citizenship_applications_by_us_nationals/"
   },
   {
-    "topic": "Canada expected to see zero population growth this year",
+    "topic": "Births in Japan fall in 2025 to 706,000, record low for 10th straight year",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfkpys/canada_expected_to_see_zero_population_growth/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfhu71/births_in_japan_fall_in_2025_to_706000_record_low/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 594,871 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 670,604 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 475,292 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 516,233 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4Jhh3P9UGK0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 268,538 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 298,744 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fwf7n7vBAC4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 316,941 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 340,972 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FmKEQVXodVo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 128,673 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 140,229 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
   },
   {
@@ -224,31 +224,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,430 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 74,959 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yHnRBRKUr2Y"
-  },
-  {
-    "topic": "Path of Exile: Mirage Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 55,031 views \u2022 ~226m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=y8X5MC5gdzA"
   },
   {
     "topic": "Jury Duty Presents: Company Retreat \u2013 Official Trailer | Season 2 | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,028 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 84,684 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K4q_0DtugOA"
+  },
+  {
+    "topic": "Savannah Dexter - Shot For You (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,319 views \u2022 ~137m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0qQNNAHztZA"
+  },
+  {
+    "topic": "The Comeback Season 3 | Official Trailer | HBO Max",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,483 views \u2022 ~317m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p1rVpVCNBgE"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PYIN9rMWIB8"
   }
 ]
