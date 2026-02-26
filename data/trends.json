@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Comments",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1replme/comments/"
-  },
-  {
     "topic": "Mysterious Monster",
     "sources": [
       "reddit"
@@ -36,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rewcbx/mysterious_monster/"
   },
   {
+    "topic": "Comments",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1replme/comments/"
+  },
+  {
     "topic": "Class Participation",
     "sources": [
       "reddit"
@@ -43,6 +43,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1regpq8/class_participation/"
+  },
+  {
+    "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rexvmt/why_do_older_inactive_youtube_channels_have_their/"
   },
   {
     "topic": "Anyone else hate how most of the videos on YouTube are now AI narrated?",
@@ -63,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rec2si/7_years_on_youtube_and_its_gone/"
   },
   {
-    "topic": "Why do older, inactive youtube channels have their most recent video thumbnail as their profile picture?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rexvmt/why_do_older_inactive_youtube_channels_have_their/"
-  },
-  {
     "topic": "I successfully curated my YouTube ads to feature Japanese music, and not brainrot from my country.",
     "sources": [
       "reddit"
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1re4fss/i_successfully_curated_my_youtube_ads_to_feature/"
   },
   {
-    "topic": "Live chat not letting messages through",
+    "topic": "This is straight up bullshit",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1repg9l/live_chat_not_letting_messages_through/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1revj05/this_is_straight_up_bullshit/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1463, Part 1 (Thread #1610)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1renfrv/cuba_says_four_shot_dead_on_usregistered_speedboat/"
   },
   {
-    "topic": "White House officials believe \u2018the politics are a lot better\u2019 if Israel strikes Iran first",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1reypxh/white_house_officials_believe_the_politics_are_a/"
-  },
-  {
     "topic": "US to allow resale of Venezuelan oil to Cuba",
     "sources": [
       "reddit"
@@ -135,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1repd1j/us_to_allow_resale_of_venezuelan_oil_to_cuba/"
   },
   {
-    "topic": "Kelce brothers praise US women\u2019s hockey team and agree Laila Edwards is the best athlete to come out of their High School",
+    "topic": "Cuba says it killed heavily armed exiles who attacked from US-registered speedboat",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1resn8v/kelce_brothers_praise_us_womens_hockey_team_and/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rezu7j/cuba_says_it_killed_heavily_armed_exiles_who/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ren9bm/ubisoft_suffers_major_talent_drain_because_theyre/"
   },
   {
+    "topic": "\u201cLoot Box Litigation\u201d New York Attorney General Brings Case Against Valve Alleging Criminal Violations of Gambling Laws",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1reoftw/loot_box_litigation_new_york_attorney_general/"
+  },
+  {
     "topic": "Mortal Kombat II | Official Trailer II",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,206,467 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 2,469,133 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b24oG7qCwp4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 491,721 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 524,095 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nbu4nicxcl0"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 330,283 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 355,065 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v_IkDW_SbCc"
-  },
-  {
-    "topic": "IT'S ALL... OVER? | No, I Am Not Human - Part 3",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 318,965 views \u2022 ~673m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lkml9AMVnXs"
   },
   {
     "topic": "I Moved Into The Wrong Neighborhood\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,125 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 161,673 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aCuGieFUDjE"
+  },
+  {
+    "topic": "This Could be a CRAZY Playoff Run! Wheel of MUT! Ep. #45",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 150,552 views \u2022 ~407m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tsJ9pk5DyF8"
   },
   {
     "topic": "MORTAL KOMBAT 2 Official Trailer 2 (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,532 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 102,006 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n8Er6osVDWg"
   },
   {
@@ -232,31 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,930 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 35,406 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Q_sCOFwC5g"
-  },
-  {
-    "topic": "MORTAL KOMBAT 2 TRAILER 2026 | You Weak Pathetic Fool!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 36,015 views \u2022 ~354m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iStz-F0BRIA"
   },
   {
     "topic": "T.I. - \u201cLet \u2018Em Know\u201d (Official Trailer) [Dir. Hype Williams]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,282 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 61,957 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qtZeYpjJHi8"
+  },
+  {
+    "topic": "MORTAL KOMBAT 2 TRAILER 2026 | You Weak Pathetic Fool!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 42,116 views \u2022 ~415m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iStz-F0BRIA"
   },
   {
     "topic": "BabyDrill- Knocked Off (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,315 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 38,945 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BzTEykaT93U"
   },
   {
@@ -264,7 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,881 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 29,710 views \u2022 ~552m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1pJy3AAp3G4"
+  },
+  {
+    "topic": "Loe Shimmy - No Mileage (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 30,477 views \u2022 ~707m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I98mWBXu5j0"
   }
 ]
