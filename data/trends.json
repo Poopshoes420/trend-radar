@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rg6tm0/i_replaced_the_lyrics_of_africa_toto_with_every/"
   },
   {
+    "topic": "At this point my fear storage is running out of disk space.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgduvf/at_this_point_my_fear_storage_is_running_out_of/"
+  },
+  {
     "topic": "One of my 2 y.o. students made a penguin today.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfqv2c/the_coordination_is_impressive/"
-  },
-  {
-    "topic": "Lion mother takes her baby home after playing in the mud.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgdgbc/lion_mother_takes_her_baby_home_after_playing_in/"
   },
   {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
@@ -63,24 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3f96/youtube_why_are_you_advertising_this_literal/"
   },
   {
-    "topic": "Since when is 360p considered \"super resolution\"?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfuqsr/since_when_is_360p_considered_super_resolution/"
-  },
-  {
-    "topic": "That would be shit",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
-  },
-  {
     "topic": "This self-censoring shit is getting conserningly out of hand",
     "sources": [
       "reddit"
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
+  },
+  {
+    "topic": "Recommended has fallen.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
+  },
+  {
+    "topic": "Since when is 360p considered \"super resolution\"?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfuqsr/since_when_is_360p_considered_super_resolution/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1464, Part 1 (Thread #1611)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,427,235 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 1,704,547 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 569,130 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 573,773 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 935,600 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 944,640 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 312,721 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 338,974 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,445 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 171,613 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
+  },
+  {
+    "topic": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 168,117 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
   },
   {
     "topic": "Resident Evil Requiem - Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,654 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 35,952 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,142 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 15,262 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pql0rWupm8s"
   }
 ]
