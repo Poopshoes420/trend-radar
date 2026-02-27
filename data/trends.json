@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rg6tm0/i_replaced_the_lyrics_of_africa_toto_with_every/"
   },
   {
-    "topic": "Drama Queen!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rg8sdh/drama_queen/"
-  },
-  {
     "topic": "One of my 2 y.o. students made a penguin today.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfqv2c/the_coordination_is_impressive/"
+  },
+  {
+    "topic": "the smirk of realization",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfo415/the_smirk_of_realization/"
   },
   {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
   },
   {
-    "topic": "China Deploys Thousands of Fishing Boats off Japan\u2019s Coast, and They Are Not There to Fish",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/"
-  },
-  {
     "topic": "Chinese firm publishes photos of US F-22s at Israeli base | The Jerusalem Post",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg5fc9/chinese_firm_publishes_photos_of_us_f22s_at/"
+  },
+  {
+    "topic": "China Deploys Thousands of Fishing Boats off Japan\u2019s Coast, and They Are Not There to Fish",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/"
   },
   {
     "topic": "Pakistan bombs Kabul in 'open war' on Afghanistan's Taliban government",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,341,310 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 14,033,787 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GJfWMYCWY0"
   },
   {
@@ -192,31 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 915,481 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 921,537 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
+  },
+  {
+    "topic": "Pok\u00e9mon Presents | 2.27.2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 253,348 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
   },
   {
     "topic": "Bruno Mars - Risk It All [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,073,388 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 1,190,326 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lY5V4hSLWY8"
   },
   {
-    "topic": "A New Type of Task Event in Hay Day!",
+    "topic": "Pok\u00e9mon Presents 27.2.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 605,671 views \u2022 ~432m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JuA0-uBQLlg"
+    "why": "Trending on YouTube \u2022 52,061 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
     "topic": "B.B.B.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,993 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 29,587 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pkeT8ZwtskU"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GL6ZhoTNDtA"
   }
 ]
