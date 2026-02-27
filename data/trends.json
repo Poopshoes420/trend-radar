@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfuqsr/since_when_is_360p_considered_super_resolution/"
   },
   {
-    "topic": "Hey YouTube, WHAT THE FUCK IS THIS?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfqw9n/hey_youtube_what_the_fuck_is_this/"
-  },
-  {
     "topic": "I cringe so hard everytime I see a comment with this.. like why",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfzbey/i_cringe_so_hard_everytime_i_see_a_comment_with/"
+  },
+  {
+    "topic": "Hey YouTube, WHAT THE FUCK IS THIS?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfqw9n/hey_youtube_what_the_fuck_is_this/"
   },
   {
     "topic": "WHAT IS THIS ADD?!",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/"
   },
   {
-    "topic": "Pak Declares \"Open War\", Bombs Kabul, Kandahar After Afghanistan Attack",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/"
-  },
-  {
     "topic": "Pakistan bombs Kabul in 'open war' on Afghanistan's Taliban government",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfvzol/pakistan_bombs_kabul_in_open_war_on_afghanistans/"
+  },
+  {
+    "topic": "Pak Declares \"Open War\", Bombs Kabul, Kandahar After Afghanistan Attack",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/"
   },
   {
     "topic": "Croatia refuses to transport Russian oil to Hungary",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,111,835 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 7,768,349 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GJfWMYCWY0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 386,596 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 444,891 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lY5V4hSLWY8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 805,114 views \u2022 ~680m old",
+    "why": "Trending on YouTube \u2022 828,629 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ge7j6ho_jls"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 468,617 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 473,677 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UEIAe-MhI9U"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 363,636 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 369,924 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7hJ00483eN4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 280,934 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 302,988 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3D2WPA9ZN30"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 272,685 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 283,753 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k2_bhC5E0mc"
   },
   {
@@ -240,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 282,083 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 299,786 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=77Uk3Vb15Ek"
-  },
-  {
-    "topic": "Hades66 - YO QUIERO \ud83d\udcbf EL SEI66EIS (Visualizer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 158,864 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R4ONYly2wWI"
   },
   {
     "topic": "Dani Barranco, Rome LMN - SADI-K",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 108,043 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 109,273 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JbndpT-FPnE"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GL6ZhoTNDtA"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VygcRr1jcHw"
   }
 ]
