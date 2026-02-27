@@ -54,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3my5/goodbye_youtube_you_ruined_it_with_your_ai_slop/"
   },
   {
-    "topic": "That would be shit",
+    "topic": "Youtube why are you advertising this? Literal Child btw",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3f96/youtube_why_are_you_advertising_this_literal/"
   },
   {
     "topic": "Since when is 360p considered \"super resolution\"?",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfuqsr/since_when_is_360p_considered_super_resolution/"
   },
   {
-    "topic": "Youtube why are you advertising this? Literal Child btw",
+    "topic": "That would be shit",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3f96/youtube_why_are_you_advertising_this_literal/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
   },
   {
     "topic": "Hey YouTube, WHAT THE FUCK IS THIS?!",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg5fc9/chinese_firm_publishes_photos_of_us_f22s_at/"
   },
   {
-    "topic": "China Deploys Thousands of Fishing Boats off Japan\u2019s Coast, and They Are Not There to Fish",
+    "topic": "UK government staff have been withdrawn from Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg90kp/uk_government_staff_have_been_withdrawn_from_iran/"
   },
   {
-    "topic": "Pakistan bombs Kabul in 'open war' on Afghanistan's Taliban government",
+    "topic": "New video shows Russian forces using white phosphorus munitions to strike Kostiantynivka",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfvzol/pakistan_bombs_kabul_in_open_war_on_afghanistans/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6kle/new_video_shows_russian_forces_using_white/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rg5vvv/i_was_really_looking_forward_to_this_game/"
   },
   {
-    "topic": "I am so ready to play Resident Evil",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rg0kpo/i_am_so_ready_to_play_resident_evil/"
-  },
-  {
     "topic": "Pok\u00e9mon Winds and Pok\u00e9mon Waves | Announcement Trailer",
     "sources": [
       "reddit"
@@ -180,35 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rg85hd/pok\u00e9mon_winds_and_pok\u00e9mon_waves_announcement/"
   },
   {
+    "topic": "I am so ready to play Resident Evil",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rg0kpo/i_am_so_ready_to_play_resident_evil/"
+  },
+  {
     "topic": "BLACKPINK - \u2018GO\u2019 M/V",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,033,787 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 14,834,214 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GJfWMYCWY0"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 921,537 views \u2022 ~403m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
   },
   {
     "topic": "Pok\u00e9mon Presents | 2.27.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,348 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 859,224 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 928,424 views \u2022 ~449m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
   },
   {
     "topic": "Bruno Mars - Risk It All [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,190,326 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 1,336,262 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lY5V4hSLWY8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,061 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 235,954 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,587 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 35,407 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pkeT8ZwtskU"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GL6ZhoTNDtA"
   }
 ]
