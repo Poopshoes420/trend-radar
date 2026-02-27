@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgduvf/at_this_point_my_fear_storage_is_running_out_of/"
   },
   {
-    "topic": "My cat Mabel likes to get up into and wear bags",
+    "topic": "Inbus",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rghtr9/my_cat_mabel_likes_to_get_up_into_and_wear_bags/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgiecq/inbus/"
   },
   {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
   },
   {
+    "topic": "Shut it down. Shut it all down. (YT now has a \"most relevant\" category for subscriptions)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rggngo/shut_it_down_shut_it_all_down_yt_now_has_a_most/"
+  },
+  {
     "topic": "Youtube why are you advertising this? Literal Child btw",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3f96/youtube_why_are_you_advertising_this_literal/"
-  },
-  {
-    "topic": "Since when is 360p considered \"super resolution\"?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfuqsr/since_when_is_360p_considered_super_resolution/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1464, Part 1 (Thread #1611)",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "I was really looking forward to this game",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rg5vvv/i_was_really_looking_forward_to_this_game/"
-  },
-  {
     "topic": "Graphics comparison: Pok\u00e9mon Violet (Gen 9) vs Pok\u00e9mon Waves (Gen 10)",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgfxnz/graphics_comparison_pok\u00e9mon_violet_gen_9_vs/"
+  },
+  {
+    "topic": "I was really looking forward to this game",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rg5vvv/i_was_really_looking_forward_to_this_game/"
   },
   {
     "topic": "Pok\u00e9mon Winds and Pok\u00e9mon Waves | Announcement Trailer",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,998,702 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 2,069,041 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 577,195 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 577,743 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 449,703 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 510,538 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 959,008 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
   },
   {
     "topic": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 280,020 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 312,187 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 304,697 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 312,499 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RyvywkakGKw"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 364,057 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 368,652 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,397 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 182,990 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mcg4z1gGbEw"
   },
   {
@@ -248,31 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,535 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 212,188 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j2rhxmwjvbI"
-  },
-  {
-    "topic": "Resident Evil Requiem - Launch Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 50,495 views \u2022 ~409m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
   },
   {
     "topic": "Hurricane Wisdom - Dangerous (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,127 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 35,587 views \u2022 ~280m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ynjpaKnmj4Q"
+  },
+  {
+    "topic": "Resident Evil Requiem - Launch Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,102 views \u2022 ~447m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
   },
   {
     "topic": "NEW BO7 ZOMBIES \"PARADOX JUNCTION\" INTRO CUTSCENE & CHARACTER REVEAL! (DLC2 Trailer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,789 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 20,993 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kkZPDipGQZU"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,615 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 23,891 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pql0rWupm8s"
   }
 ]
