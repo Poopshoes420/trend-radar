@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfegu8/the_english_teacher/"
   },
   {
-    "topic": "he said, don't touch his thing... i mean his tail",
+    "topic": "the smirk of realization",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfehca/he_said_dont_touch_his_thing_i_mean_his_tail/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfo415/the_smirk_of_realization/"
   },
   {
     "topic": "That would be shit",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfqw9n/hey_youtube_what_the_fuck_is_this/"
   },
   {
-    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
-  },
-  {
     "topic": "WHAT IS THIS ADD?!",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfvw5t/what_is_this_add/"
+  },
+  {
+    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1464, Part 1 (Thread #1611)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/"
   },
   {
-    "topic": "Croatia refuses to transport Russian oil to Hungary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfhgwt/croatia_refuses_to_transport_russian_oil_to/"
-  },
-  {
     "topic": "Pak Declares \"Open War\", Bombs Kabul, Kandahar After Afghanistan Attack",
     "sources": [
       "reddit"
@@ -126,22 +117,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/"
   },
   {
-    "topic": "British Citizenship Applications by US Nationals Hit Record High",
+    "topic": "Croatia refuses to transport Russian oil to Hungary",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfeq2u/british_citizenship_applications_by_us_nationals/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfhgwt/croatia_refuses_to_transport_russian_oil_to/"
   },
   {
-    "topic": "Making Friends Monday! Share your game tags here!",
+    "topic": "Pakistan bombs Kabul in 'open war' on Afghanistan's Taliban government",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfvzol/pakistan_bombs_kabul_in_open_war_on_afghanistans/"
+  },
+  {
+    "topic": "Free Talk Friday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rcajz3/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfzp69/free_talk_friday/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,27 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfaf4b/happy_10th_anniversary_of_stardew_valley/"
   },
   {
-    "topic": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
+    "topic": "BLACKPINK - \u2018GO\u2019 M/V",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,207,321 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
+    "why": "Trending on YouTube \u2022 3,922,530 views \u2022 ~131m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2GJfWMYCWY0"
   },
   {
     "topic": "The Best New Golf Game is Here",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 582,098 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 664,498 views \u2022 ~523m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ge7j6ho_jls"
+  },
+  {
+    "topic": "Bruno Mars - Risk It All [Official Music Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 149,701 views \u2022 ~131m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lY5V4hSLWY8"
   },
   {
     "topic": "ganga - Peso Pluma, Tito Double P, El Randal (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,655 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 351,025 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UEIAe-MhI9U"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,911 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 298,950 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7hJ00483eN4"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 318,379 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 338,382 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fvjbRQ4kwB4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,231 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 215,647 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k2_bhC5E0mc"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,669 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 181,042 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3D2WPA9ZN30"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,866 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 202,764 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=77Uk3Vb15Ek"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,538 views \u2022 ~604m old",
+    "why": "Trending on YouTube \u2022 232,763 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yHnRBRKUr2Y"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,066 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 143,777 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R4ONYly2wWI"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,697 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 101,110 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JbndpT-FPnE"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,114 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 121,369 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HRibedL6Zag"
   },
   {
@@ -280,15 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,775 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 43,207 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4LwvzQVHpso"
   },
   {
-    "topic": "The Will Cain Show",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1w-D2USShDc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GL6ZhoTNDtA"
   }
 ]
