@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfm4m4/one_of_my_2_yo_students_made_a_penguin_today/"
   },
   {
-    "topic": "The English Teacher",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfegu8/the_english_teacher/"
-  },
-  {
     "topic": "The coordination is impressive",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfqv2c/the_coordination_is_impressive/"
+  },
+  {
+    "topic": "The English Teacher",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfegu8/the_english_teacher/"
   },
   {
     "topic": "he said, don't touch his thing... i mean his tail",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
   },
   {
-    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
-  },
-  {
     "topic": "Since when is 360p considered \"super resolution\"?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfqw9n/hey_youtube_what_the_fuck_is_this/"
+  },
+  {
+    "topic": "Who tf is watching this 3 hour long thing \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfgxlf/who_tf_is_watching_this_3_hour_long_thing/"
   },
   {
     "topic": "WHAT IS THIS ADD?!",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfhgwt/croatia_refuses_to_transport_russian_oil_to/"
   },
   {
-    "topic": "Taliban Issues Fatwa Declaring Jihad Against Pakistan",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfvx25/taliban_issues_fatwa_declaring_jihad_against/"
-  },
-  {
     "topic": "Pak Declares \"Open War\", Bombs Kabul, Kandahar After Afghanistan Attack",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/"
+  },
+  {
+    "topic": "British Citizenship Applications by US Nationals Hit Record High",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfeq2u/british_citizenship_applications_by_us_nationals/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,153,790 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 1,207,321 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
-  },
-  {
-    "topic": "Poppy Playtime Chapter 5 - Accolades Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 908,677 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4Jhh3P9UGK0"
   },
   {
     "topic": "The Best New Golf Game is Here",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 508,673 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 582,098 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ge7j6ho_jls"
   },
   {
@@ -208,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,812 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 270,655 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UEIAe-MhI9U"
-  },
-  {
-    "topic": "Hermitcraft 11: Episode 11 - THE BASE BEGINS!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 596,978 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Fwf7n7vBAC4"
   },
   {
     "topic": "J Balvin, Ryan Castro, DJ Snake - Tonto (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 218,273 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 260,911 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7hJ00483eN4"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 296,732 views \u2022 ~499m old",
+    "why": "Trending on YouTube \u2022 318,379 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fvjbRQ4kwB4"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,178 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 191,231 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k2_bhC5E0mc"
   },
   {
@@ -248,31 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 125,239 views \u2022 ~304m old",
+    "why": "Trending on YouTube \u2022 150,669 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3D2WPA9ZN30"
+  },
+  {
+    "topic": "I Worked Security At An Abandoned Mall\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 170,866 views \u2022 ~417m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=77Uk3Vb15Ek"
   },
   {
     "topic": "T.I. - Lessons (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 209,984 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 221,538 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yHnRBRKUr2Y"
-  },
-  {
-    "topic": "'Ninth Wave' Update Trailer / War Thunder",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 216,224 views \u2022 ~665m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
   },
   {
     "topic": "Hades66 - YO QUIERO \ud83d\udcbf EL SEI66EIS (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,120 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 133,066 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R4ONYly2wWI"
   },
   {
@@ -280,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,723 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 95,697 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JbndpT-FPnE"
   },
   {
@@ -288,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,410 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 112,114 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HRibedL6Zag"
   },
   {
@@ -296,15 +280,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,060 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 40,775 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4LwvzQVHpso"
   },
   {
-    "topic": "The Story With Martha MacCallum",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kXF3tKcnMIg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1w-D2USShDc"
   }
 ]
