@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "The English Teacher",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfegu8/the_english_teacher/"
-  },
-  {
     "topic": "One of my 2 y.o. students made a penguin today.",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfm4m4/one_of_my_2_yo_students_made_a_penguin_today/"
+  },
+  {
+    "topic": "The English Teacher",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfegu8/the_english_teacher/"
   },
   {
     "topic": "he said, don't touch his thing... i mean his tail",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfaf4b/happy_10th_anniversary_of_stardew_valley/"
   },
   {
+    "topic": "Civilization 7 will bring back the ability to play as one civ for the whole game, bypassing the divisive Age system",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfrboo/civilization_7_will_bring_back_the_ability_to/"
+  },
+  {
     "topic": "Found my wife\u2019s NES games from when she was a kid \ud83d\udd79\ufe0f",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfmc2n/found_my_wifes_nes_games_from_when_she_was_a_kid/"
   },
   {
-    "topic": "[Jason Schreier, Bloomberg] Inside the failure of Highguard, which flopped so badly that developer Wildlight laid off most of its staff just two weeks after release | When asked what they thought went wrong, developers used the word \"hubris\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rfj2ad/jason_schreier_bloomberg_inside_the_failure_of/"
-  },
-  {
     "topic": "Stardew Valley 10-year Anniversary Video (Retrospective & New Spouse Reveal)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 730,409 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 862,170 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=geiTg6Z7w3A"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 558,586 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 664,786 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4Jhh3P9UGK0"
+  },
+  {
+    "topic": "The Best New Golf Game is Here",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 195,929 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ge7j6ho_jls"
   },
   {
     "topic": "Hermitcraft 11: Episode 11 - THE BASE BEGINS!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 332,926 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 408,434 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fwf7n7vBAC4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 364,163 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 425,414 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FmKEQVXodVo"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,616 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 173,148 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hrmMWJPDZ0E"
   },
   {
@@ -224,39 +232,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 85,482 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 122,142 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yHnRBRKUr2Y"
+  },
+  {
+    "topic": "Hades66 - YO QUIERO \ud83d\udcbf EL SEI66EIS (Visualizer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 51,243 views \u2022 ~185m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=R4ONYly2wWI"
+  },
+  {
+    "topic": "SPIDER-MAN BRAND NEW DAY X-Men Announcement",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 48,181 views \u2022 ~229m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HRibedL6Zag"
   },
   {
     "topic": "Jury Duty Presents: Company Retreat \u2013 Official Trailer | Season 2 | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,426 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 102,035 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K4q_0DtugOA"
+  },
+  {
+    "topic": "Dynasty: The Murdochs | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 46,393 views \u2022 ~515m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=a4BaDLZjE2c"
   },
   {
     "topic": "Savannah Dexter - Shot For You (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,814 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 16,418 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0qQNNAHztZA"
   },
   {
-    "topic": "The Comeback Season 3 | Official Trailer | HBO Max",
+    "topic": "THF Gbaby - SCOOM PT. 2 (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,478 views \u2022 ~349m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=p1rVpVCNBgE"
+    "why": "Trending on YouTube \u2022 14,772 views \u2022 ~305m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Gce0gaQkhMs"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PYIN9rMWIB8"
   }
 ]
