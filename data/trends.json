@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfqv2c/the_coordination_is_impressive/"
   },
   {
-    "topic": "the smirk of realization",
+    "topic": "Lion mother takes her baby home after playing in the mud.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfo415/the_smirk_of_realization/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgdgbc/lion_mother_takes_her_baby_home_after_playing_in/"
   },
   {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfm26h/that_would_be_shit/"
   },
   {
-    "topic": "Hey YouTube, WHAT THE FUCK IS THIS?!",
+    "topic": "This self-censoring shit is getting conserningly out of hand",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rfqw9n/hey_youtube_what_the_fuck_is_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1464, Part 1 (Thread #1611)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
   },
   {
-    "topic": "Chinese firm publishes photos of US F-22s at Israeli base | The Jerusalem Post",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg5fc9/chinese_firm_publishes_photos_of_us_f22s_at/"
-  },
-  {
     "topic": "UK government staff have been withdrawn from Iran",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg90kp/uk_government_staff_have_been_withdrawn_from_iran/"
   },
   {
-    "topic": "New video shows Russian forces using white phosphorus munitions to strike Kostiantynivka",
+    "topic": "Chinese firm publishes photos of US F-22s at Israeli base | The Jerusalem Post",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6kle/new_video_shows_russian_forces_using_white/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg5fc9/chinese_firm_publishes_photos_of_us_f22s_at/"
+  },
+  {
+    "topic": "China urges citizens in Iran to evacuate",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgak9z/china_urges_citizens_in_iran_to_evacuate/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,236,226 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 1,427,235 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
+  },
+  {
+    "topic": "Pokemon Presents: 30th Anniversary Livestream Watch Party & Post Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 569,130 views \u2022 ~146m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
   },
   {
     "topic": "\ud83d\udd34LIVE | MARATHON SERVER SLAM w/ Nickmercs & Rogue | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 929,671 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 935,600 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
   },
   {
@@ -200,7 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 289,244 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 312,721 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
+  },
+  {
+    "topic": "Gorillaz - The Mountain, The Moon Cave and The Sad God",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 69,445 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
+  },
+  {
+    "topic": "Resident Evil Requiem - Launch Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 27,654 views \u2022 ~225m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
+  },
+  {
+    "topic": "(2027) NEW POKEMON WINDS & WAVES REVEAL! - Pokemon Gen 10 - Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,142 views \u2022 ~199m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pql0rWupm8s"
   }
 ]
