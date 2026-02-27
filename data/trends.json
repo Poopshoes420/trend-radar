@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgduvf/at_this_point_my_fear_storage_is_running_out_of/"
   },
   {
+    "topic": "Peeing in \"shower nozzle\" mode",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgdvgx/peeing_in_shower_nozzle_mode/"
+  },
+  {
     "topic": "One of my 2 y.o. students made a penguin today.",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfm4m4/one_of_my_2_yo_students_made_a_penguin_today/"
   },
   {
-    "topic": "The coordination is impressive",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rfqv2c/the_coordination_is_impressive/"
-  },
-  {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3my5/goodbye_youtube_you_ruined_it_with_your_ai_slop/"
-  },
-  {
-    "topic": "Youtube why are you advertising this? Literal Child btw",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3f96/youtube_why_are_you_advertising_this_literal/"
   },
   {
     "topic": "This self-censoring shit is getting conserningly out of hand",
@@ -81,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
   },
   {
+    "topic": "Youtube why are you advertising this? Literal Child btw",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3f96/youtube_why_are_you_advertising_this_literal/"
+  },
+  {
     "topic": "Since when is 360p considered \"super resolution\"?",
     "sources": [
       "reddit"
@@ -99,15 +99,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfwcc8/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "U.S. tells embassy staff in Israel to leave now if they want amid Trump threats to attack Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
-  },
-  {
     "topic": "UK government staff have been withdrawn from Iran",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg90kp/uk_government_staff_have_been_withdrawn_from_iran/"
+  },
+  {
+    "topic": "U.S. tells embassy staff in Israel to leave now if they want amid Trump threats to attack Iran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
   },
   {
     "topic": "Chinese firm publishes photos of US F-22s at Israeli base | The Jerusalem Post",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,704,547 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 1,850,733 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 573,773 views \u2022 ~206m old",
+    "why": "Trending on YouTube \u2022 575,255 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
   },
   {
@@ -200,39 +200,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 944,640 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 949,576 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Whr2gGXHo9g"
-  },
-  {
-    "topic": "Pok\u00e9mon Presents 27.2.2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 338,974 views \u2022 ~329m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
     "topic": "Gorillaz - The Mountain, The Moon Cave and The Sad God",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,613 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 262,106 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
+  },
+  {
+    "topic": "POKEMON DIRECT REACTION",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 282,248 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RyvywkakGKw"
   },
   {
     "topic": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 168,117 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 209,106 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
+  },
+  {
+    "topic": "Pok\u00e9mon Presents 27.2.2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 349,274 views \u2022 ~370m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
     "topic": "Resident Evil Requiem - Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,952 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 40,630 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,262 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 18,093 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pql0rWupm8s"
   }
 ]
