@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
   },
   {
-    "topic": "Recommended has fallen.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
-  },
-  {
     "topic": "Shut it down. Shut it all down. (YT now has a \"most relevant\" category for subscriptions)",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rggngo/shut_it_down_shut_it_all_down_yt_now_has_a_most/"
+  },
+  {
+    "topic": "Recommended has fallen.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
   },
   {
     "topic": "Youtube why are you advertising this? Literal Child btw",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg90kp/uk_government_staff_have_been_withdrawn_from_iran/"
   },
   {
-    "topic": "U.S. tells embassy staff in Israel to leave now if they want amid Trump threats to attack Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
-  },
-  {
     "topic": "China urges citizens in Iran to evacuate",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgak9z/china_urges_citizens_in_iran_to_evacuate/"
+  },
+  {
+    "topic": "U.S. tells embassy staff in Israel to leave now if they want amid Trump threats to attack Iran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
   },
   {
     "topic": "Chinese firm publishes photos of US F-22s at Israeli base | The Jerusalem Post",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,107,425 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 2,160,409 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
-  },
-  {
-    "topic": "I Became a Minecraft Combat Master",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,601,449 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZVrQRAf5dJg"
   },
   {
     "topic": "Gorillaz - The Mountain, The Moon Cave and The Sad God",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 550,010 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 606,705 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 578,075 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 578,559 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 329,352 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 351,272 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
   },
   {
@@ -224,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 316,786 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 322,737 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RyvywkakGKw"
-  },
-  {
-    "topic": "Pok\u00e9mon Presents 27.2.2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 371,070 views \u2022 ~510m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
     "topic": "T.I. - LET 'EM KNOW (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,737 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 231,210 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mcg4z1gGbEw"
+  },
+  {
+    "topic": "Pok\u00e9mon Presents 27.2.2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 374,456 views \u2022 ~546m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
     "topic": "I wasn't expecting this. - Pokemon Presents 30",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,558 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 238,070 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j2rhxmwjvbI"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,054 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 45,689 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ynjpaKnmj4Q"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,320 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 59,745 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
   },
   {
@@ -272,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,030 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 26,910 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kkZPDipGQZU"
   },
   {
-    "topic": "(2027) NEW POKEMON WINDS & WAVES REVEAL! - Pokemon Gen 10 - Official Trailer",
+    "topic": "Power Book III: Raising Kanan | Official Teaser | Season 5",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,775 views \u2022 ~440m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pql0rWupm8s"
+    "why": "Trending on YouTube \u2022 5,691 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=inxXoHDr28k"
   }
 ]
