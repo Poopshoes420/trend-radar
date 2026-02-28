@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh4agn/romeow_and_julicat/"
   },
   {
-    "topic": "I wish I hadn't known",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgqczn/i_wish_i_hadnt_known/"
-  },
-  {
     "topic": "Kid is good at acting",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rguagc/kid_is_good_at_acting/"
+  },
+  {
+    "topic": "I wish I hadn't known",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgqczn/i_wish_i_hadnt_known/"
   },
   {
     "topic": "Thought he was the goat \ud83d\udc10, but got chased by the real goat \ud83d\udc10 \ud83e\udd23",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "I was panicking. I don't want to talk about it.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgt22q/i_was_panicking_i_dont_want_to_talk_about_it/"
-  },
-  {
     "topic": "New Mission: Basic Literacy",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rh5b87/new_mission_basic_literacy/"
+  },
+  {
+    "topic": "I was panicking. I don't want to talk about it.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgt22q/i_was_panicking_i_dont_want_to_talk_about_it/"
   },
   {
     "topic": "Pok\u00e9mon FireRed and LeafGreen on Switch now features a word filter when naming.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 458,729 views \u2022 ~64m old",
+    "why": "Trending on YouTube \u2022 510,651 views \u2022 ~88m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A4nFp-IpoBI"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 711,209 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 709,747 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
+  },
+  {
+    "topic": "I Beat Poppy Playtime Chapter 5!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 706,819 views \u2022 ~628m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Bktn1qHI7yA"
   },
   {
     "topic": "[Official Trailer] \u0e23\u0e31\u0e01\u0e04\u0e23\u0e39\u0e40\u0e17\u0e48\u0e32\u0e42\u0e25\u0e01\u0e40\u0e25\u0e22 Love you teacher #LoveYouTeacherSeries",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 296,603 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 306,754 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c4QnAOLeI2o"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,041 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 154,102 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tb4dRE6kAZk"
   }
 ]
