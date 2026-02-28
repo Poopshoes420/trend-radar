@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3my5/goodbye_youtube_you_ruined_it_with_your_ai_slop/"
   },
   {
-    "topic": "This self-censoring shit is getting conserningly out of hand",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
-  },
-  {
     "topic": "Shut it down. Shut it all down. (YT now has a \"most relevant\" category for subscriptions)",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rggngo/shut_it_down_shut_it_all_down_yt_now_has_a_most/"
+  },
+  {
+    "topic": "This self-censoring shit is getting conserningly out of hand",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
   },
   {
     "topic": "Recommended has fallen.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
   },
   {
-    "topic": "Chinese firm publishes photos of US F-22s at Israeli base | The Jerusalem Post",
+    "topic": "Trump raises prospect of 'friendly takeover' of Cuba, says Rubio in talks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg5fc9/chinese_firm_publishes_photos_of_us_f22s_at/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgg9r1/trump_raises_prospect_of_friendly_takeover_of/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,265,007 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 2,397,219 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 727,548 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 877,748 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
-  },
-  {
-    "topic": "Pokemon Presents: 30th Anniversary Livestream Watch Party & Post Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 579,557 views \u2022 ~501m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oi-dwqVWX_o"
   },
   {
     "topic": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 395,151 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 447,338 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
   },
   {
@@ -216,39 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 293,639 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 387,717 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mcg4z1gGbEw"
-  },
-  {
-    "topic": "POKEMON DIRECT REACTION",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 335,602 views \u2022 ~520m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RyvywkakGKw"
-  },
-  {
-    "topic": "Pok\u00e9mon Presents 27.2.2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 381,623 views \u2022 ~624m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rV0cm5FXsCQ"
   },
   {
     "topic": "I wasn't expecting this. - Pokemon Presents 30",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 272,334 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 319,409 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j2rhxmwjvbI"
+  },
+  {
+    "topic": "Resident Evil 9 Requiem - Part 2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 230,438 views \u2022 ~509m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fyevxMJ65v0"
   },
   {
     "topic": "Hurricane Wisdom - Dangerous (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,763 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 81,061 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ynjpaKnmj4Q"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,623 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 76,226 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
   },
   {
@@ -264,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,682 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 43,639 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kkZPDipGQZU"
   },
   {
@@ -272,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,029 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 26,008 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=inxXoHDr28k"
   }
 ]
