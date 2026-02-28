@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh2f0i/top_10_youtube_short_comments/"
   },
   {
-    "topic": "Those people on youtube comment sections that go \"(country) MENTIONED (flag spam)\" be like irl:",
+    "topic": "spent 3 days trying to figure out why my video wasn't getting views. turned out i never hit publish.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh4s4o/those_people_on_youtube_comment_sections_that_go/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh6t5e/spent_3_days_trying_to_figure_out_why_my_video/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1465, Part 1 (Thread #1612)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh9jdm/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran strikes US naval base in Bahrain as retaliatory missiles hit across Persian Gulf",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgyijc/iran_strikes_us_naval_base_in_bahrain_as/"
-  },
-  {
     "topic": "Croatia declared free of landmines after 31 years",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgzyxf/croatia_declared_free_of_landmines_after_31_years/"
+  },
+  {
+    "topic": "Iran strikes US naval base in Bahrain as retaliatory missiles hit across Persian Gulf",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgyijc/iran_strikes_us_naval_base_in_bahrain_as/"
   },
   {
     "topic": "Iran's revolutionary guards tell ships passage through Strait of Hormuz 'not allowed', EU naval mission official says",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 584,415 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 593,921 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A4nFp-IpoBI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 651,608 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 683,706 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YvYii6dluM8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 714,815 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 716,414 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 773,910 views \u2022 ~687m old",
+    "why": "Trending on YouTube \u2022 801,732 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Bktn1qHI7yA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 328,172 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 335,559 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c4QnAOLeI2o"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,517 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 186,460 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tb4dRE6kAZk"
   }
 ]
