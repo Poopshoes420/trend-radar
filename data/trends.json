@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rggngo/shut_it_down_shut_it_all_down_yt_now_has_a_most/"
   },
   {
-    "topic": "Recommended has fallen.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
-  },
-  {
     "topic": "Over the last few weeks, i have noticed a trend. Here, the sponsorship ad will start with bright background. Now call me crazy, but i think they are doing it purposefully so you can't skip the video.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgvgln/over_the_last_few_weeks_i_have_noticed_a_trend/"
+  },
+  {
+    "topic": "Recommended has fallen.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgczt6/recommended_has_fallen/"
   },
   {
     "topic": "Israeli Defense minister: We have launched preemptive strike against Iran",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgop6s/sources_report_the_leader_of_the_taliban_and_emir/"
   },
   {
-    "topic": "The United States is participating in the Israeli strikes against Iran, AP sources say",
+    "topic": "Khamenei not in Tehran \u2014 moved to secure location: Iranian official",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvu6r/the_united_states_is_participating_in_the_israeli/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvuye/khamenei_not_in_tehran_moved_to_secure_location/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 491,643 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 513,114 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=94R0U5W7_yA"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 226,795 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 240,296 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4ganUMRw6U"
+  },
+  {
+    "topic": "Alex Warren - FEVER DREAM (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 273,284 views \u2022 ~586m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hkUSnrHQJHg"
   },
   {
     "topic": "Huggy Wuggy is Dead - Poppy Playtime Chapter 5",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,494 views \u2022 ~583m old",
+    "why": "Trending on YouTube \u2022 230,820 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x-oyEKhsK9o"
   },
   {
@@ -208,15 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,522 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 30,397 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxLxkVext4c"
-  },
-  {
-    "topic": "Power Book III: Raising Kanan | Official Teaser | Season 5",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 55,072 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=inxXoHDr28k"
   }
 ]
