@@ -1,5 +1,14 @@
 [
   {
+    "topic": "I wish I hadn't known",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgqczn/i_wish_i_hadnt_known/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgduvf/at_this_point_my_fear_storage_is_running_out_of/"
-  },
-  {
-    "topic": "I replaced the lyrics of Africa (Toto) with every country in Africa",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rg6tm0/i_replaced_the_lyrics_of_africa_toto_with_every/"
   },
   {
     "topic": "Inbus",
@@ -99,6 +99,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rfwcc8/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "At least 10 FBI agents who worked on Trump investigation fired",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgqxld/at_least_10_fbi_agents_who_worked_on_trump/"
+  },
+  {
+    "topic": "Sources report the leader of the Taliban and Emir of Afghanistan may have been killed by a Pakistani air strike",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgop6s/sources_report_the_leader_of_the_taliban_and_emir/"
+  },
+  {
     "topic": "UK government staff have been withdrawn from Iran",
     "sources": [
       "reddit"
@@ -108,31 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg90kp/uk_government_staff_have_been_withdrawn_from_iran/"
   },
   {
-    "topic": "China urges citizens in Iran to evacuate",
+    "topic": "Anthropic's statement on the comments from Secretary of War Pete Hegseth: \"No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgak9z/china_urges_citizens_in_iran_to_evacuate/"
-  },
-  {
-    "topic": "U.S. tells embassy staff in Israel to leave now if they want amid Trump threats to attack Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg6ys3/us_tells_embassy_staff_in_israel_to_leave_now_if/"
-  },
-  {
-    "topic": "Trump raises prospect of 'friendly takeover' of Cuba, says Rubio in talks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgg9r1/trump_raises_prospect_of_friendly_takeover_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgrios/anthropics_statement_on_the_comments_from/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,83 +180,91 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rghlr2/sonys_bluepoint_pitched_bloodborne_remake_before/"
   },
   {
-    "topic": "Pok\u00e9mon Presents | 2.27.2026",
+    "topic": "CG5 - Wrong Side Out (Poppy Playtime Chapter 5) - Official Music Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,397,219 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Dh2WcRJOVPU"
+    "why": "Trending on YouTube \u2022 1,576,159 views \u2022 ~595m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PLSPKHrBuec"
   },
   {
     "topic": "Gorillaz - The Mountain, The Moon Cave and The Sad God",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 877,748 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 1,009,688 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ucRulNQsuYQ"
   },
   {
-    "topic": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
+    "topic": "We Played Among Us 5 Years Later...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 447,338 views \u2022 ~592m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
+    "why": "Trending on YouTube \u2022 284,690 views \u2022 ~327m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=94R0U5W7_yA"
   },
   {
     "topic": "T.I. - LET 'EM KNOW (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 387,717 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 487,912 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mcg4z1gGbEw"
   },
   {
-    "topic": "I wasn't expecting this. - Pokemon Presents 30",
+    "topic": "Forged in Fury | Shyvana Champion Update Trailer - League of Legends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 319,409 views \u2022 ~612m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=j2rhxmwjvbI"
+    "why": "Trending on YouTube \u2022 488,908 views \u2022 ~714m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xoq33mAQFlg"
   },
   {
     "topic": "Resident Evil 9 Requiem - Part 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 230,438 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 288,961 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyevxMJ65v0"
+  },
+  {
+    "topic": "Kong Smashes ground Angry At Humans (2026) 4K Scene | Monarch: Legacy Of Monsters Fight Clip Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 107,220 views \u2022 ~530m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QDGKU9RkoZY"
   },
   {
     "topic": "Hurricane Wisdom - Dangerous (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,061 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 98,537 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ynjpaKnmj4Q"
-  },
-  {
-    "topic": "Resident Evil Requiem - Launch Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 76,226 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9lrThxCoznw"
-  },
-  {
-    "topic": "NEW BO7 ZOMBIES \"PARADOX JUNCTION\" INTRO CUTSCENE & CHARACTER REVEAL! (DLC2 Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 43,639 views \u2022 ~468m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kkZPDipGQZU"
   },
   {
     "topic": "Power Book III: Raising Kanan | Official Teaser | Season 5",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,008 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 38,310 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=inxXoHDr28k"
+  },
+  {
+    "topic": "NEW BO7 ZOMBIES \"PARADOX JUNCTION\" INTRO CUTSCENE & CHARACTER REVEAL! (DLC2 Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 50,142 views \u2022 ~590m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kkZPDipGQZU"
+  },
+  {
+    "topic": "100+ Details You Missed in the Pok\u00e9mon Winds & Waves Reveal Trailer!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 20,010 views \u2022 ~535m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=86v1axUKHc8"
   }
 ]
