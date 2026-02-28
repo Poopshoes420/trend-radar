@@ -1,14 +1,5 @@
 [
   {
-    "topic": "I wish I hadn't known",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgqczn/i_wish_i_hadnt_known/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I wish I hadn't known",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgqczn/i_wish_i_hadnt_known/"
   },
   {
     "topic": "Kid is good at acting",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgdvgx/peeing_in_shower_nozzle_mode/"
   },
   {
-    "topic": "At this point my fear storage is running out of disk space.",
+    "topic": "Thought he was the goat \ud83d\udc10, but got chased by the real goat \ud83d\udc10 \ud83e\udd23",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgduvf/at_this_point_my_fear_storage_is_running_out_of/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh09pd/thought_he_was_the_goat_but_got_chased_by_the/"
   },
   {
     "topic": "Over the last few weeks, i have noticed a trend. Here, the sponsorship ad will start with bright background. Now call me crazy, but i think they are doing it purposefully so you can't skip the video.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
   },
   {
-    "topic": "Shut it down. Shut it all down. (YT now has a \"most relevant\" category for subscriptions)",
+    "topic": "Proof that the algorithm is intentionally going after small creators.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rggngo/shut_it_down_shut_it_all_down_yt_now_has_a_most/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgyctx/proof_that_the_algorithm_is_intentionally_going/"
   },
   {
     "topic": "Israeli Defense minister: We have launched preemptive strike against Iran",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgyijc/iran_strikes_us_naval_base_in_bahrain_as/"
   },
   {
-    "topic": "Khamenei not in Tehran \u2014 moved to secure location: Iranian official",
+    "topic": "Croatia declared free of landmines after 31 years",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvuye/khamenei_not_in_tehran_moved_to_secure_location/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgzyxf/croatia_declared_free_of_landmines_after_31_years/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgt22q/i_was_panicking_i_dont_want_to_talk_about_it/"
   },
   {
-    "topic": "Graphics comparison: Pok\u00e9mon Violet (Gen 9) vs Pok\u00e9mon Waves (Gen 10)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgfxnz/graphics_comparison_pok\u00e9mon_violet_gen_9_vs/"
-  },
-  {
     "topic": "Pok\u00e9mon FireRed and LeafGreen on Switch now features a word filter when naming.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgtbc3/pok\u00e9mon_firered_and_leafgreen_on_switch_now/"
   },
   {
+    "topic": "Graphics comparison: Pok\u00e9mon Violet (Gen 9) vs Pok\u00e9mon Waves (Gen 10)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgfxnz/graphics_comparison_pok\u00e9mon_violet_gen_9_vs/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | MARATHON SERVER SLAM w/ Cloakzy | FREAK BOB FRIDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 686,738 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 690,165 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 308,396 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 317,734 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4ganUMRw6U"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,194 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 35,795 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxLxkVext4c"
   }
 ]
