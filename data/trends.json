@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgdvgx/peeing_in_shower_nozzle_mode/"
   },
   {
+    "topic": "Kid is good at acting",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rguagc/kid_is_good_at_acting/"
+  },
+  {
     "topic": "At this point my fear storage is running out of disk space.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgduvf/at_this_point_my_fear_storage_is_running_out_of/"
-  },
-  {
-    "topic": "Inbus",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgiecq/inbus/"
   },
   {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
@@ -99,6 +99,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgskhf/rworldnews_live_thread_russian_invasion_of/"
   },
   {
+    "topic": "/r/WorldNews Discussion Thread: Explosions heard in Tehran as Israel's defense minister confirms Israel has attacked Iran (Thread #1)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvngq/rworldnews_discussion_thread_explosions_heard_in/"
+  },
+  {
     "topic": "Sources report the leader of the Taliban and Emir of Afghanistan may have been killed by a Pakistani air strike",
     "sources": [
       "reddit"
@@ -108,31 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgop6s/sources_report_the_leader_of_the_taliban_and_emir/"
   },
   {
-    "topic": "UK government staff have been withdrawn from Iran",
+    "topic": "Israeli Defense minister: We have launched preemptive strike against Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rg90kp/uk_government_staff_have_been_withdrawn_from_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgv6a2/israeli_defense_minister_we_have_launched/"
   },
   {
-    "topic": "China urges citizens in Iran to evacuate",
+    "topic": "Israel launches attack on Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgak9z/china_urges_citizens_in_iran_to_evacuate/"
-  },
-  {
-    "topic": "Mexico is losing its battle with the cartels after years of flawed strategy",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgo9dk/mexico_is_losing_its_battle_with_the_cartels/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgv7ta/israel_launches_attack_on_iran/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Graphics comparison: Pok\u00e9mon Violet (Gen 9) vs Pok\u00e9mon Waves (Gen 10)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgfxnz/graphics_comparison_pok\u00e9mon_violet_gen_9_vs/"
-  },
-  {
     "topic": "I was panicking. I don't want to talk about it.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgt22q/i_was_panicking_i_dont_want_to_talk_about_it/"
+  },
+  {
+    "topic": "Graphics comparison: Pok\u00e9mon Violet (Gen 9) vs Pok\u00e9mon Waves (Gen 10)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rgfxnz/graphics_comparison_pok\u00e9mon_violet_gen_9_vs/"
   },
   {
     "topic": "Sony\u2019s Bluepoint Pitched \u2018Bloodborne\u2019 Remake Before Closure | Sony didn't turn it down, FromSoftware did",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 390,282 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 431,189 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=94R0U5W7_yA"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,553 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 181,329 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4ganUMRw6U"
+  },
+  {
+    "topic": "Huggy Wuggy is Dead - Poppy Playtime Chapter 5",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 188,996 views \u2022 ~500m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x-oyEKhsK9o"
   },
   {
     "topic": "3C Live - Scary Movie 6 Trailer, Paramount Wins WB, Spider-Man 4 Update",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,860 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 26,748 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxLxkVext4c"
   },
   {
@@ -208,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,175 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 51,274 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=inxXoHDr28k"
-  },
-  {
-    "topic": "NEW BO7 ZOMBIES \"PARADOX JUNCTION\" INTRO CUTSCENE & CHARACTER REVEAL! (DLC2 Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 54,405 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kkZPDipGQZU"
   },
   {
     "topic": "100+ Details You Missed in the Pok\u00e9mon Winds & Waves Reveal Trailer!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,317 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 31,138 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86v1axUKHc8"
   }
 ]
