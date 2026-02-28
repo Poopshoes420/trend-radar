@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgvgln/over_the_last_few_weeks_i_have_noticed_a_trend/"
   },
   {
+    "topic": "Wow Youtube this us literally just porn",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgzu8c/wow_youtube_this_us_literally_just_porn/"
+  },
+  {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rggngo/shut_it_down_shut_it_all_down_yt_now_has_a_most/"
-  },
-  {
-    "topic": "Wow Youtube this us literally just porn",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgzu8c/wow_youtube_this_us_literally_just_porn/"
   },
   {
     "topic": "Israeli Defense minister: We have launched preemptive strike against Iran",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 681,611 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 683,040 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 295,933 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 298,145 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4ganUMRw6U"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,335 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 34,563 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxLxkVext4c"
   }
 ]
