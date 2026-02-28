@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh09pd/thought_he_was_the_goat_but_got_chased_by_the/"
   },
   {
-    "topic": "WILSON!!",
+    "topic": "Romeow and Julicat",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rgxm8o/wilson/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh4agn/romeow_and_julicat/"
   },
   {
     "topic": "Over the last few weeks, i have noticed a trend. Here, the sponsorship ad will start with bright background. Now call me crazy, but i think they are doing it purposefully so you can't skip the video.",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgyctx/proof_that_the_algorithm_is_intentionally_going/"
   },
   {
+    "topic": "Do you remember when Millenials/Gen Z where heavily critisized and complaining? I guess now the cycle repeats",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh45yd/do_you_remember_when_millenialsgen_z_where/"
+  },
+  {
     "topic": "Goodbye YouTube. You ruined it with your AI slop and enshitification.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg3my5/goodbye_youtube_you_ruined_it_with_your_ai_slop/"
-  },
-  {
-    "topic": "This self-censoring shit is getting conserningly out of hand",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rg5up6/this_selfcensoring_shit_is_getting_conserningly/"
   },
   {
     "topic": "Iran strikes US naval base in Bahrain as retaliatory missiles hit across Persian Gulf",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgskhf/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: Explosions heard in Tehran as Israel's defense minister confirms Israel has attacked Iran (Thread #1)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvngq/rworldnews_discussion_thread_explosions_heard_in/"
-  },
-  {
     "topic": "Israeli Defense minister: We have launched preemptive strike against Iran",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgzyxf/croatia_declared_free_of_landmines_after_31_years/"
+  },
+  {
+    "topic": "Khamenei not in Tehran \u2014 moved to secure location: Iranian official",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvuye/khamenei_not_in_tehran_moved_to_secure_location/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 697,275 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 698,887 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
-  },
-  {
-    "topic": "YoungBoy Never Broke Again - Highly  [Official Music Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 339,525 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=k4ganUMRw6U"
   },
   {
     "topic": "3C Live - Scary Movie 6 Trailer, Paramount Wins WB, Spider-Man 4 Update",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,043 views \u2022 ~682m old",
+    "why": "Trending on YouTube \u2022 37,306 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxLxkVext4c"
   }
 ]
