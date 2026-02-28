@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Romeow and Julicat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh4agn/romeow_and_julicat/"
+  },
+  {
     "topic": "I wish I hadn't known",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rguagc/kid_is_good_at_acting/"
-  },
-  {
-    "topic": "Romeow and Julicat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh4agn/romeow_and_julicat/"
   },
   {
     "topic": "Thought he was the goat \ud83d\udc10, but got chased by the real goat \ud83d\udc10 \ud83e\udd23",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgvgln/over_the_last_few_weeks_i_have_noticed_a_trend/"
   },
   {
-    "topic": "Wow Youtube this us literally just porn",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgzu8c/wow_youtube_this_us_literally_just_porn/"
-  },
-  {
     "topic": "Do you remember when Millenials/Gen Z where heavily critisized and complaining? I guess now the cycle repeats",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh45yd/do_you_remember_when_millenialsgen_z_where/"
+  },
+  {
+    "topic": "Wow Youtube this us literally just porn",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgzu8c/wow_youtube_this_us_literally_just_porn/"
   },
   {
     "topic": "Proof that the algorithm is intentionally going after small creators.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgv6a2/israeli_defense_minister_we_have_launched/"
   },
   {
-    "topic": "The United States is participating in the Israeli strikes against Iran, AP sources say",
+    "topic": "Croatia declared free of landmines after 31 years",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgvu6r/the_united_states_is_participating_in_the_israeli/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgzyxf/croatia_declared_free_of_landmines_after_31_years/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 700,963 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 703,049 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
   },
   {
@@ -192,7 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,978 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 253,360 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c4QnAOLeI2o"
+  },
+  {
+    "topic": "Shyvana VGU & New Skins | For Demacia Act 2 Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 100,593 views \u2022 ~314m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tb4dRE6kAZk"
   }
 ]
