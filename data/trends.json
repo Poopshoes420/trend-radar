@@ -63,13 +63,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgvgln/over_the_last_few_weeks_i_have_noticed_a_trend/"
   },
   {
-    "topic": "Proof that the algorithm is intentionally going after small creators.",
+    "topic": "REPORT THIS PAGE THIS PAGE IS ASKING FOR CP NOW",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rgyctx/proof_that_the_algorithm_is_intentionally_going/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhb0cg/report_this_page_this_page_is_asking_for_cp_now/"
+  },
+  {
+    "topic": "Ads are getting worse gradually?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh9zts/ads_are_getting_worse_gradually/"
   },
   {
     "topic": "top 10 youtube short comments",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh2f0i/top_10_youtube_short_comments/"
-  },
-  {
-    "topic": "spent 3 days trying to figure out why my video wasn't getting views. turned out i never hit publish.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh6t5e/spent_3_days_trying_to_figure_out_why_my_video/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1465, Part 1 (Thread #1612)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh9jdm/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran's revolutionary guards tell ships passage through Strait of Hormuz 'not allowed', EU naval mission official says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh6rwb/irans_revolutionary_guards_tell_ships_passage/"
+  },
+  {
     "topic": "Croatia declared free of landmines after 31 years",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rgyijc/iran_strikes_us_naval_base_in_bahrain_as/"
-  },
-  {
-    "topic": "Iran's revolutionary guards tell ships passage through Strait of Hormuz 'not allowed', EU naval mission official says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh6rwb/irans_revolutionary_guards_tell_ships_passage/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 593,921 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 601,982 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A4nFp-IpoBI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 683,706 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 740,864 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YvYii6dluM8"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 716,414 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 719,397 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_wk9k46o5A"
-  },
-  {
-    "topic": "I Beat Poppy Playtime Chapter 5!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 801,732 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Bktn1qHI7yA"
   },
   {
     "topic": "[Official Trailer] \u0e23\u0e31\u0e01\u0e04\u0e23\u0e39\u0e40\u0e17\u0e48\u0e32\u0e42\u0e25\u0e01\u0e40\u0e25\u0e22 Love you teacher #LoveYouTeacherSeries",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 335,559 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 344,357 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c4QnAOLeI2o"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 186,460 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 196,881 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tb4dRE6kAZk"
   }
 ]
