@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhywpi/5_per_month_for_a_more_inclusive_experience/"
   },
   {
-    "topic": "QUIT MAKING THIS STUPID FACE IN YOUR THUMBNAILS, PEOPLE!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhjc85/quit_making_this_stupid_face_in_your_thumbnails/"
-  },
-  {
     "topic": "Imagine travelling back to 2014 and showing everyone THIS is what YouTube would become",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri32a7/imagine_travelling_back_to_2014_and_showing/"
+  },
+  {
+    "topic": "QUIT MAKING THIS STUPID FACE IN YOUR THUMBNAILS, PEOPLE!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhjc85/quit_making_this_stupid_face_in_your_thumbnails/"
   },
   {
     "topic": "Former Iranian president Mahmoud Ahmadinejad reported assassinated",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhnbca/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #2)",
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #3)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh9jdm/rworldnews_discussion_thread_us_and_israel_launch/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri5rkl/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
     "topic": "Saudi prince quietly lobbied Trump for military action on Iran",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,650 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 315,031 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzISGAPmkAg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,985 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 137,333 views \u2022 ~253m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,306 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 10,862 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iABU_qqBGDo"
   },
   {
@@ -208,15 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
-  },
-  {
-    "topic": "College GameDay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
