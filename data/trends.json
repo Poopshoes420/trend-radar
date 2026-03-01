@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "new dog",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
+  },
+  {
     "topic": "Unexpected customer",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
-  },
-  {
-    "topic": "new dog",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
   },
   {
     "topic": "Agent Doggo on the case.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhllmk/how_did_this_happen/"
   },
   {
-    "topic": "Do you remember when Millenials/Gen Z where heavily critisized and complaining? I guess now the cycle repeats",
+    "topic": "\u00a35 per month for a more \"inclusive\" experience",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh45yd/do_you_remember_when_millenialsgen_z_where/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhywpi/5_per_month_for_a_more_inclusive_experience/"
   },
   {
     "topic": "Former Iranian president Mahmoud Ahmadinejad reported assassinated",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,516 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 82,863 views \u2022 ~112m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~684m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
