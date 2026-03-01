@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "[OC] landscape",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri5oiu/oc_landscape/"
+  },
+  {
     "topic": "Unexpected customer",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
-  },
-  {
-    "topic": "Tickets worth more than the car at this point \ud83d\ude2d \ud83d\ude4f",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhvayh/tickets_worth_more_than_the_car_at_this_point/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhn3ig/sponsors_are_a_waste/"
   },
   {
-    "topic": "\u00a35 per month for a more \"inclusive\" experience",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhywpi/5_per_month_for_a_more_inclusive_experience/"
-  },
-  {
     "topic": "Imagine travelling back to 2014 and showing everyone THIS is what YouTube would become",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri32a7/imagine_travelling_back_to_2014_and_showing/"
+  },
+  {
+    "topic": "\u00a35 per month for a more \"inclusive\" experience",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhywpi/5_per_month_for_a_more_inclusive_experience/"
   },
   {
     "topic": "QUIT MAKING THIS STUPID FACE IN YOUR THUMBNAILS, PEOPLE!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 315,031 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 349,330 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzISGAPmkAg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,333 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 146,488 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
   },
   {
@@ -200,15 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,862 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 12,494 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iABU_qqBGDo"
   },
   {
-    "topic": "My View With Lara Trump",
+    "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~49m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Mx1_xg2vPmI"
   }
 ]
