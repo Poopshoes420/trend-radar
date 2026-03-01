@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhn3ig/sponsors_are_a_waste/"
   },
   {
-    "topic": "QUIT MAKING THIS STUPID FACE IN YOUR THUMBNAILS, PEOPLE!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhjc85/quit_making_this_stupid_face_in_your_thumbnails/"
-  },
-  {
     "topic": "\u00a35 per month for a more \"inclusive\" experience",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhywpi/5_per_month_for_a_more_inclusive_experience/"
+  },
+  {
+    "topic": "QUIT MAKING THIS STUPID FACE IN YOUR THUMBNAILS, PEOPLE!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhjc85/quit_making_this_stupid_face_in_your_thumbnails/"
   },
   {
     "topic": "Imagine travelling back to 2014 and showing everyone THIS is what YouTube would become",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri23p9/saudi_prince_quietly_lobbied_trump_for_military/"
   },
   {
-    "topic": "First oil tanker attacked in the Strait of Hormuz according to Oman",
+    "topic": "Nine Israelis killed, 11 missing, dozens injured after Iranian missile hits Beit Shemesh building",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhw699/first_oil_tanker_attacked_in_the_strait_of_hormuz/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri2rek/nine_israelis_killed_11_missing_dozens_injured/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhxzlj/i_just_fired_up_my_old_ps4_and_saw_this/"
   },
   {
-    "topic": "390TB video game archive being taken offline due to skyrocketing RAM, SSD, and hard drive prices \u2014 AI-driven supply squeeze results in closure of one of the largest online video game archives",
+    "topic": "Burnout Revenge, The sequel to Burnout 3 on the PlayStation 2.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhjnib/390tb_video_game_archive_being_taken_offline_due/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhzrn2/burnout_revenge_the_sequel_to_burnout_3_on_the/"
   },
   {
     "topic": "#R\u0100K\u0100S\u0100 Teaser | Sangeeth Shobhan & Nayan Sarika | Manasa Sharma | Niharika Konidela | Zee Studios",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,379 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 292,650 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzISGAPmkAg"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,652 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 127,985 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
+  },
+  {
+    "topic": "Here\u2019s When Every Big Trailer Will Come in 2026 | Sneak Peek",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 9,306 views \u2022 ~167m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iABU_qqBGDo"
   },
   {
     "topic": "My View With Lara Trump",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
