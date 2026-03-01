@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhvayh/tickets_worth_more_than_the_car_at_this_point/"
   },
   {
-    "topic": "Sponsors are a waste",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhn3ig/sponsors_are_a_waste/"
-  },
-  {
     "topic": "Youtube: what was that ?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhwoy3/youtube_what_was_that/"
+  },
+  {
+    "topic": "Sponsors are a waste",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhn3ig/sponsors_are_a_waste/"
   },
   {
     "topic": "QUIT MAKING THIS STUPID FACE IN YOUR THUMBNAILS, PEOPLE!",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhjc85/quit_making_this_stupid_face_in_your_thumbnails/"
   },
   {
+    "topic": "How did this happen?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhllmk/how_did_this_happen/"
+  },
+  {
     "topic": "Do you remember when Millenials/Gen Z where heavily critisized and complaining? I guess now the cycle repeats",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rh45yd/do_you_remember_when_millenialsgen_z_where/"
   },
   {
-    "topic": "How did this happen?",
+    "topic": "Former Iranian president Mahmoud Ahmadinejad reported assassinated",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhllmk/how_did_this_happen/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhymzb/former_iranian_president_mahmoud_ahmadinejad/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1466, Part 1 (Thread #1613)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh9jdm/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "Former Iranian president Mahmoud Ahmadinejad reported assassinated",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhymzb/former_iranian_president_mahmoud_ahmadinejad/"
   },
   {
     "topic": "First oil tanker attacked in the Strait of Hormuz according to Oman",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,712,018 views \u2022 ~669m old",
+    "why": "Trending on YouTube \u2022 1,791,978 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TphfLyzVbqQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
     "exampleUrl": "https://www.youtube.com/watch?v=T8GCoI6B_Aw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
