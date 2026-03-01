@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
   },
   {
-    "topic": "Unexpected customer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhq8gn/unexpected_customer/"
-  },
-  {
     "topic": "Bro is so impatient",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
+  },
+  {
+    "topic": "Unexpected customer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhq8gn/unexpected_customer/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 427,495 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 433,577 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzISGAPmkAg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 180,329 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 186,281 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,646 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 102,789 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0hxII8fOe4E"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,895 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 20,485 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iABU_qqBGDo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mx1_xg2vPmI"
   }
 ]
