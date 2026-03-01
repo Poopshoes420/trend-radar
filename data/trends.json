@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhm523/bathroom_sign_at_my_local_shooting_range/"
   },
   {
+    "topic": "Bro is so impatient",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
+  },
+  {
     "topic": "Ordered heated gloves off Amazon. Did not disappoint.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhala7/ordered_heated_gloves_off_amazon_did_not/"
-  },
-  {
-    "topic": "Romeow and Julicat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rh4agn/romeow_and_julicat/"
   },
   {
     "topic": "Sponsors are a waste",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 582,029 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 699,571 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TphfLyzVbqQ"
-  },
-  {
-    "topic": "New OG Brainrot + Admin Abuse!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,432,591 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5tQtcw4nLbY"
   },
   {
     "topic": "Resident Evil: Requiem - Part 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 507,957 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 538,502 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7H9oZSbxWrk"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 283,915 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 313,179 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7fyufPkXLbs"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,934 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 198,716 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hfHuIjbRk8o"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,318 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 51,590 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hkd3guGgYTU"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,652 views \u2022 ~499m old",
+    "why": "Trending on YouTube \u2022 53,660 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yrni9ObYRv4"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,281 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 68,514 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L_rDJPfdEOU"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,093 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 17,091 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m8vSDGx2_oc"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RgHpTmFsrWk"
   },
   {
@@ -264,7 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
+  },
+  {
+    "topic": "Rush Hour (1998)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   }
 ]
