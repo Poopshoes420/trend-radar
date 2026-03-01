@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Unexpected customer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhq8gn/unexpected_customer/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Unexpected customer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhq8gn/unexpected_customer/"
   },
   {
     "topic": "Bro is so impatient",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
   },
   {
+    "topic": "new dog",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
+  },
+  {
     "topic": "Agent Doggo on the case.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhtdc8/agent_doggo_on_the_case/"
-  },
-  {
-    "topic": "Tickets worth more than the car at this point \ud83d\ude2d \ud83d\ude4f",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhvayh/tickets_worth_more_than_the_car_at_this_point/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh9jdm/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "CENTCOM Confirms Three US Service Members Killed in Operation Epic Fury Amid Iran Conflict",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhzhsd/centcom_confirms_three_us_service_members_killed/"
-  },
-  {
     "topic": "First oil tanker attacked in the Strait of Hormuz according to Oman",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhw699/first_oil_tanker_attacked_in_the_strait_of_hormuz/"
+  },
+  {
+    "topic": "Iranian state media say country's supreme leader is dead",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhkfgy/iranian_state_media_say_countrys_supreme_leader/"
   },
   {
     "topic": "McDonald\u2019s CEO Chris Kempczinski goes viral after seeming reluctant to eat his own burgers\u2014he takes a tiny bite, looks uncomfortable, and calls the food \u2018product.\u2019",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyrs3/resident_evil_9_has_done_it_again_highly/"
   },
   {
+    "topic": "YUNA SOLO DEBUT | 'Ice Cream' OFFICIAL TRAILER",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 75,516 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
+  },
+  {
     "topic": "My View With Lara Trump",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
