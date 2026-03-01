@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Bro is so impatient",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
-  },
-  {
     "topic": "[OC] World peace",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhwrm8/oc_world_peace/"
+  },
+  {
+    "topic": "Bro is so impatient",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
   },
   {
     "topic": "Agent Doggo on the case.",
@@ -171,36 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhjnib/390tb_video_game_archive_being_taken_offline_due/"
   },
   {
-    "topic": "Our son\u2019s Nintendo themed nursery",
+    "topic": "[Jason Schreier] Video Games Need to Be Cheaper to Buy | One way to get out of the video-game industry funk is to recognize that players aren\u2019t spending $70 on most games",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rheic5/our_sons_nintendo_themed_nursery/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyhkw/jason_schreier_video_games_need_to_be_cheaper_to/"
   },
   {
     "topic": "100 Days as King of the Unstable SMP",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,608,409 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 1,668,095 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TphfLyzVbqQ"
-  },
-  {
-    "topic": "Harry Styles - Aperture (Live at The BRIT Awards 2026)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 475,397 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hfHuIjbRk8o"
   },
   {
     "topic": "Special Report",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kxuj86fWAHo"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
