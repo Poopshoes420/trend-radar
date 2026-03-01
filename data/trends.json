@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "new dog",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Unexpected customer",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
   },
   {
-    "topic": "Agent Doggo on the case.",
+    "topic": "Oops ! Wrong isle",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhtdc8/agent_doggo_on_the_case/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri1t49/oops_wrong_isle/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhjc85/quit_making_this_stupid_face_in_your_thumbnails/"
   },
   {
-    "topic": "How did this happen?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhllmk/how_did_this_happen/"
-  },
-  {
     "topic": "\u00a35 per month for a more \"inclusive\" experience",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhywpi/5_per_month_for_a_more_inclusive_experience/"
+  },
+  {
+    "topic": "How did this happen?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhllmk/how_did_this_happen/"
   },
   {
     "topic": "Former Iranian president Mahmoud Ahmadinejad reported assassinated",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhw699/first_oil_tanker_attacked_in_the_strait_of_hormuz/"
   },
   {
-    "topic": "Iranian state media say country's supreme leader is dead",
+    "topic": "Saudi prince quietly lobbied Trump for military action on Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhkfgy/iranian_state_media_say_countrys_supreme_leader/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri23p9/saudi_prince_quietly_lobbied_trump_for_military/"
   },
   {
     "topic": "McDonald\u2019s CEO Chris Kempczinski goes viral after seeming reluctant to eat his own burgers\u2014he takes a tiny bite, looks uncomfortable, and calls the food \u2018product.\u2019",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhu6t7/love_the_new_starters_but_each_of_their_concepts/"
   },
   {
-    "topic": "Resident Evil 9 has done it again, highly recommended brilliant gameplay, pacing and story. For those still on the fence in regards to getting it, you wont regret it.",
+    "topic": "I just fired up my old PS4, and saw this notification still waiting 12 years later.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyrs3/resident_evil_9_has_done_it_again_highly/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhxzlj/i_just_fired_up_my_old_ps4_and_saw_this/"
   },
   {
     "topic": "YUNA SOLO DEBUT | 'Ice Cream' OFFICIAL TRAILER",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,863 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 92,826 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
-  },
-  {
-    "topic": "Rush Hour (1998)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   },
   {
     "topic": "College GameDay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
