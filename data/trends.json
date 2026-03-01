@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rh9jdm/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "CENTCOM Confirms Three US Service Members Killed in Operation Epic Fury Amid Iran Conflict",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhzhsd/centcom_confirms_three_us_service_members_killed/"
+  },
+  {
     "topic": "First oil tanker attacked in the Strait of Hormuz according to Oman",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhw699/first_oil_tanker_attacked_in_the_strait_of_hormuz/"
-  },
-  {
-    "topic": "Iranian state media say country's supreme leader is dead",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhkfgy/iranian_state_media_say_countrys_supreme_leader/"
   },
   {
     "topic": "McDonald\u2019s CEO Chris Kempczinski goes viral after seeming reluctant to eat his own burgers\u2014he takes a tiny bite, looks uncomfortable, and calls the food \u2018product.\u2019",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhqkno/simple_questions_sunday/"
   },
   {
-    "topic": "Love the new starters, but each of their concepts have all kinda been done before",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhu6t7/love_the_new_starters_but_each_of_their_concepts/"
-  },
-  {
     "topic": "[Jason Schreier] Video Games Need to Be Cheaper to Buy | One way to get out of the video-game industry funk is to recognize that players aren\u2019t spending $70 on most games",
     "sources": [
       "reddit"
@@ -171,36 +162,37 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyhkw/jason_schreier_video_games_need_to_be_cheaper_to/"
   },
   {
-    "topic": "390TB video game archive being taken offline due to skyrocketing RAM, SSD, and hard drive prices \u2014 AI-driven supply squeeze results in closure of one of the largest online video game archives",
+    "topic": "Love the new starters, but each of their concepts have all kinda been done before",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhjnib/390tb_video_game_archive_being_taken_offline_due/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhu6t7/love_the_new_starters_but_each_of_their_concepts/"
   },
   {
-    "topic": "100 Days as King of the Unstable SMP",
+    "topic": "Resident Evil 9 has done it again, highly recommended brilliant gameplay, pacing and story. For those still on the fence in regards to getting it, you wont regret it.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyrs3/resident_evil_9_has_done_it_again_highly/"
+  },
+  {
+    "topic": "My View With Lara Trump",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,791,978 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TphfLyzVbqQ"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=T8GCoI6B_Aw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NFD_J34pLvk"
   },
   {
     "topic": "Rush Hour (1998)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G-bCZzgHFI4"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVHNPxEEpVQ"
   }
 ]
