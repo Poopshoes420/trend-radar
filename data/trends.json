@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhwoy3/youtube_what_was_that/"
   },
   {
-    "topic": "they really need to add a safeguard to prevent kids from doing this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri9dwd/they_really_need_to_add_a_safeguard_to_prevent/"
-  },
-  {
     "topic": "bro took it literaly in the most literest way possible \ud83d\udd25",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riioax/bro_took_it_literaly_in_the_most_literest_way/"
+  },
+  {
+    "topic": "they really need to add a safeguard to prevent kids from doing this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri9dwd/they_really_need_to_add_a_safeguard_to_prevent/"
   },
   {
     "topic": "I turned on 'american sign language' subtitles on a video, cause I was curious, but can someone tell me why all it says is just \"hands\"?",
@@ -81,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ria2jn/i_turned_on_american_sign_language_subtitles_on_a/"
   },
   {
-    "topic": "Sponsors are a waste",
+    "topic": "What common Youtube sponsorships do you think are very scammy or untrustworthy?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhn3ig/sponsors_are_a_waste/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri65o1/what_common_youtube_sponsorships_do_you_think_are/"
+  },
+  {
+    "topic": "Russia bombed Hungary\u2019s pipeline. Hungary deployed troops \u2014 against Ukraine. Opposition calls it a false flag to save Orb\u00e1n\u2019s collapsing election campaign",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rinjhk/russia_bombed_hungarys_pipeline_hungary_deployed/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1467, Part 1 (Thread #1614)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri5rkl/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "Russia bombed Hungary\u2019s pipeline. Hungary deployed troops \u2014 against Ukraine. Opposition calls it a false flag to save Orb\u00e1n\u2019s collapsing election campaign",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rinjhk/russia_bombed_hungarys_pipeline_hungary_deployed/"
   },
   {
     "topic": "UK will allow US to use bases to strike Iranian missile sites, says Starmer",
@@ -171,36 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rilchx/original_xbox_halo_display_in_two_and_a_half_men/"
   },
   {
-    "topic": "[Jason Schreier] Video Games Need to Be Cheaper to Buy | One way to get out of the video-game industry funk is to recognize that players aren\u2019t spending $70 on most games",
+    "topic": "This magazine called the Xbox 360 retro and I took that personally..",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyhkw/jason_schreier_video_games_need_to_be_cheaper_to/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rio57m/this_magazine_called_the_xbox_360_retro_and_i/"
   },
   {
     "topic": "Sparxie Character Trailer \u2014 \"Ravings\" | Honkai: Star Rail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 264,361 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 293,205 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NU6J88t4luM"
-  },
-  {
-    "topic": "MAYBE SOME RAGE... | Baby Steps - Part 2",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 398,354 views \u2022 ~670m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
   },
   {
     "topic": "My Chat Picks My Operator in Rainbow Six Siege",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 348,379 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 367,629 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y1-lqCWzqHc"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 355,974 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 375,119 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GPgev7QpHYE"
   },
   {
@@ -216,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,980 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 125,180 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrIo8RDQMoo"
-  },
-  {
-    "topic": "MUTINY AFTER MIDNIGHT",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 148,573 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QKHGmFvzjJ4"
   },
   {
     "topic": "SO CATCHY!! Sparxie Character Trailer \u2014 \"Ravings\" REACTION | Honkai: Star Rail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,096 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 27,775 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hpWli3YTnG0"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qClk5IJbFFI"
   }
 ]
