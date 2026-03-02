@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Can your rolls do this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rit3tq/can_your_rolls_do_this/"
-  },
-  {
     "topic": "My neighbor",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
+  },
+  {
+    "topic": "Can your rolls do this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rit3tq/can_your_rolls_do_this/"
   },
   {
     "topic": "The doormat at our house. The kids are in their twenties",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riioax/bro_took_it_literaly_in_the_most_literest_way/"
   },
   {
-    "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1467, Part 1 (Thread #1614)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri5rkl/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
   },
   {
     "topic": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,739,735 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 1,853,162 views \u2022 ~332m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g5oUluD9ScA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 923,917 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 1,008,619 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 582,298 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 617,360 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-sKjdYceH04"
-  },
-  {
-    "topic": "Resident Evil 9 Requiem - Part 5 (END)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 131,801 views \u2022 ~258m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
   },
   {
     "topic": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,425 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 208,125 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orSc3zHP6-g"
+  },
+  {
+    "topic": "Resident Evil 9 Requiem - Part 5 (END)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 149,297 views \u2022 ~293m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
   },
   {
     "topic": "GIRLSET \"Tweak\" MV Trailer 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,871 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 39,848 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZejT6ho0GZ0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,864 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 34,163 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=toih89S9r1o"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,910 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 20,903 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 11,084 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 13,260 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2QQ4--Jwpv4"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-IusL7Psh7Q"
   }
 ]
