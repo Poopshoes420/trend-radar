@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rik7h8/dont_just_dont/"
   },
   {
-    "topic": "Manual Manuel",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ribi9w/manual_manuel/"
-  },
-  {
     "topic": "That's how it's done",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1riid2r/thats_how_its_done/"
+  },
+  {
+    "topic": "Manual Manuel",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ribi9w/manual_manuel/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri9dwd/they_really_need_to_add_a_safeguard_to_prevent/"
   },
   {
-    "topic": "I turned on 'american sign language' subtitles on a video, cause I was curious, but can someone tell me why all it says is just \"hands\"?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ria2jn/i_turned_on_american_sign_language_subtitles_on_a/"
-  },
-  {
     "topic": "bro took it literaly in the most literest way possible \ud83d\udd25",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riioax/bro_took_it_literaly_in_the_most_literest_way/"
+  },
+  {
+    "topic": "I turned on 'american sign language' subtitles on a video, cause I was curious, but can someone tell me why all it says is just \"hands\"?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ria2jn/i_turned_on_american_sign_language_subtitles_on_a/"
   },
   {
     "topic": "Sponsors are a waste",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ria0mz/uk_will_allow_us_to_use_bases_to_strike_iranian/"
   },
   {
-    "topic": "Israel launches barrage of strikes on Lebanon's capital Beirut after Hezbollah's offensive",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rif9jy/israel_launches_barrage_of_strikes_on_lebanons/"
-  },
-  {
     "topic": "At least 22 people killed in Pakistan as protesters try to storm US Consulate",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1riju7c/at_least_22_people_killed_in_pakistan_as/"
+  },
+  {
+    "topic": "Israel launches barrage of strikes on Lebanon's capital Beirut after Hezbollah's offensive",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rif9jy/israel_launches_barrage_of_strikes_on_lebanons/"
   },
   {
     "topic": "Michael J. Fox gets a big applause at the \u2018I\u2019m an actor\u2019 introduction segment at the 2026 Actor Awards",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 524,783 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 561,944 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4iaic1H4m_g"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,267 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 221,288 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NU6J88t4luM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 330,982 views \u2022 ~548m old",
+    "why": "Trending on YouTube \u2022 364,004 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 297,425 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 326,565 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y1-lqCWzqHc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 306,604 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 330,466 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GPgev7QpHYE"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,800 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 146,345 views \u2022 ~650m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QKHGmFvzjJ4"
   },
   {
@@ -232,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,652 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 64,882 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrIo8RDQMoo"
+  },
+  {
+    "topic": "SO CATCHY!! Sparxie Character Trailer \u2014 \"Ravings\" REACTION | Honkai: Star Rail",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 18,397 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hpWli3YTnG0"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qClk5IJbFFI"
   }
 ]
