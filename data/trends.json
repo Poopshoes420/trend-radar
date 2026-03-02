@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "new dog",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
-  },
-  {
     "topic": "Manual Manuel",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ribi9w/manual_manuel/"
   },
   {
-    "topic": "Bro is so impatient",
+    "topic": "new dog",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rhr5lc/bro_is_so_impatient/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
+  },
+  {
+    "topic": "The lengths they'll go to prevent the homeless from having a place to sleep...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri8crd/the_lengths_theyll_go_to_prevent_the_homeless/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhqkno/simple_questions_sunday/"
   },
   {
-    "topic": "[Jason Schreier] Video Games Need to Be Cheaper to Buy | One way to get out of the video-game industry funk is to recognize that players aren\u2019t spending $70 on most games",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyhkw/jason_schreier_video_games_need_to_be_cheaper_to/"
-  },
-  {
     "topic": "[OC] The Master Sword in stained glass",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ri8tct/oc_the_master_sword_in_stained_glass/"
+  },
+  {
+    "topic": "[Jason Schreier] Video Games Need to Be Cheaper to Buy | One way to get out of the video-game industry funk is to recognize that players aren\u2019t spending $70 on most games",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhyhkw/jason_schreier_video_games_need_to_be_cheaper_to/"
   },
   {
     "topic": "I just fired up my old PS4, and saw this notification still waiting 12 years later.",
@@ -180,35 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhu6t7/love_the_new_starters_but_each_of_their_concepts/"
   },
   {
+    "topic": "Sunday 3/1",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 261,208 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u2vjtBB-DCk"
+  },
+  {
     "topic": "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,490 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 226,843 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4iaic1H4m_g"
-  },
-  {
-    "topic": "Poppy Playtime Chapter 5: Broken Things in Among Us",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 233,885 views \u2022 ~320m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N-i4slqxN7s"
-  },
-  {
-    "topic": "#R\u0100K\u0100S\u0100 Teaser | Sangeeth Shobhan & Nayan Sarika | Manasa Sharma | Niharika Konidela | Zee Studios",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 465,703 views \u2022 ~672m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xzISGAPmkAg"
   },
   {
     "topic": "Resident Evil 9 Requiem - Part 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 213,111 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 267,129 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B2jlIWMjV1g"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,812 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 231,981 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vPJ2LQ0exUM"
   },
   {
@@ -224,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,824 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 183,935 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0hxII8fOe4E"
+  },
+  {
+    "topic": "MUTINY AFTER MIDNIGHT",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,506 views \u2022 ~199m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QKHGmFvzjJ4"
   },
   {
     "topic": "Here\u2019s When Every Big Trailer Will Come in 2026 | Sneak Peek",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,615 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 32,248 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iABU_qqBGDo"
-  },
-  {
-    "topic": "KLUH (2027) | Dwayne Johnson, Harrison Ford, Mark Ruffalo | Concept Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 23,586 views \u2022 ~680m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZcUXU30K68c"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BnGvpkAApY0"
   }
 ]
