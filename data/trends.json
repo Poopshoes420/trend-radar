@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1riid2r/thats_how_its_done/"
   },
   {
-    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
-  },
-  {
     "topic": "video: *buffers for 0.000001 milliseconds* youtube: HAHAHA YOUR COMPUTER IS SOOO SLOW",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1risxyz/video_buffers_for_0000001_milliseconds_youtube/"
+  },
+  {
+    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
   },
   {
     "topic": "bro took it literaly in the most literest way possible \ud83d\udd25",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rinjhk/russia_bombed_hungarys_pipeline_hungary_deployed/"
   },
   {
-    "topic": "Pentagon tells Congress no sign that Iran was going to attack US first, sources say",
+    "topic": "Trump tells CNN the \u2018big wave\u2019 is yet to come in war with Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rijnl7/pentagon_tells_congress_no_sign_that_iran_was/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rivrly/trump_tells_cnn_the_big_wave_is_yet_to_come_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,44 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rio57m/this_magazine_called_the_xbox_360_retro_and_i/"
   },
   {
-    "topic": "'Starfield' is coming to PS5 on April 7th, 2026 with a retail release (\u20ac49.99 Standard Price), preorders around March 17th/18th",
+    "topic": "Pokemon Pokopia is currently the highest rated Pokemon game of all time and highest rated game of 2026 (90).",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1risxzg/starfield_is_coming_to_ps5_on_april_7th_2026_with/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1risxh9/pokemon_pokopia_is_currently_the_highest_rated/"
   },
   {
     "topic": "Scary Movie | Official Trailer (2026 Movie) - Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,863 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 290,494 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
   },
   {
-    "topic": "Sparxie Character Trailer \u2014 \"Ravings\" | Honkai: Star Rail",
+    "topic": "ONE PIECE: Season 2 | Final Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 435,092 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NU6J88t4luM"
-  },
-  {
-    "topic": "AMBER ALERT",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 423,973 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FIon_Bb1pIc"
+    "why": "Trending on YouTube \u2022 184,220 views \u2022 ~171m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-sKjdYceH04"
   },
   {
     "topic": "SO CATCHY!! Sparxie Character Trailer \u2014 \"Ravings\" REACTION | Honkai: Star Rail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,139 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 47,089 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hpWli3YTnG0"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qClk5IJbFFI"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-IusL7Psh7Q"
   }
 ]
