@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rit3tq/can_your_rolls_do_this/"
   },
   {
+    "topic": "My neighbor",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
+  },
+  {
     "topic": "The doormat at our house. The kids are in their twenties",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj08c8/the_doormat_at_our_house_the_kids_are_in_their/"
-  },
-  {
-    "topic": "don't, just don't",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rik7h8/dont_just_dont/"
   },
   {
     "topic": "video: *buffers for 0.000001 milliseconds* youtube: HAHAHA YOUR COMPUTER IS SOOO SLOW",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
   },
   {
+    "topic": "It's almost like they want us to watch ads full-time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
+  },
+  {
     "topic": "Why are the ads all so scammy?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riioax/bro_took_it_literaly_in_the_most_literest_way/"
-  },
-  {
-    "topic": "Thank you YouTube for the adblocker change that requires a refresh to play content.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rizw8n/thank_you_youtube_for_the_adblocker_change_that/"
   },
   {
     "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1risxh9/pokemon_pokopia_is_currently_the_highest_rated/"
   },
   {
+    "topic": "Rai Rai Raa Raa Song (Telugu) | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,739,735 views \u2022 ~297m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g5oUluD9ScA"
+  },
+  {
     "topic": "Scary Movie | Official Trailer (2026 Movie) - Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 826,796 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 923,917 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
   },
   {
@@ -192,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 539,015 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 582,298 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-sKjdYceH04"
+  },
+  {
+    "topic": "Resident Evil 9 Requiem - Part 5 (END)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 131,801 views \u2022 ~258m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
   },
   {
     "topic": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,994 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 64,425 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orSc3zHP6-g"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,560 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 35,871 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZejT6ho0GZ0"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,314 views \u2022 ~204m old",
+    "why": "Trending on YouTube \u2022 26,864 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=toih89S9r1o"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,333 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 12,910 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,564 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 11,084 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2QQ4--Jwpv4"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~499m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-IusL7Psh7Q"
   }
 ]
