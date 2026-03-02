@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ribi9w/manual_manuel/"
   },
   {
-    "topic": "Youtube: what was that ?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhwoy3/youtube_what_was_that/"
-  },
-  {
     "topic": "bro took it literaly in the most literest way possible \ud83d\udd25",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riioax/bro_took_it_literaly_in_the_most_literest_way/"
+  },
+  {
+    "topic": "Youtube: what was that ?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rhwoy3/youtube_what_was_that/"
   },
   {
     "topic": "they really need to add a safeguard to prevent kids from doing this",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri5rkl/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "3 US jets mistakenly shot down by Kuwait, video shows F-15 falling like a rock",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1riqbn0/3_us_jets_mistakenly_shot_down_by_kuwait_video/"
+  },
+  {
     "topic": "UK will allow US to use bases to strike Iranian missile sites, says Starmer",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ria0mz/uk_will_allow_us_to_use_bases_to_strike_iranian/"
-  },
-  {
-    "topic": "Israel launches barrage of strikes on Lebanon's capital Beirut after Hezbollah's offensive",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rif9jy/israel_launches_barrage_of_strikes_on_lebanons/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,245 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 316,823 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NU6J88t4luM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,748 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 145,638 views \u2022 ~536m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrIo8RDQMoo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,364 views \u2022 ~394m old",
+    "why": "Trending on YouTube \u2022 30,972 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hpWli3YTnG0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qClk5IJbFFI"
   }
 ]
