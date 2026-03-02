@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] landscape",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri5oiu/oc_landscape/"
-  },
-  {
     "topic": "Manual Manuel",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ribi9w/manual_manuel/"
   },
   {
-    "topic": "new dog",
+    "topic": "[OC] landscape",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri06gl/new_dog/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ri5oiu/oc_landscape/"
+  },
+  {
+    "topic": "That's how it's done",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1riid2r/thats_how_its_done/"
   },
   {
     "topic": "Youtube: what was that ?",
@@ -90,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ri65o1/what_common_youtube_sponsorships_do_you_think_are/"
   },
   {
-    "topic": "UK will allow US to use bases to strike Iranian missile sites, says Starmer",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1467, Part 1 (Thread #1614)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ria0mz/uk_will_allow_us_to_use_bases_to_strike_iranian/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1466, Part 1 (Thread #1613)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rhnbca/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1riio30/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #3)",
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri5rkl/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "UK will allow US to use bases to strike Iranian missile sites, says Starmer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ria0mz/uk_will_allow_us_to_use_bases_to_strike_iranian/"
+  },
+  {
     "topic": "Saudi prince quietly lobbied Trump for military action on Iran",
     "sources": [
       "reddit"
@@ -126,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri23p9/saudi_prince_quietly_lobbied_trump_for_military/"
   },
   {
-    "topic": "France Orders Aircraft Carrier Charles de Gaulle to Eastern Mediterranean Amid Escalating Regional Conflict",
+    "topic": "Israel launches barrage of strikes on Lebanon's capital Beirut after Hezbollah's offensive",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri7zre/france_orders_aircraft_carrier_charles_de_gaulle/"
-  },
-  {
-    "topic": "Michael J. Fox gets a big applause at the \u2018I\u2019m an actor\u2019 introduction segment at the 2026 Actor Awards",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rif4je/michael_j_fox_gets_a_big_applause_at_the_im_an/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rif9jy/israel_launches_barrage_of_strikes_on_lebanons/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhxzlj/i_just_fired_up_my_old_ps4_and_saw_this/"
   },
   {
+    "topic": "Love the new starters, but each of their concepts have all kinda been done before",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhu6t7/love_the_new_starters_but_each_of_their_concepts/"
+  },
+  {
     "topic": "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 356,293 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 419,684 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4iaic1H4m_g"
   },
   {
@@ -192,63 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,434 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 229,557 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
+  },
+  {
+    "topic": "My Chat Picks My Operator in Rainbow Six Siege",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 196,595 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Y1-lqCWzqHc"
   },
   {
     "topic": "I Tried To Beat Burglin\u2019 Gnomes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 162,349 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 213,151 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GPgev7QpHYE"
-  },
-  {
-    "topic": "Resident Evil 9 Requiem - Part 4",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 339,366 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=B2jlIWMjV1g"
-  },
-  {
-    "topic": "DONT TRUST ANYONE IN THIS TOWN",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 233,584 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0hxII8fOe4E"
   },
   {
     "topic": "MUTINY AFTER MIDNIGHT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,727 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 119,218 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QKHGmFvzjJ4"
   },
   {
-    "topic": "\"No More Tears\" (Live) - Ozzy Tribute at The Brits 2026",
+    "topic": "Fox Report With Jon Scott",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,700 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=O6TzxHeQAhI"
-  },
-  {
-    "topic": "Here\u2019s When Every Big Trailer Will Come in 2026 | Sneak Peek",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 38,854 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iABU_qqBGDo"
-  },
-  {
-    "topic": "Sunday Morning Futures With Maria Bartiromo",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qv7ViRz6AiI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZTkLUVzlF_0"
   }
 ]
