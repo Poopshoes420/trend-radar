@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1risxyz/video_buffers_for_0000001_milliseconds_youtube/"
   },
   {
-    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
-  },
-  {
     "topic": "It's almost like they want us to watch ads full-time",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
   },
   {
-    "topic": "Why are the ads all so scammy?",
+    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riwbpo/why_are_the_ads_all_so_scammy/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
   },
   {
     "topic": "In just a few months, Youtube has completely destroyed the Subscriptions page.",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj5kkp/in_just_a_few_months_youtube_has_completely/"
+  },
+  {
+    "topic": "Why are the ads all so scammy?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riwbpo/why_are_the_ads_all_so_scammy/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1467, Part 1 (Thread #1614)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
   },
   {
-    "topic": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rirvay/us_aircraft_leave_spain_after_government_says/"
-  },
-  {
     "topic": "B.C. to adopt permanent daylight saving time, after springing forward 1 last time | Globalnews.ca",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj474w/bc_to_adopt_permanent_daylight_saving_time_after/"
+  },
+  {
+    "topic": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rirvay/us_aircraft_leave_spain_after_government_says/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,31 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,955,603 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 2,035,334 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g5oUluD9ScA"
-  },
-  {
-    "topic": "Scary Movie | Official Trailer (2026 Movie) - Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,091,732 views \u2022 ~509m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
   },
   {
     "topic": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 496,702 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 841,290 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orSc3zHP6-g"
+  },
+  {
+    "topic": "Scary Movie | Official Trailer (2026 Movie) - Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,153,758 views \u2022 ~535m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
   },
   {
     "topic": "ONE PIECE: Season 2 | Final Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 660,363 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 693,640 views \u2022 ~536m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-sKjdYceH04"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,832 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 187,448 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,030 views \u2022 ~310m old",
+    "why": "Trending on YouTube \u2022 46,745 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=toih89S9r1o"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,928 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 33,758 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,842 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 20,264 views \u2022 ~202m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_VEQ-du_Czs"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,955 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 16,351 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2QQ4--Jwpv4"
   }
 ]
