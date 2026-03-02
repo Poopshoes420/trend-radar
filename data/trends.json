@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ria0mz/uk_will_allow_us_to_use_bases_to_strike_iranian/"
   },
   {
-    "topic": "Saudi prince quietly lobbied Trump for military action on Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri23p9/saudi_prince_quietly_lobbied_trump_for_military/"
-  },
-  {
     "topic": "Israel launches barrage of strikes on Lebanon's capital Beirut after Hezbollah's offensive",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rif9jy/israel_launches_barrage_of_strikes_on_lebanons/"
+  },
+  {
+    "topic": "Saudi prince quietly lobbied Trump for military action on Iran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ri23p9/saudi_prince_quietly_lobbied_trump_for_military/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ri8tct/oc_the_master_sword_in_stained_glass/"
   },
   {
+    "topic": "Why is \"Ash\" such a popular name in hero-based games?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rik4x8/why_is_ash_such_a_popular_name_in_herobased_games/"
+  },
+  {
     "topic": "[Jason Schreier] Video Games Need to Be Cheaper to Buy | One way to get out of the video-game industry funk is to recognize that players aren\u2019t spending $70 on most games",
     "sources": [
       "reddit"
@@ -171,44 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhxzlj/i_just_fired_up_my_old_ps4_and_saw_this/"
   },
   {
-    "topic": "Love the new starters, but each of their concepts have all kinda been done before",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rhu6t7/love_the_new_starters_but_each_of_their_concepts/"
-  },
-  {
     "topic": "ROBLOX WOULD YOU RATHER, But It ACTUALLY HAPPENS..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 419,684 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 450,468 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4iaic1H4m_g"
+  },
+  {
+    "topic": "Sparxie Character Trailer \u2014 \"Ravings\" | Honkai: Star Rail",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 100,992 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NU6J88t4luM"
   },
   {
     "topic": "MAYBE SOME RAGE... | Baby Steps - Part 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,557 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 259,890 views \u2022 ~437m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l7j_KnHlmfc"
-  },
-  {
-    "topic": "My Chat Picks My Operator in Rainbow Six Siege",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 196,595 views \u2022 ~346m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Y1-lqCWzqHc"
   },
   {
     "topic": "I Tried To Beat Burglin\u2019 Gnomes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 213,151 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 245,645 views \u2022 ~428m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GPgev7QpHYE"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,218 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 129,277 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QKHGmFvzjJ4"
+  },
+  {
+    "topic": "Scary Movie 6 trailer ",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,654 views \u2022 ~184m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KrIo8RDQMoo"
   },
   {
     "topic": "Fox Report With Jon Scott",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZTkLUVzlF_0"
   }
 ]
