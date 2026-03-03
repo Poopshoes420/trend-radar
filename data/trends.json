@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjn1yw/this_is_getting_out_of_hand/"
   },
   {
-    "topic": "How do I fix this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjoaqg/how_do_i_fix_this/"
-  },
-  {
     "topic": "The algorithm is so bad",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk1sow/the_algorithm_is_so_bad/"
+  },
+  {
+    "topic": "How do I fix this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjoaqg/how_do_i_fix_this/"
   },
   {
     "topic": "Trump: Not happy with Spain's position on Iran, we'll cancel all trade ties with it",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjtk2y/uk_tells_trump_explain_how_your_iran_war_is_legal/"
   },
   {
-    "topic": "Israel decided to kill Iran\u2019s leader after Oct. 7 attack",
+    "topic": "United States seeking an armed Kurdish uprising inside Iran, with ground operation expected within days",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjqiiq/israel_decided_to_kill_irans_leader_after_oct_7/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rk2msg/united_states_seeking_an_armed_kurdish_uprising/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk07gz/highguard_is_permanently_shutting_down_this_month/"
   },
   {
-    "topic": "Netflix boss Ted Sarandos says Paramount's acquisition of Warner Bros, including it's storied gaming division, will result in \"cuts in excess of $16 billion\" within \"18 months or so\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjvb4b/netflix_boss_ted_sarandos_says_paramounts/"
-  },
-  {
     "topic": "Whelp, Highguard didn\u2019t last long.",
     "sources": [
       "reddit"
@@ -180,11 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk3jxp/whelp_highguard_didnt_last_long/"
   },
   {
+    "topic": "Netflix boss Ted Sarandos says Paramount's acquisition of Warner Bros, including it's storied gaming division, will result in \"cuts in excess of $16 billion\" within \"18 months or so\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjvb4b/netflix_boss_ted_sarandos_says_paramounts/"
+  },
+  {
+    "topic": "they can't kill me...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 594,327 views \u2022 ~454m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NKsaIfSd4R8"
+  },
+  {
     "topic": "Indie World Showcase 3.3.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 535,648 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 545,421 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DCtXFrB9OE"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,425 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 254,401 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d542OZEy6Lk"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 116,221 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 130,885 views \u2022 ~333m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eUKyT515H7s"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,729 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 74,723 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNdMrUCOLqQ"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,659 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 52,613 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fgKq1rmizuc"
   },
   {
@@ -224,15 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,242 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 29,755 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HrgMiZDnEG0"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RW-BxJRSvns"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OldKduoLl2o"
   }
 ]
