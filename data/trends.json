@@ -1,12 +1,12 @@
 [
   {
-    "topic": "My neighbor",
+    "topic": "There's no coming back...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj8dl5/theres_no_coming_back/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "My neighbor",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
+  },
+  {
     "topic": "That look at the end is pure evil. (Sound on)",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1riz6bz/that_look_at_the_end_is_pure_evil_sound_on/"
   },
   {
-    "topic": "There's no coming back...",
+    "topic": "My dog will stand at the door and stare at me the entire time he is outside",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj8dl5/theres_no_coming_back/"
-  },
-  {
-    "topic": "Can your rolls do this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rit3tq/can_your_rolls_do_this/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjauy4/my_dog_will_stand_at_the_door_and_stare_at_me_the/"
   },
   {
     "topic": "It's almost like they want us to watch ads full-time",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
+  },
+  {
+    "topic": "No, youtube. I am not giving you my government ID. You are a streaming service, not an employer.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjacf9/no_youtube_i_am_not_giving_you_my_government_id/"
   },
   {
     "topic": "video: *buffers for 0.000001 milliseconds* youtube: HAHAHA YOUR COMPUTER IS SOOO SLOW",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj5kkp/in_just_a_few_months_youtube_has_completely/"
   },
   {
-    "topic": "Why are the ads all so scammy?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1riwbpo/why_are_the_ads_all_so_scammy/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1467, Part 1 (Thread #1614)",
     "sources": [
       "reddit"
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj6zv7/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
-  },
-  {
     "topic": "B.C. to adopt permanent daylight saving time, after springing forward 1 last time | Globalnews.ca",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj474w/bc_to_adopt_permanent_daylight_saving_time_after/"
   },
   {
-    "topic": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
+    "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rirvay/us_aircraft_leave_spain_after_government_says/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
+  },
+  {
+    "topic": "Fire at US embassy complex in Riyadh after blast heard, sources say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjajxa/fire_at_us_embassy_complex_in_riyadh_after_blast/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,37 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1riyf6v/didnt_have_a_camera_in_88_so_wrote_the_ending_of/"
   },
   {
-    "topic": "Resident Evil Requiem currently has the highest user score of all time on Metacritic",
+    "topic": "\u2018God of War\u2019 Creator Says TV First Look Is \u2018So Dumb\u2019 and \u2018Terrible\u2019: Looks Like He\u2019s \u2018S\u2014ing in the Woods\u2019",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rit3tf/resident_evil_requiem_currently_has_the_highest/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjc5xj/god_of_war_creator_says_tv_first_look_is_so_dumb/"
   },
   {
-    "topic": "Pokemon Pokopia is currently the highest rated Pokemon game of all time and highest rated game of 2026 (90).",
+    "topic": "Resident Evil Requiem Final Puzzle Solved, Hours After Pok\u00e9mon YouTuber Completed It by Accident",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1risxh9/pokemon_pokopia_is_currently_the_highest_rated/"
-  },
-  {
-    "topic": "TL vs. M8 \u2014 VALORANT Masters Santiago \u2014 Swiss Stage",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 805,655 views \u2022 ~18m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tPfTv0Bp-Hg"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rja5d1/resident_evil_requiem_final_puzzle_solved_hours/"
   },
   {
     "topic": "Rai Rai Raa Raa Song (Telugu) | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,197,062 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 3,037,507 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g5oUluD9ScA"
   },
   {
@@ -200,63 +192,79 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,353,541 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 2,397,340 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orSc3zHP6-g"
   },
   {
-    "topic": "Scary Movie | Official Trailer (2026 Movie) - Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall",
+    "topic": "Another Super Battle Golf Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,280,552 views \u2022 ~596m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0fZ58S-7QP0"
-  },
-  {
-    "topic": "ONE PIECE: Season 2 | Final Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 758,858 views \u2022 ~597m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-sKjdYceH04"
+    "why": "Trending on YouTube \u2022 291,989 views \u2022 ~264m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_YfEkv5B0ys"
   },
   {
     "topic": "Resident Evil 9 Requiem - Part 5 (END)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 225,075 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 329,341 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
+  },
+  {
+    "topic": "Resident Evil: Requiem - Part 2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 128,111 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=np3dXHyom6o"
+  },
+  {
+    "topic": "I Worked The Front Desk At A Motel\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 89,751 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nWG-qO61yS4"
   },
   {
     "topic": "Every Reference In The Scary Movie 6 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,353 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 57,978 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OykDeP5P02g"
-  },
-  {
-    "topic": "GIRLSET \"Tweak\" MV Trailer 4",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 54,664 views \u2022 ~409m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZejT6ho0GZ0"
-  },
-  {
-    "topic": "Scary Movie 2026 | Official Trailer | Reaction!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 42,095 views \u2022 ~328m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
   },
   {
     "topic": "Scary Movie 6 | Official Trailer (2026 Movie) | Group Reaction",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,974 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 49,866 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_VEQ-du_Czs"
+  },
+  {
+    "topic": "Scary Movie 2026 | Official Trailer | Reaction!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,195 views \u2022 ~503m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
+  },
+  {
+    "topic": "slayr - Sloppy Joe (OFFICIAL MUSIC VIDEO)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 24,842 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OseKKumHfW4"
+  },
+  {
+    "topic": "SCARY MOVIE 6 Official Trailer (2026) Marlon Wayans",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,515 views \u2022 ~369m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DlBYE7SqoiM"
   }
 ]
