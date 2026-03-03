@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjauy4/my_dog_will_stand_at_the_door_and_stare_at_me_the/"
   },
   {
-    "topic": "My neighbor",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
-  },
-  {
     "topic": "Glowing skin \u274e - Glowing family \u2705",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjdrxw/glowing_skin_glowing_family/"
+  },
+  {
+    "topic": "My neighbor",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
   },
   {
     "topic": "No, youtube. I am not giving you my government ID. You are a streaming service, not an employer.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1risxyz/video_buffers_for_0000001_milliseconds_youtube/"
   },
   {
-    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
-  },
-  {
     "topic": "Anyone else remember when \u201cdraw my life\u201d trend?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj2csz/anyone_else_remember_when_draw_my_life_trend/"
+  },
+  {
+    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
   },
   {
     "topic": "Israel hacked Iran traffic cameras for years to pinpoint Khaemnei location prior to strike: News report",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 575,793 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 602,540 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_YfEkv5B0ys"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,057 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 308,937 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=np3dXHyom6o"
-  },
-  {
-    "topic": "Knockout But I Can Only Use MAX POWER..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 244,491 views \u2022 ~511m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cBZF2RgQsFw"
   },
   {
     "topic": "I Worked The Front Desk At A Motel\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 242,553 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 261,999 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nWG-qO61yS4"
+  },
+  {
+    "topic": "Knockout But I Can Only Use MAX POWER..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 258,178 views \u2022 ~545m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cBZF2RgQsFw"
   },
   {
     "topic": "Every Reference In The Scary Movie 6 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,761 views \u2022 ~617m old",
+    "why": "Trending on YouTube \u2022 94,318 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OykDeP5P02g"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,895 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 74,449 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DlBYE7SqoiM"
   },
   {
@@ -232,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,930 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 56,426 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OseKKumHfW4"
-  },
-  {
-    "topic": "Scary Movie 6 | Official Trailer (2026 Movie) | Group Reaction",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 69,018 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_VEQ-du_Czs"
   },
   {
     "topic": "\"Scary Movie\" Official Trailer REACTION!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,746 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 50,298 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4qGhKx2Zm6g"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,400 views \u2022 ~447m old",
+    "why": "Trending on YouTube \u2022 39,291 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NydtNzZEODc"
   }
 ]
