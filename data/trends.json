@@ -1,14 +1,5 @@
 [
   {
-    "topic": "There's no coming back...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj8dl5/theres_no_coming_back/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "There's no coming back...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj8dl5/theres_no_coming_back/"
   },
   {
     "topic": "My dog will stand at the door and stare at me the entire time he is outside",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj6zv7/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "B.C. to adopt permanent daylight saving time, after springing forward 1 last time | Globalnews.ca",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj474w/bc_to_adopt_permanent_daylight_saving_time_after/"
-  },
-  {
     "topic": "Donald Trump warns of longer Iran-Israel war as violence spreads",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjdrvz/donald_trump_warns_of_longer_iranisrael_war_as/"
+  },
+  {
+    "topic": "B.C. to adopt permanent daylight saving time, after springing forward 1 last time | Globalnews.ca",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj474w/bc_to_adopt_permanent_daylight_saving_time_after/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 602,540 views \u2022 ~574m old",
+    "why": "Trending on YouTube \u2022 644,508 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_YfEkv5B0ys"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 308,937 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 336,541 views \u2022 ~596m old",
     "exampleUrl": "https://www.youtube.com/watch?v=np3dXHyom6o"
   },
   {
@@ -200,39 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,999 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 288,796 views \u2022 ~596m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nWG-qO61yS4"
   },
   {
-    "topic": "Knockout But I Can Only Use MAX POWER..",
+    "topic": "FIRST TIME PLAYING RESIDENT EVIL IN 15 YEARS AND ITS CINEMA (Resident Evil Requiem: Part 1)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,178 views \u2022 ~545m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cBZF2RgQsFw"
+    "why": "Trending on YouTube \u2022 92,884 views \u2022 ~570m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Hms6uJ7FZK0"
   },
   {
     "topic": "Every Reference In The Scary Movie 6 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,318 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 97,957 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OykDeP5P02g"
-  },
-  {
-    "topic": "SCARY MOVIE 6 Official Trailer (2026) Marlon Wayans",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 74,449 views \u2022 ~680m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DlBYE7SqoiM"
   },
   {
     "topic": "slayr - Sloppy Joe (OFFICIAL MUSIC VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,426 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 59,650 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OseKKumHfW4"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,298 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 52,704 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4qGhKx2Zm6g"
   },
   {
@@ -248,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,291 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 40,280 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NydtNzZEODc"
+  },
+  {
+    "topic": "Jumanji: The Next Level",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~10m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xg4txyuk0Ac"
   }
 ]
