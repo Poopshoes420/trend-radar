@@ -18,24 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "My neighbor",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
-  },
-  {
-    "topic": "That look at the end is pure evil. (Sound on)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1riz6bz/that_look_at_the_end_is_pure_evil_sound_on/"
-  },
-  {
     "topic": "My dog will stand at the door and stare at me the entire time he is outside",
     "sources": [
       "reddit"
@@ -45,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjauy4/my_dog_will_stand_at_the_door_and_stare_at_me_the/"
   },
   {
-    "topic": "It's almost like they want us to watch ads full-time",
+    "topic": "My neighbor",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
+  },
+  {
+    "topic": "This game was rigged from the Start",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjbr46/this_game_was_rigged_from_the_start/"
   },
   {
     "topic": "No, youtube. I am not giving you my government ID. You are a streaming service, not an employer.",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjacf9/no_youtube_i_am_not_giving_you_my_government_id/"
+  },
+  {
+    "topic": "It's almost like they want us to watch ads full-time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
   },
   {
     "topic": "video: *buffers for 0.000001 milliseconds* youtube: HAHAHA YOUR COMPUTER IS SOOO SLOW",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj5kkp/in_just_a_few_months_youtube_has_completely/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1467, Part 1 (Thread #1614)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1468, Part 1 (Thread #1615)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1riio30/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjf818/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #4)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj474w/bc_to_adopt_permanent_daylight_saving_time_after/"
   },
   {
-    "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
-  },
-  {
     "topic": "Fire at US embassy complex in Riyadh after blast heard, sources say",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjajxa/fire_at_us_embassy_complex_in_riyadh_after_blast/"
+  },
+  {
+    "topic": "Qatar shoots down two Iranian Su-24 fighter jets",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rixamf/qatar_shoots_down_two_iranian_su24_fighter_jets/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Didn't have a camera in '88, so wrote the ending of Zelda on a cue card",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1riyf6v/didnt_have_a_camera_in_88_so_wrote_the_ending_of/"
-  },
-  {
     "topic": "\u2018God of War\u2019 Creator Says TV First Look Is \u2018So Dumb\u2019 and \u2018Terrible\u2019: Looks Like He\u2019s \u2018S\u2014ing in the Woods\u2019",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjc5xj/god_of_war_creator_says_tv_first_look_is_so_dumb/"
+  },
+  {
+    "topic": "Didn't have a camera in '88, so wrote the ending of Zelda on a cue card",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1riyf6v/didnt_have_a_camera_in_88_so_wrote_the_ending_of/"
   },
   {
     "topic": "Resident Evil Requiem Final Puzzle Solved, Hours After Pok\u00e9mon YouTuber Completed It by Accident",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rja5d1/resident_evil_requiem_final_puzzle_solved_hours/"
   },
   {
-    "topic": "Rai Rai Raa Raa Song (Telugu) | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,037,507 views \u2022 ~630m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g5oUluD9ScA"
-  },
-  {
     "topic": "Black Ops Royale Launch Trailer | Call of Duty: Warzone",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,397,340 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 3,219,040 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=orSc3zHP6-g"
   },
   {
@@ -200,31 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,989 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 413,004 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_YfEkv5B0ys"
-  },
-  {
-    "topic": "Resident Evil 9 Requiem - Part 5 (END)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 329,341 views \u2022 ~591m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
   },
   {
     "topic": "Resident Evil: Requiem - Part 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 128,111 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 194,696 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=np3dXHyom6o"
+  },
+  {
+    "topic": "Resident Evil 9 Requiem - Part 5 (END)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 387,611 views \u2022 ~703m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pj3WI5kL9aM"
+  },
+  {
+    "topic": "Knockout But I Can Only Use MAX POWER..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 178,938 views \u2022 ~347m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cBZF2RgQsFw"
   },
   {
     "topic": "I Worked The Front Desk At A Motel\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 89,751 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 152,176 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nWG-qO61yS4"
   },
   {
@@ -232,31 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,978 views \u2022 ~341m old",
+    "why": "Trending on YouTube \u2022 74,379 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OykDeP5P02g"
-  },
-  {
-    "topic": "Scary Movie 6 | Official Trailer (2026 Movie) | Group Reaction",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 49,866 views \u2022 ~438m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_VEQ-du_Czs"
-  },
-  {
-    "topic": "Scary Movie 2026 | Official Trailer | Reaction!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 56,195 views \u2022 ~503m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Y_Qay4MHC0M"
   },
   {
     "topic": "slayr - Sloppy Joe (OFFICIAL MUSIC VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,842 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 38,906 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OseKKumHfW4"
   },
   {
@@ -264,7 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,515 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 53,816 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DlBYE7SqoiM"
+  },
+  {
+    "topic": "Scary Movie 6 | Official Trailer (2026 Movie) | Group Reaction",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 59,333 views \u2022 ~550m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_VEQ-du_Czs"
+  },
+  {
+    "topic": "\"Scary Movie\" Official Trailer REACTION!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,783 views \u2022 ~382m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4qGhKx2Zm6g"
+  },
+  {
+    "topic": "A Zewo - Jean Rene Charles and Fre Gabe (OFFICIAL VIDEO) 4K",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 25,963 views \u2022 ~283m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NydtNzZEODc"
   }
 ]
