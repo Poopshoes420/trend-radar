@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Wanna know how I got these scars?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjq07o/wanna_know_how_i_got_these_scars/"
-  },
-  {
     "topic": "Just recieved this parcel from China. Shipping was 100% paid with stamps",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk055g/just_recieved_this_parcel_from_china_shipping_was/"
+  },
+  {
+    "topic": "Wanna know how I got these scars?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjq07o/wanna_know_how_i_got_these_scars/"
   },
   {
     "topic": "Friends in traffic",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjoaqg/how_do_i_fix_this/"
   },
   {
-    "topic": "It's almost like they want us to watch ads full-time",
+    "topic": "The algorithm is so bad",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk1sow/the_algorithm_is_so_bad/"
   },
   {
     "topic": "Trump: Not happy with Spain's position on Iran, we'll cancel all trade ties with it",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjvb4b/netflix_boss_ted_sarandos_says_paramounts/"
   },
   {
-    "topic": "Card games are awesome!",
+    "topic": "Whelp, Highguard didn\u2019t last long.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjlg9h/card_games_are_awesome/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk3jxp/whelp_highguard_didnt_last_long/"
   },
   {
     "topic": "Indie World Showcase 3.3.2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 526,522 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 535,648 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DCtXFrB9OE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,772 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 237,425 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d542OZEy6Lk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,710 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 116,221 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eUKyT515H7s"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,781 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 69,729 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNdMrUCOLqQ"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,523 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 50,659 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fgKq1rmizuc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,924 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 28,242 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HrgMiZDnEG0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RW-BxJRSvns"
   }
 ]
