@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Friends in traffic",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjn11s/friends_in_traffic/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -7,15 +16,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
-    "topic": "There's no coming back...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj8dl5/theres_no_coming_back/"
   },
   {
     "topic": "Family watching dad\u2019s old rap video and the youngest kid enjoying it the most",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjm62j/family_watching_dads_old_rap_video_and_the/"
   },
   {
+    "topic": "There's no coming back...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj8dl5/theres_no_coming_back/"
+  },
+  {
     "topic": "My dog will stand at the door and stare at me the entire time he is outside",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjauy4/my_dog_will_stand_at_the_door_and_stare_at_me_the/"
-  },
-  {
-    "topic": "Glowing skin \u274e - Glowing family \u2705",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjdrxw/glowing_skin_glowing_family/"
   },
   {
     "topic": "No, youtube. I am not giving you my government ID. You are a streaming service, not an employer.",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj44yj/its_almost_like_they_want_us_to_watch_ads_fulltime/"
   },
   {
+    "topic": "this is getting out of hand",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjn1yw/this_is_getting_out_of_hand/"
+  },
+  {
     "topic": "video: *buffers for 0.000001 milliseconds* youtube: HAHAHA YOUR COMPUTER IS SOOO SLOW",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rj2csz/anyone_else_remember_when_draw_my_life_trend/"
-  },
-  {
-    "topic": "Who is this guy? And why does he host 75% of YouTube channels?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rit7hq/who_is_this_guy_and_why_does_he_host_75_of/"
   },
   {
     "topic": "Israel hacked Iran traffic cameras for years to pinpoint Khaemnei location prior to strike: News report",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjdrvz/donald_trump_warns_of_longer_iranisrael_war_as/"
   },
   {
-    "topic": "B.C. to adopt permanent daylight saving time, after springing forward 1 last time | Globalnews.ca",
+    "topic": "Iraq: Women\u2019s rights activist Yanar Mohammed killed by gunmen",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj474w/bc_to_adopt_permanent_daylight_saving_time_after/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rjk9qy/iraq_womens_rights_activist_yanar_mohammed_killed/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjc5xj/god_of_war_creator_says_tv_first_look_is_so_dumb/"
   },
   {
-    "topic": "Didn't have a camera in '88, so wrote the ending of Zelda on a cue card",
+    "topic": "Card games are awesome!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1riyf6v/didnt_have_a_camera_in_88_so_wrote_the_ending_of/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rjlg9h/card_games_are_awesome/"
   },
   {
     "topic": "Resident Evil Requiem Final Puzzle Solved, Hours After Pok\u00e9mon YouTuber Completed It by Accident",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 871,920 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 879,401 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1W-XKaK2bNs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,320 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 19,624 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rna-RSuxEbs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg4txyuk0Ac"
   }
 ]
