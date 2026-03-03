@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjdrxw/glowing_skin_glowing_family/"
   },
   {
-    "topic": "My neighbor",
+    "topic": "This game was rigged from the Start",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rj3w5t/my_neighbor/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rjbr46/this_game_was_rigged_from_the_start/"
   },
   {
     "topic": "No, youtube. I am not giving you my government ID. You are a streaming service, not an employer.",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rja5d1/resident_evil_requiem_final_puzzle_solved_hours/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | ARC NUTTERS | NEW WIPE | LEVEL 75 TONIGHT 100% GARUNTEED | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 760,237 views \u2022 ~51m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1W-XKaK2bNs"
+  },
+  {
     "topic": "Another Super Battle Golf Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 644,508 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 676,207 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_YfEkv5B0ys"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 336,541 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 355,911 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=np3dXHyom6o"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,796 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 314,479 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nWG-qO61yS4"
   },
   {
@@ -208,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,884 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 109,716 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hms6uJ7FZK0"
-  },
-  {
-    "topic": "Every Reference In The Scary Movie 6 Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 97,957 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OykDeP5P02g"
   },
   {
     "topic": "slayr - Sloppy Joe (OFFICIAL MUSIC VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,650 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 63,075 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OseKKumHfW4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,704 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 54,659 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4qGhKx2Zm6g"
   },
   {
@@ -240,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,280 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 40,983 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NydtNzZEODc"
+  },
+  {
+    "topic": "Finesse2Tymes - 2Fithy [Official Music Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 10,786 views \u2022 ~220m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rna-RSuxEbs"
   },
   {
     "topic": "Jumanji: The Next Level",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~10m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg4txyuk0Ac"
   }
 ]
