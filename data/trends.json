@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Now I can't unsee it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rkn8ju/now_i_cant_unsee_it/"
-  },
-  {
     "topic": "I vacuum sealed my emergency cigarette",
     "sources": [
       "reddit"
@@ -43,6 +34,24 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rklnea/oc_whoops/"
+  },
+  {
+    "topic": "My college bathroom seats look like LeBron\u2019s head",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk6twi/my_college_bathroom_seats_look_like_lebrons_head/"
+  },
+  {
+    "topic": "Why is it so awful lately?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkogg1/why_is_it_so_awful_lately/"
   },
   {
     "topic": "W Algorithm",
@@ -63,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
   },
   {
-    "topic": "Why is it so awful lately?",
+    "topic": "YouTube in 2026 requires 5 out 6 browser extensions just to remain functional.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkogg1/why_is_it_so_awful_lately/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkkec9/youtube_in_2026_requires_5_out_6_browser/"
   },
   {
     "topic": "Thanks YouTube for implementing yet another update no one asked for that has ruined my daily routine",
@@ -79,24 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkdwns/thanks_youtube_for_implementing_yet_another/"
-  },
-  {
-    "topic": "Horrible Shorts",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkablx/horrible_shorts/"
-  },
-  {
-    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
   },
   {
     "topic": "Hi Reddit, I\u2019m Andrew Mills, a Reuters reporter on the ground in Qatar covering the Iran war. Ask Me Anything!",
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkmiqs/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
+  },
+  {
     "topic": "NATO intercepts Iranian missile heading toward Turkey in first such incident",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkjw6v/nato_intercepts_iranian_missile_heading_toward/"
   },
   {
-    "topic": "US strikes on Iran \u2018outside international law,\u2019 says Macron",
+    "topic": "IDF 'flattens' building where Iran's Assembly of Experts was picking Khamenei's successor",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkg7s4/us_strikes_on_iran_outside_international_law_says/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rknu6d/idf_flattens_building_where_irans_assembly_of/"
   },
   {
     "topic": "Alysa Liu for Teen Vogue; Photography by Erika Long",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,860 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 29,861 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eW9xH3feKEo"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xUPPJOHGxQg"
+  },
+  {
+    "topic": "Primary Night",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nDc3V1pVfnw"
   },
   {
     "topic": "The Bay Golf Club vs. Jupiter Links GC",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N9SebpDOb6E"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IEsa1Rwu6N4"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~434m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWU2pSzkAz4"
-  },
-  {
-    "topic": "Primary Night",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~452m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZfzBUAmYSJQ"
   },
   {
     "topic": "BYU at Cincinnati",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LQ1aw1X3QQQ"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~256m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-KiTaJkYvjo"
   }
 ]
