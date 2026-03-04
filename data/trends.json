@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkablx/horrible_shorts/"
   },
   {
-    "topic": "Is anyone else sick of the flood of AI narrated 'your life as' videos? It's lazy bot content getting millions of views",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjwgod/is_anyone_else_sick_of_the_flood_of_ai_narrated/"
-  },
-  {
     "topic": "Thanks YouTube for implementing yet another update no one asked for that has ruined my daily routine",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkdwns/thanks_youtube_for_implementing_yet_another/"
+  },
+  {
+    "topic": "Is anyone else sick of the flood of AI narrated 'your life as' videos? It's lazy bot content getting millions of views",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjwgod/is_anyone_else_sick_of_the_flood_of_ai_narrated/"
   },
   {
     "topic": "United States seeking an armed uprising inside Iran, with ground operation expected within days",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj6zv7/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
+  },
+  {
     "topic": "US strikes on Iran \u2018outside international law,\u2019 says Macron",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkg7s4/us_strikes_on_iran_outside_international_law_says/"
-  },
-  {
-    "topic": "White House denies Rubio said that Israel dragged Trump into war with Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rk291b/white_house_denies_rubio_said_that_israel_dragged/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk07gz/highguard_is_permanently_shutting_down_this_month/"
   },
   {
-    "topic": "Highguard is dead. At what point do live-service devs stop blaming gamers and start looking at the game itself?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkgv8e/highguard_is_dead_at_what_point_do_liveservice/"
-  },
-  {
     "topic": "Got lucky pokemon FR",
     "sources": [
       "reddit"
@@ -180,27 +171,52 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkbjoe/got_lucky_pokemon_fr/"
   },
   {
+    "topic": "A New Resident Evil 1 Remake has Reportedly Entered Production",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk4jja/a_new_resident_evil_1_remake_has_reportedly/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | RV THERE YET | Nadeshot X Cloakzy X Gingy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 857,501 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 861,385 views \u2022 ~146m old",
     "exampleUrl": "https://www.youtube.com/watch?v=niUN2xNw9f8"
   },
   {
-    "topic": "I Was The Chef In This Horror Game\u2026",
+    "topic": "Chris Webby - Raw Thoughts VII (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 345,800 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qBiYckiyzlo"
+    "why": "Trending on YouTube \u2022 11,040 views \u2022 ~322m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eW9xH3feKEo"
+  },
+  {
+    "topic": "Jesse Watters Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xUPPJOHGxQg"
+  },
+  {
+    "topic": "The Bay Golf Club vs. Jupiter Links GC",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~65m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N9SebpDOb6E"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWU2pSzkAz4"
   },
   {
@@ -208,31 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZfzBUAmYSJQ"
-  },
-  {
-    "topic": "The Story With Martha MacCallum",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LZYENsSZmTE"
   },
   {
     "topic": "Mississippi State at Florida",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dBciTvciAHk"
-  },
-  {
-    "topic": "TCU at Texas Tech",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6r8la5ZRams"
   }
 ]
