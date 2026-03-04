@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjwgod/is_anyone_else_sick_of_the_flood_of_ai_narrated/"
   },
   {
-    "topic": "United States seeking an armed uprising inside Iran, with ground operation expected within days",
+    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkbxc9/united_states_seeking_an_armed_uprising_inside/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1469, Part 1 (Thread #1616)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rj6zv7/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
+    "topic": "United States seeking an armed uprising inside Iran, with ground operation expected within days",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkbxc9/united_states_seeking_an_armed_uprising_inside/"
   },
   {
     "topic": "US strikes on Iran \u2018outside international law,\u2019 says Macron",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk07gz/highguard_is_permanently_shutting_down_this_month/"
   },
   {
+    "topic": "In Resident Evil 9 : Requiem, Grace is canonically a Redditor, as seen in the cutscene with Alyssa",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkieel/in_resident_evil_9_requiem_grace_is_canonically_a/"
+  },
+  {
     "topic": "Got lucky pokemon FR",
     "sources": [
       "reddit"
@@ -171,28 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkbjoe/got_lucky_pokemon_fr/"
   },
   {
-    "topic": "A New Resident Evil 1 Remake has Reportedly Entered Production",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk4jja/a_new_resident_evil_1_remake_has_reportedly/"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | RV THERE YET | Nadeshot X Cloakzy X Gingy",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 861,385 views \u2022 ~146m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=niUN2xNw9f8"
-  },
-  {
     "topic": "Chris Webby - Raw Thoughts VII (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 11,040 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 11,936 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eW9xH3feKEo"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xUPPJOHGxQg"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~65m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N9SebpDOb6E"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWU2pSzkAz4"
   },
   {
@@ -224,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZfzBUAmYSJQ"
+  },
+  {
+    "topic": "BYU at Cincinnati",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LQ1aw1X3QQQ"
   },
   {
     "topic": "Mississippi State at Florida",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dBciTvciAHk"
   }
 ]
