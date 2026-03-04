@@ -1,14 +1,5 @@
 [
   {
-    "topic": "I vacuum sealed my emergency cigarette",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk9exo/i_vacuum_sealed_my_emergency_cigarette/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I vacuum sealed my emergency cigarette",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk9exo/i_vacuum_sealed_my_emergency_cigarette/"
   },
   {
     "topic": "My college bathroom seats look like LeBron\u2019s head",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
   },
   {
+    "topic": "W Algorithm",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkg7oy/w_algorithm/"
+  },
+  {
     "topic": "Horrible Shorts",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkdwns/thanks_youtube_for_implementing_yet_another/"
-  },
-  {
-    "topic": "Is anyone else sick of the flood of AI narrated 'your life as' videos? It's lazy bot content getting millions of views",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjwgod/is_anyone_else_sick_of_the_flood_of_ai_narrated/"
   },
   {
     "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Highguard is permanently shutting down this month",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk07gz/highguard_is_permanently_shutting_down_this_month/"
-  },
-  {
     "topic": "In Resident Evil 9 : Requiem, Grace is canonically a Redditor, as seen in the cutscene with Alyssa",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkieel/in_resident_evil_9_requiem_grace_is_canonically_a/"
   },
   {
-    "topic": "Got lucky pokemon FR",
+    "topic": "Highguard is permanently shutting down this month",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkbjoe/got_lucky_pokemon_fr/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk07gz/highguard_is_permanently_shutting_down_this_month/"
+  },
+  {
+    "topic": "Resident Evil Requiem Officially Surpasses 5 Million Units In 4 Days!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkf1fs/resident_evil_requiem_officially_surpasses_5/"
   },
   {
     "topic": "Chris Webby - Raw Thoughts VII (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 11,936 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 13,933 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eW9xH3feKEo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xUPPJOHGxQg"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N9SebpDOb6E"
+  },
+  {
+    "topic": "Kansas at Arizona State",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IEsa1Rwu6N4"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWU2pSzkAz4"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZfzBUAmYSJQ"
   },
   {
@@ -224,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LQ1aw1X3QQQ"
-  },
-  {
-    "topic": "Mississippi State at Florida",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dBciTvciAHk"
   }
 ]
