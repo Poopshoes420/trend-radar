@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I vacuum sealed my emergency cigarette",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk9exo/i_vacuum_sealed_my_emergency_cigarette/"
-  },
-  {
     "topic": "[OC] whoops",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rklnea/oc_whoops/"
   },
   {
-    "topic": "My college bathroom seats look like LeBron\u2019s head",
+    "topic": "I vacuum sealed my emergency cigarette",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk6twi/my_college_bathroom_seats_look_like_lebrons_head/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk9exo/i_vacuum_sealed_my_emergency_cigarette/"
+  },
+  {
+    "topic": "Stocking up for the night",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rkrq74/stocking_up_for_the_night/"
   },
   {
     "topic": "Why is it so awful lately?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkg7oy/w_algorithm/"
   },
   {
-    "topic": "why the FUCK has the youtube algorithm been so bad lately.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
-  },
-  {
     "topic": "YouTube in 2026 requires 5 out 6 browser extensions just to remain functional.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkkec9/youtube_in_2026_requires_5_out_6_browser/"
+  },
+  {
+    "topic": "why the FUCK has the youtube algorithm been so bad lately.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
   },
   {
     "topic": "Thanks YouTube for implementing yet another update no one asked for that has ruined my daily routine",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,861 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 33,383 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eW9xH3feKEo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~423m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xUPPJOHGxQg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nDc3V1pVfnw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N9SebpDOb6E"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IEsa1Rwu6N4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWU2pSzkAz4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LQ1aw1X3QQQ"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~256m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-KiTaJkYvjo"
   }
 ]
