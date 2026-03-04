@@ -54,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
   },
   {
-    "topic": "Is anyone else sick of the flood of AI narrated 'your life as' videos? It's lazy bot content getting millions of views",
+    "topic": "Why is the youtube algorithm just casually showing me videos with the Hard R when youtubers can't even say \"die\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjwgod/is_anyone_else_sick_of_the_flood_of_ai_narrated/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkdmae/why_is_the_youtube_algorithm_just_casually/"
   },
   {
     "topic": "Horrible Shorts",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkablx/horrible_shorts/"
   },
   {
+    "topic": "Is anyone else sick of the flood of AI narrated 'your life as' videos? It's lazy bot content getting millions of views",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjwgod/is_anyone_else_sick_of_the_flood_of_ai_narrated/"
+  },
+  {
     "topic": "What is American Sign Language on YouTube",
     "sources": [
       "reddit"
@@ -79,24 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjtgln/what_is_american_sign_language_on_youtube/"
-  },
-  {
-    "topic": "No, youtube. I am not giving you my government ID. You are a streaming service, not an employer.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rjacf9/no_youtube_i_am_not_giving_you_my_government_id/"
-  },
-  {
-    "topic": "US Troops Told War on Iran is \u2018All Part of God\u2019s Divine Plan\u2019, Watchdog Reports More Than 200 Complaints",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rk7kpg/us_troops_told_war_on_iran_is_all_part_of_gods/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1469, Part 1 (Thread #1616)",
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkbxc9/united_states_seeking_an_armed_uprising_inside/"
+  },
+  {
+    "topic": "White House denies Rubio said that Israel dragged Trump into war with Iran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rk291b/white_house_denies_rubio_said_that_israel_dragged/"
   },
   {
     "topic": "Trump: Not happy with Spain's position on Iran, we'll cancel all trade ties with it",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk07gz/highguard_is_permanently_shutting_down_this_month/"
   },
   {
-    "topic": "Former PlayStation Dev Says FromSoftware Has Rejected 10+ Studios That Pitched a Bloodborne Remake, Sequel or Spin-Off",
+    "topic": "Got lucky pokemon FR",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk4a5n/former_playstation_dev_says_fromsoftware_has/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkbjoe/got_lucky_pokemon_fr/"
   },
   {
     "topic": "A New Resident Evil 1 Remake has Reportedly Entered Production",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 761,736 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 778,326 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GMIyGwWnDAw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 617,061 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 620,370 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FieygJ9NmKM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 585,864 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 624,902 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z_3vPcCG_2c"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,604 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 290,948 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WZFn_rGb57g"
-  },
-  {
-    "topic": "NEW SEASON IS HERE! (Copper To Champion Episode 1)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 326,889 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uyoZmnEuQQM"
   },
   {
     "topic": "I Was The Chef In This Horror Game\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,236 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 227,765 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qBiYckiyzlo"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,972 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 61,533 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z4JtqnSGAok"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,010 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 33,209 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lGloVyUTv5I"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LZYENsSZmTE"
   }
 ]
