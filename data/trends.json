@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rklnea/oc_whoops/"
   },
   {
-    "topic": "Mouse 1 - 0 Human",
+    "topic": "Papers",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rkprfi/mouse_1_0_human/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rksktl/papers/"
   },
   {
     "topic": "Why is it so awful lately?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
   },
   {
-    "topic": "Thanks YouTube for implementing yet another update no one asked for that has ruined my daily routine",
+    "topic": "Subscriptions page has become far less useful",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkdwns/thanks_youtube_for_implementing_yet_another/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkourn/subscriptions_page_has_become_far_less_useful/"
   },
   {
     "topic": "Hi Reddit, I\u2019m Andrew Mills, a Reuters reporter on the ground in Qatar covering the Iran war. Ask Me Anything!",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkmiqs/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
-  },
-  {
     "topic": "NATO intercepts Iranian missile heading toward Turkey in first such incident",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkjw6v/nato_intercepts_iranian_missile_heading_toward/"
+  },
+  {
+    "topic": "Submarine attack sinks Iranian ship near Sri Lanka; 78 injured, over 100 missing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkhno3/submarine_attack_sinks_iranian_ship_near_sri/"
   },
   {
     "topic": "US strikes on Iran \u2018outside international law,\u2019 says Macron",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,256 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 95,213 views \u2022 ~151m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmXJnIGPNh8"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,414 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 38,253 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rW8npk-1BIc"
+  },
+  {
+    "topic": "Unchosen | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 67,757 views \u2022 ~506m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pUYBDzvnaRE"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xUPPJOHGxQg"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nDc3V1pVfnw"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~549m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N9SebpDOb6E"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~440m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IEsa1Rwu6N4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWU2pSzkAz4"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LQ1aw1X3QQQ"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-KiTaJkYvjo"
   }
 ]
