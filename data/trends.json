@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rk055g/just_recieved_this_parcel_from_china_shipping_was/"
   },
   {
-    "topic": "why the FUCK has the youtube algorithm been so bad lately.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
-  },
-  {
     "topic": "Why is the youtube algorithm just casually showing me videos with the Hard R when youtubers can't even say \"die\"",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkdmae/why_is_the_youtube_algorithm_just_casually/"
+  },
+  {
+    "topic": "why the FUCK has the youtube algorithm been so bad lately.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rk6k5c/why_the_fuck_has_the_youtube_algorithm_been_so/"
   },
   {
     "topic": "Horrible Shorts",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rk4jja/a_new_resident_evil_1_remake_has_reportedly/"
   },
   {
-    "topic": "Getting the New NACHO SPYDER in Steal a Brainrot..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 793,549 views \u2022 ~512m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GMIyGwWnDAw"
-  },
-  {
     "topic": "Tuesday 2/3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 623,113 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 625,365 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FieygJ9NmKM"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 653,007 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 685,515 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z_3vPcCG_2c"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 312,328 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 331,048 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WZFn_rGb57g"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,592 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 266,871 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qBiYckiyzlo"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,864 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 65,419 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z4JtqnSGAok"
   },
   {
@@ -232,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~256m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LZYENsSZmTE"
+  },
+  {
+    "topic": "Tennessee at South Carolina",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WQyt8gs23UE"
   }
 ]
