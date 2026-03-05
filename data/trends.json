@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Chinese",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl5l36/chinese/"
+  },
+  {
     "topic": "Stocking up for the night",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl79ls/mcdonalds_ceo/"
-  },
-  {
-    "topic": "Todd deserves it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rkuhpc/todd_deserves_it/"
   },
   {
     "topic": "Bro creating his own supply and demand",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "'Assassin's Creed: Black Flag Resynced' Officially Confirmed By Ubisoft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkrfcz/assassins_creed_black_flag_resynced_officially/"
-  },
-  {
     "topic": "The puzzles in this game are a mindfuck",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rlbaqy/the_puzzles_in_this_game_are_a_mindfuck/"
   },
   {
-    "topic": "In Resident Evil 9 : Requiem, Grace is canonically a Redditor, as seen in the cutscene with Alyssa",
+    "topic": "'Assassin's Creed: Black Flag Resynced' Officially Confirmed By Ubisoft",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkieel/in_resident_evil_9_requiem_grace_is_canonically_a/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkrfcz/assassins_creed_black_flag_resynced_officially/"
+  },
+  {
+    "topic": "The one weird gaming habit you always do, even in brand new games",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkza8e/the_one_weird_gaming_habit_you_always_do_even_in/"
   },
   {
     "topic": "\ud83d\udd34LIVE | NUT RAIDERS w/ TFUE & NateHill | WACKADOODLE WEDNESDAY | #Shart-A-Thon #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 693,462 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 741,343 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFbREk5kJ0A"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 881,900 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 977,952 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X6EHtzcmiPw"
-  },
-  {
-    "topic": "Feed The Hole or DIE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 580,216 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CYThhDi0xPk"
   },
   {
     "topic": "Solid Snake Vs EVERY Rank in Rainbow Six Siege",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 293,869 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 324,747 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eo97eZb8Rho"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 250,172 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 255,270 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=px5DTq4Ks4A"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,906 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 243,349 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FpZkO2HQs0Q"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,452 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 209,100 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DKyvZY5zf_U"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,894 views \u2022 ~569m old",
+    "why": "Trending on YouTube \u2022 130,671 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFIQDQ2jgLU"
   },
   {
@@ -248,47 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,913 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 95,095 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U4dGVcMwQZ8"
-  },
-  {
-    "topic": "LANTERNS TRAILER 2026: Green Lantern, Hal Jordan, John Stewart & Things You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 96,093 views \u2022 ~684m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kPkbV4TVQ3A"
   },
   {
     "topic": "Lanterns Trailer, Sonic 4 New Villain?, Scream 7 Alternate Ending & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,300 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 70,522 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVpMyhBZ9MQ"
-  },
-  {
-    "topic": "Lanterns Trailer BREAKDOWN - DCU \ufffcEaster Eggs You Missed! ",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 84,658 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lV3iBaO5GdE"
-  },
-  {
-    "topic": "Karen - Official Reveal Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 83,350 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2o2IzrPOruo"
   },
   {
     "topic": "DoowopOfficial - First Day Bacc (ShotBy VonMotion)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,256 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 9,773 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WyKvek6dftw"
   },
   {
@@ -296,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVkA1k4Ipfs"
   }
 ]
