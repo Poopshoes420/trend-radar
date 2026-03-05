@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rlcks4/wtf_is_this/"
   },
   {
-    "topic": "I got dms now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkujgr/i_got_dms_now/"
-  },
-  {
     "topic": "how did they make the title blue??",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rl9waa/how_did_they_make_the_title_blue/"
+  },
+  {
+    "topic": "I got dms now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkujgr/i_got_dms_now/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1470, Part 1 (Thread #1617)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkmiqs/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "\u2018US oil tanker currently on fire\u2019: Iran says it hit American ship in Gulf with missile",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rlitym/us_oil_tanker_currently_on_fire_iran_says_it_hit/"
+  },
+  {
     "topic": "Iraq plunged into nationwide blackout as US tells citizens to leave immediately",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rl8nw1/china_tells_top_refiners_to_halt_diesel_and/"
-  },
-  {
-    "topic": "Iran To Allow Only Chinese Vessels Through Strait Of Hormuz: Sources",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rlcm3x/iran_to_allow_only_chinese_vessels_through_strait/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 764,033 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 769,520 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFbREk5kJ0A"
+  },
+  {
+    "topic": "Holy sh*t.. So THIS is how they killed Khamenei",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 253,606 views \u2022 ~183m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3p--tcyNSHE"
   }
 ]
