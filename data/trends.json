@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Many Many Dig Dig",
+    "topic": "Chinese",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl7y7p/many_many_dig_dig/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl5l36/chinese/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -16,15 +16,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
-    "topic": "Chinese",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl5l36/chinese/"
   },
   {
     "topic": "Stocking up for the night",
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rkuhpc/todd_deserves_it/"
+  },
+  {
+    "topic": "Exercise scooter",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl8uw1/exercise_scooter/"
   },
   {
     "topic": "Unpopular opinion: Premium is worth it",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkogg1/why_is_it_so_awful_lately/"
   },
   {
+    "topic": "Paying for YT Premium and still getting ads is f*cking insane",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rl7r0h/paying_for_yt_premium_and_still_getting_ads_is/"
+  },
+  {
     "topic": "YouTube in 2026 requires 5 out 6 browser extensions just to remain functional.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkkec9/youtube_in_2026_requires_5_out_6_browser/"
-  },
-  {
-    "topic": "What's the point of Incognito when you have to Sign in?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkqekc/whats_the_point_of_incognito_when_you_have_to/"
   },
   {
     "topic": "Iraq plunged into nationwide blackout as US tells citizens to leave immediately",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rkieel/in_resident_evil_9_requiem_grace_is_canonically_a/"
   },
   {
+    "topic": "The March 4, 2026 Severe Weather Coverage, As It Happened...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 427,560 views \u2022 ~69m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dOL6FY_U1hE"
+  },
+  {
     "topic": "Lanterns  | Official Teaser | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,118,722 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 1,188,084 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z1jcPlGXnMo"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 480,150 views \u2022 ~334m old",
+    "why": "Trending on YouTube \u2022 562,242 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X6EHtzcmiPw"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 381,211 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 430,473 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CYThhDi0xPk"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,075 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 169,168 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eo97eZb8Rho"
   },
   {
@@ -216,31 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,009 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 274,363 views \u2022 ~523m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KD8ONOmHUhM"
-  },
-  {
-    "topic": "Shakira & Be\u00e9le - ALGO T\u00da (Official Lyric Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 145,733 views \u2022 ~333m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DKyvZY5zf_U"
   },
   {
     "topic": "chiclona - Peso Pluma, Tito Double P, LENCHO (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,819 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 117,350 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=px5DTq4Ks4A"
+  },
+  {
+    "topic": "Shakira & Be\u00e9le - ALGO T\u00da (Official Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 162,752 views \u2022 ~389m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DKyvZY5zf_U"
   },
   {
     "topic": "Melanie Martinez - HADES (Tracklist)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,331 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 95,453 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFIQDQ2jgLU"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,753 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 62,102 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U4dGVcMwQZ8"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,628 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 47,357 views \u2022 ~283m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVpMyhBZ9MQ"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,434 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 76,929 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kPkbV4TVQ3A"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,250 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 64,772 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lV3iBaO5GdE"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,885 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 59,071 views \u2022 ~486m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2o2IzrPOruo"
   },
   {
@@ -288,23 +296,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,098 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 49,838 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqMOKCRgvD8"
   },
   {
-    "topic": "LANTERNS TRAILER REACTION!! Green Lantern HBO Series Breakdown | DC Studios",
+    "topic": "Lanterns | Official Teaser REACTION!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,684 views \u2022 ~504m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-rrBUiNiFJI"
+    "why": "Trending on YouTube \u2022 41,495 views \u2022 ~531m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KfNjHmJEPOY"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86ca_vxgFAI"
   },
   {
@@ -312,15 +320,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVkA1k4Ipfs"
-  },
-  {
-    "topic": "The Situation Room",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~427m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QaL-H5wF9Hc"
   }
 ]
