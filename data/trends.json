@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rlgmhn/youtube_now_puts_ads_on_the_side_of_your_video_as/"
   },
   {
-    "topic": "WTF IS THIS",
+    "topic": "I find these people annoying...",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rlcks4/wtf_is_this/"
-  },
-  {
-    "topic": "Trump says he needs to be involved selecting Iran's next leader. -Reuters",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rlmftj/trump_says_he_needs_to_be_involved_selecting/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rlszua/i_find_these_people_annoying/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1470, Part 1 (Thread #1617)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkmiqs/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Trump says he needs to be involved selecting Iran's next leader. -Reuters",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rlmftj/trump_says_he_needs_to_be_involved_selecting/"
   },
   {
     "topic": "Iran is 'confident' it can counter a potential U.S. ground invasion, foreign minister says",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rlodwo/slay_the_spire_2_is_out_now_on_steam/"
   },
   {
-    "topic": "Four months ago r/gaming helped our brutal pinball climbing game take off. The demo for Fallosophy is finally live!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rlkgti/four_months_ago_rgaming_helped_our_brutal_pinball/"
-  },
-  {
     "topic": "Found my dad\u2019s old copy of Metal Gear Solid for PS2 while cleaning today.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rlsrfo/found_my_dads_old_copy_of_metal_gear_solid_for/"
   },
   {
+    "topic": "Four months ago r/gaming helped our brutal pinball climbing game take off. The demo for Fallosophy is finally live!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rlkgti/four_months_ago_rgaming_helped_our_brutal_pinball/"
+  },
+  {
     "topic": "The Boys \u2013 Final Season Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,526,858 views \u2022 ~286m old",
+    "why": "Trending on YouTube \u2022 1,698,215 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XNQbH1SDPRk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,236,270 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 1,363,211 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b68HETiNO98"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 661,105 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 682,209 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3p--tcyNSHE"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,125 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 250,977 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N8bI6FYLqgc"
+  },
+  {
+    "topic": "BEEF: Season 2 | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 216,666 views \u2022 ~436m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=weZ2ZAcvXrU"
   },
   {
     "topic": "The Testaments | Trailer | Hulu",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,122 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 120,357 views \u2022 ~460m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KpWyxrPqkeA"
   }
 ]
