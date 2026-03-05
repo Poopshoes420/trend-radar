@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Chinese",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl5l36/chinese/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rkrq74/stocking_up_for_the_night/"
-  },
-  {
-    "topic": "A & W enters the chat with their burger taste test",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rl57xk/a_w_enters_the_chat_with_their_burger_taste_test/"
   },
   {
     "topic": "Todd deserves it",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkv3aw/unpopular_opinion_premium_is_worth_it/"
   },
   {
-    "topic": "Why is it so awful lately?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkogg1/why_is_it_so_awful_lately/"
-  },
-  {
     "topic": "I got dms now",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkujgr/i_got_dms_now/"
+  },
+  {
+    "topic": "Why is it so awful lately?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkogg1/why_is_it_so_awful_lately/"
   },
   {
     "topic": "YouTube in 2026 requires 5 out 6 browser extensions just to remain functional.",
@@ -81,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkkec9/youtube_in_2026_requires_5_out_6_browser/"
   },
   {
-    "topic": "Is this true?",
+    "topic": "What's the point of Incognito when you have to Sign in?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rky7yb/is_this_true/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rkqekc/whats_the_point_of_incognito_when_you_have_to/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1469, Part 1 (Thread #1616)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1470, Part 1 (Thread #1617)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkbczv/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rl7fmb/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #5)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkyjbx/white_house_says_spain_has_agreed_to_cooperate/"
   },
   {
-    "topic": "NATO intercepts Iranian missile heading toward Turkey in first such incident",
+    "topic": "Iraq plunged into nationwide blackout as US tells citizens to leave immediately",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rkjw6v/nato_intercepts_iranian_missile_heading_toward/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rl67f3/iraq_plunged_into_nationwide_blackout_as_us_tells/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 895,209 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 1,028,217 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z1jcPlGXnMo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,174 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 388,438 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X6EHtzcmiPw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 699,963 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 759,033 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZmXJnIGPNh8"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,243 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 320,875 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CYThhDi0xPk"
   },
   {
@@ -216,31 +216,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 153,662 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 207,989 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KD8ONOmHUhM"
+  },
+  {
+    "topic": "The SAD TRUTH about ROBLOX BRAINROT..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 165,816 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JOG87RpUpZc"
   },
   {
     "topic": "Shakira & Be\u00e9le - ALGO T\u00da (Official Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,186 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 120,754 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DKyvZY5zf_U"
+  },
+  {
+    "topic": "chiclona - Peso Pluma, Tito Double P, LENCHO (Video Oficial)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,450 views \u2022 ~148m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=px5DTq4Ks4A"
   },
   {
     "topic": "Melanie Martinez - HADES (Tracklist)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,537 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 70,045 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFIQDQ2jgLU"
+  },
+  {
+    "topic": "Lanterns Trailer, Sonic 4 New Villain?, Scream 7 Alternate Ending & MORE!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,990 views \u2022 ~162m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xVpMyhBZ9MQ"
   },
   {
     "topic": "LANTERNS TRAILER 2026: Green Lantern, Hal Jordan, John Stewart & Things You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,128 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 58,868 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kPkbV4TVQ3A"
   },
   {
@@ -248,23 +272,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,982 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 47,450 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lV3iBaO5GdE"
   },
   {
-    "topic": "Lanterns | Official Teaser REACTION!!",
+    "topic": "Karen - Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,682 views \u2022 ~310m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KfNjHmJEPOY"
+    "why": "Trending on YouTube \u2022 34,417 views \u2022 ~365m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2o2IzrPOruo"
   },
   {
     "topic": "Babydoll",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,296 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 38,152 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KqMOKCRgvD8"
   },
   {
@@ -272,23 +296,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,539 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 29,222 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-rrBUiNiFJI"
-  },
-  {
-    "topic": "Lanterns | Official Teaser | Reaction!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 21,211 views \u2022 ~377m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UfzRUOwvFAY"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86ca_vxgFAI"
   },
   {
@@ -296,7 +312,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xVkA1k4Ipfs"
   },
   {
@@ -304,7 +320,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QaL-H5wF9Hc"
   }
 ]
