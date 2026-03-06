@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Gym Rats",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rm7bmo/gym_rats/"
-  },
-  {
     "topic": "His reaction is everything lol",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmit45/his_reaction_is_everything_lol/"
   },
   {
-    "topic": "Let the games begin...",
+    "topic": "Gym Rats",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmg81t/let_the_games_begin/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rm7bmo/gym_rats/"
+  },
+  {
+    "topic": "I don't understand what could have possibly led up to this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmm00r/i_dont_understand_what_could_have_possibly_led_up/"
   },
   {
     "topic": "Never works in first click \ud83d\ude2d",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmhy9g/what_musicsong_is_this/"
   },
   {
-    "topic": "Bro creating his own supply and demand",
+    "topic": "YouTube gave me a warning for a private playlist I had.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rlbbz4/bro_creating_his_own_supply_and_demand/"
-  },
-  {
-    "topic": "Russia is providing Iran intelligence to target U.S. forces, officials say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmb3g5/russia_is_providing_iran_intelligence_to_target/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmkea4/youtube_gave_me_a_warning_for_a_private_playlist/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1471, Part 1 (Thread #1618)",
@@ -117,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Hungary confirms it is holding seven Ukrainian bank workers and $80m",
+    "topic": "Russia is providing Iran intelligence to target U.S. forces, officials say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmcrs5/hungary_confirms_it_is_holding_seven_ukrainian/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmb3g5/russia_is_providing_iran_intelligence_to_target/"
+  },
+  {
+    "topic": "More Patriot missiles used in Middle East in 3 days than in Ukraine since 2022, Zelensky says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmi4mv/more_patriot_missiles_used_in_middle_east_in_3/"
   },
   {
     "topic": "Trump says there will be no deal with Iran except 'unconditional surrender'",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rmdt86/reviewers_not_reviewing_marathon_are_corrupt/"
   },
   {
+    "topic": "Harry Styles - American Girls (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 457,983 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=o6jQo3-iCao"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS + APEX LEGENDS w/ HutchMF & Nickmercs & Drac | #ShartInMyMouth #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 801,306 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 810,333 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4ca7UgxiOJo"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbfMYaFCixM"
   },
   {
@@ -200,7 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATVcieYXOZ4"
+  },
+  {
+    "topic": "The Weeknight",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cW087-wSn4g"
   }
 ]
