@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Down to earth man",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmpp51/down_to_earth_man/"
+  },
+  {
     "topic": "His reaction is everything lol",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rm7bmo/gym_rats/"
-  },
-  {
-    "topic": "Down to earth man",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmpp51/down_to_earth_man/"
   },
   {
     "topic": "Never works in first click \ud83d\ude2d",
@@ -184,31 +184,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,286,284 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 2,292,822 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DxJRM5MSKT8"
+  },
+  {
+    "topic": "Digital Circus Ep 8 Trailer.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 834,611 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4lFnIlH06Sw"
   },
   {
     "topic": "Harry Styles - American Girls (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 847,453 views \u2022 ~256m old",
+    "why": "Trending on YouTube \u2022 935,084 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o6jQo3-iCao"
   },
   {
-    "topic": "Gutfeld!",
+    "topic": "bbno$ - why am i like this (official music video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JxO8SfIkaG4"
+    "why": "Trending on YouTube \u2022 77,792 views \u2022 ~226m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x9VLSIwoTJk"
+  },
+  {
+    "topic": "FOX and Friends",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zfn0s0J8GfY"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbfMYaFCixM"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATVcieYXOZ4"
   }
 ]
