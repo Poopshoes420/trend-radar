@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rm7bmo/gym_rats/"
   },
   {
-    "topic": "Let the games begin...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmg81t/let_the_games_begin/"
-  },
-  {
     "topic": "Matilda effect",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmn5b9/matilda_effect/"
+  },
+  {
+    "topic": "Let the games begin...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmg81t/let_the_games_begin/"
   },
   {
     "topic": "Never works in first click \ud83d\ude2d",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Russia is providing Iran intelligence to target U.S. forces, officials say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmb3g5/russia_is_providing_iran_intelligence_to_target/"
-  },
-  {
     "topic": "More Patriot missiles used in Middle East in 3 days than in Ukraine since 2022, Zelensky says",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmi4mv/more_patriot_missiles_used_in_middle_east_in_3/"
+  },
+  {
+    "topic": "Russia is providing Iran intelligence to target U.S. forces, officials say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmb3g5/russia_is_providing_iran_intelligence_to_target/"
   },
   {
     "topic": "Trump says there will be no deal with Iran except 'unconditional surrender'",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,257,042 views \u2022 ~84m old",
+    "why": "Trending on YouTube \u2022 2,279,817 views \u2022 ~129m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DxJRM5MSKT8"
   },
   {
@@ -192,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 648,839 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 770,155 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o6jQo3-iCao"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC RAIDERS + APEX LEGENDS w/ HutchMF & Nickmercs & Drac | #ShartInMyMouth #BUNGULATE",
+    "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 818,224 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4ca7UgxiOJo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JxO8SfIkaG4"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbfMYaFCixM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATVcieYXOZ4"
   }
 ]
