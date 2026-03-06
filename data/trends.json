@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Give Mickey & Minnie an Ashtray, Please!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmhzlp/give_mickey_minnie_an_ashtray_please/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rm7bmo/gym_rats/"
   },
   {
-    "topic": "I don't understand what could have possibly led up to this",
+    "topic": "Let the games begin...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmm00r/i_dont_understand_what_could_have_possibly_led_up/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmg81t/let_the_games_begin/"
+  },
+  {
+    "topic": "Road rage and a saxophone.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rm6mnt/road_rage_and_a_saxophone/"
   },
   {
     "topic": "Never works in first click \ud83d\ude2d",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rlzah8/theodd1sout_is_under_controversy_after_he/"
   },
   {
-    "topic": "What music/song is this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmhy9g/what_musicsong_is_this/"
-  },
-  {
     "topic": "YouTube gave me a warning for a private playlist I had.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmkea4/youtube_gave_me_a_warning_for_a_private_playlist/"
+  },
+  {
+    "topic": "What music/song is this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmhy9g/what_musicsong_is_this/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1471, Part 1 (Thread #1618)",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rmdt86/reviewers_not_reviewing_marathon_are_corrupt/"
   },
   {
+    "topic": "IShowSpeed Beats THE WALKING DEAD Season 2 & 3 \ud83e\udddf\u200d\u2642\ufe0f\ud83d\udc80 (FULL STREAM)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 2,196,767 views \u2022 ~63m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DxJRM5MSKT8"
+  },
+  {
     "topic": "Harry Styles - American Girls (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 457,983 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 597,214 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o6jQo3-iCao"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 810,333 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 815,450 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4ca7UgxiOJo"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~563m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbfMYaFCixM"
   },
   {
@@ -208,15 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATVcieYXOZ4"
-  },
-  {
-    "topic": "The Weeknight",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cW087-wSn4g"
   }
 ]
