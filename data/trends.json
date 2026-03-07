@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Took me 40 minutes to build! Never seen her so happy!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmsqby/took_me_40_minutes_to_build_never_seen_her_so/"
-  },
-  {
     "topic": "No HRT needed",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rn3soo/no_hrt_needed/"
+  },
+  {
+    "topic": "Took me 40 minutes to build! Never seen her so happy!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmsqby/took_me_40_minutes_to_build_never_seen_her_so/"
   },
   {
     "topic": "Massage guys massage",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,509,072 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 6,569,556 views \u2022 ~255m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 410,196 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 421,615 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y6a9nekpWfU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 528,654 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 530,260 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATNpsZB7srw"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 162,649 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 169,156 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0EkDELOi0zk"
-  },
-  {
-    "topic": "*NEW* Episode 8 Trailer is Crazy! - The Amazing Digital Circus",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 87,866 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bhQ-sdUCV4o"
   },
   {
     "topic": "THIS NEW DAREDEVIL TRAILER ROCKS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,373 views \u2022 ~678m old",
+    "why": "Trending on YouTube \u2022 66,083 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IraSF0CkUHg"
   },
   {
@@ -232,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0i8jE7qKR-4"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~386m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mGSFa2rQLx0"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hCI7v-QYjo0"
   }
 ]
