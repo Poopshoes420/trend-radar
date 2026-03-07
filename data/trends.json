@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn2r9u/another_ai_slop_video_pops_up/"
   },
   {
-    "topic": "Are you kidding me?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
-  },
-  {
     "topic": "Is it actually relatable or its just me ?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmp5i9/is_it_actually_relatable_or_its_just_me/"
+  },
+  {
+    "topic": "Are you kidding me?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
   },
   {
     "topic": "Never works in first click \ud83d\ude2d",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,787,434 views \u2022 ~552m old",
+    "why": "Trending on YouTube \u2022 15,092,702 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 645,908 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 647,535 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
-  },
-  {
-    "topic": "Digital Circus Ep 8 Trailer (Reaction)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 542,113 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ATNpsZB7srw"
   },
   {
     "topic": "50 Cent Feat Max B - 'No More Tricks, No More Tries'",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,204 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 44,709 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XqSFycfUtMw"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9q-fxHDtl3M"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gQdQg5joUpA"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
   }
 ]
