@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rn3soo/no_hrt_needed/"
   },
   {
-    "topic": "This Vineyard Sign",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rn6018/this_vineyard_sign/"
-  },
-  {
     "topic": "Toilet battle...oh noooo oh noooooooo oh nooooooooo",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rncgtm/toilet_battleoh_noooo_oh_noooooooo_oh_nooooooooo/"
+  },
+  {
+    "topic": "This Vineyard Sign",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rn6018/this_vineyard_sign/"
   },
   {
     "topic": "Another AI slop video pops up",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmp5i9/is_it_actually_relatable_or_its_just_me/"
   },
   {
-    "topic": "Are you kidding me?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
-  },
-  {
     "topic": "What the fuck is this on my feed",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn9k3j/what_the_fuck_is_this_on_my_feed/"
   },
   {
-    "topic": "Never works in first click \ud83d\ude2d",
+    "topic": "Are you kidding me?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmcg3f/never_works_in_first_click/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
+  },
+  {
+    "topic": "Premium clearly means nothing anymore",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn9p1k/premium_clearly_means_nothing_anymore/"
   },
   {
     "topic": "Trump tells CNN Cuba is soon going to fall: \u2018I\u2019m going to put Marco over there\u2019",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,156,822 views \u2022 ~679m old",
+    "why": "Trending on YouTube \u2022 17,663,993 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 486,915 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 560,093 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MehJ4bDdicQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 661,547 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 664,026 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,976 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 128,264 views \u2022 ~135m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bSZL3ZZC8EE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,025 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 96,307 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XqSFycfUtMw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9q-fxHDtl3M"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gQdQg5joUpA"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
   }
 ]
