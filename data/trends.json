@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmp5i9/is_it_actually_relatable_or_its_just_me/"
   },
   {
+    "topic": "Are you kidding me?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
+  },
+  {
     "topic": "Really, YouTube?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmtww4/really_youtube/"
-  },
-  {
-    "topic": "has the Number of ads doubled in the past week, or is it just me?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn1ujv/has_the_number_of_ads_doubled_in_the_past_week_or/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1472, Part 1 (Thread #1619)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rn0x20/the_helldivers_2_player_who_organised_a_charity/"
   },
   {
-    "topic": "Nintendo Suing U.S. Government Over Tariffs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rmobfl/nintendo_suing_us_government_over_tariffs/"
-  },
-  {
     "topic": "Pokemon Company issues statement after White House uses Pokemon Pokpia in meme",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rmwju7/pokemon_company_issues_statement_after_white/"
   },
   {
+    "topic": "Nintendo Suing U.S. Government Over Tariffs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rmobfl/nintendo_suing_us_government_over_tariffs/"
+  },
+  {
     "topic": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | In Cinemas 19 March 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,446,571 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 10,064,296 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 623,174 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 627,356 views \u2022 ~132m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 533,531 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 534,732 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATNpsZB7srw"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0i8jE7qKR-4"
+  },
+  {
+    "topic": "Nicaragua vs. Dominican Republic",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
+  },
+  {
+    "topic": "Puerto Rico vs. Colombia",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gQdQg5joUpA"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
   },
   {
-    "topic": "SEC Tournament: Oklahoma vs. LSU",
+    "topic": "SEC Tournament: Ole Miss vs. Vanderbilt",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VZxSzsM6a1g"
-  },
-  {
-    "topic": "Morning Joe",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~455m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mGSFa2rQLx0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8nK_Sgaghus"
   }
 ]
