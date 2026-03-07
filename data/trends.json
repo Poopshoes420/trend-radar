@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rmzw8b/massage_guys_massage/"
   },
   {
-    "topic": "Never works in first click \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmcg3f/never_works_in_first_click/"
-  },
-  {
     "topic": "Another AI slop video pops up",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn2r9u/another_ai_slop_video_pops_up/"
+  },
+  {
+    "topic": "Never works in first click \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmcg3f/never_works_in_first_click/"
   },
   {
     "topic": "Is it actually relatable or its just me ?",
@@ -184,23 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,569,556 views \u2022 ~255m old",
+    "why": "Trending on YouTube \u2022 6,952,427 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
-    "topic": "IShowSpeed FINALLY Beats THE WALKING DEAD Season 4 (FINAL EPISODE) \ud83e\udddf\u200d\u2642\ufe0f\ud83d\udc80",
+    "topic": "\ud83d\udd34LIVE | APEX LEGENDS w/ HutchMF & Nickmercs | #ShartInMyButtWhileIFart #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 421,615 views \u2022 ~192m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=y6a9nekpWfU"
+    "why": "Trending on YouTube \u2022 538,085 views \u2022 ~46m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
   },
   {
     "topic": "Digital Circus Ep 8 Trailer (Reaction)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 530,260 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 531,078 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATNpsZB7srw"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,156 views \u2022 ~669m old",
+    "why": "Trending on YouTube \u2022 171,709 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0EkDELOi0zk"
-  },
-  {
-    "topic": "THIS NEW DAREDEVIL TRAILER ROCKS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 66,083 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IraSF0CkUHg"
   },
   {
     "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0i8jE7qKR-4"
   },
   {
@@ -232,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
+  },
+  {
+    "topic": "SEC Tournament: Oklahoma vs. LSU",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VZxSzsM6a1g"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mGSFa2rQLx0"
   }
 ]
