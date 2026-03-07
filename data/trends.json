@@ -1,14 +1,5 @@
 [
   {
-    "topic": "The cat was contemplating murder",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rn1e36/the_cat_was_contemplating_murder/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "The cat was contemplating murder",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rn1e36/the_cat_was_contemplating_murder/"
   },
   {
     "topic": "No HRT needed",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmcg3f/never_works_in_first_click/"
   },
   {
-    "topic": "Did You Know? This Ronaldinho Nike Ad From 2006 Was YouTube\u2019s First 1M-View Video",
+    "topic": "What the fuck is this on my feed",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn55l0/did_you_know_this_ronaldinho_nike_ad_from_2006/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn9k3j/what_the_fuck_is_this_on_my_feed/"
   },
   {
     "topic": "Trump tells CNN Cuba is soon going to fall: \u2018I\u2019m going to put Marco over there\u2019",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,092,702 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 15,511,075 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 647,535 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 650,489 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,709 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 53,533 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XqSFycfUtMw"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9q-fxHDtl3M"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gQdQg5joUpA"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
   }
 ]
