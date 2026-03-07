@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnf507/i_hate_these_type_of_livestreams/"
   },
   {
-    "topic": "Another AI slop video pops up",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn2r9u/another_ai_slop_video_pops_up/"
-  },
-  {
     "topic": "Just got the worst add I\u2019ve seen. How is this allowed",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnh8bs/just_got_the_worst_add_ive_seen_how_is_this/"
+  },
+  {
+    "topic": "Another AI slop video pops up",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn2r9u/another_ai_slop_video_pops_up/"
   },
   {
     "topic": "what the fuck is this can't even watch youtube anymore?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,011,521 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 1,046,652 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MehJ4bDdicQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 679,425 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 681,777 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,570 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 232,928 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bSZL3ZZC8EE"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,676 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 155,641 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XqSFycfUtMw"
+  },
+  {
+    "topic": "Dallas Mavericks at Boston Celtics",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~42m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cZeZ1JoWbg4"
   },
   {
     "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Wrv_amRbMIE"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QrHwPv9vn_E"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gQdQg5joUpA"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
   }
 ]
