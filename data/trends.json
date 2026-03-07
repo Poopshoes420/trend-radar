@@ -54,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn2r9u/another_ai_slop_video_pops_up/"
   },
   {
-    "topic": "Never works in first click \ud83d\ude2d",
+    "topic": "Are you kidding me?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmcg3f/never_works_in_first_click/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
   },
   {
     "topic": "Is it actually relatable or its just me ?",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmp5i9/is_it_actually_relatable_or_its_just_me/"
   },
   {
-    "topic": "Are you kidding me?",
+    "topic": "Never works in first click \ud83d\ude2d",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn4hkr/are_you_kidding_me/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rmcg3f/never_works_in_first_click/"
   },
   {
     "topic": "Did You Know? This Ronaldinho Nike Ad From 2006 Was YouTube\u2019s First 1M-View Video",
@@ -108,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz",
+    "topic": "Trump tells CNN Cuba is soon going to fall: \u2018I\u2019m going to put Marco over there\u2019",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmuh5c/irans_guards_challenges_trump_to_have_us_navy/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rn7p22/trump_tells_cnn_cuba_is_soon_going_to_fall_im/"
+  },
+  {
+    "topic": "Iran to suspend strikes on neighbours unless attacks come from them",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rn5dhu/iran_to_suspend_strikes_on_neighbours_unless/"
   },
   {
     "topic": "Before it was sunk by US, Iranian ship IRIS Dena was offered shelter by India",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rn0pws/before_it_was_sunk_by_us_iranian_ship_iris_dena/"
-  },
-  {
-    "topic": "US approves emergency arms sale to Israel worth about $150 million",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmx9ju/us_approves_emergency_arms_sale_to_israel_worth/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,619,029 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 13,566,615 views \u2022 ~496m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NHk7scrb_9I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 636,390 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 640,058 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4MLisyhKHw"
   },
   {
@@ -200,23 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 538,427 views \u2022 ~619m old",
+    "why": "Trending on YouTube \u2022 540,100 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATNpsZB7srw"
   },
   {
-    "topic": "Special Report With Bret Baier",
+    "topic": "50 Cent Feat Max B - 'No More Tricks, No More Tries'",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kJUkKMtcCIQ"
+    "why": "Trending on YouTube \u2022 18,295 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XqSFycfUtMw"
+  },
+  {
+    "topic": "The Five",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9q-fxHDtl3M"
   },
   {
     "topic": "Nicaragua vs. Dominican Republic",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=njSZ5yrLkH8"
   },
   {
@@ -224,23 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gQdQg5joUpA"
+  },
+  {
+    "topic": "Big Ten Tournament: Illinois vs. Iowa",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xzaoxuzbVGE"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnLJOS-ygqw"
-  },
-  {
-    "topic": "SEC Tournament: Ole Miss vs. Vanderbilt",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8nK_Sgaghus"
   }
 ]
