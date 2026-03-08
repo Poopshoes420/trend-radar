@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnohf9/the_new_mr_beast_video_is_pointless/"
   },
   {
+    "topic": "how to download a video? and get the file on my pc",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnyeco/how_to_download_a_video_and_get_the_file_on_my_pc/"
+  },
+  {
     "topic": "Here is a chart showcasing the different eras of YouTube.",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnv5j3/what_is_it_with_youtubers_and_their_idiotic_need/"
-  },
-  {
-    "topic": "how to download a video? and get the file on my pc",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnyeco/how_to_download_a_video_and_get_the_file_on_my_pc/"
   },
   {
     "topic": "i cant take this fuckass content seriously",
@@ -180,59 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnpynt/my_pikachu_edition_nintendo_64_the_first_console/"
   },
   {
-    "topic": "New DIVINE FUSE MACHINE + New Brainrots!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,385,150 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Xp3xSk0zbfY"
-  },
-  {
     "topic": "I Showed Up Again\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,375 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 259,817 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qMhSmNMaC_E"
-  },
-  {
-    "topic": "GIRLSET \"Tweak\" Performance Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 235,719 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XAxEiTXMHTA"
   },
   {
     "topic": "Drinker's Chasers - The Lanterns Trailer Looks Awful",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,571 views \u2022 ~662m old",
+    "why": "Trending on YouTube \u2022 65,764 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pWxXtQyL6-E"
-  },
-  {
-    "topic": "Fox & Friends Weekend",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0Ow6lSCSo40"
   },
   {
     "topic": "College GameDay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
+  },
+  {
+    "topic": "College Basketball Live Scoreboard",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vEPEZDxMFSY"
   }
 ]
