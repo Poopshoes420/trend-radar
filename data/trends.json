@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] he is now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
-  },
-  {
     "topic": "The chances of being peekabooed by The Sphere are low, but never zero.",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rodiib/the_chances_of_being_peekabooed_by_the_sphere_are/"
+  },
+  {
+    "topic": "[OC] he is now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
   },
   {
     "topic": "[OC] We can never just admit it",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro5z7v/the_shit_that_youtube_does/"
   },
   {
+    "topic": "Biggest fall off in history?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roaep7/biggest_fall_off_in_history/"
+  },
+  {
     "topic": "I\u2019m sorry, what?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnv5j3/what_is_it_with_youtubers_and_their_idiotic_need/"
-  },
-  {
-    "topic": "Why is YouTube getting worse?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro3jr3/why_is_youtube_getting_worse/"
   },
   {
     "topic": "Denmark warns of interference from Russia, US in its election",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 733,781 views \u2022 ~680m old",
+    "why": "Trending on YouTube \u2022 736,226 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,166 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 146,736 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,277 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 12,483 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -232,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
-  },
-  {
-    "topic": "College Basketball Live Scoreboard",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   }
 ]
