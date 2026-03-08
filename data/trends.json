@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Mom got a label maker today",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rntkj6/mom_got_a_label_maker_today/"
-  },
-  {
     "topic": "nananana hey hey hey goodbyeeeeeee",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
+  },
+  {
+    "topic": "Mom got a label maker today",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rntkj6/mom_got_a_label_maker_today/"
   },
   {
     "topic": "upstairs neighbor guide",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro0a0b/damn_back_when_mrbeast_had_light_in_his_eyes/"
   },
   {
-    "topic": "i cant take this fuckass content seriously",
+    "topic": "Hardest choice ever",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnemek/i_cant_take_this_fuckass_content_seriously/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnzch8/hardest_choice_ever/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1473, Part 1 (Thread #1620)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnzkeq/idf_to_target_every_successor_iranian_regime/"
   },
   {
-    "topic": "Iran denied US conditions to stop the war",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
-  },
-  {
     "topic": "US embassy in Oslo hit by explosion, Norway police say",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnzts4/us_embassy_in_oslo_hit_by_explosion_norway_police/"
+  },
+  {
+    "topic": "Iran denied US conditions to stop the war",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
   },
   {
     "topic": "SNL shades Timothee Chalamet for making comments about ballet and opera being outdated while \u2018on a press tour for his movie about\u2026ping pong\u2019",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 700,379 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 703,145 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DLbolfKsWdQ"
   }
 ]
