@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnh8bs/just_got_the_worst_add_ive_seen_how_is_this/"
   },
   {
-    "topic": "I hate these type of livestreams",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnf507/i_hate_these_type_of_livestreams/"
-  },
-  {
     "topic": "i think we can all argee on this right?",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnir50/i_think_we_can_all_argee_on_this_right/"
   },
   {
-    "topic": "what the fuck is this can't even watch youtube anymore?",
+    "topic": "I hate these type of livestreams",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rn9ivo/what_the_fuck_is_this_cant_even_watch_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnf507/i_hate_these_type_of_livestreams/"
+  },
+  {
+    "topic": "WHY is the Youtube algorithm so atrocious!?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnnh4d/why_is_the_youtube_algorithm_so_atrocious/"
   },
   {
     "topic": "Pentagon believes U.S. struck Iran girls elementary school, killing 150",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump tells CNN Cuba is soon going to fall: \u2018I\u2019m going to put Marco over there\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rn7p22/trump_tells_cnn_cuba_is_soon_going_to_fall_im/"
-  },
-  {
     "topic": "Trump vows to hit \u2018very hard\u2019 after Iran\u2019s president says he won\u2019t surrender",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnhon2/trump_vows_to_hit_very_hard_after_irans_president/"
+  },
+  {
+    "topic": "Israeli Air Force strikes oil facilities in Iran | The Jerusalem Post",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnl7pt/israeli_air_force_strikes_oil_facilities_in_iran/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rn0x20/the_helldivers_2_player_who_organised_a_charity/"
   },
   {
-    "topic": "GoldenEye 007: The Accidental Masterpiece Trapped in Licensing Limbo (an article)",
+    "topic": "My Pikachu Edition Nintendo 64. The first console I ever owned. Games are: Pok\u00e9mon Stadium and Hey You, Pikachu!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnm2il/goldeneye_007_the_accidental_masterpiece_trapped/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnpynt/my_pikachu_edition_nintendo_64_the_first_console/"
   },
   {
     "topic": "New DIVINE FUSE MACHINE + New Brainrots!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,291,292 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 1,322,418 views \u2022 ~276m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xp3xSk0zbfY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 916,747 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 1,281,922 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E91hRBbJObI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,220,788 views \u2022 ~582m old",
+    "why": "Trending on YouTube \u2022 1,248,651 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MehJ4bDdicQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 289,273 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 382,459 views \u2022 ~463m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RtNfOeUpqO4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 338,074 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 372,344 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bSZL3ZZC8EE"
   },
   {
@@ -224,15 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,878 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 248,965 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9pgFruOiQg4"
+  },
+  {
+    "topic": "GIRLSET \"Tweak\" Performance Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 94,236 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XAxEiTXMHTA"
+  },
+  {
+    "topic": "Drinker's Chasers - The Lanterns Trailer Looks Awful",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 27,293 views \u2022 ~228m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pWxXtQyL6-E"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0Ow6lSCSo40"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cZeZ1JoWbg4"
   },
   {
@@ -248,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QrHwPv9vn_E"
   },
   {
-    "topic": "CNN This Morning Weekend",
+    "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3ywzMrrW09k"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8-XqrwqngBg"
   }
 ]
