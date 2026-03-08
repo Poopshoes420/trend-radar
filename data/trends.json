@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnv5j3/what_is_it_with_youtubers_and_their_idiotic_need/"
   },
   {
-    "topic": "Here is a chart showcasing the different eras of YouTube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
-  },
-  {
     "topic": "Why is YouTube getting worse?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro3jr3/why_is_youtube_getting_worse/"
+  },
+  {
+    "topic": "Here is a chart showcasing the different eras of YouTube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
   },
   {
     "topic": "Denmark warns of interference from Russia, US in its election",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnzkeq/idf_to_target_every_successor_iranian_regime/"
   },
   {
-    "topic": "SNL shades Timothee Chalamet for making comments about ballet and opera being outdated while \u2018on a press tour for his movie about\u2026ping pong\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1ro2bnd/snl_shades_timothee_chalamet_for_making_comments/"
-  },
-  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro57xo/most_players_dont_actually_want_freedom_they_want/"
   },
   {
+    "topic": "Family Feud (PS4) doesn't let you level to 100 and beyond",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rns4xx/family_feud_ps4_doesnt_let_you_level_to_100_and/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | LIARS BAR w/ HUTCHMF & DRAC | PARTY GAME NIGHT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 726,469 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 725,155 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
-  },
-  {
-    "topic": "College GameDay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~691m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
     "topic": "Casino",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   }
 ]
