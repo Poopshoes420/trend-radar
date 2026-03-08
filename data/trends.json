@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roa9s8/oc_hybrid/"
   },
   {
-    "topic": "nananana hey hey hey goodbyeeeeeee",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
-  },
-  {
     "topic": "[OC] We can never just admit it",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yc6/oc_we_can_never_just_admit_it/"
+  },
+  {
+    "topic": "nananana hey hey hey goodbyeeeeeee",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
   },
   {
     "topic": "Damn back when mrbeast had light in his eyes",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnv5j3/what_is_it_with_youtubers_and_their_idiotic_need/"
   },
   {
+    "topic": "The shit that youtube does:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro5z7v/the_shit_that_youtube_does/"
+  },
+  {
     "topic": "Why is YouTube getting worse?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro3jr3/why_is_youtube_getting_worse/"
-  },
-  {
-    "topic": "Here is a chart showcasing the different eras of YouTube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
   },
   {
     "topic": "Denmark warns of interference from Russia, US in its election",
@@ -171,28 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro57xo/most_players_dont_actually_want_freedom_they_want/"
   },
   {
-    "topic": "Family Feud (PS4) doesn't let you level to 100 and beyond",
+    "topic": "Things you used to love but are now completely over in gaming?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rns4xx/family_feud_ps4_doesnt_let_you_level_to_100_and/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro91o4/things_you_used_to_love_but_are_now_completely/"
   },
   {
     "topic": "\ud83d\udd34LIVE | LIARS BAR w/ HUTCHMF & DRAC | PARTY GAME NIGHT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 725,155 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 728,855 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
+  },
+  {
+    "topic": "Starting Over, But You Can BUY Super Speed!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 112,755 views \u2022 ~238m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
+  },
+  {
+    "topic": "Panama vs. Puerto Rico",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~43m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   },
   {
     "topic": "Fox Report With Jon Scott",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~612m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   }
 ]
