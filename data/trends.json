@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "nananana hey hey hey goodbyeeeeeee",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
-  },
-  {
     "topic": "[OC] he is now",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
+  },
+  {
+    "topic": "nananana hey hey hey goodbyeeeeeee",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
   },
   {
     "topic": "Mom got a label maker today",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnvzem/upstairs_neighbor_guide/"
   },
   {
-    "topic": "The new Mr beast video is pointless.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnohf9/the_new_mr_beast_video_is_pointless/"
-  },
-  {
     "topic": "Damn back when mrbeast had light in his eyes",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro0a0b/damn_back_when_mrbeast_had_light_in_his_eyes/"
+  },
+  {
+    "topic": "The new Mr beast video is pointless.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnohf9/the_new_mr_beast_video_is_pointless/"
   },
   {
     "topic": "What is it with Youtubers and their idiotic need to censor words that didn't need to be censored to begin with?!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 705,730 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 707,167 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DLbolfKsWdQ"
   }
 ]
