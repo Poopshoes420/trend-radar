@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
   },
   {
+    "topic": "The chances of being peekabooed by The Sphere are low, but never zero.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rodiib/the_chances_of_being_peekabooed_by_the_sphere_are/"
+  },
+  {
     "topic": "[OC] We can never just admit it",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yc6/oc_we_can_never_just_admit_it/"
-  },
-  {
-    "topic": "nananana hey hey hey goodbyeeeeeee",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
   },
   {
     "topic": "Damn back when mrbeast had light in his eyes",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro0a0b/damn_back_when_mrbeast_had_light_in_his_eyes/"
   },
   {
-    "topic": "I\u2019m sorry, what?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro1mvc/im_sorry_what/"
-  },
-  {
     "topic": "The shit that youtube does:",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro5z7v/the_shit_that_youtube_does/"
+  },
+  {
+    "topic": "I\u2019m sorry, what?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro1mvc/im_sorry_what/"
   },
   {
     "topic": "What is it with Youtubers and their idiotic need to censor words that didn't need to be censored to begin with?!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 731,761 views \u2022 ~662m old",
+    "why": "Trending on YouTube \u2022 733,781 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,627 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 136,166 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,100 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 10,277 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   }
 ]
