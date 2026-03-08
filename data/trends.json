@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnvzem/upstairs_neighbor_guide/"
   },
   {
-    "topic": "Checks out",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnfgi4/checks_out/"
-  },
-  {
     "topic": "Bro reduced the thirst",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rniu1u/bro_reduced_the_thirst/"
+  },
+  {
+    "topic": "Checks out",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnfgi4/checks_out/"
   },
   {
     "topic": "The new Mr beast video is pointless.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
   },
   {
-    "topic": "Pentagon believes U.S. struck Iran girls elementary school, killing 150",
+    "topic": "U.S. weighs sending special forces to seize Iran's nuclear stockpile",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnfrh7/pentagon_believes_us_struck_iran_girls_elementary/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnx0w3/us_weighs_sending_special_forces_to_seize_irans/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnnxth/pok\u00e9mon_condemns_white_house_for_using_its_imagery/"
   },
   {
-    "topic": "Family Feud (PS4) doesn't let you level to 100 and beyond",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rns4xx/family_feud_ps4_doesnt_let_you_level_to_100_and/"
-  },
-  {
     "topic": "Counter Strike: Source is starting to look like how CS 1.6 looked when source was new in 2004",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
+  },
+  {
+    "topic": "Family Feud (PS4) doesn't let you level to 100 and beyond",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rns4xx/family_feud_ps4_doesnt_let_you_level_to_100_and/"
   },
   {
     "topic": "My Pikachu Edition Nintendo 64. The first console I ever owned. Games are: Pok\u00e9mon Stadium and Hey You, Pikachu!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 259,817 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 266,669 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qMhSmNMaC_E"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,764 views \u2022 ~701m old",
+    "why": "Trending on YouTube \u2022 67,019 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pWxXtQyL6-E"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vEPEZDxMFSY"
   }
 ]
