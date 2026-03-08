@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
   },
   {
+    "topic": "[OC] he is now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
+  },
+  {
     "topic": "Mom got a label maker today",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnvzem/upstairs_neighbor_guide/"
   },
   {
-    "topic": "Watch out for the reflection...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnukhp/watch_out_for_the_reflection/"
-  },
-  {
     "topic": "The new Mr beast video is pointless.",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnohf9/the_new_mr_beast_video_is_pointless/"
+  },
+  {
+    "topic": "Damn back when mrbeast had light in his eyes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro0a0b/damn_back_when_mrbeast_had_light_in_his_eyes/"
   },
   {
     "topic": "What is it with Youtubers and their idiotic need to censor words that didn't need to be censored to begin with?!",
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
   },
   {
-    "topic": "Damn back when mrbeast had light in his eyes",
+    "topic": "I\u2019m sorry, what?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro0a0b/damn_back_when_mrbeast_had_light_in_his_eyes/"
-  },
-  {
-    "topic": "Hardest choice ever",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnzch8/hardest_choice_ever/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro1mvc/im_sorry_what/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1473, Part 1 (Thread #1620)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Denmark warns of interference from Russia, US in its election",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro51og/denmark_warns_of_interference_from_russia_us_in/"
+  },
+  {
     "topic": "IDF to target every successor Iranian regime appoints | The Jerusalem Post",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnzkeq/idf_to_target_every_successor_iranian_regime/"
   },
   {
-    "topic": "US embassy in Oslo hit by explosion, Norway police say",
+    "topic": "Zelenskyy: defence forces have liberated up to 435 sq km in Ukraine's south",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnzts4/us_embassy_in_oslo_hit_by_explosion_norway_police/"
-  },
-  {
-    "topic": "Iran denied US conditions to stop the war",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro4wr3/zelenskyy_defence_forces_have_liberated_up_to_435/"
   },
   {
     "topic": "SNL shades Timothee Chalamet for making comments about ballet and opera being outdated while \u2018on a press tour for his movie about\u2026ping pong\u2019",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
   },
   {
-    "topic": "Pok\u00e9mon condemns White House for using its imagery",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnnxth/pok\u00e9mon_condemns_white_house_for_using_its_imagery/"
-  },
-  {
     "topic": "Family Feud (PS4) doesn't let you level to 100 and beyond",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rns4xx/family_feud_ps4_doesnt_let_you_level_to_100_and/"
   },
   {
+    "topic": "Pok\u00e9mon condemns White House for using its imagery",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnnxth/pok\u00e9mon_condemns_white_house_for_using_its_imagery/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | LIARS BAR w/ HUTCHMF & DRAC | PARTY GAME NIGHT | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 703,145 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 705,730 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DLbolfKsWdQ"
   }
 ]
