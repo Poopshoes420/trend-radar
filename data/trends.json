@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnzm4t/nananana_hey_hey_hey_goodbyeeeeeee/"
   },
   {
-    "topic": "Bro reduced the thirst",
+    "topic": "Bro knows how to handle",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rniu1u/bro_reduced_the_thirst/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro18j5/bro_knows_how_to_handle/"
   },
   {
     "topic": "The new Mr beast video is pointless.",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnohf9/the_new_mr_beast_video_is_pointless/"
   },
   {
-    "topic": "Here is a chart showcasing the different eras of YouTube.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
-  },
-  {
     "topic": "What is it with Youtubers and their idiotic need to censor words that didn't need to be censored to begin with?!",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnv5j3/what_is_it_with_youtubers_and_their_idiotic_need/"
+  },
+  {
+    "topic": "Here is a chart showcasing the different eras of YouTube.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
   },
   {
     "topic": "i cant take this fuckass content seriously",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnujbf/israel_army_says_iran_using_cluster_munitions/"
   },
   {
-    "topic": "Iran denied US conditions to stop the war",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
-  },
-  {
     "topic": "U.S. weighs sending special forces to seize Iran's nuclear stockpile",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnx0w3/us_weighs_sending_special_forces_to_seize_irans/"
+  },
+  {
+    "topic": "Iran denied US conditions to stop the war",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 677,549 views \u2022 ~127m old",
+    "why": "Trending on YouTube \u2022 684,625 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,139 views \u2022 ~696m old",
+    "why": "Trending on YouTube \u2022 290,620 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qMhSmNMaC_E"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vEPEZDxMFSY"
   }
 ]
