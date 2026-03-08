@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro3jr3/why_is_youtube_getting_worse/"
   },
   {
+    "topic": "Tehran indicates Khamenei's son will be named supreme leader",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1473, Part 1 (Thread #1620)",
     "sources": [
       "reddit"
@@ -108,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Tehran indicates Khamenei's son will be named supreme leader",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
-  },
-  {
     "topic": "Denmark warns of interference from Russia, US in its election",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro51og/denmark_warns_of_interference_from_russia_us_in/"
   },
   {
-    "topic": "Zelenskyy tells Macron Ukrainian forces held all key defensive lines this winter, urges Europe to deliver on \u20ac90 bn promise",
+    "topic": "U.S. dismayed by Israel's Iran fuel strikes, sources say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro7lwy/zelenskyy_tells_macron_ukrainian_forces_held_all/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rogzom/us_dismayed_by_israels_iran_fuel_strikes_sources/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,469,127 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 1,634,839 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,905 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 103,751 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,634 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 211,618 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
+  },
+  {
+    "topic": "Harry Styles. One Night in Manchester | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,569 views \u2022 ~408m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_uNmQZH1ZUE"
   },
   {
     "topic": "Jelly Roll - Thorns (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,861 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 43,065 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -232,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   }
 ]
