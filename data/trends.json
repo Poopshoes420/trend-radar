@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Just said\u2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnx0b0/just_said/"
+  },
+  {
     "topic": "Mom got a label maker today",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rniu1u/bro_reduced_the_thirst/"
   },
   {
-    "topic": "Every day my hell score \ud83d\udcc8",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnfg1j/every_day_my_hell_score/"
-  },
-  {
     "topic": "The new Mr beast video is pointless.",
     "sources": [
       "reddit"
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnrubw/here_is_a_chart_showcasing_the_different_eras_of/"
   },
   {
-    "topic": "i cant take this fuckass content seriously",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnemek/i_cant_take_this_fuckass_content_seriously/"
-  },
-  {
     "topic": "What is it with Youtubers and their idiotic need to censor words that didn't need to be censored to begin with?!",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnv5j3/what_is_it_with_youtubers_and_their_idiotic_need/"
+  },
+  {
+    "topic": "i cant take this fuckass content seriously",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rnemek/i_cant_take_this_fuckass_content_seriously/"
   },
   {
     "topic": "Just got the worst add I\u2019ve seen. How is this allowed",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Pentagon believes U.S. struck Iran girls elementary school, killing 150",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnfrh7/pentagon_believes_us_struck_iran_girls_elementary/"
-  },
-  {
     "topic": "Iran denied US conditions to stop the war",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnnoq0/iran_denied_us_conditions_to_stop_the_war/"
   },
   {
-    "topic": "Trump tells Britain he does not need its help to win Iran war",
+    "topic": "Pentagon believes U.S. struck Iran girls elementary school, killing 150",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnovq8/trump_tells_britain_he_does_not_need_its_help_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnfrh7/pentagon_believes_us_struck_iran_girls_elementary/"
+  },
+  {
+    "topic": "Israel Army Says Iran Using Cluster Munitions",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnujbf/israel_army_says_iran_using_cluster_munitions/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,036,079 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 2,186,492 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E91hRBbJObI"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,358,557 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 1,366,535 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xp3xSk0zbfY"
-  },
-  {
-    "topic": "Game Theory: The Prototype is Their SAVIOR (Poppy Playtime)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 528,403 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RtNfOeUpqO4"
   },
   {
     "topic": "I Showed Up Again\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,279 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 185,703 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qMhSmNMaC_E"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,779 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 204,757 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XAxEiTXMHTA"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,216 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 55,748 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pWxXtQyL6-E"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0Ow6lSCSo40"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cZeZ1JoWbg4"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8-XqrwqngBg"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yZh1qdijprU"
   }
 ]
