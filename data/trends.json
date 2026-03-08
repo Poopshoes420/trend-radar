@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Just said\u2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnx0b0/just_said/"
-  },
-  {
     "topic": "Mom got a label maker today",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rniu1u/bro_reduced_the_thirst/"
+  },
+  {
+    "topic": "Every day my hell score \ud83d\udcc8",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rnfg1j/every_day_my_hell_score/"
   },
   {
     "topic": "The new Mr beast video is pointless.",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Israel Army Says Iran Using Cluster Munitions",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnujbf/israel_army_says_iran_using_cluster_munitions/"
+  },
+  {
     "topic": "Iran denied US conditions to stop the war",
     "sources": [
       "reddit"
@@ -126,31 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnfrh7/pentagon_believes_us_struck_iran_girls_elementary/"
   },
   {
-    "topic": "Israel Army Says Iran Using Cluster Munitions",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnujbf/israel_army_says_iran_using_cluster_munitions/"
-  },
-  {
-    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rn3803/self_promotion_saturday_small_streamer_just/"
-  },
-  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rny1pg/simple_questions_sunday/"
   },
   {
     "topic": "Pok\u00e9mon condemns White House for using its imagery",
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnpynt/my_pikachu_edition_nintendo_64_the_first_console/"
   },
   {
-    "topic": "NO WAY WAS I MISSING THIS [Resident Evil Requiem Part 1]",
+    "topic": "Counter Strike: Source is starting to look like how CS 1.6 looked when source was new in 2004",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 2,186,492 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E91hRBbJObI"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
   },
   {
     "topic": "New DIVINE FUSE MACHINE + New Brainrots!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,366,535 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 1,371,760 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xp3xSk0zbfY"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,703 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 205,490 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qMhSmNMaC_E"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 204,757 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 215,092 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XAxEiTXMHTA"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,748 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 58,132 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pWxXtQyL6-E"
   },
   {
@@ -224,31 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0Ow6lSCSo40"
-  },
-  {
-    "topic": "Dallas Mavericks at Boston Celtics",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cZeZ1JoWbg4"
   },
   {
     "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8-XqrwqngBg"
-  },
-  {
-    "topic": "The Weekend",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yZh1qdijprU"
   }
 ]
