@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "[OC] hybrid",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1roa9s8/oc_hybrid/"
+  },
+  {
     "topic": "nananana hey hey hey goodbyeeeeeee",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yc6/oc_we_can_never_just_admit_it/"
-  },
-  {
-    "topic": "Mom got a label maker today",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rntkj6/mom_got_a_label_maker_today/"
   },
   {
     "topic": "Damn back when mrbeast had light in his eyes",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rny1pg/simple_questions_sunday/"
   },
   {
-    "topic": "Counter Strike: Source is starting to look like how CS 1.6 looked when source was new in 2004",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
-  },
-  {
     "topic": "Slay the Spire 2 reached 574,638 concurrent players, making it the 20th highest all-time peak on Steam.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro9n3w/slay_the_spire_2_reached_574638_concurrent/"
+  },
+  {
+    "topic": "Counter Strike: Source is starting to look like how CS 1.6 looked when source was new in 2004",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
   },
   {
     "topic": "Most players don't actually want freedom, they want reassurance",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 724,069 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 726,469 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sERPXqLCUvg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g7EuaaHAQRo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l0NlsTyvIyE"
   }
 ]
