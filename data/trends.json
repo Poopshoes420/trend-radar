@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Family prevents narcissistic mom from inserting herself into the limelight \ud83d\ude0c",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohjge/family_prevents_narcissistic_mom_from_inserting/"
+  },
+  {
     "topic": "[OC] hybrid",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roeikv/stop_it/"
-  },
-  {
-    "topic": "[OC] he is now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
   },
   {
     "topic": "Damn back when mrbeast had light in his eyes",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Denmark warns of interference from Russia, US in its election",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro51og/denmark_warns_of_interference_from_russia_us_in/"
-  },
-  {
     "topic": "Tehran indicates Khamenei's son will be named supreme leader",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
+  },
+  {
+    "topic": "Denmark warns of interference from Russia, US in its election",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro51og/denmark_warns_of_interference_from_russia_us_in/"
   },
   {
     "topic": "Zelenskyy tells Macron Ukrainian forces held all key defensive lines this winter, urges Europe to deliver on \u20ac90 bn promise",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro9n3w/slay_the_spire_2_reached_574638_concurrent/"
   },
   {
-    "topic": "Steve Downes The longtime voice actor for \"The Master Chief/John-117\" in the Halo videogame series, speaks out on the White House using his voice for propaganda purposes.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rohcb8/steve_downes_the_longtime_voice_actor_for_the/"
-  },
-  {
     "topic": "Counter Strike: Source is starting to look like how CS 1.6 looked when source was new in 2004",
     "sources": [
       "reddit"
@@ -180,35 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
   },
   {
+    "topic": "Most players don't actually want freedom, they want reassurance",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro57xo/most_players_dont_actually_want_freedom_they_want/"
+  },
+  {
     "topic": "Minecraft Speedrunner VS 6 Hunters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 989,152 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 1,161,623 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+  },
+  {
+    "topic": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 64,374 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
   },
   {
     "topic": "Starting Over, But You Can BUY Super Speed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 182,377 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 191,169 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
-  },
-  {
-    "topic": "I Raised a BLOOP FAMILY in Minecraft!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 181,641 views \u2022 ~412m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ghz6A-Ximic"
   },
   {
     "topic": "Jelly Roll - Thorns (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,097 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 31,227 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~609m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~443m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   }
 ]
