@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roa9s8/oc_hybrid/"
   },
   {
-    "topic": "[OC] he is now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
-  },
-  {
     "topic": "stop it",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roeikv/stop_it/"
+  },
+  {
+    "topic": "[OC] he is now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
   },
   {
     "topic": "Damn back when mrbeast had light in his eyes",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro51og/denmark_warns_of_interference_from_russia_us_in/"
   },
   {
-    "topic": "Zelenskyy tells Macron Ukrainian forces held all key defensive lines this winter, urges Europe to deliver on \u20ac90 bn promise",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro7lwy/zelenskyy_tells_macron_ukrainian_forces_held_all/"
-  },
-  {
     "topic": "Tehran indicates Khamenei's son will be named supreme leader",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
+  },
+  {
+    "topic": "Zelenskyy tells Macron Ukrainian forces held all key defensive lines this winter, urges Europe to deliver on \u20ac90 bn promise",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro7lwy/zelenskyy_tells_macron_ukrainian_forces_held_all/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 730,026 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 885,194 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 164,998 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 175,539 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 160,888 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 174,529 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ghz6A-Ximic"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,167 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 22,919 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kDj-NZmSYHc"
   }
 ]
