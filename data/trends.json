@@ -81,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roj56t/yt_altered_my_older_videos_creating_a_smudged/"
   },
   {
-    "topic": "The shit that youtube does:",
+    "topic": "What is Youtuber you once liked but now have completely lost respect for. Ill go first.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro5z7v/the_shit_that_youtube_does/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roqm4t/what_is_youtuber_you_once_liked_but_now_have/"
+  },
+  {
+    "topic": "Dollar surges as Middle East war sends oil above $110 a barrel",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roo4t2/dollar_surges_as_middle_east_war_sends_oil_above/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1474, Part 1 (Thread #1621)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "Dollar surges as Middle East war sends oil above $110 a barrel",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roo4t2/dollar_surges_as_middle_east_war_sends_oil_above/"
   },
   {
     "topic": "Tehran indicates Khamenei's son will be named supreme leader",
@@ -184,31 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,483 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 406,078 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I3KkaA3oNL4"
-  },
-  {
-    "topic": "OpTic TEXAS vs CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 2 QUALIFIERS WEEK 4",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 276,140 views \u2022 ~444m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uMz3TYO21So"
   },
   {
     "topic": "Gmod Prop Hunt - Revenge of the POOBAH! (Garry's Mod Funny Moments)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,951 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 189,252 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j0sbWynEePo"
+  },
+  {
+    "topic": "OpTic TEXAS vs CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 2 QUALIFIERS WEEK 4",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 278,472 views \u2022 ~503m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uMz3TYO21So"
   },
   {
     "topic": "This Game Knows When You Blink\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 271,415 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 290,329 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3jpOZY-pYes"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 166,687 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 181,281 views \u2022 ~440m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gs4tS30nYVk"
   },
   {
-    "topic": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
+    "topic": "America's Day At the Races",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 308,043 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
-  },
-  {
-    "topic": "Minecraft Speedrunner VS 6 Hunters (Hunters POV)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 273,162 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hrE-ebgBBmU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8OcWnJAKa28"
   }
 ]
