@@ -1,14 +1,5 @@
 [
   {
-    "topic": "I hope she does it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohykv/i_hope_she_does_it/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I hope she does it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohykv/i_hope_she_does_it/"
   },
   {
     "topic": "The chances of being peekabooed by The Sphere are low, but never zero.",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro5z7v/the_shit_that_youtube_does/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1473, Part 1 (Thread #1620)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1474, Part 1 (Thread #1621)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rnupfq/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rorhf1/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #6)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Tehran indicates Khamenei's son will be named supreme leader",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
-  },
-  {
     "topic": "Dollar surges as Middle East war sends oil above $110 a barrel",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roo4t2/dollar_surges_as_middle_east_war_sends_oil_above/"
+  },
+  {
+    "topic": "Tehran indicates Khamenei's son will be named supreme leader",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
   },
   {
     "topic": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\"",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rnwlyk/counter_strike_source_is_starting_to_look_like/"
   },
   {
-    "topic": "Sunday 3/8",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 569,541 views \u2022 ~73m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tDZL5j4NYJc"
-  },
-  {
     "topic": "Minecraft Speedrunner VS 6 Hunters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,226,071 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 3,498,744 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+  },
+  {
+    "topic": "Sunday 3/8",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 605,065 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tDZL5j4NYJc"
   },
   {
     "topic": "OpTic TEXAS vs CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 2 QUALIFIERS WEEK 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 266,685 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 270,486 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uMz3TYO21So"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 277,191 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 311,145 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I3KkaA3oNL4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,005 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 220,528 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3jpOZY-pYes"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 238,092 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 262,376 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,017 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 113,159 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gs4tS30nYVk"
   },
   {
@@ -240,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 206,420 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 229,112 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hrE-ebgBBmU"
-  },
-  {
-    "topic": "Jelly Roll - Thorns (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 88,729 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
     "topic": "Panama vs. Puerto Rico",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
   }
 ]
