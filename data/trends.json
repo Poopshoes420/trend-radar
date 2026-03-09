@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohykv/i_hope_she_does_it/"
   },
   {
+    "topic": "Next time, check the map.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rovijh/next_time_check_the_map/"
+  },
+  {
     "topic": "The chances of being peekabooed by The Sphere are low, but never zero.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roeikv/stop_it/"
-  },
-  {
-    "topic": "[OC] hybrid",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1roa9s8/oc_hybrid/"
   },
   {
     "topic": "This guy could've become a great youtuber If he wasn't...you know",
@@ -108,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rorhf1/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #6)",
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #7)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rmf1ro/rworldnews_discussion_thread_us_and_israel_launch/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "\u201cIf you can tolerate $200 oil, keep playing this game,\u201d Iran warns US and Israel",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rov1io/if_you_can_tolerate_200_oil_keep_playing_this/"
   },
   {
     "topic": "Tehran indicates Khamenei's son will be named supreme leader",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roey29/tehran_indicates_khameneis_son_will_be_named/"
-  },
-  {
-    "topic": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ron1b5/on_us_strikes_against_iran_pete_hegseth_says_this/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 406,078 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 437,379 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I3KkaA3oNL4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,252 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 219,791 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j0sbWynEePo"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 278,472 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 280,902 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uMz3TYO21So"
-  },
-  {
-    "topic": "This Game Knows When You Blink\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 290,329 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3jpOZY-pYes"
   },
   {
     "topic": "The Final Wheel of MUT Season! Ep. #48",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,281 views \u2022 ~440m old",
+    "why": "Trending on YouTube \u2022 192,024 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gs4tS30nYVk"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8OcWnJAKa28"
   }
 ]
