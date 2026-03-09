@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "I hope she does it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohykv/i_hope_she_does_it/"
+  },
+  {
     "topic": "stop it",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roa9s8/oc_hybrid/"
-  },
-  {
-    "topic": "[OC] he is now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ro5yr8/oc_he_is_now/"
   },
   {
     "topic": "Biggest fall off in history?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro5z7v/the_shit_that_youtube_does/"
   },
   {
+    "topic": "YT altered my older videos, creating a smudged effect over pixel art, ruining the art style on videos.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roj56t/yt_altered_my_older_videos_creating_a_smudged/"
+  },
+  {
     "topic": "I\u2019m sorry, what?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro1mvc/im_sorry_what/"
-  },
-  {
-    "topic": "Why is YouTube getting worse?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ro3jr3/why_is_youtube_getting_worse/"
   },
   {
     "topic": "Tehran indicates Khamenei's son will be named supreme leader",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ro51og/denmark_warns_of_interference_from_russia_us_in/"
   },
   {
-    "topic": "U.S. dismayed by Israel's Iran fuel strikes, sources say",
+    "topic": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rogzom/us_dismayed_by_israels_iran_fuel_strikes_sources/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roir9k/crude_oil_prices_surpass_100_a_barrel_as_the_iran/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,39 +184,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,730,125 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 2,669,323 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pvAJ6NnPdMA"
+  },
+  {
+    "topic": "OpTic TEXAS vs CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 2 QUALIFIERS WEEK 4",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 255,892 views \u2022 ~140m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uMz3TYO21So"
+  },
+  {
+    "topic": "The Slickness of Resident Evil Requiem",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 362,365 views \u2022 ~443m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=o47YzxY3x84"
+  },
+  {
+    "topic": "LILY LOVEBRAIDS Adopts ME in Minecraft!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 198,114 views \u2022 ~289m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I3KkaA3oNL4"
   },
   {
     "topic": "Dream - Minecraft Manhunt Extra Scenes (6 Hunters)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,218 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 192,534 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bhdJRIN7Ks4"
+  },
+  {
+    "topic": "This Game Knows When You Blink\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 129,328 views \u2022 ~293m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3jpOZY-pYes"
   },
   {
     "topic": "Starting Over, But You Can BUY Super Speed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,812 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 250,414 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8S_gmlKaOIc"
-  },
-  {
-    "topic": "Harry Styles. One Night in Manchester | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 64,756 views \u2022 ~425m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_uNmQZH1ZUE"
   },
   {
     "topic": "Jelly Roll - Thorns (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,002 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 72,190 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7Hwiw8yLko"
   },
   {
@@ -224,23 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6gmUg1_T5k"
-  },
-  {
-    "topic": "Fox Report With Jon Scott",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=neBqMdSVzXw"
-  },
-  {
-    "topic": "Casino",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~574m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hNKVwf-Hgxw"
   }
 ]
