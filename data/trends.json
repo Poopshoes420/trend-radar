@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rp2a0a/divorced/"
   },
   {
-    "topic": "I hope she does it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohykv/i_hope_she_does_it/"
-  },
-  {
     "topic": "[OC] My husband made me a birthday cake. He wanted to use as many of the cake letters as possible...",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rox190/oc_my_husband_made_me_a_birthday_cake_he_wanted/"
+  },
+  {
+    "topic": "I hope she does it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rohykv/i_hope_she_does_it/"
   },
   {
     "topic": "The chances of being peekabooed by The Sphere are low, but never zero.",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ron21x/this_guy_couldve_become_a_great_youtuber_if_he/"
   },
   {
+    "topic": "These type of comments disgust me",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rp55tc/these_type_of_comments_disgust_me/"
+  },
+  {
     "topic": "What is Youtuber you once liked but now have completely lost respect for. Ill go first.",
     "sources": [
       "reddit"
@@ -63,24 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roqm4t/what_is_youtuber_you_once_liked_but_now_have/"
   },
   {
-    "topic": "Biggest fall off in history?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roaep7/biggest_fall_off_in_history/"
-  },
-  {
-    "topic": "YT altered my older videos, creating a smudged effect over pixel art, ruining the art style on videos.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roj56t/yt_altered_my_older_videos_creating_a_smudged/"
-  },
-  {
     "topic": "Creepiest Youtube Channel I Found on the Recommendation Page",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rp1b5b/creepiest_youtube_channel_i_found_on_the/"
+  },
+  {
+    "topic": "Biggest fall off in history?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roaep7/biggest_fall_off_in_history/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1474, Part 1 (Thread #1621)",
@@ -184,23 +184,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,859 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 391,932 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8sVtL0o-v7U"
+  },
+  {
+    "topic": "XO, Kitty: Season 3 | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 139,337 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vPMcEabBQEU"
   },
   {
     "topic": "Fortnite Chapter 7 Season 2: Showdown | Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,628 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 112,565 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
+  },
+  {
+    "topic": "IN THE GREY Official Trailer (2026) Jake Gyllenhaal, Henry Cavill, Guy Ritchie",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 30,747 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_t1eVpIFE1A"
+  },
+  {
+    "topic": "Margo's Got Money Troubles \u2014 Official Trailer | Apple TV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 25,975 views \u2022 ~214m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AjI52haEerU"
   },
   {
     "topic": "Fortnite - Official Chapter 7 Season 2: Showdown Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,001 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 22,413 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5oMktVm8vPM"
   },
   {
@@ -208,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=biOhN8x9Z0c"
-  },
-  {
-    "topic": "Colombia vs. Cuba",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=D7rIZGGXQo0"
   }
 ]
