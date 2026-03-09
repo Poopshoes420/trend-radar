@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Divorced \u2705",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rp2a0a/divorced/"
+  },
+  {
     "topic": "I hope she does it",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rodiib/the_chances_of_being_peekabooed_by_the_sphere_are/"
-  },
-  {
-    "topic": "stop it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1roeikv/stop_it/"
   },
   {
     "topic": "This guy could've become a great youtuber If he wasn't...you know",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roj56t/yt_altered_my_older_videos_creating_a_smudged/"
   },
   {
-    "topic": "YouTube\u2019s \u201cmade for kids\u201d feature is wack",
+    "topic": "Creepiest Youtube Channel I Found on the Recommendation Page",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1roodi1/youtubes_made_for_kids_feature_is_wack/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rp1b5b/creepiest_youtube_channel_i_found_on_the/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1474, Part 1 (Thread #1621)",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1row22q/us_military_tested_device_that_may_be_tied_to/"
   },
   {
-    "topic": "Sharp drop in Chinese military aircraft near Taiwan raises questions",
+    "topic": "France to deploy almost dozen warships, mulls Hormuz mission, Macron says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1royqvu/sharp_drop_in_chinese_military_aircraft_near/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rp1xiv/france_to_deploy_almost_dozen_warships_mulls/"
   },
   {
-    "topic": "Iran reports over 1,200 deaths from US-Israeli airstrikes, claims majority were civilians",
+    "topic": "Five Iranian women's soccer players to seek asylum in Australia after leaving team's handlers, multiple sources say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roxckv/iran_reports_over_1200_deaths_from_usisraeli/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rp0sa3/five_iranian_womens_soccer_players_to_seek_asylum/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "EA Lays Off Staff Across All Battlefield Studios Following Record-Breaking Battlefield 6 Launch",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rp43aa/ea_lays_off_staff_across_all_battlefield_studios/"
+  },
+  {
     "topic": "Amid shortages Amazon has raised the price of Pokemon Pokopia to $80.",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rp0uh4/you_can_play_big_walk_before_launch_but_only_if/"
   },
   {
-    "topic": "Too Late for support!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rof5ty/too_late_for_support/"
-  },
-  {
     "topic": "HIEUTHUHAI - Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i (prod. by Kewtiie) l Official Music Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 162,991 views \u2022 ~158m old",
+    "why": "Trending on YouTube \u2022 291,859 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8sVtL0o-v7U"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,723 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 80,628 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z73ZROKIF5Q"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 11,496 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 17,001 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5oMktVm8vPM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=biOhN8x9Z0c"
   },
   {
@@ -216,15 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7rIZGGXQo0"
-  },
-  {
-    "topic": "Robert De Niro Joins The Best People With Nicolle Wallace",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5o0mA71399E"
   }
 ]
