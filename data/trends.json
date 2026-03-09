@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1roeikv/stop_it/"
   },
   {
-    "topic": "[OC] hybrid",
+    "topic": "[OC] My husband made me a birthday cake. He wanted to use as many of the cake letters as possible...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1roa9s8/oc_hybrid/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rox190/oc_my_husband_made_me_a_birthday_cake_he_wanted/"
   },
   {
     "topic": "This guy could've become a great youtuber If he wasn't...you know",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1roo4t2/dollar_surges_as_middle_east_war_sends_oil_above/"
   },
   {
+    "topic": "U.S. military tested device that may be tied to Havana Syndrome on rats, sheep, confidential sources say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1row22q/us_military_tested_device_that_may_be_tied_to/"
+  },
+  {
     "topic": "Bahrain's major oil refinery also reportedly struck by Iranian drone attack",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rorjnc/bahrains_major_oil_refinery_also_reportedly/"
-  },
-  {
-    "topic": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ron1b5/on_us_strikes_against_iran_pete_hegseth_says_this/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rof5ty/too_late_for_support/"
   },
   {
-    "topic": "Slay the Spire 2 reached 574,638 concurrent players, making it the 20th highest all-time peak on Steam.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro9n3w/slay_the_spire_2_reached_574638_concurrent/"
-  },
-  {
     "topic": "Insider claims Project Helix will be \"pretty expensive\" and is being made for a \"very niche audience\"",
     "sources": [
       "reddit"
@@ -180,35 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1row5xh/insider_claims_project_helix_will_be_pretty/"
   },
   {
+    "topic": "Slay the Spire 2 reached 574,638 concurrent players, making it the 20th highest all-time peak on Steam.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ro9n3w/slay_the_spire_2_reached_574638_concurrent/"
+  },
+  {
     "topic": "Gmod Prop Hunt - Revenge of the POOBAH! (Garry's Mod Funny Moments)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 265,265 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 297,662 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j0sbWynEePo"
-  },
-  {
-    "topic": "OpTic TEXAS vs CAROLINA ROYAL RAVENS!! SCUMP WATCH PARTY - CDL MAJOR 2 QUALIFIERS WEEK 4",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 283,352 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uMz3TYO21So"
-  },
-  {
-    "topic": "The Final Wheel of MUT Season! Ep. #48",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 204,249 views \u2022 ~627m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Gs4tS30nYVk"
   },
   {
     "topic": "Colombia vs. Cuba",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7rIZGGXQo0"
+  },
+  {
+    "topic": "Robert De Niro Joins The Best People With Nicolle Wallace",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5o0mA71399E"
   }
 ]
