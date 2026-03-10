@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Cats in Australia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Cats in Australia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
   },
   {
     "topic": "Hips don't die.",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "U.S. Consulate in downtown Toronto hit by gunfire",
+    "topic": "Iran begins laying mines in Strait of Hormuz, sources say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpukne/us_consulate_in_downtown_toronto_hit_by_gunfire/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq7fae/iran_begins_laying_mines_in_strait_of_hormuz/"
   },
   {
     "topic": "US officials ask 'What does Putin have on Trump?' over downplayed Russian intel to Iran",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 254,959 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 272,407 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ntfjZGgm04"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,909 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 173,326 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,854 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 67,400 views \u2022 ~256m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XlJkz8E-V5I"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,480 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 62,112 views \u2022 ~255m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b12Je52gfVw"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,107 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 57,458 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IQL1AQ-j2pc"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_3rvTOG16NU"
   },
   {
     "topic": "Denver Nuggets at Oklahoma City Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K5FwbGoUc00"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m9Eek4CedR4"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y1wBVu4_80c"
   },
   {
@@ -264,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~53m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eCMCX-3cL8U"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~701m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
   }
 ]
