@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Tally-ho",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpcgzw/tallyho/"
-  },
-  {
     "topic": "bs artist",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpmw61/bs_artist/"
   },
   {
-    "topic": "Oh my...",
+    "topic": "Tally-ho",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpkfmm/oh_my/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpcgzw/tallyho/"
+  },
+  {
+    "topic": "The secret ingredient is",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpmbbb/the_secret_ingredient_is/"
   },
   {
     "topic": "No amount of context can save this",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 873,060 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 909,013 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LX9kXRRJlPw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 267,834 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 297,018 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZxetG1ixtWY"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 338,818 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 370,021 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_GETUovoU6I"
-  },
-  {
-    "topic": "Foltyn Gave Me ADMIN COMMANDS in His Game!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 252,175 views \u2022 ~452m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZE6KmHeoabY"
   },
   {
     "topic": "LITERAL WALKING PERFECTION | Baby Steps - Part 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 282,965 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 299,433 views \u2022 ~590m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WOX-YbMB6y8"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YGZeEQAsgo0"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q7P7YAtuVSs"
   },
   {
@@ -240,7 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-DgfvThLPt4"
+  },
+  {
+    "topic": "Katy Tur Reports",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NIN2W9aTLUs"
   }
 ]
