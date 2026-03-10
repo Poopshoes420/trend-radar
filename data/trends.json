@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Collin did it Firth.",
+    "topic": "Hips don't die.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rptso3/collin_did_it_firth/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,13 +18,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Hips don't die.",
+    "topic": "Collin did it Firth.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rptso3/collin_did_it_firth/"
+  },
+  {
+    "topic": "Cats in Australia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
   },
   {
     "topic": "guy in black having the time of his life",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpp2b5/guy_in_black_having_the_time_of_his_life/"
-  },
-  {
-    "topic": "28 years ago, I made a chocolate Mr. Hankey. It\u2019s been in my parents\u2019 freezer ever since.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpi8im/28_years_ago_i_made_a_chocolate_mr_hankey_its/"
   },
   {
     "topic": "youtube is thinking of bringing a 90 seconds non skipable add",
@@ -72,31 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpd8tr/no_amount_of_context_can_save_this/"
   },
   {
-    "topic": "These type of comments disgust me",
+    "topic": "People holding tiny mics in hand... Why?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rp55tc/these_type_of_comments_disgust_me/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxhh0/people_holding_tiny_mics_in_hand_why/"
   },
   {
-    "topic": "Shorts are ruining the platform",
+    "topic": "Youtube Studio Down?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpkjud/shorts_are_ruining_the_platform/"
-  },
-  {
-    "topic": "U.S. Consulate in downtown Toronto hit by gunfire",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpukne/us_consulate_in_downtown_toronto_hit_by_gunfire/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpzmi6/youtube_studio_down/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1475, Part 1 (Thread #1622)",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Russia is the only winner of Middle East war, EU's Costa says",
+    "topic": "U.S. Consulate in downtown Toronto hit by gunfire",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpsmby/russia_is_the_only_winner_of_middle_east_war_eus/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpukne/us_consulate_in_downtown_toronto_hit_by_gunfire/"
   },
   {
     "topic": "US Chips Found in Russia\u2019s New \u201cIzdeliye-30\u201d Cruise Missile Used in Strike on Kharkiv That Killed 10, Including Two Children",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpuage/us_chips_found_in_russias_new_izdeliye30_cruise/"
+  },
+  {
+    "topic": "Russia is the only winner of Middle East war, EU's Costa says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpsmby/russia_is_the_only_winner_of_middle_east_war_eus/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "A Major Story Expansion for 'Resident Evil Requiem' and an Additional 'Mini Game' Are in Development, Director Confirms",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rpusxo/a_major_story_expansion_for_resident_evil_requiem/"
-  },
-  {
     "topic": "Sword Art Online: Echoes of Aincrad would take about 10 years to develop if the devs tried depicting all 100 floors of the titular world, according to series producer",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rpwvpu/epic_games_raises_the_price_of_vbucks_effective/"
   },
   {
+    "topic": "A Major Story Expansion for 'Resident Evil Requiem' and an Additional 'Mini Game' Are in Development, Director Confirms",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rpusxo/a_major_story_expansion_for_resident_evil_requiem/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | APE SEX LEGENDS w/ CLOAKZY & DRAC | #ShartInMyMouthFrom3MeterAltitude #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 705,047 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 718,753 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MzdUPpB8Q6Q"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_3rvTOG16NU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m9Eek4CedR4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y1wBVu4_80c"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aD5jZmnCn0I"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UaAImpFymjo"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~440m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f6bO4nkdMwI"
   },
   {
@@ -256,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Tmy-EPUs04"
-  },
-  {
-    "topic": "Improvisation & Personal Inspiration",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Tf077T56M7s"
   }
 ]
