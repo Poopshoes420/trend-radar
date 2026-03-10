@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpi8im/28_years_ago_i_made_a_chocolate_mr_hankey_its/"
   },
   {
-    "topic": "bs artist",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpmw61/bs_artist/"
-  },
-  {
     "topic": "Professional duck hunter",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rppzm5/professional_duck_hunter/"
+  },
+  {
+    "topic": "bs artist",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpmw61/bs_artist/"
   },
   {
     "topic": "No amount of context can save this",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpkjud/shorts_are_ruining_the_platform/"
   },
   {
+    "topic": "youtube is thinking of bringing a 90 seconds non skipable add",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpsh7o/youtube_is_thinking_of_bringing_a_90_seconds_non/"
+  },
+  {
     "topic": "Insane YouTube comment",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpi7dt/insane_youtube_comment/"
-  },
-  {
-    "topic": "check your subscription list for channels you didn't subscribe to.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rp9wta/check_your_subscription_list_for_channels_you/"
   },
   {
     "topic": "Trump cancels sanctions against countries buying Russian oil",
@@ -184,47 +184,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 674,280 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 683,335 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MzdUPpB8Q6Q"
   },
   {
-    "topic": "Your TERRIBLE Clips...",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 503,159 views \u2022 ~701m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_GETUovoU6I"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_3rvTOG16NU"
   },
   {
-    "topic": "The Five",
+    "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=478cXFufTBo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
   },
   {
-    "topic": "CNN Global Report: War With Iran",
+    "topic": "SoCon Tournament: Furman vs. East Tennessee State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=V3jFF8cyjqw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3H99k2vby-k"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dQd56vbs0"
   },
   {
-    "topic": "The Pat McAfee Show",
+    "topic": "The Equalizer 3 - The Final Chapter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~376m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=q7P7YAtuVSs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=f6bO4nkdMwI"
+  },
+  {
+    "topic": "Big East Tournament: Villanova vs. UConn",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5Tmy-EPUs04"
+  },
+  {
+    "topic": "The Art of Micro-Cheating",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Hj0mmKFXOIA"
   }
 ]
