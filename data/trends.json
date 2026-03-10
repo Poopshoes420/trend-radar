@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpcgzw/tallyho/"
   },
   {
+    "topic": "bs artist",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpmw61/bs_artist/"
+  },
+  {
     "topic": "Oh my...",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpkfmm/oh_my/"
   },
   {
-    "topic": "Divorced \u2705",
+    "topic": "No amount of context can save this",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rp2a0a/divorced/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpd8tr/no_amount_of_context_can_save_this/"
   },
   {
     "topic": "These type of comments disgust me",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rp55tc/these_type_of_comments_disgust_me/"
-  },
-  {
-    "topic": "No amount of context can save this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpd8tr/no_amount_of_context_can_save_this/"
   },
   {
     "topic": "Shorts are ruining the platform",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran's IRGC Responds To Trump, Says It Will Be The One Who Will 'Determine The End Of War'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpijdb/irans_irgc_responds_to_trump_says_it_will_be_the/"
+  },
+  {
     "topic": "Iran signals Hormuz safe passage to countries expelling U.S. and Israeli diplomats",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpf7l7/iran_signals_hormuz_safe_passage_to_countries/"
-  },
-  {
-    "topic": "Trump tells CBS that Iran 'war is very complete'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpa9u1/trump_tells_cbs_that_iran_war_is_very_complete/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 795,296 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 873,060 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LX9kXRRJlPw"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 201,425 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 267,834 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZxetG1ixtWY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 272,765 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 338,818 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_GETUovoU6I"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,546 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 252,175 views \u2022 ~452m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZE6KmHeoabY"
   },
   {
@@ -216,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 252,104 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 282,965 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WOX-YbMB6y8"
   },
   {
-    "topic": "America Reports",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xgdbwFV69FE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YGZeEQAsgo0"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "The Pat McAfee Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NvK42jGorU4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=q7P7YAtuVSs"
   },
   {
-    "topic": "NFL Free Agency Countdown",
+    "topic": "The Arena With Kasie Hunt",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BXbyPs3El2k"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-DgfvThLPt4"
   }
 ]
