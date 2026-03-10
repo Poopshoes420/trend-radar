@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpmw61/bs_artist/"
   },
   {
-    "topic": "Tally-ho",
+    "topic": "Collin did it Firth.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpcgzw/tallyho/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rptso3/collin_did_it_firth/"
   },
   {
     "topic": "youtube is thinking of bringing a 90 seconds non skipable add",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpsh7o/youtube_is_thinking_of_bringing_a_90_seconds_non/"
+  },
+  {
+    "topic": "why the quality is going down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
   },
   {
     "topic": "No amount of context can save this",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpkjud/shorts_are_ruining_the_platform/"
-  },
-  {
-    "topic": "Insane YouTube comment",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpi7dt/insane_youtube_comment/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1475, Part 1 (Thread #1622)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 686,224 views \u2022 ~312m old",
+    "why": "Trending on YouTube \u2022 690,015 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MzdUPpB8Q6Q"
   },
   {
@@ -192,39 +192,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_3rvTOG16NU"
+  },
+  {
+    "topic": "WCC Tournament: Oregon State vs. Gonzaga",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~54m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m9Eek4CedR4"
+  },
+  {
+    "topic": "The Rachel Maddow Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
   },
   {
-    "topic": "SoCon Tournament: Furman vs. East Tennessee State",
+    "topic": "Gossip Boy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3H99k2vby-k"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=s-dQd56vbs0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aD5jZmnCn0I"
   },
   {
     "topic": "The Equalizer 3 - The Final Chapter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f6bO4nkdMwI"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5Tmy-EPUs04"
   },
   {
@@ -240,7 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hj0mmKFXOIA"
+  },
+  {
+    "topic": "Venezuela vs. Nicaragua",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2vYDoNtg-cQ"
+  },
+  {
+    "topic": "Sun Belt Tournament: Georgia Southern vs. Troy",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xwk2nfSyRJ0"
   }
 ]
