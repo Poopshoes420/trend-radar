@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Hips don't die.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
-  },
-  {
     "topic": "Cats in Australia",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
+  },
+  {
+    "topic": "Hips don't die.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
   },
   {
     "topic": "Collin did it Firth.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxhh0/people_holding_tiny_mics_in_hand_why/"
   },
   {
-    "topic": "Youtube studio right now \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "topic": "I was scrolling and got this suggested on youtube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rq0lg5/youtube_studio_right_now/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxzy4/i_was_scrolling_and_got_this_suggested_on_youtube/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1475, Part 1 (Thread #1622)",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rpwvpu/epic_games_raises_the_price_of_vbucks_effective/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | APE SEX LEGENDS w/ CLOAKZY & DRAC | #ShartInMyMouthFrom3MeterAltitude #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 724,750 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MzdUPpB8Q6Q"
-  },
-  {
     "topic": "Minecraft LIVE Official Trailer \u2013 March 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,172 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 159,273 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ntfjZGgm04"
+  },
+  {
+    "topic": "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 72,993 views \u2022 ~267m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_3rvTOG16NU"
+  },
+  {
+    "topic": "Denver Nuggets at Oklahoma City Thunder",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=K5FwbGoUc00"
   },
   {
     "topic": "WCC Tournament: Oregon State vs. Gonzaga",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m9Eek4CedR4"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rK8XgoNQdoQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~434m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y1wBVu4_80c"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BZvdRlD_uDY"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aD5jZmnCn0I"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~352m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UaAImpFymjo"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VMXl-01Sf2E"
-  },
-  {
-    "topic": "The Equalizer 3 - The Final Chapter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=f6bO4nkdMwI"
   }
 ]
