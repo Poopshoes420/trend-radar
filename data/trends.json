@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqdin0/official_cbs_youtube_channel_gets_80_views_per/"
   },
   {
-    "topic": "YouTube now generates more ad revenue than Disney, NBC, Paramount, and WBD \u2014 combined",
+    "topic": "Then just... Don't show it to me?!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqpgzh/youtube_now_generates_more_ad_revenue_than_disney/"
-  },
-  {
-    "topic": "Canada will \u2018never participate\u2019 in Iran offensive, Mark Carney says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqyxwr/canada_will_never_participate_in_iran_offensive/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqn45s/then_just_dont_show_it_to_me/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1476, Part 1 (Thread #1623)",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rr2quf/zelenskyy_to_trump_put_more_pressure_on_putin_not/"
+  },
+  {
+    "topic": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 499,227 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 718,049 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TaaDkbG3I7g"
   },
   {
@@ -192,63 +192,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,464 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 245,647 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cKoZ91JNe_M"
   },
   {
-    "topic": "YENA(\ucd5c\uc608\ub098) - '\uce90\uce58 \uce90\uce58' M/V",
+    "topic": "I Trapped 300 Minecraft Players in an Ant Farm",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 587,756 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ItSKahBISg0"
+    "why": "Trending on YouTube \u2022 107,703 views \u2022 ~223m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=F173aKb5-BM"
   },
   {
     "topic": "AVENGERS DOOMSDAY TEASER Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,646 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 101,230 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2-COHpS7AU"
-  },
-  {
-    "topic": "Hollywood Undead - 1x1 (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 78,518 views \u2022 ~359m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aZV8D9ohIVo"
   },
   {
     "topic": "Obsession | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,905 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 90,559 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
   },
   {
-    "topic": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
+    "topic": "Hollywood Undead - 1x1 (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,730 views \u2022 ~359m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
+    "why": "Trending on YouTube \u2022 88,122 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aZV8D9ohIVo"
   },
   {
     "topic": "Nettspend (Feat. NBA Youngboy) - masked up (official video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,512 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 40,154 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GdW9XVXCIik"
+  },
+  {
+    "topic": "Lil Baby - Mrs. Trendsetter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,922 views \u2022 ~162m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rNlrgJWHQYk"
+  },
+  {
+    "topic": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 72,291 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
   },
   {
     "topic": "Kacey Musgraves - Dry Spell (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,809 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 49,418 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NlohfwTunwU"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,047 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 47,384 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jP2nDyQWBOU"
   }
 ]
