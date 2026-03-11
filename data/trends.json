@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Validation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrzsh/validation/"
-  },
-  {
     "topic": "You sure she's Italian?",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rquxw2/you_sure_shes_italian/"
   },
   {
-    "topic": "I got a tax return! Annnnd it\u2019s gone",
+    "topic": "Validation",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqyttr/i_got_a_tax_return_annnnd_its_gone/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrzsh/validation/"
+  },
+  {
+    "topic": "In 2008 I was diagnosed with brain cancer and a condition that made me urinate 11 gallons a day. This was my Halloween costume the year I finished treatment.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rql4ov/in_2008_i_was_diagnosed_with_brain_cancer_and_a/"
   },
   {
     "topic": "Everyone take a guess on the actual view count of this easter egg video \ud83e\udd27",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Zelenskyy: Ukraine now has cards and everyone understands it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqlwh2/zelenskyy_ukraine_now_has_cards_and_everyone/"
-  },
-  {
     "topic": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
     "sources": [
       "reddit"
@@ -126,13 +117,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/"
   },
   {
-    "topic": "Kremlin says Britain was involved in Ukraine's missile strike on Russia",
+    "topic": "Zelenskyy: Ukraine now has cards and everyone understands it",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqs8f2/kremlin_says_britain_was_involved_in_ukraines/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqlwh2/zelenskyy_ukraine_now_has_cards_and_everyone/"
+  },
+  {
+    "topic": "Canada will \u2018never participate\u2019 in Iran offensive, Mark Carney says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqyxwr/canada_will_never_participate_in_iran_offensive/"
+  },
+  {
+    "topic": "Katy Perry's reaction to a fan having to sell their ticket due to the rising cost of living",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rqthk7/katy_perrys_reaction_to_a_fan_having_to_sell/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "My son turned 6 last weekend and is obsessed with Pok\u00e9mon, so I tried to make something for him",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rqtnwr/my_son_turned_6_last_weekend_and_is_obsessed_with/"
-  },
-  {
     "topic": "This quote is gold in so many ways",
     "sources": [
       "reddit"
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rqyzt3/this_quote_is_gold_in_so_many_ways/"
   },
   {
-    "topic": "Got Opus Magnum for my birthday. I can watch these mechanisms ALL DAY.",
+    "topic": "My son turned 6 last weekend and is obsessed with Pok\u00e9mon, so I tried to make something for him",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rqgp2k/got_opus_magnum_for_my_birthday_i_can_watch_these/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rqtnwr/my_son_turned_6_last_weekend_and_is_obsessed_with/"
   },
   {
     "topic": "\ud83d\udd34LIVE | Liars Bar w/ Cloakzy & Drac | TESTICULAR TORSION TUESDAY | #ShartMania #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 715,024 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 720,487 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1rO3me7a51U"
   },
   {
@@ -192,15 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 383,382 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 471,288 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItSKahBISg0"
+  },
+  {
+    "topic": "AVENGERS DOOMSDAY TEASER Breakdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 27,401 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=H2-COHpS7AU"
+  },
+  {
+    "topic": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,372 views \u2022 ~182m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
+  },
+  {
+    "topic": "Kacey Musgraves - Dry Spell (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,566 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NlohfwTunwU"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aqIOHLXjTrU"
   }
 ]
