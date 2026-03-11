@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqa5ur/it_really_ties_the_cubicle_together_man/"
   },
   {
+    "topic": "He deserves an Oscar",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqogfk/he_deserves_an_oscar/"
+  },
+  {
     "topic": "Mark Zuckerberg getting booed while he acknowledges it in real-time",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqbfw2/mark_zuckerberg_getting_booed_while_he/"
-  },
-  {
-    "topic": "Cats in Australia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
   },
   {
     "topic": "Official CBS youtube channel gets 80 views per video",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
   },
   {
+    "topic": "Why is YouTube so unfair toward content creators that generate their money and then turn around and let this slide?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqmott/why_is_youtube_so_unfair_toward_content_creators/"
+  },
+  {
     "topic": "Everyone take a guess on the actual view count of this easter egg video \ud83e\udd27",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rq6ga3/i_do_not_need_more_ads_on_tv_glory_to_smarttube/"
-  },
-  {
-    "topic": "I was scrolling and got this suggested on youtube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxzy4/i_was_scrolling_and_got_this_suggested_on_youtube/"
   },
   {
     "topic": "Zelenskyy: Ukraine now has cards and everyone understands it",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rq1rup/ive_been_making_a_claymation_horrorsim_from_my/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | Liars Bar w/ Cloakzy & Drac | TESTICULAR TORSION TUESDAY | #ShartMania #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 677,555 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1rO3me7a51U"
+  },
+  {
     "topic": "Diljit Dosanjh : Dealer (Official Music Video) Virk Andaaz : Da Future",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 277,315 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 340,352 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YwtvQ23_-34"
-  },
-  {
-    "topic": "DO NOT Play This Golf Game with Your Friends",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 496,532 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
   },
   {
     "topic": "I'M BEING WATCHED..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 337,690 views \u2022 ~583m old",
+    "why": "Trending on YouTube \u2022 361,937 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IL1au4nrqD0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,152 views \u2022 ~657m old",
+    "why": "Trending on YouTube \u2022 224,713 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YBad_9QJa6o"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,645 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 40,864 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ce6_Btq85aU"
   },
   {
@@ -224,7 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aqIOHLXjTrU"
   }
 ]
