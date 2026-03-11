@@ -1,14 +1,5 @@
 [
   {
-    "topic": "[OC] meow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrb62/oc_meow/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "[OC] meow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrb62/oc_meow/"
   },
   {
     "topic": "You sure she's Italian?",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrzsh/validation/"
   },
   {
-    "topic": "In 2008 I was diagnosed with brain cancer and a condition that made me urinate 11 gallons a day. This was my Halloween costume the year I finished treatment.",
+    "topic": "Phew. Thank God they Ducked!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rql4ov/in_2008_i_was_diagnosed_with_brain_cancer_and_a/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rr0rru/phew_thank_god_they_ducked/"
   },
   {
     "topic": "Everyone take a guess on the actual view count of this easter egg video \ud83e\udd27",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rr0wpf/britain_is_ejecting_hereditary_nobles_from/"
+  },
+  {
     "topic": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/"
-  },
-  {
-    "topic": "Iran says oil will reach $200 a barrel, warns of 'continuous strikes'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rquizv/iran_says_oil_will_reach_200_a_barrel_warns_of/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,19 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rqtnwr/my_son_turned_6_last_weekend_and_is_obsessed_with/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | Liars Bar w/ Cloakzy & Drac | TESTICULAR TORSION TUESDAY | #ShartMania #BUNGULATE",
+    "topic": "Multiple Lawsuits Incoming",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 733,731 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1rO3me7a51U"
+    "why": "Trending on YouTube \u2022 144,169 views \u2022 ~116m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cKoZ91JNe_M"
   },
   {
     "topic": "YENA(\ucd5c\uc608\ub098) - '\uce90\uce58 \uce90\uce58' M/V",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 557,391 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 572,850 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItSKahBISg0"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,613 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 75,568 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2-COHpS7AU"
-  },
-  {
-    "topic": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 55,263 views \u2022 ~290m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
   },
   {
     "topic": "Hollywood Undead - 1x1 (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,781 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 66,514 views \u2022 ~327m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aZV8D9ohIVo"
+  },
+  {
+    "topic": "My Singing Monsters - Spell Checkers (Official Cloverspell 2026 Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 60,761 views \u2022 ~327m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
   },
   {
     "topic": "Obsession | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,408 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 53,146 views \u2022 ~327m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
   },
   {
@@ -232,15 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,486 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 33,750 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NlohfwTunwU"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "HOKUM - Official Trailer - In Theaters May 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aqIOHLXjTrU"
+    "why": "Trending on YouTube \u2022 33,243 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jP2nDyQWBOU"
   }
 ]
