@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqxfyi/my_gosh_i_am_so_tired_of_these_god_forsaken/"
   },
   {
-    "topic": "Official CBS youtube channel gets 80 views per video",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqdin0/official_cbs_youtube_channel_gets_80_views_per/"
-  },
-  {
     "topic": "Then just... Don't show it to me?!",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqn45s/then_just_dont_show_it_to_me/"
+  },
+  {
+    "topic": "YouTube now generates more ad revenue than Disney, NBC, Paramount, and WBD \u2014 combined",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqpgzh/youtube_now_generates_more_ad_revenue_than_disney/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1476, Part 1 (Thread #1623)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 718,049 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 804,008 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TaaDkbG3I7g"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,647 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 270,719 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cKoZ91JNe_M"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,703 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 117,524 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F173aKb5-BM"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 101,230 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 107,151 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2-COHpS7AU"
+  },
+  {
+    "topic": "Nettspend (Feat. NBA Youngboy) - masked up (official video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 53,685 views \u2022 ~226m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GdW9XVXCIik"
   },
   {
     "topic": "Obsession | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,559 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 98,716 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,122 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 92,354 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aZV8D9ohIVo"
-  },
-  {
-    "topic": "Nettspend (Feat. NBA Youngboy) - masked up (official video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 40,154 views \u2022 ~208m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GdW9XVXCIik"
   },
   {
     "topic": "Lil Baby - Mrs. Trendsetter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,922 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 33,432 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rNlrgJWHQYk"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,291 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 75,266 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,418 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 52,756 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NlohfwTunwU"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,384 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 50,847 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jP2nDyQWBOU"
   }
 ]
