@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqn3li/everyone_take_a_guess_on_the_actual_view_count_of/"
   },
   {
-    "topic": "why the quality is going down",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
-  },
-  {
     "topic": "Why is YouTube so unfair toward content creators that generate their money and then turn around and let this slide?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqmott/why_is_youtube_so_unfair_toward_content_creators/"
+  },
+  {
+    "topic": "why the quality is going down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
   },
   {
     "topic": "I do not need more ads on TV. Glory to SmartTube (TV version of ReVanced)!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 682,881 views \u2022 ~168m old",
+    "why": "Trending on YouTube \u2022 686,066 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1rO3me7a51U"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 411,187 views \u2022 ~437m old",
+    "why": "Trending on YouTube \u2022 455,742 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YwtvQ23_-34"
-  },
-  {
-    "topic": "I'M BEING WATCHED..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 386,607 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IL1au4nrqD0"
   },
   {
     "topic": "1900Rugrat - Plane Jane [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,334 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 45,011 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ce6_Btq85aU"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aqIOHLXjTrU"
   }
 ]
