@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "In 2008 I was diagnosed with brain cancer and a condition that made me urinate 11 gallons a day. This was my Halloween costume the year I finished treatment.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rql4ov/in_2008_i_was_diagnosed_with_brain_cancer_and_a/"
+  },
+  {
     "topic": "Cats in Australia",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqbfw2/mark_zuckerberg_getting_booed_while_he/"
   },
   {
-    "topic": "Hips don't die.",
+    "topic": "Official CBS youtube channel gets 80 views per video",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqdin0/official_cbs_youtube_channel_gets_80_views_per/"
   },
   {
     "topic": "why the quality is going down",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
-  },
-  {
-    "topic": "Official CBS youtube channel gets 80 views per video",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqdin0/official_cbs_youtube_channel_gets_80_views_per/"
   },
   {
     "topic": "I do not need more ads on TV. Glory to SmartTube (TV version of ReVanced)!",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz",
+    "topic": "Iran Makes Veiled Threat to Trump: 'Be Careful Not To Get Eliminated'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq5xws/report_us_detects_signs_iran_preparing_to_lay/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqecop/iran_makes_veiled_threat_to_trump_be_careful_not/"
   },
   {
     "topic": "Iran begins laying mines in Strait of Hormuz, sources say",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq7fae/iran_begins_laying_mines_in_strait_of_hormuz/"
   },
   {
-    "topic": "Iran Makes Veiled Threat to Trump: 'Be Careful Not To Get Eliminated'",
+    "topic": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqecop/iran_makes_veiled_threat_to_trump_be_careful_not/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq5xws/report_us_detects_signs_iran_preparing_to_lay/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 500,236 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 505,850 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_wr5iUAZjec"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 690,392 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 738,552 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m0K2HV50fIM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 375,582 views \u2022 ~486m old",
+    "why": "Trending on YouTube \u2022 414,030 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 402,246 views \u2022 ~574m old",
+    "why": "Trending on YouTube \u2022 425,571 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6WuroBHg7So"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 238,461 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 269,691 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IL1au4nrqD0"
+  },
+  {
+    "topic": "Diljit Dosanjh : Dealer (Official Music Video) Virk Andaaz : Da Future",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 83,942 views \u2022 ~180m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YwtvQ23_-34"
   },
   {
     "topic": "She Haunts My House When I Sleep\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,001 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 176,987 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YBad_9QJa6o"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,248 views \u2022 ~656m old",
+    "why": "Trending on YouTube \u2022 70,212 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dfDoli1PIss"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,870 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 29,567 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ce6_Btq85aU"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
   }
 ]
