@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
   },
   {
+    "topic": "Mark Zuckerberg getting booed while he acknowledges it in real-time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqbfw2/mark_zuckerberg_getting_booed_while_he/"
+  },
+  {
     "topic": "Hips don't die.",
     "sources": [
       "reddit"
@@ -34,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
-  },
-  {
-    "topic": "Collin did it Firth.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rptso3/collin_did_it_firth/"
-  },
-  {
-    "topic": "why the quality is going down",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
   },
   {
     "topic": "How are things like this allowed?",
@@ -63,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqaa1s/how_are_things_like_this_allowed/"
   },
   {
-    "topic": "I was scrolling and got this suggested on youtube",
+    "topic": "why the quality is going down",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxzy4/i_was_scrolling_and_got_this_suggested_on_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
   },
   {
     "topic": "I do not need more ads on TV. Glory to SmartTube (TV version of ReVanced)!",
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rq6ga3/i_do_not_need_more_ads_on_tv_glory_to_smarttube/"
   },
   {
-    "topic": "People holding tiny mics in hand... Why?",
+    "topic": "I was scrolling and got this suggested on youtube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxhh0/people_holding_tiny_mics_in_hand_why/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxzy4/i_was_scrolling_and_got_this_suggested_on_youtube/"
+  },
+  {
+    "topic": "The 'Translate to English' feature of YT translates 'ai slop' in a pretty efficient way I think",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpzyhc/the_translate_to_english_feature_of_yt_translates/"
   },
   {
     "topic": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq8eus/us_navy_tells_shipping_industry_hormuz_escorts/"
   },
   {
-    "topic": "Kathryn Hahn announces she is officially playing Mother Gothel in the live action \u2018TANGLED\u2019 movie.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rq2cot/kathryn_hahn_announces_she_is_officially_playing/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -171,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rq0cls/im_clearing_out_some_junk_and_came_across_this/"
   },
   {
+    "topic": "I've been making a claymation horror/sim from my basement since I got laid off last year. It's called Morbid Mailroom and you're an inmate forced to sort packages in a cursed prison state. I'm nervous but finally ready to show it here!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rq1rup/ive_been_making_a_claymation_horrorsim_from_my/"
+  },
+  {
     "topic": "Epic Games raises the price of V-Bucks, effective March 19th",
     "sources": [
       "reddit"
@@ -180,11 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rpwvpu/epic_games_raises_the_price_of_vbucks_effective/"
   },
   {
+    "topic": "MM2 With YouTubers.. (HILARIOUS)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 474,506 views \u2022 ~208m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_wr5iUAZjec"
+  },
+  {
+    "topic": "Minecraft Trapper VS Elite Bounty Hunters",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 541,325 views \u2022 ~407m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m0K2HV50fIM"
+  },
+  {
+    "topic": "Hermitcraft 11: Episode 13 - Expansion",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 315,959 views \u2022 ~406m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6WuroBHg7So"
+  },
+  {
+    "topic": "DO NOT Play This Golf Game with Your Friends",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 246,504 views \u2022 ~318m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
+  },
+  {
+    "topic": "I'M BEING WATCHED..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 142,172 views \u2022 ~212m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IL1au4nrqD0"
+  },
+  {
     "topic": "Minecraft LIVE Official Trailer \u2013 March 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 358,070 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 410,331 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ntfjZGgm04"
   },
   {
@@ -192,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,644 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 293,940 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bth5JO94ir8"
-  },
-  {
-    "topic": "From: Season 4 Exclusive Trailer (2026) Harold Perrineau, Catalina Sandino Moreno",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 264,904 views \u2022 ~599m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AoBy5YGYhaM"
   },
   {
     "topic": "mgk - goddamn (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,760 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 192,314 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XlJkz8E-V5I"
   },
   {
@@ -216,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,684 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 156,243 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b12Je52gfVw"
   },
   {
@@ -224,15 +256,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,423 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 118,670 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IQL1AQ-j2pc"
+  },
+  {
+    "topic": "GIRLSET \"Tweak (Acapella)\" Visualizer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 51,650 views \u2022 ~489m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dfDoli1PIss"
+  },
+  {
+    "topic": "1900Rugrat - Plane Jane [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,581 views \u2022 ~165m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ce6_Btq85aU"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
   },
   {
     "topic": "Denver Nuggets at Oklahoma City Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~434m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K5FwbGoUc00"
   },
   {
@@ -240,23 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8E5XZUwa7xQ"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KrUedokFeS8"
-  },
-  {
-    "topic": "Squawk Box",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eCMCX-3cL8U"
   }
 ]
