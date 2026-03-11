@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "The Onion keeps on keepin' on",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqj0bw/the_onion_keeps_on_keepin_on/"
+  },
+  {
     "topic": "Cats in Australia",
     "sources": [
       "reddit"
@@ -34,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqbfw2/mark_zuckerberg_getting_booed_while_he/"
-  },
-  {
-    "topic": "Hips don't die.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpvbxw/hips_dont_die/"
-  },
-  {
-    "topic": "How are things like this allowed?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqaa1s/how_are_things_like_this_allowed/"
   },
   {
     "topic": "why the quality is going down",
@@ -90,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpzyhc/the_translate_to_english_feature_of_yt_translates/"
   },
   {
-    "topic": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz",
+    "topic": "Are YouTubers allowed to reupload slightly edited videos over and over again to and able to earn money?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq5xws/report_us_detects_signs_iran_preparing_to_lay/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rq788t/are_youtubers_allowed_to_reupload_slightly_edited/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1475, Part 1 (Thread #1622)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1476, Part 1 (Thread #1623)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rpn0b7/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqjjih/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #7)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq5xws/report_us_detects_signs_iran_preparing_to_lay/"
   },
   {
     "topic": "Iran begins laying mines in Strait of Hormuz, sources say",
@@ -180,67 +180,59 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rpwvpu/epic_games_raises_the_price_of_vbucks_effective/"
   },
   {
-    "topic": "MM2 With YouTubers.. (HILARIOUS)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 474,506 views \u2022 ~208m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_wr5iUAZjec"
-  },
-  {
     "topic": "Minecraft Trapper VS Elite Bounty Hunters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 541,325 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 633,620 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m0K2HV50fIM"
-  },
-  {
-    "topic": "Hermitcraft 11: Episode 13 - Expansion",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 315,959 views \u2022 ~406m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6WuroBHg7So"
   },
   {
     "topic": "DO NOT Play This Golf Game with Your Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 246,504 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 323,789 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
+  },
+  {
+    "topic": "Hermitcraft 11: Episode 13 - Expansion",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 370,631 views \u2022 ~505m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6WuroBHg7So"
   },
   {
     "topic": "I'M BEING WATCHED..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,172 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 200,803 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IL1au4nrqD0"
-  },
-  {
-    "topic": "Minecraft LIVE Official Trailer \u2013 March 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 410,331 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3ntfjZGgm04"
   },
   {
     "topic": "Man on Fire | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 293,940 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 322,180 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bth5JO94ir8"
+  },
+  {
+    "topic": "She Haunts My House When I Sleep\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 131,017 views \u2022 ~384m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YBad_9QJa6o"
   },
   {
     "topic": "mgk - goddamn (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,314 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 222,813 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XlJkz8E-V5I"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,243 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 176,529 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b12Je52gfVw"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 118,670 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 133,643 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IQL1AQ-j2pc"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,650 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 60,919 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dfDoli1PIss"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,581 views \u2022 ~165m old",
+    "why": "Trending on YouTube \u2022 16,919 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ce6_Btq85aU"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
   },
   {
@@ -288,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K5FwbGoUc00"
   },
   {
@@ -296,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8E5XZUwa7xQ"
   }
 ]
