@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqa5ur/it_really_ties_the_cubicle_together_man/"
   },
   {
-    "topic": "Cats in Australia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
-  },
-  {
     "topic": "Mark Zuckerberg getting booed while he acknowledges it in real-time",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqbfw2/mark_zuckerberg_getting_booed_while_he/"
+  },
+  {
+    "topic": "Cats in Australia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rpzu4p/cats_in_australia/"
   },
   {
     "topic": "Official CBS youtube channel gets 80 views per video",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rptowk/why_the_quality_is_going_down/"
   },
   {
+    "topic": "Everyone take a guess on the actual view count of this easter egg video \ud83e\udd27",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqn3li/everyone_take_a_guess_on_the_actual_view_count_of/"
+  },
+  {
     "topic": "I do not need more ads on TV. Glory to SmartTube (TV version of ReVanced)!",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpxzy4/i_was_scrolling_and_got_this_suggested_on_youtube/"
-  },
-  {
-    "topic": "The 'Translate to English' feature of YT translates 'ai slop' in a pretty efficient way I think",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rpzyhc/the_translate_to_english_feature_of_yt_translates/"
   },
   {
     "topic": "Zelenskyy: Ukraine now has cards and everyone understands it",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqecop/iran_makes_veiled_threat_to_trump_be_careful_not/"
   },
   {
-    "topic": "Iran begins laying mines in Strait of Hormuz, sources say",
+    "topic": "Ukraine retakes most Russian-held areas in Dnipropetrovsk Oblast after weeks of counterattacks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rq7fae/iran_begins_laying_mines_in_strait_of_hormuz/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rqe4pl/ukraine_retakes_most_russianheld_areas_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rq1rup/ive_been_making_a_claymation_horrorsim_from_my/"
   },
   {
-    "topic": "MM2 With YouTubers.. (HILARIOUS)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 514,255 views \u2022 ~525m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_wr5iUAZjec"
-  },
-  {
     "topic": "Diljit Dosanjh : Dealer (Official Music Video) Virk Andaaz : Da Future",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 206,601 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 277,315 views \u2022 ~327m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YwtvQ23_-34"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 470,244 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 496,532 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qnuxh0y1Yzg"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,888 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 337,690 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IL1au4nrqD0"
   },
   {
@@ -216,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,872 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 215,152 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YBad_9QJa6o"
-  },
-  {
-    "topic": "Everyone Is Lying to You for Money | Official Trailer UHD",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 73,633 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hEXxAOFqv4U"
   },
   {
     "topic": "1900Rugrat - Plane Jane [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,858 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 38,645 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ce6_Btq85aU"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZU4Z5vgV2Xo"
   }
 ]
