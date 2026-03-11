@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rquxw2/you_sure_shes_italian/"
   },
   {
-    "topic": "Validation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrzsh/validation/"
-  },
-  {
     "topic": "Phew. Thank God they Ducked!",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rr0rru/phew_thank_god_they_ducked/"
+  },
+  {
+    "topic": "Validation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrzsh/validation/"
   },
   {
     "topic": "Everyone take a guess on the actual view count of this easter egg video \ud83e\udd27",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqxfyi/my_gosh_i_am_so_tired_of_these_god_forsaken/"
   },
   {
-    "topic": "Then just... Don't show it to me?!",
+    "topic": "YouTube please lock in for once!!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqn45s/then_just_dont_show_it_to_me/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rqx1je/youtube_please_lock_in_for_once/"
   },
   {
     "topic": "YouTube now generates more ad revenue than Disney, NBC, Paramount, and WBD \u2014 combined",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rr0wpf/britain_is_ejecting_hereditary_nobles_from/"
-  },
-  {
     "topic": "Zelenskyy to Trump: Put more pressure on Putin, \u2018not on me\u2019",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rr2quf/zelenskyy_to_trump_put_more_pressure_on_putin_not/"
+  },
+  {
+    "topic": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rr0wpf/britain_is_ejecting_hereditary_nobles_from/"
   },
   {
     "topic": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 804,008 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 948,779 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TaaDkbG3I7g"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,719 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 315,430 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cKoZ91JNe_M"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,524 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 134,872 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F173aKb5-BM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,151 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 117,313 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2-COHpS7AU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,685 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 73,543 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GdW9XVXCIik"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,716 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 111,683 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,354 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 97,667 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aZV8D9ohIVo"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,432 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 41,225 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rNlrgJWHQYk"
   },
   {
@@ -248,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,266 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 80,815 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eNcTyh0sY_o"
-  },
-  {
-    "topic": "Kacey Musgraves - Dry Spell (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 52,756 views \u2022 ~361m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NlohfwTunwU"
   },
   {
     "topic": "HOKUM - Official Trailer - In Theaters May 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,847 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 64,138 views \u2022 ~397m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jP2nDyQWBOU"
+  },
+  {
+    "topic": "Kacey Musgraves - Dry Spell (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 59,046 views \u2022 ~397m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NlohfwTunwU"
   }
 ]
