@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Husky speaks Italian",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrweuq/husky_speaks_italian/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Thanks, Amazon!",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rrszeo/yt_running_ai_ads_sexualizing_minors/"
   },
   {
-    "topic": "Grandpa has a \u2018side hustle\u2019 in the nursing home",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rra3xf/grandpa_has_a_side_hustle_in_the_nursing_home/"
-  },
-  {
     "topic": "YouTube got rid of the word 'views'",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rruay8/youtube_got_rid_of_the_word_views/"
+  },
+  {
+    "topic": "Grandpa has a \u2018side hustle\u2019 in the nursing home",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rra3xf/grandpa_has_a_side_hustle_in_the_nursing_home/"
   },
   {
     "topic": "Where is the selection for \u201cToo many ads\u201d?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 979,926 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 1,096,211 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,965 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 455,577 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ABol0H2n_rc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 275,234 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 298,747 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m-c_3degE60"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,468 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 313,292 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZZ7tgBj3r3M"
   },
   {
@@ -216,23 +216,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,821 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 217,726 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
   },
   {
-    "topic": "Hannity",
+    "topic": "Ozuna - Una Aventura (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YVGkCe7e2SI"
+    "why": "Trending on YouTube \u2022 143,729 views \u2022 ~406m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AhSEA30GSOw"
+  },
+  {
+    "topic": "beabadoobee - All I Did Was Dream Of You (Official Video) ft. The Mar\u00edas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 41,044 views \u2022 ~166m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qV91x2YT9zI"
+  },
+  {
+    "topic": "Jesse Watters Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dQACM4SIC8c"
   },
   {
     "topic": "Big Ten Tournament: Northwestern vs. Indiana",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=90ruUZY9638"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R0K1hcgKCwE"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~514m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TiHU9zlT3a4"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3egiIoU5XL8"
   },
   {
@@ -264,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TfIFl-x-MMk"
   }
 ]
