@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Husky speaks Italian",
+    "topic": "I wrote my friend how she's enjoying LA and this is her response",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrweuq/husky_speaks_italian/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs1suo/i_wrote_my_friend_how_shes_enjoying_la_and_this/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,13 +18,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I wrote my friend how she's enjoying LA and this is her response",
+    "topic": "Husky speaks Italian",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs1suo/i_wrote_my_friend_how_shes_enjoying_la_and_this/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrweuq/husky_speaks_italian/"
+  },
+  {
+    "topic": "Dude is tired after cleaning the room",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs5wgj/dude_is_tired_after_cleaning_the_room/"
   },
   {
     "topic": "The Dog can Walk!",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs06lz/the_dog_can_walk/"
-  },
-  {
-    "topic": "Are they mating?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs1sj4/are_they_mating/"
   },
   {
     "topic": "Can someone explain to me why every long-form Youtube thumbnail looks like this now?",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rro9yh/spanish_prime_minister_being_an_ally_of_the_us/"
   },
   {
-    "topic": "Nathan Lane: \"The bigger question is, why was there a town hall meeting with Matthew McConaughey and Timoth\u00e9e Chalamet? Who deemed this meeting of the minds necessary?\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rrx46l/nathan_lane_the_bigger_question_is_why_was_there/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/"
   },
   {
+    "topic": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/"
+  },
+  {
     "topic": "Disclosure Day | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,492,492 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 1,723,518 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 700,107 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 793,078 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ABol0H2n_rc"
+  },
+  {
+    "topic": "One of These Cups Has a Spider Under it...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 264,563 views \u2022 ~242m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hGM2OHO1dsU"
   },
   {
     "topic": "Harry Styles - Everybody Wants To Rule The World (Tears For Fears cover) in the Live Lounge",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 378,543 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 398,877 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZZ7tgBj3r3M"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 344,132 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 357,298 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m-c_3degE60"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,541 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 304,208 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2MRMJUTZkbE"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 247,411 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 257,071 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 183,058 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 196,795 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AhSEA30GSOw"
   },
   {
@@ -240,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,979 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 106,531 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qV91x2YT9zI"
   },
   {
-    "topic": "Jesse Watters Primetime",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dQACM4SIC8c"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Zyj8tOBfXqw"
   },
   {
     "topic": "Cleveland Cavaliers at Orlando Magic",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FI3H6Jg3znk"
   },
   {
@@ -264,15 +272,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=90ruUZY9638"
+  },
+  {
+    "topic": "The Situation Room",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=76s07SboXgw"
   },
   {
     "topic": "SEC Tournament: South Carolina vs. Oklahoma",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cU5aD4DKF3A"
   },
   {
@@ -280,23 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tly4FGNuzwc"
-  },
-  {
-    "topic": "The Hunt for Red October",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~644m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TiHU9zlT3a4"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9reejDDyf6U"
   }
 ]
