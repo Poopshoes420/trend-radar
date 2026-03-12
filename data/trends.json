@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Thanks, Amazon!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrx0b7/thanks_amazon/"
-  },
-  {
     "topic": "I wrote my friend how she's enjoying LA and this is her response",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs1suo/i_wrote_my_friend_how_shes_enjoying_la_and_this/"
+  },
+  {
+    "topic": "Thanks, Amazon!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrx0b7/thanks_amazon/"
   },
   {
     "topic": "Are they mating?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,096,211 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 1,186,103 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 455,577 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 530,813 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ABol0H2n_rc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 298,747 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 311,334 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m-c_3degE60"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,292 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 330,323 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZZ7tgBj3r3M"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,726 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 226,321 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,729 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 154,395 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AhSEA30GSOw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,044 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 52,716 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qV91x2YT9zI"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dQACM4SIC8c"
   },
   {
@@ -248,23 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=90ruUZY9638"
   },
   {
-    "topic": "Big 12 Tournament: BYU vs. West Virginia",
+    "topic": "SEC Tournament: South Carolina vs. Oklahoma",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R0K1hcgKCwE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cU5aD4DKF3A"
+  },
+  {
+    "topic": "ACC Tournament: Wake Forest vs. Clemson",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tly4FGNuzwc"
   },
   {
     "topic": "The Hunt for Red October",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TiHU9zlT3a4"
   },
   {
@@ -272,15 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3egiIoU5XL8"
-  },
-  {
-    "topic": "Big 12 Tournament: Oklahoma State vs. TCU",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TfIFl-x-MMk"
   }
 ]
