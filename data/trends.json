@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrx0b7/thanks_amazon/"
   },
   {
-    "topic": "The Dog can Walk!",
+    "topic": "I wrote my friend how she's enjoying LA and this is her response",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs06lz/the_dog_can_walk/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs1suo/i_wrote_my_friend_how_shes_enjoying_la_and_this/"
   },
   {
     "topic": "Are they mating?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rruay8/youtube_got_rid_of_the_word_views/"
   },
   {
-    "topic": "I wonder if they read these",
+    "topic": "Where is the selection for \u201cToo many ads\u201d?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rrbu99/i_wonder_if_they_read_these/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rrvm9b/where_is_the_selection_for_too_many_ads/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1477, Part 1 (Thread #1624)",
@@ -126,13 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rro9yh/spanish_prime_minister_being_an_ally_of_the_us/"
   },
   {
-    "topic": "G7 Refuses to Ease Russia Sanctions Despite Iran Conflict",
+    "topic": "We attacked Iran with no clear plan for regime change, Israeli security sources say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrpnuc/g7_refuses_to_ease_russia_sanctions_despite_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rs0vs9/we_attacked_iran_with_no_clear_plan_for_regime/"
+  },
+  {
+    "topic": "Nathan Lane: \"The bigger question is, why was there a town hall meeting with Matthew McConaughey and Timoth\u00e9e Chalamet? Who deemed this meeting of the minds necessary?\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rrx46l/nathan_lane_the_bigger_question_is_why_was_there/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,52 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/"
   },
   {
-    "topic": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/"
-  },
-  {
     "topic": "Disclosure Day | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 879,687 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 979,926 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
-  },
-  {
-    "topic": "P1Harmony (\ud53c\uc6d0\ud558\ubaa8\ub2c8) - \u2018UNIQUE\u2019 MV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,041,477 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=m18dRRu9-V4"
   },
   {
     "topic": "Malcolm in the Middle: Life's Still Unfair | Official Trailer | Hulu",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 212,459 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 279,965 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ABol0H2n_rc"
-  },
-  {
-    "topic": "Official Launch Trailer | Crimson Desert",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 452,233 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VWIw_f8e9Pg"
   },
   {
     "topic": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,087 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 275,234 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m-c_3degE60"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 259,560 views \u2022 ~514m old",
+    "why": "Trending on YouTube \u2022 284,468 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZZ7tgBj3r3M"
   },
   {
@@ -232,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 189,521 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 202,821 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
-  },
-  {
-    "topic": "Italy vs. Mexico",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7YJac_d8DL4"
   },
   {
     "topic": "Hannity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YVGkCe7e2SI"
   },
   {
@@ -256,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=90ruUZY9638"
   },
   {
@@ -264,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R0K1hcgKCwE"
   },
   {
@@ -272,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TiHU9zlT3a4"
   },
   {
@@ -280,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3egiIoU5XL8"
   },
   {
@@ -288,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TfIFl-x-MMk"
   }
 ]
