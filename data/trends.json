@@ -18,24 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrw7na/whats_this_say/"
   },
   {
-    "topic": "Accidentally searched sminem , result didn't disappoint",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrcqlx/accidentally_searched_sminem_result_didnt/"
-  },
-  {
-    "topic": "The cat I\u2019m currently sitting for needs to take a fourth of a pill daily\u2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrqed5/the_cat_im_currently_sitting_for_needs_to_take_a/"
-  },
-  {
     "topic": "Husky speaks Italian",
     "sources": [
       "reddit"
@@ -45,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrweuq/husky_speaks_italian/"
   },
   {
-    "topic": "Grandpa has a \u2018side hustle\u2019 in the nursing home",
+    "topic": "Thanks, Amazon!",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rra3xf/grandpa_has_a_side_hustle_in_the_nursing_home/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrx0b7/thanks_amazon/"
+  },
+  {
+    "topic": "Accidentally searched sminem , result didn't disappoint",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrcqlx/accidentally_searched_sminem_result_didnt/"
   },
   {
     "topic": "YT running AI ads sexualizing minors",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rrszeo/yt_running_ai_ads_sexualizing_minors/"
+  },
+  {
+    "topic": "Grandpa has a \u2018side hustle\u2019 in the nursing home",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rra3xf/grandpa_has_a_side_hustle_in_the_nursing_home/"
   },
   {
     "topic": "YouTube got rid of the word 'views'",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rrbv44/bit_of_a_catch_22/"
   },
   {
-    "topic": "Spanish Prime Minister: Being an ally of the US does not mean saying \"yes\" to everything",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rro9yh/spanish_prime_minister_being_an_ally_of_the_us/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1477, Part 1 (Thread #1624)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rovoj2/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Spanish Prime Minister: Being an ally of the US does not mean saying \"yes\" to everything",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rro9yh/spanish_prime_minister_being_an_ally_of_the_us/"
   },
   {
     "topic": "Israeli military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/"
   },
   {
+    "topic": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can\u2019t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/"
+  },
+  {
     "topic": "My 72 years old mother in law passed level 20000 in Candy crush. This is what I call dedication.",
     "sources": [
       "reddit"
@@ -171,68 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrr008/my_72_years_old_mother_in_law_passed_level_20000/"
   },
   {
-    "topic": "Official Launch Trailer | Crimson Desert",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/"
-  },
-  {
-    "topic": "Bhooth Bangla -Official Teaser | Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 10 Apr",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 4,884,775 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-  },
-  {
     "topic": "Dhurandhar The Revenge - AARI AARI | Ranveer Singh | Shashwat Sachdev, Bombay Rockers | Aditya Dhar",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,635,829 views \u2022 ~631m old",
+    "why": "Trending on YouTube \u2022 2,903,920 views \u2022 ~682m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dESIGVxSSCE"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | LIARS BAR w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 763,518 views \u2022 ~586m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=V_xXg5qAqXI"
   },
   {
     "topic": "P1Harmony (\ud53c\uc6d0\ud558\ubaa8\ub2c8) - \u2018UNIQUE\u2019 MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 528,153 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 711,074 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m18dRRu9-V4"
   },
   {
-    "topic": "Official Launch Trailer | Crimson Desert",
+    "topic": "\ud83d\udd34LIVE | LIARS BAR w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 381,684 views \u2022 ~493m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VWIw_f8e9Pg"
+    "why": "Trending on YouTube \u2022 769,447 views \u2022 ~637m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=V_xXg5qAqXI"
   },
   {
     "topic": "Disclosure Day | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,223 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 146,622 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SCYT8vb2siQ"
+  },
+  {
+    "topic": "Official Launch Trailer | Crimson Desert",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 414,675 views \u2022 ~545m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VWIw_f8e9Pg"
   },
   {
     "topic": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,482 views \u2022 ~252m old",
+    "why": "Trending on YouTube \u2022 165,503 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m-c_3degE60"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,025 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 113,664 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hzyOsNyDkbM"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,839 views \u2022 ~312m old",
+    "why": "Trending on YouTube \u2022 133,737 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZZ7tgBj3r3M"
   },
   {
@@ -256,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7YJac_d8DL4"
   },
   {
-    "topic": "The Five",
+    "topic": "Hannity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~613m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GguNvOK05fM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YVGkCe7e2SI"
   },
   {
     "topic": "The Hunt for Red October",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TiHU9zlT3a4"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rAolnOKRU7g"
   },
   {
@@ -288,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3egiIoU5XL8"
   },
   {
@@ -296,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kIT2FIrkjuA"
   },
   {
@@ -304,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NN8jI_uP8gU"
   },
   {
@@ -312,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RyaMjT-o4fI"
   }
 ]
