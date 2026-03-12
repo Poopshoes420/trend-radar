@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrcqlx/accidentally_searched_sminem_result_didnt/"
   },
   {
+    "topic": "The cat I\u2019m currently sitting for needs to take a fourth of a pill daily\u2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrqed5/the_cat_im_currently_sitting_for_needs_to_take_a/"
+  },
+  {
     "topic": "Holes are meant to be filled",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rquxw2/you_sure_shes_italian/"
-  },
-  {
-    "topic": "[OC] meow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrb62/oc_meow/"
   },
   {
     "topic": "Grandpa has a \u2018side hustle\u2019 in the nursing home",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrek33/iran_appears_to_have_conducted_a_significant/"
   },
   {
-    "topic": "Trump ditched plans to avoid civilian casualties before Iran strikes: report",
+    "topic": "G7 Refuses to Ease Russia Sanctions Despite Iran Conflict",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrhi96/trump_ditched_plans_to_avoid_civilian_casualties/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrpnuc/g7_refuses_to_ease_russia_sanctions_despite_iran/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,24 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Official Launch Trailer | Crimson Desert",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/"
-  },
-  {
-    "topic": "Global Sales of Pok\u00e9mon Pokopia for Switch 2 surpass 2.2 Million in First Four Days",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrb9eo/global_sales_of_pok\u00e9mon_pokopia_for_switch_2/"
-  },
-  {
     "topic": "My 72 years old mother in law passed level 20000 in Candy crush. This is what I call dedication.",
     "sources": [
       "reddit"
@@ -180,11 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrr008/my_72_years_old_mother_in_law_passed_level_20000/"
   },
   {
+    "topic": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/"
+  },
+  {
+    "topic": "Official Launch Trailer | Crimson Desert",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/"
+  },
+  {
     "topic": "Bhooth Bangla -Official Teaser | Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 10 Apr",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,295,372 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 2,904,587 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,882,594 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 2,123,122 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dESIGVxSSCE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 747,937 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 754,537 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V_xXg5qAqXI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,889 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 376,081 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m18dRRu9-V4"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,807 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 288,207 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VWIw_f8e9Pg"
+  },
+  {
+    "topic": "Harry Styles - Everybody Wants To Rule The World (Tears For Fears cover) in the Live Lounge",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,003 views \u2022 ~187m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZZ7tgBj3r3M"
   },
   {
     "topic": "Italy vs. Mexico",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7YJac_d8DL4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GguNvOK05fM"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TiHU9zlT3a4"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rAolnOKRU7g"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3egiIoU5XL8"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kIT2FIrkjuA"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NN8jI_uP8gU"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KM-65fNw1nk"
   }
 ]
