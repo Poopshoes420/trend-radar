@@ -9,33 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Cat for sale. Still in its original packaging. Mint condition.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rr8weh/cat_for_sale_still_in_its_original_packaging_mint/"
-  },
-  {
-    "topic": "Mixture",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrk0ag/mixture/"
-  },
-  {
-    "topic": "Phew. Thank God they Ducked!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rr0rru/phew_thank_god_they_ducked/"
-  },
-  {
     "topic": "Accidentally searched sminem , result didn't disappoint",
     "sources": [
       "reddit"
@@ -43,6 +16,33 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrcqlx/accidentally_searched_sminem_result_didnt/"
+  },
+  {
+    "topic": "You sure she's Italian?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rquxw2/you_sure_shes_italian/"
+  },
+  {
+    "topic": "[OC] meow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rqrb62/oc_meow/"
+  },
+  {
+    "topic": "Holes are meant to be filled",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rr60xf/holes_are_meant_to_be_filled/"
   },
   {
     "topic": "Grandpa has a \u2018side hustle\u2019 in the nursing home",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrb9eo/global_sales_of_pok\u00e9mon_pokopia_for_switch_2/"
   },
   {
+    "topic": "Official Launch Trailer | Crimson Desert",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/"
+  },
+  {
     "topic": "Iran War Threatens Saudi Arabia\u2019s $38 Billion Video Game Push",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrfmxr/iran_war_threatens_saudi_arabias_38_billion_video/"
   },
   {
-    "topic": "Valve says the Steam Machine targets 30 FPS/1080p for games to get verified on the machine, and input verification is the same as the Steam Deck; Performance is roughly 6 times that of the Deck",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rr1brk/valve_says_the_steam_machine_targets_30_fps1080p/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | LIARS BAR w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 724,289 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 728,920 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V_xXg5qAqXI"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,925 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 183,104 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RnxGpzj9nYI"
+  },
+  {
+    "topic": "P1Harmony (\ud53c\uc6d0\ud558\ubaa8\ub2c8) - \u2018UNIQUE\u2019 MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 13,674 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m18dRRu9-V4"
   },
   {
     "topic": "Italy vs. Mexico",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~57m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7YJac_d8DL4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GguNvOK05fM"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rAolnOKRU7g"
   },
   {
@@ -224,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u4KTnyndXOM"
+  },
+  {
+    "topic": "Live From THE PLAYERS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KM-65fNw1nk"
   },
   {
     "topic": "Big Sky Tournament: Montana State vs. Idaho",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IGs-d04-L5Y"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tgpgUKfhKA0"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lscEdQVIep8"
   }
 ]
