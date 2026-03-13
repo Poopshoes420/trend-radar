@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsqbqu/youtubes_priorities_in_a_nutshell/"
   },
   {
-    "topic": "Constantly Uprooting Your Kids is Bad, Actually",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsdjx0/constantly_uprooting_your_kids_is_bad_actually/"
-  },
-  {
     "topic": "Thoughts???",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspqpw/thoughts/"
+  },
+  {
+    "topic": "Constantly Uprooting Your Kids is Bad, Actually",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsdjx0/constantly_uprooting_your_kids_is_bad_actually/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1478, Part 1 (Thread #1625)",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rsp1vc/crimson_deserts_benchmark_videos_review_copies/"
   },
   {
+    "topic": "Something Very Bad Is Going to Happen | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 132,817 views \u2022 ~246m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
+  },
+  {
     "topic": "Tom MacDonald - \"ANTI\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,058 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 94,681 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Efc2IVw5lM8"
   },
   {
@@ -192,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
+  },
+  {
+    "topic": "The Players Championship: First Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TOkUZaRUwAI"
   },
   {
     "topic": "Big 12 Tournament: TCU vs. Kansas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PAEEQybW240"
   },
   {
@@ -208,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
-  },
-  {
-    "topic": "Live From THE PLAYERS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~586m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
   },
   {
     "topic": "SEC Tournament: Oklahoma vs. Texas A&M",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S98qrHqwXZ4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=37EUiZhfF3s"
   },
   {
@@ -240,15 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBpn8PBk-Ng"
   },
   {
-    "topic": "Puerto Rico vs. United States",
+    "topic": "Read the Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=56euEy5rlUU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0DughocVPbM"
   }
 ]
