@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rs6ahz/all_youtube_eras_by_me_what_era_of_youtube_did/"
   },
   {
-    "topic": "hate people that do this",
+    "topic": "youtube be like",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rs817x/hate_people_that_do_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsk6ai/youtube_be_like/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1478, Part 1 (Thread #1625)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsdgdn/venezuela_opens_its_gold_and_rare_earths_to_us/"
   },
   {
+    "topic": "Four crew dead after US refuelling plane crashes in Iraq, military says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsjjok/four_crew_dead_after_us_refuelling_plane_crashes/"
+  },
+  {
     "topic": "Ships identify themselves as Chinese around Strait of Hormuz during Iran war to avoid attacks",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsggwq/ships_identify_themselves_as_chinese_around/"
-  },
-  {
-    "topic": "We attacked Iran with no clear plan for regime change, Israeli security sources say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rs0vs9/we_attacked_iran_with_no_clear_plan_for_regime/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,461,817 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 1,546,407 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Exukk6JO9i0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,562 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 123,258 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ou4WJs80B1Y"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,494 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 75,548 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W1mnfilKiPw"
   },
   {
@@ -208,63 +208,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,426 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 63,828 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eh9sLPpuyZ4"
+  },
+  {
+    "topic": "Jesse Watters Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
   },
   {
     "topic": "College Basketball Live Scoreboard",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
-  },
-  {
-    "topic": "The Five",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yyk3g1jdiyc"
   },
   {
     "topic": "Live From THE PLAYERS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
+  },
+  {
+    "topic": "SEC Tournament: Auburn vs. Tennessee",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=brHMFTH7hPk"
+  },
+  {
+    "topic": "Puerto Rico vs. United States",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=56euEy5rlUU"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AF4qvEqPX9c"
+  },
+  {
+    "topic": "Read the Room",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0DughocVPbM"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
-  },
-  {
-    "topic": "ACC Tournament: Louisville vs. Miami",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=puGUu0laXPg"
-  },
-  {
-    "topic": "SEC Tournament: Kentucky vs. Missouri",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~244m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_v3u3DgIUPA"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SyopBNwjsxE"
   }
 ]
