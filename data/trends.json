@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsdjx0/constantly_uprooting_your_kids_is_bad_actually/"
   },
   {
-    "topic": "Can someone explain to me why every long-form Youtube thumbnail looks like this now?",
+    "topic": "YouTube\u2019s priorities in a nutshell",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rrx10k/can_someone_explain_to_me_why_every_longform/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsqbqu/youtubes_priorities_in_a_nutshell/"
   },
   {
     "topic": "HOLY SHIT HE IS BACK!",
@@ -88,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsl9vc/holy_shit_he_is_back/"
-  },
-  {
-    "topic": "Switzerland refuses US military overflight",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsl0g6/switzerland_refuses_us_military_overflight/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1478, Part 1 (Thread #1625)",
@@ -117,22 +108,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Germany's Merz says easing Russia sanctions is wrong",
+    "topic": "Switzerland refuses US military overflight",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rskakv/germanys_merz_says_easing_russia_sanctions_is/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsl0g6/switzerland_refuses_us_military_overflight/"
   },
   {
-    "topic": "Iran \u2018about to surrender\u2019: Trump told G7 ahead of Mojtaba Khamenei's 1st remarks, says report",
+    "topic": "'We don't need Ukraine's help' \u2014 Trump rebuffs Zelensky's drone defense offer",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsmtyj/iran_about_to_surrender_trump_told_g7_ahead_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rss1ik/we_dont_need_ukraines_help_trump_rebuffs/"
+  },
+  {
+    "topic": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsqfyw/pete_hegseth_on_strait_of_hormuz_dont_need_to/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rsm87s/fortnite_players_revolt_over_vbucks_changes_as/"
   },
   {
+    "topic": "'The Simpsons' Showrunner Says 'Never Say Never' on Potential 'Hit & Run' Game Revival: \"I helped write it when I was in my 20s. I had no idea it would become a cult game, a cult success. Of all the games, the thousands of Simpsons games... that one...\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rssdva/the_simpsons_showrunner_says_never_say_never_on/"
+  },
+  {
     "topic": "Crimson Desert's benchmark videos, review copies and performance specs have the exact same implementation of Denuvo DRM as that of the launch version, Pearl Abyss says",
     "sources": [
       "reddit"
@@ -171,28 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rsp1vc/crimson_deserts_benchmark_videos_review_copies/"
   },
   {
-    "topic": "Okay, wish me luck...",
+    "topic": "Tom MacDonald - \"ANTI\"",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rs98f0/okay_wish_me_luck/"
+    "why": "Trending on YouTube \u2022 36,424 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Efc2IVw5lM8"
   },
   {
     "topic": "ACC Tournament: Florida State vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
+  },
+  {
+    "topic": "Big 12 Tournament: TCU vs. Kansas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PAEEQybW240"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
   },
   {
@@ -200,39 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
   },
   {
-    "topic": "SEC Tournament: Ole Miss vs. Georgia",
+    "topic": "SEC Tournament: Oklahoma vs. Texas A&M",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IwVMMg7ssPo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S98qrHqwXZ4"
   },
   {
     "topic": "Big Ten Tournament: Rutgers vs. UCLA",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=37EUiZhfF3s"
-  },
-  {
-    "topic": "Fab Five",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zPxbD8z2FNo"
   },
   {
     "topic": "Big East Tournament: Xavier vs. UConn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBpn8PBk-Ng"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~432m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=56euEy5rlUU"
   }
 ]
