@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rrweuq/husky_speaks_italian/"
   },
   {
+    "topic": "youtube be like",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsk6ai/youtube_be_like/"
+  },
+  {
     "topic": "Can someone explain to me why every long-form Youtube thumbnail looks like this now?",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rs6ahz/all_youtube_eras_by_me_what_era_of_youtube_did/"
   },
   {
-    "topic": "youtube be like",
+    "topic": "Four crew dead after US refuelling plane crashes in Iraq, military says",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsk6ai/youtube_be_like/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsjjok/four_crew_dead_after_us_refuelling_plane_crashes/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1478, Part 1 (Thread #1625)",
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsdgdn/venezuela_opens_its_gold_and_rare_earths_to_us/"
-  },
-  {
-    "topic": "Four crew dead after US refuelling plane crashes in Iraq, military says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsjjok/four_crew_dead_after_us_refuelling_plane_crashes/"
   },
   {
     "topic": "Ships identify themselves as Chinese around Strait of Hormuz during Iran war to avoid attacks",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/"
   },
   {
-    "topic": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/"
-  },
-  {
     "topic": "Okay, wish me luck...",
     "sources": [
       "reddit"
@@ -180,35 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rs98f0/okay_wish_me_luck/"
   },
   {
+    "topic": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/"
+  },
+  {
     "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) '\uc544\ub9ac\ub791 (ARIRANG)' Animation Trailer: What is your love song?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,546,407 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 1,603,948 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Exukk6JO9i0"
-  },
-  {
-    "topic": "The Visitor",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 123,258 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ou4WJs80B1Y"
   },
   {
     "topic": "BILMURI - ALWAYS LET YOU DOWN (ft. A Day To Remember) [OFFICIAL MUSIC VIDEO]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,548 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 79,041 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W1mnfilKiPw"
+  },
+  {
+    "topic": "Noah Kahan - Porch Light (Official Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,720 views \u2022 ~504m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hQSO9vFXnBU"
   },
   {
     "topic": "Spider-Man Trailer Update, Lanterns In Man Of Tomorrow, Alien Romulus 2 & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,828 views \u2022 ~674m old",
+    "why": "Trending on YouTube \u2022 65,314 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eh9sLPpuyZ4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iUA5Pj4G7_w"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OB-CRMJI7eU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
     "exampleUrl": "https://www.youtube.com/watch?v=brHMFTH7hPk"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=56euEy5rlUU"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AF4qvEqPX9c"
   },
   {
@@ -264,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0DughocVPbM"
   },
   {
-    "topic": "CNN Global Report: War With Iran",
+    "topic": "The Shawshank Redemption",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ehzgnVGpLeA"
   }
 ]
