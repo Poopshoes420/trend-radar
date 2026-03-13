@@ -1,12 +1,12 @@
 [
   {
-    "topic": "At the dentist",
+    "topic": "Speed is relative...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rspkau/at_the_dentist/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Speed is relative...",
+    "topic": "At the dentist",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rspkau/at_the_dentist/"
   },
   {
     "topic": "This parrot\u2019s bird bath is an aquarium tank stocked with fish.",
@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsqvfn/this_parrots_bird_bath_is_an_aquarium_tank/"
   },
   {
-    "topic": "A woman and her horse",
+    "topic": "They better count their days!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs8jyr/a_woman_and_her_horse/"
-  },
-  {
-    "topic": "youtube be like",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsk6ai/youtube_be_like/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsxgs9/they_better_count_their_days/"
   },
   {
     "topic": "What is your thoughts on this?",
@@ -63,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspg5v/what_is_your_thoughts_on_this/"
   },
   {
+    "topic": "youtube be like",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsk6ai/youtube_be_like/"
+  },
+  {
     "topic": "Thoughts???",
     "sources": [
       "reddit"
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspqpw/thoughts/"
   },
   {
-    "topic": "YouTube\u2019s priorities in a nutshell",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsqbqu/youtubes_priorities_in_a_nutshell/"
-  },
-  {
     "topic": "AI generated videos should be banned.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsvwh9/ai_generated_videos_should_be_banned/"
+  },
+  {
+    "topic": "YouTube\u2019s priorities in a nutshell",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsqbqu/youtubes_priorities_in_a_nutshell/"
   },
   {
     "topic": "US orders 2,200 Marines on three warships to Middle East",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rsp1vc/crimson_deserts_benchmark_videos_review_copies/"
   },
   {
+    "topic": "Five Nights At Freddy's 2 In Real Life",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 720,719 views \u2022 ~461m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uNzOmLhmU1k"
+  },
+  {
     "topic": "Tom MacDonald - \"ANTI\"",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 282,506 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 305,813 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Efc2IVw5lM8"
   },
   {
@@ -192,31 +200,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 216,520 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 246,021 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vMc_pWm7G7o"
+  },
+  {
+    "topic": "STREET FIGHTER Official Teaser Trailer (2026) Guile",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 94,019 views \u2022 ~309m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_mh0bgWazEM"
+  },
+  {
+    "topic": "Warhammer 40,000: Darktide - Beyond the Hive Update | Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,903 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QFFyn5SqqYY"
   },
   {
     "topic": "DABABY - POP DAT THANG (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,575 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 42,848 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=syc4SzrubKY"
+  },
+  {
+    "topic": "Scary Movie 6 Trailer Breakdown!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,217 views \u2022 ~178m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pxlw_4OtAFw"
   },
   {
     "topic": "ACC Tournament: Florida State vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0nW4Dr2JhwE"
+  },
+  {
+    "topic": "FOX and Friends",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cu78xmWcBqE"
   },
   {
     "topic": "The Players Championship: First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TOkUZaRUwAI"
   },
   {
@@ -224,23 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~256m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PAEEQybW240"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~670m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5gu7LsNuPoA"
   },
   {
     "topic": "SEC Tournament: Oklahoma vs. Texas A&M",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S98qrHqwXZ4"
   },
   {
@@ -248,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=37EUiZhfF3s"
   },
   {
@@ -256,15 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pBpn8PBk-Ng"
-  },
-  {
-    "topic": "Read the Room",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~617m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0DughocVPbM"
   }
 ]
