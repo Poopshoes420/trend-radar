@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Dude is tired after cleaning the room",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs5wgj/dude_is_tired_after_cleaning_the_room/"
-  },
-  {
     "topic": "A woman and her horse",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs8jyr/a_woman_and_her_horse/"
+  },
+  {
+    "topic": "Dude is tired after cleaning the room",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rs5wgj/dude_is_tired_after_cleaning_the_room/"
   },
   {
     "topic": "I wrote my friend how she's enjoying LA and this is her response",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rs817x/hate_people_that_do_this/"
   },
   {
-    "topic": "Whoever makes these bots is genuinely deplorable",
+    "topic": "Youtube auto-subscribed me to Turning Point?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rs6g9y/whoever_makes_these_bots_is_genuinely_deplorable/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsh2ph/youtube_autosubscribed_me_to_turning_point/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1478, Part 1 (Thread #1625)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsdgdn/venezuela_opens_its_gold_and_rare_earths_to_us/"
   },
   {
-    "topic": "We attacked Iran with no clear plan for regime change, Israeli security sources say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rs0vs9/we_attacked_iran_with_no_clear_plan_for_regime/"
-  },
-  {
     "topic": "Newly chosen Ayatollah may be in a coma- CBC",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rseedf/newly_chosen_ayatollah_may_be_in_a_coma_cbc/"
+  },
+  {
+    "topic": "We attacked Iran with no clear plan for regime change, Israeli security sources say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rs0vs9/we_attacked_iran_with_no_clear_plan_for_regime/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rs98f0/okay_wish_me_luck/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | LIARS BAR w/ MAX HOLLOWAY | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 817,557 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MbZjSIUVhk0"
+  },
+  {
     "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) '\uc544\ub9ac\ub791 (ARIRANG)' Animation Trailer: What is your love song?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,097,500 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 1,218,181 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Exukk6JO9i0"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,174 views \u2022 ~631m old",
+    "why": "Trending on YouTube \u2022 119,278 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3k4upRN5EtU"
   },
   {
@@ -200,71 +208,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,048 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 62,251 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W1mnfilKiPw"
-  },
-  {
-    "topic": "BossMan Dlow - Motion Party (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 89,843 views \u2022 ~634m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fEl_ug9VfvQ"
   },
   {
     "topic": "The Visitor",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,053 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 79,046 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ou4WJs80B1Y"
+  },
+  {
+    "topic": "BossMan Dlow - Motion Party (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 93,579 views \u2022 ~686m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fEl_ug9VfvQ"
   },
   {
     "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Frfci1buwvo"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6Cpxdp95pwI"
+  },
+  {
+    "topic": "SEC Tournament: Kentucky vs. Missouri",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_v3u3DgIUPA"
+  },
+  {
+    "topic": "Deadline: White House",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SyopBNwjsxE"
   },
   {
     "topic": "Big 12 Tournament: Iowa State vs. Texas Tech",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RzlI6mlT89k"
-  },
-  {
-    "topic": "The Mina Kimes Show Featuring Lenny",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=El-NTHNdj2I"
-  },
-  {
-    "topic": "Live From THE PLAYERS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~335m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E__k2Ra3jGI"
-  },
-  {
-    "topic": "The Lead With Jake Tapper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BJxP1pcWVFI"
-  },
-  {
-    "topic": "The Beat With Ari Melber",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZTUrxppoOeQ"
   }
 ]
