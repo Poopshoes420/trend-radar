@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rspkau/at_the_dentist/"
   },
   {
+    "topic": "This is the only way now\ud83e\udd40",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtch3w/this_is_the_only_way_now/"
+  },
+  {
     "topic": "This parrot\u2019s bird bath is an aquarium tank stocked with fish.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsqvfn/this_parrots_bird_bath_is_an_aquarium_tank/"
-  },
-  {
-    "topic": "Happy 3.14 day!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtafxr/happy_314_day/"
   },
   {
     "topic": "What is your thoughts on this?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspqpw/thoughts/"
   },
   {
+    "topic": "About Wiztale, an AI slop channel",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtaxp2/about_wiztale_an_ai_slop_channel/"
+  },
+  {
     "topic": "AI generated videos should be banned.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsvwh9/ai_generated_videos_should_be_banned/"
-  },
-  {
-    "topic": "YouTube\u2019s priorities in a nutshell",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsqbqu/youtubes_priorities_in_a_nutshell/"
   },
   {
     "topic": "US attacks Iran's Kharg Island, Trump says",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rsztae/us_under_trump_stands_alone_against_un_womens/"
   },
   {
-    "topic": "US orders 2,200 Marines on three warships to Middle East",
+    "topic": "Israel planning massive ground invasion of Lebanon, officials say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rswd2w/us_orders_2200_marines_on_three_warships_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rt6oci/israel_planning_massive_ground_invasion_of/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -180,51 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rt7foc/roblox_and_minecraft_players_dont_really_care/"
   },
   {
-    "topic": "Warhammer 40,000: Darktide - Beyond the Hive Update | Reveal Trailer",
+    "topic": "SEC Tournament: Tennessee vs. Vanderbilt",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,513 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QFFyn5SqqYY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VlMFT3-U_jc"
   },
   {
-    "topic": "Scary Movie 6 Trailer Breakdown!!",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,911 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Pxlw_4OtAFw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0MZNPSKlKVw"
   },
   {
-    "topic": "SEC Tournament: Kentucky vs. Florida",
+    "topic": "Big Ten Tournament: Wisconsin vs. Illinois",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WQ5LjjcgxIM"
-  },
-  {
-    "topic": "Big Ten Tournament: Ohio State vs. Michigan",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3oj4wb8L5-o"
-  },
-  {
-    "topic": "The Story With Martha MacCallum",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gMus5mKt06M"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hFu7ncF6FkQ"
   },
   {
     "topic": "Live From THE PLAYERS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3UO4XVi3reg"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10aN3Sb_UW4"
   }
 ]
