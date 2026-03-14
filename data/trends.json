@@ -1,14 +1,5 @@
 [
   {
-    "topic": "I got this boss",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtip1j/i_got_this_boss/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I got this boss",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtip1j/i_got_this_boss/"
   },
   {
     "topic": "\"He asked if he could brush my arse\"",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspg5v/what_is_your_thoughts_on_this/"
   },
   {
-    "topic": "Youtube sending prompts asking if the video is \u201cai slop\u201d",
+    "topic": "The other day I got prompted the feedback question and a few minutes I got the survey in the right image",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rts69y/youtube_sending_prompts_asking_if_the_video_is_ai/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rttirf/the_other_day_i_got_prompted_the_feedback/"
   },
   {
     "topic": "Trump calls on UK and others to send warships to Strait of Hormuz",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtjoak/25_years_ago_one_of_the_most_iconic_maps_of_all/"
   },
   {
+    "topic": "New ST PATRICKS UPDATE + New Brainrots!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,038,773 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qTrPm-TR3hM"
+  },
+  {
     "topic": "Ustaad Bhagat Singh Trailer | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,843,436 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 2,893,350 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tg7UJ9MWR3U"
   },
   {
@@ -200,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
+  },
+  {
+    "topic": "Fox & Friends Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
   },
   {
     "topic": "ACC Tournament: Clemson vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DfluRBjAm4"
   },
   {
@@ -216,31 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
-  },
-  {
-    "topic": "Big Ten Tournament: Purdue vs. Nebraska",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
-  },
-  {
-    "topic": "Fox & Friends Weekend",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X-ATBLywQEk"
   },
   {
     "topic": "Big East Tournament: Georgetown vs. UConn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=345QmQ4yPjI"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x-AVK7bcTNY"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rg8K1nRmgMc"
   }
 ]
