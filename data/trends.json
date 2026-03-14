@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "This is the only way now\ud83e\udd40",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtch3w/this_is_the_only_way_now/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Speed is relative...",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspg5v/what_is_your_thoughts_on_this/"
   },
   {
+    "topic": "Absurd case of plagiarism - A big YouTuber with 700k subs steals the entire script from a small creator, down to the jokes.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rte79t/absurd_case_of_plagiarism_a_big_youtuber_with/"
+  },
+  {
     "topic": "youtube be like",
     "sources": [
       "reddit"
@@ -81,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspqpw/thoughts/"
   },
   {
-    "topic": "Absurd case of plagiarism - A big YouTuber with 700k subs steals the entire script from a small creator, down to the jokes.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rte79t/absurd_case_of_plagiarism_a_big_youtuber_with/"
-  },
-  {
-    "topic": "US attacks Iran's Kharg Island, Trump says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rt2vpb/us_attacks_irans_kharg_island_trump_says/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1479, Part 1 (Thread #1626)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "US attacks Iran's Kharg Island, Trump says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rt2vpb/us_attacks_irans_kharg_island_trump_says/"
   },
   {
     "topic": "US Under Trump Stands Alone Against UN Women's Rights Resolution As Vote Passes 37\u20131 To Cheers",
@@ -180,27 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rt7foc/roblox_and_minecraft_players_dont_really_care/"
   },
   {
-    "topic": "SEC Tournament: Tennessee vs. Vanderbilt",
+    "topic": "College Basketball Live Scoreboard",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VlMFT3-U_jc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3iHlCP7ar10"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0MZNPSKlKVw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SeWq2FswcGY"
+  },
+  {
+    "topic": "ACC Tournament: Miami vs. Virginia",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4y09dYsQQTw"
   },
   {
     "topic": "Big Ten Tournament: Wisconsin vs. Illinois",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hFu7ncF6FkQ"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CrImCo_Vjms"
   },
   {
@@ -216,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vdH7mqHgrmw"
   },
   {
-    "topic": "College Basketball Live Scoreboard",
+    "topic": "Rick's Mess",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0dnBtq4vz4w"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zr8BP1opRl0"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g6PwULBxmc0"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~423m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
   }
 ]
