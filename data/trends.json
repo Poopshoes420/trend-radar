@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtis4a/he_asked_if_he_could_brush_my_arse/"
   },
   {
+    "topic": "Time to tease the cat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtqs13/time_to_tease_the_cat/"
+  },
+  {
     "topic": "Idk why I thought of this but I did and wrote it down at like 5am, and then I made it a thing.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtj724/idk_why_i_thought_of_this_but_i_did_and_wrote_it/"
-  },
-  {
-    "topic": "Speed is relative...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
   },
   {
     "topic": "Absurd case of plagiarism - A big YouTuber with 700k subs steals the entire script from a small creator, down to the jokes.",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Drones attack one of the world's largest oil terminals in the UAE",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtgcs8/drones_attack_one_of_the_worlds_largest_oil/"
-  },
-  {
     "topic": "Trump adviser urges US to \u2018declare victory and exit\u2019 Iran war | The Express Tribune",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtobva/trump_adviser_urges_us_to_declare_victory_and/"
+  },
+  {
+    "topic": "Drones attack one of the world's largest oil terminals in the UAE",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtgcs8/drones_attack_one_of_the_worlds_largest_oil/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Overwatch co-creator Jeff Kaplan says he was told by CFO if the game didn't hit certain revenue goals, \"we're gonna lay off a 1000 people and it's gonna be on you\": 'It was the biggest f**k you moment I've had in my career'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtqkqi/overwatch_cocreator_jeff_kaplan_says_he_was_told/"
+  },
+  {
     "topic": "Sony Accused of 'Monopolizing' Sale of Games Through the PlayStation Store in New UK Class-Action Lawsuit | If successful, the court case could see an estimated 12.2 million British players compensated around $215 each",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtjoak/25_years_ago_one_of_the_most_iconic_maps_of_all/"
   },
   {
-    "topic": "Simultaneously the best and worst achievement I've ever seen (From the game Piece by Piece)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtcv2k/simultaneously_the_best_and_worst_achievement_ive/"
-  },
-  {
     "topic": "Ustaad Bhagat Singh Trailer | Pawan Kalyan | Harish Shankar | Sreeleela | Raashii Khanna",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,091,695 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 2,446,699 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tg7UJ9MWR3U"
+  },
+  {
+    "topic": "The Players Championship: Second Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
   },
   {
     "topic": "ACC Tournament: Clemson vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DfluRBjAm4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~590m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SeWq2FswcGY"
   },
   {
@@ -232,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=345QmQ4yPjI"
-  },
-  {
-    "topic": "Live From THE PLAYERS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~502m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xs5frU1wMIE"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x-AVK7bcTNY"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rg8K1nRmgMc"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CrImCo_Vjms"
   }
 ]
