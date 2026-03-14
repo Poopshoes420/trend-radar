@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Speed is relative...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Speed is relative...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
   },
   {
     "topic": "At the dentist",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsqvfn/this_parrots_bird_bath_is_an_aquarium_tank/"
   },
   {
-    "topic": "Mmm... yogurt",
+    "topic": "Happy 3.14 day!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsr75j/mmm_yogurt/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtafxr/happy_314_day/"
   },
   {
     "topic": "What is your thoughts on this?",
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rswd2w/us_orders_2200_marines_on_three_warships_to/"
   },
   {
-    "topic": "Free Talk Friday!",
+    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rsfbel/free_talk_friday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtbm3d/self_promotion_saturday_small_streamer_just/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,849 views \u2022 ~631m old",
+    "why": "Trending on YouTube \u2022 137,513 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QFFyn5SqqYY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,549 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 75,911 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pxlw_4OtAFw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WQ5LjjcgxIM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3oj4wb8L5-o"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gMus5mKt06M"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
   },
   {
@@ -232,15 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DnBFkuc1ZeI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3UO4XVi3reg"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "The Beat With Ari Melber",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=t6IkfC4fjtE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=10aN3Sb_UW4"
   }
 ]
