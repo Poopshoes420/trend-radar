@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rte79t/absurd_case_of_plagiarism_a_big_youtuber_with/"
   },
   {
+    "topic": "Youtube getting blunt",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtvctk/youtube_getting_blunt/"
+  },
+  {
     "topic": "Will YouTube ever deal with this?",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rts69y/youtube_sending_prompts_asking_if_the_video_is_ai/"
   },
   {
-    "topic": "What is your thoughts on this?",
+    "topic": "Israel is running critically low on interceptors, US officials say",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspg5v/what_is_your_thoughts_on_this/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtvaen/israel_is_running_critically_low_on_interceptors/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1479, Part 1 (Thread #1626)",
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtlcjj/trump_calls_on_uk_and_others_to_send_warships_to/"
-  },
-  {
-    "topic": "Israel is running critically low on interceptors, US officials say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtvaen/israel_is_running_critically_low_on_interceptors/"
   },
   {
     "topic": "Drones attack one of the world's largest oil terminals in the UAE",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,137,643 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 1,152,116 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTrPm-TR3hM"
   },
   {
@@ -192,39 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,974,707 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 3,029,073 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
-  },
-  {
-    "topic": "Big 12 Tournament: Iowa State vs. Arizona",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Tg7UJ9MWR3U"
   },
   {
     "topic": "The Players Championship: Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
   },
   {
-    "topic": "Fox & Friends Weekend",
+    "topic": "Saturday in America",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
   },
   {
     "topic": "ACC Tournament: Clemson vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DfluRBjAm4"
   },
   {
@@ -232,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
+  },
+  {
+    "topic": "CNN Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~40m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6WX6CiluJes"
   },
   {
     "topic": "Big East Tournament: Georgetown vs. UConn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=345QmQ4yPjI"
-  },
-  {
-    "topic": "Smerconish",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dVWUq7fyG1A"
   }
 ]
