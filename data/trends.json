@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtis4a/he_asked_if_he_could_brush_my_arse/"
   },
   {
-    "topic": "Who cleared this folding cafeteria table design at this k-12 school?? \ud83e\udd23\ud83e\udd23",
+    "topic": "My daughter received this birthday card from a classmate",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtpy5d/who_cleared_this_folding_cafeteria_table_design/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtukl1/my_daughter_received_this_birthday_card_from_a/"
   },
   {
     "topic": "Absurd case of plagiarism - A big YouTuber with 700k subs steals the entire script from a small creator, down to the jokes.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtlry6/will_youtube_ever_deal_with_this/"
   },
   {
-    "topic": "Found this under a YouTube video in my recommended and I couldn\u2019t stop laughing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtieup/found_this_under_a_youtube_video_in_my/"
-  },
-  {
     "topic": "Youtube sending prompts asking if the video is \u201cai slop\u201d",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rts69y/youtube_sending_prompts_asking_if_the_video_is_ai/"
+  },
+  {
+    "topic": "Found this under a YouTube video in my recommended and I couldn\u2019t stop laughing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtieup/found_this_under_a_youtube_video_in_my/"
   },
   {
     "topic": "Israel is running critically low on interceptors, US officials say",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,152,116 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 1,165,865 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTrPm-TR3hM"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,029,073 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 3,171,031 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
+  },
+  {
+    "topic": "Permafrost - Official Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,171 views \u2022 ~321m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zSDRdIBkCuM"
   },
   {
     "topic": "The Players Championship: Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DfluRBjAm4"
-  },
-  {
-    "topic": "SEC Tournament: Oklahoma vs. Arkansas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~40m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6WX6CiluJes"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~681m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=345QmQ4yPjI"
   }
 ]
