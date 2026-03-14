@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rts69y/youtube_sending_prompts_asking_if_the_video_is_ai/"
   },
   {
-    "topic": "Found this under a YouTube video in my recommended and I couldn\u2019t stop laughing",
+    "topic": "When I click on a video but can tell the script was written by chat gpt",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtieup/found_this_under_a_youtube_video_in_my/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtvp7x/when_i_click_on_a_video_but_can_tell_the_script/"
   },
   {
     "topic": "Israel is running critically low on interceptors, US officials say",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtqkqi/overwatch_cocreator_jeff_kaplan_says_he_was_told/"
   },
   {
-    "topic": "Sony Accused of 'Monopolizing' Sale of Games Through the PlayStation Store in New UK Class-Action Lawsuit | If successful, the court case could see an estimated 12.2 million British players compensated around $215 each",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtm35n/sony_accused_of_monopolizing_sale_of_games/"
-  },
-  {
     "topic": "25 Years ago, one of the most iconic maps of all times was released",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtjoak/25_years_ago_one_of_the_most_iconic_maps_of_all/"
   },
   {
+    "topic": "Sony Accused of 'Monopolizing' Sale of Games Through the PlayStation Store in New UK Class-Action Lawsuit | If successful, the court case could see an estimated 12.2 million British players compensated around $215 each",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtm35n/sony_accused_of_monopolizing_sale_of_games/"
+  },
+  {
     "topic": "New ST PATRICKS UPDATE + New Brainrots!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,165,865 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 1,176,316 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTrPm-TR3hM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,171,031 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 3,413,426 views \u2022 ~650m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,171 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 27,948 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zSDRdIBkCuM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DfluRBjAm4"
   },
   {
@@ -232,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6WX6CiluJes"
-  },
-  {
-    "topic": "Big East Tournament: Georgetown vs. UConn",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=345QmQ4yPjI"
   }
 ]
