@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
   },
   {
-    "topic": "At the dentist",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rspkau/at_the_dentist/"
-  },
-  {
     "topic": "This is the only way now\ud83e\udd40",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtch3w/this_is_the_only_way_now/"
+  },
+  {
+    "topic": "At the dentist",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rspkau/at_the_dentist/"
   },
   {
     "topic": "This parrot\u2019s bird bath is an aquarium tank stocked with fish.",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rt7foc/roblox_and_minecraft_players_dont_really_care/"
   },
   {
+    "topic": "Deadliest Catch Horror Game\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 174,922 views \u2022 ~593m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=agZzxya_f44"
+  },
+  {
     "topic": "SEC Tournament: Tennessee vs. Vanderbilt",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VlMFT3-U_jc"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0MZNPSKlKVw"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hFu7ncF6FkQ"
   },
   {
@@ -208,23 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "Erin Burnett OutFront",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3UO4XVi3reg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SVeNn1z5XDU"
   },
   {
     "topic": "The Beat With Ari Melber",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=10aN3Sb_UW4"
   }
 ]
