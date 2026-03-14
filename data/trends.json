@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsya6c/speed_is_relative/"
   },
   {
+    "topic": "Ball knowledge \u267e\ufe0f%",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtexsz/ball_knowledge/"
+  },
+  {
     "topic": "At the dentist",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rspkau/at_the_dentist/"
-  },
-  {
-    "topic": "This parrot\u2019s bird bath is an aquarium tank stocked with fish.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rsqvfn/this_parrots_bird_bath_is_an_aquarium_tank/"
   },
   {
     "topic": "What is your thoughts on this?",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rsk6ai/youtube_be_like/"
   },
   {
-    "topic": "About Wiztale, an AI slop channel",
+    "topic": "YouTube, under American law, is now legally regonized as an adult, if it was an human.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtaxp2/about_wiztale_an_ai_slop_channel/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rt9mf5/youtube_under_american_law_is_now_legally/"
   },
   {
     "topic": "Thoughts???",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rt7foc/roblox_and_minecraft_players_dont_really_care/"
   },
   {
+    "topic": "Big Ten Tournament: Purdue vs. Nebraska",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ivGXFcsdXK4"
+  },
+  {
     "topic": "College Basketball Live Scoreboard",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3iHlCP7ar10"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SeWq2FswcGY"
+  },
+  {
+    "topic": "SEC Tournament: Ole Miss vs. Alabama",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~42m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rS5IO83SoCw"
   },
   {
     "topic": "ACC Tournament: Miami vs. Virginia",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4y09dYsQQTw"
-  },
-  {
-    "topic": "Big Ten Tournament: Wisconsin vs. Illinois",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hFu7ncF6FkQ"
   },
   {
     "topic": "Quarterfinal: Republic of Korea vs. Dominican Republic",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CrImCo_Vjms"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vdH7mqHgrmw"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zr8BP1opRl0"
   },
   {
@@ -240,15 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g6PwULBxmc0"
-  },
-  {
-    "topic": "Live From THE PLAYERS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~467m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0M_TCIOuBo8"
   }
 ]
