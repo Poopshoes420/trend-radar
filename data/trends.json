@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtip1j/i_got_this_boss/"
   },
   {
-    "topic": "\"He asked if he could brush my arse\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtis4a/he_asked_if_he_could_brush_my_arse/"
-  },
-  {
     "topic": "Time to tease the cat",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtqs13/time_to_tease_the_cat/"
+  },
+  {
+    "topic": "\"He asked if he could brush my arse\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtis4a/he_asked_if_he_could_brush_my_arse/"
   },
   {
     "topic": "Who cleared this folding cafeteria table design at this k-12 school?? \ud83e\udd23\ud83e\udd23",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtieup/found_this_under_a_youtube_video_in_my/"
   },
   {
+    "topic": "Youtube sending prompts asking if the video is \u201cai slop\u201d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rts69y/youtube_sending_prompts_asking_if_the_video_is_ai/"
+  },
+  {
     "topic": "What is your thoughts on this?",
     "sources": [
       "reddit"
@@ -79,24 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rspg5v/what_is_your_thoughts_on_this/"
-  },
-  {
-    "topic": "The other day I got prompted the feedback question and a few minutes I got the survey in the right image",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rttirf/the_other_day_i_got_prompted_the_feedback/"
-  },
-  {
-    "topic": "Trump calls on UK and others to send warships to Strait of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtlcjj/trump_calls_on_uk_and_others_to_send_warships_to/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1479, Part 1 (Thread #1626)",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Drones attack one of the world's largest oil terminals in the UAE",
+    "topic": "Trump calls on UK and others to send warships to Strait of Hormuz",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtgcs8/drones_attack_one_of_the_worlds_largest_oil/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtlcjj/trump_calls_on_uk_and_others_to_send_warships_to/"
   },
   {
     "topic": "Israel is running critically low on interceptors, US officials say",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtvaen/israel_is_running_critically_low_on_interceptors/"
+  },
+  {
+    "topic": "Drones attack one of the world's largest oil terminals in the UAE",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtgcs8/drones_attack_one_of_the_worlds_largest_oil/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,102,106 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 1,137,643 views \u2022 ~130m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTrPm-TR3hM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,935,134 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 2,974,707 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MLU5ZEp9YDo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~685m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tg7UJ9MWR3U"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IF-zyzrE6Yw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2Ya_IqSMalw"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1DfluRBjAm4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0dqqJnNvNv8"
   },
   {
@@ -240,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=345QmQ4yPjI"
   },
   {
-    "topic": "WWE Friday Night SmackDown",
+    "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=x-AVK7bcTNY"
-  },
-  {
-    "topic": "Top Gun: Maverick",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Rg8K1nRmgMc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dVWUq7fyG1A"
   }
 ]
