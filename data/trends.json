@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Snack attack [oc]",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruekgi/snack_attack_oc/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Snack attack [oc]",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruekgi/snack_attack_oc/"
   },
   {
     "topic": "[OC] creep",
@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruiwkv/oc_no_going_back/"
   },
   {
-    "topic": "group pics (OC)",
+    "topic": "There goes his umbrella",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruiigu/group_pics_oc/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruoas1/there_goes_his_umbrella/"
+  },
+  {
+    "topic": "Is How to Basic starting to use AI now?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruoa54/is_how_to_basic_starting_to_use_ai_now/"
   },
   {
     "topic": "Bro can time travel \ud83d\ude2d\ud83d\ude4f",
@@ -54,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruatzy/bro_can_time_travel/"
   },
   {
-    "topic": "Is How to Basic starting to use AI now?",
+    "topic": "Channel scamming kids",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruoa54/is_how_to_basic_starting_to_use_ai_now/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rupmmp/channel_scamming_kids/"
   },
   {
     "topic": "I can't tell if this is still marked for kids?",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru7atr/ig_violence_should_be_the_better_option_there/"
-  },
-  {
-    "topic": "So Im a black content creator I think its kinda rude and unorthodox how people search for content suggesting black people in",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru4scg/so_im_a_black_content_creator_i_think_its_kinda/"
   },
   {
     "topic": "Iran Officially Confirms Military Support From Russia And China In War Against the US",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rum3wy/bought_cp2077_on_launch_day_dec_10_2020_finally/"
   },
   {
-    "topic": "Modern JRPGs are proving turn based combat still has a lot of life left",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ruhsme/modern_jrpgs_are_proving_turn_based_combat_still/"
-  },
-  {
     "topic": "If you had to choose, which video game world would you live in?",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rupr1f/if_you_had_to_choose_which_video_game_world_would/"
+  },
+  {
+    "topic": "Modern JRPGs are proving turn based combat still has a lot of life left",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ruhsme/modern_jrpgs_are_proving_turn_based_combat_still/"
   },
   {
     "topic": "The GameCube is one the best consoles to ever exist.",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1run5vt/the_gamecube_is_one_the_best_consoles_to_ever/"
   },
   {
+    "topic": "NS vs. PRX \u2014 VALORANT Masters Santiago \u2014 Grand Final",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,132,647 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PrISVQoOv6E"
+  },
+  {
     "topic": "Minecraft Pro VS 1000 Player Civilization",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,611,117 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 1,705,311 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 327,907 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 374,305 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,430 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 258,626 views \u2022 ~254m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xajAjieO4Lo"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 159,871 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 196,938 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0WM1HmJrWQ"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 360,054 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 398,130 views \u2022 ~460m old",
     "exampleUrl": "https://www.youtube.com/watch?v=802J6OnLBgc"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,994 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 177,459 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Frj44cYpjSE"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 246,456 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 258,144 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OFSVE9_Sx9Y"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dUrhaZ2TWos"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gvfQin2pk8k"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fwnxnrkBp5E"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EoV302STPRo"
   }
 ]
