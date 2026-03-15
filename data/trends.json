@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruekgi/snack_attack_oc/"
   },
   {
-    "topic": "[OC] creep",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruix6e/oc_creep/"
-  },
-  {
     "topic": "There goes his umbrella",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruoas1/there_goes_his_umbrella/"
+  },
+  {
+    "topic": "[OC] creep",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruix6e/oc_creep/"
   },
   {
     "topic": "[OC] no going back",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rupmmp/channel_scamming_kids/"
   },
   {
-    "topic": "I can't tell if this is still marked for kids?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruj1vf/i_cant_tell_if_this_is_still_marked_for_kids/"
-  },
-  {
     "topic": "Well this is new",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rukm7r/well_this_is_new/"
+  },
+  {
+    "topic": "I can't tell if this is still marked for kids?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruj1vf/i_cant_tell_if_this_is_still_marked_for_kids/"
   },
   {
     "topic": "Iran Officially Confirms Military Support From Russia And China In War Against the US",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Taiwan reports large-scale Chinese military aircraft presence near island",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rudw4d/taiwan_reports_largescale_chinese_military/"
-  },
-  {
     "topic": "Iran threatens to escalate war after Trump says \u2018many countries\u2019 will send warships to strait of Hormuz",
     "sources": [
       "reddit"
@@ -135,6 +126,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/"
   },
   {
+    "topic": "Taiwan reports large-scale Chinese military aircraft presence near island",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rudw4d/taiwan_reports_largescale_chinese_military/"
+  },
+  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
@@ -142,15 +142,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ru6cy8/simple_questions_sunday/"
-  },
-  {
-    "topic": "If you had to choose, which video game world would you live in?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rupr1f/if_you_had_to_choose_which_video_game_world_would/"
   },
   {
     "topic": "Bought CP2077 on launch day Dec. 10 2020 \u2014 finally about to open and play it \ud83d\ude02",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1run5vt/the_gamecube_is_one_the_best_consoles_to_ever/"
   },
   {
+    "topic": "As I play through BioShock remastered, I'm reminded of the absolute beauty this game achieved. I realize this is an updated version, but as a kid I remember it was the first game where I stopped and just looked at some of these spots just taking in the world design.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rui0ix/as_i_play_through_bioshock_remastered_im_reminded/"
+  },
+  {
     "topic": "NS vs. PRX \u2014 VALORANT Masters Santiago \u2014 Grand Final",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,181,588 views \u2022 ~90m old",
+    "why": "Trending on YouTube \u2022 1,202,024 views \u2022 ~128m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PrISVQoOv6E"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,740,324 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 1,810,403 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 398,486 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 426,613 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,464 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 316,025 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xajAjieO4Lo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,239 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 249,819 views \u2022 ~280m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0WM1HmJrWQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 421,929 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 450,845 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=802J6OnLBgc"
   },
   {
@@ -232,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,868 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 220,281 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Frj44cYpjSE"
-  },
-  {
-    "topic": "ASHLEY CRASHED OUT In GTA 5....",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 263,413 views \u2022 ~601m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OFSVE9_Sx9Y"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dUrhaZ2TWos"
   },
   {
@@ -256,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gvfQin2pk8k"
   },
   {
-    "topic": "Big West Tournament: Hawaii vs. UC Irvine",
+    "topic": "Eat Your Protein",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~691m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fwnxnrkBp5E"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m4xI4yjIw8w"
   },
   {
-    "topic": "Breakfast Freezer Faves",
+    "topic": "The Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EoV302STPRo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TL6i38nQOzA"
   }
 ]
