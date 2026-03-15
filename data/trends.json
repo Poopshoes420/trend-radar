@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rtvaen/israel_is_running_critically_low_on_interceptors/"
   },
   {
+    "topic": "\u2018If Still Alive\u2026\u2019: Iran Revolutionary Guards Vow To Pursue 'Child Killer' Netanyahu Amid War",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ru6c1t/if_still_alive_iran_revolutionary_guards_vow_to/"
+  },
+  {
     "topic": "The last person we need help from is Zelenskyy - Trump",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ru1v9w/the_last_person_we_need_help_from_is_zelenskyy/"
-  },
-  {
-    "topic": "Russia is supplying Iran with Shahed drones, Zelenskiy says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ru5bld/russia_is_supplying_iran_with_shahed_drones/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,35 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtm35n/sony_accused_of_monopolizing_sale_of_games/"
   },
   {
-    "topic": "I Survived 100 Days on a Hardcore Minecraft Server",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,250,426 views \u2022 ~684m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F1awawd96H8"
-  },
-  {
     "topic": "Uncle Joe\u2019s Motel\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 206,386 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 227,891 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ECun7O7MGuk"
   },
   {
-    "topic": "SEC Tournament: Ole Miss vs. Arkansas",
+    "topic": "Big 12 Tournament: Houston vs. Arizona",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xwEv4oKZ0dM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~33m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1GP9yTanS4M"
   },
   {
     "topic": "Live From THE PLAYERS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kD8lABg8hsE"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qEmacuSQoag"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BOqkhozhLfQ"
   },
   {
@@ -232,23 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JYof_AcEfNw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
   },
   {
     "topic": "Hoosiers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bfjB0aw1KFc"
+  },
+  {
+    "topic": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AFYWBAaMGTQ"
   },
   {
     "topic": "Arsenal vs. Everton",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~374m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EWJZgZaboP0"
   },
   {
@@ -256,15 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kvZZ0HwZJks"
   },
   {
-    "topic": "Velshi",
+    "topic": "The Players Championship: Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0zvFwLTvvNc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XlR4ZfYCUm8"
   }
 ]
