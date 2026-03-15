@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruatzy/bro_can_time_travel/"
   },
   {
+    "topic": "I can't tell if this is still marked for kids?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruj1vf/i_cant_tell_if_this_is_still_marked_for_kids/"
+  },
+  {
     "topic": "Ig Violence should be the better option there \ud83d\ude42\ud83d\ude12",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru4scg/so_im_a_black_content_creator_i_think_its_kinda/"
-  },
-  {
-    "topic": "I can't tell if this is still marked for kids?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruj1vf/i_cant_tell_if_this_is_still_marked_for_kids/"
   },
   {
     "topic": "I HATE, I ABSOLUTELY HATE THOSE AI ADDS DAMNIT",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rui0ix/as_i_play_through_bioshock_remastered_im_reminded/"
   },
   {
-    "topic": "Overwatch co-creator Jeff Kaplan says he was told by CFO if the game didn't hit certain revenue goals, \"we're gonna lay off a 1000 people and it's gonna be on you\": 'It was the biggest f**k you moment I've had in my career'",
+    "topic": "The GameCube is one the best consoles to ever exist.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtqkqi/overwatch_cocreator_jeff_kaplan_says_he_was_told/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1run5vt/the_gamecube_is_one_the_best_consoles_to_ever/"
   },
   {
     "topic": "Minecraft Pro VS 1000 Player Civilization",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,260,889 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 1,322,368 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,004,227 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 1,006,290 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h3K0fe4edH8"
+  },
+  {
+    "topic": "I Beat This Entire Factory Game With Basically No Factory - StarRupture",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 251,608 views \u2022 ~298m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=802J6OnLBgc"
   },
   {
     "topic": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,983 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 148,003 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 195,784 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 205,338 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OFSVE9_Sx9Y"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q1TKKd2aNQw"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fwnxnrkBp5E"
   },
   {
@@ -240,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PXxWawbtevU"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~653m old",
     "exampleUrl": "https://www.youtube.com/watch?v=32p_7GFOiJ4"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~618m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P6emVDXKsQs"
   },
   {
@@ -272,15 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RxtVxvusvEQ"
-  },
-  {
-    "topic": "United States vs. Italy",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lFkavXkhiwo"
   }
 ]
