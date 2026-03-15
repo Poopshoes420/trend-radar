@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru7atr/ig_violence_should_be_the_better_option_there/"
   },
   {
+    "topic": "Is How to Basic starting to use AI now?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruoa54/is_how_to_basic_starting_to_use_ai_now/"
+  },
+  {
     "topic": "So Im a black content creator I think its kinda rude and unorthodox how people search for content suggesting black people in",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru4scg/so_im_a_black_content_creator_i_think_its_kinda/"
-  },
-  {
-    "topic": "I HATE, I ABSOLUTELY HATE THOSE AI ADDS DAMNIT",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rui4cw/i_hate_i_absolutely_hate_those_ai_adds_damnit/"
   },
   {
     "topic": "Iran Officially Confirms Military Support From Russia And China In War Against the US",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rudw4d/taiwan_reports_largescale_chinese_military/"
   },
   {
-    "topic": "Iranian leader secretly in Russia for medical care at Putin's residence \u2014 media",
+    "topic": "Putin Adviser Told Macron Envoys to \u201cGo to Hell\u201d Over Europe\u2019s Seat at Ukraine Peace Talks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rumba1/iranian_leader_secretly_in_russia_for_medical/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rueerg/putin_adviser_told_macron_envoys_to_go_to_hell/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,322,368 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 1,442,471 views \u2022 ~452m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,006,290 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 1,010,049 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h3K0fe4edH8"
-  },
-  {
-    "topic": "I Beat This Entire Factory Game With Basically No Factory - StarRupture",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 251,608 views \u2022 ~298m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=802J6OnLBgc"
   },
   {
     "topic": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 148,003 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 220,568 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
+  },
+  {
+    "topic": "I Beat This Entire Factory Game With Basically No Factory - StarRupture",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 290,312 views \u2022 ~340m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=802J6OnLBgc"
   },
   {
     "topic": "ASHLEY CRASHED OUT In GTA 5....",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,338 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 222,165 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OFSVE9_Sx9Y"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q1TKKd2aNQw"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fwnxnrkBp5E"
   },
   {
@@ -248,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PXxWawbtevU"
+  },
+  {
+    "topic": "Inside Politics With Manu Raju",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4RAaTfAf1ng"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=32p_7GFOiJ4"
   },
   {
@@ -264,15 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~618m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P6emVDXKsQs"
-  },
-  {
-    "topic": "Raiders of the Lost Ark",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RxtVxvusvEQ"
   }
 ]
