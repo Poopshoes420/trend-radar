@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruix6e/oc_creep/"
   },
   {
-    "topic": "group pics (OC)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruiigu/group_pics_oc/"
-  },
-  {
     "topic": "[OC] no going back",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruiwkv/oc_no_going_back/"
+  },
+  {
+    "topic": "group pics (OC)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruiigu/group_pics_oc/"
   },
   {
     "topic": "Bro can time travel \ud83d\ude2d\ud83d\ude4f",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru7atr/ig_violence_should_be_the_better_option_there/"
   },
   {
+    "topic": "I can't tell if this is still marked for kids?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruj1vf/i_cant_tell_if_this_is_still_marked_for_kids/"
+  },
+  {
     "topic": "I HATE, I ABSOLUTELY HATE THOSE AI ADDS DAMNIT",
     "sources": [
       "reddit"
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rui4cw/i_hate_i_absolutely_hate_those_ai_adds_damnit/"
   },
   {
-    "topic": "Youtube getting blunt",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtvctk/youtube_getting_blunt/"
-  },
-  {
-    "topic": "Taiwan reports large-scale Chinese military aircraft presence near island",
+    "topic": "Iran Officially Confirms Military Support From Russia And China In War Against the US",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rudw4d/taiwan_reports_largescale_chinese_military/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rul6fl/iran_officially_confirms_military_support_from/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1480, Part 1 (Thread #1627)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Peter Thiel's Secretive Conference in Rome on Antichrist draws Attention from Church l",
+    "topic": "Taiwan reports large-scale Chinese military aircraft presence near island",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rui8n5/peter_thiels_secretive_conference_in_rome_on/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rudw4d/taiwan_reports_largescale_chinese_military/"
   },
   {
     "topic": "Putin Adviser Told Macron Envoys to \u201cGo to Hell\u201d Over Europe\u2019s Seat at Ukraine Peace Talks",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rui0ix/as_i_play_through_bioshock_remastered_im_reminded/"
   },
   {
+    "topic": "Bought CP2077 on launch day Dec. 10 2020 \u2014 finally about to open and play it \ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rum3wy/bought_cp2077_on_launch_day_dec_10_2020_finally/"
+  },
+  {
     "topic": "Overwatch co-creator Jeff Kaplan says he was told by CFO if the game didn't hit certain revenue goals, \"we're gonna lay off a 1000 people and it's gonna be on you\": 'It was the biggest f**k you moment I've had in my career'",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rtqkqi/overwatch_cocreator_jeff_kaplan_says_he_was_told/"
   },
   {
-    "topic": "Resident Evil Requiem has Idle Reload Animations that most players won't ever see",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ru1tg0/resident_evil_requiem_has_idle_reload_animations/"
-  },
-  {
     "topic": "Minecraft Pro VS 1000 Player Civilization",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,046,614 views \u2022 ~312m old",
+    "why": "Trending on YouTube \u2022 1,161,179 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
   },
   {
@@ -192,15 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 996,589 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 1,001,209 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h3K0fe4edH8"
+  },
+  {
+    "topic": "ASHLEY CRASHED OUT In GTA 5....",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 181,683 views \u2022 ~362m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OFSVE9_Sx9Y"
+  },
+  {
+    "topic": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 30,903 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
   },
   {
     "topic": "ACC Tournament: Virginia vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tJ4GTMTWP-k"
   },
   {
@@ -208,15 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=egegBau-lTI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~47m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Q1TKKd2aNQw"
   },
   {
     "topic": "Big West Tournament: Hawaii vs. UC Irvine",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fwnxnrkBp5E"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~580m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PXxWawbtevU"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RDLdTV0zfaU"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=32p_7GFOiJ4"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P6emVDXKsQs"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RxtVxvusvEQ"
   },
   {
@@ -264,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lFkavXkhiwo"
   }
 ]
