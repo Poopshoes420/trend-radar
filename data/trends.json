@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtqs13/time_to_tease_the_cat/"
   },
   {
+    "topic": "We got bigger fish to fry",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ru4zuq/we_got_bigger_fish_to_fry/"
+  },
+  {
     "topic": "Who cleared this folding cafeteria table design at this k-12 school?? \ud83e\udd23\ud83e\udd23",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rtpy5d/who_cleared_this_folding_cafeteria_table_design/"
   },
   {
-    "topic": "Not guilty your honor",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rttu50/not_guilty_your_honor/"
-  },
-  {
     "topic": "Youtube getting blunt",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtvctk/youtube_getting_blunt/"
-  },
-  {
-    "topic": "EVEN F*CKING YOUTUBE CEO IS IN THE EPSTEIN FILES. BRO I'M DONE.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtw1ri/even_fcking_youtube_ceo_is_in_the_epstein_files/"
   },
   {
     "topic": "Absurd case of plagiarism - A big YouTuber with 700k subs steals the entire script from a small creator, down to the jokes.",
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rtzljo/why_is_this_in_people_also_watched_i_searched_for/"
+  },
+  {
+    "topic": "So Im a black content creator I think its kinda rude and unorthodox how people search for content suggesting black people in",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ru4scg/so_im_a_black_content_creator_i_think_its_kinda/"
   },
   {
     "topic": "When I click on a video but can tell the script was written by chat gpt",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,269,047 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 1,287,146 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTrPm-TR3hM"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 896,174 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 1,034,501 views \u2022 ~549m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F1awawd96H8"
-  },
-  {
-    "topic": "Dany Ome y Kevincito El 13 - Angelito Vuela (Video Oficial)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 25,147 views \u2022 ~468m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hOv6mb7e3Bw"
   },
   {
     "topic": "SEC Tournament: Vanderbilt vs. Florida",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0WTS3uXgb0I"
   },
   {
@@ -216,23 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kD8lABg8hsE"
   },
   {
-    "topic": "Saturday in America",
+    "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R4NPUGFSKTs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=01FXOY0O64U"
+  },
+  {
+    "topic": "CNN Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JYof_AcEfNw"
   },
   {
     "topic": "Arsenal vs. Everton",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EWJZgZaboP0"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0zvFwLTvvNc"
   }
 ]
