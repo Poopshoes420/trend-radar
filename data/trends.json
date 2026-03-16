@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rur84h/poor_guy/"
   },
   {
-    "topic": "Snack attack [oc]",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruekgi/snack_attack_oc/"
-  },
-  {
     "topic": "[OC] creep",
     "sources": [
       "reddit"
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruix6e/oc_creep/"
   },
   {
+    "topic": "Snack attack [oc]",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ruekgi/snack_attack_oc/"
+  },
+  {
     "topic": "Is How to Basic starting to use AI now?",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruoa54/is_how_to_basic_starting_to_use_ai_now/"
+  },
+  {
+    "topic": "WTF?! Rickroll no longer exists?!?!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruy5og/wtf_rickroll_no_longer_exists/"
   },
   {
     "topic": "Channel scamming kids",
@@ -72,15 +81,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruatzy/bro_can_time_travel/"
   },
   {
-    "topic": "Why? Just why?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ruqkng/why_just_why/"
-  },
-  {
     "topic": "Well this is new",
     "sources": [
       "reddit"
@@ -88,33 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rukm7r/well_this_is_new/"
-  },
-  {
-    "topic": "Starmer Refuses to Send UK Warships to Strait of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rusrfq/starmer_refuses_to_send_uk_warships_to_strait_of/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1480, Part 1 (Thread #1627)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ru472p/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #8)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
     "topic": "Trump warns NATO faces a \u201cbad future\u201d if allies fail to help US in Iran",
@@ -126,6 +99,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ruujo1/trump_warns_nato_faces_a_bad_future_if_allies/"
   },
   {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1481, Part 1 (Thread #1628)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ruzbu1/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #8)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
     "topic": "Iran Officially Confirms Military Support From Russia And China In War Against the US",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rul6fl/iran_officially_confirms_military_support_from/"
+  },
+  {
+    "topic": "Australia rejects role in Strait of Hormuz amid ship strikes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ruusfj/australia_rejects_role_in_strait_of_hormuz_amid/"
   },
   {
     "topic": "Michael B. Jordan wins \u2018Best Actor\u2019 for \u2018Sinners\u2019 at the 2026 Oscars",
@@ -180,43 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ruhsme/modern_jrpgs_are_proving_turn_based_combat_still/"
   },
   {
-    "topic": "Sunday 3/16",
+    "topic": "This Game is Truly Terrifying",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 324,274 views \u2022 ~123m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hW4QxF2cOEA"
+    "why": "Trending on YouTube \u2022 421,266 views \u2022 ~483m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=J8DZLaX4Zt4"
   },
   {
     "topic": "How the f*ck does this keep happening..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 489,792 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 551,088 views \u2022 ~666m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xajAjieO4Lo"
-  },
-  {
-    "topic": "This Game is Truly Terrifying",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 317,841 views \u2022 ~363m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=J8DZLaX4Zt4"
-  },
-  {
-    "topic": "NEVER FIGHT ALONE // Miks Agent Trailer - VALORANT",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 547,165 views \u2022 ~630m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
   },
   {
     "topic": "Hermitcraft 11: Episode 13 - FIRE!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 406,508 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 460,775 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0WM1HmJrWQ"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 377,436 views \u2022 ~552m old",
+    "why": "Trending on YouTube \u2022 453,742 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Frj44cYpjSE"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 294,631 views \u2022 ~496m old",
+    "why": "Trending on YouTube \u2022 348,499 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hEQyy-Uh6ng"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 164,234 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 197,859 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GB8rdT9ENYk"
   },
   {
@@ -248,55 +232,95 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 118,941 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 167,329 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FPVqXzMbWMI"
   },
   {
-    "topic": "Fox News Live",
+    "topic": "SEC Tournament: Vanderbilt vs. Arkansas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1k8WmNpOE90"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JZu-9d_-dHA"
   },
   {
-    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "topic": "Live From THE PLAYERS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LR5MjrxDRnI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=llpP6E3om6M"
+  },
+  {
+    "topic": "Las Vegas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZqmMVe-s-2s"
+  },
+  {
+    "topic": "Ivy League Tournament: Pennsylvania vs. Yale",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u5vOOM8N8OI"
+  },
+  {
+    "topic": "Fox Report With Jon Scott",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eXuHFnV-is0"
+  },
+  {
+    "topic": "New Zealand vs. United States",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=16_DjoFI7Wk"
+  },
+  {
+    "topic": "CNN & Variety Red Carpet Live",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GXjIvTvMuak"
+  },
+  {
+    "topic": "Liverpool vs. Tottenham Hotspur",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4cDDEBQUUsI"
   },
   {
     "topic": "Manchester United vs. Aston Villa",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=26lvOXV2Sj0"
-  },
-  {
-    "topic": "Ask Rory",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9KmWsf2_cvE"
   },
   {
     "topic": "Velshi",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mXBc4QmzfY4"
   },
   {
-    "topic": "Spice It Up!",
+    "topic": "Pitch Perfect",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-J50zb3QhMs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TfR94We75H0"
   }
 ]
