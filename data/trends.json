@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Working as intended",
+    "topic": "QAPLA'",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvehld/working_as_intended/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvjz8o/qapla/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "QAPLA'",
+    "topic": "Working as intended",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvjz8o/qapla/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvehld/working_as_intended/"
   },
   {
     "topic": "Matt Berry pronouncing things at the Oscars",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Trump says he thinks he will have the 'honor' of taking Cuba",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvmcaj/trump_says_he_thinks_he_will_have_the_honor_of/"
+  },
+  {
     "topic": "Zelensky says Putin is making billions from Middle East war",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvbc60/zelensky_says_putin_is_making_billions_from/"
-  },
-  {
-    "topic": "Malaysia Becomes First Country To Declare US Trade Deal 'Null And Void' After Supreme Court Tariff Ruling",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rv6gd9/malaysia_becomes_first_country_to_declare_us/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvel7g/a_delaware_judge_has_ruled_that_krafton_must/"
   },
   {
-    "topic": "Steam game naming disaster ends in the most wholesome way possible | 'Piece by Piece' and 'Piece by Piece' were released days apart",
+    "topic": "Lore accurate",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvid8s/steam_game_naming_disaster_ends_in_the_most/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvn1mm/lore_accurate/"
   },
   {
     "topic": "\u2018This is just a garbage AI Filter\u2019: Nvidia met with criticism for DLSS 5\u2019s \u2018photoreal\u2019 graphics alterations",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvmcm6/this_is_just_a_garbage_ai_filter_nvidia_met_with/"
   },
   {
+    "topic": "The March 16, 2026 Severe Weather Coverage, As It Happened...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 922,664 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d5ZcZJTDwno"
+  },
+  {
     "topic": "Star Wars: Maul - Shadow Lord | Official Trailer | Streaming April 6 on Disney+",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,756 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 339,039 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DkVepshZhGc"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,155 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 176,955 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SEVbq2DvsEQ"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,366 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 30,643 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PIuI8k0QDXc"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jFveES7tufo"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sTnt5myRL3o"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PNVxxtyjyB4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=imhYOzdYql0"
   },
   {
     "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u760BERIQA8"
-  },
-  {
-    "topic": "Varney & Company",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qp-oSDdR34c"
   }
 ]
