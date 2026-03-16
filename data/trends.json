@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rrykbx/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Starmer Refuses to Send UK Warships to Strait of Hormuz",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rusrfq/starmer_refuses_to_send_uk_warships_to_strait_of/"
+  },
+  {
     "topic": "Iran threatens to escalate war after Trump says \u2018many countries\u2019 will send warships to strait of Hormuz",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ruo8hz/iran_threatens_to_escalate_war_after_trump_says/"
-  },
-  {
-    "topic": "Taiwan reports large-scale Chinese military aircraft presence near island",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rudw4d/taiwan_reports_largescale_chinese_military/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,202,024 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 1,207,825 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PrISVQoOv6E"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,810,403 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 1,843,608 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qkXpSSmDKXw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 426,613 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 441,412 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gictwC-KlTk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 316,025 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 335,164 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xajAjieO4Lo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,819 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 266,634 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C0WM1HmJrWQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 450,845 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 468,772 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=802J6OnLBgc"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,281 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 234,715 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Frj44cYpjSE"
   },
   {
@@ -240,31 +240,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dUrhaZ2TWos"
+  },
+  {
+    "topic": "Manchester United vs. Aston Villa",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=26lvOXV2Sj0"
   },
   {
     "topic": "Fareed Zakaria GPS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gvfQin2pk8k"
   },
   {
-    "topic": "Eat Your Protein",
+    "topic": "4 Super-Fast Suppers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=m4xI4yjIw8w"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_6jDYz28acs"
   },
   {
     "topic": "The Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TL6i38nQOzA"
   }
 ]
