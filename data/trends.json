@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvehld/working_as_intended/"
   },
   {
-    "topic": "So much Flavor \ud83e\udd23",
+    "topic": "Male dog has to take care of the puppies today.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvvzbf/so_much_flavor/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvdkia/male_dog_has_to_take_care_of_the_puppies_today/"
   },
   {
     "topic": "If I see this guys face in an ad one more time I will crash out.",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvoiid/youtube_is_getting_significantly_worse/"
   },
   {
+    "topic": "In lieu of the annoying ads this guy is in, I turned him into a soyjak",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvyrh9/in_lieu_of_the_annoying_ads_this_guy_is_in_i/"
+  },
+  {
     "topic": "bro? what.",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvt9g6/bro_what/"
-  },
-  {
-    "topic": "Are we fr?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvmr8l/are_we_fr/"
   },
   {
     "topic": "AI slop infested and conquered YouTube",
@@ -153,24 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "HOLY this is bad...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvtayn/holy_this_is_bad/"
-  },
-  {
-    "topic": "\u2018This is just a garbage AI Filter\u2019: Nvidia met with criticism for DLSS 5\u2019s \u2018photoreal\u2019 graphics alterations",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvmcm6/this_is_just_a_garbage_ai_filter_nvidia_met_with/"
-  },
-  {
     "topic": "A Delaware judge has ruled that Krafton must reinstate Ted Gill, the fired CEO of Unknown Worlds, and give him control over release plans for 'Subnautica 2'. In ruling, the judge accuses Krafton's CEO of using ChatGPT to come up with strategy to get out of paying Unknown Worlds a $250m bonus",
     "sources": [
       "reddit"
@@ -180,11 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvel7g/a_delaware_judge_has_ruled_that_krafton_must/"
   },
   {
+    "topic": "Steam game naming disaster ends in the most wholesome way possible | 'Piece by Piece' and 'Piece by Piece' were released days apart",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvid8s/steam_game_naming_disaster_ends_in_the_most/"
+  },
+  {
+    "topic": "Switch 2 system update v22.0.0 is out: Adds \"Handheld Mode Boost\" to Switch 2 (docked Switch 1 games in Switch 2 portable)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvtuad/switch_2_system_update_v2200_is_out_adds_handheld/"
+  },
+  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 536,769 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 539,208 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pOpF93Qf3Kk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 430,879 views \u2022 ~209m old",
+    "why": "Trending on YouTube \u2022 434,384 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9lGAXrdF9_0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 575,416 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 617,129 views \u2022 ~617m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5MR5BmeNnSs"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 346,142 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 392,192 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jRig7JvOpWg"
+  },
+  {
+    "topic": "Sekiro: No Defeat | Official Trailer 2 | Crunchyroll",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 416,765 views \u2022 ~560m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IanqpvZsp_s"
   },
   {
     "topic": "ROBLOX JUST RUINED CHATTING",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,551 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 208,599 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KaUEahxZA2s"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,066 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 393,588 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AbTk9YGZptM"
-  },
-  {
-    "topic": "Sekiro: No Defeat | Official Trailer 2 | Crunchyroll",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 354,983 views \u2022 ~504m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IanqpvZsp_s"
   },
   {
     "topic": "Becoming FUNNY MEMES in Roblox!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,924 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 338,174 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dD5mLNYGphM"
   },
   {
@@ -248,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,525 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 242,870 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n20D8znK-1E"
-  },
-  {
-    "topic": "Spider-Man Brand New Day Trailer Leak Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 100,815 views \u2022 ~669m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Kvop6vy0NU8"
   },
   {
     "topic": "Honeykomb Brazy - \"Bird Doo Doo\" (Official Music Video - WSHH Exclusive)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,014 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 55,546 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8HmVukjhsIY"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,506 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 23,724 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3SZA29Sr9WM"
   },
   {
@@ -280,39 +272,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,597 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 39,108 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bqYoaU0rEnk"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=io1UlzN6x2s"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~51m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OxRvUVy2DDw"
+  },
+  {
+    "topic": "The Art of Breadcrumbing",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xhJ4RUqODyw"
+  },
+  {
+    "topic": "The Lead With Jake Tapper",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=h8FmTuGZnmc"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyq7TH8b2sg"
   },
   {
-    "topic": "The Arena With Kasie Hunt",
+    "topic": "Star Wars: The Force Awakens",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LdQisvzN_KM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~48m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yuzoh_IC9D0"
   },
   {
     "topic": "The Communication Deterioration",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CVtiGaYxI_o"
   }
 ]
