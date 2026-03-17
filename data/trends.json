@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvyrh9/in_lieu_of_the_annoying_ads_this_guy_is_in_i/"
   },
   {
-    "topic": "YouTube is getting significantly worse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvoiid/youtube_is_getting_significantly_worse/"
-  },
-  {
     "topic": "bro? what.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvt9g6/bro_what/"
+  },
+  {
+    "topic": "YouTube is getting significantly worse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvoiid/youtube_is_getting_significantly_worse/"
   },
   {
     "topic": "AI slop infested and conquered YouTube",
@@ -180,19 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvtuad/switch_2_system_update_v2200_is_out_adds_handheld/"
   },
   {
-    "topic": "Sekiro: No Defeat | Official Trailer 2 | Crunchyroll",
+    "topic": "\ud83d\udd34LIVE | THE ISLE | PEANUT-ASORAUS | #RAAAAH #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 500,164 views \u2022 ~672m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IanqpvZsp_s"
+    "why": "Trending on YouTube \u2022 784,780 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bhgE8JEeCWg"
   },
   {
     "topic": "BTS: THE RETURN | Documentary | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 463,074 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 493,186 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jRig7JvOpWg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 266,372 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 290,719 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KaUEahxZA2s"
   },
   {
@@ -208,39 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 384,018 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 406,348 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dD5mLNYGphM"
-  },
-  {
-    "topic": "I Worked Night Shift At A Pawn Shop",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 276,419 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=n20D8znK-1E"
   },
   {
     "topic": "Copper to Champion BUT I Cant Shoot (Episode 1)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 163,321 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 179,354 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oWiBGHovBDU"
-  },
-  {
-    "topic": "Rio Da Yung Og - Tonight (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 27,243 views \u2022 ~514m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3SZA29Sr9WM"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OxRvUVy2DDw"
   },
   {
@@ -248,71 +232,79 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G_SjRnDeX2o"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=49N_ZJBj9-8"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k1CkfVOcVOQ"
   },
   {
-    "topic": "The Art of Breadcrumbing",
+    "topic": "Burnt Bridges",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xhJ4RUqODyw"
-  },
-  {
-    "topic": "The Lead With Jake Tapper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=h8FmTuGZnmc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cDeTw5pdaeY"
   },
   {
     "topic": "College GameNight: Tournament Challenge Marathon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vez2q8IasgY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DOuya2hdNWE"
   },
   {
-    "topic": "The Maternal Combustion",
+    "topic": "The Art of Breadcrumbing",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7LDGhh1wyu8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xhJ4RUqODyw"
+  },
+  {
+    "topic": "The Separation Oscillation",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DfnZTphFtb8"
   },
   {
     "topic": "Texas A&M at LSU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OrUnfALhVuc"
   },
   {
-    "topic": "Cuomo",
+    "topic": "A Dream Come True",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OuQMYUCJhK8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=w7YTT6hum6g"
   },
   {
-    "topic": "Star Wars: The Force Awakens",
+    "topic": "Breaking Point",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yuzoh_IC9D0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Jw3bblz_-SY"
   }
 ]
