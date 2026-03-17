@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "You wanna buy some honey? Its legit, just look at my face",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rw08ky/you_wanna_buy_some_honey_its_legit_just_look_at/"
+  },
+  {
     "topic": "QAPLA'",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rvehld/working_as_intended/"
-  },
-  {
-    "topic": "You wanna buy some honey? Its legit, just look at my face",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rw08ky/you_wanna_buy_some_honey_its_legit_just_look_at/"
   },
   {
     "topic": "If I see this guys face in an ad one more time I will crash out.",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvmcaj/trump_says_he_thinks_he_will_have_the_honor_of/"
   },
   {
-    "topic": "Cuba\u2019s power system suffers total collapse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvhl89/cubas_power_system_suffers_total_collapse/"
-  },
-  {
     "topic": "Magnitude 6 earthquake strikes Cuba, EMSC says",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvxi90/magnitude_6_earthquake_strikes_cuba_emsc_says/"
+  },
+  {
+    "topic": "Cuba\u2019s power system suffers total collapse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvhl89/cubas_power_system_suffers_total_collapse/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rvtuad/switch_2_system_update_v2200_is_out_adds_handheld/"
   },
   {
-    "topic": "We played with the Super Battle Golf Developers...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 652,424 views \u2022 ~667m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5MR5BmeNnSs"
-  },
-  {
     "topic": "Sekiro: No Defeat | Official Trailer 2 | Crunchyroll",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 462,147 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 500,164 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IanqpvZsp_s"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 427,928 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 463,074 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jRig7JvOpWg"
   },
   {
@@ -208,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,186 views \u2022 ~346m old",
+    "why": "Trending on YouTube \u2022 266,372 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KaUEahxZA2s"
-  },
-  {
-    "topic": "ROBLOX IS SAVED \ud83e\udd73",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 415,819 views \u2022 ~625m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AbTk9YGZptM"
   },
   {
     "topic": "Becoming FUNNY MEMES in Roblox!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 359,273 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 384,018 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dD5mLNYGphM"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,387 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 276,419 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n20D8znK-1E"
   },
   {
@@ -240,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 139,830 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 163,321 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oWiBGHovBDU"
-  },
-  {
-    "topic": "Hardcore Minecraft Is Not For The Weak...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 158,590 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TPF5rPbUCZ4"
   },
   {
     "topic": "Rio Da Yung Og - Tonight (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,644 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 27,243 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3SZA29Sr9WM"
   },
   {
@@ -264,15 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OxRvUVy2DDw"
+  },
+  {
+    "topic": "Boston Bruins at New Jersey Devils",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=G_SjRnDeX2o"
+  },
+  {
+    "topic": "Deadline: White House",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=k1CkfVOcVOQ"
   },
   {
     "topic": "The Art of Breadcrumbing",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xhJ4RUqODyw"
   },
   {
@@ -280,31 +272,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h8FmTuGZnmc"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "College GameNight: Tournament Challenge Marathon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fyq7TH8b2sg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vez2q8IasgY"
+  },
+  {
+    "topic": "The Maternal Combustion",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7LDGhh1wyu8"
+  },
+  {
+    "topic": "Texas A&M at LSU",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OrUnfALhVuc"
+  },
+  {
+    "topic": "Cuomo",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OuQMYUCJhK8"
   },
   {
     "topic": "Star Wars: The Force Awakens",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yuzoh_IC9D0"
-  },
-  {
-    "topic": "The Communication Deterioration",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CVtiGaYxI_o"
   }
 ]
