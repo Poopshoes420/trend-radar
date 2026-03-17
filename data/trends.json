@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvyrh9/in_lieu_of_the_annoying_ads_this_guy_is_in_i/"
   },
   {
-    "topic": "bro? what.",
+    "topic": "I saw a post clowning on this guy's recent video but it was too old so no one saw the meme I left in the comments",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rvt9g6/bro_what/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwafpj/i_saw_a_post_clowning_on_this_guys_recent_video/"
   },
   {
     "topic": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Ukraine Downs Drones for $10,000, US Uses $4M Missiles, Zelensky Says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwdu5n/ukraine_downs_drones_for_10000_us_uses_4m/"
+  },
+  {
     "topic": "NATO countries don't want to get involved in Iran operation, Trump says",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwax6h/nato_countries_dont_want_to_get_involved_in_iran/"
-  },
-  {
-    "topic": "Iran warns of 'false flag attacks' by US, Israel",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rw6883/iran_warns_of_false_flag_attacks_by_us_israel/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,690,018 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 2,147,961 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3_9vCamtuPY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,530 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 388,746 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fu8_U1mWGZA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,822 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 300,895 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NQQqInahTAM"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,570 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 162,934 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MNeoJI82BHI"
+  },
+  {
+    "topic": "Fortnite Chapter 7 Season 2: Showdown | Cinematic Recap Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,384 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KIlnglVOuG0"
+  },
+  {
+    "topic": "Hannah Montana 20th Anniversary Special Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 63,097 views \u2022 ~241m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QBjEeCFdc2o"
   },
   {
     "topic": "Starfield: Free Lanes & Terran Armada Official Announce Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,821 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 55,487 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=whCXShhBQzY"
-  },
-  {
-    "topic": "SPIDER-MAN BRAND NEW DAY TRAILER FOOTAGE BREAKDOWN! ITS HAPPENING!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 31,318 views \u2022 ~287m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Z_EnlO_zs7Q"
   },
   {
     "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kv7QulJzH6s"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IpTr9AdC_EI"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G_SjRnDeX2o"
   },
   {
@@ -256,23 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MxbC8YaCwJI"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ur7mXEgyEsc"
   },
   {
     "topic": "Jack Reacher",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eLVpt53wrqQ"
-  },
-  {
-    "topic": "CNN Global Report: War With Iran",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~655m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=49N_ZJBj9-8"
   }
 ]
