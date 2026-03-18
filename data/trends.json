@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "[OC] well deserved",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx4l4y/oc_well_deserved/"
+  },
+  {
     "topic": "NBA player Alex Caruso blocks Tristan Da Silva with a shoe",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx1u06/fun_fact_pistol_shrimp_and_goby_fish_are/"
-  },
-  {
-    "topic": "What kind of doctor is this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rwi1kw/what_kind_of_doctor_is_this/"
   },
   {
     "topic": "Twenty years in the making",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwmgiu/are_we_joking/"
   },
   {
-    "topic": "Bro, this is the worst feature they added it\u2019s so annoying\u2026.",
+    "topic": "sick of this type of channels",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwnz40/bro_this_is_the_worst_feature_they_added_its_so/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwyxkb/sick_of_this_type_of_channels/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1483, Part 1 (Thread #1630)",
@@ -108,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "World Health Organization Prepares for Nuclear Scenario, Including Weapons Use, in Iran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx0kgk/world_health_organization_prepares_for_nuclear/"
+  },
+  {
+    "topic": "Iran has new underground nuclear site, IAEA reveals",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx3syy/iran_has_new_underground_nuclear_site_iaea_reveals/"
+  },
+  {
     "topic": "Ukraine Drones Wipe Out Most Tanks at Key Russian Military Fuel Depot in Krasnodar",
     "sources": [
       "reddit"
@@ -115,24 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwykg6/ukraine_drones_wipe_out_most_tanks_at_key_russian/"
-  },
-  {
-    "topic": "Canada could join EU, French foreign minister says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwx2s2/canada_could_join_eu_french_foreign_minister_says/"
-  },
-  {
-    "topic": "Europe could offer to help Trump on Iran \u2014 if he backs Ukraine, Finland\u2019s Stubb suggests",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwyy7l/europe_could_offer_to_help_trump_on_iran_if_he/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 681,777 views \u2022 ~150m old",
+    "why": "Trending on YouTube \u2022 1,885,308 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aBlsrtxuwss"
   },
   {
@@ -192,15 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 750,808 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 758,683 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wEjw88DeXHg"
+  },
+  {
+    "topic": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION!!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 42,379 views \u2022 ~195m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HH0u49CnMO8"
+  },
+  {
+    "topic": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 28,290 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
+  },
+  {
+    "topic": "SPIDER-MAN: BRAND NEW DAY \u2013 Official Trailer (HD) - Reaction!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,141 views \u2022 ~140m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=khZK8AdmerU"
   },
   {
     "topic": "First Four: Maryland-Baltimore County vs. Howard",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mqcBKfsSeoQ"
   },
   {
@@ -208,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5j1UPxvyRwA"
   },
   {
@@ -216,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~397m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2A7VtJP3V2U"
   },
   {
@@ -224,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1rfqzVOZLpM"
   },
   {
@@ -232,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GflEj_ZD4t8"
   },
   {
@@ -240,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~252m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kYymSwPPBRM"
   },
   {
@@ -248,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v3QMNnZ7t6Y"
   },
   {
@@ -256,15 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j_Pb2KgxIYY"
-  },
-  {
-    "topic": "Goodfellas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~285m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GoemK0-ucu0"
   }
 ]
