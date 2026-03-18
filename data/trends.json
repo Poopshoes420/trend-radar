@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "What kind of doctor is this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rwi1kw/what_kind_of_doctor_is_this/"
-  },
-  {
     "topic": "Europe under one language",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rwsg8g/europe_under_one_language/"
+  },
+  {
+    "topic": "What kind of doctor is this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rwi1kw/what_kind_of_doctor_is_this/"
   },
   {
     "topic": "Intimate moment at Maccas",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rw4ila/how_are_they_so_fast_sponsorblock/"
   },
   {
-    "topic": "Bro, this is the worst feature they added it\u2019s so annoying\u2026.",
+    "topic": "What the heck is this ad holyy",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwnz40/bro_this_is_the_worst_feature_they_added_its_so/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwqpfk/what_the_heck_is_this_ad_holyy/"
   },
   {
     "topic": "Iran strikes Tel Aviv with cluster warheads in retaliation for killing of security chief",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Meningitis outbreak 'declared national emergency' amid deadly outbreak",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwi4lu/meningitis_outbreak_declared_national_emergency/"
-  },
-  {
     "topic": "Canada could join EU, French foreign minister says",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwx2s2/canada_could_join_eu_french_foreign_minister_says/"
+  },
+  {
+    "topic": "Meningitis outbreak 'declared national emergency' amid deadly outbreak",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwi4lu/meningitis_outbreak_declared_national_emergency/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rwqyxp/slay_the_spire_2_is_one_of_the_years_biggest_hits/"
   },
   {
+    "topic": "Valve games always had a liminal feel to it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rwxl6b/valve_games_always_had_a_liminal_feel_to_it/"
+  },
+  {
     "topic": "Old R* games were a different vibe man",
     "sources": [
       "reddit"
@@ -171,36 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rwlu58/old_r_games_were_a_different_vibe_man/"
   },
   {
-    "topic": "First time playing the Witcher 3. When they described the botchling I don\u2019t know what I expected but it certainly wasn\u2019t this monstrosity. Otherwise great game so far!",
+    "topic": "\ud83d\udd34LIVE | The Isle | PEANUT-ASORAUS | TESTICULAR TORSION TUESDAY | #RAAAAH #BUNGULATE",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rwu6p8/first_time_playing_the_witcher_3_when_they/"
+    "why": "Trending on YouTube \u2022 727,969 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wEjw88DeXHg"
   },
   {
     "topic": "SPIDER-MAN 4: BRAND NEW DAY All Official Trailer Clips So Far (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 568,166 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 645,145 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h4EwKwlAbqM"
-  },
-  {
-    "topic": "I\u2019m Working At A Corner Store\u2026 (Part 1)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 244,073 views \u2022 ~666m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4Lbwi0gkqts"
   },
   {
     "topic": "DUNE 3 TRAILER BREAKDOWN! Details You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,157 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 79,461 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CmevrgpFK_M"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R0fYvYcpQLw"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "Jupiter Links GC vs. Boston Common Golf",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZV6xfSg1eXM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2A7VtJP3V2U"
   },
   {
-    "topic": "Erin Burnett OutFront",
+    "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LCMjbc-K2Fk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1rfqzVOZLpM"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bhVXMle27GY"
   },
   {
     "topic": "First Round: Liberty at George Mason",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
     "exampleUrl": "https://www.youtube.com/watch?v=r6d4PzE6NKg"
   },
   {
@@ -240,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G4LbsmEKy0E"
   },
   {
-    "topic": "Penny Wise, Impound Foolish",
+    "topic": "First Round: Wyoming at Wichita State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wEheHrN1udE"
-  },
-  {
-    "topic": "The Valentino Submergence",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_DRWtwbt6Hw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QflalMdvQ1I"
   }
 ]
