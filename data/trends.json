@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxauns/ouch/"
   },
   {
+    "topic": "how to have fun as an adult",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxe5ck/how_to_have_fun_as_an_adult/"
+  },
+  {
     "topic": "[OC] organ donor",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx4m16/oc_organ_donor/"
-  },
-  {
-    "topic": "Sick [OC]",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx9j8g/sick_oc/"
   },
   {
     "topic": "What do you guys think about this?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwo6dy/twenty_years_in_the_making/"
   },
   {
-    "topic": "New low for youtube! Demonitized real creator account because they think its Ai !",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwutl0/new_low_for_youtube_demonitized_real_creator/"
-  },
-  {
     "topic": "Always like this",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rx4drw/always_like_this/"
+  },
+  {
+    "topic": "New low for youtube! Demonitized real creator account because they think its Ai !",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwutl0/new_low_for_youtube_demonitized_real_creator/"
   },
   {
     "topic": "Does the button even work?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran has new underground nuclear site, IAEA reveals",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx3syy/iran_has_new_underground_nuclear_site_iaea_reveals/"
-  },
-  {
     "topic": "World Health Organization Prepares for Nuclear Scenario, Including Weapons Use, in Iran",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx0kgk/world_health_organization_prepares_for_nuclear/"
+  },
+  {
+    "topic": "Ukraine Drones Wipe Out Most Tanks at Key Russian Military Fuel Depot in Krasnodar",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwykg6/ukraine_drones_wipe_out_most_tanks_at_key_russian/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,543,484 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 6,945,061 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aBlsrtxuwss"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,129,645 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 2,294,069 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fQbEuS9GO3E"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | The Isle | PEANUT-ASORAUS | TESTICULAR TORSION TUESDAY | #RAAAAH #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 789,041 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wEjw88DeXHg"
   },
   {
     "topic": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 266,271 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 346,529 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e4sCLYMSokg"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 252,840 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 275,723 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mt6gODAEpxY"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,781 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 282,474 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wDJqxUI0H9Y"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,807 views \u2022 ~462m old",
+    "why": "Trending on YouTube \u2022 256,196 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,761 views \u2022 ~377m old",
+    "why": "Trending on YouTube \u2022 185,654 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ohzj0fvJJsU"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,784 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 100,778 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=khZK8AdmerU"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I-MC8M6SMBM"
   },
   {
@@ -264,39 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5j1UPxvyRwA"
   },
   {
-    "topic": "Jupiter Links GC vs. Boston Common Golf",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2A7VtJP3V2U"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZRqni2_Gdy4"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1rfqzVOZLpM"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~620m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GflEj_ZD4t8"
   },
   {
     "topic": "First Round: Davidson at Oklahoma State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kYymSwPPBRM"
   },
   {
@@ -304,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v3QMNnZ7t6Y"
   }
 ]
