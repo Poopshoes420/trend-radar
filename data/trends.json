@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwmgiu/are_we_joking/"
   },
   {
-    "topic": "sick of this type of channels",
+    "topic": "Always like this",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwyxkb/sick_of_this_type_of_channels/"
-  },
-  {
-    "topic": "Iran has new underground nuclear site, IAEA reveals",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx3syy/iran_has_new_underground_nuclear_site_iaea_reveals/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rx4drw/always_like_this/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1483, Part 1 (Thread #1630)",
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran has new underground nuclear site, IAEA reveals",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx3syy/iran_has_new_underground_nuclear_site_iaea_reveals/"
+  },
+  {
     "topic": "World Health Organization Prepares for Nuclear Scenario, Including Weapons Use, in Iran",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx0kgk/world_health_organization_prepares_for_nuclear/"
   },
   {
-    "topic": "US downgraded in democracy index as press freedom concerns grow",
+    "topic": "Ukraine Drones Wipe Out Most Tanks at Key Russian Military Fuel Depot in Krasnodar",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rx54cm/us_downgraded_in_democracy_index_as_press_freedom/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rwykg6/ukraine_drones_wipe_out_most_tanks_at_key_russian/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Even the studios highlighted in NVIDIA's DLSS 5 reveal were shocked by the generative AI showcase \u2014 game developers \"found out at the same time as the public\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rx9xh0/even_the_studios_highlighted_in_nvidias_dlss_5/"
+  },
+  {
     "topic": "Ciri from The Witcher 3 by my wife. Early game concept Knight armor made by her",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rwxl6b/valve_games_always_had_a_liminal_feel_to_it/"
   },
   {
-    "topic": "Crimson Desert Has Reportedly Already Sold Close to 400,000 Copies on Steam",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rx26b5/crimson_desert_has_reportedly_already_sold_close/"
-  },
-  {
     "topic": "Spider-Man: Brand New Day - Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,913,589 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 5,333,147 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aBlsrtxuwss"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,386,288 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 1,658,661 views \u2022 ~193m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fQbEuS9GO3E"
   },
   {
@@ -200,39 +200,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 769,660 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 777,338 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wEjw88DeXHg"
+  },
+  {
+    "topic": "P1Harmony (\ud53c\uc6d0\ud558\ubaa8\ub2c8) - \u2018L.O.Y.L.\u2019 MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 111,555 views \u2022 ~193m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mt6gODAEpxY"
   },
   {
     "topic": "Fortnite Chapter 7 Season 2: Showdown | Live Action Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,459 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 173,958 views \u2022 ~312m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V3MaEkR5r0E"
-  },
-  {
-    "topic": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 119,143 views \u2022 ~301m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
   },
   {
     "topic": "SPIDER-MAN BRAND NEW DAY TRAILER 2026: Avengers Doomsday, X-Men, Hulk & Things You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,411 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 151,179 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wDJqxUI0H9Y"
+  },
+  {
+    "topic": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 183,038 views \u2022 ~356m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
   },
   {
     "topic": "SPIDER-MAN: BRAND NEW DAY TRAILER REACTION!! Punisher | Scorpion | Marvel Studios",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,316 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 123,112 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ohzj0fvJJsU"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,695 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 78,787 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=khZK8AdmerU"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I-MC8M6SMBM"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5j1UPxvyRwA"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~596m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2A7VtJP3V2U"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1rfqzVOZLpM"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GflEj_ZD4t8"
   },
   {
@@ -288,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kYymSwPPBRM"
   },
   {
@@ -296,15 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v3QMNnZ7t6Y"
-  },
-  {
-    "topic": "Final: Venezuela vs. United States",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=j_Pb2KgxIYY"
   }
 ]
