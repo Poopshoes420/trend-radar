@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Wachu really really want",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxjov2/wachu_really_really_want/"
+  },
+  {
+    "topic": "Help ...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxlpfo/help/"
+  },
+  {
     "topic": "Ouch \ud83d\ude26",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxauns/ouch/"
-  },
-  {
-    "topic": "[OC] well deserved",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx4l4y/oc_well_deserved/"
-  },
-  {
-    "topic": "Sick [OC]",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx9j8g/sick_oc/"
   },
   {
     "topic": "What do you guys think about this?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxba6z/why_are_we_getting_three_ads_now/"
   },
   {
-    "topic": "Europe tells Trump Iran is 'not our war'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxbei9/europe_tells_trump_iran_is_not_our_war/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1483, Part 1 (Thread #1630)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Europe tells Trump Iran is 'not our war'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxbei9/europe_tells_trump_iran_is_not_our_war/"
   },
   {
     "topic": "Russia Sends Oil and Gas Tankers to Crisis-Hit Cuba, Defying U.S. Blockade",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Pearl Abyss stock down 28% due to lower than expected Crimson Desert reviews",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxnlza/pearl_abyss_stock_down_28_due_to_lower_than/"
+  },
+  {
     "topic": "Even the studios highlighted in NVIDIA's DLSS 5 reveal were shocked by the generative AI showcase \u2014 game developers \"found out at the same time as the public\"",
     "sources": [
       "reddit"
@@ -171,28 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxbx7g/disco_elysium_writers_marvel_at_how_a_game_made/"
   },
   {
-    "topic": "A day after Unknown Worlds' ousted CEO gets reinstated, Subnautica 2 gets an early access release date. Artistic direction restored to the helm, but never forget...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rx9ad7/a_day_after_unknown_worlds_ousted_ceo_gets/"
-  },
-  {
-    "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) \u2018SWIM\u2019 Official Teaser 2",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,850,030 views \u2022 ~599m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fQbEuS9GO3E"
-  },
-  {
     "topic": "Season 7 Battle Pass: The Tablet of Life and Time | Official Trailer | Marvel Rivals",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 569,344 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 1,052,662 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i4UyWO2lvfE"
   },
   {
@@ -200,39 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 342,908 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 636,693 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n86REnOtF6A"
+  },
+  {
+    "topic": "Crimson Desert - Before You Buy",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 285,541 views \u2022 ~270m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5axTCm2cj-s"
   },
   {
     "topic": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 543,470 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 590,881 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e4sCLYMSokg"
-  },
-  {
-    "topic": "P1Harmony (\ud53c\uc6d0\ud558\ubaa8\ub2c8) - \u2018L.O.Y.L.\u2019 MV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 338,428 views \u2022 ~599m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mt6gODAEpxY"
-  },
-  {
-    "topic": "SPIDER-MAN BRAND NEW DAY TRAILER 2026: Avengers Doomsday, X-Men, Hulk & Things You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 380,424 views \u2022 ~679m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wDJqxUI0H9Y"
   },
   {
     "topic": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,458 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 233,103 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
   },
   {
@@ -240,71 +224,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 160,794 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 235,498 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UmphUi9vr_g"
-  },
-  {
-    "topic": "SPIDER-MAN: BRAND NEW DAY TRAILER REACTION!! Punisher | Scorpion | Marvel Studios",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 232,252 views \u2022 ~677m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ohzj0fvJJsU"
   },
   {
     "topic": "ROCHY RD X RONY ALCA - LA DROGA E MALA (VIDEO OFICIAL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,413 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 129,212 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lp6YWpimwxo"
-  },
-  {
-    "topic": "Nas & DJ Premier - \"GiT Ready\" (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 99,030 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oQC97J_20d4"
   },
   {
     "topic": "Te Felicito",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,170 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 63,830 views \u2022 ~511m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GCLD72wDLLU"
   },
   {
-    "topic": "First Four: Texas vs. NC State",
+    "topic": "Chuckyy - Lamb Chop (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I-MC8M6SMBM"
+    "why": "Trending on YouTube \u2022 25,067 views \u2022 ~345m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HI2CTxOhLHw"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "America Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XiMoDjK1YaE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=q3C0RNInspc"
   },
   {
-    "topic": "The Situation Room",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=M8tZZXnlRcE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=W7nsdkAMUow"
   },
   {
-    "topic": "Squawk Box",
+    "topic": "Chris Jansing Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xgQldHdS13Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JXB2dpYJDn4"
   }
 ]
