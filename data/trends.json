@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry51lq/how_is_it_that_i_can_put_in_the_exact_title_of_a/"
   },
   {
-    "topic": "Sure YouTube, These Are Totally Children's Music",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
-  },
-  {
     "topic": "I've reported this bot twice and youtube still hasn't done anything \ud83d\ude10",
     "sources": [
       "reddit"
@@ -90,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryaaa2/ive_reported_this_bot_twice_and_youtube_still/"
   },
   {
-    "topic": "Trump draws parallel between Pearl Harbor and US strikes on Iran in meeting with Japanese PM",
+    "topic": "Sure YouTube, These Are Totally Children's Music",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
+  },
+  {
+    "topic": "Iran Publicly Executes Teen Champion Wrestler for Protesting Regime",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry6gki/trump_draws_parallel_between_pearl_harbor_and_us/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryc6cx/iran_publicly_executes_teen_champion_wrestler_for/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1484, Part 1 (Thread #1631)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran Publicly Executes Teen Champion Wrestler for Protesting Regime",
+    "topic": "Trump draws parallel between Pearl Harbor and US strikes on Iran in meeting with Japanese PM",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryc6cx/iran_publicly_executes_teen_champion_wrestler_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry6gki/trump_draws_parallel_between_pearl_harbor_and_us/"
   },
   {
     "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "After 4 years of work, solo dev breaks down in tears after opening Steam and learning his game (Tangy TD) made $250,000 in a week: \"I feel like I really don't deserve this\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxx7v9/after_4_years_of_work_solo_dev_breaks_down_in/"
-  },
-  {
     "topic": "Truly insane numbers done. Love or hate the game",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry988r/truly_insane_numbers_done_love_or_hate_the_game/"
   },
   {
-    "topic": "For anyone that's having a down day or is losing hope, Croc's got you.",
+    "topic": "After 4 years of work, solo dev breaks down in tears after opening Steam and learning his game (Tangy TD) made $250,000 in a week: \"I feel like I really don't deserve this\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryapp9/for_anyone_thats_having_a_down_day_or_is_losing/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxx7v9/after_4_years_of_work_solo_dev_breaks_down_in/"
+  },
+  {
+    "topic": "[RPG Enjoyer] \"The T in T-Virus stands for Thriller\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rye3xu/rpg_enjoyer_the_t_in_tvirus_stands_for_thriller/"
   },
   {
     "topic": "Hyunjin \"LOVER\" Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,074,543 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 1,136,278 views \u2022 ~527m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,218,060 views \u2022 ~615m old",
+    "why": "Trending on YouTube \u2022 1,269,835 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YShjCIA9aXk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 161,374 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 172,537 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P2h1WDGRVhs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,823 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 107,451 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SW8VRcMy5vU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,998 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 143,801 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qhhfIk99HdQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 142,773 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 146,960 views \u2022 ~596m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FCGY3UFL9SI"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=33lCDwowBeg"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~666m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq0hBRUGiIY"
   }
 ]
