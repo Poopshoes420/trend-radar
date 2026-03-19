@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxava9/what_do_you_guys_think_about_this/"
   },
   {
-    "topic": "Twenty years in the making",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwo6dy/twenty_years_in_the_making/"
-  },
-  {
     "topic": "Always like this",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rx4drw/always_like_this/"
+  },
+  {
+    "topic": "Twenty years in the making",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rwo6dy/twenty_years_in_the_making/"
   },
   {
     "topic": "Why do people make playlists with weird titles?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxl3xn/saudi_analyst_says_kingdom_will_activate_defence/"
   },
   {
-    "topic": "Russia Sends Oil and Gas Tankers to Crisis-Hit Cuba, Defying U.S. Blockade",
+    "topic": "Russian tip-off led to arrest of alleged CIA asset Vandyke and six Ukrainians by India.",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxcfd9/russia_sends_oil_and_gas_tankers_to_crisishit/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxr0vp/russian_tipoff_led_to_arrest_of_alleged_cia_asset/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Pearl Abyss stock down 28% due to lower than expected Crimson Desert reviews",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxnlza/pearl_abyss_stock_down_28_due_to_lower_than/"
-  },
-  {
     "topic": "Even the studios highlighted in NVIDIA's DLSS 5 reveal were shocked by the generative AI showcase \u2014 game developers \"found out at the same time as the public\"",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxbx7g/disco_elysium_writers_marvel_at_how_a_game_made/"
   },
   {
-    "topic": "Spending $8,592,732 Building An ISLAND In Roblox..",
+    "topic": "A day after Unknown Worlds' ousted CEO gets reinstated, Subnautica 2 gets an early access release date. Artistic direction restored to the helm, but never forget...",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 934,589 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=n86REnOtF6A"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rx9ad7/a_day_after_unknown_worlds_ousted_ceo_gets/"
   },
   {
     "topic": "Crimson Desert - Before You Buy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 577,035 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 622,731 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5axTCm2cj-s"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 208,748 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 224,156 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RWsEqPXTGxM"
   },
   {
@@ -208,39 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,640 views \u2022 ~557m old",
+    "why": "Trending on YouTube \u2022 40,263 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HI2CTxOhLHw"
-  },
-  {
-    "topic": "The Big Homie - Halfway Out (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 18,195 views \u2022 ~677m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mOIJLHqmrzg"
   },
   {
     "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9O9TsjeF9mw"
   },
   {
-    "topic": "Katy Tur Reports",
+    "topic": "First Four: Richmond vs. Nebraska",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ml_dfWAo2-E"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Eowybracbx0"
   },
   {
-    "topic": "Pardon the Interruption",
+    "topic": "The Beat With Ari Melber",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VsTY0zPtVR0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iKeyuAq3UF4"
+  },
+  {
+    "topic": "The Lead With Jake Tapper",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ydTh3hvtPXM"
   }
 ]
