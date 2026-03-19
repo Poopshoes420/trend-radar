@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxykh0/the_one_time_stone_cold_folded/"
   },
   {
-    "topic": "Help ...",
+    "topic": "Did he survive?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxlpfo/help/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxxiq0/did_he_survive/"
   },
   {
     "topic": "What do you guys think about this?",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry0vry/iran_attack_damage_wipes_out_17_of_qatars_lng/"
+  },
+  {
     "topic": "Trump threatens to \u2018blow up\u2019 all of Iran\u2019s South Pars gasfield if Tehran strikes Qatar | US-Israel war on Iran",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxvhmd/trump_threatens_to_blow_up_all_of_irans_south/"
   },
   {
-    "topic": "World\u2019s Largest LNG Plant Suffers Extensive Damage, Qatar Says",
+    "topic": "Denmark considered destroying Greenland runways amid fears of US attack",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxsbxf/worlds_largest_lng_plant_suffers_extensive_damage/"
-  },
-  {
-    "topic": "Finland says Hungarian PM has \"betrayed\" EU and is using Ukraine in election campaign",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxxw1j/finland_says_hungarian_pm_has_betrayed_eu_and_is/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxzean/denmark_considered_destroying_greenland_runways/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxx7v9/after_4_years_of_work_solo_dev_breaks_down_in/"
   },
   {
-    "topic": "Into The Breach is one of the finest tactics games I have ever played",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxvvum/into_the_breach_is_one_of_the_finest_tactics/"
-  },
-  {
     "topic": "Lies Of P Has Sold 4 Million Copies",
     "sources": [
       "reddit"
@@ -180,27 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry03nb/lies_of_p_has_sold_4_million_copies/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | The Isle | (EVERYTHING'S FIXED) | WACKADOODLE WEDNESDAY | #BUNGULATE",
+    "topic": "Into The Breach is one of the finest tactics games I have ever played",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 694,196 views \u2022 ~304m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Lc8jHupjLJc"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxvvum/into_the_breach_is_one_of_the_finest_tactics/"
   },
   {
     "topic": "First Four: Lehigh vs. Prairie View A&M",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3-U8RA8Gh9M"
+  },
+  {
+    "topic": "Los Angeles Lakers at Houston Rockets",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
     "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Eowybracbx0"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J7unyh8bdq8"
   },
   {
@@ -224,31 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X1rlbUOi-WA"
+  },
+  {
+    "topic": "First Four: Miami (Ohio) vs. SMU",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UmrAXhCcyso"
+  },
+  {
+    "topic": "New Jersey Devils at New York Rangers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SDOhU7tz1ME"
   },
   {
     "topic": "Reunion",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kZmrKs3-8EY"
-  },
-  {
-    "topic": "First Round: Navy at Wake Forest",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ORna5fq3P00"
-  },
-  {
-    "topic": "The Proposal",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XxvZBBj1ShI"
   }
 ]
