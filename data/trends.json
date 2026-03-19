@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry51lq/how_is_it_that_i_can_put_in_the_exact_title_of_a/"
   },
   {
-    "topic": "Sure YouTube, These Are Totally Children's Music",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
-  },
-  {
     "topic": "Can someone tell me this YouTubers name???",
     "sources": [
       "reddit"
@@ -72,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry5efm/can_someone_tell_me_this_youtubers_name/"
   },
   {
+    "topic": "Sure YouTube, These Are Totally Children's Music",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
+  },
+  {
+    "topic": "Anyone else\u2019s algorithm super weird today?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry8r90/anyone_elses_algorithm_super_weird_today/"
+  },
+  {
     "topic": "What do you guys think about this?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxava9/what_do_you_guys_think_about_this/"
-  },
-  {
-    "topic": "So many of these kind of videos, and I'm fucking annoyed with it.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxv1pt/so_many_of_these_kind_of_videos_and_im_fucking/"
   },
   {
     "topic": "Trump draws parallel between Pearl Harbor and US strikes on Iran in meeting with Japanese PM",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry988r/truly_insane_numbers_done_love_or_hate_the_game/"
   },
   {
-    "topic": "Lies Of P Has Sold 4 Million Copies",
+    "topic": "For anyone that's having a down day or is losing hope, Croc's got you.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry03nb/lies_of_p_has_sold_4_million_copies/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryapp9/for_anyone_thats_having_a_down_day_or_is_losing/"
   },
   {
     "topic": "Hyunjin \"LOVER\" Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 900,281 views \u2022 ~398m old",
+    "why": "Trending on YouTube \u2022 939,142 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,064,365 views \u2022 ~518m old",
+    "why": "Trending on YouTube \u2022 1,097,623 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YShjCIA9aXk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 122,747 views \u2022 ~278m old",
+    "why": "Trending on YouTube \u2022 133,489 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P2h1WDGRVhs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,952 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 51,891 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SW8VRcMy5vU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
     "exampleUrl": "https://www.youtube.com/watch?v=33lCDwowBeg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq0hBRUGiIY"
   }
 ]
