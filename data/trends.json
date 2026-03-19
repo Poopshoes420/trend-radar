@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxauns/ouch/"
   },
   {
-    "topic": "What do you guys think about this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxava9/what_do_you_guys_think_about_this/"
-  },
-  {
     "topic": "Yep, for sure!",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxqrnn/yep_for_sure/"
+  },
+  {
+    "topic": "What do you guys think about this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxava9/what_do_you_guys_think_about_this/"
   },
   {
     "topic": "Twenty years in the making",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 757,255 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 840,712 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n86REnOtF6A"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 423,864 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 505,057 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5axTCm2cj-s"
-  },
-  {
-    "topic": "Spider-Man: Brand New Day Trailer BREAKDOWN - Easter Eggs You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 446,143 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E31Tvx3oT9w"
   },
   {
     "topic": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 267,241 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 287,928 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 272,430 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 292,883 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UmphUi9vr_g"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,759 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 155,088 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lp6YWpimwxo"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,094 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 88,616 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GCLD72wDLLU"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,713 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 35,546 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HI2CTxOhLHw"
   },
   {
@@ -248,23 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,897 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 17,142 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mOIJLHqmrzg"
   },
   {
-    "topic": "The Story With Martha MacCallum",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HiJWO04Bdus"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9O9TsjeF9mw"
   },
   {
     "topic": "Katy Tur Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ml_dfWAo2-E"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VsTY0zPtVR0"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-ZrwOjhAX8U"
   }
 ]
