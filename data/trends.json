@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxykh0/the_one_time_stone_cold_folded/"
   },
   {
-    "topic": "Lol he looks angry\ud83e\udd23",
+    "topic": "Manatee at the aquarium wanted to show us their wooden plank",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ry21k6/lol_he_looks_angry/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rybh8g/manatee_at_the_aquarium_wanted_to_show_us_their/"
+  },
+  {
+    "topic": "Anyone else\u2019s algorithm super weird today?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry8r90/anyone_elses_algorithm_super_weird_today/"
   },
   {
     "topic": "How is it that I can put in the exact title of a YouTube video into the search bar and YouTube will not show me the actual video",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
-  },
-  {
-    "topic": "Anyone else\u2019s algorithm super weird today?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry8r90/anyone_elses_algorithm_super_weird_today/"
   },
   {
     "topic": "What do you guys think about this?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 939,142 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 1,020,907 views \u2022 ~463m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,097,623 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 1,171,491 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YShjCIA9aXk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,489 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 151,321 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P2h1WDGRVhs"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,891 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 84,161 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SW8VRcMy5vU"
+  },
+  {
+    "topic": "Fortnite Chapter 7 Season 2: Showdown | Battle Pass Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 138,787 views \u2022 ~533m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FCGY3UFL9SI"
+  },
+  {
+    "topic": "Pok\u00e9mon TCG Pocket: Mega Shine \u2728 | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 112,289 views \u2022 ~582m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wV2sEFVhJFU"
   },
   {
     "topic": "First Four: Miami (Ohio) vs. SMU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
     "exampleUrl": "https://www.youtube.com/watch?v=33lCDwowBeg"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq0hBRUGiIY"
   }
 ]
