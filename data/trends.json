@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
-  },
-  {
     "topic": "Trump draws parallel between Pearl Harbor and US strikes on Iran in meeting with Japanese PM",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry6gki/trump_draws_parallel_between_pearl_harbor_and_us/"
+  },
+  {
+    "topic": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
   },
   {
     "topic": "Costco CEO Ron Vachris did the \u201cCEO eats his own product\u201d challenge by destroying a hot dog and confirms the Costco hot dog combo is staying at $1.50 forever",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 541,330 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 660,298 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
+  },
+  {
+    "topic": "Sonic the Hedgehog 4 | Title Reveal (2027 Movie) - Jim Carrey, Ben Schwartz, Kristen Bell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 800,103 views \u2022 ~392m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YShjCIA9aXk"
   },
   {
     "topic": "Sleeping With Sirens - An Ending In Itself (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,263 views \u2022 ~334m old",
+    "why": "Trending on YouTube \u2022 42,585 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xtrpsoAHmwc"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -216,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
-  },
-  {
-    "topic": "First Four: Richmond vs. Nebraska",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Eowybracbx0"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J7unyh8bdq8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X1rlbUOi-WA"
   }
 ]
