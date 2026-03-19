@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxv1pt/so_many_of_these_kind_of_videos_and_im_fucking/"
   },
   {
-    "topic": "YouTube right now:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxtcyg/youtube_right_now/"
-  },
-  {
     "topic": "Sure YouTube, These Are Totally Children's Music",
     "sources": [
       "reddit"
@@ -81,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
   },
   {
+    "topic": "YouTube right now:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxtcyg/youtube_right_now/"
+  },
+  {
     "topic": "Youtube got more greedy",
     "sources": [
       "reddit"
@@ -88,6 +88,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxo14l/youtube_got_more_greedy/"
+  },
+  {
+    "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry0vry/iran_attack_damage_wipes_out_17_of_qatars_lng/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1484, Part 1 (Thread #1631)",
@@ -108,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry0vry/iran_attack_damage_wipes_out_17_of_qatars_lng/"
-  },
-  {
     "topic": "Trump threatens to \u2018blow up\u2019 all of Iran\u2019s South Pars gasfield if Tehran strikes Qatar | US-Israel war on Iran",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxvhmd/trump_threatens_to_blow_up_all_of_irans_south/"
   },
   {
-    "topic": "Denmark considered destroying Greenland runways amid fears of US attack",
+    "topic": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxzean/denmark_considered_destroying_greenland_runways/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3-U8RA8Gh9M"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Eowybracbx0"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J7unyh8bdq8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X1rlbUOi-WA"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UmrAXhCcyso"
   },
   {
@@ -240,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SDOhU7tz1ME"
-  },
-  {
-    "topic": "Reunion",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kZmrKs3-8EY"
   }
 ]
