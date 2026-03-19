@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ry21k6/lol_he_looks_angry/"
   },
   {
-    "topic": "Sure YouTube, These Are Totally Children's Music",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
-  },
-  {
     "topic": "How is it that I can put in the exact title of a YouTube video into the search bar and YouTube will not show me the actual video",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry51lq/how_is_it_that_i_can_put_in_the_exact_title_of_a/"
+  },
+  {
+    "topic": "Sure YouTube, These Are Totally Children's Music",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
   },
   {
     "topic": "What do you guys think about this?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 660,298 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 715,315 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 800,103 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 862,154 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YShjCIA9aXk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,585 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 46,638 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xtrpsoAHmwc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~443m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J7unyh8bdq8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X1rlbUOi-WA"
   }
 ]
