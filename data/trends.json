@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxxiq0/did_he_survive/"
   },
   {
-    "topic": "What do you guys think about this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxava9/what_do_you_guys_think_about_this/"
-  },
-  {
     "topic": "Sure YouTube, These Are Totally Children's Music",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
+  },
+  {
+    "topic": "What do you guys think about this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxava9/what_do_you_guys_think_about_this/"
   },
   {
     "topic": "So many of these kind of videos, and I'm fucking annoyed with it.",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxv1pt/so_many_of_these_kind_of_videos_and_im_fucking/"
   },
   {
+    "topic": "How is it that I can put in the exact title of a YouTube video into the search bar and YouTube will not show me the actual video",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry51lq/how_is_it_that_i_can_put_in_the_exact_title_of_a/"
+  },
+  {
     "topic": "YouTube right now:",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxtcyg/youtube_right_now/"
-  },
-  {
-    "topic": "The horror narration space is taking an absolute beating",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxzrtq/the_horror_narration_space_is_taking_an_absolute/"
   },
   {
     "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry1etn/joint_statement_from_the_leaders_of_the_united/"
   },
   {
-    "topic": "Trump threatens to \u2018blow up\u2019 all of Iran\u2019s South Pars gasfield if Tehran strikes Qatar | US-Israel war on Iran",
+    "topic": "Denmark considered destroying Greenland runways amid fears of US attack",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxvhmd/trump_threatens_to_blow_up_all_of_irans_south/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rxzean/denmark_considered_destroying_greenland_runways/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry03nb/lies_of_p_has_sold_4_million_copies/"
   },
   {
-    "topic": "Into The Breach is one of the finest tactics games I have ever played",
+    "topic": "PC projected to exceed 1 billion players and surpass console revenue by the end of 2028",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxvvum/into_the_breach_is_one_of_the_finest_tactics/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry331y/pc_projected_to_exceed_1_billion_players_and/"
   },
   {
-    "topic": "First Four: Lehigh vs. Prairie View A&M",
+    "topic": "Hyunjin \"LOVER\" Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~412m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3-U8RA8Gh9M"
+    "why": "Trending on YouTube \u2022 430,657 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
+  },
+  {
+    "topic": "First Four: Miami (Ohio) vs. SMU",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
   },
   {
     "topic": "Los Angeles Lakers at Houston Rockets",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Eowybracbx0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J7unyh8bdq8"
   },
   {
@@ -224,23 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X1rlbUOi-WA"
-  },
-  {
-    "topic": "First Four: Miami (Ohio) vs. SMU",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UmrAXhCcyso"
-  },
-  {
-    "topic": "New Jersey Devils at New York Rangers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~275m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SDOhU7tz1ME"
   }
 ]
