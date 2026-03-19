@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] well deserved",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx4l4y/oc_well_deserved/"
-  },
-  {
     "topic": "Ouch \ud83d\ude26",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rxauns/ouch/"
+  },
+  {
+    "topic": "[OC] well deserved",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rx4l4y/oc_well_deserved/"
   },
   {
     "topic": "Sick [OC]",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,712,183 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 2,850,030 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fQbEuS9GO3E"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 498,246 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 569,344 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i4UyWO2lvfE"
-  },
-  {
-    "topic": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 511,355 views \u2022 ~465m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e4sCLYMSokg"
   },
   {
     "topic": "Spending $8,592,732 Building An ISLAND In Roblox..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 247,392 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 342,908 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n86REnOtF6A"
+  },
+  {
+    "topic": "Fortnite Chapter 7 Season 2: Showdown | Official Launch Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 543,470 views \u2022 ~538m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e4sCLYMSokg"
   },
   {
     "topic": "P1Harmony (\ud53c\uc6d0\ud558\ubaa8\ub2c8) - \u2018L.O.Y.L.\u2019 MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 314,358 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 338,428 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mt6gODAEpxY"
   },
   {
@@ -224,31 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 355,911 views \u2022 ~607m old",
+    "why": "Trending on YouTube \u2022 380,424 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wDJqxUI0H9Y"
-  },
-  {
-    "topic": "SPIDERMAN Brand New Day Official Trailer Breakdown | Easter Eggs, Story Explained & Hidden Details",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 282,689 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zgIiOqUCI0E"
   },
   {
     "topic": "SPIDER-MAN BRAND NEW DAY TRAILER REACTION | NEW ROCKSTARS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 112,205 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 157,458 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Sk-rmoYMixE"
+  },
+  {
+    "topic": "Resident Evil: Requiem - Part 10",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 160,794 views \u2022 ~383m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UmphUi9vr_g"
   },
   {
     "topic": "SPIDER-MAN: BRAND NEW DAY TRAILER REACTION!! Punisher | Scorpion | Marvel Studios",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 220,060 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 232,252 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ohzj0fvJJsU"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,090 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 87,413 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lp6YWpimwxo"
   },
   {
@@ -264,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,292 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 99,030 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oQC97J_20d4"
+  },
+  {
+    "topic": "Te Felicito",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 29,170 views \u2022 ~345m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GCLD72wDLLU"
   },
   {
     "topic": "First Four: Texas vs. NC State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~516m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I-MC8M6SMBM"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XiMoDjK1YaE"
   },
   {
@@ -288,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M8tZZXnlRcE"
   },
   {
@@ -296,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xgQldHdS13Y"
   }
 ]
