@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxysth/sure_youtube_these_are_totally_childrens_music/"
   },
   {
+    "topic": "Can someone tell me this YouTubers name???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry5efm/can_someone_tell_me_this_youtubers_name/"
+  },
+  {
     "topic": "What do you guys think about this?",
     "sources": [
       "reddit"
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxv1pt/so_many_of_these_kind_of_videos_and_im_fucking/"
   },
   {
-    "topic": "YouTube right now:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rxtcyg/youtube_right_now/"
-  },
-  {
-    "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
+    "topic": "Trump draws parallel between Pearl Harbor and US strikes on Iran in meeting with Japanese PM",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry0vry/iran_attack_damage_wipes_out_17_of_qatars_lng/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry6gki/trump_draws_parallel_between_pearl_harbor_and_us/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1484, Part 1 (Thread #1631)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump draws parallel between Pearl Harbor and US strikes on Iran in meeting with Japanese PM",
+    "topic": "Iran attack damage wipes out 17% of Qatar\u2019s LNG capacity for three to five years, QatarEnergy CEO says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry6gki/trump_draws_parallel_between_pearl_harbor_and_us/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ry0vry/iran_attack_damage_wipes_out_17_of_qatars_lng/"
   },
   {
     "topic": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan on the Strait of Hormuz",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rxx7v9/after_4_years_of_work_solo_dev_breaks_down_in/"
   },
   {
+    "topic": "Truly insane numbers done. Love or hate the game",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry988r/truly_insane_numbers_done_love_or_hate_the_game/"
+  },
+  {
     "topic": "Lies Of P Has Sold 4 Million Copies",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ry03nb/lies_of_p_has_sold_4_million_copies/"
   },
   {
-    "topic": "For anyone that's having a down day or is losing hope, Croc's got you.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryapp9/for_anyone_thats_having_a_down_day_or_is_losing/"
-  },
-  {
     "topic": "Hyunjin \"LOVER\" Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 814,408 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 900,281 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l8sSQAa1kNM"
   },
   {
@@ -192,39 +192,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 979,274 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 1,064,365 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YShjCIA9aXk"
+  },
+  {
+    "topic": "Muse - Be With You (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 122,747 views \u2022 ~278m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P2h1WDGRVhs"
+  },
+  {
+    "topic": "Cryo Archive Launch Trailer | Marathon",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 31,952 views \u2022 ~138m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SW8VRcMy5vU"
   },
   {
     "topic": "First Four: Miami (Ohio) vs. SMU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xOx5t-KBRYY"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=33lCDwowBeg"
   },
   {
     "topic": "Los Angeles Lakers at Houston Rockets",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UI7oyjd6PYk"
   },
   {
-    "topic": "Gutfeld!",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZtWKWInVRL4"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X1rlbUOi-WA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Tq0hBRUGiIY"
   }
 ]
