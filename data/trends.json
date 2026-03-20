@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Funny sign",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rz088g/funny_sign/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Relevant Experience",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rytz3s/this_needs_to_be_changed_right_now/"
   },
   {
+    "topic": "Please just stop signing your YouTube account in hotels Smart TV",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3pz3/please_just_stop_signing_your_youtube_account_in/"
+  },
+  {
     "topic": "its just insufferable",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryvdn6/youtube_is_just_a_terrible_experience/"
   },
   {
-    "topic": "When your video is copyrighted but you don't give a shit because you're doing this for fun",
+    "topic": "Youtube what is this ad",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryr00b/when_your_video_is_copyrighted_but_you_dont_give/"
-  },
-  {
-    "topic": "Who on earth greenlit this for mobile ads.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryxxo2/who_on_earth_greenlit_this_for_mobile_ads/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3b4r/youtube_what_is_this_ad/"
   },
   {
     "topic": "Putin offers to stop sharing intel with Iran if US cuts off Ukraine",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukrainian FPV Drone Downs $16M Russian Ka-52 Helicopter Near Pokrovsk",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryuoxp/ukrainian_fpv_drone_downs_16m_russian_ka52/"
-  },
-  {
     "topic": "Trump calls NATO \u201ccowards\u201d for lack of support for Iran war",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/"
+  },
+  {
+    "topic": "Ukrainian FPV Drone Downs $16M Russian Ka-52 Helicopter Near Pokrovsk",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryuoxp/ukrainian_fpv_drone_downs_16m_russian_ka52/"
   },
   {
     "topic": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,725 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 109,577 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pbIhE3XnmJQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lfRbwpgYGXc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~204m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L2snou1DpA0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZYwwlYcIFPA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cQ8F1yM4Tt4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=okcfsox0rjY"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~541m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mw8IXYGmJMg"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SEVva0BySpo"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nNvZKJfDcRU"
   }
 ]
