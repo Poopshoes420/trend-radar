@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryaaa2/ive_reported_this_bot_twice_and_youtube_still/"
   },
   {
-    "topic": "How is it that I can put in the exact title of a YouTube video into the search bar and YouTube will not show me the actual video",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry51lq/how_is_it_that_i_can_put_in_the_exact_title_of_a/"
-  },
-  {
     "topic": "This is good news since his thumbnails expose suggestive content to kids and he referenced something that is related to corpses and phils... in a video when most of his audience is like 7.",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryl87p/this_is_good_news_since_his_thumbnails_expose/"
   },
   {
-    "topic": "Can someone tell me this YouTubers name???",
+    "topic": "How is it that I can put in the exact title of a YouTube video into the search bar and YouTube will not show me the actual video",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry5efm/can_someone_tell_me_this_youtubers_name/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ry51lq/how_is_it_that_i_can_put_in_the_exact_title_of_a/"
+  },
+  {
+    "topic": "Beyond Greed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rymfkx/beyond_greed/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1485, Part 1 (Thread #1632)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,388,230 views \u2022 ~127m old",
+    "why": "Trending on YouTube \u2022 8,802,778 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b4iVv91Z6lY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 108,403 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 697,334 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RBaSiVjtKR4"
   },
   {
@@ -200,63 +200,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 446,435 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 487,480 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VTjG3-nWqtw"
-  },
-  {
-    "topic": "THERE WAS MORE BUT HE ATE IT..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 309,209 views \u2022 ~412m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-LPl3ZFkdsc"
   },
   {
     "topic": "SPIDERMAN BRAND NEW DAY TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 277,530 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 337,680 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LbTo7I9M6kM"
-  },
-  {
-    "topic": "Cryo Archive Launch Trailer | Marathon",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 161,811 views \u2022 ~645m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SW8VRcMy5vU"
   },
   {
     "topic": "Coi Leray - Better Than Yours (Official Music Video) ft. Youngboy Never Broke Again",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,160 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 47,762 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NqLe3mk__kg"
+  },
+  {
+    "topic": "Spider-Man Brand New Day Trailer: Hidden X-Men Characters & Every Marvel Lie",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 174,188 views \u2022 ~705m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xKaJlH3T8V8"
+  },
+  {
+    "topic": "Cryo Archive Launch Trailer | Marathon",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 166,178 views \u2022 ~712m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SW8VRcMy5vU"
+  },
+  {
+    "topic": "Let King Tonka Talk (feat. King Kylie)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,898 views \u2022 ~191m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fMgIfC8dh_g"
+  },
+  {
+    "topic": "Nessa Barrett - Buffalo 66 (ft. Jesse Rutherford) [Official Music Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 12,673 views \u2022 ~192m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mPFugXvNW1U"
+  },
+  {
+    "topic": "First Round: Troy vs. Nebraska",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~57m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4e0Tp46zkO4"
   },
   {
     "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~65m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R7t4NnA_3ZA"
   },
   {
-    "topic": "4.7 Seconds: For the Championship",
+    "topic": "First Round: High Point vs. Wisconsin",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7U-GJKAuwVQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RAPZK6Y-hmY"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nQbHxYDeYu4"
   },
   {
@@ -264,15 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HfyRCcfyZq4"
   },
   {
-    "topic": "The Arena With Kasie Hunt",
+    "topic": "The Lead With Jake Tapper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GKMEIJrJ4uE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j5sOzd66Mo0"
   }
 ]
