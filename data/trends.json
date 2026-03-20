@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rymfkx/beyond_greed/"
   },
   {
+    "topic": "this needs to be changed right now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rytz3s/this_needs_to_be_changed_right_now/"
+  },
+  {
     "topic": "This is good news since his thumbnails expose suggestive content to kids and he referenced something that is related to corpses and phils... in a video when most of his audience is like 7.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryl87p/this_is_good_news_since_his_thumbnails_expose/"
-  },
-  {
-    "topic": "I've reported this bot twice and youtube still hasn't done anything \ud83d\ude10",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryaaa2/ive_reported_this_bot_twice_and_youtube_still/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1485, Part 1 (Thread #1632)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryf739/french_aircraft_carriers_location_exposed_after/"
   },
   {
-    "topic": "Iran Publicly Executes Teen Champion Wrestler for Protesting Regime",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryc6cx/iran_publicly_executes_teen_champion_wrestler_for/"
-  },
-  {
     "topic": "EU's aid to Ukraine blocked",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rym67m/eus_aid_to_ukraine_blocked/"
+  },
+  {
+    "topic": "Iran Publicly Executes Teen Champion Wrestler for Protesting Regime",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryc6cx/iran_publicly_executes_teen_champion_wrestler_for/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,278,388 views \u2022 ~465m old",
+    "why": "Trending on YouTube \u2022 16,752,594 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b4iVv91Z6lY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,282,330 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 2,360,153 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RBaSiVjtKR4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 146,301 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 151,630 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NqLe3mk__kg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,546 views \u2022 ~462m old",
+    "why": "Trending on YouTube \u2022 84,347 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fMgIfC8dh_g"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,457 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 38,776 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PqGOGvv-X5U"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 28,955 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 30,056 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mPFugXvNW1U"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WnQ1pe0qVn0"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fMUr3XLz6yU"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s7Qy2xvX_KM"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cQ8F1yM4Tt4"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=okcfsox0rjY"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mw8IXYGmJMg"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SEVva0BySpo"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nNvZKJfDcRU"
   }
 ]
