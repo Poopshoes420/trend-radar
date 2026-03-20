@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rym076/its_just_insufferable/"
   },
   {
-    "topic": "Beyond Greed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rymfkx/beyond_greed/"
-  },
-  {
     "topic": "When your video is copyrighted but you don't give a shit because you're doing this for fun",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryr00b/when_your_video_is_copyrighted_but_you_dont_give/"
+  },
+  {
+    "topic": "Beyond Greed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rymfkx/beyond_greed/"
   },
   {
     "topic": "This is good news since his thumbnails expose suggestive content to kids and he referenced something that is related to corpses and phils... in a video when most of his audience is like 7.",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "I had a kid in 2015 and stopped playing as many video games. He\u2019s older now and can handle complex games (a better gamer than I am.) So I decided to show him one of my favorites and I re-downloaded Middle-Earth Shadow of War. My old saved game reminded me how much I love this game.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryivzs/i_had_a_kid_in_2015_and_stopped_playing_as_many/"
-  },
-  {
     "topic": "9/10 Game Workers Disagree With Epic CEO Tim Sweeney, Survey Shows Workers Believe Game Stores Should Have GenAI Disclosures",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryqrci/910_game_workers_disagree_with_epic_ceo_tim/"
+  },
+  {
+    "topic": "I had a kid in 2015 and stopped playing as many video games. He\u2019s older now and can handle complex games (a better gamer than I am.) So I decided to show him one of my favorites and I re-downloaded Middle-Earth Shadow of War. My old saved game reminded me how much I love this game.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryivzs/i_had_a_kid_in_2015_and_stopped_playing_as_many/"
   },
   {
     "topic": "Truly insane numbers done. Love or hate the game",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 14,333,795 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 15,249,661 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b4iVv91Z6lY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,831,441 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 2,053,899 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RBaSiVjtKR4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 465,030 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 485,505 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LbTo7I9M6kM"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,371 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 136,094 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NqLe3mk__kg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,339 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 76,010 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fMgIfC8dh_g"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,203 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 34,780 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PqGOGvv-X5U"
   },
   {
@@ -232,31 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,553 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 26,715 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mPFugXvNW1U"
+  },
+  {
+    "topic": "First Round: North Dakota State vs. Michigan State",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WnQ1pe0qVn0"
+  },
+  {
+    "topic": "First Round: Hawaii vs. Arkansas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fMUr3XLz6yU"
   },
   {
     "topic": "First Round: McNeese State vs. Vanderbilt",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s7Qy2xvX_KM"
-  },
-  {
-    "topic": "First Round: South Florida vs. Louisville",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u6hxo8zXroE"
   },
   {
     "topic": "Hannity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f14YRrj4p-Q"
   },
   {
@@ -264,31 +272,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=okcfsox0rjY"
   },
   {
-    "topic": "First Round: High Point vs. Wisconsin",
+    "topic": "NCAA Championships: First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RAPZK6Y-hmY"
-  },
-  {
-    "topic": "First Round: North Dakota State vs. Michigan State",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Qj4-eqjuMvc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mw8IXYGmJMg"
   },
   {
     "topic": "The Real Housewives of Beverly Hills",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nNvZKJfDcRU"
   },
   {
@@ -296,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ivVrz4ngHzs"
   }
 ]
