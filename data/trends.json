@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Funny sign",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rz088g/funny_sign/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -27,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rz2ts4/relevant_experience/"
   },
   {
+    "topic": "Bro messed up",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rz024c/bro_messed_up/"
+  },
+  {
     "topic": "SHEETZ: \u201cPull in. We\u2019ll talk about it.\u201d",
     "sources": [
       "reddit"
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ryz4yq/sheetz_pull_in_well_talk_about_it/"
   },
   {
-    "topic": "Bro messed up",
+    "topic": "Happy birthday mom!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rz024c/bro_messed_up/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rz18s3/happy_birthday_mom/"
   },
   {
     "topic": "this needs to be changed right now",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3pz3/please_just_stop_signing_your_youtube_account_in/"
   },
   {
+    "topic": "Youtube what is this ad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3b4r/youtube_what_is_this_ad/"
+  },
+  {
     "topic": "its just insufferable",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryvdn6/youtube_is_just_a_terrible_experience/"
-  },
-  {
-    "topic": "Youtube what is this ad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3b4r/youtube_what_is_this_ad/"
   },
   {
     "topic": "Putin offers to stop sharing intel with Iran if US cuts off Ukraine",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Trump admits that he trusts Putin more than US\u2019s European allies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rz71ra/trump_admits_that_he_trusts_putin_more_than_uss/"
+  },
+  {
     "topic": "Trump calls NATO \u201ccowards\u201d for lack of support for Iran war",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryzrtc/trump_calls_nato_cowards_for_lack_of_support_for/"
-  },
-  {
-    "topic": "Ukrainian FPV Drone Downs $16M Russian Ka-52 Helicopter Near Pokrovsk",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ryuoxp/ukrainian_fpv_drone_downs_16m_russian_ka52/"
   },
   {
     "topic": "Zara Larsson reveals that she lost a 3 million dollars brand deal due to the abortion joke she made on tiktok: \"If you dont agree with me thinking that women should have access to abortion, were just not meant to be partners\"",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
+    "topic": "Crimson Desert has already been caught using AI art",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rz4y1d/crimson_desert_has_already_been_caught_using_ai/"
+  },
+  {
     "topic": "9/10 Game Workers Disagree With Epic CEO Tim Sweeney, Survey Shows Workers Believe Game Stores Should Have GenAI Disclosures",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryqrci/910_game_workers_disagree_with_epic_ceo_tim/"
   },
   {
-    "topic": "Crimson Desert Sales Top 2 Million Units",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryyvk3/crimson_desert_sales_top_2_million_units/"
-  },
-  {
     "topic": "FLO - Leak It (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 129,347 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 138,554 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pbIhE3XnmJQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,783 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 39,328 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bc5wAH5-MtU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lfRbwpgYGXc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L2snou1DpA0"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~443m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZYwwlYcIFPA"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~51m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ctK_D25WSCU"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mw8IXYGmJMg"
   },
   {
@@ -240,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~639m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SEVva0BySpo"
-  },
-  {
-    "topic": "Unmasking the Truth",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nNvZKJfDcRU"
   }
 ]
