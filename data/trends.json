@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rzife6/my_aunty_went_to_take_a_picture_of_this_rabbit/"
   },
   {
+    "topic": "A cool guide about using YouTube premium for free (completely legal)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzr437/a_cool_guide_about_using_youtube_premium_for_free/"
+  },
+  {
     "topic": "Please just stop signing your YouTube account in hotels Smart TV",
     "sources": [
       "reddit"
@@ -72,31 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzmc1x/pixels_hit_different_back_then/"
   },
   {
-    "topic": "\"Send us a screenshot to prove you are not using an adblocker\" how about no?",
+    "topic": "How to get rid of these",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzc2ex/send_us_a_screenshot_to_prove_you_are_not_using/"
-  },
-  {
-    "topic": "YouTube is somewhat reintroducing the 5 star rating system from 20 years ago",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzoy3e/youtube_is_somewhat_reintroducing_the_5_star/"
-  },
-  {
-    "topic": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzgne2/cuba_refuses_to_let_us_embassy_in_havana_import/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzqklj/how_to_get_rid_of_these/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
@@ -126,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/"
   },
   {
+    "topic": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzgne2/cuba_refuses_to_let_us_embassy_in_havana_import/"
+  },
+  {
     "topic": "Former US general got drunk in Kyiv, suffered concussion, left classified maps on train, watchdog finds",
     "sources": [
       "reddit"
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
   },
   {
-    "topic": "Slay the Spire 2 has made $92M on Steam, already passing lifetime Steam earnings for Silksong ($83M) and Hades 2 ($82). One of the best Steam indie launches ever",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzha0h/slay_the_spire_2_has_made_92m_on_steam_already/"
-  },
-  {
     "topic": "Nvidia \"confirms\" DLSS 5 relies on 2D frame data as testing reveals hallucinations",
     "sources": [
       "reddit"
@@ -180,27 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rz4y1d/crimson_desert_has_already_been_caught_using_ai/"
   },
   {
+    "topic": "It feels impossible to have any meaningful discourse about video games",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rznxgj/it_feels_impossible_to_have_any_meaningful/"
+  },
+  {
+    "topic": "First Round: UCF vs. UCLA",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sgGjef-8nPY"
+  },
+  {
     "topic": "First Round: Utah State vs. Villanova",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iXe3dJR5yb0"
-  },
-  {
-    "topic": "First Round: Miami (Ohio) vs. Tennessee",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NwazijLSpQ4"
   },
   {
     "topic": "First Round: Hofstra vs. Alabama",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2IJKn3oa74"
+  },
+  {
+    "topic": "First Round: Iowa vs. Clemson",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8m-LZyRBwNg"
   },
   {
     "topic": "First Round: Tennessee vs. NC State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fHBG618mVCQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6FAsu0LB8bI"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sDkHxKhVnkY"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4FYD60XsR5I"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hFgovEtsIOk"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_OjguDtmpLI"
   }
 ]
