@@ -81,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzc2ex/send_us_a_screenshot_to_prove_you_are_not_using/"
   },
   {
-    "topic": "Youtube what is this ad",
+    "topic": "Pixels hit different back then\ud83e\udd0c\ud83c\udffd",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3b4r/youtube_what_is_this_ad/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzmc1x/pixels_hit_different_back_then/"
+  },
+  {
+    "topic": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzgne2/cuba_refuses_to_let_us_embassy_in_havana_import/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
@@ -126,24 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzimam/former_us_general_got_drunk_in_kyiv_suffered/"
   },
   {
-    "topic": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/"
-  },
-  {
-    "topic": "Jane Kaczmarek (Lois in \u2018Malcolm in the Middle\u2019) married her high school sweetheart after they reconnected in their high school reunion 50 years later",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1rzd5hh/jane_kaczmarek_lois_in_malcolm_in_the_middle/"
-  },
-  {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzha0h/slay_the_spire_2_has_made_92m_on_steam_already/"
   },
   {
-    "topic": "What the hell happened",
+    "topic": "Nvidia \"confirms\" DLSS 5 relies on 2D frame data as testing reveals hallucinations",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzn5tw/what_the_hell_happened/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzhuip/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/"
+  },
+  {
+    "topic": "Crimson Desert has already been caught using AI art",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rz4y1d/crimson_desert_has_already_been_caught_using_ai/"
   },
   {
     "topic": "First Round: Utah State vs. Villanova",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iXe3dJR5yb0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rzGbEfqxiJI"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~59m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2IJKn3oa74"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fHBG618mVCQ"
+  },
+  {
+    "topic": "NCAA Championships: Semifinals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
   },
   {
     "topic": "Valspar Championship, Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6FAsu0LB8bI"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sDkHxKhVnkY"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wAb6l_qc36E"
   },
   {
@@ -248,23 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4FYD60XsR5I"
-  },
-  {
-    "topic": "First Round: Holy Cross vs. Michigan",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TxOr339s_-c"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_OjguDtmpLI"
   }
 ]
