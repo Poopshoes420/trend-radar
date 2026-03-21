@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "You could've said I don't.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s029al/you_couldve_said_i_dont/"
+  },
+  {
     "topic": "Duck Norris \ud83d\udc25",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rzyydi/oh_oh_no/"
-  },
-  {
-    "topic": "You could've said I don't.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s029al/you_couldve_said_i_dont/"
   },
   {
     "topic": "Should schools?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzqklj/how_to_get_rid_of_these/"
   },
   {
-    "topic": "Islamic videos only when I'm asleep",
+    "topic": "Is it just me who finds these types of videos kinda gross morally?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzqj6u/islamic_videos_only_when_im_asleep/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s01190/is_it_just_me_who_finds_these_types_of_videos/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzzvcj/hungarian_foreign_minister_has_been_briefing/"
   },
   {
+    "topic": "Jorginho, a soccer player, posted a story criticizing Chappell Roan and her team for their treatment of his 11-year old stepdaughter at a hotel in Sao Paulo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s01sm1/jorginho_a_soccer_player_posted_a_story/"
+  },
+  {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rztsdp/crimson_desert_devs_we_have_been_listening/"
   },
   {
-    "topic": "A Mountain and Village I made in Minecraft",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzznzy/a_mountain_and_village_i_made_in_minecraft/"
-  },
-  {
     "topic": "New GRANNY BAZOOKA Brainrot + Admin Abuse",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,290,633 views \u2022 ~87m old",
+    "why": "Trending on YouTube \u2022 1,342,647 views \u2022 ~107m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-kdb8RQe8Nc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,812,227 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 1,869,099 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Is5IswM87EQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,936 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 129,281 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W5f2gGSPJPs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WufJU75vTyg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~377m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e8HrHe6lDSk"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ExyhanSH2ow"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PktRz1gJPJE"
   },
   {
@@ -240,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8m-LZyRBwNg"
-  },
-  {
-    "topic": "NCAA Championships: Semifinals",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YBuj3Vlul-0"
   }
 ]
