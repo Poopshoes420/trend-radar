@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3pz3/please_just_stop_signing_your_youtube_account_in/"
   },
   {
-    "topic": "Pixels hit different back then\ud83e\udd0c\ud83c\udffd",
+    "topic": "Typical youtube thumbnail",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzmc1x/pixels_hit_different_back_then/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rztd52/typical_youtube_thumbnail/"
   },
   {
     "topic": "this needs to be changed right now",
@@ -88,6 +88,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rytz3s/this_needs_to_be_changed_right_now/"
+  },
+  {
+    "topic": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rvh23o/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/"
   },
   {
     "topic": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
@@ -184,31 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sgGjef-8nPY"
   },
   {
-    "topic": "First Round: Utah State vs. Villanova",
+    "topic": "First Round: Prairie View A&M vs. Florida",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iXe3dJR5yb0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ExyhanSH2ow"
   },
   {
     "topic": "First Round: Queens vs. Purdue",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7j67oacjs3U"
+  },
+  {
+    "topic": "First Round: Missouri vs. Miami",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=y9rvDa2sZVQ"
   },
   {
     "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2IJKn3oa74"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8m-LZyRBwNg"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fHBG618mVCQ"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6FAsu0LB8bI"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YBuj3Vlul-0"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sDkHxKhVnkY"
-  },
-  {
-    "topic": "Like Brother, Like Brother",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4FYD60XsR5I"
   }
 ]
