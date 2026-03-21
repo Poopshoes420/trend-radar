@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3pz3/please_just_stop_signing_your_youtube_account_in/"
   },
   {
+    "topic": "How to get rid of these",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzqklj/how_to_get_rid_of_these/"
+  },
+  {
     "topic": "this needs to be changed right now",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzmc1x/pixels_hit_different_back_then/"
-  },
-  {
-    "topic": "How to get rid of these",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzqklj/how_to_get_rid_of_these/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzk7pa/trump_considers_winding_down_iran_war_without/"
   },
   {
+    "topic": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/"
+  },
+  {
     "topic": "Cuba refuses to let US Embassy in Havana import diesel for its generators",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzgne2/cuba_refuses_to_let_us_embassy_in_havana_import/"
-  },
-  {
-    "topic": "Former US general got drunk in Kyiv, suffered concussion, left classified maps on train, watchdog finds",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzimam/former_us_general_got_drunk_in_kyiv_suffered/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzhuip/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/"
   },
   {
-    "topic": "Crimson Desert has already been caught using AI art",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rz4y1d/crimson_desert_has_already_been_caught_using_ai/"
-  },
-  {
     "topic": "It feels impossible to have any meaningful discourse about video games",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rznxgj/it_feels_impossible_to_have_any_meaningful/"
   },
   {
+    "topic": "Crimson Desert has already been caught using AI art",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rz4y1d/crimson_desert_has_already_been_caught_using_ai/"
+  },
+  {
     "topic": "First Round: UCF vs. UCLA",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sgGjef-8nPY"
   },
   {
@@ -192,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iXe3dJR5yb0"
   },
   {
-    "topic": "First Round: Hofstra vs. Alabama",
+    "topic": "First Round: Queens vs. Purdue",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=feC0EOlmMMQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7j67oacjs3U"
   },
   {
     "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2IJKn3oa74"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8m-LZyRBwNg"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fHBG618mVCQ"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aTYuCHzcfj8"
   },
   {
@@ -240,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~315m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6FAsu0LB8bI"
+  },
+  {
+    "topic": "WWE Friday Night SmackDown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~46m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YBuj3Vlul-0"
   },
   {
     "topic": "Buckle Up South Carolina 200",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sDkHxKhVnkY"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4FYD60XsR5I"
-  },
-  {
-    "topic": "First Round: Queens vs. Purdue",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hFgovEtsIOk"
   }
 ]
