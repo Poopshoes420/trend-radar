@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ryz0wk/relatable/"
   },
   {
-    "topic": "Youtube what is this ad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3b4r/youtube_what_is_this_ad/"
-  },
-  {
     "topic": "\"Send us a screenshot to prove you are not using an adblocker\" how about no?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzc2ex/send_us_a_screenshot_to_prove_you_are_not_using/"
+  },
+  {
+    "topic": "Youtube what is this ad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rz3b4r/youtube_what_is_this_ad/"
   },
   {
     "topic": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzdu5s/report_iran_fires_missiles_toward_diego_garcia_in/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1485, Part 1 (Thread #1632)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rym6u2/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzhrb5/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #9)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rz5l9g/iraq_declares_force_majeure_on_foreignoperated/"
   },
   {
-    "topic": "Putin offers to stop sharing intel with Iran if US cuts off Ukraine",
+    "topic": "US authorizes temporary delivery, sale of oil originating from Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rz0p3c/putin_offers_to_stop_sharing_intel_with_iran_if/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzbn9r/us_authorizes_temporary_delivery_sale_of_oil/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rz4y1d/crimson_desert_has_already_been_caught_using_ai/"
   },
   {
+    "topic": "Slay the Spire 2 has made $92M on Steam, already passing lifetime Steam earnings for Silksong ($83M) and Hades 2 ($82). One of the best Steam indie launches ever",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzha0h/slay_the_spire_2_has_made_92m_on_steam_already/"
+  },
+  {
     "topic": "Mario Kart Tour Is Now An 18+ Game In Brazil Thanks To Age Rating System",
     "sources": [
       "reddit"
@@ -171,60 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzbohu/mario_kart_tour_is_now_an_18_game_in_brazil/"
   },
   {
-    "topic": "9/10 Game Workers Disagree With Epic CEO Tim Sweeney, Survey Shows Workers Believe Game Stores Should Have GenAI Disclosures",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ryqrci/910_game_workers_disagree_with_epic_ceo_tim/"
-  },
-  {
     "topic": "RAYE - 'Click Clack Symphony.' feat. Hans Zimmer (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 340,389 views \u2022 ~465m old",
+    "why": "Trending on YouTube \u2022 416,432 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HtVcltkn3HI"
-  },
-  {
-    "topic": "Rick Ross, French Montana, Max B - Minks In Miami (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 132,351 views \u2022 ~645m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GcULiEtlGwo"
   },
   {
     "topic": "Skilla Baby (feat. 42 Dugg) - West To East",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,299 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 61,392 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bQJB4Oo2q5c"
   },
   {
-    "topic": "First Round: Texas vs. BYU",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L2snou1DpA0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RXEC6HuE0FY"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "First Round: Virginia Tech vs. Oregon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ctK_D25WSCU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cQQClKkL0MU"
   },
   {
     "topic": "First Round: UC San Diego vs. TCU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=im0WAWKxD0o"
   },
   {
@@ -232,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PvdX7ZB2gc8"
   },
   {
-    "topic": "First Round: College of Charleston vs. Duke",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DVKKYmLEp0I"
-  },
-  {
-    "topic": "Inside Politics With Dana Bash",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XY0IUmRdFw4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=C3bJNL5YMi8"
   }
 ]
