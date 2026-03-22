@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] would be weird",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0ki66/oc_would_be_weird/"
-  },
-  {
     "topic": "Cat Slam!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0oxsw/cat_slam/"
+  },
+  {
+    "topic": "[OC] would be weird",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0ki66/oc_would_be_weird/"
   },
   {
     "topic": "Australia\u2019s most honest road safety sign",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0knl1/iran_unswayed_by_trumps_48hour_deadline_and/"
   },
   {
-    "topic": "After Trump\u2019s Ultimatum, Iran Threatens To Target \u2018Enemy\u2019s\u2019 Desalination Plants",
+    "topic": "Iran says it will \u2018irreversibly destroy\u2019 Middle East infrastructure if US attacks energy sites",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ddab/after_trumps_ultimatum_iran_threatens_to_target/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0o1ls/iran_says_it_will_irreversibly_destroy_middle/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0c4hl/this_old_relic_turns_25_today_happy_birthday_to/"
   },
   {
+    "topic": "BTS 'ARIRANG' Album Photoshoot : Behind the Scenes",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 825,214 views \u2022 ~334m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dwxn0Sd36Tg"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | CS2 w/ HutchMF, Cloakzy, & Drac | OPENING CASES | GETTING KNIVES | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 703,112 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 706,304 views \u2022 ~609m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5MIdaGGKHa8"
+  },
+  {
+    "topic": "Crimson Desert can't be fixed..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 386,633 views \u2022 ~334m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HkfylonZDhw"
   },
   {
     "topic": "Marvel T\u014dkon: Fighting Souls - Amazing Guardians Trailer | PS5 & PC Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,226 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 180,030 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=krh98HsMk5c"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,438 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 131,387 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LzldFURrz1I"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,934 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 68,002 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,547 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 53,937 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mLGruVR6VkM"
   },
   {
@@ -224,39 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~252m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HcdDeTsZyOI"
-  },
-  {
-    "topic": "Slam Dunk Saturday 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=htoljOqy-tM"
-  },
-  {
-    "topic": "NCAA Championships: Finals",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~477m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fgZrlDNWb5g"
   },
   {
     "topic": "Second Round: Vanderbilt vs. Nebraska",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~237m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MvrsjA48CFA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aMQiM0m9YpA"
+  },
+  {
+    "topic": "NCAA Championships: Finals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fgZrlDNWb5g"
   },
   {
     "topic": "First Round: Syracuse vs. Iowa State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~681m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1M2MhLNVudU"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0fBzIz0uonM"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OLQsNBMdPFo"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BY_uBQQkpss"
   },
   {
@@ -288,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~333m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nfQtjZ9nHic"
   }
 ]
