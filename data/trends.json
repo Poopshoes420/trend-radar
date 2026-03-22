@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s01190/is_it_just_me_who_finds_these_types_of_videos/"
   },
   {
+    "topic": "Who\u2019s a YouTuber you haven\u2019t watched in years?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s048tp/whos_a_youtuber_you_havent_watched_in_years/"
+  },
+  {
     "topic": "A cool guide about using YouTube premium for free (completely legal)",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzr437/a_cool_guide_about_using_youtube_premium_for_free/"
-  },
-  {
-    "topic": "I am a 28 year old man with no interest in FemBoys or being a FemBoy",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s00har/i_am_a_28_year_old_man_with_no_interest_in/"
   },
   {
     "topic": "Trump Gives Iran 48 Hours to Open Strait, Threatens Power Plants",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s07deb/trump_gives_iran_48_hours_to_open_strait/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1486, Part 1 (Thread #1633)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1487, Part 1 (Thread #1634)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzhrb5/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0buol/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #10)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0301c/failed_interception_in_dimona_strike_leaves_51/"
   },
   {
-    "topic": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+    "topic": "Trump issues 48-hour ultimatum to Iran - as Israel claims Tehran can hit London",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/"
   },
   {
     "topic": "The Mayor of Rio De Janeiro says Chappell Roan has been banned from performing at Todo Mundo No Rio after an incident involving her security guard and the stepdaughter of Brazilian footballer Jorginho (the stepdaughter is the daughter of Jude Law)",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s01iyn/new_orleans_man_charged_with_child_pornography/"
   },
   {
-    "topic": "A Mountain and Village I made in Minecraft",
+    "topic": "Crimson Desert Spanish translation is so bad It must be AI",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzznzy/a_mountain_and_village_i_made_in_minecraft/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s08uud/crimson_desert_spanish_translation_is_so_bad_it/"
   },
   {
     "topic": "Minecraft LIVE - March 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,475,484 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 2,555,386 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Is5IswM87EQ"
   },
   {
-    "topic": "Whoever Get's The Best Trade WINS.. w/ Steak",
+    "topic": "SIDEMEN AMONG US: THE MOST EXPLOSIVE EPISODE EVER",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,440,502 views \u2022 ~459m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-kdb8RQe8Nc"
+    "why": "Trending on YouTube \u2022 826,407 views \u2022 ~523m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5QscahGVf1Y"
   },
   {
     "topic": "CG5 \u00d7 Pomni - Lover Without A Heart [Ode to CAINE] (The Amazing Digital Circus Song Animation)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,784 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 400,876 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3iIU6LjXhs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,738 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 84,212 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J-5zC1tG-7k"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,476 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 77,475 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5l2qLfSMSFY"
-  },
-  {
-    "topic": "\"Brand New Day\" Looks SPECTACULAR",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 48,710 views \u2022 ~524m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=m1WpJ8Vg_jA"
   },
   {
     "topic": "Valspar Championship, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dRLJeOs4pyE"
   },
   {
@@ -240,23 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IHtiuq1ZRGM"
   },
   {
-    "topic": "Fox & Friends Weekend",
+    "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JlH4lt0Ma44"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p4OoXaLfNT8"
   },
   {
     "topic": "First Round: Howard vs. Ohio State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0FlDM5-ZYhs"
+  },
+  {
+    "topic": "Everton vs. Chelsea",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xbPheu84fnk"
   }
 ]
