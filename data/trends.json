@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0o1ls/iran_says_it_will_irreversibly_destroy_middle/"
   },
   {
-    "topic": "Iran unswayed by Trump's 48-hour deadline and threats to 'obliterate' energy infrastructure",
+    "topic": "Hungarian minister shared EU confidential information with Russia for years, report claims",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0knl1/iran_unswayed_by_trumps_48hour_deadline_and/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0wu9h/hungarian_minister_shared_eu_confidential/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0ozlf/i_really_want_to_enjoy_crimson_desert_but_i_just/"
   },
   {
-    "topic": "BIKER Trailer | Sharwanand | Dr Rajashekhar | Malvika Nair | Abhilash Reddy | Ghibran Vaibodha",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,283,587 views \u2022 ~627m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aIhYSFGLE9g"
-  },
-  {
     "topic": "3 Minecraft Pros VS 1000 Hunters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 717,923 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 776,235 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=41LpV4EqkoA"
+  },
+  {
+    "topic": "BIKER Trailer | Sharwanand | Dr Rajashekhar | Malvika Nair | Abhilash Reddy | Ghibran Vaibodha",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,294,275 views \u2022 ~666m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aIhYSFGLE9g"
   },
   {
     "topic": "BTS 'ARIRANG' Album Photoshoot : Behind the Scenes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,066,554 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 1,082,013 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dwxn0Sd36Tg"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 370,526 views \u2022 ~662m old",
+    "why": "Trending on YouTube \u2022 379,733 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=krh98HsMk5c"
-  },
-  {
-    "topic": "GUILTY GEAR -STRIVE- Season Pass 5 Playable Character #1 [Jam] Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 221,950 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LzldFURrz1I"
   },
   {
     "topic": "GUILTY GEAR IS CHANGING - MAX REACTS: Strive 2.0 & Jam Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,329 views \u2022 ~630m old",
+    "why": "Trending on YouTube \u2022 136,991 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
   },
   {
@@ -232,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,820 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 59,743 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yg2VYUUw44U"
-  },
-  {
-    "topic": "GUILTY GEAR -STRIVE- | Season 5 and 2.0 Update Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 80,321 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mLGruVR6VkM"
   },
   {
     "topic": "Second Round: High Point vs. Arkansas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HcdDeTsZyOI"
   },
   {
@@ -256,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aMQiM0m9YpA"
+  },
+  {
+    "topic": "College GameDay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5Otq12oQiew"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GEr4grSVXU"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YLN8Il3a_l0"
   }
 ]
