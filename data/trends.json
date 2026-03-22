@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s029al/you_couldve_said_i_dont/"
   },
   {
-    "topic": "Price Drop!",
+    "topic": "Can we?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rzzl4x/price_drop/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0ht3b/can_we/"
   },
   {
     "topic": "Typical youtube thumbnail",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/"
   },
   {
-    "topic": "The Mayor of Rio De Janeiro says Chappell Roan has been banned from performing at Todo Mundo No Rio after an incident involving her security guard and the stepdaughter of Brazilian footballer Jorginho (the stepdaughter is the daughter of Jude Law)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s0810n/the_mayor_of_rio_de_janeiro_says_chappell_roan/"
-  },
-  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s08uud/crimson_desert_spanish_translation_is_so_bad_it/"
   },
   {
+    "topic": "Ubisoft lays off 100 at Redstorm Ent, restructuring and 'accelerating its investment in \"player-facing generative AI.\"'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0bjl1/ubisoft_lays_off_100_at_redstorm_ent/"
+  },
+  {
     "topic": "\ud83d\udd34LIVE | CS2 w/ HutchMF, Cloakzy, & Drac | OPENING CASES | GETTING KNIVES | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 670,098 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 673,496 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5MIdaGGKHa8"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,977 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 128,470 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J-5zC1tG-7k"
+  },
+  {
+    "topic": "NCAA Championships: Finals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fgZrlDNWb5g"
   },
   {
     "topic": "First Round: Syracuse vs. Iowa State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1M2MhLNVudU"
   },
   {
@@ -208,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dRLJeOs4pyE"
-  },
-  {
-    "topic": "First Round: FDU vs. Iowa",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZYIU2Bh2ivU"
   },
   {
     "topic": "My View With Lara Trump",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0fBzIz0uonM"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OLQsNBMdPFo"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1tQA_6_U7Vs"
   },
   {
@@ -248,7 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0dCermE49zs"
+  },
+  {
+    "topic": "Second Round: TCU vs. Duke",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rL0quv8z8pI"
+  },
+  {
+    "topic": "Bestie Brawl",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tQknODF9oPk"
   }
 ]
