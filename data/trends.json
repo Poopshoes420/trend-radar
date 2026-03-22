@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rzzl4x/price_drop/"
   },
   {
-    "topic": "Oh... oh no...",
+    "topic": "8 GB Vs. 16 GB",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rzyydi/oh_oh_no/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s07yaq/8_gb_vs_16_gb/"
   },
   {
     "topic": "Typical youtube thumbnail",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s021us/how_it_feels_to_unsubscribe_to_that_one_youtuber/"
   },
   {
-    "topic": "Is it just me who finds these types of videos kinda gross morally?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s01190/is_it_just_me_who_finds_these_types_of_videos/"
-  },
-  {
     "topic": "Who\u2019s a YouTuber you haven\u2019t watched in years?",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s048tp/whos_a_youtuber_you_havent_watched_in_years/"
   },
   {
-    "topic": "A cool guide about using YouTube premium for free (completely legal)",
+    "topic": "Is it just me who finds these types of videos kinda gross morally?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1rzr437/a_cool_guide_about_using_youtube_premium_for_free/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s01190/is_it_just_me_who_finds_these_types_of_videos/"
+  },
+  {
+    "topic": "I am a 28 year old man with no interest in FemBoys or being a FemBoy",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s00har/i_am_a_28_year_old_man_with_no_interest_in/"
   },
   {
     "topic": "Trump Gives Iran 48 Hours to Open Strait, Threatens Power Plants",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump issues 48-hour ultimatum to Iran - as Israel claims Tehran can hit London",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/"
-  },
-  {
     "topic": "After Trump\u2019s Ultimatum, Iran Threatens To Target \u2018Enemy\u2019s\u2019 Desalination Plants",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ddab/after_trumps_ultimatum_iran_threatens_to_target/"
+  },
+  {
+    "topic": "Trump issues 48-hour ultimatum to Iran - as Israel claims Tehran can hit London",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/"
   },
   {
     "topic": "The Mayor of Rio De Janeiro says Chappell Roan has been banned from performing at Todo Mundo No Rio after an incident involving her security guard and the stepdaughter of Brazilian footballer Jorginho (the stepdaughter is the daughter of Jude Law)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,032,906 views \u2022 ~680m old",
+    "why": "Trending on YouTube \u2022 1,063,111 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5QscahGVf1Y"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 507,393 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 528,382 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3iIU6LjXhs"
+  },
+  {
+    "topic": "We\u2019re Selling Black Market Movies\u2026 (Retro Rewind Part 3)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 178,494 views \u2022 ~624m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=03LivdDST6s"
   },
   {
     "topic": "Spider-Man Brand New Day Trailer: The Hidden Main Villain!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,827 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 114,858 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J-5zC1tG-7k"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1M2MhLNVudU"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dRLJeOs4pyE"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZYIU2Bh2ivU"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zVqjbckRgHk"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dcreBXoImz4"
   }
 ]
