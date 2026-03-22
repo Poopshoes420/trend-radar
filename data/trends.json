@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] then and now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0kisk/oc_then_and_now/"
-  },
-  {
     "topic": "Cat Slam!",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0oxsw/cat_slam/"
   },
   {
-    "topic": "[OC] would be weird",
+    "topic": "[OC] then and now",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0ki66/oc_would_be_weird/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0kisk/oc_then_and_now/"
+  },
+  {
+    "topic": "[OC] there he is",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0t32e/oc_there_he_is/"
   },
   {
     "topic": "messyourself is deleting his channel \ud83d\ude22",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s0ibem/is_youtube_dying_boring_algorithm/"
   },
   {
-    "topic": "Iran to completely close Hormuz if Trump executes threats on Iranian energy, Revolutionary Guards say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0nwui/iran_to_completely_close_hormuz_if_trump_executes/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1487, Part 1 (Thread #1634)",
     "sources": [
       "reddit"
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran to completely close Hormuz if Trump executes threats on Iranian energy, Revolutionary Guards say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0nwui/iran_to_completely_close_hormuz_if_trump_executes/"
+  },
+  {
     "topic": "Iran says it will \u2018irreversibly destroy\u2019 Middle East infrastructure if US attacks energy sites",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0o1ls/iran_says_it_will_irreversibly_destroy_middle/"
   },
   {
-    "topic": "ICE agents will be deployed to U.S. airports on Monday: Homan",
+    "topic": "Iran unswayed by Trump's 48-hour deadline and threats to 'obliterate' energy infrastructure",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0w3qy/ice_agents_will_be_deployed_to_us_airports_on/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0knl1/iran_unswayed_by_trumps_48hour_deadline_and/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,259,644 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 1,277,140 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aIhYSFGLE9g"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 606,238 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 674,817 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=41LpV4EqkoA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,039,286 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 1,058,118 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dwxn0Sd36Tg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 351,605 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 363,540 views \u2022 ~639m old",
     "exampleUrl": "https://www.youtube.com/watch?v=krh98HsMk5c"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,354 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 219,037 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LzldFURrz1I"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,530 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 128,894 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JK-8JDyd-g8"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,851 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 79,562 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mLGruVR6VkM"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,739 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 53,188 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yg2VYUUw44U"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~514m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HcdDeTsZyOI"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~341m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aMQiM0m9YpA"
   },
   {
@@ -264,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2GEr4grSVXU"
   },
   {
-    "topic": "The Weekend",
+    "topic": "State of the Union With Jake Tapper and Dana Bash",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pb6ho868s14"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YLN8Il3a_l0"
   }
 ]
