@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Australia\u2019s most honest road safety sign",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0cph6/australias_most_honest_road_safety_sign/"
+  },
+  {
     "topic": "Price Drop!",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1rzzl4x/price_drop/"
-  },
-  {
-    "topic": "Duck Norris \ud83d\udc25",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1rztly5/duck_norris/"
   },
   {
     "topic": "Oh... oh no...",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Failed interception in Dimona strike leaves 51 hospitalized, child seriously hurt; Iran: Retaliation for Natanz strike",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0301c/failed_interception_in_dimona_strike_leaves_51/"
-  },
-  {
     "topic": "Trump issues 48-hour ultimatum to Iran - as Israel claims Tehran can hit London",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/"
+  },
+  {
+    "topic": "Failed interception in Dimona strike leaves 51 hospitalized, child seriously hurt; Iran: Retaliation for Natanz strike",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0301c/failed_interception_in_dimona_strike_leaves_51/"
   },
   {
     "topic": "The Mayor of Rio De Janeiro says Chappell Roan has been banned from performing at Todo Mundo No Rio after an incident involving her security guard and the stepdaughter of Brazilian footballer Jorginho (the stepdaughter is the daughter of Jude Law)",
@@ -144,22 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s0810n/the_mayor_of_rio_de_janeiro_says_chappell_roan/"
   },
   {
-    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzjv17/self_promotion_saturday_small_streamer_just/"
-  },
-  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0dyhu/simple_questions_sunday/"
   },
   {
     "topic": "New Orleans man charged with child pornography possession tells investigators he's a Roblox programmer, adding to the long line of awful controversies for the platform",
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s08uud/crimson_desert_spanish_translation_is_so_bad_it/"
   },
   {
-    "topic": "Minecraft LIVE - March 2026",
+    "topic": "A Mountain and Village I made in Minecraft",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 2,555,386 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Is5IswM87EQ"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1rzznzy/a_mountain_and_village_i_made_in_minecraft/"
   },
   {
     "topic": "SIDEMEN AMONG US: THE MOST EXPLOSIVE EPISODE EVER",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 826,407 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 901,411 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5QscahGVf1Y"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 400,876 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 443,351 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3iIU6LjXhs"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,212 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 96,189 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J-5zC1tG-7k"
   },
   {
@@ -216,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,475 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 82,685 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5l2qLfSMSFY"
+  },
+  {
+    "topic": "\"Brand New Day\" Looks SPECTACULAR",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,162 views \u2022 ~667m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=m1WpJ8Vg_jA"
   },
   {
     "topic": "Valspar Championship, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dRLJeOs4pyE"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~327m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IHtiuq1ZRGM"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p4OoXaLfNT8"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0FlDM5-ZYhs"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xbPheu84fnk"
   }
 ]
