@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Run! Boss is coming",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0zuq5/run_boss_is_coming/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Run! Boss is coming",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0zuq5/run_boss_is_coming/"
   },
   {
     "topic": "Petsmart",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0srri/retired_people_going_shopping/"
   },
   {
-    "topic": "Cat Slam!",
+    "topic": "[OC] there he is",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0oxsw/cat_slam/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0t32e/oc_there_he_is/"
   },
   {
     "topic": "messyourself is deleting his channel \ud83d\ude22",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s0tjid/its_getting_beyond_the_joke_now/"
   },
   {
-    "topic": "I can't be the only one who feels this way about ads.",
+    "topic": "YouTube after I just watched an entire video start to finish and I head back to my home page to find more",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s0rpaz/i_cant_be_the_only_one_who_feels_this_way_about/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s16qnk/youtube_after_i_just_watched_an_entire_video/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1488, Part 1 (Thread #1635)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran to completely close Hormuz if Trump executes threats on Iranian energy, Revolutionary Guards say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0nwui/iran_to_completely_close_hormuz_if_trump_executes/"
-  },
-  {
     "topic": "Hungarian minister shared EU confidential information with Russia for years, report claims",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0wu9h/hungarian_minister_shared_eu_confidential/"
   },
   {
-    "topic": "Iran says it will \u2018irreversibly destroy\u2019 Middle East infrastructure if US attacks energy sites",
+    "topic": "Iran to completely close Hormuz if Trump executes threats on Iranian energy, Revolutionary Guards say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0o1ls/iran_says_it_will_irreversibly_destroy_middle/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0nwui/iran_to_completely_close_hormuz_if_trump_executes/"
+  },
+  {
+    "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s12gyq/capcom_might_be_teasing_a_dragons_dogma_2/"
   },
   {
-    "topic": "Pearl Abyss releases official statement apologizing about Crimson Desert's AI-use",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0n5ns/pearl_abyss_releases_official_statement/"
-  },
-  {
     "topic": "[Updates] Patch Notes Version 1.00.03 | Crimson Desert.",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s157u5/updates_patch_notes_version_10003_crimson_desert/"
   },
   {
+    "topic": "Pearl Abyss releases official statement apologizing about Crimson Desert's AI-use",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0n5ns/pearl_abyss_releases_official_statement/"
+  },
+  {
     "topic": "We Finally Climbed The Backrooms",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 618,904 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 649,349 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b2el49im8cQ"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 299,309 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 322,908 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VqS8PDsTGK4"
-  },
-  {
-    "topic": "Resident Evil: Requiem - Part 12",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 294,599 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=r_HNogjVf98"
   },
   {
     "topic": "This New Defense Changes EVERYTHING! Wheel of MUT! Ep. #52",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 183,865 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 193,024 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uO8yKX_OZZI"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,182 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 192,272 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sNSIJ85Mn40"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~57m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3B1C06QJic"
   },
   {
@@ -232,55 +224,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLG_aFHWjP8"
   },
   {
-    "topic": "Second Round: Baylor vs. Duke",
+    "topic": "Second Round: Oregon vs. Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dFVPuRz_bN0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=36eOxHFUfio"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "Sunday Night in America With Trey Gowdy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TUbsA63_qDg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qVvgr1O6cTQ"
+  },
+  {
+    "topic": "Built Like a Bunker",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=732IX7kLCKI"
+  },
+  {
+    "topic": "Second Round: Seattle at Auburn",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SFYB0KUlA0Y"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zSnPvPZ_MMw"
-  },
-  {
-    "topic": "Tickled Pink",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Rqb7cuSaeew"
-  },
-  {
-    "topic": "Second Round: Illinois State at Wake Forest",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~51m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=K2R5gpFzqxk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KnfQqOZN_-A"
   },
   {
     "topic": "NCAA Tournament: Wisconsin vs. Ohio State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Ju_Zgy77XM"
   }
 ]
