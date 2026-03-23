@@ -81,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s16qnk/youtube_after_i_just_watched_an_entire_video/"
   },
   {
-    "topic": "It\u2019s getting beyond the joke now.",
+    "topic": "WHY is this a thing??",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s0tjid/its_getting_beyond_the_joke_now/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1emix/why_is_this_a_thing/"
+  },
+  {
+    "topic": "Trump postpones military strikes on Iranian power plants",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s1e2a1/trump_postpones_military_strikes_on_iranian_power/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1488, Part 1 (Thread #1635)",
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/"
   },
   {
-    "topic": "Israel launches new wave of attacks on Tehran and Iran threatens to start hitting Gulf power plants",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s196a6/israel_launches_new_wave_of_attacks_on_tehran_and/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0lrvh/reminder_to_utilize_your_local_library/"
   },
   {
-    "topic": "Capcom Might Be Teasing A Dragon's Dogma 2 Expansion",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s12gyq/capcom_might_be_teasing_a_dragons_dogma_2/"
-  },
-  {
     "topic": "[Updates] Patch Notes Version 1.00.03 | Crimson Desert.",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s157u5/updates_patch_notes_version_10003_crimson_desert/"
+  },
+  {
+    "topic": "Capcom Might Be Teasing A Dragon's Dogma 2 Expansion",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s12gyq/capcom_might_be_teasing_a_dragons_dogma_2/"
   },
   {
     "topic": "Pearl Abyss releases official statement apologizing about Crimson Desert's AI-use",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 387,114 views \u2022 ~672m old",
+    "why": "Trending on YouTube \u2022 397,767 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VqS8PDsTGK4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3B1C06QJic"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLG_aFHWjP8"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XHcsL42gFVE"
   },
   {
@@ -216,31 +216,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5TmqztD4ixg"
   },
   {
-    "topic": "Sunday Night in America With Trey Gowdy",
+    "topic": "One Nation With Brian Kilmeade",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qVvgr1O6cTQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-xlFMl2iH3c"
   },
   {
     "topic": "The Final Icon Is Revealed",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XC6Y0JnUXZM"
+  },
+  {
+    "topic": "Mayday! Mayday!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7mng4cRgVj4"
   },
   {
     "topic": "Harvest Moon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uD-0IpQKlhw"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=732IX7kLCKI"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=19bczaESh9Q"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SFYB0KUlA0Y"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KnfQqOZN_-A"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TZXdJYAtKBc"
   },
   {
@@ -288,15 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yF4CjbY205I"
-  },
-  {
-    "topic": "Guardians of the Galaxy Vol. 3",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OwH_tLfqgA8"
   }
 ]
