@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Woman delivers more than expected to show the quality of her high heels.",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1c1is/woman_delivers_more_than_expected_to_show_the/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Petsmart",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/"
-  },
-  {
     "topic": "Earth being \u2018pushed beyond its limits\u2019 as energy imbalance reaches record high",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s18sz1/earth_being_pushed_beyond_its_limits_as_energy/"
   },
   {
-    "topic": "Hungarian minister shared EU confidential information with Russia for years, report claims",
+    "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0wu9h/hungarian_minister_shared_eu_confidential/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/"
+  },
+  {
+    "topic": "Israel launches new wave of attacks on Tehran and Iran threatens to start hitting Gulf power plants",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s196a6/israel_launches_new_wave_of_attacks_on_tehran_and/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 372,906 views \u2022 ~619m old",
+    "why": "Trending on YouTube \u2022 387,114 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VqS8PDsTGK4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3B1C06QJic"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLG_aFHWjP8"
   },
   {
@@ -208,23 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XHcsL42gFVE"
+  },
+  {
+    "topic": "Slam Dunk Sunday 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5TmqztD4ixg"
   },
   {
     "topic": "Sunday Night in America With Trey Gowdy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qVvgr1O6cTQ"
+  },
+  {
+    "topic": "The Final Icon Is Revealed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XC6Y0JnUXZM"
   },
   {
     "topic": "Harvest Moon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uD-0IpQKlhw"
   },
   {
@@ -232,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=732IX7kLCKI"
+  },
+  {
+    "topic": "Jack Reacher",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=19bczaESh9Q"
   },
   {
     "topic": "Second Round: Seattle at Auburn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SFYB0KUlA0Y"
   },
   {
@@ -248,23 +272,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KnfQqOZN_-A"
+  },
+  {
+    "topic": "Everglades Thirst Trap",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TZXdJYAtKBc"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yF4CjbY205I"
   },
   {
-    "topic": "NCAA Tournament: Wisconsin vs. Ohio State",
+    "topic": "Guardians of the Galaxy Vol. 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1Ju_Zgy77XM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OwH_tLfqgA8"
   }
 ]
