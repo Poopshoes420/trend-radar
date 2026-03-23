@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Run! Boss is coming",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0zuq5/run_boss_is_coming/"
-  },
-  {
     "topic": "Petsmart",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s12r45/petsmart/"
+  },
+  {
+    "topic": "Run! Boss is coming",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0zuq5/run_boss_is_coming/"
   },
   {
     "topic": "Retired people going shopping",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0srri/retired_people_going_shopping/"
   },
   {
-    "topic": "[OC] there he is",
+    "topic": "Randy is an innocent boy",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s0t32e/oc_there_he_is/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1ax1c/randy_is_an_innocent_boy/"
   },
   {
     "topic": "messyourself is deleting his channel \ud83d\ude22",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/"
+  },
+  {
     "topic": "Hungarian minister shared EU confidential information with Russia for years, report claims",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0nwui/iran_to_completely_close_hormuz_if_trump_executes/"
-  },
-  {
-    "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,43 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0n5ns/pearl_abyss_releases_official_statement/"
   },
   {
-    "topic": "We Finally Climbed The Backrooms",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 649,349 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=b2el49im8cQ"
-  },
-  {
     "topic": "Can 5 Streamers Beat 1 Pro? (Rainbow Six Siege)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 322,908 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 352,665 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VqS8PDsTGK4"
-  },
-  {
-    "topic": "This New Defense Changes EVERYTHING! Wheel of MUT! Ep. #52",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 193,024 views \u2022 ~643m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uO8yKX_OZZI"
   },
   {
     "topic": "Trying To Keep The Place Running (Corner Store Part 3)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,272 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 211,560 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sNSIJ85Mn40"
+  },
+  {
+    "topic": "This New Defense Changes EVERYTHING! Wheel of MUT! Ep. #52",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 200,854 views \u2022 ~707m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uO8yKX_OZZI"
   },
   {
     "topic": "Goodyear 400",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F3B1C06QJic"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLG_aFHWjP8"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
     "exampleUrl": "https://www.youtube.com/watch?v=36eOxHFUfio"
   },
   {
@@ -240,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qVvgr1O6cTQ"
+  },
+  {
+    "topic": "Harvest Moon",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uD-0IpQKlhw"
   },
   {
     "topic": "Built Like a Bunker",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
     "exampleUrl": "https://www.youtube.com/watch?v=732IX7kLCKI"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SFYB0KUlA0Y"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KnfQqOZN_-A"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Ju_Zgy77XM"
   }
 ]
