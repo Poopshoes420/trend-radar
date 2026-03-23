@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s0rpaz/i_cant_be_the_only_one_who_feels_this_way_about/"
   },
   {
-    "topic": "Department of State declares security alert; \u201cworldwide caution\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s15x6w/department_of_state_declares_security_alert/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1488, Part 1 (Thread #1635)",
     "sources": [
       "reddit"
@@ -117,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Israeli soldiers torture one-year-old Gaza child to force confessions from his father",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s144jn/israeli_soldiers_torture_oneyearold_gaza_child_to/"
-  },
-  {
     "topic": "Iran to completely close Hormuz if Trump executes threats on Iranian energy, Revolutionary Guards say",
     "sources": [
       "reddit"
@@ -133,6 +115,24 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0nwui/iran_to_completely_close_hormuz_if_trump_executes/"
+  },
+  {
+    "topic": "Hungarian minister shared EU confidential information with Russia for years, report claims",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0wu9h/hungarian_minister_shared_eu_confidential/"
+  },
+  {
+    "topic": "Iran says it will \u2018irreversibly destroy\u2019 Middle East infrastructure if US attacks energy sites",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s0o1ls/iran_says_it_will_irreversibly_destroy_middle/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0n5ns/pearl_abyss_releases_official_statement/"
   },
   {
-    "topic": "\"We'll Still Release on Switch, Xbox, and Steam\": Dev Responds to Delisting as Sony Axes 1,000s More Shovelware Titles From PS Store",
+    "topic": "[Updates] Patch Notes Version 1.00.03 | Crimson Desert.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s0rsbk/well_still_release_on_switch_xbox_and_steam_dev/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s157u5/updates_patch_notes_version_10003_crimson_desert/"
   },
   {
     "topic": "We Finally Climbed The Backrooms",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 567,846 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 618,904 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b2el49im8cQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,693 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 299,309 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VqS8PDsTGK4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 274,411 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 294,599 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=r_HNogjVf98"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,483 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 183,865 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uO8yKX_OZZI"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,582 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 177,182 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sNSIJ85Mn40"
+  },
+  {
+    "topic": "Goodyear 400",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~57m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=F3B1C06QJic"
   },
   {
     "topic": "Valspar Championship, Final Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PLG_aFHWjP8"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dFVPuRz_bN0"
   },
   {
@@ -240,23 +248,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rdDjScA8uzc"
-  },
-  {
-    "topic": "Darlington",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vNcta58E_ZY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TUbsA63_qDg"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zSnPvPZ_MMw"
+  },
+  {
+    "topic": "Tickled Pink",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Rqb7cuSaeew"
+  },
+  {
+    "topic": "Second Round: Illinois State at Wake Forest",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~51m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=K2R5gpFzqxk"
+  },
+  {
+    "topic": "NCAA Tournament: Wisconsin vs. Ohio State",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1Ju_Zgy77XM"
   }
 ]
