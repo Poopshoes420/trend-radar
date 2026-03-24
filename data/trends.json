@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2f1g0/all_videos_say_no_views/"
   },
   {
-    "topic": "you've messed up subscriptions",
+    "topic": "What in the absolute fuck is this YouTube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2df0e/youve_messed_up_subscriptions/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2iq8k/what_in_the_absolute_fuck_is_this_youtube/"
   },
   {
     "topic": "Report: Pentagon to Order Thousands More US Troops to Middle East in Coming Hours",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,898,068 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 1,989,235 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h-Y97xErGL8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 528,002 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 554,384 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 119,422 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 129,391 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7A5YWn33eps"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,867 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 60,836 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JFsfHLUl5Q4"
   },
   {
@@ -216,23 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,619 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 69,190 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_cZsB1KEJc"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SiqRtYDgPmU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pHjepdMad4w"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=E5qimZekM88"
   },
   {
     "topic": "Golden State Warriors at Dallas Mavericks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_94Z_ZAuUE"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dZzuPG-MIOI"
   }
 ]
