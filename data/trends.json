@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Where are they \ud83d\ude2d",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s266ed/where_are_they/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Hot shots 2",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 587,761 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 594,421 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eK8uExek4ZM"
-  },
-  {
-    "topic": "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 945,600 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
   },
   {
     "topic": "Jay Chou \u5468\u6770\u502b\u3010Children of the Sun \u592a\u967d\u4e4b\u5b50\u3011 Official Music Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,073 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 322,997 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hgnpi3eBQ9o"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RnYdnm24Efs"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G8xS3iuB6D8"
   },
   {
@@ -224,23 +216,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-dWhN0yF-10"
   },
   {
-    "topic": "CNN Global Report: War With Iran",
+    "topic": "The Rachel Maddow Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nxNOou6b1_I"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_cq_IA3pK7k"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5v4hAhfIw2A"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lT67lkEJW_Y"
+  },
+  {
+    "topic": "Call Me By My Name",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=J8j9j9N6i_M"
+  },
+  {
+    "topic": "The Art of Meddling",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~193m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XadRC7M70nM"
   }
 ]
