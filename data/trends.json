@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2kqii/the_algorithm_sucks_dude_no_wonder_i_cant_find/"
   },
   {
+    "topic": "Visual Guide",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t9jv/visual_guide/"
+  },
+  {
     "topic": "All videos say \"no views\"",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2f1g0/all_videos_say_no_views/"
-  },
-  {
-    "topic": "What in the absolute fuck is this YouTube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2iq8k/what_in_the_absolute_fuck_is_this_youtube/"
   },
   {
     "topic": "Report: Pentagon to Order Thousands More US Troops to Middle East in Coming Hours",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,113,363 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 2,206,804 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h-Y97xErGL8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 586,806 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 601,642 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,067 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 153,341 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7A5YWn33eps"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,958 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 76,607 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JFsfHLUl5Q4"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,680 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 80,981 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_cZsB1KEJc"
+  },
+  {
+    "topic": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 45,581 views \u2022 ~454m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Avky8dVaqAI"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pHjepdMad4w"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E5qimZekM88"
   },
   {
@@ -240,15 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_94Z_ZAuUE"
   },
   {
-    "topic": "Squawk Box",
+    "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dZzuPG-MIOI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RPWbB1uYe8s"
   }
 ]
