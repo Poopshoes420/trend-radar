@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "The fit and healthy bread",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2jdu8/the_fit_and_healthy_bread/"
+  },
+  {
     "topic": "you should really do some outside feedback before publishing your logo...",
     "sources": [
       "reddit"
@@ -27,31 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s27b8g/birthday_bomb/"
   },
   {
-    "topic": "The fit and healthy bread",
+    "topic": "The dog knew it was coming.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2jdu8/the_fit_and_healthy_bread/"
-  },
-  {
-    "topic": "A billboard I saw",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s204y1/a_billboard_i_saw/"
-  },
-  {
-    "topic": "guess who's back!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1s5vq/guess_whos_back/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2jaxw/the_dog_knew_it_was_coming/"
   },
   {
     "topic": "you've messed up subscriptions",
@@ -63,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2df0e/youve_messed_up_subscriptions/"
   },
   {
-    "topic": "There's only two types, YES ONLY TWO TYPES, of Youtube comments in music videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s24rrv/theres_only_two_types_yes_only_two_types_of/"
-  },
-  {
     "topic": "All videos say \"no views\"",
     "sources": [
       "reddit"
@@ -79,6 +61,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2f1g0/all_videos_say_no_views/"
+  },
+  {
+    "topic": "guess who's back!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1s5vq/guess_whos_back/"
+  },
+  {
+    "topic": "There's only two types, YES ONLY TWO TYPES, of Youtube comments in music videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s24rrv/theres_only_two_types_yes_only_two_types_of/"
   },
   {
     "topic": "YouTube shows \"no views\" in search results",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2dml7/false_flag_attack_iran_denies_claims_it_fired/"
   },
   {
-    "topic": "Russian Soldier Secretly Guides Ukrainian Strikes On Own Unit, Leaving Up To 150 Dead",
+    "topic": "US seeks $5 trillion from Gulf states to stop Iran war: Omani analyst",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2coyb/russian_soldier_secretly_guides_ukrainian_strikes/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2fzx8/us_seeks_5_trillion_from_gulf_states_to_stop_iran/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 769,333 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 1,074,496 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h-Y97xErGL8"
-  },
-  {
-    "topic": "Jay Chou \u5468\u6770\u502b\u3010Children of the Sun \u592a\u967d\u4e4b\u5b50\u3011 Official Music Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,339,203 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Hgnpi3eBQ9o"
   },
   {
     "topic": "Pok\u00e9mon Champions \u2013 Overview Trailer \u2013 Nintendo Switch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 190,243 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 273,849 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RnYdnm24Efs"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G8xS3iuB6D8"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-dWhN0yF-10"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_94Z_ZAuUE"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_cq_IA3pK7k"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~496m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lT67lkEJW_Y"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J8j9j9N6i_M"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EZN9eKqje3M"
   }
 ]
