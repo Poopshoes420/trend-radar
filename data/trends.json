@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2ctm7/you_should_really_do_some_outside_feedback_before/"
   },
   {
-    "topic": "The AI needs to be deleted and Neal Mohan needs to step down",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2fqda/the_ai_needs_to_be_deleted_and_neal_mohan_needs/"
-  },
-  {
     "topic": "Literally all the time lol",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2kx0z/literally_all_the_time_lol/"
+  },
+  {
+    "topic": "The AI needs to be deleted and Neal Mohan needs to step down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2fqda/the_ai_needs_to_be_deleted_and_neal_mohan_needs/"
   },
   {
     "topic": "The algorithm sucks dude, no wonder I can't find anything new to watch.",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2oijm/xbox_ceo_wants_cheaper_game_pass_sub_netflix/"
   },
   {
-    "topic": "Nintendo to cut switch 2 production by 30% due to weak sales in the US",
+    "topic": "Star Wars Jedi Knight II: Jedi Outcast",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s24oij/nintendo_to_cut_switch_2_production_by_30_due_to/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/"
   },
   {
     "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'SWIM' Official Performance Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,742,857 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 1,898,068 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h-Y97xErGL8"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 479,816 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 528,002 views \u2022 ~452m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,410 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 119,422 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7A5YWn33eps"
+  },
+  {
+    "topic": "Honest Trailers | One Piece (Season 2)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,867 views \u2022 ~285m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JFsfHLUl5Q4"
   },
   {
     "topic": "Titan Gameplay Trailer | Invincible VS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,807 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 63,619 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I_cZsB1KEJc"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SiqRtYDgPmU"
   },
   {
@@ -224,15 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_94Z_ZAuUE"
   },
   {
-    "topic": "The Source With Kaitlan Collins",
+    "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lT67lkEJW_Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dZzuPG-MIOI"
   }
 ]
