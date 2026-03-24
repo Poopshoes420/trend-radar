@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s204y1/a_billboard_i_saw/"
   },
   {
+    "topic": "Hot shots 2",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s23ugg/hot_shots_2/"
+  },
+  {
     "topic": "Yo mama jokes",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1tzbp/yo_mama_jokes/"
-  },
-  {
-    "topic": "Woman regrets her choice",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1kwtr/woman_regrets_her_choice/"
   },
   {
     "topic": "guess who's back!",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1fb7b/17_years_old_video_with_no_views_how_is_that/"
   },
   {
-    "topic": "Will YouTube retire the play buttons in the near future?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1fvzv/will_youtube_retire_the_play_buttons_in_the_near/"
-  },
-  {
     "topic": "The censorship is starting to get out of control.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1y22f/the_censorship_is_starting_to_get_out_of_control/"
+  },
+  {
+    "topic": "Will YouTube retire the play buttons in the near future?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1fvzv/will_youtube_retire_the_play_buttons_in_the_near/"
   },
   {
     "topic": "Tom Scott is back",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukraine has 'irrefutable' evidence of Russia providing intelligence to Iran, Zelenskiy says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s1lrfh/ukraine_has_irrefutable_evidence_of_russia/"
-  },
-  {
     "topic": "Strikes hit Iran energy sites in Isfahan, Khorramshahr",
     "sources": [
       "reddit"
@@ -126,13 +117,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s21345/strikes_hit_iran_energy_sites_in_isfahan/"
   },
   {
-    "topic": "Ukraine strikes Russia's largest oil export terminal in Primorsk, damage to fuel tank triggers fire",
+    "topic": "Ukraine has 'irrefutable' evidence of Russia providing intelligence to Iran, Zelenskiy says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s1r3v3/ukraine_strikes_russias_largest_oil_export/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s1lrfh/ukraine_has_irrefutable_evidence_of_russia/"
+  },
+  {
+    "topic": "Netanyahu said frustrated that Mossad promise it could instigate Iran uprising has fallen short",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s1zxr5/netanyahu_said_frustrated_that_mossad_promise_it/"
+  },
+  {
+    "topic": "Miley Cyrus at the premiere for Disney+'s \"Hannah Montana 20th Anniversary Special\" in Los Angeles (March 23, 2026)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s20mtk/miley_cyrus_at_the_premiere_for_disneys_hannah/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s1uyqi/truck_driver_replaces_passenger_seat_with_6000/"
   },
   {
-    "topic": "Did you ever call the NES \"regular Nintendo\"?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s219pi/did_you_ever_call_the_nes_regular_nintendo/"
-  },
-  {
     "topic": "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 589,253 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 688,256 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 480,121 views \u2022 ~612m old",
+    "why": "Trending on YouTube \u2022 523,637 views \u2022 ~676m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yo4HSgFym-g"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 390,981 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 411,410 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nLyxSDHjbHY"
   },
   {
@@ -208,47 +208,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,400 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 238,289 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kwT9_sUBdKM"
-  },
-  {
-    "topic": "Entre t\u00fa y yo",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 66,654 views \u2022 ~710m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zeDIhGjwKNM"
   },
   {
     "topic": "Fox BD - Where Yo Booster Seat? (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,321 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 29,861 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AYM6CDLsMHc"
+  },
+  {
+    "topic": "Second Round: Notre Dame vs. Ohio State",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uLOUzh7FZbg"
   },
   {
     "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=agqUXS_7VW4"
-  },
-  {
-    "topic": "Second Round: Alabama vs. Louisville",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LYVA_R7XWzM"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IzN6SYG4alQ"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=emnMZvwB2BY"
   }
 ]
