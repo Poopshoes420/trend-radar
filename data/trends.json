@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Birthday Bomb",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s27b8g/birthday_bomb/"
+  },
+  {
     "topic": "A billboard I saw",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1svr4/i_raised_the_bird_feeder_to_keep_deer_out_this/"
-  },
-  {
-    "topic": "Birthday Bomb",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s27b8g/birthday_bomb/"
   },
   {
     "topic": "Yo mama jokes",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1y22f/the_censorship_is_starting_to_get_out_of_control/"
   },
   {
-    "topic": "17 years old video with no views? How is that possible",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1fb7b/17_years_old_video_with_no_views_how_is_that/"
-  },
-  {
     "topic": "What is the worst YouTuber ever?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s22oms/what_is_the_worst_youtuber_ever/"
+  },
+  {
+    "topic": "YouTube shows \"no views\" in search results",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s28ewg/youtube_shows_no_views_in_search_results/"
   },
   {
     "topic": "Iran sends waves of missiles into Israel, dismisses Trump's talk of negotiations as 'fake news'",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s28g2f/russian_commanders_are_sadistically_abusing_and/"
   },
   {
-    "topic": "United Nations rejects U.S. effort to erase trans women: \"It stops here\"",
+    "topic": "Iran warns war won't end without compensation, guarantees",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s22jvs/united_nations_rejects_us_effort_to_erase_trans/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s28qmf/iran_warns_war_wont_end_without_compensation/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s24oij/nintendo_to_cut_switch_2_production_by_30_due_to/"
   },
   {
+    "topic": "Nintendo Switch 2 With Removable Battery in Production \u2014 But Only for Europe",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2cvcn/nintendo_switch_2_with_removable_battery_in/"
+  },
+  {
     "topic": "During the gameplay reveal of the first Rainbow Six at E3 1998, as the presenter was turned away from the screen to talk to the audience, his AI teammates unexpectedly went behind his back and rescued the hostages by themselves without any player input, accidentally showing off their capabilities.",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s1uyqi/truck_driver_replaces_passenger_seat_with_6000/"
   },
   {
-    "topic": "Finishing RPGs Evokes The Strongest \u2018Post-Game Depression\u2019 Amongst Players, New Scientific Study Concludes: \"The more engaging the game world and the closer the relationship with the character, the more difficult it is to return to reality once the game is over\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s1m4x1/finishing_rpgs_evokes_the_strongest_postgame/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | Counter-Strike 2 | HutchMF x Cloakzy | MEGA CASE OPENINGS | #Bungulate",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 601,827 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 610,206 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eK8uExek4ZM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 564,033 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 768,286 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hgnpi3eBQ9o"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RnYdnm24Efs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G8xS3iuB6D8"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-dWhN0yF-10"
+  },
+  {
+    "topic": "San Antonio Spurs at Miami Heat",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Lrsq-PlRGYU"
   },
   {
     "topic": "The Rachel Maddow Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~204m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_cq_IA3pK7k"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lT67lkEJW_Y"
   },
   {
@@ -240,15 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J8j9j9N6i_M"
   },
   {
-    "topic": "The Art of Meddling",
+    "topic": "The Italian Job",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XadRC7M70nM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EZN9eKqje3M"
   }
 ]
