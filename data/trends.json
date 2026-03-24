@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I raised the bird feeder to keep deer out\u2026 this was his response \ud83e\udd26\u200d\u2640\ufe0f",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1svr4/i_raised_the_bird_feeder_to_keep_deer_out_this/"
-  },
-  {
     "topic": "A billboard I saw",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s204y1/a_billboard_i_saw/"
+  },
+  {
+    "topic": "I raised the bird feeder to keep deer out\u2026 this was his response \ud83e\udd26\u200d\u2640\ufe0f",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s1svr4/i_raised_the_bird_feeder_to_keep_deer_out_this/"
   },
   {
     "topic": "Hot shots 2",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1s5vq/guess_whos_back/"
   },
   {
-    "topic": "17 years old video with no views? How is that possible",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1fb7b/17_years_old_video_with_no_views_how_is_that/"
-  },
-  {
     "topic": "The censorship is starting to get out of control.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1y22f/the_censorship_is_starting_to_get_out_of_control/"
+  },
+  {
+    "topic": "17 years old video with no views? How is that possible",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s1fb7b/17_years_old_video_with_no_views_how_is_that/"
   },
   {
     "topic": "Will YouTube retire the play buttons in the near future?",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s21345/strikes_hit_iran_energy_sites_in_isfahan/"
   },
   {
-    "topic": "Ukraine has 'irrefutable' evidence of Russia providing intelligence to Iran, Zelenskiy says",
+    "topic": "United Nations rejects U.S. effort to erase trans women: \"It stops here\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s1lrfh/ukraine_has_irrefutable_evidence_of_russia/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s22jvs/united_nations_rejects_us_effort_to_erase_trans/"
   },
   {
     "topic": "Netanyahu said frustrated that Mossad promise it could instigate Iran uprising has fallen short",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s1mzfz/during_the_gameplay_reveal_of_the_first_rainbow/"
   },
   {
+    "topic": "Nintendo to cut switch 2 production by 30% due to weak sales in the US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s24oij/nintendo_to_cut_switch_2_production_by_30_due_to/"
+  },
+  {
     "topic": "Finishing RPGs Evokes The Strongest \u2018Post-Game Depression\u2019 Amongst Players, New Scientific Study Concludes: \"The more engaging the game world and the closer the relationship with the character, the more difficult it is to return to reality once the game is over\"",
     "sources": [
       "reddit"
@@ -171,76 +180,59 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s1m4x1/finishing_rpgs_evokes_the_strongest_postgame/"
   },
   {
-    "topic": "Truck driver replaces passenger seat with $6,000 sim driving rig, uses it to kill time while \"stuck in traffic\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s1uyqi/truck_driver_replaces_passenger_seat_with_6000/"
-  },
-  {
     "topic": "JUJUTSU KAISEN Sendai Colony | Official Trailer | Crunchyroll",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 688,256 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 769,972 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ztO4Bk0ALGI"
-  },
-  {
-    "topic": "I Went BANKRUPT In Roblox!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 523,637 views \u2022 ~676m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yo4HSgFym-g"
-  },
-  {
-    "topic": "Dune: Part Three | Official Teaser Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 411,410 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nLyxSDHjbHY"
   },
   {
     "topic": "Bite By Night - Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 238,289 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 252,307 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kwT9_sUBdKM"
+  },
+  {
+    "topic": "Trapped Family Vacation\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 190,837 views \u2022 ~525m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1DjaQ0s5rPw"
   },
   {
     "topic": "Fox BD - Where Yo Booster Seat? (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,861 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 32,140 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AYM6CDLsMHc"
+  },
+  {
+    "topic": "The Five",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KJD-HYbSAqE"
   },
   {
     "topic": "Second Round: Notre Dame vs. Ohio State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uLOUzh7FZbg"
-  },
-  {
-    "topic": "The Will Cain Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=agqUXS_7VW4"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IzN6SYG4alQ"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=emnMZvwB2BY"
   }
 ]
