@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2vknp/they_removed_the_likes_not_only_this_looks_bad/"
   },
   {
-    "topic": "The AI needs to be deleted and Neal Mohan needs to step down",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2fqda/the_ai_needs_to_be_deleted_and_neal_mohan_needs/"
-  },
-  {
     "topic": "THIS IS THE WORST CHANGE IN YT UI IN HISTORY!?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2x0js/this_is_the_worst_change_in_yt_ui_in_history/"
+  },
+  {
+    "topic": "The AI needs to be deleted and Neal Mohan needs to step down",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2fqda/the_ai_needs_to_be_deleted_and_neal_mohan_needs/"
   },
   {
     "topic": "Iran Gives Trump an Ultimatum on JD Vance",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2ffey/epic_games_lays_off_over_1000_employees_the/"
   },
   {
-    "topic": "Xbox CEO wants cheaper Game Pass sub & Netflix bundle deal: Report - Dexerto",
+    "topic": "Marathon sold just 1.2 million copies with nearly 70% on Steam, analyst estimates: \"It hasn't exactly made the splash Sony and Bungie wanted\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2oijm/xbox_ceo_wants_cheaper_game_pass_sub_netflix/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3478t/marathon_sold_just_12_million_copies_with_nearly/"
   },
   {
     "topic": "Roblox... Why... \ud83d\udc94",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 597,091 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 626,768 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fIzjZL3ng5k"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 170,776 views \u2022 ~209m old",
+    "why": "Trending on YouTube \u2022 207,815 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=swuhhziz3dM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,875 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 228,161 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e__YaECyqTI"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,656 views \u2022 ~604m old",
+    "why": "Trending on YouTube \u2022 93,501 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0cI7gVdY9qU"
-  },
-  {
-    "topic": "Spider-Man: Brand New Day Looks Great, BUT...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 97,127 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yA0NK2ESpks"
   },
   {
     "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cpZBYfcyffw"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ijKKOXH1kR4"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D7xu85R1rqI"
   }
 ]
