@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3g6kz/oc_not_yet/"
   },
   {
-    "topic": "Regret to inform you",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s39mjq/regret_to_inform_you/"
-  },
-  {
     "topic": "[OC] march madness",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3igeh/oc_march_madness/"
+  },
+  {
+    "topic": "Regret to inform you",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s39mjq/regret_to_inform_you/"
   },
   {
     "topic": "Rickrolling is dead due to YT Ads",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s18tvq/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "I am not mature enough for the new Tomodachi Life",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ojjc/i_am_not_mature_enough_for_the_new_tomodachi_life/"
+  },
+  {
     "topic": "Marathon sold just 1.2 million copies with nearly 70% on Steam, analyst estimates: \"It hasn't exactly made the splash Sony and Bungie wanted\"",
     "sources": [
       "reddit"
@@ -171,36 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ku9k/gaming_quotesmoments_that_live_rent_free/"
   },
   {
-    "topic": "I would give so much for Hulk Ultimate Destruction to get an HD remake/remaster",
+    "topic": "FORGOTTEN ISLAND | Official Trailer",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ccy7/i_would_give_so_much_for_hulk_ultimate/"
+    "why": "Trending on YouTube \u2022 828,533 views \u2022 ~471m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=a8RHqN93qfo"
   },
   {
     "topic": "BTS 'SWIM' MV Behind the Scenes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,100,218 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 1,137,348 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jS50YfznjUg"
-  },
-  {
-    "topic": "FORGOTTEN ISLAND | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 721,159 views \u2022 ~420m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=a8RHqN93qfo"
   },
   {
     "topic": "I Played Pokemon Champions Early",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 644,904 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 705,247 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 371,111 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 568,701 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
   },
   {
@@ -216,47 +216,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,577 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 284,699 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_xY0XuGOWJs"
-  },
-  {
-    "topic": "Dimension 20: City Council of Darkness Trailer [Dropout Exclusive Series]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 54,362 views \u2022 ~270m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
-  },
-  {
-    "topic": "Season 03 Launch Trailer | Call of Duty: Warzone & Black Ops 7",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 51,158 views \u2022 ~360m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DGibdlrwYMg"
-  },
-  {
-    "topic": "HARRY POTTER HBO SERIES TRAILER REACTION",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 20,150 views \u2022 ~147m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bCHjIJrCDfc"
   },
   {
     "topic": "Harry Potter and the Philosopher\u2019s Stone | Official Teaser | #HBOMaxAsia",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 17,212 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 82,561 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cdh7LWKdf-M"
+  },
+  {
+    "topic": "HARRY POTTER HBO SERIES TRAILER REACTION",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 41,520 views \u2022 ~198m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bCHjIJrCDfc"
+  },
+  {
+    "topic": "Dimension 20: City Council of Darkness Trailer [Dropout Exclusive Series]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 65,324 views \u2022 ~321m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
+  },
+  {
+    "topic": "HARRY POTTER AND THE PHILOSOPHER'S STONE Official Teaser Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 38,387 views \u2022 ~221m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sHQukSJLjoc"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hc45KUwIPyA"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ha7l703yw5c"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e2MXgfZY6Ss"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C1g7UqhYBig"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P0YoHMeH3to"
   }
 ]
