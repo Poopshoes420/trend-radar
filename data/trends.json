@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3igeh/oc_march_madness/"
   },
   {
-    "topic": "Regret to inform you",
+    "topic": "Aand thats how I met your mother",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s39mjq/regret_to_inform_you/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3im6y/aand_thats_how_i_met_your_mother/"
   },
   {
     "topic": "Rickrolling is dead due to YT Ads",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
+  },
+  {
+    "topic": "Wait, YouTube think I\u2019m a child?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ouue/wait_youtube_think_im_a_child/"
   },
   {
     "topic": "Visual Guide",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
-  },
-  {
-    "topic": "Youtube captcha",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3edvp/youtube_captcha/"
   },
   {
     "topic": "Mass text in Iran promotes Trump assassination campaign, $25m pledged",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 828,533 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 909,574 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a8RHqN93qfo"
   },
   {
@@ -192,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,137,348 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 1,161,962 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jS50YfznjUg"
-  },
-  {
-    "topic": "I Played Pokemon Champions Early",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 705,247 views \u2022 ~530m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
   },
   {
     "topic": "Apex | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 568,701 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 808,833 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
+  },
+  {
+    "topic": "I Played Pokemon Champions Early",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 746,868 views \u2022 ~569m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
   },
   {
     "topic": "Tomodachi Life: Living the Dream \u2013 Overview Trailer \u2013 Nintendo Switch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,699 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 297,150 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_xY0XuGOWJs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,561 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 103,302 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cdh7LWKdf-M"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,520 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 50,839 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bCHjIJrCDfc"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,324 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 71,885 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,387 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 46,908 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sHQukSJLjoc"
   },
   {
@@ -256,15 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hc45KUwIPyA"
+  },
+  {
+    "topic": "The Situation Room",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=40sd2ERFlxw"
   },
   {
     "topic": "Get Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ha7l703yw5c"
   },
   {
@@ -272,23 +280,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e2MXgfZY6Ss"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~235m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C1g7UqhYBig"
   },
   {
     "topic": "Varney & Company",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P0YoHMeH3to"
   }
 ]
