@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Dogs definitely understand us",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s307wd/dogs_definitely_understand_us/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "How me and AI collaborate at work",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2t9jw/israel_announces_territorial_seizure_in_lebanon/"
   },
   {
-    "topic": "Report: Pentagon to Order Thousands More US Troops to Middle East in Coming Hours",
+    "topic": "Drug Camp That Hegseth Said U.S. Bombed in Ecuador Was Actually Dairy Farm: Report",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2kn5t/report_pentagon_to_order_thousands_more_us_troops/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s30ov5/drug_camp_that_hegseth_said_us_bombed_in_ecuador/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2cvcn/nintendo_switch_2_with_removable_battery_in/"
   },
   {
+    "topic": "Roblox... Why... \ud83d\udc94",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 538,849 views \u2022 ~556m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fIzjZL3ng5k"
+  },
+  {
+    "topic": "\ubcc4, \ube5b (STAY)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 113,963 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=swuhhziz3dM"
+  },
+  {
     "topic": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 190,646 views \u2022 ~366m old",
+    "why": "Trending on YouTube \u2022 211,749 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e__YaECyqTI"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,705 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 86,776 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0cI7gVdY9qU"
   },
   {
@@ -200,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,403 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 92,049 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yA0NK2ESpks"
   },
   {
-    "topic": "The Story With Martha MacCallum",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TBuLeZ0OMgQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BbycQockk6I"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~478m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E5qimZekM88"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~53m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ijKKOXH1kR4"
   },
   {
-    "topic": "The Arena With Kasie Hunt",
+    "topic": "The Lead With Jake Tapper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yNcc67jUSWY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=D7xu85R1rqI"
   }
 ]
