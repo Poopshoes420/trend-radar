@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
   },
   {
-    "topic": "Youtube captcha",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3edvp/youtube_captcha/"
-  },
-  {
     "topic": "Well this is awkward",
     "sources": [
       "reddit"
@@ -90,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s37k00/well_this_is_awkward/"
   },
   {
-    "topic": "Trump confirms Saudi crown prince is pushing him to continue Iran war",
+    "topic": "Youtube captcha",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3edvp/youtube_captcha/"
+  },
+  {
+    "topic": "Mass text in Iran promotes Trump assassination campaign, $25m pledged",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3d18k/trump_confirms_saudi_crown_prince_is_pushing_him/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1490, Part 1 (Thread #1637)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3f3gj/trump_accused_of_giving_his_mates_inside/"
   },
   {
-    "topic": "Mass text in Iran promotes Trump assassination campaign, $25m pledged",
+    "topic": "Trump confirms Saudi crown prince is pushing him to continue Iran war",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3d18k/trump_confirms_saudi_crown_prince_is_pushing_him/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ccy7/i_would_give_so_much_for_hulk_ultimate/"
   },
   {
-    "topic": "Metacritic annual publisher rankings- Square Enix is #1",
+    "topic": "Call it Roger Sterling, because this is one silver fox!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3awub/metacritic_annual_publisher_rankings_square_enix/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ez2g/call_it_roger_sterling_because_this_is_one_silver/"
   },
   {
     "topic": "BTS 'SWIM' MV Behind the Scenes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 942,114 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 996,471 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jS50YfznjUg"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 392,271 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 468,640 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | APE SEX LEGENDS | Cloakzy x Drac | Peanutadon | TESTICULAR TORSION TUESDAY | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 667,478 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MReS60k54l4"
   },
   {
     "topic": "Apex | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,273 views \u2022 ~309m old",
+    "why": "Trending on YouTube \u2022 149,727 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,287 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 67,141 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AT9ZlL1vImM"
   },
   {
@@ -224,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,785 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 36,565 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DGibdlrwYMg"
+  },
+  {
+    "topic": "Dimension 20: City Council of Darkness Trailer [Dropout Exclusive Series]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,045 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
   },
   {
     "topic": "Warframe | The Shadowgrapher Official Gameplay Trailer - Available Now On All Platforms!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,543 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 61,999 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5OtHw_WaDf4"
-  },
-  {
-    "topic": "Entre t\u00fa y yo",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 67,249 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7Nf2lZD1rvw"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~667m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S9kCobX_01c"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~558m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rf89TCs3WgA"
   }
 ]
