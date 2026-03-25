@@ -1,14 +1,5 @@
 [
   {
-    "topic": "How me and AI collaborate at work",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2ll4h/how_me_and_ai_collaborate_at_work/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "How me and AI collaborate at work",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2ll4h/how_me_and_ai_collaborate_at_work/"
   },
   {
     "topic": "The fit and healthy bread",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2qtpq/i_cannot_knot_a_knot/"
   },
   {
-    "topic": "Literally all the time lol",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2kx0z/literally_all_the_time_lol/"
-  },
-  {
     "topic": "Visual Guide",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t9jv/visual_guide/"
+  },
+  {
+    "topic": "Literally all the time lol",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2kx0z/literally_all_the_time_lol/"
   },
   {
     "topic": "The AI needs to be deleted and Neal Mohan needs to step down",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2kqii/the_algorithm_sucks_dude_no_wonder_i_cant_find/"
   },
   {
-    "topic": "All videos say \"no views\"",
+    "topic": "Did youtube just completely give up",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2f1g0/all_videos_say_no_views/"
-  },
-  {
-    "topic": "Report: Pentagon to Order Thousands More US Troops to Middle East in Coming Hours",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2kn5t/report_pentagon_to_order_thousands_more_us_troops/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t8s5/did_youtube_just_completely_give_up/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1489, Part 1 (Thread #1636)",
@@ -117,22 +108,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Sweden to deport migrants not following \u2018honest living\u2019",
+    "topic": "Report: Pentagon to Order Thousands More US Troops to Middle East in Coming Hours",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2e671/sweden_to_deport_migrants_not_following_honest/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2kn5t/report_pentagon_to_order_thousands_more_us_troops/"
   },
   {
-    "topic": "\u2018False flag attack\u2019: Iran denies claims it fired missiles at Diego Garcia",
+    "topic": "Israel announces territorial seizure in Lebanon up to Litani River",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2dml7/false_flag_attack_iran_denies_claims_it_fired/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2t9jw/israel_announces_territorial_seizure_in_lebanon/"
+  },
+  {
+    "topic": "Iran Gives Trump an Ultimatum on JD Vance",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2wzot/iran_gives_trump_an_ultimatum_on_jd_vance/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2ffey/epic_games_lays_off_over_1000_employees_the/"
   },
   {
-    "topic": "Nintendo Switch 2 With Removable Battery in Production \u2014 But Only for Europe",
+    "topic": "Star Wars Jedi Knight II: Jedi Outcast",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2cvcn/nintendo_switch_2_with_removable_battery_in/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/"
   },
   {
     "topic": "Xbox CEO wants cheaper Game Pass sub & Netflix bundle deal: Report - Dexerto",
@@ -171,36 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2oijm/xbox_ceo_wants_cheaper_game_pass_sub_netflix/"
   },
   {
-    "topic": "Star Wars Jedi Knight II: Jedi Outcast",
+    "topic": "Nintendo Switch 2 With Removable Battery in Production \u2014 But Only for Europe",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2cvcn/nintendo_switch_2_with_removable_battery_in/"
   },
   {
-    "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'SWIM' Official Performance Video",
+    "topic": "BEDJINE - FOLI RENMEN (OFFICIAL VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,299,932 views \u2022 ~539m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=h-Y97xErGL8"
-  },
-  {
-    "topic": "Pok\u00e9mon Champions \u2013 Overview Trailer \u2013 Nintendo Switch",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 623,482 views \u2022 ~585m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pOfW-qdsvpU"
+    "why": "Trending on YouTube \u2022 126,309 views \u2022 ~253m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e__YaECyqTI"
   },
   {
     "topic": "TINY TAKEOVER | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 162,591 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 204,550 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7A5YWn33eps"
   },
   {
@@ -208,39 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,809 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 113,262 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JFsfHLUl5Q4"
   },
   {
-    "topic": "Titan Gameplay Trailer | Invincible VS",
+    "topic": "Spider-Man: Brand New Day Looks Great, BUT...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,666 views \u2022 ~478m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I_cZsB1KEJc"
+    "why": "Trending on YouTube \u2022 73,700 views \u2022 ~436m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yA0NK2ESpks"
   },
   {
     "topic": "The Furious (2026) Official Trailer - Xie Miao, Joe Taslim",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,054 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 79,208 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Avky8dVaqAI"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "America Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pHjepdMad4w"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uKJSO2iewy4"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E5qimZekM88"
   },
   {
@@ -248,15 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_94Z_ZAuUE"
   },
   {
-    "topic": "Inside Politics With Dana Bash",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nS80EBJ_bEQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=l5WGA2yRU-U"
   }
 ]
