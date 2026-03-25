@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "How me and AI collaborate at work",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2ll4h/how_me_and_ai_collaborate_at_work/"
-  },
-  {
     "topic": "The Funniest Football Player Of All Time",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s364q6/the_funniest_football_player_of_all_time/"
+  },
+  {
+    "topic": "How me and AI collaborate at work",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2ll4h/how_me_and_ai_collaborate_at_work/"
   },
   {
     "topic": "The fit and healthy bread",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2jdu8/the_fit_and_healthy_bread/"
   },
   {
-    "topic": "I cannot knot a knot",
+    "topic": "He is now trapped.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2qtpq/i_cannot_knot_a_knot/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s36u39/he_is_now_trapped/"
   },
   {
     "topic": "Visual Guide",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s2wzot/iran_gives_trump_an_ultimatum_on_jd_vance/"
   },
   {
-    "topic": "Canada tells Israel that Lebanon\u2019s sovereignty \u2018must not be violated\u2019",
+    "topic": "A Russian aviation blogger was killed in a fatal air defense error after his ultralight aircraft was mistaken for a Ukrainian drone and shot down",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s323iy/canada_tells_israel_that_lebanons_sovereignty/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s378ik/a_russian_aviation_blogger_was_killed_in_a_fatal/"
   },
   {
     "topic": "Reports claim the security guard Chappell Roan said wasn\u2019t hers is actually part of her security team, and that he previously worked for Kim Kardashian",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 629,087 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 632,884 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MReS60k54l4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 370,087 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 408,488 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=swuhhziz3dM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S9kCobX_01c"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rf89TCs3WgA"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZYCpBFNR7FA"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dupf0h-hZ9A"
   },
   {
@@ -248,7 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sO7vYC0BlvQ"
+  },
+  {
+    "topic": "From Seattle Showers to Okinawa Shores",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cqPNcbRylrQ"
+  },
+  {
+    "topic": "Renovating to Resell a Beach House in Plymouth, MA",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qGD1ffWjNss"
   }
 ]
