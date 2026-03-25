@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s364q6/the_funniest_football_player_of_all_time/"
   },
   {
+    "topic": "Regret to inform you",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s39mjq/regret_to_inform_you/"
+  },
+  {
     "topic": "He is now trapped.",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s34xzd/bill_didnt_deserve_this/"
   },
   {
-    "topic": "How me and AI collaborate at work",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s2ll4h/how_me_and_ai_collaborate_at_work/"
-  },
-  {
     "topic": "Visual Guide",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t9jv/visual_guide/"
+  },
+  {
+    "topic": "\"AI moderation is a great idea, what could possibly go wrong?\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s36jcv/ai_moderation_is_a_great_idea_what_could_possibly/"
   },
   {
     "topic": "Literally all the time lol",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2x0js/this_is_the_worst_change_in_yt_ui_in_history/"
-  },
-  {
-    "topic": "They removed the likes. Not only this looks bad but they also just ruined an actually good and iconic feature",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2vknp/they_removed_the_likes_not_only_this_looks_bad/"
   },
   {
     "topic": "YouTube... Wtf are you doing???",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Drug Camp That Hegseth Said U.S. Bombed in Ecuador Was Actually Dairy Farm: Report",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s30ov5/drug_camp_that_hegseth_said_us_bombed_in_ecuador/"
-  },
-  {
     "topic": "Iran military spokesperson says US is negotiating with itself",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s34jhx/iran_military_spokesperson_says_us_is_negotiating/"
+  },
+  {
+    "topic": "Drug Camp That Hegseth Said U.S. Bombed in Ecuador Was Actually Dairy Farm: Report",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s30ov5/drug_camp_that_hegseth_said_us_bombed_in_ecuador/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2ffey/epic_games_lays_off_over_1000_employees_the/"
   },
   {
-    "topic": "Xbox CEO wants cheaper Game Pass sub & Netflix bundle deal: Report - Dexerto",
+    "topic": "Enjoying my favourite classic game",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2oijm/xbox_ceo_wants_cheaper_game_pass_sub_netflix/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s32agv/enjoying_my_favourite_classic_game/"
+  },
+  {
+    "topic": "BTS 'SWIM' MV Behind the Scenes",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 478,066 views \u2022 ~162m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jS50YfznjUg"
   },
   {
     "topic": "\ud83d\udd34LIVE | APE SEX LEGENDS | Cloakzy x Drac | Peanutadon | TESTICULAR TORSION TUESDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 640,702 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 643,402 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MReS60k54l4"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 489,748 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 562,976 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=swuhhziz3dM"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S9kCobX_01c"
   },
   {
@@ -208,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
+  },
+  {
+    "topic": "SportsCenter With Scott Van Pelt",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~357m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
   },
   {
@@ -224,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rf89TCs3WgA"
-  },
-  {
-    "topic": "SportsCenter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZYCpBFNR7FA"
   },
   {
     "topic": "Braking Badly",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Dupf0h-hZ9A"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sO7vYC0BlvQ"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqPNcbRylrQ"
   },
   {
@@ -264,15 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qGD1ffWjNss"
-  },
-  {
-    "topic": "Coastal Carolina at Clemson",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Z5Mah4m2Gag"
   }
 ]
