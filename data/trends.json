@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "The Funniest Football Player Of All Time",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s364q6/the_funniest_football_player_of_all_time/"
-  },
-  {
     "topic": "Regret to inform you",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s39mjq/regret_to_inform_you/"
+  },
+  {
+    "topic": "The Funniest Football Player Of All Time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s364q6/the_funniest_football_player_of_all_time/"
   },
   {
     "topic": "Bro Discoverd the secret\ud83d\ude02",
@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3bxpa/the_sweet_spot_oc/"
   },
   {
+    "topic": "Rickrolling is dead due to YT Ads",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
+  },
+  {
     "topic": "Visual Guide",
     "sources": [
       "reddit"
@@ -54,13 +63,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t9jv/visual_guide/"
   },
   {
-    "topic": "Rickrolling is dead due to YT Ads",
+    "topic": "Youtube asking for captchas from Reddit all of a sudden?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
+  },
+  {
+    "topic": "Youtube captcha",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3edvp/youtube_captcha/"
   },
   {
     "topic": "\"AI moderation is a great idea, what could possibly go wrong?\"",
@@ -72,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s36jcv/ai_moderation_is_a_great_idea_what_could_possibly/"
   },
   {
-    "topic": "YouTube... Wtf are you doing???",
+    "topic": "Trump confirms Saudi crown prince is pushing him to continue Iran war",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s36s2v/youtube_wtf_are_you_doing/"
-  },
-  {
-    "topic": "Youtube asking for captchas from Reddit all of a sudden?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3d18k/trump_confirms_saudi_crown_prince_is_pushing_him/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1490, Part 1 (Thread #1637)",
@@ -117,15 +126,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s378ik/a_russian_aviation_blogger_was_killed_in_a_fatal/"
   },
   {
-    "topic": "'We negotiate with bombs': US secretary of war Pete Hegseth's warning to Iran as Trump talks peace",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3blni/we_negotiate_with_bombs_us_secretary_of_war_pete/"
-  },
-  {
     "topic": "Iran military spokesperson says US is negotiating with itself",
     "sources": [
       "reddit"
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3478t/marathon_sold_just_12_million_copies_with_nearly/"
   },
   {
-    "topic": "Star Wars Jedi Knight II: Jedi Outcast",
+    "topic": "I would give so much for Hulk Ultimate Destruction to get an HD remake/remaster",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ccy7/i_would_give_so_much_for_hulk_ultimate/"
   },
   {
     "topic": "Metacritic annual publisher rankings- Square Enix is #1",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3awub/metacritic_annual_publisher_rankings_square_enix/"
   },
   {
-    "topic": "I would give so much for Hulk Ultimate Destruction to get an HD remake/remaster",
+    "topic": "Star Wars Jedi Knight II: Jedi Outcast",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ccy7/i_would_give_so_much_for_hulk_ultimate/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/"
   },
   {
     "topic": "BTS 'SWIM' MV Behind the Scenes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 626,559 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 744,613 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jS50YfznjUg"
   },
   {
@@ -192,23 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 650,928 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 656,787 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MReS60k54l4"
   },
   {
-    "topic": "\ubcc4, \ube5b (STAY)",
+    "topic": "I Played Pokemon Champions Early",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 638,481 views \u2022 ~710m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=swuhhziz3dM"
+    "why": "Trending on YouTube \u2022 197,805 views \u2022 ~176m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
+  },
+  {
+    "topic": "Warframe | The Shadowgrapher Official Gameplay Trailer - Available Now On All Platforms!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,337 views \u2022 ~237m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5OtHw_WaDf4"
+  },
+  {
+    "topic": "Entre t\u00fa y yo",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 39,291 views \u2022 ~552m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7Nf2lZD1rvw"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S9kCobX_01c"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mdTtJqgQCaM"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XI-RsTXS9Zo"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kpxzw4FQmRM"
   },
   {
@@ -240,39 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rf89TCs3WgA"
-  },
-  {
-    "topic": "Braking Badly",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Dupf0h-hZ9A"
-  },
-  {
-    "topic": "National Treasure: Book of Secrets",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~347m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sO7vYC0BlvQ"
-  },
-  {
-    "topic": "From Seattle Showers to Okinawa Shores",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cqPNcbRylrQ"
-  },
-  {
-    "topic": "Renovating to Resell a Beach House in Plymouth, MA",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qGD1ffWjNss"
   }
 ]
