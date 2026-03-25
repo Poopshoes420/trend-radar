@@ -1,12 +1,12 @@
 [
   {
-    "topic": "[OC] not yet",
+    "topic": "This email my 12 year old son sent his teacher about a missing assignment (due a month ago) my wife was asking about. He cc'ed her on the email",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3g6kz/oc_not_yet/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3lou2/this_email_my_12_year_old_son_sent_his_teacher/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "This email my 12 year old son sent his teacher about a missing assignment (due a month ago) my wife was asking about. He cc'ed her on the email",
+    "topic": "[OC] not yet",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3lou2/this_email_my_12_year_old_son_sent_his_teacher/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3g6kz/oc_not_yet/"
   },
   {
     "topic": "Regret to inform you",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t9jv/visual_guide/"
   },
   {
-    "topic": "Youtube asking for captchas from Reddit all of a sudden?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
-  },
-  {
     "topic": "Well this is awkward",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s37k00/well_this_is_awkward/"
+  },
+  {
+    "topic": "Youtube asking for captchas from Reddit all of a sudden?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
   },
   {
     "topic": "Youtube captcha",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,074,604 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 1,100,218 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jS50YfznjUg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 651,660 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 721,159 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a8RHqN93qfo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 602,481 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 644,904 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
   },
   {
@@ -208,63 +208,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 305,094 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 371,111 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
   },
   {
-    "topic": "Harry Potter and the Philosopher's Stone | Official Teaser | HBO Max",
+    "topic": "Tomodachi Life: Living the Dream \u2013 Overview Trailer \u2013 Nintendo Switch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,419 views \u2022 ~141m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9g0UKRT7cbI"
+    "why": "Trending on YouTube \u2022 262,577 views \u2022 ~479m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_xY0XuGOWJs"
   },
   {
     "topic": "Dimension 20: City Council of Darkness Trailer [Dropout Exclusive Series]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,298 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 54,362 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
-  },
-  {
-    "topic": "Resident Evil Requiem - Official Path Tracing Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 79,071 views \u2022 ~454m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AT9ZlL1vImM"
   },
   {
     "topic": "Season 03 Launch Trailer | Call of Duty: Warzone & Black Ops 7",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,652 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 51,158 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DGibdlrwYMg"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "HARRY POTTER HBO SERIES TRAILER REACTION",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Nk4Mf3SaXvk"
+    "why": "Trending on YouTube \u2022 20,150 views \u2022 ~147m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bCHjIJrCDfc"
+  },
+  {
+    "topic": "Harry Potter and the Philosopher\u2019s Stone | Official Teaser | #HBOMaxAsia",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 17,212 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cdh7LWKdf-M"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Hc45KUwIPyA"
   },
   {
     "topic": "Get Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ha7l703yw5c"
+  },
+  {
+    "topic": "Squawk Box",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e2MXgfZY6Ss"
   },
   {
     "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C1g7UqhYBig"
+  },
+  {
+    "topic": "Varney & Company",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P0YoHMeH3to"
   }
 ]
