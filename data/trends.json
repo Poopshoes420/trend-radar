@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "First Time at The Famous Wiener Circle",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46ucs/first_time_at_the_famous_wiener_circle/"
+  },
+  {
     "topic": "Acutely Clueless",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3spxm/let_me_try/"
   },
   {
-    "topic": "This email my 12 year old son sent his teacher about a missing assignment (due a month ago) my wife was asking about. He cc'ed her on the email",
+    "topic": "I give up.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3lou2/this_email_my_12_year_old_son_sent_his_teacher/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
   },
   {
     "topic": "history repeats itself",
@@ -52,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3mzgz/history_repeats_itself/"
+  },
+  {
+    "topic": "Remember when 720p was hd?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3v2dl/remember_when_720p_was_hd/"
   },
   {
     "topic": "A couple months ago I found that if you search \"XXXX\" and sort by channels, you can find dozens of channels with NSFW profile pictures. Instead of fixing the problem, YouTube temporarily blocked the search term so it returns no results. If you try today, it works again and you can still find porn.",
@@ -72,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3r9bf/how_do_i_get_rid_of_this_im_a_20_year_old_college/"
   },
   {
-    "topic": "Remember when 720p was hd?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3v2dl/remember_when_720p_was_hd/"
-  },
-  {
-    "topic": "Rickrolling is dead due to YT Ads",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1491, Part 1 (Thread #1638)",
     "sources": [
       "reddit"
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Russia Hits All of Ukraine with Nearly 1,000 Weapons in 24 Hours, Setting a New Record",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3yxxd/russia_hits_all_of_ukraine_with_nearly_1000/"
-  },
-  {
     "topic": "Pentagon prepares for massive \"final blow\" of Iran war",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s43q75/pentagon_prepares_for_massive_final_blow_of_iran/"
+  },
+  {
+    "topic": "Russia Hits All of Ukraine with Nearly 1,000 Weapons in 24 Hours, Setting a New Record",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3yxxd/russia_hits_all_of_ukraine_with_nearly_1000/"
   },
   {
     "topic": "Israeli source: Commander of Revolutionary Guards naval force eliminated - responsible for Hormuz closure",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ojjc/i_am_not_mature_enough_for_the_new_tomodachi_life/"
   },
   {
+    "topic": "A certain character confirmed to appear in the Super Mario Galaxy Movie",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s47bld/a_certain_character_confirmed_to_appear_in_the/"
+  },
+  {
     "topic": "Can any of these games be played one handed?",
     "sources": [
       "reddit"
@@ -171,52 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3p966/nintendo_clarifies_the_cost_of_physical_games_is/"
   },
   {
-    "topic": "Nintendo appears to be moving towards charging less for digital games than physical games starting with Yoshi and the Mysterious Book",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3h01w/nintendo_appears_to_be_moving_towards_charging/"
-  },
-  {
     "topic": "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 482,041 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 545,532 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nHE6-XpUd74"
   },
   {
-    "topic": "\u2018Harry Potter\u2019: See The 1st Trailer For The New Series!",
+    "topic": "So, The new HARRY POTTER and the PHILOSOPHER'S STONE Trailer Looks Good!?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,801 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Et-jiZePGII"
+    "why": "Trending on YouTube \u2022 96,077 views \u2022 ~606m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OXtixldAQuM"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~312m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6GNLa77eOCA"
   },
   {
-    "topic": "Atlanta Hawks at Detroit Pistons",
+    "topic": "No Program Available",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MBriz7UC9IA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YCTCmFx1HTM"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RKwLWD8DBes"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JnEz9TwkxAQ"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=laSNFgnJxHI"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DMgUg2yKyKk"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oKRBWYAlOO0"
   }
 ]
