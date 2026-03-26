@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3v7fw/a_couple_months_ago_i_found_that_if_you_search/"
   },
   {
-    "topic": "Rickrolling is dead due to YT Ads",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
-  },
-  {
     "topic": "How do I get rid of this? Im a 20 year old college student.",
     "sources": [
       "reddit"
@@ -81,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3r9bf/how_do_i_get_rid_of_this_im_a_20_year_old_college/"
   },
   {
+    "topic": "Rickrolling is dead due to YT Ads",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
+  },
+  {
     "topic": "Wait, YouTube think I\u2019m a child?",
     "sources": [
       "reddit"
@@ -88,6 +88,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ouue/wait_youtube_think_im_a_child/"
+  },
+  {
+    "topic": "Trump claims Iran proposed making him Supreme Leader: I said, 'No, thank you' (Video in link)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s40arb/trump_claims_iran_proposed_making_him_supreme/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1491, Part 1 (Thread #1638)",
@@ -108,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump claims Iran proposed making him Supreme Leader: I said, 'No, thank you' (Video in link)",
+    "topic": "Russia Hits All of Ukraine with Nearly 1,000 Weapons in 24 Hours, Setting a New Record",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s40arb/trump_claims_iran_proposed_making_him_supreme/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3yxxd/russia_hits_all_of_ukraine_with_nearly_1000/"
   },
   {
     "topic": "Israel fears Donald Trump could announce Iran ceasefire despite low deal odds",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3ols0/israel_fears_donald_trump_could_announce_iran/"
-  },
-  {
-    "topic": "Trump to hit Iran harder if Tehran does not accept defeat, White House says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3kzye/trump_to_hit_iran_harder_if_tehran_does_not/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 818,606 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 906,055 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cVm98BBkQRY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 274,204 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 358,011 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nHE6-XpUd74"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,547 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 240,854 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sZdh6BXI0bc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 124,945 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 159,004 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et-jiZePGII"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 116,988 views \u2022 ~516m old",
+    "why": "Trending on YouTube \u2022 136,210 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M6xy9UxsDTQ"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6GNLa77eOCA"
+  },
+  {
+    "topic": "Third Quarterfinal: Illinois State at Dayton",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~48m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=laSNFgnJxHI"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=edJUiUf3eP4"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~31m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DMgUg2yKyKk"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XHhqVfvqGwA"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gJXmR-PW3mE"
-  },
-  {
-    "topic": "Crunch Day",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~29m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kYbbf4erx88"
   }
 ]
