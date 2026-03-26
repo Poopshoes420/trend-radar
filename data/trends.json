@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s468um/borat_introducing_his_sister_scene_never_gets/"
   },
   {
+    "topic": "Which server is this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46c15/which_server_is_this/"
+  },
+  {
     "topic": "Acutely Clueless",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3v3u7/acutely_clueless/"
-  },
-  {
-    "topic": "Bread packs!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3th0x/bread_packs/"
   },
   {
     "topic": "I give up.",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3mzgz/history_repeats_itself/"
   },
   {
+    "topic": "All the creators out there keep hustling!!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4e3xd/all_the_creators_out_there_keep_hustling/"
+  },
+  {
     "topic": "Remember when 720p was hd?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3r9bf/how_do_i_get_rid_of_this_im_a_20_year_old_college/"
-  },
-  {
-    "topic": "A couple months ago I found that if you search \"XXXX\" and sort by channels, you can find dozens of channels with NSFW profile pictures. Instead of fixing the problem, YouTube temporarily blocked the search term so it returns no results. If you try today, it works again and you can still find porn.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3v7fw/a_couple_months_ago_i_found_that_if_you_search/"
   },
   {
     "topic": "Iran allows Spanish ships to use the Strait of Hormuz for free",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iranian regime promises $25 million for assassination of Trump in mass SMS messages",
+    "topic": "France confirms oil crisis, says 30-40% Gulf energy infrastructure destroyed",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4c0kv/iranian_regime_promises_25_million_for/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s42gnp/france_confirms_oil_crisis_says_3040_gulf_energy/"
   },
   {
     "topic": "Uganda will join Iran war 'on the side of Israel,' military chief warns | The Jerusalem Post",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4ap1j/psychological_horror_game_disguised_as_a_military/"
   },
   {
+    "topic": "Star Wars Zero Company preview \"it feels like Mass Effect but with turn-based tactics and permadeath\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4cenh/star_wars_zero_company_preview_it_feels_like_mass/"
+  },
+  {
     "topic": "A certain character confirmed to appear in the Super Mario Galaxy Movie",
     "sources": [
       "reddit"
@@ -171,36 +180,59 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s47bld/a_certain_character_confirmed_to_appear_in_the/"
   },
   {
-    "topic": "City of Heroes was a magical experience",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s48q6o/city_of_heroes_was_a_magical_experience/"
-  },
-  {
     "topic": "BALEN - JAY MAHAKAALI (Swapnil, Chronic Beatz, Foeseal)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 799,259 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 1,570,885 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Yse0H0mXEuQ"
+  },
+  {
+    "topic": "BTS 'SWIM' Dance Practice",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 954,062 views \u2022 ~225m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uYcNZLJ3KmU"
   },
   {
     "topic": "\ud83d\udd34LIVE | CS2 | OPENING CASES | HUTCH x CLOAKZY x DRAC x NICKMERCS | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 685,524 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 696,955 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YnSRyzVme58"
+  },
+  {
+    "topic": "The End of Oak Street | Official Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 170,206 views \u2022 ~165m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
+  },
+  {
+    "topic": "Paul McCartney \u2013 The Boys of Dungeon Lane (Official Album Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 42,994 views \u2022 ~230m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zckLcAuyG20"
+  },
+  {
+    "topic": "PRESIDENT - Mercy (Visualiser)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 17,070 views \u2022 ~165m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NhD3HC1jUeA"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~560m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6GNLa77eOCA"
   },
   {
@@ -208,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YCTCmFx1HTM"
   },
   {
@@ -216,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RKwLWD8DBes"
   },
   {
@@ -224,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JnEz9TwkxAQ"
   },
   {
@@ -232,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=laSNFgnJxHI"
   },
   {
@@ -240,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~639m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DMgUg2yKyKk"
   }
 ]
