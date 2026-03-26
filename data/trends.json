@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3th0x/bread_packs/"
   },
   {
+    "topic": "Acutely Clueless",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3v3u7/acutely_clueless/"
+  },
+  {
     "topic": "[OC] not yet",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3g6kz/oc_not_yet/"
-  },
-  {
-    "topic": "Let me try",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3spxm/let_me_try/"
   },
   {
     "topic": "history repeats itself",
@@ -72,31 +72,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ouue/wait_youtube_think_im_a_child/"
   },
   {
-    "topic": "Visual Guide",
+    "topic": "How do I get rid of this? Im a 20 year old college student.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s2t9jv/visual_guide/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3r9bf/how_do_i_get_rid_of_this_im_a_20_year_old_college/"
   },
   {
-    "topic": "Well this is awkward",
+    "topic": "A couple months ago I found that if you search \"XXXX\" and sort by channels, you can find dozens of channels with NSFW profile pictures. Instead of fixing the problem, YouTube temporarily blocked the search term so it returns no results. If you try today, it works again and you can still find porn.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s37k00/well_this_is_awkward/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3v7fw/a_couple_months_ago_i_found_that_if_you_search/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1490, Part 1 (Thread #1637)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1491, Part 1 (Thread #1638)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s30fjo/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3x6xt/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #10)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3kzye/trump_to_hit_iran_harder_if_tehran_does_not/"
   },
   {
-    "topic": "Trump confirms Saudi crown prince is pushing him to continue Iran war",
+    "topic": "Israel fears Donald Trump could announce Iran ceasefire despite low deal odds",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3d18k/trump_confirms_saudi_crown_prince_is_pushing_him/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3ols0/israel_fears_donald_trump_could_announce_iran/"
   },
   {
     "topic": "Security guard confirms he wasn\u2019t working for Chappell Roan and apologizes for behavior",
@@ -171,60 +171,76 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3p966/nintendo_clarifies_the_cost_of_physical_games_is/"
   },
   {
-    "topic": "Gaming Quotes/Moments That Live Rent Free",
+    "topic": "Can any of these games be played one handed?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ku9k/gaming_quotesmoments_that_live_rent_free/"
-  },
-  {
-    "topic": "WEDNESDAY 3/25",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 350,512 views \u2022 ~109m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=loQCGhgM7os"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ohmm/can_any_of_these_games_be_played_one_handed/"
   },
   {
     "topic": "Searching for 100 Players Who Went Missing",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 418,039 views \u2022 ~334m old",
+    "why": "Trending on YouTube \u2022 565,329 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cVm98BBkQRY"
   },
   {
-    "topic": "Harry Potter and the Philosopher\u2019s Stone | Official Teaser | #HBOMaxAsia",
+    "topic": "Harry Potter and the Philosopher's Stone | Official Teaser | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,015 views \u2022 ~503m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cdh7LWKdf-M"
+    "why": "Trending on YouTube \u2022 601,987 views \u2022 ~619m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9g0UKRT7cbI"
+  },
+  {
+    "topic": "We Played A Cursed Train Game",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 370,842 views \u2022 ~473m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MbfTjB-SZPA"
+  },
+  {
+    "topic": "UH OH... | Baby Steps - Part 7",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 241,458 views \u2022 ~636m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3o7YxST3wN8"
+  },
+  {
+    "topic": "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 57,025 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nHE6-XpUd74"
   },
   {
     "topic": "Working At A Creepy Taco Stand\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,125 views \u2022 ~322m old",
+    "why": "Trending on YouTube \u2022 151,168 views \u2022 ~440m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sZdh6BXI0bc"
   },
   {
-    "topic": "HARRY POTTER REBOOT TRAILER 2026",
+    "topic": "POPPY PLAYTIME CHAPTER 6 LEAKED TRAILER! (Lily Lovebraid's BROTHER REVEALED..!?)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 74,381 views \u2022 ~363m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=O0WUEy_ur3Q"
+    "why": "Trending on YouTube \u2022 68,484 views \u2022 ~320m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=M6xy9UxsDTQ"
   },
   {
     "topic": "HARRY POTTER AND THE PHILOSOPHER'S STONE Official Teaser Trailer (2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 89,318 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 109,507 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sHQukSJLjoc"
   },
   {
@@ -232,55 +248,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,345 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 93,460 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bCHjIJrCDfc"
   },
   {
-    "topic": "Dimension 20: City Council of Darkness Trailer [Dropout Exclusive Series]",
+    "topic": "\u2018Harry Potter\u2019: See The 1st Trailer For The New Series!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,169 views \u2022 ~593m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
+    "why": "Trending on YouTube \u2022 36,293 views \u2022 ~261m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Et-jiZePGII"
   },
   {
     "topic": "Ella Langley - Loving Life Again (Back Home Sessions)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,886 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 73,205 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R38wB_dDBek"
   },
   {
-    "topic": "America Reports",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=58eY0Bg-OSs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sjtWr1eQxqQ"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0ObnVtXHDfg"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "The Lead With Jake Tapper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gJr1xmDXUwA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YjN1WSrLkyo"
   },
   {
-    "topic": "Get Up",
+    "topic": "Pardon the Interruption",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ha7l703yw5c"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~50m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=op2vVE1uz_w"
   }
 ]
