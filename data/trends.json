@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Bread packs!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3th0x/bread_packs/"
+  },
+  {
     "topic": "[OC] not yet",
     "sources": [
       "reddit"
@@ -27,22 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3g6kz/oc_not_yet/"
   },
   {
-    "topic": "[OC] march madness",
+    "topic": "Let me try",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3igeh/oc_march_madness/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3spxm/let_me_try/"
   },
   {
-    "topic": "Aand thats how I met your mother",
+    "topic": "history repeats itself",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3im6y/aand_thats_how_i_met_your_mother/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3mzgz/history_repeats_itself/"
   },
   {
     "topic": "Rickrolling is dead due to YT Ads",
@@ -81,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s37k00/well_this_is_awkward/"
   },
   {
-    "topic": "Youtube asking for captchas from Reddit all of a sudden?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3cori/youtube_asking_for_captchas_from_reddit_all_of_a/"
-  },
-  {
-    "topic": "Mass text in Iran promotes Trump assassination campaign, $25m pledged",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1490, Part 1 (Thread #1637)",
     "sources": [
       "reddit"
@@ -135,6 +126,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3kzye/trump_to_hit_iran_harder_if_tehran_does_not/"
   },
   {
+    "topic": "Trump confirms Saudi crown prince is pushing him to continue Iran war",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3d18k/trump_confirms_saudi_crown_prince_is_pushing_him/"
+  },
+  {
+    "topic": "Security guard confirms he wasn\u2019t working for Chappell Roan and apologizes for behavior",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s3ra90/security_guard_confirms_he_wasnt_working_for/"
+  },
+  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -153,22 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ojjc/i_am_not_mature_enough_for_the_new_tomodachi_life/"
   },
   {
-    "topic": "Nintendo appears to be moving towards charging less for digital games than physical games starting with Yoshi and the Mysterious Book",
+    "topic": "Nintendo Clarifies 'The Cost of Physical Games Is Not Going Up' Following Decision to Charge Different Prices for U.S. Physical and Digital Switch 2 Games",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3h01w/nintendo_appears_to_be_moving_towards_charging/"
-  },
-  {
-    "topic": "Marathon sold just 1.2 million copies with nearly 70% on Steam, analyst estimates: \"It hasn't exactly made the splash Sony and Bungie wanted\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3478t/marathon_sold_just_12_million_copies_with_nearly/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3p966/nintendo_clarifies_the_cost_of_physical_games_is/"
   },
   {
     "topic": "Gaming Quotes/Moments That Live Rent Free",
@@ -180,59 +180,59 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3ku9k/gaming_quotesmoments_that_live_rent_free/"
   },
   {
-    "topic": "FORGOTTEN ISLAND | Official Trailer",
+    "topic": "WEDNESDAY 3/25",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,018,696 views \u2022 ~541m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=a8RHqN93qfo"
-  },
-  {
-    "topic": "Apex | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 895,309 views \u2022 ~601m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
-  },
-  {
-    "topic": "I Played Pokemon Champions Early",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 778,367 views \u2022 ~600m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ezv1TyAodrs"
+    "why": "Trending on YouTube \u2022 350,512 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=loQCGhgM7os"
   },
   {
     "topic": "Searching for 100 Players Who Went Missing",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,896 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 418,039 views \u2022 ~334m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cVm98BBkQRY"
-  },
-  {
-    "topic": "Tomodachi Life: Living the Dream \u2013 Overview Trailer \u2013 Nintendo Switch",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 309,178 views \u2022 ~600m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_xY0XuGOWJs"
   },
   {
     "topic": "Harry Potter and the Philosopher\u2019s Stone | Official Teaser | #HBOMaxAsia",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 118,441 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 191,015 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cdh7LWKdf-M"
+  },
+  {
+    "topic": "Working At A Creepy Taco Stand\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 104,125 views \u2022 ~322m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sZdh6BXI0bc"
+  },
+  {
+    "topic": "HARRY POTTER REBOOT TRAILER 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 74,381 views \u2022 ~363m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=O0WUEy_ur3Q"
+  },
+  {
+    "topic": "HARRY POTTER AND THE PHILOSOPHER'S STONE Official Teaser Trailer (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 89,318 views \u2022 ~492m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sHQukSJLjoc"
   },
   {
     "topic": "HARRY POTTER HBO SERIES TRAILER REACTION",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,752 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 84,345 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bCHjIJrCDfc"
   },
   {
@@ -240,47 +240,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,431 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 102,169 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=beCy18i1LX8"
   },
   {
-    "topic": "HARRY POTTER AND THE PHILOSOPHER'S STONE Official Teaser Trailer (2026)",
+    "topic": "Ella Langley - Loving Life Again (Back Home Sessions)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,492 views \u2022 ~290m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sHQukSJLjoc"
+    "why": "Trending on YouTube \u2022 60,886 views \u2022 ~563m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=R38wB_dDBek"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "America Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Hc45KUwIPyA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=58eY0Bg-OSs"
   },
   {
-    "topic": "The Situation Room",
+    "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C2pizl8DAWU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0ObnVtXHDfg"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gJr1xmDXUwA"
   },
   {
     "topic": "Get Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ha7l703yw5c"
-  },
-  {
-    "topic": "Squawk on the Street",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=31OxH6VjZjI"
   }
 ]
