@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Acutely Clueless",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3v3u7/acutely_clueless/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Acutely Clueless",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s3v3u7/acutely_clueless/"
   },
   {
     "topic": "Bread packs!",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3r9bf/how_do_i_get_rid_of_this_im_a_20_year_old_college/"
   },
   {
-    "topic": "Rickrolling is dead due to YT Ads",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
-  },
-  {
     "topic": "Remember when 720p was hd?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3v2dl/remember_when_720p_was_hd/"
+  },
+  {
+    "topic": "Rickrolling is dead due to YT Ads",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s3ceak/rickrolling_is_dead_due_to_yt_ads/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1491, Part 1 (Thread #1638)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3yxxd/russia_hits_all_of_ukraine_with_nearly_1000/"
   },
   {
-    "topic": "France confirms oil crisis, says 30-40% Gulf energy infrastructure destroyed",
+    "topic": "Israeli source: Commander of Revolutionary Guards naval force eliminated - responsible for Hormuz closure",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s42gnp/france_confirms_oil_crisis_says_3040_gulf_energy/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s41n2l/israeli_source_commander_of_revolutionary_guards/"
   },
   {
     "topic": "Israel fears Donald Trump could announce Iran ceasefire despite low deal odds",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s3h01w/nintendo_appears_to_be_moving_towards_charging/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | CS2 | OPENING CASES | HUTCH x CLOAKZY x DRAC x NICKMERCS | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 660,068 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YnSRyzVme58"
+  },
+  {
     "topic": "Armageddon: Warhammer 40,000 New Edition Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 400,165 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 440,709 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nHE6-XpUd74"
   },
   {
@@ -192,55 +200,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,528 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 216,525 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Et-jiZePGII"
+  },
+  {
+    "topic": "POPPY PLAYTIME CHAPTER 6 LEAKED TRAILER! (Lily Lovebraid's BROTHER REVEALED..!?)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 159,059 views \u2022 ~695m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=M6xy9UxsDTQ"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6GNLa77eOCA"
+  },
+  {
+    "topic": "Atlanta Hawks at Detroit Pistons",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MBriz7UC9IA"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RKwLWD8DBes"
+  },
+  {
+    "topic": "The Source With Kaitlan Collins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JnEz9TwkxAQ"
   },
   {
     "topic": "Third Quarterfinal: Illinois State at Dayton",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=laSNFgnJxHI"
-  },
-  {
-    "topic": "CNN Global Report: War With Iran",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=edJUiUf3eP4"
   },
   {
     "topic": "Reunion",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DMgUg2yKyKk"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XHhqVfvqGwA"
-  },
-  {
-    "topic": "Clemson at South Carolina",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gJXmR-PW3mE"
   }
 ]
