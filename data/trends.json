@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46la7/donuts_place_in_bulgaria/"
   },
   {
-    "topic": "I give up.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
-  },
-  {
     "topic": "I hate this type of clickbait",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4i8uc/i_hate_this_type_of_clickbait/"
+  },
+  {
+    "topic": "I give up.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
   },
   {
     "topic": "Remember back then 720 was HD,",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,860,487 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 1,912,971 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Yse0H0mXEuQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,315,555 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 1,386,737 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uYcNZLJ3KmU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 418,923 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 533,341 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 707,942 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 711,354 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YnSRyzVme58"
+  },
+  {
+    "topic": "Stranger Things: Tales From \u201885 | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 326,960 views \u2022 ~399m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kajCUhg36R0"
   },
   {
     "topic": "Paul McCartney \u2013 The Boys of Dungeon Lane (Official Album Trailer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,821 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 77,478 views \u2022 ~404m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zckLcAuyG20"
   },
   {
@@ -224,47 +232,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,572 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 42,012 views \u2022 ~339m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NhD3HC1jUeA"
+  },
+  {
+    "topic": "VonOff1700 - Turn Me Up (G.K.S.Y.W.T.M.U) ft. Polo G (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 33,184 views \u2022 ~279m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yflFa6undWk"
   },
   {
     "topic": "SEASON 10 LAUNCH TRAILER | THE FINALS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,063 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 45,426 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=29GA1RsjEtY"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cWeY2F44t44"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=K2I6VvIzRGE"
   },
   {
     "topic": "No Program Available",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YCTCmFx1HTM"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FvUFKXwzUAc"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~645m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RKwLWD8DBes"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~676m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JnEz9TwkxAQ"
   }
 ]
