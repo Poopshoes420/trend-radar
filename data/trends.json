@@ -81,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5332b/digital_circus_episode_4_is_labeled_for_kids/"
   },
   {
-    "topic": "Youtube just flagged the 4th episode of TADC as for kids. Please tell this to glitch",
+    "topic": "Episode 4 of tadc. is marked for kids now thanks YouTube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4zhsi/youtube_just_flagged_the_4th_episode_of_tadc_as/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s59x85/episode_4_of_tadc_is_marked_for_kids_now_thanks/"
   },
   {
-    "topic": "FBI Director Kash Patel\u2019s Personal Inbox Breached: Iranian Hackers Leak Private Photos and Resume",
+    "topic": "APT Iran hackers steal over 375TB of data from Lockheed Martine related to the F-35 fighter jet program",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s56i0f/fbi_director_kash_patels_personal_inbox_breached/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5fhfh/apt_iran_hackers_steal_over_375tb_of_data_from/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1492, Part 1 (Thread #1639)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "APT Iran hackers steal over 375TB of data from Lockheed Martine related to the F-35 fighter jet program",
+    "topic": "FBI Director Kash Patel\u2019s Personal Inbox Breached: Iranian Hackers Leak Private Photos and Resume",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5fhfh/apt_iran_hackers_steal_over_375tb_of_data_from/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s56i0f/fbi_director_kash_patels_personal_inbox_breached/"
   },
   {
     "topic": "US Forces Abandon Military Bases in Middle East",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s569j7/sources_nintendo_is_planning_to_announce_a_new/"
   },
   {
-    "topic": "Finally have the dream of every young man",
+    "topic": "Videogames are more of a rich guy's hobby than ever, says analyst, and that's 'leaving a whole portion of the market to Fortnite, Minecraft, Roblox'",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s55z4i/finally_have_the_dream_of_every_young_man/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5heng/videogames_are_more_of_a_rich_guys_hobby_than/"
   },
   {
-    "topic": "Call of Duty League Major II Tournament Day 1 (BRAVO)",
+    "topic": "Call of Duty League Major II Tournament Day 1 (ALPHA)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,855 views \u2022 ~80m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MENf-FbJYgU"
+    "why": "Trending on YouTube \u2022 364,413 views \u2022 ~32m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5NR_AhQBAmM"
+  },
+  {
+    "topic": "OpTic TEXAS vs TORONTO KOI!! SCUMP WATCH PARTY - CDL BIRMINGHAM MAJOR 2 DAY 1",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 352,799 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_Dsq3AmAk18"
   },
   {
     "topic": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 125,537 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 141,957 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
   },
   {
@@ -200,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,154 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 94,490 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CizDIrZu56g"
+  },
+  {
+    "topic": "Fetty Wap - White Roses (feat. Divinity & Ymanie) [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 53,641 views \u2022 ~394m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aB57_9rLZE8"
   },
   {
     "topic": "Stop! That! Train! | Official Teaser | Bleecker Street",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,424 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 39,401 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9O9ZeG6op_Y"
   },
   {
@@ -216,39 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,737 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 37,735 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GC_hss_ctE0"
-  },
-  {
-    "topic": "NCAAM Sweet 16: Iowa vs. Nebraska",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Xb67J5qvO9Y"
-  },
-  {
-    "topic": "FOX and Friends",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IxgEJdTSkcg"
   },
   {
     "topic": "NCAAM Sweet 16: Illinois vs. Houston",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KbLqeqIa2FY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HOUaFEEPmoA"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=knJG2MpopEo"
   },
   {
     "topic": "Get Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BBeUfuft1Ng"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BIaTiPR-NAA"
   }
 ]
