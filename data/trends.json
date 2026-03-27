@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Every time",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4nflk/every_time/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "\"Ahhhhh\"",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4lc49/ahhhhh/"
   },
   {
-    "topic": "Here's your omelette, bitch!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
-  },
-  {
     "topic": "Who is she?",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4v63k/who_is_she/"
   },
   {
-    "topic": "Remember back then 720 was HD,",
+    "topic": "Here's your omelette, bitch!",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4hxiq/remember_back_then_720_was_hd/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
   },
   {
     "topic": "My little brothers search history \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4wu4k/my_little_brothers_search_history/"
+  },
+  {
+    "topic": "Remember back then 720 was HD,",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4hxiq/remember_back_then_720_was_hd/"
   },
   {
     "topic": "How many OG YouTubers are still active?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 453,759 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 480,622 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNFUsVBPck4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,027 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 78,736 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,314 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 150,283 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JGw1UAYjFEY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,190 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 49,717 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,546 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 105,378 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DghE3Xwz_i8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,057 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 68,792 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,263 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 34,145 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
@@ -240,39 +240,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,581 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 65,108 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N-NhTgJeGVY"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yUjiRErGoN0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AwLL61csb3Y"
+  },
+  {
+    "topic": "NCAA Tip Off",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eYo2uV4Gtdg"
+  },
+  {
+    "topic": "Deadline: White House",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4djUInRbh10"
   },
   {
     "topic": "NCAA March Madness Bracket Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CbR3QG6ZHDw"
-  },
-  {
-    "topic": "The Beat With Ari Melber",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nSkhR4YnTHQ"
   },
   {
     "topic": "Brazil vs. France",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ozlhySZ8KOc"
   },
   {
@@ -280,15 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DJKX3Isgl6Q"
-  },
-  {
-    "topic": "NCAA Tournament: Wisconsin vs. Dartmouth",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0wW2T0u-qH0"
   }
 ]
