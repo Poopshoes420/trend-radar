@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Every time",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4nflk/every_time/"
-  },
-  {
     "topic": "\"Ahhhhh\"",
     "sources": [
       "reddit"
@@ -27,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4lc49/ahhhhh/"
   },
   {
-    "topic": "Oh you\u2019re kevin!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4vel4/oh_youre_kevin/"
-  },
-  {
     "topic": "Here's your omelette, bitch!",
     "sources": [
       "reddit"
@@ -43,6 +25,24 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
+  },
+  {
+    "topic": "HowTo Leg warmup",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4oa5b/howto_leg_warmup/"
+  },
+  {
+    "topic": "First Time at The Famous Wiener Circle",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46ucs/first_time_at_the_famous_wiener_circle/"
   },
   {
     "topic": "My little brothers search history \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "AP is calling Israel's attack on Lebanon an invasion",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4p8hp/ap_is_calling_israels_attack_on_lebanon_an/"
-  },
-  {
     "topic": "Iran starts to formalize its chokehold on the Strait of Hormuz with a 'toll booth' regime",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4mbaw/iran_starts_to_formalize_its_chokehold_on_the/"
+  },
+  {
+    "topic": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4u582/cuban_patients_are_dying_because_of_us_blockade/"
   },
   {
     "topic": "A fan stole the show at Zara Larsson\u2019s Brooklyn Night 1 Lush life dance",
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4vxrs/free_talk_friday/"
   },
   {
-    "topic": "Major PS5 and PS5 Pro price increase rumored, as Sony faces memory shortage",
+    "topic": "The Elder Scrolls Oblivion oil painting.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4od6e/major_ps5_and_ps5_pro_price_increase_rumored_as/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4zps2/the_elder_scrolls_oblivion_oil_painting/"
   },
   {
     "topic": "Epic CEO Tim Sweeney says 'employers will see a stream of resumes of once-in-a-lifetime quality' after the company laid off more than 1,000 people",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 137,290 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 166,672 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,364 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 71,107 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,984 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 54,879 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
@@ -208,23 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,519 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 84,186 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
-    "topic": "Jesse Watters Primetime",
+    "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AwLL61csb3Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ur22JDlHSj4"
   },
   {
     "topic": "NCAA Tip Off",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eYo2uV4Gtdg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BgVsjCORwaE"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WDTTE52j6jY"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lXsyJc1CCDQ"
   },
   {
@@ -256,15 +256,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nO989NQkwsI"
+  },
+  {
+    "topic": "The Briefing With Jen Psaki",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=o8ZFiX85bbw"
+  },
+  {
+    "topic": "NCAA Tournament: Merrimack vs. North Dakota",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nj-nQp6QkGI"
+  },
+  {
+    "topic": "Jesse Watters Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AwLL61csb3Y"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4djUInRbh10"
   },
   {
@@ -272,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CbR3QG6ZHDw"
   }
 ]
