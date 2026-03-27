@@ -1,14 +1,5 @@
 [
   {
-    "topic": "\"Ahhhhh\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4lc49/ahhhhh/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -27,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4nflk/every_time/"
   },
   {
+    "topic": "\"Ahhhhh\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4lc49/ahhhhh/"
+  },
+  {
     "topic": "Here's your omelette, bitch!",
     "sources": [
       "reddit"
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
   },
   {
-    "topic": "First Time at The Famous Wiener Circle",
+    "topic": "Who is she?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46ucs/first_time_at_the_famous_wiener_circle/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4v63k/who_is_she/"
   },
   {
     "topic": "Remember back then 720 was HD,",
@@ -54,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4hxiq/remember_back_then_720_was_hd/"
   },
   {
-    "topic": "I give up.",
+    "topic": "My little brothers search history \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4wu4k/my_little_brothers_search_history/"
   },
   {
     "topic": "How many OG YouTubers are still active?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4pf40/how_many_og_youtubers_are_still_active/"
   },
   {
+    "topic": "I give up.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
+  },
+  {
     "topic": "App has started adding fake progress bars to videos",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4c2iq/app_has_started_adding_fake_progress_bars_to/"
-  },
-  {
-    "topic": "All the creators out there keep hustling!!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4e3xd/all_the_creators_out_there_keep_hustling/"
   },
   {
     "topic": "Report: Pentagon considers sending 10,000 additional troops to Middle East",
@@ -184,23 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 400,057 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 453,759 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNFUsVBPck4"
+  },
+  {
+    "topic": "Miley Cyrus - Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,027 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
   },
   {
     "topic": "Masicka - Boasty (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,142 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 145,314 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JGw1UAYjFEY"
+  },
+  {
+    "topic": "Melanie Martinez - GARBAGE (Official Audio)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 43,190 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
   },
   {
     "topic": "HARRY POTTER HBO TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,138 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 100,546 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DghE3Xwz_i8"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,705 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 64,057 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 13,009 views \u2022 ~122m old",
+    "why": "Trending on YouTube \u2022 26,263 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
@@ -224,47 +240,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,212 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 62,581 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N-NhTgJeGVY"
   },
   {
-    "topic": "The Will Cain Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OrNT5SRBs98"
-  },
-  {
-    "topic": "Morning Joe",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KcCXcbnnyrk"
-  },
-  {
-    "topic": "The Arena With Kasie Hunt",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XduSjJ2ZycM"
-  },
-  {
-    "topic": "NCAA Tournament: UConn vs. Michigan State",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9-hhWcW_UuQ"
-  },
-  {
-    "topic": "The Procreation Calculation",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
     "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7ffDea_50kg"
+    "exampleUrl": "https://www.youtube.com/watch?v=yUjiRErGoN0"
+  },
+  {
+    "topic": "NCAA March Madness Bracket Breakdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CbR3QG6ZHDw"
+  },
+  {
+    "topic": "The Beat With Ari Melber",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nSkhR4YnTHQ"
+  },
+  {
+    "topic": "Brazil vs. France",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ozlhySZ8KOc"
+  },
+  {
+    "topic": "The Lead With Jake Tapper",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DJKX3Isgl6Q"
+  },
+  {
+    "topic": "NCAA Tournament: Wisconsin vs. Dartmouth",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0wW2T0u-qH0"
   }
 ]
