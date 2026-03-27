@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5bo5i/shitty_ai_moderation_somehow_got_the_official/"
   },
   {
-    "topic": "Youtube just flagged the 4th episode of TADC as for kids. Please tell this to glitch",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4zhsi/youtube_just_flagged_the_4th_episode_of_tadc_as/"
-  },
-  {
     "topic": "Digital Circus episode 4 is labeled \u201cFor Kids\u201d",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5332b/digital_circus_episode_4_is_labeled_for_kids/"
+  },
+  {
+    "topic": "Youtube just flagged the 4th episode of TADC as for kids. Please tell this to glitch",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4zhsi/youtube_just_flagged_the_4th_episode_of_tadc_as/"
   },
   {
     "topic": "Got this message on my homepage, but I'm literally an adult",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s50bu7/ukraines_paratroopers_clear_berezove_in/"
   },
   {
-    "topic": "FBI Director Kash Patel's personal email breached by hackers linked to Iran, sources say",
+    "topic": "Saudi Arabia urging US to keep up Iran attacks, intelligence source confirms",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s57u4a/fbi_director_kash_patels_personal_email_breached/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4z2vq/saudi_arabia_urging_us_to_keep_up_iran_attacks/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s53r38/glen_powell_has_been_announced_as_the_voice_of/"
   },
   {
+    "topic": "Bethesda Fallout 3 dev \"initially felt a little touchy\" about New Vegas' success because they \"put in all this effort\" for its foundation \u2014 \"We made 90% of the art, we built the engine\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5cqol/bethesda_fallout_3_dev_initially_felt_a_little/"
+  },
+  {
     "topic": "Sources: Nintendo is planning to announce a new \"classic-style\" Star Fox game with online multiplayer and a 'The Legend of Zelda: Ocarina of Time' remake, both this year; but no 3D Mario until 2027",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s55z4i/finally_have_the_dream_of_every_young_man/"
   },
   {
-    "topic": "Bethesda Fallout 3 dev \"initially felt a little touchy\" about New Vegas' success because they \"put in all this effort\" for its foundation \u2014 \"We made 90% of the art, we built the engine\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5cqol/bethesda_fallout_3_dev_initially_felt_a_little/"
-  },
-  {
     "topic": "Everyone Hates Black Snape - A Disaster for HBO's Harry Potter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,827 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 75,861 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,758 views \u2022 ~250m old",
+    "why": "Trending on YouTube \u2022 58,592 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CizDIrZu56g"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 16,464 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 20,736 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9O9ZeG6op_Y"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KbLqeqIa2FY"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~620m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ur22JDlHSj4"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BgVsjCORwaE"
-  },
-  {
-    "topic": "Stranded Under the Tuscan Sun",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WDTTE52j6jY"
   },
   {
     "topic": "Edmonton Oilers at Vegas Golden Knights",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8OUfCKCzJRQ"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~398m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~441m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oM8SD9OvSAk"
   },
   {
@@ -256,7 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MMosiyeOgg0"
+  },
+  {
+    "topic": "The Source With Kaitlan Collins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~675m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nO989NQkwsI"
   }
 ]
