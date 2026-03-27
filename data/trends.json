@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5cnd7/the_fck_is_this_i_am_an_adult/"
   },
   {
-    "topic": "shitty Ai moderation somehow got the official video, wtf",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5bo5i/shitty_ai_moderation_somehow_got_the_official/"
-  },
-  {
     "topic": "PSA: DO NOT VERIFY YOURSELF WITH AN ID OR A PICTURE OF YOURSELF ITS A BUG",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5f0hw/psa_do_not_verify_yourself_with_an_id_or_a/"
+  },
+  {
+    "topic": "shitty Ai moderation somehow got the official video, wtf",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5bo5i/shitty_ai_moderation_somehow_got_the_official/"
   },
   {
     "topic": "Digital Circus episode 4 is labeled \u201cFor Kids\u201d",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5332b/digital_circus_episode_4_is_labeled_for_kids/"
   },
   {
-    "topic": "Episode 4 of tadc. is marked for kids now thanks YouTube",
+    "topic": "Do you think YouTube should get a new CEO?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s59x85/episode_4_of_tadc_is_marked_for_kids_now_thanks/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5e2ku/do_you_think_youtube_should_get_a_new_ceo/"
   },
   {
     "topic": "US Forces Abandon Military Bases in Middle East",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s53r38/glen_powell_has_been_announced_as_the_voice_of/"
   },
   {
-    "topic": "Bethesda Fallout 3 dev \"initially felt a little touchy\" about New Vegas' success because they \"put in all this effort\" for its foundation \u2014 \"We made 90% of the art, we built the engine\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5cqol/bethesda_fallout_3_dev_initially_felt_a_little/"
-  },
-  {
     "topic": "Videogames are more of a rich guy's hobby than ever, says analyst, and that's 'leaving a whole portion of the market to Fortnite, Minecraft, Roblox'",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5heng/videogames_are_more_of_a_rich_guys_hobby_than/"
+  },
+  {
+    "topic": "Bethesda Fallout 3 dev \"initially felt a little touchy\" about New Vegas' success because they \"put in all this effort\" for its foundation \u2014 \"We made 90% of the art, we built the engine\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5cqol/bethesda_fallout_3_dev_initially_felt_a_little/"
   },
   {
     "topic": "Sources: Nintendo is planning to announce a new \"classic-style\" Star Fox game with online multiplayer and a 'The Legend of Zelda: Ocarina of Time' remake, both this year; but no 3D Mario until 2027",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 372,602 views \u2022 ~62m old",
+    "why": "Trending on YouTube \u2022 378,742 views \u2022 ~103m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5NR_AhQBAmM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 366,885 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 376,400 views \u2022 ~148m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Dsq3AmAk18"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,661 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 162,332 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,055 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 108,529 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CizDIrZu56g"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,626 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 64,772 views \u2022 ~465m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aB57_9rLZE8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,933 views \u2022 ~398m old",
+    "why": "Trending on YouTube \u2022 46,908 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9O9ZeG6op_Y"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,903 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 46,024 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GC_hss_ctE0"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HOUaFEEPmoA"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=knJG2MpopEo"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BBeUfuft1Ng"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~54m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XRbEe8y1_0E"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P4ZiHpAdci8"
   }
 ]
