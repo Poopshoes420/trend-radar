@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Here's your omelette, bitch!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
+  },
+  {
     "topic": "\"Ahhhhh\"",
     "sources": [
       "reddit"
@@ -18,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4lc49/ahhhhh/"
   },
   {
-    "topic": "Here's your omelette, bitch!",
+    "topic": "r/AskReddit without sex-related questions",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s52h5l/raskreddit_without_sexrelated_questions/"
   },
   {
     "topic": "HowTo Leg warmup",
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4oa5b/howto_leg_warmup/"
   },
   {
-    "topic": "First Time at The Famous Wiener Circle",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46ucs/first_time_at_the_famous_wiener_circle/"
-  },
-  {
     "topic": "My little brothers search history \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4wu4k/my_little_brothers_search_history/"
-  },
-  {
-    "topic": "Remember back then 720 was HD,",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4hxiq/remember_back_then_720_was_hd/"
   },
   {
     "topic": "Youtube just flagged the 4th episode of TADC as for kids. Please tell this to glitch",
@@ -72,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4zhsi/youtube_just_flagged_the_4th_episode_of_tadc_as/"
   },
   {
+    "topic": "Remember back then 720 was HD,",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4hxiq/remember_back_then_720_was_hd/"
+  },
+  {
     "topic": "How many OG YouTubers are still active?",
     "sources": [
       "reddit"
@@ -81,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4pf40/how_many_og_youtubers_are_still_active/"
   },
   {
-    "topic": "I give up.",
+    "topic": "This new UI update is terrible. Whose bright idea was it to hide video titles when browsing on your iPhone?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4vvl8/this_new_ui_update_is_terrible_whose_bright_idea/"
+  },
+  {
+    "topic": "Ukraine\u2019s paratroopers clear Berezove in Dnipropetrovsk Oblast, completing near-total reversal of Russia\u2019s 2025 gains in the region",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s50bu7/ukraines_paratroopers_clear_berezove_in/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1492, Part 1 (Thread #1639)",
@@ -108,24 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukraine\u2019s paratroopers clear Berezove in Dnipropetrovsk Oblast, completing near-total reversal of Russia\u2019s 2025 gains in the region",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s50bu7/ukraines_paratroopers_clear_berezove_in/"
-  },
-  {
-    "topic": "Iran starts to formalize its chokehold on the Strait of Hormuz with a 'toll booth' regime",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4mbaw/iran_starts_to_formalize_its_chokehold_on_the/"
-  },
-  {
     "topic": "Trump backs unproven claims that Ukraine discussed funding Biden's re-election",
     "sources": [
       "reddit"
@@ -135,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s50co3/trump_backs_unproven_claims_that_ukraine/"
   },
   {
-    "topic": "A fan stole the show at Zara Larsson\u2019s Brooklyn Night 1 Lush life dance",
+    "topic": "Saudi Arabia urging US to keep up Iran attacks, intelligence source confirms",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s4u5lw/a_fan_stole_the_show_at_zara_larssons_brooklyn/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4z2vq/saudi_arabia_urging_us_to_keep_up_iran_attacks/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -151,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4vxrs/free_talk_friday/"
+  },
+  {
+    "topic": "Glen Powell has been announced as the voice of Fox McCloud in 'The Super Mario Galaxy Movie'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s53r38/glen_powell_has_been_announced_as_the_voice_of/"
   },
   {
     "topic": "The Elder Scrolls Oblivion oil painting.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,740 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 290,742 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,255 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 99,747 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,358 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 79,526 views \u2022 ~617m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ur22JDlHSj4"
+  },
+  {
+    "topic": "NCAAM Sweet 16: Iowa vs. Nebraska",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5hSZDBDkkN8"
   },
   {
     "topic": "NCAA Tip Off",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~385m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~452m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eYo2uV4Gtdg"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BgVsjCORwaE"
   },
   {
@@ -232,39 +240,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WDTTE52j6jY"
+  },
+  {
+    "topic": "Edmonton Oilers at Vegas Golden Knights",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8OUfCKCzJRQ"
+  },
+  {
+    "topic": "NCAAM Sweet 16: Texas vs. Purdue",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oM8SD9OvSAk"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MMosiyeOgg0"
-  },
-  {
-    "topic": "Minnesota Wild at Florida Panthers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~274m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lXsyJc1CCDQ"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nO989NQkwsI"
-  },
-  {
-    "topic": "NCAA Tournament: Merrimack vs. North Dakota",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nj-nQp6QkGI"
   }
 ]
