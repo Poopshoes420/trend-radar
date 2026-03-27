@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4vvl8/this_new_ui_update_is_terrible_whose_bright_idea/"
   },
   {
-    "topic": "Report: Pentagon considers sending 10,000 additional troops to Middle East",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4pbdv/report_pentagon_considers_sending_10000/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1492, Part 1 (Thread #1639)",
     "sources": [
       "reddit"
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Report: Pentagon considers sending 10,000 additional troops to Middle East",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4pbdv/report_pentagon_considers_sending_10000/"
+  },
+  {
     "topic": "Iran starts to formalize its chokehold on the Strait of Hormuz with a 'toll booth' regime",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4mbaw/iran_starts_to_formalize_its_chokehold_on_the/"
   },
   {
-    "topic": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+    "topic": "Ukraine\u2019s paratroopers clear Berezove in Dnipropetrovsk Oblast, completing near-total reversal of Russia\u2019s 2025 gains in the region",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4u582/cuban_patients_are_dying_because_of_us_blockade/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s50bu7/ukraines_paratroopers_clear_berezove_in/"
   },
   {
     "topic": "A fan stole the show at Zara Larsson\u2019s Brooklyn Night 1 Lush life dance",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 166,672 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 194,046 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,107 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 77,238 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,879 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 60,335 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,186 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 87,649 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ur22JDlHSj4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eYo2uV4Gtdg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BgVsjCORwaE"
   },
   {
@@ -240,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WDTTE52j6jY"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MMosiyeOgg0"
   },
   {
     "topic": "Minnesota Wild at Florida Panthers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lXsyJc1CCDQ"
   },
   {
@@ -256,47 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nO989NQkwsI"
-  },
-  {
-    "topic": "The Briefing With Jen Psaki",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o8ZFiX85bbw"
   },
   {
     "topic": "NCAA Tournament: Merrimack vs. North Dakota",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nj-nQp6QkGI"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AwLL61csb3Y"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4djUInRbh10"
-  },
-  {
-    "topic": "NCAA March Madness Bracket Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CbR3QG6ZHDw"
   }
 ]
