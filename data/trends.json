@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5f7bj/every_day_my_husband_is_brushing_his_beard_over/"
   },
   {
-    "topic": "New workout routine",
+    "topic": "My anime fandom makes my wife\u2019s life harder",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5fcbv/new_workout_routine/"
-  },
-  {
-    "topic": "My little brothers search history \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4wu4k/my_little_brothers_search_history/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5ah30/my_anime_fandom_makes_my_wifes_life_harder/"
   },
   {
     "topic": "The f*ck is this? I am an adult.",
@@ -72,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5bo5i/shitty_ai_moderation_somehow_got_the_official/"
   },
   {
+    "topic": "PSA: DO NOT VERIFY YOURSELF WITH AN ID OR A PICTURE OF YOURSELF ITS A BUG",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5f0hw/psa_do_not_verify_yourself_with_an_id_or_a/"
+  },
+  {
     "topic": "Digital Circus episode 4 is labeled \u201cFor Kids\u201d",
     "sources": [
       "reddit"
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5332b/digital_circus_episode_4_is_labeled_for_kids/"
   },
   {
-    "topic": "PSA: DO NOT VERIFY YOURSELF WITH AN ID OR A PICTURE OF YOURSELF ITS A BUG",
+    "topic": "Youtube just flagged the 4th episode of TADC as for kids. Please tell this to glitch",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5f0hw/psa_do_not_verify_yourself_with_an_id_or_a/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4zhsi/youtube_just_flagged_the_4th_episode_of_tadc_as/"
   },
   {
     "topic": "FBI Director Kash Patel\u2019s Personal Inbox Breached: Iranian Hackers Leak Private Photos and Resume",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5fhfh/apt_iran_hackers_steal_over_375tb_of_data_from/"
   },
   {
-    "topic": "Ukraine\u2019s paratroopers clear Berezove in Dnipropetrovsk Oblast, completing near-total reversal of Russia\u2019s 2025 gains in the region",
+    "topic": "US Forces Abandon Military Bases in Middle East",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s50bu7/ukraines_paratroopers_clear_berezove_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5fo89/us_forces_abandon_military_bases_in_middle_east/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,865 views \u2022 ~45m old",
+    "why": "Trending on YouTube \u2022 232,855 views \u2022 ~80m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MENf-FbJYgU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,079 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 125,537 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hDfkBaYOtgs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,552 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 84,154 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CizDIrZu56g"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,946 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 35,424 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9O9ZeG6op_Y"
+  },
+  {
+    "topic": "HEADS OR TAILS Official Trailer (2026) John C Reilly",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 32,737 views \u2022 ~338m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GC_hss_ctE0"
   },
   {
     "topic": "NCAAM Sweet 16: Iowa vs. Nebraska",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xb67J5qvO9Y"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IxgEJdTSkcg"
   },
   {
@@ -232,31 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~447m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KbLqeqIa2FY"
   },
   {
-    "topic": "Edmonton Oilers at Vegas Golden Knights",
+    "topic": "Get Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~566m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8OUfCKCzJRQ"
-  },
-  {
-    "topic": "NCAAM Sweet 16: Texas vs. Purdue",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~527m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oM8SD9OvSAk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BBeUfuft1Ng"
   },
   {
     "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mrcNhgMfRlg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BIaTiPR-NAA"
   }
 ]
