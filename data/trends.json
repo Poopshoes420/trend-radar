@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4lc49/ahhhhh/"
   },
   {
-    "topic": "Who is she?",
+    "topic": "Oh you\u2019re kevin!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4v63k/who_is_she/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4vel4/oh_youre_kevin/"
   },
   {
     "topic": "Here's your omelette, bitch!",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
   },
   {
-    "topic": "App has started adding fake progress bars to videos",
+    "topic": "This new UI update is terrible. Whose bright idea was it to hide video titles when browsing on your iPhone?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4c2iq/app_has_started_adding_fake_progress_bars_to/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4vvl8/this_new_ui_update_is_terrible_whose_bright_idea/"
   },
   {
     "topic": "Report: Pentagon considers sending 10,000 additional troops to Middle East",
@@ -180,35 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4ap1j/psychological_horror_game_disguised_as_a_military/"
   },
   {
-    "topic": "We Found The Best New Basketball Game",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 509,866 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZNFUsVBPck4"
-  },
-  {
     "topic": "Miley Cyrus - Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,270 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 137,290 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
-  },
-  {
-    "topic": "Masicka - Boasty (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 155,555 views \u2022 ~667m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JGw1UAYjFEY"
   },
   {
     "topic": "Melanie Martinez - GARBAGE (Official Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,566 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 64,364 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
   },
   {
@@ -216,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,379 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 48,984 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 74,733 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 79,519 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AwLL61csb3Y"
   },
   {
@@ -240,47 +224,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eYo2uV4Gtdg"
+  },
+  {
+    "topic": "Texas Children's Houston Open, First Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BgVsjCORwaE"
   },
   {
     "topic": "The Real Housewives of Beverly Hills",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WDTTE52j6jY"
+  },
+  {
+    "topic": "Minnesota Wild at Florida Panthers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lXsyJc1CCDQ"
+  },
+  {
+    "topic": "The Source With Kaitlan Collins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nO989NQkwsI"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4djUInRbh10"
-  },
-  {
-    "topic": "Erin Burnett OutFront",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3-KtarMRhQc"
   },
   {
     "topic": "NCAA March Madness Bracket Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CbR3QG6ZHDw"
-  },
-  {
-    "topic": "SportsCenter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZrUyvFPZcS4"
   }
 ]
