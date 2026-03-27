@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Every time",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4nflk/every_time/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Every time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4nflk/every_time/"
   },
   {
     "topic": "\"Ahhhhh\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 480,622 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 509,866 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNFUsVBPck4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,736 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 109,270 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s-dr_KJvmO4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,283 views \u2022 ~607m old",
+    "why": "Trending on YouTube \u2022 155,555 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JGw1UAYjFEY"
   },
   {
@@ -208,47 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,717 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 58,566 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFaNjXHMAbY"
-  },
-  {
-    "topic": "HARRY POTTER HBO TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 105,378 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DghE3Xwz_i8"
-  },
-  {
-    "topic": "Purpose General",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 68,792 views \u2022 ~488m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
     "topic": "Conan Gray - The Best (Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,145 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 42,379 views \u2022 ~307m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fk9FSZo2geg"
   },
   {
-    "topic": "The Fetty Wap \"On The Radar\" Freestyle",
+    "topic": "Purpose General",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,108 views \u2022 ~667m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N-NhTgJeGVY"
+    "why": "Trending on YouTube \u2022 74,733 views \u2022 ~547m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AwLL61csb3Y"
   },
   {
@@ -256,39 +240,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eYo2uV4Gtdg"
+  },
+  {
+    "topic": "The Real Housewives of Beverly Hills",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WDTTE52j6jY"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4djUInRbh10"
+  },
+  {
+    "topic": "Erin Burnett OutFront",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3-KtarMRhQc"
   },
   {
     "topic": "NCAA March Madness Bracket Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CbR3QG6ZHDw"
   },
   {
-    "topic": "Brazil vs. France",
+    "topic": "SportsCenter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ozlhySZ8KOc"
-  },
-  {
-    "topic": "The Lead With Jake Tapper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DJKX3Isgl6Q"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZrUyvFPZcS4"
   }
 ]
