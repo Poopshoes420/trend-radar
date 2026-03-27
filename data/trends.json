@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4nflk/every_time/"
   },
   {
+    "topic": "Here's your omelette, bitch!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s4qwn0/heres_your_omelette_bitch/"
+  },
+  {
     "topic": "First Time at The Famous Wiener Circle",
     "sources": [
       "reddit"
@@ -34,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s46ucs/first_time_at_the_famous_wiener_circle/"
-  },
-  {
-    "topic": "Borat introducing his sister scene never gets less awkward",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s468um/borat_introducing_his_sister_scene_never_gets/"
-  },
-  {
-    "topic": "I hate this type of clickbait",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4i8uc/i_hate_this_type_of_clickbait/"
   },
   {
     "topic": "Remember back then 720 was HD,",
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s44zw0/i_give_up/"
   },
   {
-    "topic": "All the creators out there keep hustling!!",
+    "topic": "How many OG YouTubers are still active?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4e3xd/all_the_creators_out_there_keep_hustling/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4pf40/how_many_og_youtubers_are_still_active/"
   },
   {
     "topic": "App has started adding fake progress bars to videos",
@@ -90,6 +81,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4c2iq/app_has_started_adding_fake_progress_bars_to/"
   },
   {
+    "topic": "All the creators out there keep hustling!!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s4e3xd/all_the_creators_out_there_keep_hustling/"
+  },
+  {
     "topic": "Report: Pentagon considers sending 10,000 additional troops to Middle East",
     "sources": [
       "reddit"
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4pbdv/report_pentagon_considers_sending_10000/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1491, Part 1 (Thread #1638)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1492, Part 1 (Thread #1639)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s3x6xt/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4tr9o/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #11)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4mbaw/iran_starts_to_formalize_its_chokehold_on_the/"
   },
   {
-    "topic": "Trump extends pause on attacking Iran energy facilities to April 6",
+    "topic": "AP is calling Israel's attack on Lebanon an invasion",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4ip8u/trump_extends_pause_on_attacking_iran_energy/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s4p8hp/ap_is_calling_israels_attack_on_lebanon_an/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s18tvq/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Epic CEO Tim Sweeney says 'employers will see a stream of resumes of once-in-a-lifetime quality' after the company laid off more than 1,000 people",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4bgho/epic_ceo_tim_sweeney_says_employers_will_see_a/"
-  },
-  {
     "topic": "Major PS5 and PS5 Pro price increase rumored, as Sony faces memory shortage",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4od6e/major_ps5_and_ps5_pro_price_increase_rumored_as/"
+  },
+  {
+    "topic": "Epic CEO Tim Sweeney says 'employers will see a stream of resumes of once-in-a-lifetime quality' after the company laid off more than 1,000 people",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4bgho/epic_ceo_tim_sweeney_says_employers_will_see_a/"
   },
   {
     "topic": "Psychological horror game disguised as a military shooter",
@@ -180,99 +180,75 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4j6bo/crime_scene_cleaner_who_needs_that_much_coffee/"
   },
   {
-    "topic": "BTS 'SWIM' Dance Practice",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,905,765 views \u2022 ~657m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uYcNZLJ3KmU"
-  },
-  {
-    "topic": "The End of Oak Street | Official Teaser Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,181,468 views \u2022 ~597m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IoHWPAN6FPg"
-  },
-  {
     "topic": "We Found The Best New Basketball Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,008 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 334,713 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZNFUsVBPck4"
-  },
-  {
-    "topic": "Stranger Things: Tales From \u201885 | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 461,798 views \u2022 ~657m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kajCUhg36R0"
-  },
-  {
-    "topic": "I Controlled Emma's Brainrots...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 276,939 views \u2022 ~657m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dFc9_MoVDqQ"
   },
   {
     "topic": "Masicka - Boasty (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,066 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 117,117 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JGw1UAYjFEY"
+  },
+  {
+    "topic": "Purpose General",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 45,696 views \u2022 ~279m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-bmCjSQpBZE"
   },
   {
     "topic": "HARRY POTTER HBO TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,610 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 79,511 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DghE3Xwz_i8"
   },
   {
-    "topic": "Paul McCartney \u2013 The Boys of Dungeon Lane (Official Album Trailer)",
+    "topic": "Elvis Crespo, Michael Flores | Abeja Blanca 2.0 (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,750 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zckLcAuyG20"
+    "why": "Trending on YouTube \u2022 46,107 views \u2022 ~339m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oPxoG9irdqE"
   },
   {
     "topic": "VonOff1700 - Turn Me Up (G.K.S.Y.W.T.M.U) ft. Polo G (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,252 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 76,773 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yflFa6undWk"
   },
   {
-    "topic": "PRESIDENT - Mercy (Visualiser)",
+    "topic": "The Fetty Wap \"On The Radar\" Freestyle",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,788 views \u2022 ~597m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NhD3HC1jUeA"
+    "why": "Trending on YouTube \u2022 45,218 views \u2022 ~459m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N-NhTgJeGVY"
   },
   {
-    "topic": "Outnumbered",
+    "topic": "The Story With Martha MacCallum",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ON7pFo3H__M"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Cz-UOy0eJmQ"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KcCXcbnnyrk"
   },
   {
@@ -280,15 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oPet9266Q84"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_JDNLX-yR5c"
+  },
+  {
+    "topic": "NCAA Tournament: UConn vs. Michigan State",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9-hhWcW_UuQ"
   },
   {
     "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VLZoChz6VDw"
   }
 ]
