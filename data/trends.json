@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5od27/what_is_the_mount_rushmore_of_youube_videos/"
   },
   {
-    "topic": "What the f?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5wxi7/what_the_f/"
-  },
-  {
     "topic": "There is a controversy that mr beast does this for views but at the end it doesnot matter if people are still being helped",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s62db1/there_is_a_controversy_that_mr_beast_does_this/"
+  },
+  {
+    "topic": "What the f?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5wxi7/what_the_f/"
   },
   {
     "topic": "The f*ck is this? I am an adult.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5cnd7/the_fck_is_this_i_am_an_adult/"
   },
   {
-    "topic": "PSA: DO NOT VERIFY YOURSELF WITH AN ID OR A PICTURE OF YOURSELF ITS A BUG",
+    "topic": "Never be asked this before",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5f0hw/psa_do_not_verify_yourself_with_an_id_or_a/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5uc5r/never_be_asked_this_before/"
   },
   {
     "topic": "Finland to audit whether US is actually delivering NATO-bought weapons to Ukraine",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5tmvi/were_no_qatar_will_beat_the_hell_out_of_them/"
   },
   {
+    "topic": "If you weren\u2019t famous for ice skating, what do you think you would be famous for? Alysa: nothing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1s61wce/if_you_werent_famous_for_ice_skating_what_do_you/"
+  },
+  {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
@@ -171,28 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5heng/videogames_are_more_of_a_rich_guys_hobby_than/"
   },
   {
-    "topic": "Robocop Rogue City. I love this game",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5xx1p/robocop_rogue_city_i_love_this_game/"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | HALO CUSTOM GAMES | Hutch X Cloakzy X Nickmercs X Drac X Taxi X Moist X Summit | #BUNGULATE",
+    "topic": "Calling All Villains - Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 737,472 views \u2022 ~497m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fr18kt_5mh4"
+    "why": "Trending on YouTube \u2022 74,485 views \u2022 ~53m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
   },
   {
     "topic": "Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,876 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 221,205 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YnczpEoeaDM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 180,377 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 203,924 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__GPPKA7Uww"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,377 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 173,840 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U2beixNMeWA"
-  },
-  {
-    "topic": "Black Label Society - Ozzy's Song (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 149,830 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hZ1HKpu_BFk"
   },
   {
     "topic": "NCAAM Sweet 16: Alabama vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bQ9WmkQCUQs"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nK61tJ4F1No"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8prjU8mLTX8"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
   },
   {
@@ -256,39 +248,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~55m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tdXmW-l8ghQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=srXlEZXUlto"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zkiH5BtlKIs"
-  },
-  {
-    "topic": "Golden Goose, Wounded Moose",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~511m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UNShRLkFlOo"
   },
   {
     "topic": "NCAAM Sweet 16: St. John's vs. Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=znQnovKDLYQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IZccXqsqUp4"
+  },
+  {
+    "topic": "Golden Goose, Wounded Moose",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~542m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UNShRLkFlOo"
   },
   {
     "topic": "Jack Reacher",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OvsT7ReqTsw"
   }
 ]
