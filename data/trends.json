@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I\u2019m sure that degree will come in handy for the job.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5vjhe/im_sure_that_degree_will_come_in_handy_for_the_job/"
-  },
-  {
     "topic": "What's his Rap name?",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s67752/whats_his_rap_name/"
+  },
+  {
+    "topic": "I\u2019m sure that degree will come in handy for the job.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5vjhe/im_sure_that_degree_will_come_in_handy_for_the_job/"
   },
   {
     "topic": "THE GUM IS REAL",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s65of4/naval_group_with_3500_marines_enters_centcom/"
   },
   {
-    "topic": "\u2018We\u2019re No Qatar, Will Beat the Hell Out of Them\u2019: Pakistan Warns Israel Over Tehran Embassy Strikes",
+    "topic": "CNN crew say troops assaulted them, detained them, then trumpeted far-right ideology. | Soldier guarding illegal outpost tells reporter he\u2019s executing \u2018revenge\u2019 for settler\u2019s death because state is failing to do so; army condemns incident, vows to investigate",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5tmvi/were_no_qatar_will_beat_the_hell_out_of_them/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s69shu/cnn_crew_say_troops_assaulted_them_detained_them/"
   },
   {
     "topic": "If you weren\u2019t famous for ice skating, what do you think you would be famous for? Alysa: nothing",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5zb9b/kingdom_come_deliverance_2_czech_translater_fired/"
   },
   {
-    "topic": "\"Five Nights at Epstein's\" video game sweeps US classrooms",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5wv0s/five_nights_at_epsteins_video_game_sweeps_us/"
-  },
-  {
     "topic": "I have finally gotten three stars on every level in the original angry birds.",
     "sources": [
       "reddit"
@@ -180,11 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s68y94/i_have_finally_gotten_three_stars_on_every_level/"
   },
   {
+    "topic": "\"Five Nights at Epstein's\" video game sweeps US classrooms",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5wv0s/five_nights_at_epsteins_video_game_sweeps_us/"
+  },
+  {
+    "topic": "OpTic TEXAS vs G2 MINNESOTA!! SCUMP WATCH PARTY - CDL BIRMINGHAM MAJOR 2 DAY 2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 263,513 views \u2022 ~48m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DIcmGFDJNHg"
+  },
+  {
     "topic": "Press This Button To Win $250,000",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,268,615 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 1,563,036 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=70LOaxzmcg4"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 922,513 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 997,669 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ztbv7ChTQRM"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 530,335 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 567,891 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YnczpEoeaDM"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,255 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 329,168 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hIZlkMJ6H0w"
   },
   {
@@ -216,39 +224,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 397,693 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 437,140 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U2beixNMeWA"
-  },
-  {
-    "topic": "FATHER (feat. Travis Scott)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 457,094 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=unypqeWmyNI"
   },
   {
     "topic": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 331,616 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 348,049 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__GPPKA7Uww"
+  },
+  {
+    "topic": "Fred again.. & Thomas Bangalter (USB002, Alexandra Palace, London 27 February 2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 100,759 views \u2022 ~226m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gfF8jzBVWvM"
+  },
+  {
+    "topic": "Piggy: Intercity - Official Overview Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,704 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nzvMQLvB4Ac"
   },
   {
     "topic": "ONE PIECE l Elbaph Arc | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,104 views \u2022 ~507m old",
+    "why": "Trending on YouTube \u2022 94,027 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R-EeF-wcYAU"
+  },
+  {
+    "topic": "Ben Shapiro vs. 2026 Movie Trailers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 30,682 views \u2022 ~405m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e1cV7Ty7--o"
   },
   {
     "topic": "NCAAM Sweet 16: Alabama vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bQ9WmkQCUQs"
   },
   {
@@ -256,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CTnBmQboK5E"
   },
   {
@@ -264,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nK61tJ4F1No"
   },
   {
@@ -272,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
   },
   {
@@ -280,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zkiH5BtlKIs"
   },
   {
@@ -288,15 +312,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~321m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IZccXqsqUp4"
-  },
-  {
-    "topic": "NCAAM Sweet 16: Michigan State vs. UConn",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=b3tqhhadW3E"
   }
 ]
