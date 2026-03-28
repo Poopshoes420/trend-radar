@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Damn, the chicken used a condom",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5z2yx/damn_the_chicken_used_a_condom/"
-  },
-  {
     "topic": "Bro's laughing with his soul",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5oqdo/bros_laughing_with_his_soul/"
+  },
+  {
+    "topic": "THE GUM IS REAL",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s603gn/the_gum_is_real/"
   },
   {
     "topic": "Chemist stepdad portions out his Friday wine \ud83d\ude06",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5od27/what_is_the_mount_rushmore_of_youube_videos/"
   },
   {
-    "topic": "The f*ck is this? I am an adult.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5cnd7/the_fck_is_this_i_am_an_adult/"
-  },
-  {
     "topic": "What the f?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5wxi7/what_the_f/"
+  },
+  {
+    "topic": "The f*ck is this? I am an adult.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5cnd7/the_fck_is_this_i_am_an_adult/"
   },
   {
     "topic": "PSA: DO NOT VERIFY YOURSELF WITH AN ID OR A PICTURE OF YOURSELF ITS A BUG",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5qblj/cyber_group_behind_kash_patel_email_hack_issues/"
   },
   {
-    "topic": "US may deploy up to 17,000 troops near Iran as war enters new phase \u2014 WSJ",
+    "topic": "\u2018We\u2019re No Qatar, Will Beat the Hell Out of Them\u2019: Pakistan Warns Israel Over Tehran Embassy Strikes",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5p1dy/us_may_deploy_up_to_17000_troops_near_iran_as_war/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5tmvi/were_no_qatar_will_beat_the_hell_out_of_them/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,44 +171,44 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5heng/videogames_are_more_of_a_rich_guys_hobby_than/"
   },
   {
-    "topic": "This is how I sneak game art into the house without my wife noticing",
+    "topic": "Robocop Rogue City. I love this game",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5gm1q/this_is_how_i_sneak_game_art_into_the_house/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5xx1p/robocop_rogue_city_i_love_this_game/"
   },
   {
     "topic": "FATHER (feat. Travis Scott)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,842 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 285,516 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=unypqeWmyNI"
-  },
-  {
-    "topic": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 122,130 views \u2022 ~261m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=__GPPKA7Uww"
   },
   {
     "topic": "Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,557 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 118,437 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YnczpEoeaDM"
+  },
+  {
+    "topic": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 155,003 views \u2022 ~305m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=__GPPKA7Uww"
   },
   {
     "topic": "Black Label Society - Ozzy's Song (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,717 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 140,035 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hZ1HKpu_BFk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TdOs82fIQH4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nK61tJ4F1No"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8prjU8mLTX8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
   },
   {
@@ -248,31 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zkiH5BtlKIs"
-  },
-  {
-    "topic": "NCAAM Sweet 16: St. John's vs. Duke",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=znQnovKDLYQ"
   },
   {
     "topic": "Golden Goose, Wounded Moose",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UNShRLkFlOo"
+  },
+  {
+    "topic": "NCAAM Sweet 16: St. John's vs. Duke",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=znQnovKDLYQ"
   },
   {
     "topic": "Jack Reacher",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OvsT7ReqTsw"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-jiqqywe3G4"
   }
 ]
