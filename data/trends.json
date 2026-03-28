@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s565e2/football_playing/"
   },
   {
-    "topic": "Not a bad threat",
+    "topic": "Tiger Woods",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5587v/not_a_bad_threat/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s5ja87/tiger_woods/"
+  },
+  {
+    "topic": "what is the mount rushmore of youube videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5od27/what_is_the_mount_rushmore_of_youube_videos/"
   },
   {
     "topic": "The f*ck is this? I am an adult.",
@@ -61,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5f0hw/psa_do_not_verify_yourself_with_an_id_or_a/"
-  },
-  {
-    "topic": "what is the mount rushmore of youube videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5od27/what_is_the_mount_rushmore_of_youube_videos/"
   },
   {
     "topic": "shitty Ai moderation somehow got the official video, wtf",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "10 Americans injured in Iranian attack on Saudi airbase",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5jyb7/10_americans_injured_in_iranian_attack_on_saudi/"
-  },
-  {
     "topic": "Cyber Group Behind Kash Patel Email Hack Issues $50M 'Bounty' Threat on Trump and Netanyahu",
     "sources": [
       "reddit"
@@ -135,13 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5qblj/cyber_group_behind_kash_patel_email_hack_issues/"
   },
   {
-    "topic": "Free Talk Friday!",
+    "topic": "10 Americans injured in Iranian attack on Saudi airbase",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s5jyb7/10_americans_injured_in_iranian_attack_on_saudi/"
+  },
+  {
+    "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s4vxrs/free_talk_friday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5sdzn/self_promotion_saturday_small_streamer_just/"
   },
   {
     "topic": "Videogames are more of a rich guy's hobby than ever, says analyst, and that's 'leaving a whole portion of the market to Fortnite, Minecraft, Roblox'",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5cqol/bethesda_fallout_3_dev_initially_felt_a_little/"
   },
   {
-    "topic": "Glen Powell has been announced as the voice of Fox McCloud in 'The Super Mario Galaxy Movie'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s53r38/glen_powell_has_been_announced_as_the_voice_of/"
-  },
-  {
     "topic": "This is how I sneak game art into the house without my wife noticing",
     "sources": [
       "reddit"
@@ -180,27 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s5gm1q/this_is_how_i_sneak_game_art_into_the_house/"
   },
   {
+    "topic": "Glen Powell has been announced as the voice of Fox McCloud in 'The Super Mario Galaxy Movie'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s53r38/glen_powell_has_been_announced_as_the_voice_of/"
+  },
+  {
     "topic": "Roblox has 15 days left..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 633,716 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 689,054 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NtW8vo5uo3E"
-  },
-  {
-    "topic": "Call of Duty League Major II Tournament Day 1 (ALPHA)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 397,005 views \u2022 ~431m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5NR_AhQBAmM"
   },
   {
     "topic": "OpTic TEXAS vs TORONTO KOI!! SCUMP WATCH PARTY - CDL BIRMINGHAM MAJOR 2 DAY 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 413,130 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 417,088 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Dsq3AmAk18"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 195,469 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 210,415 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v742oCBECdQ"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,151 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 164,805 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yYwAnCowLxI"
   },
   {
@@ -224,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,738 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 65,430 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tkqrF2uZdKc"
-  },
-  {
-    "topic": "Drinker's Chasers - Harry Potter Complete Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 82,863 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HIksTVHLx5E"
   },
   {
     "topic": "STOP! THAT! TRAIN! | Official Trailer (RuPaul 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,502 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 66,913 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cVuaamn_kwc"
   },
   {
@@ -248,39 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,472 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 53,079 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OzqXwxfsfY8"
+  },
+  {
+    "topic": "NCAAW Sweet 16: North Carolina vs. UConn",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~59m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I8Pbqd5PDO0"
+  },
+  {
+    "topic": "The Five",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5AGuWj8-CjE"
   },
   {
     "topic": "NCAAM Sweet 16: Illinois vs. Houston",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~547m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HOUaFEEPmoA"
-  },
-  {
-    "topic": "The Will Cain Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PJjhLxWvMv4"
-  },
-  {
-    "topic": "NCAA Women's Championship Live",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=flAnwfAonfk"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2p7vCsLkwQ8"
   },
   {
@@ -288,7 +272,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W65u6MavjIQ"
+  },
+  {
+    "topic": "England vs. Uruguay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_JS4XyfVZFM"
   }
 ]
