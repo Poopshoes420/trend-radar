@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5cnd7/the_fck_is_this_i_am_an_adult/"
   },
   {
+    "topic": "What the f?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5wxi7/what_the_f/"
+  },
+  {
     "topic": "PSA: DO NOT VERIFY YOURSELF WITH AN ID OR A PICTURE OF YOURSELF ITS A BUG",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5uc5r/never_be_asked_this_before/"
-  },
-  {
-    "topic": "What the f?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s5wxi7/what_the_f/"
   },
   {
     "topic": "Finland to audit whether US is actually delivering NATO-bought weapons to Ukraine",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,303 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 257,842 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=unypqeWmyNI"
   },
   {
@@ -192,47 +192,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,266 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 122,130 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=__GPPKA7Uww"
-  },
-  {
-    "topic": "Black Label Society - Ozzy's Song (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 113,104 views \u2022 ~603m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hZ1HKpu_BFk"
   },
   {
     "topic": "Elbaph Arc Official Trailer | April 5, 2026 | ONE PIECE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,236 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 63,557 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YnczpEoeaDM"
+  },
+  {
+    "topic": "Black Label Society - Ozzy's Song (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 123,717 views \u2022 ~637m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hZ1HKpu_BFk"
+  },
+  {
+    "topic": "NCAAM Sweet 16: Alabama vs. Michigan",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TdOs82fIQH4"
   },
   {
     "topic": "NCAAW Sweet 16: Duke vs. LSU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nK61tJ4F1No"
   },
   {
-    "topic": "The Five",
+    "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5AGuWj8-CjE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8prjU8mLTX8"
   },
   {
     "topic": "Texas Children's Houston Open, Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vNKSkcBR-lY"
   },
   {
@@ -240,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zkiH5BtlKIs"
+  },
+  {
+    "topic": "NCAAM Sweet 16: St. John's vs. Duke",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=znQnovKDLYQ"
   },
   {
     "topic": "Golden Goose, Wounded Moose",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UNShRLkFlOo"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OvsT7ReqTsw"
   },
   {
@@ -264,23 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-jiqqywe3G4"
-  },
-  {
-    "topic": "NCAAM Sweet 16: St. John's vs. Duke",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WScZz-t18DA"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=K8wxqDceSUA"
   }
 ]
