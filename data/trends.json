@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s71e9f/youtube_you_swore_in_a_video_no_money_and_banned/"
   },
   {
-    "topic": "Youtube new ads ratio is criminal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s70x9i/youtube_new_ads_ratio_is_criminal/"
-  },
-  {
     "topic": "Youtube is accusing me of using a nonexistant adblocker and is going to stop letting me watch videos",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s717ox/youtube_is_accusing_me_of_using_a_nonexistant/"
+  },
+  {
+    "topic": "Youtube new ads ratio is criminal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s70x9i/youtube_new_ads_ratio_is_criminal/"
   },
   {
     "topic": "Zelenskyy: Russia took satellite images of US air base in Saudi Arabia three times before Iranian strike",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6zizd/crimson_desert_reaches_peak_steam_concurrent/"
   },
   {
-    "topic": "\"It's all of us against apathy, entropy, and loss of art\" - Stop Killing Games has reached the EU Parliament, but what happens now?",
+    "topic": "Fight the FOMO, ignore PS5 Pro",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6w2lv/its_all_of_us_against_apathy_entropy_and_loss_of/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s787hc/fight_the_fomo_ignore_ps5_pro/"
   },
   {
     "topic": "John and Brenda Romero think our current video game industry crash is even \"crashier\" than the infamous recession of the 1980's",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 576,590 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 581,309 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LV8xMsHimAA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 280,663 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 309,398 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4mrFHMwzfvs"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,234 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 268,533 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WqTO4uk1siU"
+  },
+  {
+    "topic": "ROBLOX ENTER BRAINROT HEADS..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 222,970 views \u2022 ~372m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uhalaAzi2r8"
   },
   {
     "topic": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,356 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 50,908 views \u2022 ~681m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
   },
   {
@@ -224,39 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsAu4YDoH_U"
   },
   {
-    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "topic": "College GameDay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XO9Ca8TFxy0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~51m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Bpu4Sc05Yvc"
+  },
+  {
+    "topic": "Fareed Zakaria GPS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wEKpg4EcmUc"
   },
   {
     "topic": "The Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dIyZ_zyVJHM"
-  },
-  {
-    "topic": "For the Win",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NZF3zDh_cVU"
-  },
-  {
-    "topic": "Ferris Bueller's Day Off",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TweZdzOwaGA"
   }
 ]
