@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "What's his Rap name?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s67752/whats_his_rap_name/"
-  },
-  {
     "topic": "Chinese Mufasa",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6qfkq/chinese_mufasa/"
+  },
+  {
+    "topic": "What's his Rap name?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s67752/whats_his_rap_name/"
   },
   {
     "topic": "Bee sleeping on the job.",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5icsxBhPQHM"
+  },
+  {
+    "topic": "NCAAM Elite Eight: Iowa vs. Illinois",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~53m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i9m6r4aCacs"
   },
   {
     "topic": "Texas Children's Houston Open, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhV7ii-SzOQ"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H5iWmZT4exc"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z036h3W1CUs"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21MUj_WtxCY"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~53m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KZiUn0fTl0U"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LsiZ626aJNY"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mP2g38fjn34"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=taTKOCF1Vkg"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBP1vXf0ejc"
   }
 ]
