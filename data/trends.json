@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "what Ai artist's do",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6meqs/what_ai_artists_do/"
-  },
-  {
     "topic": "What's his Rap name?",
     "sources": [
       "reddit"
@@ -27,31 +18,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s67752/whats_his_rap_name/"
   },
   {
-    "topic": "Heavy hitters",
+    "topic": "That's a big shopping cart",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6l7yh/heavy_hitters/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6ihp1/thats_a_big_shopping_cart/"
   },
   {
-    "topic": "The internet's response to literally any world event",
+    "topic": "Don't touch it",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6nugk/the_internets_response_to_literally_any_world/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
   },
   {
-    "topic": "There is a controversy that mr beast does this for views but at the end it doesnot matter if people are still being helped",
+    "topic": "This is the running map for the Savannah Women's Half Marathon",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s62db1/there_is_a_controversy_that_mr_beast_does_this/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6k4gj/this_is_the_running_map_for_the_savannah_womens/"
   },
   {
     "topic": "Age/ID verification was a huge and terrible mistake, alright.",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6mlhx/ageid_verification_was_a_huge_and_terrible/"
+  },
+  {
+    "topic": "There is a controversy that mr beast does this for views but at the end it doesnot matter if people are still being helped",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s62db1/there_is_a_controversy_that_mr_beast_does_this/"
   },
   {
     "topic": "Seen this posted in another group. Anyone here know something about it?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s62i3e/a_win_for_humanity/"
   },
   {
-    "topic": "Why is it that whenever I fall asleep with Autoplay, YouTube always defaults to Aviation Runway Livestreams, Muslim Livestreams or Chinese livestreams?",
+    "topic": "Chat is this true?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6ldo3/why_is_it_that_whenever_i_fall_asleep_with/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6ol0i/chat_is_this_true/"
   },
   {
     "topic": "Pentagon prepares for weeks of ground operations in Iran",
@@ -184,31 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,881 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 77,455 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9r0rv8wL42Y"
   },
   {
-    "topic": "NCAAW Sweet 16: Oklahoma vs. South Carolina",
+    "topic": "NCAAW Sweet 16: Virginia vs. TCU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o5P6jx30H0E"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~56m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5icsxBhPQHM"
   },
   {
     "topic": "Texas Children's Houston Open, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhV7ii-SzOQ"
+  },
+  {
+    "topic": "Minnesota Twins at Baltimore Orioles",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=H5iWmZT4exc"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=04828iFQAR4"
   },
   {
@@ -216,15 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LsiZ626aJNY"
+  },
+  {
+    "topic": "Real Time With Bill Maher",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~39m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mP2g38fjn34"
+  },
+  {
+    "topic": "Texas Rangers at Philadelphia Phillies",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QBP1vXf0ejc"
   },
   {
     "topic": "Alex Witt Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pM4PujhY6zQ"
   },
   {
@@ -232,31 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M1JGqRGQHNg"
-  },
-  {
-    "topic": "Jack Reacher",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oMlRRuvAyxM"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7zNTFPrk8NA"
-  },
-  {
-    "topic": "Oklahoma at Texas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Jusa24HIuAI"
   }
 ]
