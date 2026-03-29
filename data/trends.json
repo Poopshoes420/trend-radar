@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Don't touch it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
-  },
-  {
     "topic": "Stealing",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6xy24/stealing/"
+  },
+  {
+    "topic": "Don't touch it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
   },
   {
     "topic": "[OC] keep away",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6fipb/seen_this_posted_in_another_group_anyone_here/"
   },
   {
+    "topic": "Youtube: You swore in a video. No money and banned for life. Also youtube:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s71e9f/youtube_you_swore_in_a_video_no_money_and_banned/"
+  },
+  {
     "topic": "Chat is this true?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6ol0i/chat_is_this_true/"
-  },
-  {
-    "topic": "There is a controversy that mr beast does this for views but at the end it doesnot matter if people are still being helped",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s62db1/there_is_a_controversy_that_mr_beast_does_this/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1494, Part 1 (Thread #1641)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6u4p9/uganda_general_claims_army_could_take_tehran_in_2/"
   },
   {
-    "topic": "Pentagon prepares for weeks of ground operations in Iran",
+    "topic": "Zelenskyy: Russia took satellite images of US air base in Saudi Arabia three times before Iranian strike",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6kayx/pentagon_prepares_for_weeks_of_ground_operations/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s70pq9/zelenskyy_russia_took_satellite_images_of_us_air/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,24 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6qq7u/zero_parades_devs_knew_they_didnt_want_to_make/"
   },
   {
-    "topic": "\"It's all of us against apathy, entropy, and loss of art\" - Stop Killing Games has reached the EU Parliament, but what happens now?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6w2lv/its_all_of_us_against_apathy_entropy_and_loss_of/"
-  },
-  {
-    "topic": "Games where you have to play the character's villain arc?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6zor8/games_where_you_have_to_play_the_characters/"
-  },
-  {
     "topic": "Crimson Desert Reaches Peak Steam Concurrent Players At 250K+ And Goes From \"Mixed\" To \"Very Positive\" User Rating, Following Recent Patch",
     "sources": [
       "reddit"
@@ -180,11 +162,37 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6zizd/crimson_desert_reaches_peak_steam_concurrent/"
   },
   {
+    "topic": "\"It's all of us against apathy, entropy, and loss of art\" - Stop Killing Games has reached the EU Parliament, but what happens now?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6w2lv/its_all_of_us_against_apathy_entropy_and_loss_of/"
+  },
+  {
+    "topic": "Long-rumored Final Fantasy 9 remake is apparently on ice with \"no new movement\" on Square Enix's JRPG classic, according to reliable insider",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6yfy5/longrumored_final_fantasy_9_remake_is_apparently/"
+  },
+  {
+    "topic": "You CAN'T MISS the first week of April in Hay Day",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 795,884 views \u2022 ~661m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gSHnaButGOI"
+  },
+  {
     "topic": "NCAAM Elite Eight: Purdue vs. Arizona",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5icsxBhPQHM"
+  },
+  {
+    "topic": "Fox & Friends Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bhXF6f8fVus"
   },
   {
     "topic": "Minnesota Twins at Baltimore Orioles",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H5iWmZT4exc"
-  },
-  {
-    "topic": "FOX News Saturday Night With Jimmy Failla",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=21MUj_WtxCY"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~502m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z036h3W1CUs"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LsiZ626aJNY"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KZiUn0fTl0U"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjsbKVdAKSc"
   },
   {
@@ -248,31 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mP2g38fjn34"
-  },
-  {
-    "topic": "NCAA Tournament: Quinnipiac vs. North Dakota",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=taTKOCF1Vkg"
   },
   {
     "topic": "A Royal Setting",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~432m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_pAsn1g-tyI"
   },
   {
-    "topic": "Texas Rangers at Philadelphia Phillies",
+    "topic": "NCAA Tournament: Quinnipiac vs. North Dakota",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~549m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QBP1vXf0ejc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~552m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=taTKOCF1Vkg"
   }
 ]
