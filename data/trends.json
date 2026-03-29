@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6z4pi/oc_what_makes_you_smile/"
   },
   {
-    "topic": "Don't touch it",
+    "topic": "[OC] keep away",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6sole/oc_keep_away/"
   },
   {
     "topic": "Where do you think the line of \"AI-generated content\" lies?",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6qq7u/zero_parades_devs_knew_they_didnt_want_to_make/"
   },
   {
-    "topic": "Call of Duty League Major II Tournament Championship Sunday",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 476,815 views \u2022 ~93m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sfyuwued7ps"
-  },
-  {
     "topic": "CDL BIRMINGHAM MAJOR 2 GRAND FINALS!! OpTic TEXAS VS FAZE VEGAS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 563,227 views \u2022 ~116m old",
+    "why": "Trending on YouTube \u2022 572,271 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LV8xMsHimAA"
+  },
+  {
+    "topic": "Call of Duty League Major II Tournament Championship Sunday",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 481,011 views \u2022 ~138m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sfyuwued7ps"
   },
   {
     "topic": "ROBLOX OBBY BUT YOUR CURSED..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,812 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 254,746 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4mrFHMwzfvs"
+  },
+  {
+    "topic": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 219,421 views \u2022 ~282m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WqTO4uk1siU"
   },
   {
     "topic": "Grey Hulk (2026) - Dwayne Johnson, Mark Ruffalo, Amanda Seyfried | Concept Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,304 views \u2022 ~567m old",
+    "why": "Trending on YouTube \u2022 34,114 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_L_o2JrcyHg"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~55m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dsAu4YDoH_U"
   },
   {
@@ -232,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dIyZ_zyVJHM"
+  },
+  {
+    "topic": "Housewarming Treats",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2wxfEpYV7ko"
   }
 ]
