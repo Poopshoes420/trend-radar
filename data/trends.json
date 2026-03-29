@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6sp08/oc_the_only_reason/"
   },
   {
-    "topic": "Don't touch it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
-  },
-  {
     "topic": "[OC] What makes you smile",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6z4pi/oc_what_makes_you_smile/"
+  },
+  {
+    "topic": "Don't touch it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
   },
   {
     "topic": "Where do you think the line of \"AI-generated content\" lies?",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s71e9f/youtube_you_swore_in_a_video_no_money_and_banned/"
   },
   {
+    "topic": "Youtube new ads ratio is criminal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s70x9i/youtube_new_ads_ratio_is_criminal/"
+  },
+  {
     "topic": "Age/ID verification was a huge and terrible mistake, alright.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6fipb/seen_this_posted_in_another_group_anyone_here/"
-  },
-  {
-    "topic": "Youtube new ads ratio is criminal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s70x9i/youtube_new_ads_ratio_is_criminal/"
   },
   {
     "topic": "Zelenskyy: Russia took satellite images of US air base in Saudi Arabia three times before Iranian strike",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6n8po/simple_questions_sunday/"
   },
   {
+    "topic": "PlayStation Console Prices At Launch vs 6 Years Later",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s74jtq/playstation_console_prices_at_launch_vs_6_years/"
+  },
+  {
     "topic": "Crimson Desert Reaches Peak Steam Concurrent Players At 250K+ And Goes From \"Mixed\" To \"Very Positive\" User Rating, Following Recent Patch",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6w2lv/its_all_of_us_against_apathy_entropy_and_loss_of/"
   },
   {
-    "topic": "PlayStation Console Prices At Launch vs 6 Years Later",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s74jtq/playstation_console_prices_at_launch_vs_6_years/"
-  },
-  {
     "topic": "NCAAM Elite Eight: Purdue vs. Arizona",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~427m old",
     "exampleUrl": "https://www.youtube.com/watch?v=daHsTyp4ZVU"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~69m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LD6UK2uwA4U"
-  },
-  {
-    "topic": "NCAAW Sweet 16: Virginia vs. TCU",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5icsxBhPQHM"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~666m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z036h3W1CUs"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KZiUn0fTl0U"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~59m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gwAfQ4v0unQ"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mjsbKVdAKSc"
   }
 ]
