@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Don't touch it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
+  },
+  {
     "topic": "What's his Rap name?",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6ihp1/thats_a_big_shopping_cart/"
   },
   {
-    "topic": "Don't touch it",
+    "topic": "Bee sleeping on the job.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6oydd/dont_touch_it/"
-  },
-  {
-    "topic": "This is the running map for the Savannah Women's Half Marathon",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6k4gj/this_is_the_running_map_for_the_savannah_womens/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6okrv/bee_sleeping_on_the_job/"
   },
   {
     "topic": "Age/ID verification was a huge and terrible mistake, alright.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,455 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 84,272 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9r0rv8wL42Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~56m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5icsxBhPQHM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhV7ii-SzOQ"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H5iWmZT4exc"
+  },
+  {
+    "topic": "The Weekend: Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z036h3W1CUs"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=04828iFQAR4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~193m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LsiZ626aJNY"
   },
   {
@@ -232,31 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~39m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mP2g38fjn34"
+  },
+  {
+    "topic": "NCAA Tournament: Quinnipiac vs. North Dakota",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=taTKOCF1Vkg"
   },
   {
     "topic": "Texas Rangers at Philadelphia Phillies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBP1vXf0ejc"
-  },
-  {
-    "topic": "Alex Witt Reports",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pM4PujhY6zQ"
-  },
-  {
-    "topic": "NCAA Tournament: Wisconsin vs. Michigan State",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=M1JGqRGQHNg"
   }
 ]
