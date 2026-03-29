@@ -18,13 +18,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Introvert at the barber shop",
+    "topic": "[OC] the only reason",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6sj5f/introvert_at_the_barber_shop/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6sp08/oc_the_only_reason/"
+  },
+  {
+    "topic": "[OC] keep away",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6sole/oc_keep_away/"
   },
   {
     "topic": "Chinese Mufasa",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6qfkq/chinese_mufasa/"
-  },
-  {
-    "topic": "What's his Rap name?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s67752/whats_his_rap_name/"
   },
   {
     "topic": "Age/ID verification was a huge and terrible mistake, alright.",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s62i3e/a_win_for_humanity/"
   },
   {
-    "topic": "Pentagon prepares for weeks of ground operations in Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6kayx/pentagon_prepares_for_weeks_of_ground_operations/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1494, Part 1 (Thread #1641)",
     "sources": [
       "reddit"
@@ -117,22 +108,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Thousands protest across Israel calling to end war",
+    "topic": "Pope: God rejects prayers of leaders who wage wars | New Straits Times",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6ejwm/thousands_protest_across_israel_calling_to_end_war/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6sygc/pope_god_rejects_prayers_of_leaders_who_wage_wars/"
   },
   {
-    "topic": "Key USAF E-3 AWACS Aircraft Damaged in Iranian Attack",
+    "topic": "Pentagon prepares for weeks of ground operations in Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6meaj/key_usaf_e3_awacs_aircraft_damaged_in_iranian/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6kayx/pentagon_prepares_for_weeks_of_ground_operations/"
+  },
+  {
+    "topic": "Iran ready to face US ground invasion, top lawmaker says | Caliber.Az",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s6qzt3/iran_ready_to_face_us_ground_invasion_top/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s65ons/thanks_to_fallout_4_ill_always_have_a_version_of/"
   },
   {
+    "topic": "NCAAM Elite Eight: Purdue vs. Arizona",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nw2ALuRMpqg"
+  },
+  {
     "topic": "NCAAW Sweet 16: Virginia vs. TCU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5icsxBhPQHM"
-  },
-  {
-    "topic": "NCAAM Elite Eight: Iowa vs. Illinois",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=i9m6r4aCacs"
   },
   {
     "topic": "Texas Children's Houston Open, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GhV7ii-SzOQ"
   },
   {
@@ -208,39 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H5iWmZT4exc"
-  },
-  {
-    "topic": "The Weekend: Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=z036h3W1CUs"
   },
   {
     "topic": "FOX News Saturday Night With Jimmy Failla",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
     "exampleUrl": "https://www.youtube.com/watch?v=21MUj_WtxCY"
   },
   {
-    "topic": "Inside March Madness",
+    "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KZiUn0fTl0U"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~276m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z036h3W1CUs"
   },
   {
     "topic": "USA vs. Belgium",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LsiZ626aJNY"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mP2g38fjn34"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=taTKOCF1Vkg"
   },
   {
@@ -264,7 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBP1vXf0ejc"
+  },
+  {
+    "topic": "A Royal Setting",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_pAsn1g-tyI"
+  },
+  {
+    "topic": "Jack Reacher",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oMlRRuvAyxM"
   }
 ]
