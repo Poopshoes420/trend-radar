@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6xy24/stealing/"
   },
   {
-    "topic": "[OC] What makes you smile",
+    "topic": "How it felt the first time you successfully used chopsticks",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6z4pi/oc_what_makes_you_smile/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7blwj/how_it_felt_the_first_time_you_successfully_used/"
+  },
+  {
+    "topic": "The Barbie Fest Situation is Insane",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7hetw/the_barbie_fest_situation_is_insane/"
   },
   {
     "topic": "What the hell has youtube become",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7doj5/saw_this_on_my_ig_feed_why_does_druski_look_like/"
-  },
-  {
-    "topic": "The Barbie Fest Situation is Insane",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7hetw/the_barbie_fest_situation_is_insane/"
   },
   {
     "topic": "copyright system is busted.",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s787hc/fight_the_fomo_ignore_ps5_pro/"
   },
   {
-    "topic": "Crimson Desert Reaches Peak Steam Concurrent Players At 250K+ And Goes From \"Mixed\" To \"Very Positive\" User Rating, Following Recent Patch",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6zizd/crimson_desert_reaches_peak_steam_concurrent/"
-  },
-  {
     "topic": "So i started playing Infinite Warfare today, supposedly one of the best COD campaigns and this is the very first mission. Just wow. Holy shit this game is 10 years old",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s79k7a/so_i_started_playing_infinite_warfare_today/"
   },
   {
+    "topic": "Crimson Desert Reaches Peak Steam Concurrent Players At 250K+ And Goes From \"Mixed\" To \"Very Positive\" User Rating, Following Recent Patch",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s6zizd/crimson_desert_reaches_peak_steam_concurrent/"
+  },
+  {
     "topic": "Destroying A World That Doesn't Exist",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,259,409 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 1,619,609 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NnTycJg1MIo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 524,904 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 575,869 views \u2022 ~720m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rvtjABlczGA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,098 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 274,725 views \u2022 ~552m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DCaqTgh51OY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,390 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 203,595 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wrSR-Cdi3UU"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
   },
   {
@@ -224,39 +224,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WW8GCMDbLz4"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "Sunday Night in America With Trey Gowdy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XlZ4dT3Vg9s"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S18VjMKy0xI"
+  },
+  {
+    "topic": "NCAA March Madness 360",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
+  },
+  {
+    "topic": "Rolling the Dice on Laurel",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pRvk5DAOZ1I"
+  },
+  {
+    "topic": "Gladiator",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RE4tMEvZcCg"
+  },
+  {
+    "topic": "Immigration Crackdown: A Year of Enforcement",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ELA7ovivwlo"
   },
   {
     "topic": "Texas Rangers at Philadelphia Phillies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x57gWZCSlAM"
-  },
-  {
-    "topic": "LIQUI MOLY Pro Watercross National Tour: Orange",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Y3Rry_mXmeg"
   },
   {
     "topic": "The Patriot",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i8Ok3-W35LU"
   },
   {
@@ -264,31 +288,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Bpu4Sc05Yvc"
+  },
+  {
+    "topic": "Savage Paradise",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CaxKjfcDcVo"
   },
   {
     "topic": "Tennessee at Vanderbilt",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rtRAIhyZ76g"
-  },
-  {
-    "topic": "Goodfellas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FScV76cEyaU"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OjeAeoNhiOE"
   }
 ]
