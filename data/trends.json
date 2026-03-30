@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7y8b7/dont_do_that_dont_do_that/"
   },
   {
+    "topic": "In Space, No One Can Hear You Ribbit - XenoKermit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s80cy6/in_space_no_one_can_hear_you_ribbit_xenokermit/"
+  },
+  {
     "topic": "Scratch me, human.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7wisa/scratch_me_human/"
-  },
-  {
-    "topic": "relations",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7by11/relations/"
   },
   {
     "topic": "Finding something to watch while eating",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7hetw/the_barbie_fest_situation_is_insane/"
   },
   {
-    "topic": "What the hell has youtube become",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7fwbu/what_the_hell_has_youtube_become/"
-  },
-  {
     "topic": "FUCKASS YOUTUBE ADS",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7v17f/fuckass_youtube_ads/"
+  },
+  {
+    "topic": "What the hell has youtube become",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7fwbu/what_the_hell_has_youtube_become/"
   },
   {
     "topic": "Trump threatens to \u2018blow up\u2019 all water desalination plants in Iran",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7lfmf/report_spain_closes_airspace_to_us_planes/"
   },
   {
-    "topic": "Nuclear attack on Iran? UN diplomat resigns saying 'giving up my career to leak possible nuke missile strike plan'",
+    "topic": "Iran war tensions reach Paris with failed bombing attempt",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7zaew/nuclear_attack_on_iran_un_diplomat_resigns_saying/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7qkq9/iran_war_tensions_reach_paris_with_failed_bombing/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 735,887 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 864,895 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5MuCyd_i1Dg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 366,971 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 403,911 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c48_uZk262c"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 581,164 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 601,985 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x7wLlK9MMN4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,517 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 121,156 views \u2022 ~243m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Q-mpnZbqGk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FVZJjAYw1Aw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pyGT4ECFhfc"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3zVTqTkb08U"
   }
 ]
