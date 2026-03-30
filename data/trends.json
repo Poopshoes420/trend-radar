@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7by11/relations/"
   },
   {
-    "topic": "Bro got pissed \ud83d\ude42",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7mgsv/bro_got_pissed/"
-  },
-  {
     "topic": "Stealing",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6xy24/stealing/"
+  },
+  {
+    "topic": "[OC] What makes you smile",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s6z4pi/oc_what_makes_you_smile/"
   },
   {
     "topic": "The Barbie Fest Situation is Insane",
@@ -72,22 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7lgs7/who_tf_watches_these_ai_dogshit_ass_slop/"
   },
   {
-    "topic": "Where do you think the line of \"AI-generated content\" lies?",
+    "topic": "Finding something to watch while eating",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s6vauy/where_do_you_think_the_line_of_aigenerated/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7n5kc/finding_something_to_watch_while_eating/"
   },
   {
-    "topic": "Saw this on my IG feed. Why does Druski look like Trisha Paytas lol",
+    "topic": "Have you ever seen a youtuber so incredibly bad and then you saw one of his videos only to realize that it's fake?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7doj5/saw_this_on_my_ig_feed_why_does_druski_look_like/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7okt1/have_you_ever_seen_a_youtuber_so_incredibly_bad/"
   },
   {
     "topic": "Report: Spain Closes Airspace to US Planes Involved in Iran War",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7d530/trump_reportedly_warns_to_take_the_oil_in_iran_as/"
   },
   {
-    "topic": "Booby-Trapped Insoles Allegedly Reached Russian Troops",
+    "topic": "Oil tops $116 a barrel as Iran accuses US of preparing invasion",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7b0z1/boobytrapped_insoles_allegedly_reached_russian/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7giv6/oil_tops_116_a_barrel_as_iran_accuses_us_of/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s74jtq/playstation_console_prices_at_launch_vs_6_years/"
   },
   {
-    "topic": "Fight the FOMO, ignore PS5 Pro",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s787hc/fight_the_fomo_ignore_ps5_pro/"
-  },
-  {
     "topic": "This game was a blast",
     "sources": [
       "reddit"
@@ -171,36 +162,37 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7lc78/this_game_was_a_blast/"
   },
   {
-    "topic": "So i started playing Infinite Warfare today, supposedly one of the best COD campaigns and this is the very first mission. Just wow. Holy shit this game is 10 years old",
+    "topic": "Fight the FOMO, ignore PS5 Pro",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s79k7a/so_i_started_playing_infinite_warfare_today/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s787hc/fight_the_fomo_ignore_ps5_pro/"
   },
   {
-    "topic": "Destroying A World That Doesn't Exist",
+    "topic": "Pre-Order Bonuses are not \u201cTokens of Appreciation\u201d, they are Manipulative Tactics and I\u2019m shocked a lot of people still don\u2019t see that",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7o6yr/preorder_bonuses_are_not_tokens_of_appreciation/"
+  },
+  {
+    "topic": "Minecraft Speedrunner VS 6 Hunters REMATCH",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,984,876 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NnTycJg1MIo"
-  },
-  {
-    "topic": "GTA5 - Car Roulette Returns and Wildcat Isn't Straight",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 305,232 views \u2022 ~676m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DCaqTgh51OY"
+    "why": "Trending on YouTube \u2022 1,815,782 views \u2022 ~562m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=10OJhIc_-vw"
   },
   {
     "topic": "Cook Out 400",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
   },
   {
@@ -208,23 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WW8GCMDbLz4"
+  },
+  {
+    "topic": "Columbus Aviators at Orlando Storm",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FVZJjAYw1Aw"
   },
   {
     "topic": "One Nation With Brian Kilmeade",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TwSJNO01PWc"
+  },
+  {
+    "topic": "The Super 16 Show Out",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pyGT4ECFhfc"
   },
   {
     "topic": "Mile High Club",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
   },
   {
@@ -232,23 +240,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
+  },
+  {
+    "topic": "Cleveland Guardians at Seattle Mariners",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3zVTqTkb08U"
   },
   {
     "topic": "Betting on the Neighborhood",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uuKMY2wTyR8"
+  },
+  {
+    "topic": "West Virginia at Arizona State",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pXqqAMVqFHc"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d86NJefd4Ng"
   },
   {
@@ -256,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7KBfM6g_L4c"
   },
   {
@@ -264,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RE4tMEvZcCg"
   },
   {
@@ -272,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~232m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ELA7ovivwlo"
   },
   {
@@ -280,23 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x57gWZCSlAM"
-  },
-  {
-    "topic": "Jumanji: The Next Level",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hAeZaDIi9Ko"
-  },
-  {
-    "topic": "The Patriot",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~330m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=i8Ok3-W35LU"
   }
 ]
