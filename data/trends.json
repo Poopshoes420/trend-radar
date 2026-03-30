@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s804fr/why_am_i_getting_ads_on_youtube_premium/"
   },
   {
-    "topic": "Finding something to watch while eating",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7n5kc/finding_something_to_watch_while_eating/"
-  },
-  {
     "topic": "WTF YouTube?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7wjgy/wtf_youtube/"
+  },
+  {
+    "topic": "Finding something to watch while eating",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7n5kc/finding_something_to_watch_while_eating/"
   },
   {
     "topic": "Have you ever seen a youtuber so incredibly bad and then you saw one of his videos only to realize that it's fake?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,237,288 views \u2022 ~499m old",
+    "why": "Trending on YouTube \u2022 1,285,906 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5MuCyd_i1Dg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 207,638 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 219,604 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Q-mpnZbqGk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,959 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 43,145 views \u2022 ~138m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WdBWisJn26g"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,330 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 109,294 views \u2022 ~465m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jAsxf1gaxGs"
-  },
-  {
-    "topic": "Euphoria Season 3 | Official Trailer 2 | HBO Max",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 59,260 views \u2022 ~376m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xKxK3ODi6is"
   },
   {
     "topic": "Swedish House Mafia Live at Ultra Music Festival (Miami 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,109 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 67,547 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=byHTUyYS7bA"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,142 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 48,578 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pNbMYwBnRsI"
   },
   {
@@ -240,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,812 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 47,046 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rlH0Q-nQ4w8"
+  },
+  {
+    "topic": "Euphoria Season 3 Trailer 2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 20,673 views \u2022 ~370m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UDSmVJYggqs"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D-3cum_Gqv8"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Pe7zmsr4IG8"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U_4HS9EOmhM"
   }
 ]
