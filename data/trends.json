@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Don't do that don't do that!!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7y8b7/dont_do_that_dont_do_that/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Don't do that don't do that!!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7y8b7/dont_do_that_dont_do_that/"
   },
   {
     "topic": "Got her good.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7okt1/have_you_ever_seen_a_youtuber_so_incredibly_bad/"
   },
   {
-    "topic": "FUCKASS YOUTUBE ADS",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7v17f/fuckass_youtube_ads/"
-  },
-  {
     "topic": "WTF YouTube?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7wjgy/wtf_youtube/"
+  },
+  {
+    "topic": "FUCKASS YOUTUBE ADS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7v17f/fuckass_youtube_ads/"
   },
   {
     "topic": "Trump threatens to \u2018blow up\u2019 all water desalination plants in Iran",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7lfmf/report_spain_closes_airspace_to_us_planes/"
   },
   {
-    "topic": "Iran recruits 12-year-olds to \u2018defend homeland\u2019",
+    "topic": "US May \u2018Reexamine\u2019 NATO\u2019s Merit After Iran War Snub, Rubio Says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7uph7/iran_recruits_12yearolds_to_defend_homeland/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s82hvv/us_may_reexamine_natos_merit_after_iran_war_snub/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,100,822 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 1,170,129 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5MuCyd_i1Dg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 475,968 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 500,163 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c48_uZk262c"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,511 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 190,284 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Q-mpnZbqGk"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,582 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 89,107 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jAsxf1gaxGs"
+  },
+  {
+    "topic": "Swedish House Mafia Live at Ultra Music Festival (Miami 2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,543 views \u2022 ~351m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=byHTUyYS7bA"
   },
   {
     "topic": "Euphoria Season 3 | Official Trailer 2 | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,653 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 49,857 views \u2022 ~332m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xKxK3ODi6is"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,290 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 42,493 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pNbMYwBnRsI"
   },
   {
@@ -232,23 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,946 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 41,187 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rlH0Q-nQ4w8"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=D-3cum_Gqv8"
   },
   {
-    "topic": "Columbus Aviators at Orlando Storm",
+    "topic": "Get Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FVZJjAYw1Aw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=U_4HS9EOmhM"
   }
 ]
