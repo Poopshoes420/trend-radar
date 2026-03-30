@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7sodv/got_her_good/"
   },
   {
+    "topic": "Scratch me, human.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7wisa/scratch_me_human/"
+  },
+  {
     "topic": "relations",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7pgq0/an_average_day_at_nyc/"
   },
   {
-    "topic": "Wwe jerry vs jerry",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7uq7h/wwe_jerry_vs_jerry/"
-  },
-  {
     "topic": "Finding something to watch while eating",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7n5kc/finding_something_to_watch_while_eating/"
-  },
-  {
-    "topic": "The Barbie Fest Situation is Insane",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7hetw/the_barbie_fest_situation_is_insane/"
   },
   {
     "topic": "Have you ever seen a youtuber so incredibly bad and then you saw one of his videos only to realize that it's fake?",
@@ -72,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7okt1/have_you_ever_seen_a_youtuber_so_incredibly_bad/"
   },
   {
+    "topic": "The Barbie Fest Situation is Insane",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7hetw/the_barbie_fest_situation_is_insane/"
+  },
+  {
     "topic": "What the hell has youtube become",
     "sources": [
       "reddit"
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7fwbu/what_the_hell_has_youtube_become/"
   },
   {
-    "topic": "Yt studio not working again?",
+    "topic": "FUCKASS YOUTUBE ADS",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7qh80/yt_studio_not_working_again/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7v17f/fuckass_youtube_ads/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1495, Part 1 (Thread #1642)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7qkq9/iran_war_tensions_reach_paris_with_failed_bombing/"
   },
   {
-    "topic": "Trump issues new threat to Iran's civilian infrastructure if a ceasefire isn't reached 'shortly'",
+    "topic": "Air Canada CEO will retire this year after his English-only crash message was criticized",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7omz2/trump_issues_new_threat_to_irans_civilian/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s7sbai/air_canada_ceo_will_retire_this_year_after_his/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7lc78/this_game_was_a_blast/"
   },
   {
+    "topic": "TV Royale | Evo Minion Horde, Hero Balloon, Festival Market and MORE!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 498,294 views \u2022 ~183m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5MuCyd_i1Dg"
+  },
+  {
     "topic": "Epic Games just fired everyone..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 243,851 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 297,416 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c48_uZk262c"
   },
   {
@@ -192,39 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 480,441 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 531,518 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x7wLlK9MMN4"
   },
   {
-    "topic": "Cook Out 400",
+    "topic": "Supergirl | Trailer Tomorrow",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~664m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eRTxNs0eyHI"
+    "why": "Trending on YouTube \u2022 58,548 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1Q-mpnZbqGk"
+  },
+  {
+    "topic": "FOX and Friends",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~26m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=o4K7dKY4gQY"
   },
   {
     "topic": "Columbus Aviators at Orlando Storm",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FVZJjAYw1Aw"
-  },
-  {
-    "topic": "One Nation With Brian Kilmeade",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~448m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TwSJNO01PWc"
   },
   {
     "topic": "The Super 16 Show Out",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pyGT4ECFhfc"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xg3PAPVVy-A"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PRcc7ccdbGk"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3zVTqTkb08U"
   },
   {
@@ -256,23 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~514m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uuKMY2wTyR8"
-  },
-  {
-    "topic": "West Virginia at Arizona State",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pXqqAMVqFHc"
-  },
-  {
-    "topic": "The Weekend: Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~428m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=d86NJefd4Ng"
   }
 ]
