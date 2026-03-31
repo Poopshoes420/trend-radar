@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "1 vs All!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8e8r3/1_vs_all/"
-  },
-  {
     "topic": "Don't do that don't do that!!",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s81ar0/rockin_the_onewheel_lawnchair_gt_with_the_heely/"
+  },
+  {
+    "topic": "Got her good.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s7sodv/got_her_good/"
   },
   {
     "topic": "Why am I getting ads on YouTube Premium?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8caue/the_united_states_has_struck_a_major_ammunition/"
   },
   {
-    "topic": "Iran's strike wounded over a dozen U.S. personnel and hit valuable jets in Saudi Arabia",
+    "topic": "Italy Denies US Aircraft Access to Military Base, Corriere Says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s882oy/irans_strike_wounded_over_a_dozen_us_personnel/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8hq5u/italy_denies_us_aircraft_access_to_military_base/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7tot6/liveaction_tomb_raider_production_paused_for_at/"
   },
   {
-    "topic": "\u2018Fallout\u2019 Season 2 Reaches 83 Million Viewers Worldwide, Amazon Says - The audience trails only season two of \u2018Reacher\u2019 among returning series on Prime Video.",
+    "topic": "We are getting three games inspired by Mass Effect!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s89df2/fallout_season_2_reaches_83_million_viewers/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s88v9n/we_are_getting_three_games_inspired_by_mass_effect/"
   },
   {
     "topic": "\ud83d\udd34LIVE | Counter Strike 2 w/ Summit & Gingy | MANY MEN MONDAY | #Shart3TimesInMyFridge #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 553,847 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 590,954 views \u2022 ~127m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B9gua4TzSlo"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 688,514 views \u2022 ~619m old",
+    "why": "Trending on YouTube \u2022 731,496 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NLraiCzvtks"
-  },
-  {
-    "topic": "The Most Frustrating Game We've Played This Year",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 614,049 views \u2022 ~676m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zSsTR-vu5ZE"
   },
   {
     "topic": "Santa Fe Klan - Velorios (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,903 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 187,780 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UOhb3Tk2QKU"
   },
   {
@@ -216,23 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 195,094 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 207,451 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZF4hMbCl-As"
   },
   {
-    "topic": "Avengers Doomsday X-Men Trailer Wolverine Breakdown",
+    "topic": "NCAAW Elite Eight: Michigan vs. Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 198,546 views \u2022 ~668m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WdBWisJn26g"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yNyyhDsgzDA"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=io6hnl-RXJU"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iqkg-iZwnbg"
   },
   {
@@ -248,15 +240,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mIFv_NpuTeg"
   },
   {
-    "topic": "NCAA Women's Championship Live",
+    "topic": "The Act of Being Sus",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OldENUhAkvk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xCOaPINEXqg"
+  },
+  {
+    "topic": "The Middle Earth Paradigm",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p2q4ik12FTs"
+  },
+  {
+    "topic": "The Pastry Shop",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TaSlkzlLOtw"
+  },
+  {
+    "topic": "The Proposal",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bWOMMkyNBdQ"
   }
 ]
