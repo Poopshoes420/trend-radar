@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8mw4p/youtube_alternative/"
   },
   {
-    "topic": "I hate when YouTube compresses my video to look bad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8l18s/i_hate_when_youtube_compresses_my_video_to_look/"
-  },
-  {
     "topic": "i found this channel while looking for a video its disturbing",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8sgfa/i_found_this_channel_while_looking_for_a_video/"
+  },
+  {
+    "topic": "I hate when YouTube compresses my video to look bad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8l18s/i_hate_when_youtube_compresses_my_video_to_look/"
   },
   {
     "topic": "New clickbait title:\" \"",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8d08b/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #11)",
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #12)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
     "topic": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7idur/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Use your libraries",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s90arp/use_your_libraries/"
+  },
+  {
     "topic": "French consumer group sues Ubisoft over shutdown of online game 'The Crew'",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8m8y1/warhorse_rumored_to_be_making_an_open_world_lord/"
   },
   {
-    "topic": "Mario & Sonic at the Olympic Games Tokyo 2020 delisted from the Switch eShop",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8vh24/mario_sonic_at_the_olympic_games_tokyo_2020/"
-  },
-  {
     "topic": "SUPERGIRL | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,788,246 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 2,383,033 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,781,971 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 2,365,755 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HjdiohVOik"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,123,867 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 2,272,788 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_UAV5Ckr-g"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,079,211 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 2,496,980 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X21JsHLHnY8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,589,012 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 2,703,836 views \u2022 ~653m old",
     "exampleUrl": "https://www.youtube.com/watch?v=om6HdemgTKQ"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,476 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 69,271 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cEIcAoHNmCg"
   },
   {
@@ -232,63 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,276 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 44,766 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UNgiDXixSWU"
-  },
-  {
-    "topic": "Noah Kahan: Out of Body | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 35,711 views \u2022 ~395m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=t5kPeQqA-XY"
   },
   {
     "topic": "Supergirl Trailer 2 REACTION - 2026 Milly Alcock, DC Studios",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,111 views \u2022 ~250m old",
+    "why": "Trending on YouTube \u2022 27,060 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FFTGTmJfbQk"
   },
   {
-    "topic": "NCAAW Elite Eight: TCU vs. South Carolina",
+    "topic": "Noah Kahan: Out of Body | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WGbKeq3bkT8"
-  },
-  {
-    "topic": "Pittsburgh Pirates at Cincinnati Reds",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~676m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eozHbrLm9T4"
+    "why": "Trending on YouTube \u2022 39,778 views \u2022 ~443m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=t5kPeQqA-XY"
   },
   {
     "topic": "Detroit Pistons at Oklahoma City Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
-  },
-  {
-    "topic": "The Rachel Maddow Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=T_uhkwbYTNY"
   },
   {
     "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C8s9kpERk-s"
   },
   {
@@ -296,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~496m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FvTtsPQOhyQ"
   }
 ]
