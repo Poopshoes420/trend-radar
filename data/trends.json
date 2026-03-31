@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8l18s/i_hate_when_youtube_compresses_my_video_to_look/"
   },
   {
-    "topic": "New clickbait title:\" \"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8novo/new_clickbait_title/"
-  },
-  {
     "topic": "i found this channel while looking for a video its disturbing",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8sgfa/i_found_this_channel_while_looking_for_a_video/"
   },
   {
-    "topic": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
+    "topic": "New clickbait title:\" \"",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8mtmu/go_get_your_own_oil_trumps_message_to_uk_other/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8novo/new_clickbait_title/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1496, Part 1 (Thread #1643)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8mtmu/go_get_your_own_oil_trumps_message_to_uk_other/"
   },
   {
     "topic": "Trump warns UK \u2018US won\u2019t be there to help you anymore\u2019 in extraordinary tirade over Iran war backing",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8be40/remember_when_mastercard_pressured_steam_to/"
   },
   {
-    "topic": "Warhorse rumored to be making an open world lord of the rings game",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8m8y1/warhorse_rumored_to_be_making_an_open_world_lord/"
-  },
-  {
     "topic": "French consumer group sues Ubisoft over shutdown of online game 'The Crew'",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8qpbp/french_consumer_group_sues_ubisoft_over_shutdown/"
+  },
+  {
+    "topic": "Warhorse rumored to be making an open world lord of the rings game",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8m8y1/warhorse_rumored_to_be_making_an_open_world_lord/"
   },
   {
     "topic": "Mario & Sonic at the Olympic Games Tokyo 2020 delisted from the Switch eShop",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,883,165 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 2,050,704 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_UAV5Ckr-g"
   },
   {
@@ -192,39 +192,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,270,438 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 1,622,729 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
-  },
-  {
-    "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'SWIM' Live Clip II. (Swimming Pool ver.)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,397,639 views \u2022 ~521m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=om6HdemgTKQ"
   },
   {
     "topic": "Backrooms | Official Trailer HD | A24",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 982,256 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 1,528,173 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HjdiohVOik"
+  },
+  {
+    "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'SWIM' Live Clip II. (Swimming Pool ver.)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 2,531,594 views \u2022 ~566m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=om6HdemgTKQ"
   },
   {
     "topic": "Masters of The Universe \u2013 Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,270,184 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 1,827,466 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X21JsHLHnY8"
+  },
+  {
+    "topic": "Honest Trailers | Cast Away",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 47,800 views \u2022 ~206m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cEIcAoHNmCg"
   },
   {
     "topic": "SUPERGIRL OFFICIAL TRAILER REACTION!! Trailer 2 | Jason Momoa Lobo | Superman | DC Studios",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,584 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 33,970 views \u2022 ~255m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UNgiDXixSWU"
   },
   {
@@ -232,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,113 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 33,357 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t5kPeQqA-XY"
+  },
+  {
+    "topic": "Supergirl Trailer 2 REACTION - 2026 Milly Alcock, DC Studios",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 19,301 views \u2022 ~212m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FFTGTmJfbQk"
   },
   {
     "topic": "NCAAW Elite Eight: TCU vs. South Carolina",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~612m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WGbKeq3bkT8"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eozHbrLm9T4"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
   },
   {
@@ -264,23 +280,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=T_uhkwbYTNY"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=C8s9kpERk-s"
   },
   {
     "topic": "Chicago Bulls at San Antonio Spurs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FvTtsPQOhyQ"
-  },
-  {
-    "topic": "Till Chaos Do Us Part",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~651m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9avh2vrKLyI"
   }
 ]
