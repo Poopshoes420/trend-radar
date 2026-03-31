@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s81ar0/rockin_the_onewheel_lawnchair_gt_with_the_heely/"
   },
   {
-    "topic": "Couldn't agree more",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8ct74/couldnt_agree_more/"
-  },
-  {
     "topic": "Why am I getting ads on YouTube Premium?",
     "sources": [
       "reddit"
@@ -90,6 +81,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s7n5kc/finding_something_to_watch_while_eating/"
   },
   {
+    "topic": "Comment section",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s80uju/comment_section/"
+  },
+  {
     "topic": "White House: Reopening Strait of Hormuz Not Vital to Ending Iran War",
     "sources": [
       "reddit"
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s402bg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran's strike wounded over a dozen U.S. personnel and hit valuable jets in Saudi Arabia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s882oy/irans_strike_wounded_over_a_dozen_us_personnel/"
-  },
-  {
     "topic": "The United States has struck a major ammunition depot in the Iranian city of Isfahan using 2,000-pound bunker-buster bombs",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8caue/the_united_states_has_struck_a_major_ammunition/"
+  },
+  {
+    "topic": "Iran's strike wounded over a dozen U.S. personnel and hit valuable jets in Saudi Arabia",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s882oy/irans_strike_wounded_over_a_dozen_us_personnel/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s89df2/fallout_season_2_reaches_83_million_viewers/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | Counter Strike 2 w/ Summit & Gingy | MANY MEN MONDAY | #Shart3TimesInMyFridge #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 553,847 views \u2022 ~63m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=B9gua4TzSlo"
+  },
+  {
     "topic": "This is the funniest video I\u2019ve watched in a long time",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 648,692 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 688,514 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NLraiCzvtks"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 577,745 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 614,049 views \u2022 ~676m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zSsTR-vu5ZE"
   },
   {
@@ -200,47 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,491 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 173,903 views \u2022 ~404m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UOhb3Tk2QKU"
-  },
-  {
-    "topic": "Avengers Doomsday X-Men Trailer Wolverine Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 190,110 views \u2022 ~613m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WdBWisJn26g"
   },
   {
     "topic": "Something Terrible Happened On This Home Video\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 181,641 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 195,094 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZF4hMbCl-As"
   },
   {
-    "topic": "Stuck In A Haunted Attic With No Way Out\u2026",
+    "topic": "Avengers Doomsday X-Men Trailer Wolverine Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,104 views \u2022 ~560m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YRME_XRdCsE"
+    "why": "Trending on YouTube \u2022 198,546 views \u2022 ~668m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WdBWisJn26g"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-rXoHPFsfRw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=io6hnl-RXJU"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~47m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iqkg-iZwnbg"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mIFv_NpuTeg"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OldENUhAkvk"
   }
 ]
