@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
   },
   {
-    "topic": "YouTube alternative?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8mw4p/youtube_alternative/"
-  },
-  {
     "topic": "I hate when YouTube compresses my video to look bad",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8l18s/i_hate_when_youtube_compresses_my_video_to_look/"
   },
   {
-    "topic": "i found this channel while looking for a video its disturbing",
+    "topic": "YouTube alternative?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8sgfa/i_found_this_channel_while_looking_for_a_video/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8mw4p/youtube_alternative/"
   },
   {
     "topic": "New clickbait title:\" \"",
@@ -88,6 +79,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8novo/new_clickbait_title/"
+  },
+  {
+    "topic": "Youtube in 2026 be like:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8xgkg/youtube_in_2026_be_like/"
+  },
+  {
+    "topic": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8zkcx/us_deploys_third_aircraft_carrier_to_middle_east/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1496, Part 1 (Thread #1643)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8zkcx/us_deploys_third_aircraft_carrier_to_middle_east/"
   },
   {
     "topic": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s90arp/use_your_libraries/"
   },
   {
+    "topic": "Gamers 30+, what\u2019s something from the old days of gaming that younger players wouldn\u2019t understand?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s92nm7/gamers_30_whats_something_from_the_old_days_of/"
+  },
+  {
     "topic": "French consumer group sues Ubisoft over shutdown of online game 'The Crew'",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8vh24/mario_sonic_at_the_olympic_games_tokyo_2020/"
   },
   {
-    "topic": "Remember when Mastercard pressured Steam to remove a bunch of NSFW games? The FTC says that's not cool\u2014sort of",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8be40/remember_when_mastercard_pressured_steam_to/"
-  },
-  {
     "topic": "Backrooms | Official Trailer HD | A24",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,947,854 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 3,253,914 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0HjdiohVOik"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,922,260 views \u2022 ~423m old",
+    "why": "Trending on YouTube \u2022 3,163,910 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,359,859 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 3,820,873 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X21JsHLHnY8"
   },
   {
@@ -208,23 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,422,243 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 2,511,713 views \u2022 ~527m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_UAV5Ckr-g"
   },
   {
-    "topic": "Valve did it again..",
+    "topic": "Hermitcraft 11: Episode 14 - BAD BASE TOUR!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 349,402 views \u2022 ~275m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=y-1T_1UoXx0"
+    "why": "Trending on YouTube \u2022 244,370 views \u2022 ~287m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UUls1w6Vslw"
+  },
+  {
+    "topic": "Cape Fear \u2014 Official Teaser | Apple TV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 164,188 views \u2022 ~647m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dSnichjB3-o"
   },
   {
     "topic": "Honest Trailers | Cast Away",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,995 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 99,236 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cEIcAoHNmCg"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,334 views \u2022 ~204m old",
+    "why": "Trending on YouTube \u2022 50,204 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OFkSWNl909c"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,603 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 42,122 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WXWJtRMcVno"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,340 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 53,204 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UNgiDXixSWU"
   },
   {
@@ -256,23 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,476 views \u2022 ~273m old",
+    "why": "Trending on YouTube \u2022 32,341 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5lxuZ6a0G5c"
-  },
-  {
-    "topic": "Noah Kahan: Out of Body | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 45,025 views \u2022 ~513m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=t5kPeQqA-XY"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v_F_TNjimV4"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~510m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
   },
   {
@@ -288,15 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zHl1UbwdtUU"
   },
   {
-    "topic": "Squawk Box",
+    "topic": "Squawk on the Street",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KZ02mazBHTQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gXVaz8UXAP4"
   }
 ]
