@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Harry Potter dance-off with young Severus Snape",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8ljjw/harry_potter_danceoff_with_young_severus_snape/"
-  },
-  {
     "topic": "Seen in foodcourt, tech bro's invented plates",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s98z8w/seen_in_foodcourt_tech_bros_invented_plates/"
   },
   {
-    "topic": "Found it funny",
+    "topic": "Come and fight me buddy!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8nrqx/found_it_funny/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9c0vj/come_and_fight_me_buddy/"
+  },
+  {
+    "topic": "Harry Potter dance-off with young Severus Snape",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8ljjw/harry_potter_danceoff_with_young_severus_snape/"
   },
   {
     "topic": "How many YouTubers are going to be \"quitting\" tomorrow",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
   },
   {
+    "topic": "How is a channel like this allowed to exist on a supposedly anti racist platform such as YouTube???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s97rhj/how_is_a_channel_like_this_allowed_to_exist_on_a/"
+  },
+  {
     "topic": "Kid friendly content.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s933qs/ok_youtube_pls_stop_selling_my_personal/"
-  },
-  {
-    "topic": "Godly pull yalls",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8z9sm/godly_pull_yalls/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1497, Part 1 (Thread #1644)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8zkcx/us_deploys_third_aircraft_carrier_to_middle_east/"
   },
   {
-    "topic": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8xmc4/iran_threatens_to_attack_us_tech_companies/"
-  },
-  {
     "topic": "UAE \u2018willing to join\u2019 fight, help US, allies force open Strait of Hormuz",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s97m41/uae_willing_to_join_fight_help_us_allies_force/"
+  },
+  {
+    "topic": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8xmc4/iran_threatens_to_attack_us_tech_companies/"
   },
   {
     "topic": "A moment of appreciation for Lili Reinhart\u2019s shirt collection",
@@ -180,83 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s92nm7/gamers_30_whats_something_from_the_old_days_of/"
   },
   {
-    "topic": "Hermitcraft 11: Episode 14 - BAD BASE TOUR!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 486,907 views \u2022 ~669m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UUls1w6Vslw"
-  },
-  {
-    "topic": "ROBLOX BIKE OBBY FOR BRAINROTS..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 445,282 views \u2022 ~674m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4X-zE4YcSKM"
-  },
-  {
-    "topic": "SUPERGIRL TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 120,758 views \u2022 ~630m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OFkSWNl909c"
-  },
-  {
     "topic": "The Backrooms FULL Movie Trailer ANALYSIS & BREAKDOWN",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,793 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 104,981 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_Oe2F3WmDs"
-  },
-  {
-    "topic": "SUPERGIRL SUPERMAN TRAILER",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 89,939 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WXWJtRMcVno"
-  },
-  {
-    "topic": "FullyChop - Gone Bye (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 63,432 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5lxuZ6a0G5c"
   },
   {
     "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Kjz4Hcd0DA"
   },
   {
-    "topic": "The Beat With Ari Melber",
+    "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~47m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=23N3OOmHBd8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ek7Hpilwo0s"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "Erin Burnett OutFront",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=opmAiVv6oUg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~42m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UYTyUzXSDDY"
   },
   {
-    "topic": "Bosnia and Herzegovina vs. Italy",
+    "topic": "Congo DR vs. Jamaica",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Z_-GuLLqoGA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IvhDsaFpoXg"
+  },
+  {
+    "topic": "The Griffin Equivalency",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8cOLTwdOQaw"
   }
 ]
