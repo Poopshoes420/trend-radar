@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Be someones inspiration",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9674v/be_someones_inspiration/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8nrqx/found_it_funny/"
   },
   {
-    "topic": "Apparently we brought home a hairy seal, not a golden retriever.",
+    "topic": "Seen in foodcourt, tech bro's invented plates",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s89psb/apparently_we_brought_home_a_hairy_seal_not_a/"
-  },
-  {
-    "topic": "She hasn't seen the Titanic",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8usp9/she_hasnt_seen_the_titanic/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s98z8w/seen_in_foodcourt_tech_bros_invented_plates/"
   },
   {
     "topic": "It can be a bit controversial but why some youtubers do this? What's the point?",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
   },
   {
+    "topic": "How many YouTubers are going to be \"quitting\" tomorrow",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s96b0z/how_many_youtubers_are_going_to_be_quitting/"
+  },
+  {
     "topic": "Kid friendly content.",
     "sources": [
       "reddit"
@@ -61,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s93p0e/kid_friendly_content/"
+  },
+  {
+    "topic": "OK YouTube, pls stop selling my personal information",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s933qs/ok_youtube_pls_stop_selling_my_personal/"
   },
   {
     "topic": "I hate when YouTube compresses my video to look bad",
@@ -72,40 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8l18s/i_hate_when_youtube_compresses_my_video_to_look/"
   },
   {
-    "topic": "YouTube alternative?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8mw4p/youtube_alternative/"
-  },
-  {
-    "topic": "Godly pull yalls",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8z9sm/godly_pull_yalls/"
-  },
-  {
-    "topic": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1497, Part 1 (Thread #1644)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8zkcx/us_deploys_third_aircraft_carrier_to_middle_east/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1496, Part 1 (Thread #1643)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8d08b/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s99xr3/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #12)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8zkcx/us_deploys_third_aircraft_carrier_to_middle_east/"
   },
   {
     "topic": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
@@ -162,53 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s92nm7/gamers_30_whats_something_from_the_old_days_of/"
   },
   {
-    "topic": "Mario & Sonic at the Olympic Games Tokyo 2020 delisted from the Switch eShop",
+    "topic": "Of the stuff I've made in Opus magnum, this is my favorite.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8vh24/mario_sonic_at_the_olympic_games_tokyo_2020/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s97yd6/of_the_stuff_ive_made_in_opus_magnum_this_is_my/"
   },
   {
-    "topic": "French consumer group sues Ubisoft over shutdown of online game 'The Crew'",
+    "topic": "Japanese government resorts to making otome game parody video to teach people about bicycle safety",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8qpbp/french_consumer_group_sues_ubisoft_over_shutdown/"
-  },
-  {
-    "topic": "SUPERGIRL | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,704,343 views \u2022 ~550m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
-  },
-  {
-    "topic": "Backrooms | Official Trailer HD | A24",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,680,488 views \u2022 ~551m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0HjdiohVOik"
-  },
-  {
-    "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) '2.0' Official Teaser",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,657,367 views \u2022 ~610m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=O_UAV5Ckr-g"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9495c/japanese_government_resorts_to_making_otome_game/"
   },
   {
     "topic": "Valve did it again..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 470,924 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 586,297 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y-1T_1UoXx0"
   },
   {
@@ -216,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 309,038 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 433,925 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UUls1w6Vslw"
   },
   {
-    "topic": "Honest Trailers | Cast Away",
+    "topic": "ROBLOX BIKE OBBY FOR BRAINROTS..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,062 views \u2022 ~490m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cEIcAoHNmCg"
+    "why": "Trending on YouTube \u2022 389,585 views \u2022 ~566m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4X-zE4YcSKM"
   },
   {
     "topic": "SUPERGIRL TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,240 views \u2022 ~331m old",
+    "why": "Trending on YouTube \u2022 104,547 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OFkSWNl909c"
   },
   {
@@ -240,55 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,461 views \u2022 ~398m old",
+    "why": "Trending on YouTube \u2022 79,655 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WXWJtRMcVno"
-  },
-  {
-    "topic": "SUPERGIRL OFFICIAL TRAILER REACTION!! Trailer 2 | Jason Momoa Lobo | Superman | DC Studios",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 57,286 views \u2022 ~539m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UNgiDXixSWU"
   },
   {
     "topic": "FullyChop - Gone Bye (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,403 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 56,655 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5lxuZ6a0G5c"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v_F_TNjimV4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ekBM-ByoZq0"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VQmmfATH80g"
-  },
-  {
-    "topic": "Detroit Pistons at Oklahoma City Thunder",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
-  },
-  {
-    "topic": "Inside Politics With Dana Bash",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ui4as4glyS8"
   }
 ]
