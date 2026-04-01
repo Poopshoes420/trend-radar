@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
   },
   {
+    "topic": "Kid friendly content.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s93p0e/kid_friendly_content/"
+  },
+  {
     "topic": "I hate when YouTube compresses my video to look bad",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8mw4p/youtube_alternative/"
   },
   {
-    "topic": "New clickbait title:\" \"",
+    "topic": "Godly pull yalls",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8novo/new_clickbait_title/"
-  },
-  {
-    "topic": "Youtube in 2026 be like:",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8xgkg/youtube_in_2026_be_like/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8z9sm/godly_pull_yalls/"
   },
   {
     "topic": "US deploys third aircraft carrier to Middle East amid preperations for Iran invasion",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8xmc4/iran_threatens_to_attack_us_tech_companies/"
+  },
+  {
     "topic": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8mtmu/go_get_your_own_oil_trumps_message_to_uk_other/"
-  },
-  {
-    "topic": "Trump warns UK \u2018US won\u2019t be there to help you anymore\u2019 in extraordinary tirade over Iran war backing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8lnr7/trump_warns_uk_us_wont_be_there_to_help_you/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s92nm7/gamers_30_whats_something_from_the_old_days_of/"
   },
   {
-    "topic": "French consumer group sues Ubisoft over shutdown of online game 'The Crew'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8qpbp/french_consumer_group_sues_ubisoft_over_shutdown/"
-  },
-  {
     "topic": "Mario & Sonic at the Olympic Games Tokyo 2020 delisted from the Switch eShop",
     "sources": [
       "reddit"
@@ -180,59 +171,60 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8vh24/mario_sonic_at_the_olympic_games_tokyo_2020/"
   },
   {
-    "topic": "Backrooms | Official Trailer HD | A24",
+    "topic": "French consumer group sues Ubisoft over shutdown of online game 'The Crew'",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 3,253,914 views \u2022 ~468m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0HjdiohVOik"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s8qpbp/french_consumer_group_sues_ubisoft_over_shutdown/"
   },
   {
     "topic": "SUPERGIRL | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,163,910 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 3,704,343 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s1-pfiVMKAs"
   },
   {
-    "topic": "Masters of The Universe \u2013 Official Trailer",
+    "topic": "Backrooms | Official Trailer HD | A24",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,820,873 views \u2022 ~647m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X21JsHLHnY8"
+    "why": "Trending on YouTube \u2022 3,680,488 views \u2022 ~551m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0HjdiohVOik"
   },
   {
     "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) '2.0' Official Teaser",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,511,713 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 2,657,367 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_UAV5Ckr-g"
+  },
+  {
+    "topic": "Valve did it again..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 470,924 views \u2022 ~402m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=y-1T_1UoXx0"
   },
   {
     "topic": "Hermitcraft 11: Episode 14 - BAD BASE TOUR!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,370 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 309,038 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UUls1w6Vslw"
-  },
-  {
-    "topic": "Cape Fear \u2014 Official Teaser | Apple TV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 164,188 views \u2022 ~647m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dSnichjB3-o"
   },
   {
     "topic": "Honest Trailers | Cast Away",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,236 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 117,062 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cEIcAoHNmCg"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,204 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 67,240 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OFkSWNl909c"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,122 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 54,461 views \u2022 ~398m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WXWJtRMcVno"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,204 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 57,286 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UNgiDXixSWU"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,341 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 40,403 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5lxuZ6a0G5c"
   },
   {
@@ -272,31 +264,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v_F_TNjimV4"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VQmmfATH80g"
   },
   {
     "topic": "Detroit Pistons at Oklahoma City Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t-M8qiGgqlA"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "Inside Politics With Dana Bash",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zHl1UbwdtUU"
-  },
-  {
-    "topic": "Squawk on the Street",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gXVaz8UXAP4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ui4as4glyS8"
   }
 ]
