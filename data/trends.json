@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s96b0z/how_many_youtubers_are_going_to_be_quitting/"
   },
   {
-    "topic": "It can be a bit controversial but why some youtubers do this? What's the point?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
-  },
-  {
     "topic": "How is a channel like this allowed to exist on a supposedly anti racist platform such as YouTube???",
     "sources": [
       "reddit"
@@ -72,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s97rhj/how_is_a_channel_like_this_allowed_to_exist_on_a/"
   },
   {
+    "topic": "It can be a bit controversial but why some youtubers do this? What's the point?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
+  },
+  {
+    "topic": "Dear all companies placing ads on YouTube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s9dvr1/dear_all_companies_placing_ads_on_youtube/"
+  },
+  {
     "topic": "Kid friendly content.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s93p0e/kid_friendly_content/"
-  },
-  {
-    "topic": "OK YouTube, pls stop selling my personal information",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s933qs/ok_youtube_pls_stop_selling_my_personal/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1497, Part 1 (Thread #1644)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s97m41/uae_willing_to_join_fight_help_us_allies_force/"
   },
   {
-    "topic": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
+    "topic": "A Russian An-26 military transport plane crashed into a cliff in Crimea, killing 29 people on board",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8xmc4/iran_threatens_to_attack_us_tech_companies/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9bcwz/a_russian_an26_military_transport_plane_crashed/"
   },
   {
     "topic": "A moment of appreciation for Lili Reinhart\u2019s shirt collection",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,981 views \u2022 ~614m old",
+    "why": "Trending on YouTube \u2022 115,529 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=l_Oe2F3WmDs"
   },
   {
@@ -192,39 +192,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Kjz4Hcd0DA"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3_fb44qLoto"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ek7Hpilwo0s"
   },
   {
-    "topic": "Erin Burnett OutFront",
+    "topic": "The Cockroach House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~42m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UYTyUzXSDDY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NFJwZhzbKcg"
   },
   {
     "topic": "Congo DR vs. Jamaica",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvhDsaFpoXg"
   },
   {
-    "topic": "The Griffin Equivalency",
+    "topic": "Spirit Animal",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8cOLTwdOQaw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aO93tv5rm_E"
+  },
+  {
+    "topic": "POV: You're Raising a Pig",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N0zah1KRgNw"
   }
 ]
