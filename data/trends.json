@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9jtsi/wish_oc/"
   },
   {
-    "topic": "The noodles is safe now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9fz1r/the_noodles_is_safe_now/"
-  },
-  {
     "topic": "Extraneous Narrator",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9k3mi/extraneous_narrator/"
+  },
+  {
+    "topic": "The noodles is safe now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9fz1r/the_noodles_is_safe_now/"
   },
   {
     "topic": "YouTube is a complete joke now\u2026",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s9dvr1/dear_all_companies_placing_ads_on_youtube/"
   },
   {
+    "topic": "I was an alcoholic for 20 years. Nearly destroyed my life. In recovery the past 6 months. These are the videos YouTube Studio thinks I should make.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s9tuqh/i_was_an_alcoholic_for_20_years_nearly_destroyed/"
+  },
+  {
     "topic": "I\u2019m tired of AI",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s9ltu8/im_tired_of_ai/"
-  },
-  {
-    "topic": "How is a channel like this allowed to exist on a supposedly anti racist platform such as YouTube???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s97rhj/how_is_a_channel_like_this_allowed_to_exist_on_a/"
   },
   {
     "topic": "Iran says it will not reopen Strait of Hormuz because of Trump\u2019s \"ridiculous displays\"",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iranian president says in letter that Iran harbors no enmity towards ordinary Americans",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9v597/iranian_president_says_in_letter_that_iran/"
+  },
+  {
     "topic": "Trump says he's considering NATO exit amid rift over Iran war",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9jktu/trump_says_hes_considering_nato_exit_amid_rift/"
-  },
-  {
-    "topic": "France tells US NATO serves Euro-Atlantic security, not Hormuz offensive missions",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9nzyv/france_tells_us_nato_serves_euroatlantic_security/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,024,055 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 5,650,474 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_gyultVTesk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,638 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 274,532 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UyoZa7lMvtE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,027 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 213,065 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y4UchW7v7dY"
   },
   {
@@ -208,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,443 views \u2022 ~434m old",
+    "why": "Trending on YouTube \u2022 104,705 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3vQKrQbyEjo"
-  },
-  {
-    "topic": "Hannity",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8D78dOlpz9Q"
   },
   {
     "topic": "USA vs. Portugal",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=91qqNTrpcDQ"
   },
   {
@@ -232,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K0GgoKtcSX8"
-  },
-  {
-    "topic": "Wrinkles & Rose",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kbgkN8bG6a4"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z61PKOTrkoY"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3IMff61_-78"
   },
   {
@@ -264,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Cgx_peetD7o"
   }
 ]
