@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9hg0d/oc_reflexes/"
   },
   {
-    "topic": "finaly locking in",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9qa5y/finaly_locking_in/"
-  },
-  {
     "topic": "wish (OC)",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9fz1r/the_noodles_is_safe_now/"
+  },
+  {
+    "topic": "Extraneous Narrator",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9k3mi/extraneous_narrator/"
   },
   {
     "topic": "YouTube is a complete joke now\u2026",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7idur/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "PlayStation prices adjusted for inflation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9iepu/playstation_prices_adjusted_for_inflation/"
-  },
-  {
     "topic": "[VGC] US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9pq5b/vgc_us_patent_office_revokes_nintendos_patent_on/"
+  },
+  {
+    "topic": "PlayStation prices adjusted for inflation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9iepu/playstation_prices_adjusted_for_inflation/"
   },
   {
     "topic": "Bloodborne's transforming \"Trick Weapons\"",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,397,154 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 5,024,055 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_gyultVTesk"
-  },
-  {
-    "topic": "The little chicks are taking over Hay Day!\ud83d\udc25",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,160,035 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HbIfi-CxyS8"
   },
   {
     "topic": "Nuclear Thunder Trailer | War Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 240,325 views \u2022 ~498m old",
+    "why": "Trending on YouTube \u2022 257,638 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UyoZa7lMvtE"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 160,116 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 185,027 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y4UchW7v7dY"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,323 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 92,443 views \u2022 ~434m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3vQKrQbyEjo"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8D78dOlpz9Q"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=91qqNTrpcDQ"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K0GgoKtcSX8"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kbgkN8bG6a4"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z61PKOTrkoY"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3IMff61_-78"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Cgx_peetD7o"
   }
 ]
