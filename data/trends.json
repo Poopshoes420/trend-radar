@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Seen in foodcourt, tech bro's invented plates",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s98z8w/seen_in_foodcourt_tech_bros_invented_plates/"
-  },
-  {
     "topic": "Come and fight me buddy!",
     "sources": [
       "reddit"
@@ -36,13 +27,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9c0vj/come_and_fight_me_buddy/"
   },
   {
-    "topic": "Harry Potter dance-off with young Severus Snape",
+    "topic": "Seen in foodcourt, tech bro's invented plates",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s8ljjw/harry_potter_danceoff_with_young_severus_snape/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s98z8w/seen_in_foodcourt_tech_bros_invented_plates/"
+  },
+  {
+    "topic": "Norwegian streamer run down by robot in Shenzen",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1s9fg4m/norwegian_streamer_run_down_by_robot_in_shenzen/"
+  },
+  {
+    "topic": "Dear all companies placing ads on YouTube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s9dvr1/dear_all_companies_placing_ads_on_youtube/"
   },
   {
     "topic": "How many YouTubers are going to be \"quitting\" tomorrow",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s8kvzt/it_can_be_a_bit_controversial_but_why_some/"
-  },
-  {
-    "topic": "Dear all companies placing ads on YouTube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1s9dvr1/dear_all_companies_placing_ads_on_youtube/"
   },
   {
     "topic": "Kid friendly content.",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s8zkcx/us_deploys_third_aircraft_carrier_to_middle_east/"
   },
   {
+    "topic": "Japan has enough plutonium to make 5,500 nuclear warheads, PLA Daily says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9dhxy/japan_has_enough_plutonium_to_make_5500_nuclear/"
+  },
+  {
     "topic": "UAE \u2018willing to join\u2019 fight, help US, allies force open Strait of Hormuz",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s97m41/uae_willing_to_join_fight_help_us_allies_force/"
-  },
-  {
-    "topic": "A Russian An-26 military transport plane crashed into a cliff in Crimea, killing 29 people on board",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9bcwz/a_russian_an26_military_transport_plane_crashed/"
   },
   {
     "topic": "A moment of appreciation for Lili Reinhart\u2019s shirt collection",
@@ -180,27 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s92nm7/gamers_30_whats_something_from_the_old_days_of/"
   },
   {
-    "topic": "The Backrooms FULL Movie Trailer ANALYSIS & BREAKDOWN",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,529 views \u2022 ~691m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=l_Oe2F3WmDs"
-  },
-  {
-    "topic": "The Five",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1Kjz4Hcd0DA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1i2DQP_Ba8A"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3_fb44qLoto"
   },
   {
@@ -208,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ek7Hpilwo0s"
+  },
+  {
+    "topic": "The Day After Tomorrow",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HiDNkltGrlU"
   },
   {
     "topic": "The Cockroach House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NFJwZhzbKcg"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IvhDsaFpoXg"
   },
   {
-    "topic": "Spirit Animal",
+    "topic": "Amanda Peet and Jon Hamm",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aO93tv5rm_E"
-  },
-  {
-    "topic": "POV: You're Raising a Pig",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N0zah1KRgNw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j0DDlABGc4Y"
   }
 ]
