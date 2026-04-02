@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I told my husband there was a serious leak under the sink\u2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sa12g1/i_told_my_husband_there_was_a_serious_leak_under/"
-  },
-  {
     "topic": "I agree",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sa8yhi/i_agree/"
+  },
+  {
+    "topic": "I told my husband there was a serious leak under the sink\u2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sa12g1/i_told_my_husband_there_was_a_serious_leak_under/"
   },
   {
     "topic": "Bro lost so hard",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Trump: We shouldn't have got involved in Ukraine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sa7xqv/trump_we_shouldnt_have_got_involved_in_ukraine/"
+  },
+  {
     "topic": "Iranian president says in letter that Iran harbors no enmity towards ordinary Americans",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9v597/iranian_president_says_in_letter_that_iran/"
-  },
-  {
-    "topic": "Iran says it will not reopen Strait of Hormuz because of Trump\u2019s \"ridiculous displays\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s9stvv/iran_says_it_will_not_reopen_strait_of_hormuz/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sa4m4j/box_office_super_mario_galaxy_movie_opening_to/"
   },
   {
-    "topic": "[VGC] US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9pq5b/vgc_us_patent_office_revokes_nintendos_patent_on/"
-  },
-  {
     "topic": "PlayStation prices adjusted for inflation",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9lsn8/bloodbornes_transforming_trick_weapons/"
   },
   {
+    "topic": "After layoffs, Fortnite's future is shakier than it has ever been",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s9lsz8/after_layoffs_fortnites_future_is_shakier_than_it/"
+  },
+  {
     "topic": "my last stream ever",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 658,362 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 668,324 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mA7xr1t80V4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 794,611 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 860,015 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nUsrYVxrDwI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 495,471 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 544,191 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vinqkNrKZz4"
   },
   {
@@ -208,39 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 218,142 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 252,807 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mezfKrmMz_Q"
-  },
-  {
-    "topic": "N@KED (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 104,860 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=I0Mo8TH2q3w"
   },
   {
     "topic": "TAKE A RUN by RecD (FULL VERSION) - Dogday & Smiling Critters Fan Song (Poppy Playtime)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,428 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 52,379 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=COr7WVe6U4E"
-  },
-  {
-    "topic": "THF Gbaby - Strategic (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 29,247 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KL-Xw_HdMmk"
   },
   {
     "topic": "Special Report With Bret Baier",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ijbs5mlQJfU"
   },
   {
@@ -248,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zd22ymw4OZk"
   },
   {
@@ -256,23 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cx1AVR_EaBQ"
   },
   {
-    "topic": "Artemis II: Return to the Moon",
+    "topic": "Artemis II: Mission to the Moon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UWgzVBGWMPo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pIQTRXK1HtA"
   },
   {
-    "topic": "Pardon the Interruption",
+    "topic": "SportsCenter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IunF0i0faA8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WRqzj2m3w9U"
   }
 ]
