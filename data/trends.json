@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Magic rug",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb3xxx/magic_rug/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1samj9c/kid_gives_a_blunt_response_when_a_cnn_reporter/"
   },
   {
-    "topic": "Magic rug",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb3xxx/magic_rug/"
-  },
-  {
     "topic": "Oh my god, this fu*king app.",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sav85n/oh_my_god_this_fuking_app/"
+  },
+  {
+    "topic": "DECEPTIVE AI IS A DIGITAL PLAGUE: Why we must demand a total ban on unlabeled realistic AI before it's too late.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb4cft/deceptive_ai_is_a_digital_plague_why_we_must/"
   },
   {
     "topic": "No way YouTube thought this was okay to have up",
@@ -81,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sapu7q/bring_back_the_dislike_counter/"
   },
   {
-    "topic": "DECEPTIVE AI IS A DIGITAL PLAGUE: Why we must demand a total ban on unlabeled realistic AI before it's too late.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb4cft/deceptive_ai_is_a_digital_plague_why_we_must/"
-  },
-  {
-    "topic": "Quebec passes law banning street prayers, prayer rooms in universities",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1saw1ba/quebec_passes_law_banning_street_prayers_prayer/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1499, Part 1 (Thread #1646)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Quebec passes law banning street prayers, prayer rooms in universities",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1saw1ba/quebec_passes_law_banning_street_prayers_prayer/"
   },
   {
     "topic": "IRGC attacks Dubai Oracle data center, US fighter jets at Jordan's Al Azraq base",
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sazrbx/us_intelligence_assesses_iran_maintains/"
   },
   {
-    "topic": "Making Friends Monday! Share your game tags here!",
+    "topic": "Free Talk Friday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1s7idur/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sb5dmc/free_talk_friday/"
   },
   {
     "topic": "RollerCoaster Tycoon YouTuber builds ride lasting 194 quattorseptuagintillion years",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1saetk5/any_update_is_a_bonus_not_a_right_peak_devs_snap/"
   },
   {
-    "topic": "I took 7 months to play all mainline Assassin's Creed games for the first time*, documenting the entire journey, impressions and ranking of each game.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sah5ri/i_took_7_months_to_play_all_mainline_assassins/"
-  },
-  {
     "topic": "Which game clone ended up being better than the original?",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1savzjw/which_game_clone_ended_up_being_better_than_the/"
   },
   {
+    "topic": "I took 7 months to play all mainline Assassin's Creed games for the first time*, documenting the entire journey, impressions and ranking of each game.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sah5ri/i_took_7_months_to_play_all_mainline_assassins/"
+  },
+  {
     "topic": "did u smile today",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 474,750 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 518,062 views \u2022 ~145m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D35X5NnEyg8"
   },
   {
@@ -192,63 +192,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,077 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 314,994 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n_WvxhQHJps"
-  },
-  {
-    "topic": "FNAF But Freddy Can Open The Door..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 254,571 views \u2022 ~469m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6uD6u14FOz8"
   },
   {
     "topic": "Street Fighter 6 - Ingrid Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,393 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 215,362 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ysuw_40tnv4"
   },
   {
-    "topic": "Grupo Firme - Cabr\u00f3n Y Medio (Video Oficial)",
+    "topic": "I Fired My First Employee\u2026 (Retro Rewind Episode 6)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,268 views \u2022 ~320m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3ny_kUn4V60"
+    "why": "Trending on YouTube \u2022 158,401 views \u2022 ~522m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ngalTO0YaDE"
+  },
+  {
+    "topic": "DDG, Polo G - Not Friendly (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,606 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=w05rapkQPwo"
   },
   {
     "topic": "Lil Twin - Run (feat. VonOff1700) [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,828 views \u2022 ~499m old",
+    "why": "Trending on YouTube \u2022 44,342 views \u2022 ~582m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fVXtyO7YyuY"
   },
   {
-    "topic": "The Will Cain Show",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=K-xXc7CjELU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ICeCo-5J_Q0"
   },
   {
-    "topic": "Katy Tur Reports",
+    "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EmzDaCx-x7Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iFRdRmek7fE"
   },
   {
     "topic": "The Lead With Jake Tapper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hKO17XYkerQ"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_W3Q-ZGMB1M"
   }
 ]
