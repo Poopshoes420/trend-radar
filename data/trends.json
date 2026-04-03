@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sao274/mickey_mouse_couldnt_believe_his_eyes/"
   },
   {
-    "topic": "Angry guy goes off on a robot",
+    "topic": "Turns out the ducks at the park aren't free and you can't just take them",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sajx1d/angry_guy_goes_off_on_a_robot/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sazlu8/turns_out_the_ducks_at_the_park_arent_free_and/"
   },
   {
     "topic": "Oh my god, this fu*king app.",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sav85n/oh_my_god_this_fuking_app/"
+  },
+  {
+    "topic": "No way YouTube thought this was okay to have up",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sat0qm/no_way_youtube_thought_this_was_okay_to_have_up/"
   },
   {
     "topic": "Youtube Terminated Technoblade Dad's new channel after hours of it being up",
@@ -72,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sapu7q/bring_back_the_dislike_counter/"
   },
   {
-    "topic": "No way YouTube thought this was okay to have up",
+    "topic": "The new UI is astoundingly bad",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sat0qm/no_way_youtube_thought_this_was_okay_to_have_up/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sau3po/the_new_ui_is_astoundingly_bad/"
   },
   {
-    "topic": "I am getting tired of this.",
+    "topic": "Quebec passes law banning street prayers, prayer rooms in universities",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sand4v/i_am_getting_tired_of_this/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1saw1ba/quebec_passes_law_banning_street_prayers_prayer/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1498, Part 1 (Thread #1645)",
@@ -117,22 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1satrzn/irgc_attacks_dubai_oracle_data_center_us_fighter/"
   },
   {
-    "topic": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+    "topic": "US intelligence assesses Iran maintains significant missile launching capability, sources say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sak22t/be_serious_dont_speak_every_day_macron_criticises/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sazrbx/us_intelligence_assesses_iran_maintains/"
   },
   {
-    "topic": "Quebec passes law banning street prayers, prayer rooms in universities",
+    "topic": "Zendaya at the NYC Premiere of \u2018The Drama\u2019 in Schiaparelli Couture SS26 (2 April 2026)",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1saw1ba/quebec_passes_law_banning_street_prayers_prayer/"
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1saxp27/zendaya_at_the_nyc_premiere_of_the_drama_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,68 +180,75 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sah5ri/i_took_7_months_to_play_all_mainline_assassins/"
   },
   {
-    "topic": "\u2018Last Of Us Online\u2019 Dev Says It Was Around \u201880 Percent\u2019 Complete Before Its \u2018Soul-Crushing\u2019 Cancellation",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sahgvo/last_of_us_online_dev_says_it_was_around_80/"
-  },
-  {
-    "topic": "Finding Harry: The Craft Behind the Magic Special | Official Trailer | HBO Max",
+    "topic": "The April 2, 2026 Severe Weather Coverage, As It Happened...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 271,211 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0TsRwfhgeYc"
+    "why": "Trending on YouTube \u2022 895,280 views \u2022 ~49m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=detkDyR2kxo"
+  },
+  {
+    "topic": "They STOLE our YouTube Channel..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 180,368 views \u2022 ~222m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=n_WvxhQHJps"
+  },
+  {
+    "topic": "FNAF But Freddy Can Open The Door..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 193,536 views \u2022 ~352m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6uD6u14FOz8"
+  },
+  {
+    "topic": "Street Fighter 6 - Ingrid Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 125,543 views \u2022 ~262m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ysuw_40tnv4"
   },
   {
     "topic": "Smiling Friends | Final Episodes Trailer | adult swim",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 167,074 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 235,611 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PZcOyPgXjsA"
-  },
-  {
-    "topic": "BEEF: Season 2 | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 158,589 views \u2022 ~541m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZtQoofDhJOM"
-  },
-  {
-    "topic": "Widow's Bay \u2014 Official Teaser Trailer | Apple TV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 77,936 views \u2022 ~541m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Nmc2RYm6PUE"
   },
   {
     "topic": "Lil Twin - Run (feat. VonOff1700) [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,013 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 29,061 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fVXtyO7YyuY"
+  },
+  {
+    "topic": "42 Dugg - Goin Through It (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 45,926 views \u2022 ~623m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8WwqE3MNqsQ"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~321m old",
     "exampleUrl": "https://www.youtube.com/watch?v=McQfwl23m5o"
   },
   {
-    "topic": "Squawk on the Street",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jHFAAwZeIiQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xzTjwVCz36Q"
   }
 ]
