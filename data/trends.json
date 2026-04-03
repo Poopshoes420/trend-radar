@@ -9,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Plot twist I didn\u2019t see coming",
+    "topic": "Her mom is smart",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbkmg1/plot_twist_i_didnt_see_coming/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbgnf3/her_mom_is_smart/"
   },
   {
     "topic": "Phobia Anonymous",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbe5ls/phobia_anonymous/"
   },
   {
-    "topic": "Her mom is smart",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbgnf3/her_mom_is_smart/"
-  },
-  {
     "topic": "Magic rug",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb3xxx/magic_rug/"
+  },
+  {
+    "topic": "All food must go to the Lab for testing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb97a6/all_food_must_go_to_the_lab_for_testing/"
   },
   {
     "topic": "yare yare daze",
@@ -81,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sav85n/oh_my_god_this_fuking_app/"
   },
   {
-    "topic": "Mythical feed pull",
+    "topic": "Ethereal thumbnail pull",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbbl5v/mythical_feed_pull/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbl6vj/ethereal_thumbnail_pull/"
   },
   {
-    "topic": "U.S. fighter jet shot down in Iran, search underway for crew",
+    "topic": "Second US Air Force plane crashed in Persian Gulf region, New York Times reports",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbcuzv/us_fighter_jet_shot_down_in_iran_search_underway/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbmqiu/second_us_air_force_plane_crashed_in_persian_gulf/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1499, Part 1 (Thread #1646)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "U.S. fighter jet shot down in Iran, search underway for crew",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbcuzv/us_fighter_jet_shot_down_in_iran_search_underway/"
+  },
+  {
     "topic": "One US crew member rescued after fighter jet downed over Iran, Israeli media say",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbhqj0/one_us_crew_member_rescued_after_fighter_jet/"
-  },
-  {
-    "topic": "MI6 confirms Ukraine's best frontline position in 10 months",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbbnt0/mi6_confirms_ukraines_best_frontline_position_in/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbf9sx/bought_silent_hill_f_new_from_amazon_and_received/"
   },
   {
+    "topic": "The Gaming Historian is done",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbmgcw/the_gaming_historian_is_done/"
+  },
+  {
     "topic": "Hardware Price Increases Have Video Games Facing an Existential Crisis",
     "sources": [
       "reddit"
@@ -171,68 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbkuao/hardware_price_increases_have_video_games_facing/"
   },
   {
-    "topic": "Prices of Lenovo Legion Go 2 see a massive jump | Launched at $1350, the 32GB variant now costs $2000; 16GB variant goes from $1100 to $1500",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbf2gg/prices_of_lenovo_legion_go_2_see_a_massive_jump/"
-  },
-  {
     "topic": "T.O.P - \"DESPERADO\" MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 917,322 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 946,925 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lh7yT1PF2Y4"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | CS2 | CUSTOM 5v5 | Drac x Hutch x Mercs x Rogue x Taxi x Tim x Cloakzy x Gingy x Summit",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 823,698 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2WHri3ffGqg"
   },
   {
     "topic": "T.I. - Trauma Bond (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,106 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 70,733 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sDqEXirnuy4"
   },
   {
-    "topic": "Jesse Watters Primetime",
+    "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oxsKVfrbdfQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fZ1Jjo_T1qc"
   },
   {
     "topic": "Valero Texas Open, First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dJy9gztBu40"
-  },
-  {
-    "topic": "The Last Supper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oep96Zt609I"
   },
   {
     "topic": "Second Semifinal: Illinois State vs. Auburn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4s4_LMmhTo4"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GUsdBrAYLCg"
   },
   {
@@ -248,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mziRM88CXOw"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-j-Yp5-EcXw"
   }
 ]
