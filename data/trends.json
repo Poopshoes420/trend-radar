@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb8mvm/go_ahead/"
   },
   {
+    "topic": "yare yare daze",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbdh8t/yare_yare_daze/"
+  },
+  {
     "topic": "Do you also hate those fake social media posts on thumbnails ?",
     "sources": [
       "reddit"
@@ -72,15 +81,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb3y3a/isnt_not_signing_in_the_whole_point_of_incognito/"
   },
   {
-    "topic": "DECEPTIVE AI IS A DIGITAL PLAGUE: Why we must demand a total ban on unlabeled realistic AI before it's too late.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb4cft/deceptive_ai_is_a_digital_plague_why_we_must/"
-  },
-  {
     "topic": "Mythical feed pull",
     "sources": [
       "reddit"
@@ -88,6 +88,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbbl5v/mythical_feed_pull/"
+  },
+  {
+    "topic": "U.S. fighter jet shot down in Iran, search underway for crew",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbcuzv/us_fighter_jet_shot_down_in_iran_search_underway/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1499, Part 1 (Thread #1646)",
@@ -108,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "US F-15E pilot likely captured by Iranian forces",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbdrpv/us_f15e_pilot_likely_captured_by_iranian_forces/"
+  },
+  {
     "topic": "Russia is ordering companies to nominate employees for military service \u2014 2 to 5 names depending on size",
     "sources": [
       "reddit"
@@ -115,24 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sb5110/russia_is_ordering_companies_to_nominate/"
-  },
-  {
-    "topic": "U.S. fighter jet shot down in Iran, search underway for crew",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbcuzv/us_fighter_jet_shot_down_in_iran_search_underway/"
-  },
-  {
-    "topic": "French-Owned Container Ship Exits Hormuz in First Since Iran War",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sb7rim/frenchowned_container_ship_exits_hormuz_in_first/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sba1m2/after_25_years_i_finally_did_it/"
   },
   {
-    "topic": "RollerCoaster Tycoon YouTuber builds ride lasting 194 quattorseptuagintillion years",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1saq81h/rollercoaster_tycoon_youtuber_builds_ride_lasting/"
-  },
-  {
     "topic": "What games do scale, especially in space, the best?",
     "sources": [
       "reddit"
@@ -171,28 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sb9ldo/what_games_do_scale_especially_in_space_the_best/"
   },
   {
-    "topic": "Metroid Madness! Prime 4 Cosplay at the recent Chicago C2E2.",
+    "topic": "RollerCoaster Tycoon YouTuber builds ride lasting 194 quattorseptuagintillion years",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbbcxd/metroid_madness_prime_4_cosplay_at_the_recent/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1saq81h/rollercoaster_tycoon_youtuber_builds_ride_lasting/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | CS2 | CUSTOM 5v5 | Drac x Hutch x Mercs x Rogue x Taxi x Tim x Cloakzy x Gingy x Summit",
+    "topic": "MY PHYSICAL COLLECTION",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 793,416 views \u2022 ~324m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2WHri3ffGqg"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbba50/my_physical_collection/"
   },
   {
     "topic": "T.O.P - \"DESPERADO\" MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 277,856 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 366,320 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lh7yT1PF2Y4"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,291 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 71,999 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w05rapkQPwo"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxsKVfrbdfQ"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dJy9gztBu40"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4s4_LMmhTo4"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oep96Zt609I"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mziRM88CXOw"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GUsdBrAYLCg"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-j-Yp5-EcXw"
   },
   {
@@ -264,7 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oD21_WSTFlw"
+  },
+  {
+    "topic": "The Lord of the Rings: The Two Towers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KcjP03bmcB8"
   }
 ]
