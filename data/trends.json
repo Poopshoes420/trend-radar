@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbe5ls/phobia_anonymous/"
   },
   {
+    "topic": "We're gonna have a problem here. [OC]",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sboays/were_gonna_have_a_problem_here_oc/"
+  },
+  {
     "topic": "Magic rug",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb3xxx/magic_rug/"
-  },
-  {
-    "topic": "All food must go to the Lab for testing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb97a6/all_food_must_go_to_the_lab_for_testing/"
   },
   {
     "topic": "yare yare daze",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb7l8c/do_you_also_hate_those_fake_social_media_posts_on/"
   },
   {
-    "topic": "Oh my god, this fu*king app.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sav85n/oh_my_god_this_fuking_app/"
-  },
-  {
     "topic": "Ethereal thumbnail pull",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbl6vj/ethereal_thumbnail_pull/"
+  },
+  {
+    "topic": "YouTube, what the actual hell is this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbmyqj/youtube_what_the_actual_hell_is_this/"
   },
   {
     "topic": "Second US Air Force plane crashed in Persian Gulf region, New York Times reports",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbcuzv/us_fighter_jet_shot_down_in_iran_search_underway/"
   },
   {
-    "topic": "One US crew member rescued after fighter jet downed over Iran, Israeli media say",
+    "topic": "Iran rejects 48-hour US ceasefire proposal - Iranian media",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbhqj0/one_us_crew_member_rescued_after_fighter_jet/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbmogx/iran_rejects_48hour_us_ceasefire_proposal_iranian/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sba1m2/after_25_years_i_finally_did_it/"
   },
   {
-    "topic": "Bought Silent Hill F \"new\" from Amazon and received this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbf9sx/bought_silent_hill_f_new_from_amazon_and_received/"
-  },
-  {
     "topic": "The Gaming Historian is done",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbmgcw/the_gaming_historian_is_done/"
   },
   {
-    "topic": "Hardware Price Increases Have Video Games Facing an Existential Crisis",
+    "topic": "Bought Silent Hill F \"new\" from Amazon and received this",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbkuao/hardware_price_increases_have_video_games_facing/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbf9sx/bought_silent_hill_f_new_from_amazon_and_received/"
+  },
+  {
+    "topic": "Roblox is now more popular than all Steam and PS5 games combined",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbm9lz/roblox_is_now_more_popular_than_all_steam_and_ps5/"
   },
   {
     "topic": "T.O.P - \"DESPERADO\" MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 946,925 views \u2022 ~660m old",
+    "why": "Trending on YouTube \u2022 979,636 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lh7yT1PF2Y4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,733 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 89,499 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sDqEXirnuy4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fZ1Jjo_T1qc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dJy9gztBu40"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4s4_LMmhTo4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~569m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~618m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GUsdBrAYLCg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mziRM88CXOw"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-j-Yp5-EcXw"
   }
 ]
