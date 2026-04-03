@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb6w5i/worth_every_dollar/"
   },
   {
-    "topic": "Magic rug",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb3xxx/magic_rug/"
-  },
-  {
     "topic": "Phobia Anonymous",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbe5ls/phobia_anonymous/"
   },
   {
-    "topic": "All food must go to the Lab for testing",
+    "topic": "Magic rug",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb97a6/all_food_must_go_to_the_lab_for_testing/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sb3xxx/magic_rug/"
+  },
+  {
+    "topic": "Her mom is smart",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbgnf3/her_mom_is_smart/"
   },
   {
     "topic": "yare yare daze",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb7l8c/do_you_also_hate_those_fake_social_media_posts_on/"
   },
   {
+    "topic": "Youtube Gave Me Only Two Videos Today",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbijrn/youtube_gave_me_only_two_videos_today/"
+  },
+  {
     "topic": "Oh my god, this fu*king app.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbbl5v/mythical_feed_pull/"
-  },
-  {
-    "topic": "Isn\u2019t not signing in the whole point of incognito",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sb3y3a/isnt_not_signing_in_the_whole_point_of_incognito/"
   },
   {
     "topic": "U.S. fighter jet shot down in Iran, search underway for crew",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "One US crew member rescued after fighter jet downed over Iran, Israeli media say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbhqj0/one_us_crew_member_rescued_after_fighter_jet/"
+  },
+  {
     "topic": "MI6 confirms Ukraine's best frontline position in 10 months",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbbnt0/mi6_confirms_ukraines_best_frontline_position_in/"
-  },
-  {
-    "topic": "Russia is ordering companies to nominate employees for military service \u2014 2 to 5 names depending on size",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sb5110/russia_is_ordering_companies_to_nominate/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 728,328 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 810,080 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lh7yT1PF2Y4"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oxsKVfrbdfQ"
   },
   {
@@ -200,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~447m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dJy9gztBu40"
-  },
-  {
-    "topic": "Second Semifinal: Illinois State vs. Auburn",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4s4_LMmhTo4"
   },
   {
     "topic": "The Last Supper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oep96Zt609I"
+  },
+  {
+    "topic": "Second Semifinal: Illinois State vs. Auburn",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4s4_LMmhTo4"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GUsdBrAYLCg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mziRM88CXOw"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-j-Yp5-EcXw"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~545m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oD21_WSTFlw"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tYfTsSUox30"
   }
 ]
