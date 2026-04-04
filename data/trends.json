@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Who loves teacher",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "He lied on his resume but still got the job.",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
   },
   {
+    "topic": "720 in 2010 and 720p now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sccd02/720_in_2010_and_720p_now/"
+  },
+  {
     "topic": "yare yare daze",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbdh8t/yare_yare_daze/"
   },
   {
-    "topic": "Youtube Gave Me Only Two Videos Today",
+    "topic": "What is my recommendations feed bro \ud83d\ude2d",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbijrn/youtube_gave_me_only_two_videos_today/"
-  },
-  {
-    "topic": "They need to bring back the dislike count",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc85st/they_need_to_bring_back_the_dislike_count/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scbw28/what_is_my_recommendations_feed_bro/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1500, Part 1 (Thread #1647)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "US agents arrest niece of Iran's Qassem Soleimani after Rubio revoked green card",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1scbkvp/us_agents_arrest_niece_of_irans_qassem_soleimani/"
-  },
-  {
     "topic": "Japanese, French and Omani vessels cross Strait of Hormuz",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sc335v/japanese_french_and_omani_vessels_cross_strait_of/"
+  },
+  {
+    "topic": "\"48 Hours Before Hell Will Rain Down\": Trump Reminds Iran Of Hormuz Deadline",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1scc4lb/48_hours_before_hell_will_rain_down_trump_reminds/"
   },
   {
     "topic": "Russia evacuates 198 more staff from Iran's Bushehr nuclear plant, agencies report",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbqfm9/exbethesda_dev_on_fallout_and_skyrim_says_todd/"
   },
   {
-    "topic": "Buyer beware when buying Switch 2 pro controllers. People are returning the box with Switch 1 controllers inside.",
+    "topic": "New allegations from a former Halo Studios developer outline claims of misconduct and organisational issues, prompting questions around accountability and internal investigations at Microsoft",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbotki/buyer_beware_when_buying_switch_2_pro_controllers/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scc1be/new_allegations_from_a_former_halo_studios/"
   },
   {
     "topic": "Dacoit Trailer (Telugu) | Adivi Sesh | Mrunal Thakur | Anurag Kashyap | Shaneil | Apr 10 In Theaters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,056,696 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 1,181,232 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
+  },
+  {
+    "topic": "Fill Them With Fear: Hero Balloon Coming Soon!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 403,276 views \u2022 ~184m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aamoxof1uyQ"
   },
   {
     "topic": "NCAAW Final Four: Texas vs. UCLA",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WWjhE3KpCJA"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qsLC4GWerM0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLbG4p2ASKw"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jsiUsbG86AE"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HveMSw0GRtU"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~655m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MbwY8Z3zSGQ"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hv2XOBttih4"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C7fhY4ck8wo"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aw5YAF6Bw24"
-  },
-  {
-    "topic": "The Accountant",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qTeKEHxBZZQ"
   }
 ]
