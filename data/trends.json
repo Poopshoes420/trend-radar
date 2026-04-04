@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Who loves teacher",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
+  },
+  {
     "topic": "Christina Koch on Artemis 2 underestimates the Battery Ejection Spring",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sc0vky/just_one_shot_cant_hurt/"
   },
   {
-    "topic": "Why are the hotdogs grilling their children?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbywft/why_are_the_hotdogs_grilling_their_children/"
-  },
-  {
     "topic": "The size of close ad button",
     "sources": [
       "reddit"
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
   },
   {
-    "topic": "yare yare daze",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbdh8t/yare_yare_daze/"
-  },
-  {
     "topic": "This guy thinks people at youtube really will do that.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc82vp/this_guy_thinks_people_at_youtube_really_will_do/"
+  },
+  {
+    "topic": "yare yare daze",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbdh8t/yare_yare_daze/"
   },
   {
     "topic": "Youtube Gave Me Only Two Videos Today",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc0052/possibly_my_favorite_youtube_recommendation_ever/"
   },
   {
-    "topic": "Japanese, French and Omani vessels cross Strait of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sc335v/japanese_french_and_omani_vessels_cross_strait_of/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1500, Part 1 (Thread #1647)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Japanese, French and Omani vessels cross Strait of Hormuz",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sc335v/japanese_french_and_omani_vessels_cross_strait_of/"
   },
   {
     "topic": "Misogyny among male pupils a 'ticking time bomb' in UK schools, warns union",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbqfm9/exbethesda_dev_on_fallout_and_skyrim_says_todd/"
   },
   {
-    "topic": "Buyer beware when buying Switch 2 pro controllers. People are returning the box with Switch 1 controllers inside.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbotki/buyer_beware_when_buying_switch_2_pro_controllers/"
-  },
-  {
     "topic": "Take-Two laid off the head its AI division and an undisclosed number of staff",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sc5t52/taketwo_laid_off_the_head_its_ai_division_and_an/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | KNIGHTS OF THE BUNGUS | Peanut's Wasteland | FLUFF A FAN FRIDAY | #BUNGULATE",
+    "topic": "Buyer beware when buying Switch 2 pro controllers. People are returning the box with Switch 1 controllers inside.",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 758,561 views \u2022 ~104m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F-tHQCEe3mw"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbotki/buyer_beware_when_buying_switch_2_pro_controllers/"
   },
   {
     "topic": "NCAAW Final Four: Texas vs. UCLA",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WWjhE3KpCJA"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qsLC4GWerM0"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLbG4p2ASKw"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jsiUsbG86AE"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HveMSw0GRtU"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MbwY8Z3zSGQ"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hv2XOBttih4"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C7fhY4ck8wo"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTeKEHxBZZQ"
   },
   {
@@ -264,7 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2fDvizSFUC0"
+  },
+  {
+    "topic": "Ford v Ferrari",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LmbRo2rOveQ"
   }
 ]
