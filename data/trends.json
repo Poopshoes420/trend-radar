@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Who loves teacher",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
-  },
-  {
     "topic": "Ma\u2019am this is a Wendy\u2019s drive thru",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1scgkr0/maam_this_is_a_wendys_drive_thru/"
+  },
+  {
+    "topic": "Who loves teacher",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
   },
   {
     "topic": "Sausage lips \ud83d\udc44",
@@ -81,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scdfrr/ok_i_got_the_message/"
   },
   {
-    "topic": "Why does YouTube allow adverts like this?",
+    "topic": "Crine at this poll",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sce1pv/why_does_youtube_allow_adverts_like_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sckwgi/crine_at_this_poll/"
+  },
+  {
+    "topic": "Hungary\u2019s main opposition party has said it would move to amend the constitution to limit prime ministers to two terms if it wins next week\u2019s election\u2014a move that would effectively bar incumbent Viktor Orb\u00e1n from ever returning to office",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sch8f8/hungarys_main_opposition_party_has_said_it_would/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1500, Part 1 (Thread #1647)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "Hungary\u2019s main opposition party has said it would move to amend the constitution to limit prime ministers to two terms if it wins next week\u2019s election\u2014a move that would effectively bar incumbent Viktor Orb\u00e1n from ever returning to office",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sch8f8/hungarys_main_opposition_party_has_said_it_would/"
   },
   {
     "topic": "\"48 Hours Before Hell Will Rain Down\": Trump Reminds Iran Of Hormuz Deadline",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sc1c0x/self_promotion_saturday_small_streamer_just/"
   },
   {
-    "topic": "Update: I tracked 3,750+ unique players in a Minecraft world with no rules/admins for 120 days. Here is how the political map has changed, with the most extreme changes being in the last 30 days.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scff11/update_i_tracked_3750_unique_players_in_a/"
-  },
-  {
     "topic": "Mass Effect TV show ordered to rewrite scripts and make them \"more appealing to non-gamers\"",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sclfas/mass_effect_tv_show_ordered_to_rewrite_scripts/"
+  },
+  {
+    "topic": "Update: I tracked 3,750+ unique players in a Minecraft world with no rules/admins for 120 days. Here is how the political map has changed, with the most extreme changes being in the last 30 days.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scff11/update_i_tracked_3750_unique_players_in_a/"
   },
   {
     "topic": "Take-Two laid off the head its AI division and an undisclosed number of staff",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,350,744 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 2,408,009 views \u2022 ~508m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wMiCXl8ZybQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,789,803 views \u2022 ~560m old",
+    "why": "Trending on YouTube \u2022 1,814,680 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LB9lnb3oC2Y"
   },
   {
@@ -200,23 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,217,335 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 1,266,940 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aamoxof1uyQ"
+  },
+  {
+    "topic": "I Entered a Tournament with an Incomplete Team",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 250,441 views \u2022 ~441m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0NWFQg6H-rY"
   },
   {
     "topic": "Testing a Scary Minecraft Lie That is Unsolved\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 216,771 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 227,654 views \u2022 ~486m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9dDJTa1bpd4"
+  },
+  {
+    "topic": "Talk About It",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 21,867 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
   },
   {
     "topic": "NCAAW Final Four: Texas vs. UCLA",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~720m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WWjhE3KpCJA"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dDjRCeEs7m0"
   },
   {
@@ -232,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~681m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLbG4p2ASKw"
+  },
+  {
+    "topic": "Smerconish",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BqccNScbhOA"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~710m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jsiUsbG86AE"
-  },
-  {
-    "topic": "CNN This Morning Weekend",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L6sjJdIDVkE"
   }
 ]
