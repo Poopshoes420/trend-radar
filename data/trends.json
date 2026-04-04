@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "This is funny no matter how many times you see it.. \ud83e\udd23",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbyhy4/this_is_funny_no_matter_how_many_times_you_see_it/"
+  },
+  {
     "topic": "Her mom is smart",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbomla/special_officer_doofy/"
-  },
-  {
-    "topic": "Same",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbodlx/same/"
   },
   {
     "topic": "yare yare daze",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbijrn/youtube_gave_me_only_two_videos_today/"
   },
   {
+    "topic": "The size of close ad button",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
+  },
+  {
     "topic": "Ethereal thumbnail pull",
     "sources": [
       "reddit"
@@ -81,31 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbr1uc/whats_something_you_love_when_youtubers_do/"
   },
   {
-    "topic": "YouTube, what the actual hell is this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbmyqj/youtube_what_the_actual_hell_is_this/"
-  },
-  {
-    "topic": "Second US Air Force plane crashed in Persian Gulf region, New York Times reports",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1500, Part 1 (Thread #1647)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbmqiu/second_us_air_force_plane_crashed_in_persian_gulf/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1499, Part 1 (Thread #1646)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sb37e7/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbz5qx/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #12)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Second US Air Force plane crashed in Persian Gulf region, New York Times reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sbmqiu/second_us_air_force_plane_crashed_in_persian_gulf/"
   },
   {
     "topic": "Iran rejects 48-hour US ceasefire proposal - Iranian media",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sba1m2/after_25_years_i_finally_did_it/"
   },
   {
-    "topic": "i love u bro",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 359,663 views \u2022 ~82m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8BPfL3hnXQo"
-  },
-  {
     "topic": "This Airport Security Game is Insane",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 420,074 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 541,371 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u8sRY0tKTuc"
   },
   {
@@ -200,31 +192,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 380,285 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 460,968 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uyztjNaVV8w"
+  },
+  {
+    "topic": "I Got #1 LEADERBOARD in Be A Lucky Block!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 228,636 views \u2022 ~473m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bbPr0IeCe3I"
   },
   {
     "topic": "THE HARDEST CLIMB | Baby Steps - Part 8",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 223,753 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 278,321 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SnY34dD7lvA"
-  },
-  {
-    "topic": "T.I. - Trauma Bond (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 229,419 views \u2022 ~650m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sDqEXirnuy4"
   },
   {
     "topic": "MAX REACTS: INGRID IS WEIRD - New SF6 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,790 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 74,020 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P7oLyoBMF6I"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,504 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 62,368 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fSeWKgXDVS0"
   },
   {
@@ -240,39 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,124 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 72,465 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2T1IIapdiN4"
   },
   {
-    "topic": "America Reports",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ms6tmcBoNPA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MbAyMTknARo"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rjAkDyDmbl4"
   },
   {
-    "topic": "Inside Politics With Dana Bash",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~220m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hBbwo_6o7M8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Fa7ZjZKkzaY"
   },
   {
     "topic": "Valero Texas Open, First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BBJehLaX_d8"
   },
   {
@@ -280,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=emCR5bEcCnA"
   }
 ]
