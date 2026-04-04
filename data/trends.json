@@ -18,24 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
   },
   {
-    "topic": "Christina Koch on Artemis 2 underestimates the Battery Ejection Spring",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbv6ut/christina_koch_on_artemis_2_underestimates_the/"
-  },
-  {
-    "topic": "The reflex",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbzwwg/the_reflex/"
-  },
-  {
     "topic": "He lied on his resume but still got the job.",
     "sources": [
       "reddit"
@@ -45,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1scb69d/he_lied_on_his_resume_but_still_got_the_job/"
   },
   {
-    "topic": "The size of close ad button",
+    "topic": "Perfect Tattoo \ud83d\udc80",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1scalwv/perfect_tattoo/"
+  },
+  {
+    "topic": "Christina Koch on Artemis 2 underestimates the Battery Ejection Spring",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbv6ut/christina_koch_on_artemis_2_underestimates_the/"
   },
   {
     "topic": "This guy thinks people at youtube really will do that.",
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc82vp/this_guy_thinks_people_at_youtube_really_will_do/"
+  },
+  {
+    "topic": "The size of close ad button",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
   },
   {
     "topic": "yare yare daze",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Misogyny among male pupils a 'ticking time bomb' in UK schools, warns union",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sc8c4q/misogyny_among_male_pupils_a_ticking_time_bomb_in/"
-  },
-  {
     "topic": "Japanese, French and Omani vessels cross Strait of Hormuz",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sc335v/japanese_french_and_omani_vessels_cross_strait_of/"
+  },
+  {
+    "topic": "US agents arrest niece of Iran's Qassem Soleimani after Rubio revoked green card",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1scbkvp/us_agents_arrest_niece_of_irans_qassem_soleimani/"
   },
   {
     "topic": "Russia evacuates 198 more staff from Iran's Bushehr nuclear plant, agencies report",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sc9duf/russia_evacuates_198_more_staff_from_irans/"
   },
   {
+    "topic": "Bryan Cranston calls Trump a \"demagogue.\" Cranston adds- \"He (Trump) talks about issues and problems and if you listen to that, you would think that everything is horrible. He also doesn\u2019t present any solutions. He\u2019s saying nothing. He has no ideas.\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sc9x2j/bryan_cranston_calls_trump_a_demagogue_cranston/"
+  },
+  {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
@@ -142,15 +151,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sc1c0x/self_promotion_saturday_small_streamer_just/"
-  },
-  {
-    "topic": "Detroit Become Human reminding you what day it is",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sc7xlj/detroit_become_human_reminding_you_what_day_it_is/"
   },
   {
     "topic": "Take-Two laid off the head its AI division and an undisclosed number of staff",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 724,197 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 878,611 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WWjhE3KpCJA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qsLC4GWerM0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLbG4p2ASKw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~321m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jsiUsbG86AE"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HveMSw0GRtU"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MbwY8Z3zSGQ"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~440m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hv2XOBttih4"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C7fhY4ck8wo"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~37m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aw5YAF6Bw24"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qTeKEHxBZZQ"
   }
 ]
