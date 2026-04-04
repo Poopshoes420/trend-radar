@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Who loves teacher",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Who loves teacher",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sca4ds/who_loves_teacher/"
   },
   {
     "topic": "Christina Koch on Artemis 2 underestimates the Battery Ejection Spring",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sbzwwg/the_reflex/"
   },
   {
-    "topic": "Just one shot can't hurt",
+    "topic": "[OC] Mom accidentally took a pano instead of a photo, and I look like a headless chicken.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sc0vky/just_one_shot_cant_hurt/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1scfa0w/oc_mom_accidentally_took_a_pano_instead_of_a/"
   },
   {
     "topic": "This guy thinks people at youtube really will do that.",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scc1be/new_allegations_from_a_former_halo_studios/"
   },
   {
-    "topic": "Ex-Bethesda dev on Fallout and Skyrim says Todd Howard has too many yes men around him \u2014 \"A lot of people were afraid to say no to Todd, and I think that hurt him\"",
+    "topic": "Update: I tracked 3,750+ unique players in a Minecraft world with no rules/admins for 120 days. Here is how the political map has changed, with the most extreme changes being in the last 30 days.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sbqfm9/exbethesda_dev_on_fallout_and_skyrim_says_todd/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scff11/update_i_tracked_3750_unique_players_in_a/"
+  },
+  {
+    "topic": "Love Insurance Kompany - Trailer | Pradeep Ranganathan | Anirudh | Vignesh Shivan | Krithi Shetty",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,067,354 views \u2022 ~268m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wMiCXl8ZybQ"
   },
   {
     "topic": "Dacoit Trailer (Telugu) | Adivi Sesh | Mrunal Thakur | Anurag Kashyap | Shaneil | Apr 10 In Theaters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,369,325 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 1,546,674 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8Y_D7-GCcxY"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 494,762 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 607,907 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aamoxof1uyQ"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WWjhE3KpCJA"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qsLC4GWerM0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~437m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CLbG4p2ASKw"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jsiUsbG86AE"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~629m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HveMSw0GRtU"
   },
   {
@@ -240,23 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hv2XOBttih4"
-  },
-  {
-    "topic": "Texas at Alabama",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C7fhY4ck8wo"
-  },
-  {
-    "topic": "National Treasure",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aw5YAF6Bw24"
   }
 ]
