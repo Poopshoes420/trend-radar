@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sczvn3/hasta_la_easta_baby/"
   },
   {
-    "topic": "Tiger Call Home",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1scssw6/tiger_call_home/"
-  },
-  {
     "topic": "[OC] young man",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sd1c0c/oc_young_man/"
+  },
+  {
+    "topic": "Tiger Call Home",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1scssw6/tiger_call_home/"
   },
   {
     "topic": "I hate this feature...",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scpo54/i_just_got_this_13_years_old_indian_video_on/"
   },
   {
-    "topic": "This guy thinks people at youtube really will do that.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc82vp/this_guy_thinks_people_at_youtube_really_will_do/"
-  },
-  {
     "topic": "Sadie1v, a youtuber with 800k subscribers was terminated over a april fools joke video of her friends \"exposing her\".",
     "sources": [
       "reddit"
@@ -81,22 +72,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scxkot/sadie1v_a_youtuber_with_800k_subscribers_was/"
   },
   {
-    "topic": "Crine at this poll",
+    "topic": "This guy thinks people at youtube really will do that.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sckwgi/crine_at_this_poll/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc82vp/this_guy_thinks_people_at_youtube_really_will_do/"
   },
   {
-    "topic": "Ukraine reportedly strikes Russian Lukoil refinery, defying calls to ease attacks amid soaring fuel prices",
+    "topic": "You wanted to watch a video",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scv071/you_wanted_to_watch_a_video/"
+  },
+  {
+    "topic": "Trump to Iran: \"Open the Fu***In' Strait\" or face bombing Tuesday",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sczmal/ukraine_reportedly_strikes_russian_lukoil/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd2at6/trump_to_iran_open_the_fuin_strait_or_face/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1501, Part 1 (Thread #1648)",
@@ -108,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sctpdf/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #12)",
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #13)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1s90vmg/rworldnews_discussion_thread_us_and_israel_launch/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Ukraine reportedly strikes Russian Lukoil refinery, defying calls to ease attacks amid soaring fuel prices",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sczmal/ukraine_reportedly_strikes_russian_lukoil/"
   },
   {
     "topic": "U.S. forces rescue second crew member from F-15 downed in Iran: Officials",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sctgp9/us_forces_rescue_second_crew_member_from_f15/"
-  },
-  {
-    "topic": "China executes French national convicted in 2010 for drug trafficking",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd1944/china_executes_french_national_convicted_in_2010/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sclfas/mass_effect_tv_show_ordered_to_rewrite_scripts/"
   },
   {
+    "topic": "What games have a world/map that feels as alive and rich as Red Dead Redemption 2?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sd1x9i/what_games_have_a_worldmap_that_feels_as_alive/"
+  },
+  {
     "topic": "'AI' is coming for your online gaming servers next",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scw7vi/ai_is_coming_for_your_online_gaming_servers_next/"
   },
   {
-    "topic": "A price hike for the Nintendo Switch 2 is unavoidable and will \"eventually\" happen, says former sales lead",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scn4wb/a_price_hike_for_the_nintendo_switch_2_is/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 807,793 views \u2022 ~57m old",
+    "why": "Trending on YouTube \u2022 826,230 views \u2022 ~126m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
   },
   {
@@ -192,31 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 696,690 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 843,314 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4EUyOMwPcQ0"
   },
   {
-    "topic": "Extended",
+    "topic": "NCAAM Final Four: Illinois vs. UConn",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OtCPRHFqPxA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=emB8EhtQ4nk"
   },
   {
     "topic": "College GameDay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ETYM9nNu-tc"
+  },
+  {
+    "topic": "All Elite Wrestling: Collision",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
   },
   {
     "topic": "Valero Texas Open, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5IkhthvsemQ"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9_Tj_SeUYHk"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OV739aBXZ6A"
   },
   {
@@ -240,31 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7zoflnl5fkw"
-  },
-  {
-    "topic": "Real Time With Bill Maher",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~336m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
   },
   {
     "topic": "A Season to Blossom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V57shOu084M"
+  },
+  {
+    "topic": "Real Time With Bill Maher",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
   },
   {
     "topic": "Ferris Bueller's Day Off",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrJbqZoZRZs"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M-60ZKpx19A"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vB9w9g-YvM"
   },
   {
@@ -288,23 +296,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JQkeXQn4Hb0"
+  },
+  {
+    "topic": "New York Mets at San Francisco Giants",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=n84DLe2fyY8"
   },
   {
     "topic": "Going for Good Vibrations in Cabarete",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e5iAqiGT6gY"
-  },
-  {
-    "topic": "The Jiminy Conjecture",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DLPLm1-oL_U"
   }
 ]
