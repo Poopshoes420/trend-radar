@@ -45,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sciqoi/sausage_lips/"
   },
   {
-    "topic": "This guy thinks people at youtube really will do that.",
+    "topic": "I hate this feature...",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc82vp/this_guy_thinks_people_at_youtube_really_will_do/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scs5kt/i_hate_this_feature/"
   },
   {
     "topic": "I just got this 13 years old indian video on youtube. Which is wired and funny",
@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scpo54/i_just_got_this_13_years_old_indian_video_on/"
   },
   {
-    "topic": "I hate this feature...",
+    "topic": "This guy thinks people at youtube really will do that.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scs5kt/i_hate_this_feature/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sc82vp/this_guy_thinks_people_at_youtube_really_will_do/"
   },
   {
     "topic": "Crine at this poll",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sclfas/mass_effect_tv_show_ordered_to_rewrite_scripts/"
   },
   {
+    "topic": "'AI' is coming for your online gaming servers next",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scw7vi/ai_is_coming_for_your_online_gaming_servers_next/"
+  },
+  {
     "topic": "A price hike for the Nintendo Switch 2 is unavoidable and will \"eventually\" happen, says former sales lead",
     "sources": [
       "reddit"
@@ -171,28 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1scn4wb/a_price_hike_for_the_nintendo_switch_2_is/"
   },
   {
-    "topic": "Relieving my fav game from childhood - Bully",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sclm9v/relieving_my_fav_game_from_childhood_bully/"
-  },
-  {
     "topic": "Massive EASTER UPDATE in Steal a Brainrot!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,117,628 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 1,129,854 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=blf0LzQOh90"
+  },
+  {
+    "topic": "Too Many SNOWI CLONES in Roblox!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 275,660 views \u2022 ~530m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HxK0D8NQio4"
   },
   {
     "topic": "Running This Business Isn\u2019t Easy (Retro Rewind Part 7)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,764 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 211,029 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Au7KWTCK-Qc"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 82,339 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 92,952 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QaNyyRJ9Qk8"
-  },
-  {
-    "topic": "Talk About It",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 59,956 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
   },
   {
     "topic": "At the Final Four",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a-kjpcR5ZZg"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ETYM9nNu-tc"
+  },
+  {
+    "topic": "Valero Texas Open, Third Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5IkhthvsemQ"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L1DUw-mbIZ0"
   },
   {
@@ -240,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OV739aBXZ6A"
+  },
+  {
+    "topic": "Real Time With Bill Maher",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
   },
   {
     "topic": "Alex Witt Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qEhqcB_vZJ0"
   },
   {
@@ -256,23 +272,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7KWPhagcxCc"
-  },
-  {
-    "topic": "CNN Newsroom With Fredricka Whitfield",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gfXapBieD-g"
   },
   {
     "topic": "Dazed and Confused",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5vFnYKC1UY4"
+  },
+  {
+    "topic": "Blind Date Book Club",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_FgsCX6j_d4"
   }
 ]
