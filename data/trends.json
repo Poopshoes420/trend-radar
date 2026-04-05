@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scs5kt/i_hate_this_feature/"
   },
   {
-    "topic": "Sadie1v, a youtuber with 800k subscribers was terminated over a april fools joke video of her friends \"exposing her\".",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scxkot/sadie1v_a_youtuber_with_800k_subscribers_was/"
-  },
-  {
     "topic": "Excuse me, what the fuck YouTube?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd7po7/excuse_me_what_the_fuck_youtube/"
+  },
+  {
+    "topic": "Sadie1v, a youtuber with 800k subscribers was terminated over a april fools joke video of her friends \"exposing her\".",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scxkot/sadie1v_a_youtuber_with_800k_subscribers_was/"
   },
   {
     "topic": "So we're just removing titles now??",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 866,206 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 870,741 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,994 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 342,195 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_cQagtqtkA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,309 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 36,792 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ljyno2XoRyc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,938 views \u2022 ~555m old",
+    "why": "Trending on YouTube \u2022 26,470 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WsQJ0oo09OE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~434m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VrBc93776cQ"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~486m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aBEluE4hNCE"
   },
   {
@@ -248,31 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9LkxI-Zb06s"
   },
   {
-    "topic": "CNN This Morning Weekend",
+    "topic": "Inside Politics With Manu Raju",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RVWrILFZK2k"
-  },
-  {
-    "topic": "LSU at Tennessee",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7zoflnl5fkw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LpJ3GFl6EvA"
   },
   {
     "topic": "Ferris Bueller's Day Off",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrJbqZoZRZs"
   }
 ]
