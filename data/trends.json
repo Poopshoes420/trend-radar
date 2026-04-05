@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Hasta la Easta, baby",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sczvn3/hasta_la_easta_baby/"
-  },
-  {
     "topic": "[OC] young man",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sd1c0c/oc_young_man/"
   },
   {
-    "topic": "Tiger Call Home",
+    "topic": "Hasta la Easta, baby",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1scssw6/tiger_call_home/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sczvn3/hasta_la_easta_baby/"
+  },
+  {
+    "topic": "This is my funniest video of all time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sd29i5/this_is_my_funniest_video_of_all_time/"
   },
   {
     "topic": "I hate this feature...",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scs5kt/i_hate_this_feature/"
   },
   {
-    "topic": "I just got this 13 years old indian video on youtube. Which is wired and funny",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scpo54/i_just_got_this_13_years_old_indian_video_on/"
-  },
-  {
     "topic": "Sadie1v, a youtuber with 800k subscribers was terminated over a april fools joke video of her friends \"exposing her\".",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scxkot/sadie1v_a_youtuber_with_800k_subscribers_was/"
+  },
+  {
+    "topic": "I just got this 13 years old indian video on youtube. Which is wired and funny",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scpo54/i_just_got_this_13_years_old_indian_video_on/"
   },
   {
     "topic": "This guy thinks people at youtube really will do that.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 826,230 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 831,035 views \u2022 ~169m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
   },
   {
@@ -192,39 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 843,314 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 936,350 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4EUyOMwPcQ0"
   },
   {
-    "topic": "NCAAM Final Four: Illinois vs. UConn",
+    "topic": "NCAAM Final Four: Michigan vs. Arizona",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=emB8EhtQ4nk"
-  },
-  {
-    "topic": "College GameDay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ETYM9nNu-tc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
   },
   {
     "topic": "All Elite Wrestling: Collision",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
+  },
+  {
+    "topic": "College GameDay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ETYM9nNu-tc"
   },
   {
     "topic": "Valero Texas Open, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5IkhthvsemQ"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9_Tj_SeUYHk"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OV739aBXZ6A"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7zoflnl5fkw"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V57shOu084M"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4uYGa1bMhsg"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KrJbqZoZRZs"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M-60ZKpx19A"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~372m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2vB9w9g-YvM"
   },
   {
@@ -296,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JQkeXQn4Hb0"
   },
   {
@@ -304,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n84DLe2fyY8"
   },
   {
@@ -312,7 +312,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e5iAqiGT6gY"
   }
 ]
