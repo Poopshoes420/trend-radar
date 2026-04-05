@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sd1bi4/oc_gap_in_resume/"
   },
   {
-    "topic": "[OC] young man",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sd1c0c/oc_young_man/"
-  },
-  {
     "topic": "Key & Peele",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sde44k/key_peele/"
+  },
+  {
+    "topic": "[OC] young man",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sd1c0c/oc_young_man/"
   },
   {
     "topic": "Pretend it's a YouTube comment section (image unrelated).",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd7po7/excuse_me_what_the_fuck_youtube/"
   },
   {
-    "topic": "I hate this feature...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scs5kt/i_hate_this_feature/"
-  },
-  {
     "topic": "So we're just removing titles now??",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd3oui/so_were_just_removing_titles_now/"
+  },
+  {
+    "topic": "I hate this feature...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scs5kt/i_hate_this_feature/"
   },
   {
     "topic": "Sadie1v, a youtuber with 800k subscribers was terminated over a april fools joke video of her friends \"exposing her\".",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump to Iran: \"Open the Fu***In' Strait\" or face bombing Tuesday",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd2at6/trump_to_iran_open_the_fuin_strait_or_face/"
-  },
-  {
     "topic": "Iran Now Threatening To Close Bab Al-Mandeb Strait After Trump Threats",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdev28/iran_now_threatening_to_close_bab_almandeb_strait/"
+  },
+  {
+    "topic": "Trump to Iran: \"Open the Fu***In' Strait\" or face bombing Tuesday",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd2at6/trump_to_iran_open_the_fuin_strait_or_face/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 874,672 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 877,275 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_F-evhr-Z0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 353,180 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 363,697 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p_cQagtqtkA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,788 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 43,005 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ljyno2XoRyc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,847 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 28,608 views \u2022 ~658m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WsQJ0oo09OE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i3JXHVqWu1A"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VrBc93776cQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~51m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PD4z8HTT4s8"
+  },
+  {
+    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~54m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x2DjOl2HblI"
   },
   {
     "topic": "All Elite Wrestling: Collision",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LDNs0Mz2ktA"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aBEluE4hNCE"
   },
   {
@@ -248,23 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9LkxI-Zb06s"
   },
   {
-    "topic": "Inside Politics With Manu Raju",
+    "topic": "Spring Dinner",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LpJ3GFl6EvA"
-  },
-  {
-    "topic": "Spring Burning",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~65m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oPitXM5v-u0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0HXGfqL_i90"
   }
 ]
