@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1scdfrr/ok_i_got_the_message/"
   },
   {
-    "topic": "The size of close ad button",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
-  },
-  {
     "topic": "Crine at this poll",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sckwgi/crine_at_this_poll/"
+  },
+  {
+    "topic": "The size of close ad button",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sbyk15/the_size_of_close_ad_button/"
   },
   {
     "topic": "Hungary\u2019s main opposition party has said it would move to amend the constitution to limit prime ministers to two terms if it wins next week\u2019s election\u2014a move that would effectively bar incumbent Viktor Orb\u00e1n from ever returning to office",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sc5t52/taketwo_laid_off_the_head_its_ai_division_and_an/"
   },
   {
+    "topic": "EASTER Steal a Brainrot Update (HUGE)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,039,134 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=blf0LzQOh90"
+  },
+  {
     "topic": "Love Insurance Kompany - Trailer | Pradeep Ranganathan | Anirudh | Vignesh Shivan | Krithi Shetty",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,650,551 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 2,702,084 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wMiCXl8ZybQ"
   },
   {
@@ -192,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,387,402 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 1,414,683 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aamoxof1uyQ"
-  },
-  {
-    "topic": "ROBLOX SKATEBOARD FOR BRAINROTS!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 234,704 views \u2022 ~326m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VcNUw9Ase8o"
   },
   {
     "topic": "Talk About It",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,071 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 31,561 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lR7t0CXWwq8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oeonWtNp0hM"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BqccNScbhOA"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3P1IUEJVNwY"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gqCUiEOoH7s"
   }
 ]
