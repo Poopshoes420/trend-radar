@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1se0pib/english_be_easy_part_2/"
   },
   {
-    "topic": "Bro thought his life was over \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sdygfq/bro_thought_his_life_was_over/"
-  },
-  {
     "topic": "The pics from Artemis on the darkside of the moon are wild",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1se4zjh/the_pics_from_artemis_on_the_darkside_of_the_moon/"
   },
   {
-    "topic": "Well I\u2019ll be damned..",
+    "topic": "Bro thought his life was over \ud83d\ude2d",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sdypp3/well_ill_be_damned/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sdygfq/bro_thought_his_life_was_over/"
+  },
+  {
+    "topic": "Glad to see the essentials were packed for this mission \ud83d\ude05",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1se69wq/glad_to_see_the_essentials_were_packed_for_this/"
   },
   {
     "topic": "Youtube copyright system is broken",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "NASA\u2019s Artemis II astronauts are officially farther from Earth than any human has gone before",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1se6h4r/nasas_artemis_ii_astronauts_are_officially/"
+  },
+  {
     "topic": "Iran Rejects Call for Temporary Ceasefire to Reopen Strait of Hormuz After Reviewing New Peace Proposal",
     "sources": [
       "reddit"
@@ -124,24 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdvijd/french_central_bank_nets_13bn_by_pulling_gold_out/"
-  },
-  {
-    "topic": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdwdz8/iran_struck_us_forces_relocated_on_kuwaits/"
-  },
-  {
-    "topic": "NASA cooking Samsung's camera on IG.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sdz5v9/nasa_cooking_samsungs_camera_on_ig/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdsmvf/my_painted_model_of_virginia_from_sons_of_the/"
   },
   {
+    "topic": "Star Wars Zero Company writer wants its cast to have real friction: 'It's not a personal fantasy game",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdoes6/star_wars_zero_company_writer_wants_its_cast_to/"
+  },
+  {
     "topic": "Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,835,869 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 13,060,765 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XW1RkKiRnsg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,195,972 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 1,579,954 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KWoTyfPsqbE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,686,964 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 1,857,586 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,742,729 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 1,880,700 views \u2022 ~617m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ygYPwsjyCzQ"
   },
   {
@@ -216,39 +216,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,897 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 143,539 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PMd1at7OwiE"
+  },
+  {
+    "topic": "Avengers Doomsday Doctor Doom Teaser Breakdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 34,399 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CnvsdUe0h9g"
   },
   {
     "topic": "Lord of the Flies | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,940 views \u2022 ~304m old",
+    "why": "Trending on YouTube \u2022 43,521 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ujupEUFDm3E"
-  },
-  {
-    "topic": "St. Louis Cardinals at Detroit Tigers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xTQ_RCAv5z8"
   },
   {
     "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~33m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pT6s8HuZsTA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fArbLswbChU"
+  },
+  {
+    "topic": "St. Louis Cardinals at Detroit Tigers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~509m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xTQ_RCAv5z8"
   },
   {
     "topic": "Championship: Auburn vs. Tulsa",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~437m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cNKsVOKBXGg"
   },
   {
@@ -256,23 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oswsuxnzEfM"
-  },
-  {
-    "topic": "Boston Bruins at Philadelphia Flyers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~652m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MX_dZottp7Y"
   },
   {
     "topic": "Don't Mess with the Randomizer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~494m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t1gK-z1tCxA"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f2fipUra9Mo"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c4ak2bsGqog"
   },
   {
@@ -296,15 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gjbQuxe99IM"
-  },
-  {
-    "topic": "The Weekend: Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vNS4wUvH8Wg"
   }
 ]
