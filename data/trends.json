@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdls68/youtube_copyright_system_is_broken/"
   },
   {
-    "topic": "they hid likes and dislikes AGAIN",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdp1b9/they_hid_likes_and_dislikes_again/"
-  },
-  {
     "topic": "We seriously need a rival for YouTube",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdsz6u/we_seriously_need_a_rival_for_youtube/"
+  },
+  {
+    "topic": "they hid likes and dislikes AGAIN",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdp1b9/they_hid_likes_and_dislikes_again/"
   },
   {
     "topic": "bro I just opened youtube",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd6btd/pretend_its_a_youtube_comment_section_image/"
   },
   {
+    "topic": "Iran Rejects Call for Temporary Ceasefire to Reopen Strait of Hormuz After Reviewing New Peace Proposal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdua84/iran_rejects_call_for_temporary_ceasefire_to/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1502, Part 1 (Thread #1649)",
     "sources": [
       "reddit"
@@ -108,24 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran Rejects Call for Temporary Ceasefire to Reopen Strait of Hormuz After Reviewing New Peace Proposal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdua84/iran_rejects_call_for_temporary_ceasefire_to/"
-  },
-  {
-    "topic": "Iran\u2019s top university bombed as US, Israel intensify attacks; 34 killed | US-Israel war on Iran News",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdtjnm/irans_top_university_bombed_as_us_israel/"
-  },
-  {
     "topic": "Iran allows 15 ships through Strait of Hormuz",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdm8gi/iran_allows_15_ships_through_strait_of_hormuz/"
+  },
+  {
+    "topic": "Head of Iran's Revolutionary Guards' intelligence organisation announced as dead, state media reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdspra/head_of_irans_revolutionary_guards_intelligence/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdbaqv/i_will_meet_with_her_when_im_ready_ok_cyberpunk/"
   },
   {
+    "topic": "BTS '2.0' Dance Practice",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 703,801 views \u2022 ~145m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
+  },
+  {
     "topic": "ROBLOX TROLLING vs VOICECHATTERS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 328,621 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 379,832 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BF3-IPKbtI0"
+  },
+  {
+    "topic": "Gmod Scary Map (Not Really) - A Really Good Anomaly Map!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 256,537 views \u2022 ~560m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IoXnJRoUbNk"
   },
   {
     "topic": "St. Louis Cardinals at Detroit Tigers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xTQ_RCAv5z8"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HNoJgeWhigo"
   },
   {
@@ -208,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g8zCAXH4K0I"
+  },
+  {
+    "topic": "Championship: Auburn vs. Tulsa",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cNKsVOKBXGg"
   },
   {
     "topic": "Washington Capitals at New York Rangers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oswsuxnzEfM"
   },
   {
@@ -224,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~374m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX_dZottp7Y"
-  },
-  {
-    "topic": "College Slam Dunk & 3-Point Championships",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xEtCwj3mVDQ"
   },
   {
     "topic": "Don't Mess with the Randomizer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=t1gK-z1tCxA"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
     "exampleUrl": "https://www.youtube.com/watch?v=c4ak2bsGqog"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f2fipUra9Mo"
   },
   {
@@ -264,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gjbQuxe99IM"
   },
   {
@@ -272,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vNS4wUvH8Wg"
   },
   {
@@ -280,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XdjVhuu2CMs"
   },
   {
@@ -288,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OUzrYv-8PLk"
   },
   {
@@ -296,7 +312,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~193m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KoV9HilYNks"
   },
   {
@@ -304,7 +320,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o8BXYNEb5sA"
   },
   {
@@ -312,7 +328,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~196m old",
     "exampleUrl": "https://www.youtube.com/watch?v=unnN4TxexOg"
   },
   {
@@ -320,23 +336,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gkFUKm6aVVQ"
-  },
-  {
-    "topic": "Mega Bites for Mega Bucks",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3COawdIIfC4"
-  },
-  {
-    "topic": "Ben-Hur",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~536m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yUH3HTWjw6k"
   }
 ]
