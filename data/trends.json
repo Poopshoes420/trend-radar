@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdp1b9/they_hid_likes_and_dislikes_again/"
   },
   {
-    "topic": "Pretend it's a YouTube comment section (image unrelated).",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd6btd/pretend_its_a_youtube_comment_section_image/"
-  },
-  {
     "topic": "bro I just opened youtube",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdg5j4/bro_i_just_opened_youtube/"
   },
   {
-    "topic": "So we're just removing titles now??",
+    "topic": "Pretend it's a YouTube comment section (image unrelated).",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd3oui/so_were_just_removing_titles_now/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sd6btd/pretend_its_a_youtube_comment_section_image/"
+  },
+  {
+    "topic": "Comments suddenly disappeared on video",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdrgww/comments_suddenly_disappeared_on_video/"
   },
   {
     "topic": "Iran allows 15 ships through Strait of Hormuz",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdoes6/star_wars_zero_company_writer_wants_its_cast_to/"
   },
   {
+    "topic": "My painted model of Virginia from Sons of the Forest complete with base",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdsmvf/my_painted_model_of_virginia_from_sons_of_the/"
+  },
+  {
     "topic": "I will meet with her when I'm ready, ok? (Cyberpunk 2077)",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdbaqv/i_will_meet_with_her_when_im_ready_ok_cyberpunk/"
   },
   {
-    "topic": "State of Decay 3 lead says the game only existed in a Word document when its reveal trailer dropped 6 years ago",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sd70us/state_of_decay_3_lead_says_the_game_only_existed/"
-  },
-  {
     "topic": "medium iq gaming",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 477,018 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 487,997 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pi8UQjaB1yg"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 163,751 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 227,698 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BF3-IPKbtI0"
-  },
-  {
-    "topic": "DEEP DIH DUNGEON",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 455,764 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3Aspc9fmifU"
   },
   {
     "topic": "ROBLOX GUESS THE NUMBER..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,469 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 336,267 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EQ1AQ8Gp-oI"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,998 views \u2022 ~546m old",
+    "why": "Trending on YouTube \u2022 220,462 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nIC-ZkW81o8"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 159,973 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 179,927 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CKv9XbO0VKM"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HNoJgeWhigo"
   },
   {
@@ -240,39 +232,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BOrSSfpFO6E"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aCikSH949ks"
+  },
+  {
+    "topic": "Boston Bruins at Philadelphia Flyers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MX_dZottp7Y"
   },
   {
     "topic": "College Slam Dunk & 3-Point Championships",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BjV2flSNUu0"
   },
   {
-    "topic": "Minnesota Wild at Detroit Red Wings",
+    "topic": "Philadelphia Phillies at Colorado Rockies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=f0KaA-rw19k"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OUzrYv-8PLk"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o8BXYNEb5sA"
+  },
+  {
+    "topic": "Saving the Homestead",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~49m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MqfFn9nxKAY"
   },
   {
     "topic": "Ben-Hur",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yUH3HTWjw6k"
   },
   {
@@ -280,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JIgfTJXfVxw"
   },
   {
@@ -288,15 +296,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HlXJFbL77N0"
+  },
+  {
+    "topic": "The Super 16 Show Out",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~62m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sHwwrB0BZZk"
   },
   {
     "topic": "2026 Daytona 500",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~214m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wZOI_Ccwv9s"
   },
   {
@@ -304,23 +320,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UegYw88PZiI"
   },
   {
-    "topic": "Left-Hand Man",
+    "topic": "Toronto Raptors at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7s0cKgJ7cf4"
-  },
-  {
-    "topic": "Dirty Dancing",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ihY-Moy8bGk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5sGZM8vfKT8"
   }
 ]
