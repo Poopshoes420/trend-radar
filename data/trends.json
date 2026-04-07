@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Logic you can't argue against",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sefw22/logic_you_cant_argue_against/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Logic you can't argue against",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sefw22/logic_you_cant_argue_against/"
   },
   {
     "topic": "They might be good",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1secdo7/i_have_never_turned_off_a_setting_so_fast/"
   },
   {
+    "topic": "I cant sub to anymore channels?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1senv7d/i_cant_sub_to_anymore_channels/"
+  },
+  {
     "topic": "Why do so many of the 10-12 hour White Noise videos always have this big spike right around the 6.5 hour mark?",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sedebu/youtube_is_starting_to_hide_the_like_button/"
   },
   {
-    "topic": "I cant sub to anymore channels?",
+    "topic": "PAKISTAN Pakistan\u2019s Constitutional Court upholds marriage between Muslim man and 13-year-old Christian girl",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1senv7d/i_cant_sub_to_anymore_channels/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1seobcn/pakistan_pakistans_constitutional_court_upholds/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1503, Part 1 (Thread #1650)",
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sejpko/trump_warns_that_the_decision_to_attack_all_of/"
-  },
-  {
-    "topic": "Trump: \u2018Every power plant in Iran will be out of business in four hours\u2019 if no deal by deadline",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sed31k/trump_every_power_plant_in_iran_will_be_out_of/"
   },
   {
     "topic": "JD Vance due in Hungary to back Orban's re-election bid",
@@ -184,71 +184,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 450,323 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 503,604 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TNl1OMVsCns"
-  },
-  {
-    "topic": "My Car Broke Down In The Middle Of Nowhere\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 225,532 views \u2022 ~613m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TbVm_64EA9g"
   },
   {
     "topic": "Character Trailer - \"Linnea: Precise Answers, Curious Wonders!\" | Genshin Impact #Linnea",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,839 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 123,199 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G3VvCIa-jB0"
+  },
+  {
+    "topic": "My Car Broke Down In The Middle Of Nowhere\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 247,119 views \u2022 ~696m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TbVm_64EA9g"
   },
   {
     "topic": "This Horror Game Is Too Realistic\u2026 [Subliminal]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,060 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 156,300 views \u2022 ~570m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PRNRn_6LGco"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8Zbe9-4YCJY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "College GameDay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5pxilN7jFNQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ft8fPDBrT08"
   },
   {
     "topic": "Live From the Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~232m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LBHYJCLAlIw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ye795WML8SU"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gyYrPeS1I9Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5pxilN7jFNQ"
   },
   {
-    "topic": "Pardon the Interruption",
+    "topic": "Making Enemies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Fl42Apq793U"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=09YNXfvTNU4"
+  },
+  {
+    "topic": "The Act of Monkey Barring",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zrQpRQ9b8cE"
   }
 ]
