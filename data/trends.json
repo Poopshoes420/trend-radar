@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1se4zjh/the_pics_from_artemis_on_the_darkside_of_the_moon/"
   },
   {
-    "topic": "In a few weeks this video will be legally allowed to drink.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seaw1c/in_a_few_weeks_this_video_will_be_legally_allowed/"
-  },
-  {
     "topic": "I cant sub to anymore channels?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1senv7d/i_cant_sub_to_anymore_channels/"
+  },
+  {
+    "topic": "In a few weeks this video will be legally allowed to drink.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seaw1c/in_a_few_weeks_this_video_will_be_legally_allowed/"
   },
   {
     "topic": "I have never turned off a setting so fast",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 166,431 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 174,897 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PRNRn_6LGco"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=712f2OqP0Lk"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
+  },
+  {
+    "topic": "Los Angeles Dodgers at Toronto Blue Jays",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yyh8cW3iJAo"
   },
   {
     "topic": "The Rachel Maddow Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xJu0MfbTBKw"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ft8fPDBrT08"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ye795WML8SU"
   },
   {
@@ -240,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=09YNXfvTNU4"
+  },
+  {
+    "topic": "The Blues Brothers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WM9Rcb2WbA4"
   },
   {
     "topic": "The Act of Monkey Barring",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zrQpRQ9b8cE"
   }
 ]
