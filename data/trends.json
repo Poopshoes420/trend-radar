@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Just friend things",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sexuvi/just_friend_things/"
-  },
-  {
     "topic": "For reallllll",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1seyw34/for_reallllll/"
   },
   {
-    "topic": "Logic you can't argue against",
+    "topic": "I mean there's that...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sefw22/logic_you_cant_argue_against/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sf0txs/i_mean_theres_that/"
+  },
+  {
+    "topic": "Just friend things",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sexuvi/just_friend_things/"
   },
   {
     "topic": "I cant sub to anymore channels?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seaw1c/in_a_few_weeks_this_video_will_be_legally_allowed/"
   },
   {
+    "topic": "Oh...wow..",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sezr6y/ohwow/"
+  },
+  {
     "topic": "Why do so many of the 10-12 hour White Noise videos always have this big spike right around the 6.5 hour mark?",
     "sources": [
       "reddit"
@@ -79,24 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seg5ho/why_do_so_many_of_the_1012_hour_white_noise/"
-  },
-  {
-    "topic": "I have never turned off a setting so fast",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1secdo7/i_have_never_turned_off_a_setting_so_fast/"
-  },
-  {
-    "topic": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sev0hb/trump_says_a_whole_civilization_will_die_tonight/"
   },
   {
     "topic": "Iran cuts all diplomatic channels with US ahead of Trump\u2019s Strait of Hormuz deadline",
@@ -126,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sev0hb/trump_says_a_whole_civilization_will_die_tonight/"
+  },
+  {
     "topic": "US strikes Iran\u2019s main oil hub on Kharg Island as IRGC warns: 'Restraint is over'",
     "sources": [
       "reddit"
@@ -142,15 +142,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdqkuc/making_friends_monday_share_your_game_tags_here/"
-  },
-  {
-    "topic": "The lovely messages you get in today\u2019s climate when playing GTA online",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sexosu/the_lovely_messages_you_get_in_todays_climate/"
   },
   {
     "topic": "As an older gamer, seeing young kids waste their money on in-game purchases eats at my soul.",
@@ -171,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1seurae/how_is_there_no_modern_version_of_rockband/"
   },
   {
+    "topic": "[Indie Enthusiast] Games I Recognize as Masterpieces But Can't Finish Because I'm Too Dumb, Too Busy, and Under-Notebooked.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sez6mp/indie_enthusiast_games_i_recognize_as/"
+  },
+  {
     "topic": "Nvidia\u2019s DLSS 5 video gets blocked after false copyright claim from Italian broadcaster",
     "sources": [
       "reddit"
@@ -180,35 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1semgo8/nvidias_dlss_5_video_gets_blocked_after_false/"
   },
   {
+    "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'Hooligan' Official MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,883,282 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=diBO0gMuTXo"
+  },
+  {
     "topic": "The Invite | Official Trailer HD | A24",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,541 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 148,856 views \u2022 ~232m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
-  },
-  {
-    "topic": "Character Trailer - \"Linnea: Precise Answers, Curious Wonders!\" | Genshin Impact #Linnea",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 214,395 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=G3VvCIa-jB0"
   },
   {
     "topic": "Championship: UConn vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WHaRtSIbICU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1X5jMaZyuzA"
   },
   {
     "topic": "Championship Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=712f2OqP0Lk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~327m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yyh8cW3iJAo"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dPV8nLpb1YA"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~465m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xJu0MfbTBKw"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~536m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ft8fPDBrT08"
   },
   {
@@ -264,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ye795WML8SU"
-  },
-  {
-    "topic": "Making Enemies",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=09YNXfvTNU4"
   }
 ]
