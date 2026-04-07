@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seaw1c/in_a_few_weeks_this_video_will_be_legally_allowed/"
   },
   {
-    "topic": "I have never turned off a setting so fast",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1secdo7/i_have_never_turned_off_a_setting_so_fast/"
-  },
-  {
     "topic": "I cant sub to anymore channels?",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1senv7d/i_cant_sub_to_anymore_channels/"
+  },
+  {
+    "topic": "I have never turned off a setting so fast",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1secdo7/i_have_never_turned_off_a_setting_so_fast/"
   },
   {
     "topic": "Why do so many of the 10-12 hour White Noise videos always have this big spike right around the 6.5 hour mark?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump warns that the decision to attack all of Iran\u2019s power plants is final",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sejpko/trump_warns_that_the_decision_to_attack_all_of/"
-  },
-  {
     "topic": "JD Vance due in Hungary to back Orban's re-election bid",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sensp2/jd_vance_due_in_hungary_to_back_orbans_reelection/"
+  },
+  {
+    "topic": "Trump warns that the decision to attack all of Iran\u2019s power plants is final",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sejpko/trump_warns_that_the_decision_to_attack_all_of/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,60 +171,52 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sel6sy/i_got_into_3d_printing_and_made_my_best_friend/"
   },
   {
-    "topic": "Double Dragon Creator Yoshihisa Kishimoto Has Passed Away",
+    "topic": "Best Final Mission in Gaming? Mass Effect 2 IMO.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdzlb6/double_dragon_creator_yoshihisa_kishimoto_has/"
-  },
-  {
-    "topic": "The DUCK SONG but I'M THE DUCK..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 503,604 views \u2022 ~663m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TNl1OMVsCns"
-  },
-  {
-    "topic": "Character Trailer - \"Linnea: Precise Answers, Curious Wonders!\" | Genshin Impact #Linnea",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 123,199 views \u2022 ~336m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=G3VvCIa-jB0"
-  },
-  {
-    "topic": "My Car Broke Down In The Middle Of Nowhere\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 247,119 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TbVm_64EA9g"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sers64/best_final_mission_in_gaming_mass_effect_2_imo/"
   },
   {
     "topic": "This Horror Game Is Too Realistic\u2026 [Subliminal]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,300 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 166,431 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PRNRn_6LGco"
+  },
+  {
+    "topic": "Championship Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=712f2OqP0Lk"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
+  },
+  {
+    "topic": "The Rachel Maddow Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xJu0MfbTBKw"
   },
   {
     "topic": "College GameDay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ft8fPDBrT08"
   },
   {
@@ -240,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ye795WML8SU"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5pxilN7jFNQ"
   },
   {
     "topic": "Making Enemies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=09YNXfvTNU4"
   },
   {
@@ -264,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zrQpRQ9b8cE"
   }
 ]
