@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seaw1c/in_a_few_weeks_this_video_will_be_legally_allowed/"
   },
   {
-    "topic": "I have never turned off a setting so fast",
+    "topic": "Ok Serious Question, Why Is The Algorithm Sometimes Absolute Dog Poop!??",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1secdo7/i_have_never_turned_off_a_setting_so_fast/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ses94j/ok_serious_question_why_is_the_algorithm/"
   },
   {
     "topic": "Why do so many of the 10-12 hour White Noise videos always have this big spike right around the 6.5 hour mark?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seg5ho/why_do_so_many_of_the_1012_hour_white_noise/"
   },
   {
-    "topic": "Youtube is starting to hide the like button counter.",
+    "topic": "I have never turned off a setting so fast",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sedebu/youtube_is_starting_to_hide_the_like_button/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1secdo7/i_have_never_turned_off_a_setting_so_fast/"
   },
   {
     "topic": "PAKISTAN Pakistan\u2019s Constitutional Court upholds marriage between Muslim man and 13-year-old Christian girl",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Reports in Iran: Explosions on Kharg 'Oil Island,' bridge attacked near Qom",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1set0va/reports_in_iran_explosions_on_kharg_oil_island/"
+  },
+  {
     "topic": "JD Vance due in Hungary to back Orban's re-election bid",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sensp2/jd_vance_due_in_hungary_to_back_orbans_reelection/"
-  },
-  {
-    "topic": "Trump warns that the decision to attack all of Iran\u2019s power plants is final",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sejpko/trump_warns_that_the_decision_to_attack_all_of/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1se28yc/yall_need_to_embrace_your_local_libraries_just/"
   },
   {
-    "topic": "I got into 3D printing and made my best friend the Helldivers 2 award he deserves. I'm going to give it to him in costume in an impromptu award ceremony in his living room and have him improv an acceptance speech. Cause why not.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sel6sy/i_got_into_3d_printing_and_made_my_best_friend/"
-  },
-  {
     "topic": "Best Final Mission in Gaming? Mass Effect 2 IMO.",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sers64/best_final_mission_in_gaming_mass_effect_2_imo/"
   },
   {
-    "topic": "This Horror Game Is Too Realistic\u2026 [Subliminal]",
+    "topic": "I got into 3D printing and made my best friend the Helldivers 2 award he deserves. I'm going to give it to him in costume in an impromptu award ceremony in his living room and have him improv an acceptance speech. Cause why not.",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 174,897 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PRNRn_6LGco"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sel6sy/i_got_into_3d_printing_and_made_my_best_friend/"
   },
   {
     "topic": "Championship Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=712f2OqP0Lk"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-1JbFZcnj6U"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yyh8cW3iJAo"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xJu0MfbTBKw"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y1EOFAsu52w"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ft8fPDBrT08"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ye795WML8SU"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=09YNXfvTNU4"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WM9Rcb2WbA4"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zrQpRQ9b8cE"
   }
 ]
