@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1seaw1c/in_a_few_weeks_this_video_will_be_legally_allowed/"
   },
   {
-    "topic": "Youtube copyright system is broken",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdls68/youtube_copyright_system_is_broken/"
-  },
-  {
     "topic": "bro\u2026 what is this",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1se39o4/bro_what_is_this/"
+  },
+  {
+    "topic": "Youtube copyright system is broken",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sdls68/youtube_copyright_system_is_broken/"
   },
   {
     "topic": "Youtube is starting to hide the like button counter.",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sed31k/trump_every_power_plant_in_iran_will_be_out_of/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1502, Part 1 (Thread #1649)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1503, Part 1 (Thread #1650)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sdofqa/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1seleyq/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #13)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sd3722/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "\u2018They\u2019re Gonna Pay a Big Price\u2019: Trump Wildly Claims US Guns Sent to Iran Were Kept by the Wrong People",
+    "topic": "Trump warns that the decision to attack all of Iran\u2019s power plants is final",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sea4mw/theyre_gonna_pay_a_big_price_trump_wildly_claims/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sejpko/trump_warns_that_the_decision_to_attack_all_of/"
   },
   {
     "topic": "Iran Asks Youth To Make 'Human Shields Around Power Plants' Ahead Of Trump's Tuesday Deadline | Reports",
@@ -162,45 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1se28yc/yall_need_to_embrace_your_local_libraries_just/"
   },
   {
-    "topic": "Double Dragon Creator Yoshihisa Kishimoto Has Passed Away",
+    "topic": "Nvidia\u2019s DLSS 5 video gets blocked after false copyright claim from Italian broadcaster",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdzlb6/double_dragon_creator_yoshihisa_kishimoto_has/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1semgo8/nvidias_dlss_5_video_gets_blocked_after_false/"
   },
   {
-    "topic": "My painted model of Virginia from Sons of the Forest complete with base",
+    "topic": "I got into 3D printing and made my best friend the Helldivers 2 award he deserves. I'm going to give it to him in costume in an impromptu award ceremony in his living room and have him improv an acceptance speech. Cause why not.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sdsmvf/my_painted_model_of_virginia_from_sons_of_the/"
-  },
-  {
-    "topic": "Artemis II's record-breaking lunar flyby",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,443,392 views \u2022 ~50m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=j0vI3fVJSgE"
-  },
-  {
-    "topic": "The Devil Wears Prada 2 | Final Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 994,947 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PMd1at7OwiE"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sel6sy/i_got_into_3d_printing_and_made_my_best_friend/"
   },
   {
     "topic": "Marvel Television\u2019s Daredevil: Born Again Season 2 | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 703,361 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 873,023 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U1MqJBVn8Rk"
   },
   {
@@ -208,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,904 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 348,612 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TNl1OMVsCns"
   },
   {
@@ -216,47 +200,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,484 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 326,488 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BBPAFpek0_8"
   },
   {
-    "topic": "Avengers Doomsday Doctor Doom Teaser Breakdown",
+    "topic": "My Car Broke Down In The Middle Of Nowhere\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,208 views \u2022 ~616m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CnvsdUe0h9g"
+    "why": "Trending on YouTube \u2022 166,236 views \u2022 ~447m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TbVm_64EA9g"
+  },
+  {
+    "topic": "This Horror Game Is Too Realistic\u2026 [Subliminal]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 86,115 views \u2022 ~321m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PRNRn_6LGco"
   },
   {
     "topic": "NEW SEASON! Californians Move To Texas Season 2 | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 18,691 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 26,029 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PYGXh0iHl-k"
   },
   {
-    "topic": "America Reports",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NYxWgLvYUu8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8Zbe9-4YCJY"
   },
   {
-    "topic": "Morning Joe",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Dc1fZwVA-iI"
-  },
-  {
-    "topic": "CNN News Central",
+    "topic": "Katy Tur Reports",
     "sources": [
       "youtube"
     ],
     "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QnTMcJTGUVk"
+    "exampleUrl": "https://www.youtube.com/watch?v=leDO8aa6dTk"
+  },
+  {
+    "topic": "The Arena With Kasie Hunt",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZY3xhLyhgCk"
   }
 ]
