@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfwx7n/come_on_youtube/"
   },
   {
+    "topic": "YouTube is killing their own platform",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfztts/youtube_is_killing_their_own_platform/"
+  },
+  {
     "topic": "So it has begun",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sffvm0/im_so_done_this_is_an_all_new_low_and_im_so/"
   },
   {
-    "topic": "YouTube is killing their own platform",
+    "topic": "(Discussion) why youtube shouldn't bring DMs back",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfztts/youtube_is_killing_their_own_platform/"
-  },
-  {
-    "topic": "How many times do I have to not click on a video before the moronic algorithm realizes I don\u2019t want to fucking see it?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfxawc/how_many_times_do_i_have_to_not_click_on_a_video/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sg22bo/discussion_why_youtube_shouldnt_bring_dms_back/"
   },
   {
     "topic": "Iran halts Strait of Hormuz traffic, warns over Israel Lebanon strikes",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfsvz4/s\u00e1nchez_to_trump_spain_wont_applaud_those_who_set/"
   },
   {
+    "topic": "Bryan Cranston talks about his daughter, Taylor Dearden: \u2018Anytime your child is praised for anything, even a little moment of kindness, it just lifts a parents up\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sg0b8w/bryan_cranston_talks_about_his_daughter_taylor/"
+  },
+  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sg124x/pok\u00e9mon_champions_launches_to_mixed_reception_as/"
   },
   {
-    "topic": "Forza Horizon 6 full map reveal",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sfove9/forza_horizon_6_full_map_reveal/"
-  },
-  {
     "topic": "Anyma, LISA - Bad Angel (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,261,794 views \u2022 ~326m old",
+    "why": "Trending on YouTube \u2022 1,401,178 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dKmPEhJ4wjY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,438 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 438,781 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lxz-055QD6Q"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 390,957 views \u2022 ~310m old",
+    "why": "Trending on YouTube \u2022 454,959 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AGWRN-cB2DU"
-  },
-  {
-    "topic": "T.O.P - \"\uc644\uc804\ubbf8\ucce4\uc5b4! (Studio54)\" MV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 771,400 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cfaybWG25D4"
   },
   {
     "topic": "Forza Horizon 6 Official Initial Drive Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 528,621 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 571,924 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H1qlPZMfmiU"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 213,828 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 248,515 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k-YAcjaLuSI"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,148 views \u2022 ~448m old",
+    "why": "Trending on YouTube \u2022 164,117 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I0pzvZ-8yIs"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,014 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 129,629 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b14IFe4an5k"
   },
   {
@@ -248,31 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,663 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 44,068 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6jPLEVrL4BI"
   },
   {
-    "topic": "CNN Global Report: War With Iran",
+    "topic": "Cyberpunk 2077 \u2014 PS5\u00ae Pro Update Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~720m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L96ES5nJpKU"
+    "why": "Trending on YouTube \u2022 101,610 views \u2022 ~503m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4sXRNUYsdbA"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
-  },
-  {
-    "topic": "Live From the Masters",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5A37DlG_IjU"
   }
 ]
