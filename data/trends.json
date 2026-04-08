@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sffbhh/poor_guy_live_tv_embarrassmentjust_watching_the/"
   },
   {
-    "topic": "She got mango teeth",
+    "topic": "[OC] Critical Outlook",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sevqvi/she_got_mango_teeth/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfmeuc/oc_critical_outlook/"
   },
   {
     "topic": "So it has begun",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfa2kv/just_got_a_regular_show_episode_as_an_ad/"
   },
   {
-    "topic": "I\u2019m speechless",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf87nq/im_speechless/"
-  },
-  {
     "topic": "I\u2019m so done\u2026 this is an all new low and I\u2019m so annoyed",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sffvm0/im_so_done_this_is_an_all_new_low_and_im_so/"
   },
   {
-    "topic": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
+    "topic": "I\u2019m speechless",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf87nq/im_speechless/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1504, Part 1 (Thread #1651)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/"
   },
   {
     "topic": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
@@ -180,27 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1seurae/how_is_there_no_modern_version_of_rockband/"
   },
   {
-    "topic": "LAUGHING INTO THE SKY | Approximately Up",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 593,264 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zVeFQHwW_10"
-  },
-  {
-    "topic": "DO NOT Play Super Battle Golf Like This",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 512,647 views \u2022 ~669m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5IS5FLUbpDo"
-  },
-  {
     "topic": "Stalked By A Killer\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,873 views \u2022 ~616m old",
+    "why": "Trending on YouTube \u2022 240,246 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7szU2vPN2gs"
   },
   {
@@ -208,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p92uaIud8bI"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=L96ES5nJpKU"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
   },
   {
@@ -224,15 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "Philadelphia Flyers at New Jersey Devils",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=58fAS-HuRis"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yYT17jTVyP4"
+  },
+  {
+    "topic": "Squatter Shutdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EupUhEaMZ80"
+  },
+  {
+    "topic": "Cocke County Crackdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=736sSihjKP8"
   }
 ]
