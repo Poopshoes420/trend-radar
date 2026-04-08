@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfj4mq/first_time_since_i_got_married_i_got_to_explore/"
   },
   {
+    "topic": "[OC] Critical Outlook",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfmeuc/oc_critical_outlook/"
+  },
+  {
     "topic": "Timing really is... everything.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sffbhh/poor_guy_live_tv_embarrassmentjust_watching_the/"
-  },
-  {
-    "topic": "[OC] Critical Outlook",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfmeuc/oc_critical_outlook/"
   },
   {
     "topic": "So it has begun",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1seurae/how_is_there_no_modern_version_of_rockband/"
   },
   {
-    "topic": "Stalked By A Killer\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 240,246 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7szU2vPN2gs"
-  },
-  {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p92uaIud8bI"
   },
   {
@@ -200,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L96ES5nJpKU"
+  },
+  {
+    "topic": "Live From the Masters",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5A37DlG_IjU"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yYT17jTVyP4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EupUhEaMZ80"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=736sSihjKP8"
   }
 ]
