@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfj4mq/first_time_since_i_got_married_i_got_to_explore/"
   },
   {
-    "topic": "[OC] Critical Outlook",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfmeuc/oc_critical_outlook/"
-  },
-  {
     "topic": "Fast and Cheerful On The Track",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfokme/fast_and_cheerful_on_the_track/"
   },
   {
-    "topic": "Timing really is... everything.",
+    "topic": "[OC] Critical Outlook",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sf88fp/timing_really_is_everything/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfmeuc/oc_critical_outlook/"
+  },
+  {
+    "topic": "[OC] only one way to find out",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfq23f/oc_only_one_way_to_find_out/"
   },
   {
     "topic": "So it has begun",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf8chm/so_it_has_begun/"
+  },
+  {
+    "topic": "I\u2019m so done\u2026 this is an all new low and I\u2019m so annoyed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sffvm0/im_so_done_this_is_an_all_new_low_and_im_so/"
   },
   {
     "topic": "i've been getting these softcore ads for around two weeks now, they keep showing up no matter how much i report them",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfa2kv/just_got_a_regular_show_episode_as_an_ad/"
-  },
-  {
-    "topic": "I\u2019m so done\u2026 this is an all new low and I\u2019m so annoyed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sffvm0/im_so_done_this_is_an_all_new_low_and_im_so/"
   },
   {
     "topic": "Why does everyone wake up to this video?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/"
-  },
-  {
     "topic": "Israel's opposition slams Netanyahu's 'political disaster', 'strategic failure' in Iran - Region - World",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfojeb/israels_opposition_slams_netanyahus_political/"
   },
   {
-    "topic": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
+    "topic": "Trump announces 50% tariffs on nations supplying Iran with weapons",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfqjm2/trump_announces_50_tariffs_on_nations_supplying/"
+  },
+  {
+    "topic": "Iranian Oil Refining Company confirms attack on Lavan refinery",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfp919/iranian_oil_refining_company_confirms_attack_on/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sffc0f/quantic_dreams_star_wars_eclipse_is_reportedly/"
   },
   {
-    "topic": "[Indie Enthusiast] Games I Recognize as Masterpieces But Can't Finish Because I'm Too Dumb, Too Busy, and Under-Notebooked.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sez6mp/indie_enthusiast_games_i_recognize_as/"
-  },
-  {
     "topic": "Why is there such a lack of modern licenced games?",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sfn584/why_is_there_such_a_lack_of_modern_licenced_games/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "topic": "[Indie Enthusiast] Games I Recognize as Masterpieces But Can't Finish Because I'm Too Dumb, Too Busy, and Under-Notebooked.",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 632,622 views \u2022 ~40m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=u0oreTKbv5o"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sez6mp/indie_enthusiast_games_i_recognize_as/"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p92uaIud8bI"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L96ES5nJpKU"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5A37DlG_IjU"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yYT17jTVyP4"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EupUhEaMZ80"
   },
   {
@@ -248,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~321m old",
     "exampleUrl": "https://www.youtube.com/watch?v=736sSihjKP8"
+  },
+  {
+    "topic": "Wedding Budget Has Entered the Chat",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~244m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QVNPZuenXLs"
   }
 ]
