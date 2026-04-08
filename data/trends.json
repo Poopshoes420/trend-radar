@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf97ya/iranians_form_human_chains_at_power_plants/"
   },
   {
-    "topic": "Florence Welch has partnered with Planned Parenthood to bring reproductive healthcare resources to fans who attend the next stretch of Florence + The Machine's ongoing tour.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sfdp2k/florence_welch_has_partnered_with_planned/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sez6mp/indie_enthusiast_games_i_recognize_as/"
   },
   {
+    "topic": "How is there no modern version of Rockband?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1seurae/how_is_there_no_modern_version_of_rockband/"
+  },
+  {
     "topic": "LAUGHING INTO THE SKY | Approximately Up",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 541,881 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 593,264 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zVeFQHwW_10"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 472,176 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 512,647 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5IS5FLUbpDo"
   },
   {
@@ -200,39 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 195,888 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 219,873 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7szU2vPN2gs"
   },
   {
-    "topic": "COUPLES WEEKEND Official Trailer (2026) Alexandra Daddario",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,148 views \u2022 ~699m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yjmbSnLwMC4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p92uaIud8bI"
   },
   {
-    "topic": "Special Report With Bret Baier",
+    "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SFmHWuLBQcg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
+  },
+  {
+    "topic": "Tee Time",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
   },
   {
     "topic": "The Lead With Jake Tapper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
     "exampleUrl": "https://www.youtube.com/watch?v=58fAS-HuRis"
-  },
-  {
-    "topic": "Katy Tur Reports",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~225m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LV5K3-VQl64"
   }
 ]
