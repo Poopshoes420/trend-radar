@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfmeuc/oc_critical_outlook/"
   },
   {
+    "topic": "Fast and Cheerful On The Track",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfokme/fast_and_cheerful_on_the_track/"
+  },
+  {
     "topic": "Timing really is... everything.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sf88fp/timing_really_is_everything/"
-  },
-  {
-    "topic": "Poor guy, live TV embarrassment..Just watching the game and saw this guy\ud83e\udd10\ud83e\udd10",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sffbhh/poor_guy_live_tv_embarrassmentjust_watching_the/"
   },
   {
     "topic": "So it has begun",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sffvm0/im_so_done_this_is_an_all_new_low_and_im_so/"
   },
   {
-    "topic": "I\u2019m speechless",
+    "topic": "Why does everyone wake up to this video?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf87nq/im_speechless/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfn1yp/why_does_everyone_wake_up_to_this_video/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1504, Part 1 (Thread #1651)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfb4mf/trump_suspends_iran_attack_for_two_weeks_subject/"
   },
   {
+    "topic": "Israel's opposition slams Netanyahu's 'political disaster', 'strategic failure' in Iran - Region - World",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfojeb/israels_opposition_slams_netanyahus_political/"
+  },
+  {
     "topic": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/"
-  },
-  {
-    "topic": "Iranians form human chains at power plants",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf97ya/iranians_form_human_chains_at_power_plants/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sez6mp/indie_enthusiast_games_i_recognize_as/"
   },
   {
-    "topic": "How is there no modern version of Rockband?",
+    "topic": "Why is there such a lack of modern licenced games?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1seurae/how_is_there_no_modern_version_of_rockband/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sfn584/why_is_there_such_a_lack_of_modern_licenced_games/"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 632,622 views \u2022 ~40m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=u0oreTKbv5o"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p92uaIud8bI"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L96ES5nJpKU"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dlth1Vsbpz8"
   },
   {
     "topic": "Live From the Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5A37DlG_IjU"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jEYgNwQSr_I"
   },
   {
     "topic": "Tee Time",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Lo9oS-JFpm4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yYT17jTVyP4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EupUhEaMZ80"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=736sSihjKP8"
   }
 ]
