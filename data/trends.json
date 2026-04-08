@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf1d4x/you_wake_up_and_your_hard_work_is_gone/"
   },
   {
+    "topic": "I\u2019m speechless",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf87nq/im_speechless/"
+  },
+  {
     "topic": "Ok Serious Question, Why Is The Algorithm Sometimes Absolute Dog Poop!??",
     "sources": [
       "reddit"
@@ -79,24 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ses94j/ok_serious_question_why_is_the_algorithm/"
-  },
-  {
-    "topic": "Why did youtube put 720p as premium",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sf2pzm/why_did_youtube_put_720p_as_premium/"
-  },
-  {
-    "topic": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/"
   },
   {
     "topic": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening",
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Iran cuts all diplomatic channels with US ahead of Trump\u2019s Strait of Hormuz deadline",
+    "topic": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sey6ua/iran_cuts_all_diplomatic_channels_with_us_ahead/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf6j7i/pope_leo_calls_trumps_threat_against_iran_truly/"
+  },
+  {
+    "topic": "Iranians form human chains at power plants",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sf97ya/iranians_form_human_chains_at_power_plants/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,091,158 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 5,323,346 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=diBO0gMuTXo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 504,251 views \u2022 ~623m old",
+    "why": "Trending on YouTube \u2022 525,387 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OJ19I9q_hOQ"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,030 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 387,943 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FIO_aL81Py4"
   },
   {
@@ -208,31 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 301,582 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 320,998 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NW2CRIFAVnk"
-  },
-  {
-    "topic": "LEGO\u00ae ONE PIECE | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 182,491 views \u2022 ~623m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6OP_KhnmUus"
   },
   {
     "topic": "Honest Trailers | Avatar: Fire and Ash",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,178 views \u2022 ~382m old",
+    "why": "Trending on YouTube \u2022 121,996 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jdHdAoE9qNs"
+  },
+  {
+    "topic": "LEGO\u00ae ONE PIECE | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 186,888 views \u2022 ~662m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6OP_KhnmUus"
   },
   {
     "topic": "Rick and Morty | Season 9 Official Trailer | adult swim",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 94,910 views \u2022 ~563m old",
+    "why": "Trending on YouTube \u2022 98,005 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XO43hYFRSbs"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,242 views \u2022 ~443m old",
+    "why": "Trending on YouTube \u2022 44,608 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ECc_9YAfNBY"
   },
   {
@@ -248,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~466m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V88ZcV23Rsg"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "Outnumbered",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=STw7IAF2lhI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1Tz_CSK8AFY"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k2nhoZaQiSo"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fMiJkT6O7PA"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~594m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dPV8nLpb1YA"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nFbby9S07qg"
   }
 ]
