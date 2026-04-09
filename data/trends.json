@@ -1,14 +1,5 @@
 [
   {
-    "topic": "My coworker\u2019s last day was today, brought him this cake",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgconp/my_coworkers_last_day_was_today_brought_him_this/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "My coworker\u2019s last day was today, brought him this cake",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgconp/my_coworkers_last_day_was_today_brought_him_this/"
   },
   {
     "topic": "Valid crash out",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgh3su/natalie_portman/"
   },
   {
-    "topic": "[OC] he certainly can",
+    "topic": "Oh\u2026",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfw8yk/oc_he_certainly_can/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgnf9f/oh/"
   },
   {
     "topic": "A meme i have made.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgfh1l/more_europeans_see_us_as_threat_than_china/"
   },
   {
-    "topic": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
+    "topic": "Pentagon told Pope's top diplomat to 'take its side' on US military ambitions: report",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sg8rla/us_ignoring_evidence_russia_is_helping_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgk9c5/pentagon_told_popes_top_diplomat_to_take_its_side/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,35 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sg5om7/the_enbiggening_of_handhelds/"
   },
   {
+    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 609,581 views \u2022 ~39m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9lydAIfCwhA"
+  },
+  {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FiWQkkONr6I"
+  },
+  {
+    "topic": "Atlanta Hawks at Cleveland Cavaliers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=M7NkyaPb4JY"
   },
   {
     "topic": "Detroit Tigers at Minnesota Twins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tzfYO7O7ED4"
   },
   {
-    "topic": "Par-3 Contest",
+    "topic": "Live From the Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=owei1S3FdmU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eaNeGph3z1E"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yoZ4Xcm1xQ0"
   },
   {
@@ -216,23 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DeCUONRtctk"
-  },
-  {
-    "topic": "Live From the Masters",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ExlgwY0DoUM"
   },
   {
     "topic": "Snip Snip",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
     "exampleUrl": "https://www.youtube.com/watch?v=on30xo5rx_A"
+  },
+  {
+    "topic": "Once Upon a Time... In Hollywood",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P8mvo-CGh2k"
   }
 ]
