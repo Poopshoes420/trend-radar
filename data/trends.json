@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Fresh face",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sh0uc3/fresh_face/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "The mystery of Free Range Chickens",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgsrol/youtube_says_90second_ads_dont_exist_are_you/"
   },
   {
-    "topic": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday",
+    "topic": "Mexico's President Sheinbaum Decrees Universal Healthcare for 120 Million",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgwrxy/halt_to_iran_attacks_means_netanyahus_corruption/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sh3ky4/mexicos_president_sheinbaum_decrees_universal/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1505, Part 1 (Thread #1652)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgwrxy/halt_to_iran_attacks_means_netanyahus_corruption/"
+  },
+  {
     "topic": "\u2018Mental breakdown\u2019: oil tanker workers stuck in Gulf for six weeks are reaching their limit",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgxk4s/mental_breakdown_oil_tanker_workers_stuck_in_gulf/"
-  },
-  {
-    "topic": "Britain condemns Israeli strikes on Lebanon in split from Trump",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgn9up/britain_condemns_israeli_strikes_on_lebanon_in/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,501,775 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 3,808,076 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7F1ET2XHQfk"
   },
   {
@@ -192,23 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,437,493 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 1,567,224 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
   },
   {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "topic": "Mutiny (2026) Official Trailer - Jason Statham",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 696,535 views \u2022 ~607m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9lydAIfCwhA"
+    "why": "Trending on YouTube \u2022 547,890 views \u2022 ~477m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FKSdXH89jbo"
   },
   {
     "topic": "Sierra | New Hero Gameplay Trailer | Overwatch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,053 views \u2022 ~368m old",
+    "why": "Trending on YouTube \u2022 336,312 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gojQHSdKxHI"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 279,779 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 304,100 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zkFbx0Y-LrI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,104 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 268,678 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tcUdXrMbTJs"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,190 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 135,721 views \u2022 ~372m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ycb5mqqGPis"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,722 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 130,238 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4IeEE7vt0FA"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,343 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 65,549 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z1jfS-FUYas"
   },
   {
@@ -256,15 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,395 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 64,629 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rzyLMQCPJIs"
+  },
+  {
+    "topic": "THE PUNISHER MOVIE TRAILER 2026: Spider-Man Brand New Day & Things You Missed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 23,995 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZPEmH78A8kI"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YqP8cJSedG4"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~620m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EIKeLJdIpwI"
   },
   {
@@ -280,7 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oUHCE9VYKAU"
+  },
+  {
+    "topic": "Squawk Box",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4NEY2zVGy8M"
   }
 ]
