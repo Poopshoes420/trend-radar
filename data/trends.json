@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sg87rg/a_meme_i_have_made/"
   },
   {
+    "topic": "Comment sections",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgkomg/comment_sections/"
+  },
+  {
     "topic": "THIS IS SO ANNOYING!!!",
     "sources": [
       "reddit"
@@ -81,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfztts/youtube_is_killing_their_own_platform/"
   },
   {
-    "topic": "Why must people be insulted for even the most minor of things ever? \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgfowp/why_must_people_be_insulted_for_even_the_most/"
-  },
-  {
-    "topic": "\u2018Poorly run, piece of ice\u2019: Trump targets Greenland again as Iran war deepens NATO rift",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgcub9/poorly_run_piece_of_ice_trump_targets_greenland/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1505, Part 1 (Thread #1652)",
     "sources": [
       "reddit"
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
+    "topic": "\u2018Poorly run, piece of ice\u2019: Trump targets Greenland again as Iran war deepens NATO rift",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sg8rla/us_ignoring_evidence_russia_is_helping_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgcub9/poorly_run_piece_of_ice_trump_targets_greenland/"
   },
   {
     "topic": "More Europeans see US as threat than China",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgfh1l/more_europeans_see_us_as_threat_than_china/"
+  },
+  {
+    "topic": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sg8rla/us_ignoring_evidence_russia_is_helping_iran/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FiWQkkONr6I"
+  },
+  {
+    "topic": "Detroit Tigers at Minnesota Twins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tzfYO7O7ED4"
   },
   {
     "topic": "Par-3 Contest",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=owei1S3FdmU"
   },
   {
@@ -200,23 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yoZ4Xcm1xQ0"
   },
   {
-    "topic": "The Briefing With Jen Psaki",
+    "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WIgbhUTVBAc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DeCUONRtctk"
   },
   {
     "topic": "Live From the Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ExlgwY0DoUM"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
     "exampleUrl": "https://www.youtube.com/watch?v=on30xo5rx_A"
   }
 ]
