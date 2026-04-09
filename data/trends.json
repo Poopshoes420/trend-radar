@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Fresh face",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sh0uc3/fresh_face/"
+  },
+  {
     "topic": "The mystery of Free Range Chickens",
     "sources": [
       "reddit"
@@ -27,15 +36,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgxta3/breaking_baddie/"
   },
   {
-    "topic": "If it had happened to me, I would....(Cough,cough)....I would never....\ud83d\ude2d\ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sh0o8m/if_it_had_happened_to_me_i_wouldcoughcoughi_would/"
-  },
-  {
     "topic": "Natalie Portman\ud83d\ude06",
     "sources": [
       "reddit"
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgh3su/natalie_portman/"
   },
   {
-    "topic": "This is no longer a meme \ud83e\udd2c",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
-  },
-  {
     "topic": "It's over... They have extended the unskippable ad length on TV to 90 seconds",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgrmho/its_over_they_have_extended_the_unskippable_ad/"
+  },
+  {
+    "topic": "This is no longer a meme \ud83e\udd2c",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
   },
   {
     "topic": "longer ads",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgsrol/youtube_says_90second_ads_dont_exist_are_you/"
   },
   {
+    "topic": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgwrxy/halt_to_iran_attacks_means_netanyahus_corruption/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1505, Part 1 (Thread #1652)",
     "sources": [
       "reddit"
@@ -108,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgwrxy/halt_to_iran_attacks_means_netanyahus_corruption/"
-  },
-  {
     "topic": "Britain condemns Israeli strikes on Lebanon in split from Trump",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgn9up/britain_condemns_israeli_strikes_on_lebanon_in/"
   },
   {
-    "topic": "Mass drowning of chicks puts Emperor Penguins at risk of extinction",
+    "topic": "\u2018Mental breakdown\u2019: oil tanker workers stuck in Gulf for six weeks are reaching their limit",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgryka/mass_drowning_of_chicks_puts_emperor_penguins_at/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgxk4s/mental_breakdown_oil_tanker_workers_stuck_in_gulf/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,769,269 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 3,175,528 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7F1ET2XHQfk"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,083,118 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 1,278,412 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 692,358 views \u2022 ~568m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9lydAIfCwhA"
   },
   {
     "topic": "Sierra | New Hero Gameplay Trailer | Overwatch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 250,092 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 288,984 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gojQHSdKxHI"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 165,712 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 204,544 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tcUdXrMbTJs"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,981 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 97,393 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ycb5mqqGPis"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,078 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 99,762 views \u2022 ~324m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4IeEE7vt0FA"
   },
   {
@@ -232,23 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,052 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 51,009 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rzyLMQCPJIs"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "The Punisher: One Last Kill | Official Trailer | Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XKhKgPksngg"
+    "why": "Trending on YouTube \u2022 17,233 views \u2022 ~279m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IO__CwM5Qh8"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YqP8cJSedG4"
   },
   {
     "topic": "Portland Trail Blazers at San Antonio Spurs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EIKeLJdIpwI"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~652m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tzfYO7O7ED4"
   },
   {
@@ -264,23 +280,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaNeGph3z1E"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oUHCE9VYKAU"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~655m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DeCUONRtctk"
-  },
-  {
-    "topic": "Armageddon",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8tpMBkoEOwQ"
   }
 ]
