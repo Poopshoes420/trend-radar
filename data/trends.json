@@ -36,13 +36,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgh3su/natalie_portman/"
   },
   {
-    "topic": "Oh\u2026",
+    "topic": "[OC] he certainly can",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgnf9f/oh/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sfw8yk/oc_he_certainly_can/"
+  },
+  {
+    "topic": "longer ads",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgo3pm/longer_ads/"
+  },
+  {
+    "topic": "This is no longer a meme \ud83e\udd2c",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
   },
   {
     "topic": "A meme i have made.",
@@ -54,40 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sg87rg/a_meme_i_have_made/"
   },
   {
-    "topic": "Comment sections",
+    "topic": "The Cheat Code",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgkomg/comment_sections/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgokgi/the_cheat_code/"
   },
   {
-    "topic": "THIS IS SO ANNOYING!!!",
+    "topic": "The dumbass is trying to come back",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sg8h5l/this_is_so_annoying/"
-  },
-  {
-    "topic": "Come on YouTube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfwx7n/come_on_youtube/"
-  },
-  {
-    "topic": "YouTube is killing their own platform",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sfztts/youtube_is_killing_their_own_platform/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgq7vg/the_dumbass_is_trying_to_come_back/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1505, Part 1 (Thread #1652)",
@@ -108,22 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "\u2018Poorly run, piece of ice\u2019: Trump targets Greenland again as Iran war deepens NATO rift",
+    "topic": "Britain condemns Israeli strikes on Lebanon in split from Trump",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgcub9/poorly_run_piece_of_ice_trump_targets_greenland/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgn9up/britain_condemns_israeli_strikes_on_lebanon_in/"
   },
   {
-    "topic": "More Europeans see US as threat than China",
+    "topic": "Iran's president says Israeli strikes on Lebanon render negotiations meaningless",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgfh1l/more_europeans_see_us_as_threat_than_china/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sgno2m/irans_president_says_israeli_strikes_on_lebanon/"
   },
   {
     "topic": "Pentagon told Pope's top diplomat to 'take its side' on US military ambitions: report",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgb8oc/congrats_avgn_and_cinemassacre_crew_to_20_years/"
   },
   {
-    "topic": "The design on the 007 DualSense is wrong",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sfy8p8/the_design_on_the_007_dualsense_is_wrong/"
-  },
-  {
     "topic": "The enbiggening of handhelds",
     "sources": [
       "reddit"
@@ -180,35 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sg5om7/the_enbiggening_of_handhelds/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "topic": "The design on the 007 DualSense is wrong",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 609,581 views \u2022 ~39m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9lydAIfCwhA"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sfy8p8/the_design_on_the_007_dualsense_is_wrong/"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FiWQkkONr6I"
   },
   {
-    "topic": "Atlanta Hawks at Cleveland Cavaliers",
+    "topic": "Portland Trail Blazers at San Antonio Spurs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=M7NkyaPb4JY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EIKeLJdIpwI"
   },
   {
     "topic": "Detroit Tigers at Minnesota Twins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tzfYO7O7ED4"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eaNeGph3z1E"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yoZ4Xcm1xQ0"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DeCUONRtctk"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=on30xo5rx_A"
   },
   {
@@ -248,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P8mvo-CGh2k"
+  },
+  {
+    "topic": "The Departed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=w5mtm00YYCg"
   }
 ]
