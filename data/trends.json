@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Aye?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shhthb/aye/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Aye?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shhthb/aye/"
   },
   {
     "topic": "Dipping in chocolate \ud83d\ude02",
@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shl1by/dipping_in_chocolate/"
   },
   {
-    "topic": "They asked me whats my talent",
+    "topic": "The clip will forever be funny",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shlxq8/they_asked_me_whats_my_talent/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shpetl/the_clip_will_forever_be_funny/"
   },
   {
     "topic": "Sauce pans got stuck together and tried to forcibly remove them, now I feel like it's just mocking me.",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shm22e/sauce_pans_got_stuck_together_and_tried_to/"
   },
   {
-    "topic": "Promised to myself, \"one more price increase and I'll unsubscribe.\" Just got an email from YouTube saying the price of Premium is going up from $13.99 to $15.99. Unacceptable.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
-  },
-  {
     "topic": "trying to confuse my algorithm as much as possible",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shnpcq/trying_to_confuse_my_algorithm_as_much_as_possible/"
+  },
+  {
+    "topic": "Promised to myself, \"one more price increase and I'll unsubscribe.\" Just got an email from YouTube saying the price of Premium is going up from $13.99 to $15.99. Unacceptable.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
   },
   {
     "topic": "Raising prices again really",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shi0t0/why_wont_this_just_drive_customers_away_just/"
   },
   {
-    "topic": "Italy expels Muslim leader who defended marriage to 9-year-old girl.",
+    "topic": "France to ditch Windows for Linux to reduce reliance on US tech",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shgxzr/italy_expels_muslim_leader_who_defended_marriage/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shonn3/france_to_ditch_windows_for_linux_to_reduce/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1506, Part 1 (Thread #1653)",
@@ -108,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shbxjj/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #14)",
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #15)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sfbtp3/rworldnews_discussion_thread_us_and_israel_launch/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Italy expels Muslim leader who defended marriage to 9-year-old girl.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shgxzr/italy_expels_muslim_leader_who_defended_marriage/"
   },
   {
     "topic": "Chimpanzees in Uganda are locked in a deadly 'civil war' after their group split apart \u2014 and scientists don't know why",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shjm44/chimpanzees_in_uganda_are_locked_in_a_deadly/"
-  },
-  {
-    "topic": "Zelensky says unnamed 'partners' asked Ukraine not to attack Russian oil refineries",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shm7jy/zelensky_says_unnamed_partners_asked_ukraine_not/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
   },
   {
+    "topic": "[Nintendo] I think this photo is proof that my mom is not a gamer...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shqa9k/nintendo_i_think_this_photo_is_proof_that_my_mom/"
+  },
+  {
     "topic": "Paul Tassi (Forbes): \"I can confirm Marathon's budget is over $200m. Likely over $250m. This does not include ongoing costs for maintenance or new content\"",
     "sources": [
       "reddit"
@@ -160,15 +169,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgy773/paul_tassi_forbes_i_can_confirm_marathons_budget/"
-  },
-  {
-    "topic": "Former GTA 6 developer warns trailer visuals won't match final gameplay",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgu165/former_gta_6_developer_warns_trailer_visuals_wont/"
   },
   {
     "topic": "It's the little things you notice",
@@ -184,47 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 648,650 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 656,788 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
-  },
-  {
-    "topic": "Gucci Mane - Crash Dummy [Official Audio]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 400,513 views \u2022 ~658m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=m65MJSC1Jto"
-  },
-  {
-    "topic": "DJ Khaled, Future, Lil Baby - One of Them (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 227,985 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7gKpREE5Z3w"
-  },
-  {
-    "topic": "Chris Brown - Obvious (Audio)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 134,369 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N26LogDPgd0"
-  },
-  {
-    "topic": "Skrilla - Free 40 ft. YoungBoy Never Broke Again (Visualizer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 95,771 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sQmi5dAYPlo"
   },
   {
     "topic": "First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
   },
   {
@@ -232,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
   },
   {
@@ -240,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qbyu81IasFk"
+  },
+  {
+    "topic": "NCAA Tournament: Denver vs. Michigan",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   },
   {
@@ -256,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
   },
   {
@@ -264,15 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
   },
   {
-    "topic": "NCAA Tournament: Wisconsin vs. North Dakota",
+    "topic": "Adventurous Couples Take on Renos",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2ZwKXjXSLFk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fjNcQ-b9RK4"
   }
 ]
