@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shl1by/dipping_in_chocolate/"
   },
   {
-    "topic": "Finally!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shoo7l/finally/"
-  },
-  {
     "topic": "Sauce pans got stuck together and tried to forcibly remove them, now I feel like it's just mocking me.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shm22e/sauce_pans_got_stuck_together_and_tried_to/"
+  },
+  {
+    "topic": "Finally!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shoo7l/finally/"
   },
   {
     "topic": "trying to confuse my algorithm as much as possible",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
   },
   {
+    "topic": "Yes yes yes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shqyix/yes_yes_yes/"
+  },
+  {
     "topic": "Raising prices again really",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shi0t0/why_wont_this_just_drive_customers_away_just/"
-  },
-  {
-    "topic": "It's over... They have extended the unskippable ad length on TV to 90 seconds",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgrmho/its_over_they_have_extended_the_unskippable_ad/"
   },
   {
     "topic": "France to ditch Windows for Linux to reduce reliance on US tech",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Chimpanzees in Uganda are locked in a deadly 'civil war' after their group split apart \u2014 and scientists don't know why",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shjm44/chimpanzees_in_uganda_are_locked_in_a_deadly/"
-  },
-  {
     "topic": "Netanyahu requests delay in corruption trial testimony",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqcc0/netanyahu_requests_delay_in_corruption_trial/"
+  },
+  {
+    "topic": "Europe should regulate Big Tech instead of banning kids from social media, Estonia says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shriza/europe_should_regulate_big_tech_instead_of/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shrxlw/amazon_luna_shutting_down_store/"
   },
   {
-    "topic": "Paul Tassi (Forbes): \"I can confirm Marathon's budget is over $200m. Likely over $250m. This does not include ongoing costs for maintenance or new content\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgy773/paul_tassi_forbes_i_can_confirm_marathons_budget/"
-  },
-  {
     "topic": "It's the little things you notice",
     "sources": [
       "reddit"
@@ -180,27 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shmsfw/its_the_little_things_you_notice/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "topic": "Graveyard Keeper is free for Steam, PS, and Xbox until April 13",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 660,777 views \u2022 ~300m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shto4o/graveyard_keeper_is_free_for_steam_ps_and_xbox/"
   },
   {
     "topic": "30 Seconds of Innocence \ud83e\udd8b",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 352,992 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 510,209 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EXrtXB_u_60"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 668,112 views \u2022 ~355m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
   },
   {
     "topic": "First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~609m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~636m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
   }
 ]
