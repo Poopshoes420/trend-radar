@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Aye?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shhthb/aye/"
-  },
-  {
     "topic": "Dipping in chocolate \ud83d\ude02",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shm22e/sauce_pans_got_stuck_together_and_tried_to/"
+  },
+  {
+    "topic": "My people need me",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shuc1n/my_people_need_me/"
   },
   {
     "topic": "trying to confuse my algorithm as much as possible",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
   },
   {
-    "topic": "Raising prices again really",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shbooe/raising_prices_again_really/"
-  },
-  {
     "topic": "No more YouTube premium",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shnabh/no_more_youtube_premium/"
+  },
+  {
+    "topic": "Raising prices again really",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shbooe/raising_prices_again_really/"
   },
   {
     "topic": "France to ditch Windows for Linux to reduce reliance on US tech",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Netanyahu requests delay in corruption trial testimony",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqcc0/netanyahu_requests_delay_in_corruption_trial/"
-  },
-  {
     "topic": "Brazil seizes over 1,100 weapons and 1.5 tons of drugs from US, says official",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shsv6a/brazil_seizes_over_1100_weapons_and_15_tons_of/"
+  },
+  {
+    "topic": "Netanyahu requests delay in corruption trial testimony",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqcc0/netanyahu_requests_delay_in_corruption_trial/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shrxlw/amazon_luna_shutting_down_store/"
   },
   {
-    "topic": "Graveyard Keeper is free for Steam, PS, and Xbox until April 13",
+    "topic": "It's the little things you notice",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shto4o/graveyard_keeper_is_free_for_steam_ps_and_xbox/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shmsfw/its_the_little_things_you_notice/"
   },
   {
     "topic": "Digital Circus Ep 9 Finale [TRAILER]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,851,864 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 3,674,240 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AjFk1cY265I"
   },
   {
@@ -192,23 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 672,755 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 786,111 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EXrtXB_u_60"
   },
   {
-    "topic": "First Round",
+    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
+    "why": "Trending on YouTube \u2022 680,788 views \u2022 ~470m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
+  },
+  {
+    "topic": "Things you missed in The Amazing Digital Circus Episode 9's Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,813 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pZY9PBSC5yE"
+  },
+  {
+    "topic": "FOX and Friends",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5eT-dhC4HN0"
   },
   {
     "topic": "NCAA Tournament: Denver vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
   },
   {
@@ -216,23 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
-  },
-  {
-    "topic": "CNN Global Report: War With Iran",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
-  },
-  {
-    "topic": "The Equalizer 3 - The Final Chapter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~657m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
   }
 ]
