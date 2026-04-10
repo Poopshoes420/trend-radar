@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
   },
   {
-    "topic": "What the FUCK is youtube even about...\ud83e\udd40",
+    "topic": "Why...? Won't this just drive customers away??? Just makes me wanna cancel my service.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sh51hl/what_the_fuck_is_youtube_even_about/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shi0t0/why_wont_this_just_drive_customers_away_just/"
   },
   {
     "topic": "Italy expels Muslim leader who defended marriage to 9-year-old girl.",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1she3dl/free_talk_friday/"
   },
   {
+    "topic": "Support your local libraries!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
+  },
+  {
     "topic": "Paul Tassi (Forbes): \"I can confirm Marathon's budget is over $200m. Likely over $250m. This does not include ongoing costs for maintenance or new content\"",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgre5i/steam_files_suggest_valve_is_developing_internal/"
   },
   {
-    "topic": "What game series would you say is still worth playing from the beginning?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sh42cx/what_game_series_would_you_say_is_still_worth/"
-  },
-  {
     "topic": "Gucci Mane - Crash Dummy [Official Audio]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,689 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 265,059 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m65MJSC1Jto"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 360,652 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 380,986 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fsr14-8sxtA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,884 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 243,286 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=371L3CzKh3E"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,728 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 153,107 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7gKpREE5Z3w"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,064 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 87,184 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N26LogDPgd0"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,093 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 60,146 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sQmi5dAYPlo"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
   },
   {
@@ -248,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~397m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qbyu81IasFk"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   },
   {
     "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
   },
   {
@@ -264,23 +272,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
-  },
-  {
-    "topic": "The Briefing With Jen Psaki",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RFj4dQRWDsk"
   },
   {
     "topic": "NCAA Tournament: Wisconsin vs. North Dakota",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~315m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2ZwKXjXSLFk"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fjNcQ-b9RK4"
   }
 ]
