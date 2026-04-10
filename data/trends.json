@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shl1by/dipping_in_chocolate/"
   },
   {
-    "topic": "Sauce pans got stuck together and tried to forcibly remove them, now I feel like it's just mocking me.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shm22e/sauce_pans_got_stuck_together_and_tried_to/"
-  },
-  {
     "topic": "Finally!",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shoo7l/finally/"
+  },
+  {
+    "topic": "Sauce pans got stuck together and tried to forcibly remove them, now I feel like it's just mocking me.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shm22e/sauce_pans_got_stuck_together_and_tried_to/"
   },
   {
     "topic": "trying to confuse my algorithm as much as possible",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shnpcq/trying_to_confuse_my_algorithm_as_much_as_possible/"
   },
   {
-    "topic": "Promised to myself, \"one more price increase and I'll unsubscribe.\" Just got an email from YouTube saying the price of Premium is going up from $13.99 to $15.99. Unacceptable.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
-  },
-  {
     "topic": "Yes yes yes",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shqyix/yes_yes_yes/"
+  },
+  {
+    "topic": "Promised to myself, \"one more price increase and I'll unsubscribe.\" Just got an email from YouTube saying the price of Premium is going up from $13.99 to $15.99. Unacceptable.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
   },
   {
     "topic": "Raising prices again really",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shbooe/raising_prices_again_really/"
   },
   {
-    "topic": "Why...? Won't this just drive customers away??? Just makes me wanna cancel my service.",
+    "topic": "No more YouTube premium",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shi0t0/why_wont_this_just_drive_customers_away_just/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shnabh/no_more_youtube_premium/"
   },
   {
     "topic": "France to ditch Windows for Linux to reduce reliance on US tech",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqcc0/netanyahu_requests_delay_in_corruption_trial/"
   },
   {
-    "topic": "Europe should regulate Big Tech instead of banning kids from social media, Estonia says",
+    "topic": "Brazil seizes over 1,100 weapons and 1.5 tons of drugs from US, says official",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shriza/europe_should_regulate_big_tech_instead_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shsv6a/brazil_seizes_over_1100_weapons_and_15_tons_of/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
   },
   {
+    "topic": "Google Play Store Removes Doki Doki Literature Club from Play Store",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shu5ou/google_play_store_removes_doki_doki_literature/"
+  },
+  {
     "topic": "Amazon Luna shutting down store",
     "sources": [
       "reddit"
@@ -160,15 +169,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shrxlw/amazon_luna_shutting_down_store/"
-  },
-  {
-    "topic": "It's the little things you notice",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shmsfw/its_the_little_things_you_notice/"
   },
   {
     "topic": "Graveyard Keeper is free for Steam, PS, and Xbox until April 13",
@@ -180,43 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shto4o/graveyard_keeper_is_free_for_steam_ps_and_xbox/"
   },
   {
+    "topic": "Digital Circus Ep 9 Finale [TRAILER]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 2,851,864 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AjFk1cY265I"
+  },
+  {
     "topic": "30 Seconds of Innocence \ud83e\udd8b",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 510,209 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 672,755 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EXrtXB_u_60"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 668,112 views \u2022 ~355m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
   },
   {
     "topic": "First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~660m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
   },
   {
     "topic": "NCAA Tournament: Denver vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
   }
 ]
