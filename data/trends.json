@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shl1by/dipping_in_chocolate/"
   },
   {
-    "topic": "I've got a handle on things",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shbsj0/ive_got_a_handle_on_things/"
-  },
-  {
     "topic": "They asked me whats my talent",
     "sources": [
       "reddit"
@@ -45,6 +36,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shlxq8/they_asked_me_whats_my_talent/"
   },
   {
+    "topic": "Sauce pans got stuck together and tried to forcibly remove them, now I feel like it's just mocking me.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shm22e/sauce_pans_got_stuck_together_and_tried_to/"
+  },
+  {
     "topic": "Promised to myself, \"one more price increase and I'll unsubscribe.\" Just got an email from YouTube saying the price of Premium is going up from $13.99 to $15.99. Unacceptable.",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1she0hi/promised_to_myself_one_more_price_increase_and/"
+  },
+  {
+    "topic": "trying to confuse my algorithm as much as possible",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shnpcq/trying_to_confuse_my_algorithm_as_much_as_possible/"
   },
   {
     "topic": "Raising prices again really",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgrmho/its_over_they_have_extended_the_unskippable_ad/"
-  },
-  {
-    "topic": "This is no longer a meme \ud83e\udd2c",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
   },
   {
     "topic": "Why...? Won't this just drive customers away??? Just makes me wanna cancel my service.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shjm44/chimpanzees_in_uganda_are_locked_in_a_deadly/"
   },
   {
-    "topic": "Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs",
+    "topic": "Zelensky says unnamed 'partners' asked Ukraine not to attack Russian oil refineries",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sh459d/keir_starmer_im_fed_up_with_trump_and_putin/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shm7jy/zelensky_says_unnamed_partners_asked_ukraine_not/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgu165/former_gta_6_developer_warns_trailer_visuals_wont/"
   },
   {
-    "topic": "Steam files suggest Valve is developing internal 'SteamGPT' AI bot \u2014 aimed at tackling customer support tickets and CS2 anti-cheat",
+    "topic": "It's the little things you notice",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgre5i/steam_files_suggest_valve_is_developing_internal/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shmsfw/its_the_little_things_you_notice/"
   },
   {
     "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 641,523 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 648,650 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 354,616 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 400,513 views \u2022 ~658m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m65MJSC1Jto"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 204,375 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 227,985 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7gKpREE5Z3w"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 120,658 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 134,369 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N26LogDPgd0"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,144 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 95,771 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sQmi5dAYPlo"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qbyu81IasFk"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~456m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2ZwKXjXSLFk"
   }
 ]
