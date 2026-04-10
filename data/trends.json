@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Gaslighting the teacher",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shnpnb/gaslighting_the_teacher/"
+  },
+  {
     "topic": "Finally!",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shuc1n/my_people_need_me/"
-  },
-  {
-    "topic": "They asked me whats my talent",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shlxq8/they_asked_me_whats_my_talent/"
   },
   {
     "topic": "trying to confuse my algorithm as much as possible",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,333,728 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 4,993,874 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AjFk1cY265I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 885,052 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 988,136 views \u2022 ~439m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EXrtXB_u_60"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 157,711 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 197,769 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O8pg--1FuaI"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,148 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 93,211 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pZY9PBSC5yE"
+  },
+  {
+    "topic": "Laufey - Madwoman (Official Music Video Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 40,042 views \u2022 ~194m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1t_R92dQerQ"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~45m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jjHRoVTCDgg"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9ydGEmAQgJE"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~663m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   }
 ]
