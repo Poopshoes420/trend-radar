@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sh8j9s/jump_scare/"
   },
   {
+    "topic": "Can\u2019t wait to turn 40 and start posting shit like this on facebook \ud83d\ude2d\ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shgp8m/cant_wait_to_turn_40_and_start_posting_shit_like/"
+  },
+  {
     "topic": "The mystery of Free Range Chickens",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgyyiy/the_mystery_of_free_range_chickens/"
   },
   {
-    "topic": "Breaking Baddie",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sgxta3/breaking_baddie/"
-  },
-  {
     "topic": "It's over... They have extended the unskippable ad length on TV to 90 seconds",
     "sources": [
       "reddit"
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgrmho/its_over_they_have_extended_the_unskippable_ad/"
-  },
-  {
-    "topic": "This is no longer a meme \ud83e\udd2c",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
   },
   {
     "topic": "Promised to myself, \"one more price increase and I'll unsubscribe.\" Just got an email from YouTube saying the price of Premium is going up from $13.99 to $15.99. Unacceptable.",
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shbooe/raising_prices_again_really/"
+  },
+  {
+    "topic": "This is no longer a meme \ud83e\udd2c",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgpx76/this_is_no_longer_a_meme/"
   },
   {
     "topic": "What the FUCK is youtube even about...\ud83e\udd40",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sh459d/keir_starmer_im_fed_up_with_trump_and_putin/"
   },
   {
-    "topic": "Trump gives ultimatum to European allies to provide support to secure Hormuz",
+    "topic": "Italy expels Muslim leader who defended marriage to 9-year-old girl.",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sh5q7d/trump_gives_ultimatum_to_european_allies_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shgxzr/italy_expels_muslim_leader_who_defended_marriage/"
   },
   {
     "topic": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgy773/paul_tassi_forbes_i_can_confirm_marathons_budget/"
   },
   {
-    "topic": "Graveyard Keeper is free to keep on Steam",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgu3ck/graveyard_keeper_is_free_to_keep_on_steam/"
-  },
-  {
     "topic": "Former GTA 6 developer warns trailer visuals won't match final gameplay",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sgre5i/steam_files_suggest_valve_is_developing_internal/"
   },
   {
+    "topic": "What game series would you say is still worth playing from the beginning?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sh42cx/what_game_series_would_you_say_is_still_worth/"
+  },
+  {
     "topic": "Gucci Mane - Crash Dummy [Official Audio]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 174,843 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 222,617 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m65MJSC1Jto"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 267,994 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 335,060 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fsr14-8sxtA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 219,880 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 235,083 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=371L3CzKh3E"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,703 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 207,818 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N2pFAltZSGs"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,282 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 117,016 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7gKpREE5Z3w"
   },
   {
@@ -224,23 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,573 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 64,254 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N26LogDPgd0"
   },
   {
-    "topic": "Tory Lanez - Pink Material (Official Music Video) Starring Alabama Barker",
+    "topic": "Skrilla - Free 40 ft. YoungBoy Never Broke Again (Visualizer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,145 views \u2022 ~684m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=siKPFTrABQ0"
+    "why": "Trending on YouTube \u2022 47,314 views \u2022 ~337m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sQmi5dAYPlo"
+  },
+  {
+    "topic": "First Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
   },
   {
@@ -248,23 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Qbyu81IasFk"
   },
   {
-    "topic": "Sportscenter at the Masters",
+    "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RhbiL7uZqkg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
+  },
+  {
+    "topic": "The Equalizer 3 - The Final Chapter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~253m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6xmzyN9qtdA"
   },
   {
@@ -272,23 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2ZwKXjXSLFk"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "Big Dreams on a New Pitch in Nottingham",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jID0e46ltXg"
-  },
-  {
-    "topic": "The Grasshopper Experiment",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=z-wBVvPFWvM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S60UzjiXTCI"
   }
 ]
