@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shl1by/dipping_in_chocolate/"
   },
   {
-    "topic": "The clip will forever be funny",
+    "topic": "Finally!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shpetl/the_clip_will_forever_be_funny/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shoo7l/finally/"
   },
   {
     "topic": "Sauce pans got stuck together and tried to forcibly remove them, now I feel like it's just mocking me.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shbooe/raising_prices_again_really/"
   },
   {
-    "topic": "It's over... They have extended the unskippable ad length on TV to 90 seconds",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgrmho/its_over_they_have_extended_the_unskippable_ad/"
-  },
-  {
     "topic": "Why...? Won't this just drive customers away??? Just makes me wanna cancel my service.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1shi0t0/why_wont_this_just_drive_customers_away_just/"
+  },
+  {
+    "topic": "It's over... They have extended the unskippable ad length on TV to 90 seconds",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sgrmho/its_over_they_have_extended_the_unskippable_ad/"
   },
   {
     "topic": "France to ditch Windows for Linux to reduce reliance on US tech",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Italy expels Muslim leader who defended marriage to 9-year-old girl.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shgxzr/italy_expels_muslim_leader_who_defended_marriage/"
-  },
-  {
     "topic": "Chimpanzees in Uganda are locked in a deadly 'civil war' after their group split apart \u2014 and scientists don't know why",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shjm44/chimpanzees_in_uganda_are_locked_in_a_deadly/"
+  },
+  {
+    "topic": "Netanyahu requests delay in corruption trial testimony",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqcc0/netanyahu_requests_delay_in_corruption_trial/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
   },
   {
-    "topic": "[Nintendo] I think this photo is proof that my mom is not a gamer...",
+    "topic": "Amazon Luna shutting down store",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shqa9k/nintendo_i_think_this_photo_is_proof_that_my_mom/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shrxlw/amazon_luna_shutting_down_store/"
   },
   {
     "topic": "Paul Tassi (Forbes): \"I can confirm Marathon's budget is over $200m. Likely over $250m. This does not include ongoing costs for maintenance or new content\"",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 656,788 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 660,777 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zja-l_9aQBs"
+  },
+  {
+    "topic": "30 Seconds of Innocence \ud83e\udd8b",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 352,992 views \u2022 ~183m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EXrtXB_u_60"
   },
   {
     "topic": "First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5riz6Omy1ts"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HCoguipbzF4"
-  },
-  {
-    "topic": "Live From the Masters",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Qbyu81IasFk"
   },
   {
     "topic": "NCAA Tournament: Denver vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RoICPB7L8Ww"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ACukQUulqlY"
   },
   {
@@ -240,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mHtNFh_cde4"
-  },
-  {
-    "topic": "Adventurous Couples Take on Renos",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fjNcQ-b9RK4"
   }
 ]
