@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Thank you Artemis",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1si0e9b/thank_you_artemis/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Gaslighting the teacher",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shu5ou/google_play_store_removes_doki_doki_literature/"
   },
   {
-    "topic": "Support your local libraries!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
-  },
-  {
     "topic": "The FAA wants gamers to apply for air traffic control jobs",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shzxjj/the_faa_wants_gamers_to_apply_for_air_traffic/"
+  },
+  {
+    "topic": "Support your local libraries!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
   },
   {
     "topic": "Amazon Luna shutting down store",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,918,183 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 7,360,519 views \u2022 ~452m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AjFk1cY265I"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,235,676 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 1,286,501 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EXrtXB_u_60"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 254,565 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 290,024 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ecmpw9DpWio"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 322,710 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 356,270 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O8pg--1FuaI"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,041 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 150,910 views \u2022 ~391m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pZY9PBSC5yE"
   },
   {
@@ -224,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,216 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 106,910 views \u2022 ~356m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1t_R92dQerQ"
+  },
+  {
+    "topic": "DIGITAL CIRCUS TRAILER",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 69,205 views \u2022 ~258m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cSSBr2DreyU"
   },
   {
     "topic": "The Amazing Digital Circus Finale in Movie Theaters + Trailer Breakdown!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,268 views \u2022 ~281m old",
+    "why": "Trending on YouTube \u2022 36,596 views \u2022 ~314m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SEhpr_Cey1s"
   },
   {
@@ -240,23 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jjHRoVTCDgg"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-OUKvfNCnm4"
   },
   {
     "topic": "NCAA Tournament: Denver vs. Michigan",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0SeHeAlA9W4"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9ydGEmAQgJE"
   }
 ]
