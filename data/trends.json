@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Thank you Artemis",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1si0e9b/thank_you_artemis/"
-  },
-  {
     "topic": "Don't do it!",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1shnpnb/gaslighting_the_teacher/"
+  },
+  {
+    "topic": "My people need me",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1shuc1n/my_people_need_me/"
   },
   {
     "topic": "Yes yes yes",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 409,726 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 416,482 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jVRV4nAfsuA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,633 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 139,649 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7RoB-lB9qI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,356 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 92,878 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M_sRRkyg0zE"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,118 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 76,239 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w-ubxTlU0M4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RWXY3IHx7IY"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DcsBAimvPtk"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aU8XN8PCbAM"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NRFwGfSuYQc"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iMmcQSrFXWU"
   }
 ]
