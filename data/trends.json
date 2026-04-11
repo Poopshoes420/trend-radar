@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Don't do it!",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1siai82/dont_do_it/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "speedrunning my own death",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shzxjj/the_faa_wants_gamers_to_apply_for_air_traffic/"
   },
   {
+    "topic": "Indie dev who lives in a village of 1,000 people stunned as over 250,000 Steam users buy his roguelike: \"It's not adding up in my head\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sid1jz/indie_dev_who_lives_in_a_village_of_1000_people/"
+  },
+  {
     "topic": "Google Play Store Removes Doki Doki Literature Club from Play Store",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1si38aw/playing_dino_crisis_for_the_first_time/"
   },
   {
-    "topic": "Support your local libraries!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1shjbak/support_your_local_libraries/"
-  },
-  {
     "topic": "DIGITAL CIRCUS EP 9 FINALE (TRAILER)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 416,482 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 425,638 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jVRV4nAfsuA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 139,649 views \u2022 ~607m old",
+    "why": "Trending on YouTube \u2022 146,629 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X7RoB-lB9qI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 92,878 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 105,248 views \u2022 ~536m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M_sRRkyg0zE"
   },
   {
@@ -208,47 +208,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,239 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 79,413 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=w-ubxTlU0M4"
+  },
+  {
+    "topic": "Second Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kx7VwFiRPVk"
+  },
+  {
+    "topic": "Jesse Watters Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~56m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qmSpr6MOpvw"
+  },
+  {
+    "topic": "Mission to the Moon: Artemis II Returns",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Is5hp0QZOFA"
   },
   {
     "topic": "Live From the Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RWXY3IHx7IY"
   },
   {
-    "topic": "The Five",
+    "topic": "The Briefing With Jen Psaki",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DcsBAimvPtk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KoAtAiuglw0"
   },
   {
-    "topic": "Sportscenter at the Masters",
+    "topic": "Tennessee Army National Guard 250",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~392m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aU8XN8PCbAM"
-  },
-  {
-    "topic": "The Lead With Jake Tapper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NRFwGfSuYQc"
-  },
-  {
-    "topic": "The Weeknight",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iMmcQSrFXWU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=k9B-S0eNNGw"
   }
 ]
