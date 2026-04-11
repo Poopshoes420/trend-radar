@@ -1,14 +1,5 @@
 [
   {
-    "topic": "15 points to microsoft!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sigdya/15_points_to_microsoft/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "15 points to microsoft!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sigdya/15_points_to_microsoft/"
   },
   {
     "topic": "Financially ... are you ok?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1siiri1/prostitution_of_minors_in_france_rises_by_43/"
   },
   {
-    "topic": "\u2018God does not bless any conflict\u2019: pope issues new rebuke over Iran war",
+    "topic": "More than 2,000 killed by Israeli strikes in Lebanon during Israel-Hezbollah war, health officials say",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sidyx1/god_does_not_bless_any_conflict_pope_issues_new/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1siqvqf/more_than_2000_killed_by_israeli_strikes_in/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,975,708 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 2,633,186 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
   },
   {
@@ -192,39 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,783 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 198,064 views \u2022 ~521m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JTwKHGG9zU4"
-  },
-  {
-    "topic": "Second Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kx7VwFiRPVk"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~665m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmSpr6MOpvw"
-  },
-  {
-    "topic": "Mission to the Moon: Artemis II Returns",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Is5hp0QZOFA"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sUr3Kvoex0o"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZunLiv6BvjQ"
   }
 ]
