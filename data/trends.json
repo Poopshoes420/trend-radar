@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sji6dq/whats_the_worst_that_could_happen/"
   },
   {
+    "topic": "Most honest youtube video title",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjg8om/most_honest_youtube_video_title/"
+  },
+  {
     "topic": "YOUTUBE ARE YOU THAT BLIND",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj2xqh/youtube_are_you_that_blind/"
-  },
-  {
-    "topic": "YouTube straight up lying now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sieck7/youtube_straight_up_lying_now/"
   },
   {
     "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjf7pq/just_some_friends_doing_some_old_school_gaming/"
   },
   {
+    "topic": "My best friend spent months beating the obscure platformer Dr. Muto (2002) this year. There\u2019s almost no merchandise available online, so I handmade a Gomer plushie for her birthday.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjlllv/my_best_friend_spent_months_beating_the_obscure/"
+  },
+  {
     "topic": "My son categorized our games today. Apparently the tall pile is a single category called \u201cmurder games\u201d",
     "sources": [
       "reddit"
@@ -162,37 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjj0xw/my_son_categorized_our_games_today_apparently_the/"
   },
   {
-    "topic": "What non-gaming upgrade improved your gaming the most?",
+    "topic": "Failed MMO Ashes Of Creation\u2018s $3.2 Million In Kickstarter Funds Allegedly Spent On Private Chefs And Trading Cards",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
-  },
-  {
-    "topic": "Lenovo raises Legion Go 2 Z2 Extreme 2TB price to $2849.99 on official store",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjk2tr/lenovo_raises_legion_go_2_z2_extreme_2tb_price_to/"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | SLUR SATURDAY | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 809,626 views \u2022 ~53m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UTi2-Pll-nA"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjlon3/failed_mmo_ashes_of_creations_32_million_in/"
   },
   {
     "topic": "This is NOT how you\u2019re supposed to use Mega Starmie ft. @Alpharad",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,295 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 249,926 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MDTT8szI7ko"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,550 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 119,035 views \u2022 ~386m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ClY-3UopEeU"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~476m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~643m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
   }
 ]
