@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sierkp/youtube_is_thinking_about_bringing_5_adds_at_one/"
   },
   {
-    "topic": "U.S.-Iran talks end with no agreement, Vance says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1508, Part 1 (Thread #1655)",
     "sources": [
       "reddit"
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "U.S.-Iran talks end with no agreement, Vance says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/"
+  },
+  {
     "topic": "Pakistan deploys 13,000 troops and fighter jets to Saudi Arabia",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj4u41/pakistan_deploys_13000_troops_and_fighter_jets_to/"
   },
   {
-    "topic": "Israeli Minister Announces \u2018Border Expansion\u2019 in Palestine, Lebanon and Syria",
+    "topic": "Majority of Hungarians believe April 12 election will be rigged or manipulated",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj731s/israeli_minister_announces_border_expansion_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj68k3/majority_of_hungarians_believe_april_12_election/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sj69s2/simple_questions_sunday/"
+  },
+  {
+    "topic": "What non-gaming upgrade improved your gaming the most?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
   },
   {
     "topic": "Dont they look a lot similar? (Crimson desert and KCD 2)",
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sid1jz/indie_dev_who_lives_in_a_village_of_1000_people/"
   },
   {
-    "topic": "Is there any AAA Openworld / RPG game set in The Bronze Age?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1siy3e7/is_there_any_aaa_openworld_rpg_game_set_in_the/"
-  },
-  {
     "topic": "ROBLOX MAKEUP UPDATE -_-",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 496,315 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 520,053 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iYdiKMW8R2o"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,970 views \u2022 ~620m old",
+    "why": "Trending on YouTube \u2022 101,822 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qt-jbqlr92E"
   },
   {
@@ -200,31 +200,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~443m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0gj0KVmKzos"
   },
   {
-    "topic": "NCAA Tournament: Wisconsin vs. Denver",
+    "topic": "Oklahoma at Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EjtQyCE5CmE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "My View With Lara Trump",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wgnehqxJqIU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
+  },
+  {
+    "topic": "Apollo 13",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~52m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
+  },
+  {
+    "topic": "A Little Park Music",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
     "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
   },
   {
@@ -232,23 +248,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qqqYL3jGM2M"
+  },
+  {
+    "topic": "The Lord of the Rings: The Two Towers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Iup_yBaqlDM"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
+  },
+  {
+    "topic": "The Avengers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7zvJHcHOHmI"
   },
   {
     "topic": "Arkansas at Alabama",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E1jumYjf4NA"
   }
 ]
