@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sikcb7/i_am_done_with_this_greedy_company/"
   },
   {
-    "topic": "Good F**ckin\u2019 Riddance",
+    "topic": "Dear Premium Users",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1siv7ur/good_fckin_riddance/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sisfnk/dear_premium_users/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1507, Part 1 (Thread #1654)",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sig29n/found_these_boxes_in_a_closet_while_cleaning_up/"
   },
   {
-    "topic": "Just finished Days Gone Remastered. That was amazing!",
+    "topic": "Super Mario All Stars is quietly one of the coolest things to happen in gaming that won\u2019t likely happen ever again.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sifzpz/just_finished_days_gone_remastered_that_was/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sikhif/super_mario_all_stars_is_quietly_one_of_the/"
   },
   {
     "topic": "I Survived 100 Days in Skyblock",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,591,566 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 5,831,723 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QF5YpZI1wnk"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,126 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 257,298 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=44GpY4jU354"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,179 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 68,423 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 66,317 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 72,536 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mb_uXQ0opTc"
+  },
+  {
+    "topic": "The Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iEjFts4dpBI"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sUr3Kvoex0o"
+  },
+  {
+    "topic": "Fun With Food",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~36m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d48aW61t0DM"
   }
 ]
