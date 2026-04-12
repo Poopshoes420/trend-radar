@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj48f7/polish_easter_tradition/"
   },
   {
+    "topic": "Bro coocked.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj995e/bro_coocked/"
+  },
+  {
     "topic": "Dead Internet Theory",
     "sources": [
       "reddit"
@@ -54,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
   },
   {
-    "topic": "Bro coocked.",
+    "topic": "What's the worst that could happen?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj995e/bro_coocked/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sji6dq/whats_the_worst_that_could_happen/"
   },
   {
     "topic": "YouTube straight up lying now",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj2xqh/youtube_are_you_that_blind/"
-  },
-  {
-    "topic": "HEY GUYS THERE WAS A PRICE INCREASE! DID YOU KNOW THERE WAS A PRICE INCREASE? GOSH THERES A PRICE INCREASE. THE PRICE INCREASED. GUESS WHAT? THE PRICE INCREASED, DID YOU SEE THE PRICE INCREASED? YOU WONT BELIEVE IT, THE PRICE INCREASED. GUYS THE PRICE INCREASED. THE PRICE IS MORE THAN IT ONCE WAS!!!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1siyqq5/hey_guys_there_was_a_price_increase_did_you_know/"
   },
   {
     "topic": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjfsod/turkey_threatens_military_action_against_israel/"
   },
   {
-    "topic": "Pakistan deploys 13,000 troops and fighter jets to Saudi Arabia",
+    "topic": "Majority of Hungarians believe April 12 election will be rigged or manipulated",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj4u41/pakistan_deploys_13000_troops_and_fighter_jets_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj68k3/majority_of_hungarians_believe_april_12_election/"
   },
   {
     "topic": "Katy Perry and Justin Trudeau at Coachella",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
   },
   {
-    "topic": "What game in your opinion overstays its welcome?",
+    "topic": "My son categorized our games today. Apparently the tall pile is a single category called \u201cmurder games\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjfp5r/what_game_in_your_opinion_overstays_its_welcome/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjj0xw/my_son_categorized_our_games_today_apparently_the/"
   },
   {
     "topic": "Oklahoma at Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~434m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~341m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~550m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iup_yBaqlDM"
   },
   {
@@ -248,15 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
-  },
-  {
-    "topic": "Kentucky at Auburn",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~341m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=z8YG54X03z4"
   }
 ]
