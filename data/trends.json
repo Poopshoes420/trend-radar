@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Clean as you go",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj8yxv/clean_as_you_go/"
-  },
-  {
     "topic": "[OC] ain't wearing no wire",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjc7ji/oc_aint_wearing_no_wire/"
+  },
+  {
+    "topic": "Clean as you go",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj8yxv/clean_as_you_go/"
   },
   {
     "topic": "Polish easter tradition",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj4u41/pakistan_deploys_13000_troops_and_fighter_jets_to/"
   },
   {
-    "topic": "U.S.-Iran talks end with no agreement, Vance says",
+    "topic": "Majority of Hungarians believe April 12 election will be rigged or manipulated",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj68k3/majority_of_hungarians_believe_april_12_election/"
   },
   {
     "topic": "Katy Perry and Justin Trudeau at Coachella",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sj69s2/simple_questions_sunday/"
   },
   {
-    "topic": "What non-gaming upgrade improved your gaming the most?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
-  },
-  {
     "topic": "Just some friends doing some old school gaming (pokemon red and green) using cable link",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjf7pq/just_some_friends_doing_some_old_school_gaming/"
+  },
+  {
+    "topic": "What non-gaming upgrade improved your gaming the most?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
   },
   {
     "topic": "What game in your opinion overstays its welcome?",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjfp5r/what_game_in_your_opinion_overstays_its_welcome/"
   },
   {
-    "topic": "Live From the Masters",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0gj0KVmKzos"
-  },
-  {
     "topic": "Oklahoma at Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
   },
   {
@@ -208,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
+  },
+  {
+    "topic": "Third Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
   },
   {
     "topic": "A Little Park Music",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~369m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
   },
   {
@@ -232,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
-  },
-  {
-    "topic": "Arizona Diamondbacks at Philadelphia Phillies",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qqqYL3jGM2M"
   },
   {
     "topic": "The Lord of the Rings: The Two Towers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iup_yBaqlDM"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
   },
   {
@@ -264,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z8YG54X03z4"
-  },
-  {
-    "topic": "The Avengers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7zvJHcHOHmI"
   }
 ]
