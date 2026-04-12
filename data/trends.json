@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sitacv/golf_commentating_and_analysis_i_can_get_behind/"
   },
   {
+    "topic": "He stood up like Chef and started cooking.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj7ybz/he_stood_up_like_chef_and_started_cooking/"
+  },
+  {
     "topic": "What did I ever do to deserve this, Hulu?",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sipd95/what_did_i_ever_do_to_deserve_this_hulu/"
   },
   {
-    "topic": "It's not even a worm\ud83d\ude00",
+    "topic": "Dead Internet Theory",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj4t1m/its_not_even_a_worm/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
   },
   {
     "topic": "YouTube straight up lying now",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sierkp/youtube_is_thinking_about_bringing_5_adds_at_one/"
   },
   {
-    "topic": "oh my god SHUT UP",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1siqypv/oh_my_god_shut_up/"
-  },
-  {
     "topic": "U.S.-Iran talks end with no agreement, Vance says",
     "sources": [
       "reddit"
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "JD Vance says US delegation leaving Pakistan after failing to reach deal with Iran",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj23d4/jd_vance_says_us_delegation_leaving_pakistan/"
-  },
-  {
     "topic": "Pakistan deploys 13,000 troops and fighter jets to Saudi Arabia",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj4u41/pakistan_deploys_13000_troops_and_fighter_jets_to/"
+  },
+  {
+    "topic": "Israeli Minister Announces \u2018Border Expansion\u2019 in Palestine, Lebanon and Syria",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj731s/israeli_minister_announces_border_expansion_in/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 421,927 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 464,430 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iYdiKMW8R2o"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 241,125 views \u2022 ~663m old",
+    "why": "Trending on YouTube \u2022 264,742 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=psLfNvC9BOo"
-  },
-  {
-    "topic": "Marvel WTF Just Happened?!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 215,997 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lGbGbeyiGKs"
   },
   {
     "topic": "Hit The Road - Baby Crash f/ NoHookChe & G Herbo | From The Block [PLAYGROUND] Performance \ud83c\udf99",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,016 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 97,324 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qt-jbqlr92E"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~334m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0gj0KVmKzos"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EjtQyCE5CmE"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wgnehqxJqIU"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qqqYL3jGM2M"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E1jumYjf4NA"
   }
 ]
