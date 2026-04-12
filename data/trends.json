@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
   },
   {
+    "topic": "Who was this for you?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjizws/who_was_this_for_you/"
+  },
+  {
     "topic": "What's the worst that could happen?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sieck7/youtube_straight_up_lying_now/"
-  },
-  {
-    "topic": "YOUTUBE ARE YOU THAT BLIND",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj2xqh/youtube_are_you_that_blind/"
   },
   {
     "topic": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
+  },
+  {
     "topic": "Turkey threatens military action against Israel, MK calls Recep Tayyip Erdogan 'pathetic'",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjfsod/turkey_threatens_military_action_against_israel/"
-  },
-  {
-    "topic": "Majority of Hungarians believe April 12 election will be rigged or manipulated",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj68k3/majority_of_hungarians_believe_april_12_election/"
   },
   {
     "topic": "Katy Perry and Justin Trudeau at Coachella",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~460m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~383m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iup_yBaqlDM"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~647m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
   }
 ]
