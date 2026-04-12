@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Clean as you go",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj8yxv/clean_as_you_go/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Clean as you go",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj8yxv/clean_as_you_go/"
   },
   {
     "topic": "[OC] ain't wearing no wire",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/"
   },
   {
+    "topic": "Katy Perry and Justin Trudeau at Coachella",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sjckni/katy_perry_and_justin_trudeau_at_coachella/"
+  },
+  {
     "topic": "Simple Questions Sunday!",
     "sources": [
       "reddit"
@@ -153,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
   },
   {
-    "topic": "Dont they look a lot similar? (Crimson desert and KCD 2)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1siml83/dont_they_look_a_lot_similar_crimson_desert_and/"
-  },
-  {
     "topic": "Just some friends doing some old school gaming (pokemon red and green) using cable link",
     "sources": [
       "reddit"
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjf7pq/just_some_friends_doing_some_old_school_gaming/"
   },
   {
-    "topic": "The weirdest device I'm gaming on today: an Intermec CV30 industrial computer playing \"Beneath A Steel Sky\" on ScummVM",
+    "topic": "What game in your opinion overstays its welcome?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1siy5du/the_weirdest_device_im_gaming_on_today_an/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjfp5r/what_game_in_your_opinion_overstays_its_welcome/"
   },
   {
     "topic": "Live From the Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0gj0KVmKzos"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~320m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qqqYL3jGM2M"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Iup_yBaqlDM"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z8YG54X03z4"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7zvJHcHOHmI"
   }
 ]
