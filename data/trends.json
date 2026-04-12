@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
   },
   {
-    "topic": "Who was this for you?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjizws/who_was_this_for_you/"
-  },
-  {
     "topic": "What's the worst that could happen?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sji6dq/whats_the_worst_that_could_happen/"
+  },
+  {
+    "topic": "YOUTUBE ARE YOU THAT BLIND",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj2xqh/youtube_are_you_that_blind/"
   },
   {
     "topic": "YouTube straight up lying now",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sieck7/youtube_straight_up_lying_now/"
   },
   {
-    "topic": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+    "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjdzn5/trump_says_us_will_blockade_strait_of_hormuz/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1508, Part 1 (Thread #1655)",
@@ -117,31 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
+    "topic": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjdzn5/trump_says_us_will_blockade_strait_of_hormuz/"
   },
   {
-    "topic": "Turkey threatens military action against Israel, MK calls Recep Tayyip Erdogan 'pathetic'",
+    "topic": "Polls closed with a record-high turnout in Hungary\u2019s high-stakes general election, with a freshly released survey suggesting P\u00e9ter Magyar\u2019s insurgent opposition is set to beat veteran nationalist prime minister Viktor Orb\u00e1n\u2019s party",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjfsod/turkey_threatens_military_action_against_israel/"
-  },
-  {
-    "topic": "Katy Perry and Justin Trudeau at Coachella",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sjckni/katy_perry_and_justin_trudeau_at_coachella/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjkfy9/polls_closed_with_a_recordhigh_turnout_in/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -162,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjf7pq/just_some_friends_doing_some_old_school_gaming/"
   },
   {
-    "topic": "What non-gaming upgrade improved your gaming the most?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
-  },
-  {
     "topic": "My son categorized our games today. Apparently the tall pile is a single category called \u201cmurder games\u201d",
     "sources": [
       "reddit"
@@ -180,11 +162,53 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjj0xw/my_son_categorized_our_games_today_apparently_the/"
   },
   {
+    "topic": "What non-gaming upgrade improved your gaming the most?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjamyt/what_nongaming_upgrade_improved_your_gaming_the/"
+  },
+  {
+    "topic": "Lenovo raises Legion Go 2 Z2 Extreme 2TB price to $2849.99 on official store",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjk2tr/lenovo_raises_legion_go_2_z2_extreme_2tb_price_to/"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | SLUR SATURDAY | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 809,626 views \u2022 ~53m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UTi2-Pll-nA"
+  },
+  {
+    "topic": "This is NOT how you\u2019re supposed to use Mega Starmie ft. @Alpharad",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 205,295 views \u2022 ~216m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MDTT8szI7ko"
+  },
+  {
+    "topic": "Agefield High: Rock the School \u2013 Official Gameplay Overview Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 95,550 views \u2022 ~335m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ClY-3UopEeU"
+  },
+  {
     "topic": "Oklahoma at Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -192,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2paHOnwT_DE"
   },
   {
@@ -200,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
   },
   {
@@ -208,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
   },
   {
@@ -216,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
@@ -224,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
   },
   {
@@ -232,23 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7M8cggIFPwU"
-  },
-  {
-    "topic": "The Lord of the Rings: The Two Towers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~461m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Iup_yBaqlDM"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~647m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AxvoKvOl25M"
   }
 ]
