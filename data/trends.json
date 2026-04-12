@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
   },
   {
-    "topic": "What's the worst that could happen?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sji6dq/whats_the_worst_that_could_happen/"
-  },
-  {
     "topic": "Most honest youtube video title",
     "sources": [
       "reddit"
@@ -81,22 +72,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjg8om/most_honest_youtube_video_title/"
   },
   {
-    "topic": "YOUTUBE ARE YOU THAT BLIND",
+    "topic": "What's the worst that could happen?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj2xqh/youtube_are_you_that_blind/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sji6dq/whats_the_worst_that_could_happen/"
   },
   {
-    "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
+    "topic": "This is no longer a meme",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjiph3/this_is_no_longer_a_meme/"
+  },
+  {
+    "topic": "Hungary's Prime Minister Orban has congratulated Magyar on election victory",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjnv1y/hungarys_prime_minister_orban_has_congratulated/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1508, Part 1 (Thread #1655)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjn8ym/orb\u00e1n_on_course_to_lose_hungarys_election/"
   },
   {
-    "topic": "Hungary's Prime Minister Orban has congratulated Magyar on election victory",
+    "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjnv1y/hungarys_prime_minister_orban_has_congratulated/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjj0xw/my_son_categorized_our_games_today_apparently_the/"
   },
   {
-    "topic": "Failed MMO Ashes Of Creation\u2018s $3.2 Million In Kickstarter Funds Allegedly Spent On Private Chefs And Trading Cards",
+    "topic": "What video game used to be good but they changed one thing and now it's terrible?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjlon3/failed_mmo_ashes_of_creations_32_million_in/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjh7kq/what_video_game_used_to_be_good_but_they_changed/"
   },
   {
     "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | SLUR SATURDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 855,600 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 862,242 views \u2022 ~187m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UTi2-Pll-nA"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,369 views \u2022 ~301m old",
+    "why": "Trending on YouTube \u2022 320,457 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MDTT8szI7ko"
+  },
+  {
+    "topic": "NCT WISH \uc5d4\uc2dc\ud2f0 \uc704\uc2dc 'Sticky' MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 280,207 views \u2022 ~349m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Q120WlxVxdk"
   },
   {
     "topic": "Agefield High: Rock the School \u2013 Official Gameplay Overview Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,538 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 153,092 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ClY-3UopEeU"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-OnkVWsyXeQ"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ttMPbKk5D0"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~609m old",
     "exampleUrl": "https://www.youtube.com/watch?v=suyyMEC0Kvg"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~427m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
   },
   {
@@ -240,15 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nigNvc_Zvvc"
   },
   {
-    "topic": "Back to the Future",
+    "topic": "CNN This Morning Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CN6_-OyU9S0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0eRdaZnatVY"
   }
 ]
