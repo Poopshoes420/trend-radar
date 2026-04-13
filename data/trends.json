@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Dog is having a meltdown",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sk1y6i/dog_is_having_a_meltdown/"
+  },
+  {
     "topic": "Good job buddy",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjoj30/get_in_the_line/"
-  },
-  {
-    "topic": "Iron (deficiency) Man",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjxsf6/iron_deficiency_man/"
   },
   {
     "topic": "[OC] ain't wearing no wire",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjrwls/youtube_wants_to_see_your_face_or_your_id_to_give/"
   },
   {
-    "topic": "What the crap happened to YouTube?",
+    "topic": "Well this sucks",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjm8r2/what_the_crap_happened_to_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjvsld/well_this_sucks/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1509, Part 1 (Thread #1656)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Hungary's Prime Minister Orban has congratulated Magyar on election victory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjnv1y/hungarys_prime_minister_orban_has_congratulated/"
-  },
-  {
     "topic": "Trump lambasts Pope Leo XIV, extending feud over Iran war with first American pontiff",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjtddf/uk_will_not_join_any_trump_blockade_of_strait_of/"
+  },
+  {
+    "topic": "Hungary's Prime Minister Orban has congratulated Magyar on election victory",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjnv1y/hungarys_prime_minister_orban_has_congratulated/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 184,261 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 230,162 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UDavXyKlbNE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 126,312 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 143,915 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Yb414bPY1Y"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,092 views \u2022 ~562m old",
+    "why": "Trending on YouTube \u2022 169,956 views \u2022 ~697m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
   },
   {
@@ -208,31 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,333 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 102,025 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N03dZ77nAcE"
-  },
-  {
-    "topic": "DeeBaby - Merry Go Round / Arm & a Leg ( OFFICIAL MUSIC VIDEO )",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 55,213 views \u2022 ~426m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=d2uSf90mWqo"
   },
   {
     "topic": "Euphoria Season 3 \"This Season On\" Trailer (HD) HBO Zendaya series",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 33,217 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 50,858 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mn94zN20h3s"
+  },
+  {
+    "topic": "DeeBaby - Merry Go Round / Arm & a Leg ( OFFICIAL MUSIC VIDEO )",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 65,553 views \u2022 ~561m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d2uSf90mWqo"
   },
   {
     "topic": "Peysoh - THE ANTHEM (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,525 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 48,283 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qPANhVIL8dk"
   },
   {
@@ -240,55 +240,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_xsGk8daTM"
+  },
+  {
+    "topic": "Food City 500",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6dJ3NpIB0E0"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~220m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q5rXhll31ow"
-  },
-  {
-    "topic": "Bristol",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XeS2ARSvU94"
-  },
-  {
-    "topic": "Oklahoma at Texas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_MAww1SXAiU"
-  },
-  {
-    "topic": "Masters on the Range",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0-zsxlF_Dc8"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~71m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QzuBsd_-3mg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zllDNAumEUM"
+  },
+  {
+    "topic": "Arizona Diamondbacks at Philadelphia Phillies",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3vElDngY_Js"
+  },
+  {
+    "topic": "Oklahoma at Texas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~295m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_MAww1SXAiU"
+  },
+  {
+    "topic": "The Financial Permeability",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9GIYGivUhh8"
+  },
+  {
+    "topic": "Masters on the Range",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0-zsxlF_Dc8"
   },
   {
     "topic": "Alex Witt Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Oa0gSUPg5vw"
   }
 ]
