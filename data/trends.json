@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjoj30/get_in_the_line/"
   },
   {
-    "topic": "[OC] ain't wearing no wire",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjc7ji/oc_aint_wearing_no_wire/"
-  },
-  {
     "topic": "Good job buddy",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjpxnm/good_job_buddy/"
   },
   {
-    "topic": "Clean as you go",
+    "topic": "Iron (deficiency) Man",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sj8yxv/clean_as_you_go/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjxsf6/iron_deficiency_man/"
+  },
+  {
+    "topic": "[OC] ain't wearing no wire",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sjc7ji/oc_aint_wearing_no_wire/"
   },
   {
     "topic": "Bro coocked.",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj995e/bro_coocked/"
   },
   {
-    "topic": "Dead Internet Theory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
-  },
-  {
     "topic": "YouTube wants to see your face or your ID to give you the ability to pin comments",
     "sources": [
       "reddit"
@@ -72,22 +63,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjrwls/youtube_wants_to_see_your_face_or_your_id_to_give/"
   },
   {
-    "topic": "What the crap happened to YouTube?",
+    "topic": "Canceled premium",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjm8r2/what_the_crap_happened_to_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjy6v6/canceled_premium/"
   },
   {
-    "topic": "What's the worst that could happen?",
+    "topic": "Dead Internet Theory",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sji6dq/whats_the_worst_that_could_happen/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sj8fap/dead_internet_theory/"
+  },
+  {
+    "topic": "What's the point of charging more for YouTube Premium when channels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sjw5tk/whats_the_point_of_charging_more_for_youtube/"
   },
   {
     "topic": "Hungary's Prime Minister Orban has congratulated Magyar on election victory",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjn8ym/orb\u00e1n_on_course_to_lose_hungarys_election/"
   },
   {
-    "topic": "President Trump Announces U.S Navy to Detain Vessels Paying Iranian Hormuz Toll",
+    "topic": "Trump Hits Out At Starmer As UK Confirms It Won't Join His Strait Of Hormuz Blockade",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjjx5u/president_trump_announces_us_navy_to_detain/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sjpelr/trump_hits_out_at_starmer_as_uk_confirms_it_wont/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -144,22 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sj69s2/simple_questions_sunday/"
   },
   {
-    "topic": "Just some friends doing some old school gaming (pokemon red and green) using cable link",
+    "topic": "Valve releases kernel patches to help high VRAM games run on 8GB GPUs",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjf7pq/just_some_friends_doing_some_old_school_gaming/"
-  },
-  {
-    "topic": "My best friend spent months beating the obscure platformer Dr. Muto (2002) this year. There\u2019s almost no merchandise available online, so I handmade a Gomer plushie for her birthday.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjlllv/my_best_friend_spent_months_beating_the_obscure/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjttzz/valve_releases_kernel_patches_to_help_high_vram/"
   },
   {
     "topic": "My son categorized our games today. Apparently the tall pile is a single category called \u201cmurder games\u201d",
@@ -171,100 +162,125 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjj0xw/my_son_categorized_our_games_today_apparently_the/"
   },
   {
-    "topic": "Valve releases kernel patches to help high VRAM games run on 8GB GPUs",
+    "topic": "My best friend spent months beating the obscure platformer Dr. Muto (2002) this year. There\u2019s almost no merchandise available online, so I handmade a Gomer plushie for her birthday.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjttzz/valve_releases_kernel_patches_to_help_high_vram/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjlllv/my_best_friend_spent_months_beating_the_obscure/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | RUST | KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | SLUR SATURDAY | #BUNGULATE",
+    "topic": "Just some friends doing some old school gaming (pokemon red and green) using cable link",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 880,534 views \u2022 ~377m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UTi2-Pll-nA"
-  },
-  {
-    "topic": "This is NOT how you\u2019re supposed to use Mega Starmie ft. @Alpharad",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 446,875 views \u2022 ~539m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MDTT8szI7ko"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sjf7pq/just_some_friends_doing_some_old_school_gaming/"
   },
   {
     "topic": "Clips Must Be Stopped",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,369 views \u2022 ~374m old",
+    "why": "Trending on YouTube \u2022 464,941 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9BoGXpEM4Ao"
   },
   {
-    "topic": "NCT WISH \uc5d4\uc2dc\ud2f0 \uc704\uc2dc 'Sticky' MV",
+    "topic": "Sunset en la Sanse - MT Manuel Turizo x D\u00e1lmata | Video Oficial",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 337,287 views \u2022 ~539m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Q120WlxVxdk"
-  },
-  {
-    "topic": "Agefield High: Rock the School \u2013 Official Gameplay Overview Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 206,644 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ClY-3UopEeU"
+    "why": "Trending on YouTube \u2022 89,563 views \u2022 ~285m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1Yb414bPY1Y"
   },
   {
     "topic": "Invincible Season 4 Episode 7 Trailer: The Most Powerful Viltrumite",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,513 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 119,053 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Og3vDRoVuD8"
+  },
+  {
+    "topic": "Finesse2Tymes ''2FithyRicky'' - Who Do You Think You Are ''J Prince Jr Diss''",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,174 views \u2022 ~280m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N03dZ77nAcE"
+  },
+  {
+    "topic": "DeeBaby - Merry Go Round / Arm & a Leg ( OFFICIAL MUSIC VIDEO )",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,488 views \u2022 ~287m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d2uSf90mWqo"
+  },
+  {
+    "topic": "Peysoh - THE ANTHEM (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 10,927 views \u2022 ~168m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qPANhVIL8dk"
   },
   {
     "topic": "Sunday Morning Futures With Maria Bartiromo",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aKbF3XPgWpY"
   },
   {
-    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "topic": "Hogan - Perseverance",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MuWqO6272TQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ca6rZdORQd8"
   },
   {
-    "topic": "The Weekend",
+    "topic": "Bristol",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7blOhoqLXcc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XeS2ARSvU94"
   },
   {
-    "topic": "Third Round",
+    "topic": "Arizona at LSU",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~617m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=O6nAGyRs7tc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=poV9Ux1DQ5s"
   },
   {
-    "topic": "Premier League Mornings",
+    "topic": "Masters on the Range",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xG9m0mx0FqI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0-zsxlF_Dc8"
+  },
+  {
+    "topic": "Fareed Zakaria GPS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OP9FQqQQv7U"
+  },
+  {
+    "topic": "Velshi",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~225m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0ebj6LhD92A"
   }
 ]
