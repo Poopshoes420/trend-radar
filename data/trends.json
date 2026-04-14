@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I'm sober",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skxi8w/im_sober/"
-  },
-  {
     "topic": "The new Mission Impossible looks a bit low budget.",
     "sources": [
       "reddit"
@@ -27,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sl7po6/the_new_mission_impossible_looks_a_bit_low_budget/"
   },
   {
+    "topic": "I'm sober",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skxi8w/im_sober/"
+  },
+  {
+    "topic": "dark",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sldmdh/dark/"
+  },
+  {
     "topic": "Better luck next year",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1skzsxa/better_luck_next_year/"
-  },
-  {
-    "topic": "6 year old family portrait. \ud83d\ude2c",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skvpyb/6_year_old_family_portrait/"
   },
   {
     "topic": "missing those old good days",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sl3qx7/so_are_the_likes_gone_now_too/"
   },
   {
-    "topic": "YouTube is basically unoriginal slop now",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1skv8zl/youtube_is_basically_unoriginal_slop_now/"
-  },
-  {
     "topic": "New UI, can\u2019t even see how many likes anymore",
     "sources": [
       "reddit"
@@ -90,13 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1skrfb8/new_ui_cant_even_see_how_many_likes_anymore/"
   },
   {
-    "topic": "Xi Says World Order \u2018Crumbling Into Disarray\u2019 as War Takes Toll",
+    "topic": "YouTube is basically unoriginal slop now",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1skv8zl/youtube_is_basically_unoriginal_slop_now/"
+  },
+  {
+    "topic": "Syringe reuse at Pakistan hospital infects 331 children with HIV",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sl713a/xi_says_world_order_crumbling_into_disarray_as/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sl9lyv/syringe_reuse_at_pakistan_hospital_infects_331/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1510, Part 1 (Thread #1657)",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Syringe reuse at Pakistan hospital infects 331 children with HIV",
+    "topic": "Xi Says World Order \u2018Crumbling Into Disarray\u2019 as War Takes Toll",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sl9lyv/syringe_reuse_at_pakistan_hospital_infects_331/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sl713a/xi_says_world_order_crumbling_into_disarray_as/"
   },
   {
-    "topic": "Ukraine said it captured a Russian position using only ground robots and drones, no infantry, for the first time",
+    "topic": "Estonia unmasks record number of Russian spies",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1slaeae/ukraine_said_it_captured_a_russian_position_using/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sl4rbw/estonia_unmasks_record_number_of_russian_spies/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sl8lpe/tomodachi_life_living_the_dream_has_been_in/"
   },
   {
+    "topic": "KEEP BRAWL ALIVE!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 5,610,735 views \u2022 ~535m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XRNeVhqC3Ro"
+  },
+  {
     "topic": "BTS 'Hooligan' Dance Practice",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 636,549 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 774,521 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qWDNVP1pb48"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,799 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 57,002 views \u2022 ~360m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gSpZfwlB0Ks"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RboMIbL-xU0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~478m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oV0epb7zDv0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BM8pFiHikqU"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qW6OkPsTEhU"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fzOTSaIJKUY"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2v7CCoSzF7w"
   },
   {
@@ -248,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8XIuC7qJXW0"
-  },
-  {
-    "topic": "Carolina Hurricanes at Philadelphia Flyers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~293m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ux2Z-OHTetc"
   }
 ]
