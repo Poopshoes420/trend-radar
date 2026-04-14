@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1skpcax/dear_youtube_if_i_start_seeing_ads_in_premium/"
   },
   {
-    "topic": "WTF is this and how do I disable it?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sk0ni5/wtf_is_this_and_how_do_i_disable_it/"
-  },
-  {
     "topic": "PSA for Premium users paying through Apple: you can save $5 if you pay YouTube directly",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1skl3je/psa_for_premium_users_paying_through_apple_you/"
+  },
+  {
+    "topic": "WTF is this and how do I disable it?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sk0ni5/wtf_is_this_and_how_do_i_disable_it/"
   },
   {
     "topic": "Russia adds Hungary to 'unfriendly countries' list after Magyar wins",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,703,920 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 1,834,003 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yNa8jP4zoJo"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,318,102 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 1,408,458 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fS35YSjopjE"
+  },
+  {
+    "topic": "Nothing will be the same.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 249,486 views \u2022 ~208m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pdrGJjFAw2Q"
   },
   {
     "topic": "Season 2: Summit Official Trailer | Overwatch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 386,148 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 406,606 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UO6gGCKJzjI"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 354,307 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 376,084 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zZERi6o97Hg"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 128,563 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 152,829 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vn5ohnD0Jns"
   },
   {
@@ -224,31 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,699 views \u2022 ~193m old",
+    "why": "Trending on YouTube \u2022 80,898 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CarYhmFb-Qk"
-  },
-  {
-    "topic": "Little House on the Prairie | Official Teaser | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 121,299 views \u2022 ~505m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AmF0JRoWRGU"
   },
   {
     "topic": "The Boys Season 5 Episode 3 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,460 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 69,921 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z6BKGOKPRs8"
+  },
+  {
+    "topic": "Little House on the Prairie | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 131,596 views \u2022 ~547m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AmF0JRoWRGU"
   },
   {
     "topic": "ICE CREAM MAN Official Teaser Trailer (2026) Eli Roth",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,582 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 17,314 views \u2022 ~463m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rgUl4FUpklg"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rB8BB0YA-eU"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u5Un2qNKKQw"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XzZeoY0A_iY"
   }
 ]
