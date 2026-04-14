@@ -9,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Batman",
+    "topic": "I'm sober",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skymhp/batman/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skxi8w/im_sober/"
   },
   {
     "topic": "And one for the road!",
@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1skf8p3/and_one_for_the_road/"
   },
   {
-    "topic": "I'm sober",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skxi8w/im_sober/"
-  },
-  {
     "topic": "The fish gave her a reason to cry about \ud83d\ude2d",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1skwwm4/the_fish_gave_her_a_reason_to_cry_about/"
+  },
+  {
+    "topic": "My attention span is fine. I watched this while thing, laughing the entire time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1skhn55/my_attention_span_is_fine_i_watched_this_while/"
   },
   {
     "topic": "If only they knew why...",
@@ -171,20 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1skidi5/xbox_game_pass_has_become_too_expensive_says/"
   },
   {
-    "topic": "A24's 'ELDEN RING' Movie Has Begun Production. Written and Directed by Alex Garland, with George R. R. Martin Producing. Starring Kit Connor, Cailee Spaeny, Ben Whishaw, Nick Offerman",
+    "topic": "GTA Online makes $4.4 million per week on PS5, platform rakes in 53% of all GTAO weekly bookings",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1skj57k/a24s_elden_ring_movie_has_begun_production/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1skv8z6/gta_online_makes_44_million_per_week_on_ps5/"
+  },
+  {
+    "topic": "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 367,305 views \u2022 ~283m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jxU8FU3o75A"
   },
   {
     "topic": "Nothing will be the same.",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 629,177 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 694,586 views \u2022 ~643m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pdrGJjFAw2Q"
   },
   {
@@ -192,31 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 295,996 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 355,600 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vObY1I1C2Y4"
-  },
-  {
-    "topic": "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 112,989 views \u2022 ~191m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jxU8FU3o75A"
-  },
-  {
-    "topic": "Allstar JR - Expensive Wristwatches",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 254,218 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Vn5ohnD0Jns"
   },
   {
     "topic": "The Boys Season 5 Episode 3 Trailer: Homelander Power Upgrade",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 200,122 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 223,424 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CarYhmFb-Qk"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 178,698 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 200,864 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z6BKGOKPRs8"
   },
   {
@@ -232,31 +224,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,793 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 100,393 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=db2mN0y7s0g"
   },
   {
-    "topic": "The Will Cain Show",
+    "topic": "DABABY - MARINATING (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~193m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=45qVDJGieSc"
+    "why": "Trending on YouTube \u2022 46,751 views \u2022 ~442m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GMCNmerdeuA"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~383m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=b_HAZrPTrCQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_sS7AOdUKxI"
   },
   {
-    "topic": "The Arena With Kasie Hunt",
+    "topic": "The Beat With Ari Melber",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rdp4vflBzDg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0pDfdUDyxrc"
+  },
+  {
+    "topic": "The Lead With Jake Tapper",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xmx0OiRB5eA"
   }
 ]
