@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1skkx15/if_only_they_knew_why/"
   },
   {
-    "topic": "So are the likes gone now too?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sl3qx7/so_are_the_likes_gone_now_too/"
-  },
-  {
     "topic": "this is what happens when you add a bit too many add-ons to youtube",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sljnlc/this_is_what_happens_when_you_add_a_bit_too_many/"
+  },
+  {
+    "topic": "So are the likes gone now too?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sl3qx7/so_are_the_likes_gone_now_too/"
   },
   {
     "topic": "YouTube used to be my favorite platform but now\u2026?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sl713a/xi_says_world_order_crumbling_into_disarray_as/"
   },
   {
-    "topic": "Spain approves plan to give around 500,000 undocumented migrants legal status",
+    "topic": "In parliament, Polish MP calls Israel \u2018new Third Reich,\u2019 waves Israeli flag with swastika",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1slb1cw/spain_approves_plan_to_give_around_500000/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1slkxxe/in_parliament_polish_mp_calls_israel_new_third/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,112,649 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 1,163,628 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qWDNVP1pb48"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 604,640 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 689,584 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8g7VclWsiaM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 379,535 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 432,536 views \u2022 ~332m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qn7a5F9oJwo"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,767 views \u2022 ~336m old",
+    "why": "Trending on YouTube \u2022 353,753 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HxHTeE0UrnA"
   },
   {
@@ -216,71 +216,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 386,858 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 432,019 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eNIn8kW1kyE"
   },
   {
-    "topic": "Pandemonium | 2026 Season Two Act I Gameplay Trailer - League of Legends",
+    "topic": "SPIDER-MAN BRAND NEW DAY CINEMACON TRAILER Breakdown & Things You Missed",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,288 views \u2022 ~335m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ltMKzJ-L158"
+    "why": "Trending on YouTube \u2022 57,800 views \u2022 ~277m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XnbV1nunjzk"
   },
   {
     "topic": "CinemaCon 2026 All Sony Announcements (Footage & Trailers)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,907 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 99,721 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gSpZfwlB0Ks"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tJicR8ZdHW0"
-  },
-  {
-    "topic": "2026 WNBA Draft",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oV0epb7zDv0"
-  },
-  {
-    "topic": "Chicago Cubs at Philadelphia Phillies",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BM8pFiHikqU"
-  },
-  {
-    "topic": "The Rachel Maddow Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qW6OkPsTEhU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FPVVgBsG6iI"
   },
   {
     "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Llj2WwOfhNE"
-  },
-  {
-    "topic": "Nice to Meet You, Now Grab a Hammer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2v7CCoSzF7w"
   }
 ]
