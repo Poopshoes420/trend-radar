@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smh0ju/iran_to_execute_first_woman_over_antiregime/"
   },
   {
+    "topic": "Pentagon prepares for possible military operation in Cuba",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/"
+  },
+  {
     "topic": "New World Screwworm detected about 90 miles from the United States",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sm7bdx/new_world_screwworm_detected_about_90_miles_from/"
-  },
-  {
-    "topic": "'Xi will give me big, fat hug': Trump says he opened Hormuz for China and the world",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sm5bc3/xi_will_give_me_big_fat_hug_trump_says_he_opened/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,63 +184,95 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 500,652 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 554,362 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xMh9itjkaJ0"
+  },
+  {
+    "topic": "YoungBoy Never Broke Again - Bruce Wayne [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 122,983 views \u2022 ~174m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2wI4_-aMSk0"
   },
   {
     "topic": "STREET FIGHTER Teaser Trailer 2 (2026) Ken Masters",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,451 views \u2022 ~564m old",
+    "why": "Trending on YouTube \u2022 175,463 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fD-JzwHqobU"
-  },
-  {
-    "topic": "Good Omens - Final Season Official Trailer | Prime Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 138,584 views \u2022 ~538m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kpKkh64jgPI"
   },
   {
     "topic": "Young Miko - BIAF \u2764\ufe0f (Video Oficial)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 106,555 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 121,771 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BboJ9CzPhnM"
+  },
+  {
+    "topic": "Good Omens - Final Season Official Trailer | Prime Video",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 146,893 views \u2022 ~593m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kpKkh64jgPI"
   },
   {
     "topic": "LAJA x FLACOOMC - ALTERAO (Video Oficial) Shot.By @checkthefootage#spanishdrill",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,506 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 72,553 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XBY-lskOJxo"
+  },
+  {
+    "topic": "SPIDERMAN BEYOND THE SPIDERVERSE (2027) Trailer Footage Description | CinemaCon 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 30,869 views \u2022 ~166m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3ybMji1DmuY"
   },
   {
     "topic": "Blueface Ft. Stunna Girl - Bricked Up [OFFICIAL MUSIC VIDEO]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 51,499 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 57,826 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GJ5s2iBZ06E"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "Outnumbered",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gfsAf_d8IAs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iReS5cSUm04"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ut_cS1pUMBE"
+  },
+  {
+    "topic": "Get Up",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cJBEOjFn6U4"
   },
   {
     "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ppDv5VA3Y4o"
   },
   {
@@ -248,15 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rur0HBRRXHk"
-  },
-  {
-    "topic": "Chicago Cubs at Philadelphia Phillies",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~560m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ohokZ6M_Vf8"
   }
 ]
