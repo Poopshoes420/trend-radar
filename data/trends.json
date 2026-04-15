@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Whatever he did wrong I hope she forgives him\ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sm1gk8/whatever_he_did_wrong_i_hope_she_forgives_him/"
-  },
-  {
     "topic": "Absolutely zero hesitation in his answer",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1smdyme/absolutely_zero_hesitation_in_his_answer/"
   },
   {
-    "topic": "\u2728Lifehacks\u2728",
+    "topic": "Whatever he did wrong I hope she forgives him\ud83d\ude02",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sm3o7b/lifehacks/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sm1gk8/whatever_he_did_wrong_i_hope_she_forgives_him/"
+  },
+  {
+    "topic": "[OC] \ud83d\udc38",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1smascv/oc/"
   },
   {
     "topic": "The Youtube CEO only has 11k subscribers",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1slisni/the_we_dont_need_to_be_a_threat_to_the_player_but/"
   },
   {
+    "topic": "Games you hated at first but changed your mind over time?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1smgb67/games_you_hated_at_first_but_changed_your_mind/"
+  },
+  {
     "topic": "Who thought this was a good icon decision",
     "sources": [
       "reddit"
@@ -171,20 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1slhyu3/who_thought_this_was_a_good_icon_decision/"
   },
   {
-    "topic": "Which gaming fandom is super small but super active?",
+    "topic": "Good Omens - Final Season Official Trailer | Prime Video",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sm0ojl/which_gaming_fandom_is_super_small_but_super/"
+    "why": "Trending on YouTube \u2022 97,012 views \u2022 ~370m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kpKkh64jgPI"
+  },
+  {
+    "topic": "STREET FIGHTER Teaser Trailer 2 (2026) Ken Masters",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 102,591 views \u2022 ~396m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fD-JzwHqobU"
+  },
+  {
+    "topic": "Young Miko - BIAF (Video Oficial)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 54,905 views \u2022 ~251m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BboJ9CzPhnM"
+  },
+  {
+    "topic": "Blueface Ft. Stunna Girl - Bricked Up [OFFICIAL MUSIC VIDEO]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 28,883 views \u2022 ~249m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GJ5s2iBZ06E"
   },
   {
     "topic": "Viva Las Hamptons",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~570m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jEjr_wsH8DI"
   },
   {
@@ -192,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~639m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~691m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PtT_0n3vf9k"
   },
   {
@@ -200,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ohokZ6M_Vf8"
   },
   {
@@ -208,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VpOO5nmuqok"
-  },
-  {
-    "topic": "Washington Capitals at Columbus Blue Jackets",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~672m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PUxRRjcrSrU"
   },
   {
     "topic": "The Godfather",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=srLWk5hxbKw"
   }
 ]
