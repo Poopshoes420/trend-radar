@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sn9o2t/this_was_one_of_the_funny_memories_i_had_with/"
   },
   {
+    "topic": "UK transfers about 1 billion dollars in frozen Russian assets to Ukraine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snebny/uk_transfers_about_1_billion_dollars_in_frozen/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1512, Part 1 (Thread #1659)",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sn1h85/pope_world_is_being_ravaged_by_a_handful_of/"
-  },
-  {
-    "topic": "UK transfers about 1 billion dollars in frozen Russian assets to Ukraine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snebny/uk_transfers_about_1_billion_dollars_in_frozen/"
   },
   {
     "topic": "Italy\u2019s Meloni halts defense pact with Israel",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,410,856 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 4,856,133 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Io1ZL0rc2Ac"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,453,729 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 3,893,234 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,465,247 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 2,669,669 views \u2022 ~560m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ADc9JPeLYi4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,222 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 398,774 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1OFIJdlyKyY"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 535,919 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 633,876 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-4ZVFspRn3M"
+  },
+  {
+    "topic": "Xbox First Look: METRO 2039 | 4A Games + Deep Silver",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 357,413 views \u2022 ~294m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2GLi240fXzA"
   },
   {
     "topic": "\ud83d\udd34LIVE | RUST | PEANUT'S WASTELAND | LAST NIGHT BEFORE WIPE | THE BIG WAR | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 606,022 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 611,690 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QcRi0K6C_XM"
   },
   {
@@ -232,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 222,583 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 254,138 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fA82c4YkAZ4"
-  },
-  {
-    "topic": "Massive Attack / Tom Waits - Boots on the Ground",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 182,621 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L-57FrioeuE"
   },
   {
     "topic": "Ladies First | Official Trailer | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,340 views \u2022 ~389m old",
+    "why": "Trending on YouTube \u2022 99,672 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yeetI2DfbaE"
   },
   {
@@ -256,31 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,759 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 38,776 views \u2022 ~412m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3zesKmopj3s"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fs7LJqcb9IA"
   },
   {
     "topic": "New York Mets at Los Angeles Dodgers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UHRkJc8YChs"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hW43M2fud7o"
   },
   {
     "topic": "Oklahoma at Oklahoma State",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~706m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q90v-ayjXgk"
   }
 ]
