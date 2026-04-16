@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Please, sign this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1smygez/please_sign_this/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "I'll pass Hilton, I'll pass.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sn3991/ill_pass_hilton_ill_pass/"
   },
   {
     "topic": "Absolutely zero hesitation in his answer",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smxdna/a_channel_i_liked_was_hacked_and_is_now_gone/"
   },
   {
-    "topic": "The Youtube CEO only has 11k subscribers",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm3bb5/the_youtube_ceo_only_has_11k_subscribers/"
-  },
-  {
     "topic": "Happens everytime",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sn02l9/happens_everytime/"
+  },
+  {
+    "topic": "The Youtube CEO only has 11k subscribers",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm3bb5/the_youtube_ceo_only_has_11k_subscribers/"
   },
   {
     "topic": "I left youtube open overnight. Ublock blocked over 1 million trackers!!!!",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Pentagon prepares for possible military operation in Cuba",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/"
-  },
-  {
     "topic": "Europe has 'maybe 6 weeks of jet fuel left,' energy agency head tells AP",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sn08h1/europe_has_maybe_6_weeks_of_jet_fuel_left_energy/"
+  },
+  {
+    "topic": "Pentagon prepares for possible military operation in Cuba",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1smwhs9/love_midnight_suns_made_my_character_look_like/"
   },
   {
-    "topic": "Hieronymus: a FPS currently in development based on the paintings of Hieronymus Bosch, a Dutch surrealist painter from the 1400s",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1smosxr/hieronymus_a_fps_currently_in_development_based/"
-  },
-  {
     "topic": "Nintendo 3DS XL / 3DS",
     "sources": [
       "reddit"
@@ -180,27 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sn0ba2/nintendo_3ds_xl_3ds/"
   },
   {
-    "topic": "\ud83d\udd34LIVE | RUST | PEANUT'S WASTELAND | LAST NIGHT BEFORE WIPE | THE BIG WAR | #BUNGULATE",
+    "topic": "Hieronymus: a FPS currently in development based on the paintings of Hieronymus Bosch, a Dutch surrealist painter from the 1400s",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 551,981 views \u2022 ~155m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QcRi0K6C_XM"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1smosxr/hieronymus_a_fps_currently_in_development_based/"
   },
   {
     "topic": "TEDDY AFRO  - \u1300\u121d\u1260\u122d - Jember | Track 18 (Official Lyrics Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 217,113 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 1,165,878 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PA2aWF37Ljk"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | RUST | PEANUT'S WASTELAND | LAST NIGHT BEFORE WIPE | THE BIG WAR | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 558,092 views \u2022 ~257m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QcRi0K6C_XM"
   },
   {
     "topic": "SPACEBALLS 2: The New One - Title Announcement Teaser (2027) Amazon MGM",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,409 views \u2022 ~450m old",
+    "why": "Trending on YouTube \u2022 86,275 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f8xes-dZJ98"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VIPgMQv1Dl8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q90v-ayjXgk"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hW43M2fud7o"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LmPyB8aSHWg"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_7RfujKNtMU"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~420m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_jBSakQ6dTE"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3x1al6MrdSY"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=awcVMZryRqs"
   }
 ]
