@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Vance calls end of Ukraine aid 'one of the proudest' achievements of Trump administration",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smw1y6/vance_calls_end_of_ukraine_aid_one_of_the/"
+  },
+  {
     "topic": "NATO Allies Pledge $60 Billion in Military Aid to Ukraine for 2026",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smjsez/nato_allies_pledge_60_billion_in_military_aid_to/"
-  },
-  {
-    "topic": "Iran to execute first woman over anti-regime protests",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smh0ju/iran_to_execute_first_woman_over_antiregime/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sm4cat/crimson_desert_sells_over_5_million_copies/"
   },
   {
-    "topic": "Games you hated at first but changed your mind over time?",
+    "topic": "Are games getting more fun, or just more \u201cbusy\u201d?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1smgb67/games_you_hated_at_first_but_changed_your_mind/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1smwa18/are_games_getting_more_fun_or_just_more_busy/"
   },
   {
     "topic": "Focker-In-Law | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 765,878 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 1,193,221 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vyISuWUWcFs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 281,819 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 311,855 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EImIUIy1Lp4"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 331,642 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 357,483 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2wI4_-aMSk0"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,351 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 128,452 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ybMji1DmuY"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,953 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 70,388 views \u2022 ~573m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1MZ9zq9Lkwc"
   },
   {
@@ -224,47 +224,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,269 views \u2022 ~610m old",
+    "why": "Trending on YouTube \u2022 60,423 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W3XVXqExo_s"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=woD1IA4zjsQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VIPgMQv1Dl8"
+  },
+  {
+    "topic": "Pickleball Slam 4",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_7RfujKNtMU"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6VMlZfcqx6g"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "The Santa Clarita Trail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cJMRjl4WNr4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_jBSakQ6dTE"
   },
   {
-    "topic": "The Robotic Manipulation",
+    "topic": "Erin Burnett OutFront",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=he6-abyQdAw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RiVGV3-0ic4"
   },
   {
-    "topic": "Pardon the Interruption",
+    "topic": "Tennessee at Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dr8RmbFBWkc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=n6fr3HPbR8U"
+  },
+  {
+    "topic": "Mission: Impossible -- Fallout",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Bgu72R70p1E"
+  },
+  {
+    "topic": "Bowling Day",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aSOjeaa8B-A"
   }
 ]
