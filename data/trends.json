@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Please, sign this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1smygez/please_sign_this/"
+  },
+  {
     "topic": "Absolutely zero hesitation in his answer",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1smdyme/absolutely_zero_hesitation_in_his_answer/"
-  },
-  {
-    "topic": "Waiting For Laugh",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sm8l5d/waiting_for_laugh/"
   },
   {
     "topic": "Alien Catto",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1smj4la/alien_catto/"
   },
   {
-    "topic": "[OC] \ud83d\udc38",
+    "topic": "Waiting For Laugh",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1smascv/oc/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sm8l5d/waiting_for_laugh/"
   },
   {
     "topic": "The Youtube CEO only has 11k subscribers",
@@ -63,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm3chd/i_left_youtube_open_overnight_ublock_blocked_over/"
   },
   {
+    "topic": "A channel I liked was hacked and is now gone",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smxdna/a_channel_i_liked_was_hacked_and_is_now_gone/"
+  },
+  {
+    "topic": "Crazy ahh video I've seen",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smheg3/crazy_ahh_video_ive_seen/"
+  },
+  {
     "topic": "Greed comes in many ways.",
     "sources": [
       "reddit"
@@ -72,40 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smnw97/greed_comes_in_many_ways/"
   },
   {
-    "topic": "Since when is 480p consid super resolution?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm42wi/since_when_is_480p_consid_super_resolution/"
-  },
-  {
-    "topic": "What is my feed \ud83d\ude2d \ud83d\udc94",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smeq9f/what_is_my_feed/"
-  },
-  {
-    "topic": "Pentagon prepares for possible military operation in Cuba",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1512, Part 1 (Thread #1659)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1511, Part 1 (Thread #1658)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1slva6f/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smygo6/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #15)",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Vance calls end of Ukraine aid 'one of the proudest' achievements of Trump administration",
+    "topic": "Pentagon prepares for possible military operation in Cuba",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smw1y6/vance_calls_end_of_ukraine_aid_one_of_the/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smlt60/pentagon_prepares_for_possible_military_operation/"
   },
   {
     "topic": "NATO Allies Pledge $60 Billion in Military Aid to Ukraine for 2026",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smjsez/nato_allies_pledge_60_billion_in_military_aid_to/"
+  },
+  {
+    "topic": "Iran to execute first woman over anti-regime protests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smh0ju/iran_to_execute_first_woman_over_antiregime/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,193,221 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 1,406,272 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vyISuWUWcFs"
   },
   {
@@ -192,47 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 311,855 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 325,454 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EImIUIy1Lp4"
-  },
-  {
-    "topic": "YoungBoy Never Broke Again - Bruce Wayne [Official Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 357,483 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2wI4_-aMSk0"
-  },
-  {
-    "topic": "SPIDERMAN BEYOND THE SPIDERVERSE (2027) Trailer Footage Description | CinemaCon 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 128,452 views \u2022 ~709m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3ybMji1DmuY"
   },
   {
     "topic": "Rakai Goes To Boarding School - (Official Trailer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,388 views \u2022 ~573m old",
+    "why": "Trending on YouTube \u2022 73,484 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1MZ9zq9Lkwc"
-  },
-  {
-    "topic": "BossMan Dlow - Nothin Like Me (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 60,423 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=W3XVXqExo_s"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VIPgMQv1Dl8"
   },
   {
@@ -240,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_7RfujKNtMU"
   },
   {
@@ -248,47 +224,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6VMlZfcqx6g"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dr648m2qgpA"
   },
   {
     "topic": "The Santa Clarita Trail",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_jBSakQ6dTE"
-  },
-  {
-    "topic": "Erin Burnett OutFront",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RiVGV3-0ic4"
   },
   {
     "topic": "Tennessee at Duke",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n6fr3HPbR8U"
+  },
+  {
+    "topic": "Massachusetts Roots or Rental",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7LEEnt6M7uU"
   },
   {
     "topic": "Mission: Impossible -- Fallout",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Bgu72R70p1E"
-  },
-  {
-    "topic": "Bowling Day",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aSOjeaa8B-A"
   }
 ]
