@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sm8l5d/waiting_for_laugh/"
   },
   {
-    "topic": "[OC] \ud83d\udc38",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1smascv/oc/"
-  },
-  {
     "topic": "Alien Catto",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1smj4la/alien_catto/"
+  },
+  {
+    "topic": "[OC] \ud83d\udc38",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1smascv/oc/"
   },
   {
     "topic": "The Youtube CEO only has 11k subscribers",
@@ -63,13 +63,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm3chd/i_left_youtube_open_overnight_ublock_blocked_over/"
   },
   {
-    "topic": "not trying to be offensive person here but I hate nowadays some people censored kill and Die like it's freakin swear words",
+    "topic": "Greed comes in many ways.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm178k/not_trying_to_be_offensive_person_here_but_i_hate/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smnw97/greed_comes_in_many_ways/"
+  },
+  {
+    "topic": "Since when is 480p consid super resolution?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm42wi/since_when_is_480p_consid_super_resolution/"
   },
   {
     "topic": "What is my feed \ud83d\ude2d \ud83d\udc94",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1smeq9f/what_is_my_feed/"
-  },
-  {
-    "topic": "Woke up to this, I'm so mad",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sm4bb9/woke_up_to_this_im_so_mad/"
   },
   {
     "topic": "Pentagon prepares for possible military operation in Cuba",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 314,775 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 765,878 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vyISuWUWcFs"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,761 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 281,819 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EImIUIy1Lp4"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 301,166 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 331,642 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2wI4_-aMSk0"
-  },
-  {
-    "topic": "5 NIGHTS in THE LOUD HOUSE?!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 215,617 views \u2022 ~383m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9PmaIur89Ns"
   },
   {
     "topic": "SPIDERMAN BEYOND THE SPIDERVERSE (2027) Trailer Footage Description | CinemaCon 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,662 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 114,351 views \u2022 ~603m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3ybMji1DmuY"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,737 views \u2022 ~371m old",
+    "why": "Trending on YouTube \u2022 63,953 views \u2022 ~467m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1MZ9zq9Lkwc"
   },
   {
@@ -232,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,926 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 56,269 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W3XVXqExo_s"
   },
   {
-    "topic": "The Will Cain Show",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hW-eQ_XRtvg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=woD1IA4zjsQ"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6VMlZfcqx6g"
   },
   {
@@ -256,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cJMRjl4WNr4"
+  },
+  {
+    "topic": "The Robotic Manipulation",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=he6-abyQdAw"
   },
   {
     "topic": "Pardon the Interruption",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dr8RmbFBWkc"
   }
 ]
