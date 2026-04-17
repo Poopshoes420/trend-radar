@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1snnrmw/two_outlooks/"
   },
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Human nervous system before and after proper cable management",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1snojs3/human_nervous_system_before_and_after_proper/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Airport clearly has less patience with the Dutch travellers",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sn15oz/rare_w_from_youtube/"
   },
   {
+    "topic": "What is this, Youtube?-",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1snqshb/what_is_this_youtube/"
+  },
+  {
     "topic": "A channel I liked was hacked and is now gone",
     "sources": [
       "reddit"
@@ -81,31 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1snc6t3/youtube_has_added_a_mourning_icon_used_in_turkey/"
   },
   {
-    "topic": "Happens everytime",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sn02l9/happens_everytime/"
-  },
-  {
-    "topic": "UK transfers about 1 billion dollars in frozen Russian assets to Ukraine",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1513, Part 1 (Thread #1660)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snebny/uk_transfers_about_1_billion_dollars_in_frozen/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1512, Part 1 (Thread #1659)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1smygo6/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snq4io/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #15)",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Italy\u2019s Meloni halts defense pact with Israel",
+    "topic": "UK transfers about 1 billion dollars in frozen Russian assets to Ukraine",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sna7dx/italys_meloni_halts_defense_pact_with_israel/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snebny/uk_transfers_about_1_billion_dollars_in_frozen/"
   },
   {
     "topic": "Trump Says \u2018Windmills Put You Out Of Business\u2019 As He Hits Out At UK\u2019s North Sea Policy In Latest Jibe At Starmer",
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snjnn7/trump_says_windmills_put_you_out_of_business_as/"
+  },
+  {
+    "topic": "U.S. launches \u2018Operation Economic Fury\u2019 to obstruct Iran\u2019s revenue streams amid blockade",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1snp83t/us_launches_operation_economic_fury_to_obstruct/"
   },
   {
     "topic": "Throwback to 2017 when Tom Holland was trying to impress Zendaya with his ballet dance moves",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sk291z/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "My cosplay of Faith Connors, Mirror's Edge (2008)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1snhm7p/my_cosplay_of_faith_connors_mirrors_edge_2008/"
-  },
-  {
     "topic": "Dallas/Fort Worth BOLO - My storage Unit was burglarized, portion of my collection was stolen.",
     "sources": [
       "reddit"
@@ -171,20 +162,29 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sno9yx/dallasfort_worth_bolo_my_storage_unit_was/"
   },
   {
-    "topic": "METRO 2039 | Official Reveal Trailer",
+    "topic": "My cosplay of Faith Connors, Mirror's Edge (2008)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sn9zrz/metro_2039_official_reveal_trailer/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1snhm7p/my_cosplay_of_faith_connors_mirrors_edge_2008/"
+  },
+  {
+    "topic": "Ross Scott speaking for the Stop Killing Games movement in front of the European Parliament.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1snq1zf/ross_scott_speaking_for_the_stop_killing_games/"
   },
   {
     "topic": "Star Wars: The Mandalorian and Grogu | Final Trailer | In Theaters May 22",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 670,522 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 921,245 views \u2022 ~463m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uwild1rw7Aw"
   },
   {
@@ -192,39 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 205,373 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 213,917 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DA4VV8bpg8k"
-  },
-  {
-    "topic": "Metro 2039 - Reveal Trailer | PS5 Games",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 796,513 views \u2022 ~628m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1OFIJdlyKyY"
-  },
-  {
-    "topic": "Xbox First Look: METRO 2039 | 4A Games + Deep Silver",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 505,923 views \u2022 ~644m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2GLi240fXzA"
-  },
-  {
-    "topic": "Shakira & Be\u00e9le - ALGO T\u00da (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 475,955 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mXz8F1Yjy9I"
   },
   {
     "topic": "Knights End is Eerily Funny",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 319,464 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 387,485 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ldwR30iAHc"
   },
   {
@@ -232,71 +208,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 339,770 views \u2022 ~584m old",
+    "why": "Trending on YouTube \u2022 410,964 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=u4Ko14vkfx4"
+  },
+  {
+    "topic": "AVENGERS DOOMSDAY CINEMACON TRAILER Breakdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 124,792 views \u2022 ~238m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dDrWFxkhCuA"
   },
   {
     "topic": "sombr - Potential (official video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 153,447 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 198,055 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KoBUE6I4R9I"
   },
   {
-    "topic": "21 Savage - STEPBROTHERS ft Young Nudy (Official Music Video)",
+    "topic": "Weird Things Are Happening At This Gas Station\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,323 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=seppD-MuFvQ"
+    "why": "Trending on YouTube \u2022 177,371 views \u2022 ~473m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=myWBIUxaTeU"
   },
   {
-    "topic": "Full Avengers Doomsday Teaser Trailer LEAK - CinemaCon",
+    "topic": "Justin Bieber - YUKON (Live From The 68th Grammy Awards / 2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,955 views \u2022 ~292m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v7m5bk4iQkA"
+    "why": "Trending on YouTube \u2022 128,898 views \u2022 ~435m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iLF0ZNdhNM0"
   },
   {
     "topic": "YFG Fatso - Mental [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,221 views \u2022 ~253m old",
+    "why": "Trending on YouTube \u2022 53,446 views \u2022 ~383m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eSGT8vDqcP0"
   },
   {
-    "topic": "AVENGERS DOOMSDAY CINEMACON TRAILER LEAKED!\ud83d\ude31\ud83d\udd25",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,868 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=haxcedbf5s4"
-  },
-  {
-    "topic": "The Story With Martha MacCallum",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-peneOlUZQw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GRmR22O5_5c"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IRuvlQhpWYY"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F454-RsdrRk"
   }
 ]
