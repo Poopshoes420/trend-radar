@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1snzgl8/made_these_for_my_friends_birthday/"
   },
   {
+    "topic": "How to get your dog to stop biting",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sod91g/how_to_get_your_dog_to_stop_biting/"
+  },
+  {
     "topic": "He is very good at what he does.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1so68pn/humpty_dumpty_vibes/"
-  },
-  {
-    "topic": "How to get your dog to stop biting",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sod91g/how_to_get_your_dog_to_stop_biting/"
   },
   {
     "topic": "What is that icon next to the YouTube Premium TV text?",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1so4xjc/if_you_ever_feel_useless/"
   },
   {
-    "topic": "'Enough Is Enough': Trump Announces US has Forbidden Israel From Bombing Lebanon Any Longer",
+    "topic": "Trump shocked Netanyahu with post declaring Lebanon strikes \"prohibited\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1so32vx/enough_is_enough_trump_announces_us_has_forbidden/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1soc7bq/trump_shocked_netanyahu_with_post_declaring/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1513, Part 1 (Thread #1660)",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1shqn32/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump shocked Netanyahu with post declaring Lebanon strikes \"prohibited\"",
+    "topic": "'Enough Is Enough': Trump Announces US has Forbidden Israel From Bombing Lebanon Any Longer",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1soc7bq/trump_shocked_netanyahu_with_post_declaring/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1so32vx/enough_is_enough_trump_announces_us_has_forbidden/"
   },
   {
-    "topic": "Poland drops Ye concert amid disgust at pro-Nazi remarks",
+    "topic": "Trump says 'thank you' after Iran announces opening of Strait of Hormuz",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1so32nc/poland_drops_ye_concert_amid_disgust_at_pronazi/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1so7sf6/trump_says_thank_you_after_iran_announces_opening/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,51 +180,83 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sno9yx/dallasfort_worth_bolo_my_storage_unit_was/"
   },
   {
-    "topic": "Nobody is Using Mega Glimmora Like This",
+    "topic": "Prop Hunt But That Clearly Ain't Me...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 265,043 views \u2022 ~417m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2nFGsaNhoco"
+    "why": "Trending on YouTube \u2022 211,261 views \u2022 ~206m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=69bkqNpMksc"
+  },
+  {
+    "topic": "Avengers: Doomsday Trailer Breakdown - Every Easter Egg and Marvel Reveal from CinemaCon 2026!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 87,858 views \u2022 ~371m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sHs7X-9ao3Q"
+  },
+  {
+    "topic": "BEBESHITO \u274c REY TONY & HELABUSADOR - Sin Pena \ud83d\ude08 (Prod. Dj Honda) [Video by Yoa N Dany] #Repaton",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 42,592 views \u2022 ~294m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9RyYblhkrqY"
   },
   {
     "topic": "Hurricane Wisdom - Enough (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,531 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 31,645 views \u2022 ~354m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PjjOXKDXLm0"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Jv8GCGoQY0M"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ksr2_lg0NFU"
   },
   {
     "topic": "RBC Heritage, First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~537m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gq4g1lWMHBM"
+  },
+  {
+    "topic": "Get Up",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~112m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tg8lOuKZksY"
+  },
+  {
+    "topic": "The Situation Room",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oDYGX_BCKo8"
   },
   {
     "topic": "Top Gun: Maverick",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~629m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h6S632_-4Hs"
   },
   {
-    "topic": "The Last Word With Lawrence O'Donnell",
+    "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WD27EheZ5jc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=H4ABWxOzTZo"
   }
 ]
