@@ -1,5 +1,14 @@
 [
   {
+    "topic": "boom shakalaka",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp4xtz/boom_shakalaka/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp1su7/sausage_in_the_hole/"
-  },
-  {
-    "topic": "boom shakalaka",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp4xtz/boom_shakalaka/"
   },
   {
     "topic": "It's just a drawing",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,854,922 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 3,244,148 views \u2022 ~277m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
-  },
-  {
-    "topic": "Madonna - I Feel So Free (Official Visualizer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 369,524 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Zx83eVfP64A"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TAI_Scu2wJk"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vl9gtiO2-sc"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxHCCGU3i5k"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mvf8n4v7jlA"
   }
 ]
