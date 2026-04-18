@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Macron: French soldier was killed in Lebanon",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sowpli/macron_french_soldier_was_killed_in_lebanon/"
-  },
-  {
     "topic": "Hezbollah threatens Lebanon\u2019s president: \u2018He will lose his status if he meets Netanyahu\u2019",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sp37zb/hezbollah_threatens_lebanons_president_he_will/"
+  },
+  {
+    "topic": "Macron: French soldier was killed in Lebanon",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sowpli/macron_french_soldier_was_killed_in_lebanon/"
   },
   {
     "topic": "Iranian gunboats fire on tanker in Strait of Hormuz as Iran reimposes restrictions - North Shore News",
@@ -184,15 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 5,029,528 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 5,262,759 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
   },
   {
-    "topic": "New CRAFT MACHINE + CYBER MUTATION",
+    "topic": "I Got EVERY NEW CRAFT MACHINE Brainrot!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 799,621 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 806,480 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UOYnHAhYujw"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 295,003 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 315,872 views \u2022 ~507m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YH5bi7H4c9k"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i2FtPR6Mgt0"
+  },
+  {
+    "topic": "Golf Central Pregame",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~55m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ozx0_5laalI"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vl9gtiO2-sc"
   },
   {
-    "topic": "CNN Table for Five",
+    "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uV2V1Q0PGwY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BSVi1rThjMw"
   },
   {
     "topic": "SportsCenter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JVUJGx-Zems"
   }
 ]
