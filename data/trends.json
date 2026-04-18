@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp1su7/sausage_in_the_hole/"
   },
   {
+    "topic": "Well, THAT wasn't what I expected!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp7m95/well_that_wasnt_what_i_expected/"
+  },
+  {
     "topic": "It's just a drawing",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sotv60/its_just_a_drawing/"
-  },
-  {
-    "topic": "Poor kid \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sopi7l/poor_kid/"
   },
   {
     "topic": "ai strikes",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sopyji/why_are_companies_so_heavy_on_ads_when_in_reality/"
   },
   {
-    "topic": "I didn't know there was a windows app for youtube?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1soswjd/i_didnt_know_there_was_a_windows_app_for_youtube/"
-  },
-  {
     "topic": "Youtube hides videos on every channel if an adblocker is on",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sp2olg/youtube_hides_videos_on_every_channel_if_an/"
+  },
+  {
+    "topic": "I didn't know there was a windows app for youtube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1soswjd/i_didnt_know_there_was_a_windows_app_for_youtube/"
   },
   {
     "topic": "YT thumbnails getting out of hand \ud83d\udc94\ud83e\udd40",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sopc3q/self_promotion_saturday_small_streamer_just/"
   },
   {
-    "topic": "Jennifer English won BAFTA award for best performanse in Expedition 33, well deserved and so happy for her.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sooggz/jennifer_english_won_bafta_award_for_best/"
-  },
-  {
     "topic": "World of Warcraft private server Stormforge is shutting down as Blizzard builds pressure on fan alternatives",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sotye4/world_of_warcraft_private_server_stormforge_is/"
+  },
+  {
+    "topic": "Jennifer English won BAFTA award for best performanse in Expedition 33, well deserved and so happy for her.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sooggz/jennifer_english_won_bafta_award_for_best/"
   },
   {
     "topic": "Cyberpunk TCG Shatters Kickstarter Record With Over $25 Million Raised as Campaign Ends",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sovgeq/european_parlament_hearing_stop_destroying/"
   },
   {
-    "topic": "New CRAFT MACHINE + CYBER MUTATION",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 680,974 views \u2022 ~59m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=UOYnHAhYujw"
-  },
-  {
     "topic": "Brawl Talk: 3 NEW Brawlers!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,757,200 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 4,032,437 views \u2022 ~388m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
+  },
+  {
+    "topic": "New CRAFT MACHINE + CYBER MUTATION",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 738,979 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UOYnHAhYujw"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TAI_Scu2wJk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=69tsems9xCQ"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vl9gtiO2-sc"
+  },
+  {
+    "topic": "Simply Comfort 4 Ways",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P4703UMcxgs"
   }
 ]
