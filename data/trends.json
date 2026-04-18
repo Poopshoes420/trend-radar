@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sopi7l/poor_kid/"
   },
   {
-    "topic": "Aaand I'm gone",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sol4o4/aaand_im_gone/"
-  },
-  {
     "topic": "It's just a drawing",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sotv60/its_just_a_drawing/"
+  },
+  {
+    "topic": "Aaand I'm gone",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sol4o4/aaand_im_gone/"
   },
   {
     "topic": "ai strikes",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sop3e8/this_video_sponsored_by/"
   },
   {
-    "topic": "US lifts sanctions on Russian oil despite earlier assurances",
+    "topic": "Macron: French soldier was killed in Lebanon",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sopm8r/us_lifts_sanctions_on_russian_oil_despite_earlier/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sowpli/macron_french_soldier_was_killed_in_lebanon/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1514, Part 1 (Thread #1661)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Macron: French soldier was killed in Lebanon",
+    "topic": "US lifts sanctions on Russian oil despite earlier assurances",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sowpli/macron_french_soldier_was_killed_in_lebanon/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sopm8r/us_lifts_sanctions_on_russian_oil_despite_earlier/"
   },
   {
     "topic": "Iranian gunboats fire on tanker in Strait of Hormuz as Iran reimposes restrictions - North Shore News",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sovgeq/european_parlament_hearing_stop_destroying/"
   },
   {
-    "topic": "Love when a non-horror game introduces horror elements",
+    "topic": "Horizon Forbidden West is a beuatiful game.I liked it more then Zero Dawn.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1soj4yd/love_when_a_nonhorror_game_introduces_horror/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1soun43/horizon_forbidden_west_is_a_beuatiful_gamei_liked/"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JP9lBRS80Lo"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k8cBMCB2-Rg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vl9gtiO2-sc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxHCCGU3i5k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mvf8n4v7jlA"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~385m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RpRg3nh_Sp4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MoM0vgxHH4A"
   }
 ]
