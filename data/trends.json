@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp1su7/sausage_in_the_hole/"
   },
   {
+    "topic": "All the family she needs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp6s2a/all_the_family_she_needs/"
+  },
+  {
     "topic": "It's just a drawing",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sotv60/its_just_a_drawing/"
-  },
-  {
-    "topic": "Poor kid \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sopi7l/poor_kid/"
   },
   {
     "topic": "ai strikes",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sotye4/world_of_warcraft_private_server_stormforge_is/"
   },
   {
-    "topic": "European Parlament Hearing Stop Destroying Videogames",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sovgeq/european_parlament_hearing_stop_destroying/"
-  },
-  {
     "topic": "Cyberpunk TCG Shatters Kickstarter Record With Over $25 Million Raised as Campaign Ends",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp2o58/cyberpunk_tcg_shatters_kickstarter_record_with/"
   },
   {
+    "topic": "European Parlament Hearing Stop Destroying Videogames",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sovgeq/european_parlament_hearing_stop_destroying/"
+  },
+  {
     "topic": "Brawl Talk: 3 NEW Brawlers!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,244,148 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 3,491,117 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7B0-WJ5QYsc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TAI_Scu2wJk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~419m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vl9gtiO2-sc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AxHCCGU3i5k"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~667m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mvf8n4v7jlA"
   }
 ]
