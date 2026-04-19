@@ -1,14 +1,5 @@
 [
   {
-    "topic": "[OC] Draw!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "[OC] Draw!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
   },
   {
     "topic": "[OC] tap",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsmqj/oc_tap/"
   },
   {
+    "topic": "So, uh, what is the loop for?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sq4e6d/so_uh_what_is_the_loop_for/"
+  },
+  {
     "topic": "Stayin alive",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsp1p/stayin_alive/"
-  },
-  {
-    "topic": "Affordable housing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sprfu6/affordable_housing/"
   },
   {
     "topic": "Does anyone else find this annoying?",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spgkgu/why_is_the_background_the_same_in_these_two/"
   },
   {
-    "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spt51y/trump_tells_iran_to_sign_deal_with_us_or_the/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1515, Part 1 (Thread #1662)",
     "sources": [
       "reddit"
@@ -117,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "PM Carney declares U.S. ties now a \u2018weakness\u2019 in address to Canadians",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/"
-  },
-  {
     "topic": "Russia may announce general mobilisation to attack Ukraine or Baltic states \u2013 Zelenskyy",
     "sources": [
       "reddit"
@@ -133,6 +115,24 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq2eqo/russia_may_announce_general_mobilisation_to/"
+  },
+  {
+    "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spt51y/trump_tells_iran_to_sign_deal_with_us_or_the/"
+  },
+  {
+    "topic": "PM Carney declares U.S. ties now a \u2018weakness\u2019 in address to Canadians",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
   },
   {
+    "topic": "Painful milestone unlocked today - Halo 3 LASO completed.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq4ovo/painful_milestone_unlocked_today_halo_3_laso/"
+  },
+  {
     "topic": "Its genuinely amazing how terrible ubisoft connect is",
     "sources": [
       "reddit"
@@ -171,36 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq22is/continues_bar_in_old_town_alexandria_va/"
   },
   {
-    "topic": "Has a gaming company ever put a full game of theirs in another game?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp7pjr/has_a_gaming_company_ever_put_a_full_game_of/"
-  },
-  {
-    "topic": "Mega Feraligatr is a Menace",
+    "topic": "IEM Rio 2026 - Day 6",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,263 views \u2022 ~365m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
+    "why": "Trending on YouTube \u2022 1,868,817 views \u2022 ~28m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2U0OOT0ZddM"
   },
   {
     "topic": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,016 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 158,998 views \u2022 ~215m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
+  },
+  {
+    "topic": "Mega Feraligatr is a Menace",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 291,751 views \u2022 ~410m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
   },
   {
     "topic": "I've Mastered The Art Of Horsey Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 129,892 views \u2022 ~400m old",
+    "why": "Trending on YouTube \u2022 149,083 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,344 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 55,322 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
@@ -224,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
+  },
+  {
+    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5UYVdAcbB-o"
   },
   {
     "topic": "The Martian",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
   },
   {
@@ -240,15 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
   },
   {
-    "topic": "Inside Politics With Manu Raju",
+    "topic": "Bargain Bound on Big Stone Lake",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-pf-J5nq2E8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~49m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=peSiV2IYshA"
   }
 ]
