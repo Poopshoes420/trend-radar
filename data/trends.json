@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spn0w2/does_anyone_else_find_this_annoying/"
   },
   {
-    "topic": "YouTube is Dying",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
-  },
-  {
     "topic": "\"Me at the zoo\" (the oldest youtube video) will turn 21 years old in 4 days, does this mean it can drink alcohol?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
+  },
+  {
+    "topic": "Why is the background the same in these two different YouTube channels?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spgkgu/why_is_the_background_the_same_in_these_two/"
   },
   {
     "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/"
   },
   {
-    "topic": "Ukraine cut Russia\u2019s oil exports by 880,000 barrels in one day \u2014 that\u2019s $100 million every 24 hours",
+    "topic": "Russia may announce general mobilisation to attack Ukraine or Baltic states \u2013 Zelenskyy",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sps0ed/ukraine_cut_russias_oil_exports_by_880000_barrels/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq2eqo/russia_may_announce_general_mobilisation_to/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
   },
   {
-    "topic": "Continues Bar in Old Town Alexandria VA",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq22is/continues_bar_in_old_town_alexandria_va/"
-  },
-  {
     "topic": "Its genuinely amazing how terrible ubisoft connect is",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq1e38/its_genuinely_amazing_how_terrible_ubisoft/"
+  },
+  {
+    "topic": "Continues Bar in Old Town Alexandria VA",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq22is/continues_bar_in_old_town_alexandria_va/"
   },
   {
     "topic": "Has a gaming company ever put a full game of theirs in another game?",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 242,086 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 260,263 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
+  },
+  {
+    "topic": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 90,016 views \u2022 ~170m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
   },
   {
     "topic": "I've Mastered The Art Of Horsey Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 117,051 views \u2022 ~366m old",
+    "why": "Trending on YouTube \u2022 129,892 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,150 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 48,344 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
@@ -216,15 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hjYoGGiAFOE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~60m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
   },
   {
     "topic": "The Martian",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
   },
   {
@@ -232,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
+  },
+  {
+    "topic": "Inside Politics With Manu Raju",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-pf-J5nq2E8"
   }
 ]
