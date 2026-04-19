@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
   },
   {
-    "topic": "[OC] tap",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsmqj/oc_tap/"
-  },
-  {
     "topic": "So, uh, what is the loop for?",
     "sources": [
       "reddit"
@@ -36,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sq4e6d/so_uh_what_is_the_loop_for/"
   },
   {
+    "topic": "[OC] tap",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsmqj/oc_tap/"
+  },
+  {
     "topic": "Stayin alive",
     "sources": [
       "reddit"
@@ -43,6 +43,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsp1p/stayin_alive/"
+  },
+  {
+    "topic": "I\u2019m pretty sure YouTube has started ai upscale videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq5ekw/im_pretty_sure_youtube_has_started_ai_upscale/"
   },
   {
     "topic": "Does anyone else find this annoying?",
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
   },
   {
-    "topic": "Why is the background the same in these two different YouTube channels?",
+    "topic": "Russia may announce general mobilisation to attack Ukraine or Baltic states \u2013 Zelenskyy",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spgkgu/why_is_the_background_the_same_in_these_two/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq2eqo/russia_may_announce_general_mobilisation_to/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1515, Part 1 (Thread #1662)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "Russia may announce general mobilisation to attack Ukraine or Baltic states \u2013 Zelenskyy",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq2eqo/russia_may_announce_general_mobilisation_to/"
   },
   {
     "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,868,817 views \u2022 ~28m old",
+    "why": "Trending on YouTube \u2022 2,057,355 views \u2022 ~65m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2U0OOT0ZddM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 158,998 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 197,023 views \u2022 ~252m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 291,751 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 313,623 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,083 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 162,807 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
   },
   {
@@ -216,23 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,322 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 59,667 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
-  },
-  {
-    "topic": "Philadelphia Flyers at Pittsburgh Penguins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5UYVdAcbB-o"
   },
   {
@@ -248,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
-  },
-  {
-    "topic": "Atlanta Braves at Philadelphia Phillies",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~716m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
   },
   {
     "topic": "Bargain Bound on Big Stone Lake",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~49m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
     "exampleUrl": "https://www.youtube.com/watch?v=peSiV2IYshA"
   }
 ]
