@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
   },
   {
+    "topic": "\"Me at the zoo\" (the oldest youtube video) will turn 21 years old in 4 days, does this mean it can drink alcohol?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spzyyx/me_at_the_zoo_the_oldest_youtube_video_will_turn/"
+  },
+  {
     "topic": "HOW THE HECK YOUTUBE ALLOW THIS STUFF???",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
-  },
-  {
-    "topic": "Why is the background the same in these two different YouTube channels?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spgkgu/why_is_the_background_the_same_in_these_two/"
   },
   {
     "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp7pjr/has_a_gaming_company_ever_put_a_full_game_of/"
   },
   {
+    "topic": "Continues Bar in Old Town Alexandria VA",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq22is/continues_bar_in_old_town_alexandria_va/"
+  },
+  {
     "topic": "Its genuinely amazing how terrible ubisoft connect is",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq1e38/its_genuinely_amazing_how_terrible_ubisoft/"
   },
   {
-    "topic": "Mid-rated games that have Exceeded your expectations?",
+    "topic": "I've Mastered The Art Of Horsey Game",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1spmuuz/midrated_games_that_have_exceeded_your/"
+    "why": "Trending on YouTube \u2022 101,489 views \u2022 ~325m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
   },
   {
     "topic": "Avengers Doomsday Trailer Debrief & CinemaCon Recap | Sneak Peek",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,899 views \u2022 ~244m old",
+    "why": "Trending on YouTube \u2022 38,375 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hjYoGGiAFOE"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
   },
   {
@@ -224,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e669ywx-15A"
-  },
-  {
-    "topic": "Real Time With Bill Maher",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
   }
 ]
