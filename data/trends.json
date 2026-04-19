@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] Draw!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
-  },
-  {
     "topic": "So, uh, what is the loop for?",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sq4e6d/so_uh_what_is_the_loop_for/"
+  },
+  {
+    "topic": "[OC] Draw!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
   },
   {
     "topic": "[OC] tap",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1spknpe/simple_questions_sunday/"
   },
   {
-    "topic": "Games that survived having a child",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
-  },
-  {
     "topic": "Painful milestone unlocked today - Halo 3 LASO completed.",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq4ovo/painful_milestone_unlocked_today_halo_3_laso/"
+  },
+  {
+    "topic": "Games that survived having a child",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
   },
   {
     "topic": "Its genuinely amazing how terrible ubisoft connect is",
@@ -180,35 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq22is/continues_bar_in_old_town_alexandria_va/"
   },
   {
-    "topic": "IEM Rio 2026 - Day 6",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,057,355 views \u2022 ~65m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2U0OOT0ZddM"
-  },
-  {
     "topic": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,023 views \u2022 ~252m old",
+    "why": "Trending on YouTube \u2022 234,731 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
   },
   {
-    "topic": "Mega Feraligatr is a Menace",
+    "topic": "DRAGON BALL XENOVERSE 3 - Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,623 views \u2022 ~447m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
+    "why": "Trending on YouTube \u2022 75,739 views \u2022 ~142m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=v_Copbn4ASI"
   },
   {
     "topic": "I've Mastered The Art Of Horsey Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 162,807 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 176,977 views \u2022 ~520m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
   },
   {
@@ -216,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 59,667 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 64,028 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
+  },
+  {
+    "topic": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,530 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
+  },
+  {
+    "topic": "Anime \u201cDragon Ball Super: Beerus\u201d | SUPER GEKITOU Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 6,971 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-NekKfJN614"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
   },
   {
@@ -232,23 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5UYVdAcbB-o"
   },
   {
-    "topic": "The Martian",
+    "topic": "The Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RR8mJ1XH4ms"
   },
   {
-    "topic": "Bargain Bound on Big Stone Lake",
+    "topic": "Daily Bread",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=peSiV2IYshA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=74U27Xl1BgI"
   }
 ]
