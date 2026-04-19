@@ -1,14 +1,5 @@
 [
   {
-    "topic": "All the family she needs",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp6s2a/all_the_family_she_needs/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "All the family she needs",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sp6s2a/all_the_family_she_needs/"
   },
   {
     "topic": "Well, THAT wasn't what I expected!",
@@ -54,13 +54,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sors82/ai_strikes/"
   },
   {
-    "topic": "Why are companies so heavy on ads when in reality it has little effect?",
+    "topic": "YouTube is Dying",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sopyji/why_are_companies_so_heavy_on_ads_when_in_reality/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
+  },
+  {
+    "topic": "Why is the background the same in these two different YouTube channels?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spgkgu/why_is_the_background_the_same_in_these_two/"
   },
   {
     "topic": "Youtube hides videos on every channel if an adblocker is on",
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sp2olg/youtube_hides_videos_on_every_channel_if_an/"
   },
   {
-    "topic": "YouTube is Dying",
+    "topic": "Why are companies so heavy on ads when in reality it has little effect?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
-  },
-  {
-    "topic": "What is the most disliked youtube video?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sp8wt0/what_is_the_most_disliked_youtube_video/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sopyji/why_are_companies_so_heavy_on_ads_when_in_reality/"
   },
   {
     "topic": "Diplomatic cables show Iran war is damaging US on multiple fronts across the world",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1514, Part 1 (Thread #1661)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1515, Part 1 (Thread #1662)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2ti/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spihkb/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #16)",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sooggz/jennifer_english_won_bafta_award_for_best/"
   },
   {
+    "topic": "Crashing an ALL BOYS ONE BLOCK as LILY LOVEBRAIDS!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 302,422 views \u2022 ~584m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kBYnGC0gJ30"
+  },
+  {
     "topic": "Spider-Man Beyond The Spider-Verse Cinemacon Trailer 2027 Breakdown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 46,750 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 61,370 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1gIPjDYNXj0"
   },
   {
@@ -192,23 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~254m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xjzlkc83-TY"
   },
   {
-    "topic": "Fox & Friends Weekend",
+    "topic": "Ottawa Senators at Carolina Hurricanes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=i2FtPR6Mgt0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Fbf_jqiP_Ac"
+  },
+  {
+    "topic": "The Big Weekend Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j6WbCP-HM3g"
   },
   {
     "topic": "Tide 150 at Kansas Speedway",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
     "exampleUrl": "https://www.youtube.com/watch?v=T2x1C0UUlMQ"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FtlnW0mWE04"
   },
   {
@@ -224,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CZkvK6aI1KY"
-  },
-  {
-    "topic": "SportsCenter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L4KHz-iemxQ"
   },
   {
     "topic": "Ohio State Spring Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7drIJ0J7eno"
   }
 ]
