@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spgkgu/why_is_the_background_the_same_in_these_two/"
   },
   {
-    "topic": "HOW THE HECK YOUTUBE ALLOW THIS STUFF???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
-  },
-  {
     "topic": "In an alternative universe",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
+  },
+  {
+    "topic": "HOW THE HECK YOUTUBE ALLOW THIS STUFF???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
   },
   {
     "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sps0ed/ukraine_cut_russias_oil_exports_by_880000_barrels/"
   },
   {
-    "topic": "Zelenskyy Warns US Decision on Russian Oil Could Bring $10 Billion to Russia\u2019s War",
+    "topic": "PM Carney declares U.S. ties now a \u2018weakness\u2019 in address to Canadians",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spozp5/zelenskyy_warns_us_decision_on_russian_oil_could/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/"
   },
   {
     "topic": "The Strokes close out their Coachella set with videos denouncing CIA and Israel crimes",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e669ywx-15A"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~639m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xfrmntfK3sU"
   },
   {
@@ -240,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~495m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ajft_ugHqKk"
-  },
-  {
-    "topic": "WWE WrestleMania 42: Saturday",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wj3UQLODbWg"
   }
 ]
