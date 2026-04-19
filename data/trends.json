@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
   },
   {
-    "topic": "In an alternative universe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
-  },
-  {
     "topic": "\"Me at the zoo\" (the oldest youtube video) will turn 21 years old in 4 days, does this mean it can drink alcohol?",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spzyyx/me_at_the_zoo_the_oldest_youtube_video_will_turn/"
+  },
+  {
+    "topic": "In an alternative universe",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
   },
   {
     "topic": "HOW THE HECK YOUTUBE ALLOW THIS STUFF???",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
   },
   {
-    "topic": "Has a gaming company ever put a full game of theirs in another game?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp7pjr/has_a_gaming_company_ever_put_a_full_game_of/"
-  },
-  {
     "topic": "Continues Bar in Old Town Alexandria VA",
     "sources": [
       "reddit"
@@ -180,11 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq1e38/its_genuinely_amazing_how_terrible_ubisoft/"
   },
   {
+    "topic": "Has a gaming company ever put a full game of theirs in another game?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp7pjr/has_a_gaming_company_ever_put_a_full_game_of/"
+  },
+  {
+    "topic": "Mega Feraligatr is a Menace",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 242,086 views \u2022 ~332m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
+  },
+  {
     "topic": "I've Mastered The Art Of Horsey Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 101,489 views \u2022 ~325m old",
+    "why": "Trending on YouTube \u2022 117,051 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,375 views \u2022 ~290m old",
+    "why": "Trending on YouTube \u2022 44,150 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hjYoGGiAFOE"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
   },
   {
@@ -224,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
-  },
-  {
-    "topic": "To Philly with Love",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e669ywx-15A"
   }
 ]
