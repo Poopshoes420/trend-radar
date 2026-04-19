@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Oh no",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spwwvo/oh_no/"
-  },
-  {
     "topic": "[OC] tap",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsp1p/stayin_alive/"
+  },
+  {
+    "topic": "Affordable housing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sprfu6/affordable_housing/"
   },
   {
     "topic": "Does anyone else find this annoying?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
   },
   {
-    "topic": "Just Another Day on Youtube",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spukn9/just_another_day_on_youtube/"
-  },
-  {
     "topic": "In an alternative universe",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
+  },
+  {
+    "topic": "HOW THE HECK YOUTUBE ALLOW THIS STUFF???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
   },
   {
     "topic": "Why is the background the same in these two different YouTube channels?",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1spknpe/simple_questions_sunday/"
   },
   {
+    "topic": "Games that survived having a child",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
+  },
+  {
     "topic": "Has a gaming company ever put a full game of theirs in another game?",
     "sources": [
       "reddit"
@@ -153,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp7pjr/has_a_gaming_company_ever_put_a_full_game_of/"
   },
   {
-    "topic": "What enemy in a non-horror game freaked you out the most?",
+    "topic": "Its genuinely amazing how terrible ubisoft connect is",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1spgc5a/what_enemy_in_a_nonhorror_game_freaked_you_out/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq1e38/its_genuinely_amazing_how_terrible_ubisoft/"
   },
   {
     "topic": "Mid-rated games that have Exceeded your expectations?",
@@ -171,36 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1spmuuz/midrated_games_that_have_exceeded_your/"
   },
   {
-    "topic": "Cyberpunk TCG Shatters Kickstarter Record With Over $25 Million Raised as Campaign Ends",
+    "topic": "Avengers Doomsday Trailer Debrief & CinemaCon Recap | Sneak Peek",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp2o58/cyberpunk_tcg_shatters_kickstarter_record_with/"
+    "why": "Trending on YouTube \u2022 31,899 views \u2022 ~244m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
   },
   {
     "topic": "Philadelphia Flyers at Pittsburgh Penguins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
-    "topic": "FOX News Saturday Night With Jimmy Failla",
+    "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~523m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hjYoGGiAFOE"
   },
   {
     "topic": "The Martian",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e669ywx-15A"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
   }
 ]
