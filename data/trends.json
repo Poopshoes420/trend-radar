@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spk5sn/incredible_shot_and_celebration/"
   },
   {
-    "topic": "YouTube is Dying",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
-  },
-  {
     "topic": "Does anyone else find this annoying?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spn0w2/does_anyone_else_find_this_annoying/"
+  },
+  {
+    "topic": "YouTube is Dying",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spga14/youtube_is_dying/"
   },
   {
     "topic": "Why is the background the same in these two different YouTube channels?",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spjo5z/how_the_heck_youtube_allow_this_stuff/"
   },
   {
-    "topic": "ai strikes",
+    "topic": "In an alternative universe",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sors82/ai_strikes/"
-  },
-  {
-    "topic": "Diplomatic cables show Iran war is damaging US on multiple fronts across the world",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1515, Part 1 (Thread #1662)",
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Diplomatic cables show Iran war is damaging US on multiple fronts across the world",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spdyh6/diplomatic_cables_show_iran_war_is_damaging_us_on/"
+  },
+  {
     "topic": "Strait of Hormuz closed again, Iran says, as ships attacked",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spbs7c/strait_of_hormuz_closed_again_iran_says_as_ships/"
   },
   {
-    "topic": "Russia Urges HIV Testing for One-Third of Population as Cases Rise",
+    "topic": "Zelenskyy Warns US Decision on Russian Oil Could Bring $10 Billion to Russia\u2019s War",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spedcb/russia_urges_hiv_testing_for_onethird_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spozp5/zelenskyy_warns_us_decision_on_russian_oil_could/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp7pjr/has_a_gaming_company_ever_put_a_full_game_of/"
   },
   {
-    "topic": "Cyberpunk TCG Shatters Kickstarter Record With Over $25 Million Raised as Campaign Ends",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp2o58/cyberpunk_tcg_shatters_kickstarter_record_with/"
-  },
-  {
     "topic": "What enemy in a non-horror game freaked you out the most?",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1spgc5a/what_enemy_in_a_nonhorror_game_freaked_you_out/"
+  },
+  {
+    "topic": "Cyberpunk TCG Shatters Kickstarter Record With Over $25 Million Raised as Campaign Ends",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sp2o58/cyberpunk_tcg_shatters_kickstarter_record_with/"
   },
   {
     "topic": "World of Warcraft private server Stormforge is shutting down as Blizzard builds pressure on fan alternatives",
@@ -184,23 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 848,848 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 897,428 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G-Aq6XT0Rdc"
   },
   {
-    "topic": "Minnesota Wild at Dallas Stars",
+    "topic": "Philadelphia Flyers at Pittsburgh Penguins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=B9mkS1FtTmc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mNRncbEgFUU"
   },
   {
     "topic": "RBC Heritage, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xjzlkc83-TY"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DpDmI-p0RVg"
+  },
+  {
+    "topic": "The Martian",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~70m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MX3eRt8mizQ"
+  },
+  {
+    "topic": "Atlanta Braves at Philadelphia Phillies",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=q9x3YG5BgJk"
   },
   {
     "topic": "To Philly with Love",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e669ywx-15A"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sbaWh9rYMkg"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~341m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xfrmntfK3sU"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ajft_ugHqKk"
   },
   {
@@ -248,23 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~372m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wj3UQLODbWg"
   },
   {
-    "topic": "South Carolina at Missouri",
+    "topic": "Dazed and Confused",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~256m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AqGuuuyOGKE"
-  },
-  {
-    "topic": "Tide 150 at Kansas Speedway",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~515m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=T2x1C0UUlMQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UrO3RPO617k"
   }
 ]
