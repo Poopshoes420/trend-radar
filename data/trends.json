@@ -36,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqt8bz/i_got_your_back_buddy/"
   },
   {
-    "topic": "What I received when asking my mate about band names for our project",
+    "topic": "How robot pack itself",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1squsi8/what_i_received_when_asking_my_mate_about_band/"
-  },
-  {
-    "topic": "YT did something sensible",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqpzgp/yt_did_something_sensible/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqwizo/how_robot_pack_itself/"
   },
   {
     "topic": "Lawsuit against youtube, because it terminated a channel unfairly.",
@@ -63,13 +54,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqrpkh/lawsuit_against_youtube_because_it_terminated_a/"
   },
   {
-    "topic": "it's everywhere now, you can't deny it.",
+    "topic": "YT did something sensible",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqa7q8/its_everywhere_now_you_cant_deny_it/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqpzgp/yt_did_something_sensible/"
+  },
+  {
+    "topic": "Return dislike extension not working any more.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqwomi/return_dislike_extension_not_working_any_more/"
+  },
+  {
+    "topic": "Does anyone else lose interest in watching YouTubers once they become rich and their content changes as a result?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqzooe/does_anyone_else_lose_interest_in_watching/"
   },
   {
     "topic": "Sonion \ud83e\udd40\ud83e\udd40\ud83e\udd40",
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqlpqj/sonion/"
   },
   {
-    "topic": "Is this Forreal?!?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqfa5n/is_this_forreal/"
-  },
-  {
-    "topic": "Putin finally admits Russia's economy is in trouble and grasps for answers, after warnings about a financial crisis have been piling up",
+    "topic": "Elon Musk does not appear at hearing in French prosecutors\u2019 X probe",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqq7uy/putin_finally_admits_russias_economy_is_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqwuiz/elon_musk_does_not_appear_at_hearing_in_french/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1516, Part 1 (Thread #1663)",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Elon Musk does not appear at hearing in French prosecutors\u2019 X probe",
+    "topic": "Putin finally admits Russia's economy is in trouble and grasps for answers, after warnings about a financial crisis have been piling up",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqwuiz/elon_musk_does_not_appear_at_hearing_in_french/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqq7uy/putin_finally_admits_russias_economy_is_in/"
   },
   {
-    "topic": "Trump: Israel never talked me into war with Iran | Reuters",
+    "topic": "Ukraine reaches security deal with India \u2014 Zelenskyy says documents being finalized",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqs5k1/trump_israel_never_talked_me_into_war_with_iran/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqs7yl/ukraine_reaches_security_deal_with_india/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqmqja/shu_yoshida_says_he_was_fired_from_his_role/"
   },
   {
+    "topic": "PlayStation will require age verification for messages and voice chat",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqz82u/playstation_will_require_age_verification_for/"
+  },
+  {
     "topic": "You've got to be joking... (Pragmata)",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqrx48/youve_got_to_be_joking_pragmata/"
   },
   {
-    "topic": "PRAGMATA Surpasses One Million Units Sold in Just Two Days",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqiahq/pragmata_surpasses_one_million_units_sold_in_just/"
-  },
-  {
     "topic": "CORTIS (\ucf54\ub974\ud2f0\uc2a4) 'REDRED' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,430,862 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 2,485,415 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U6BDbXIah-Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,397 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 294,648 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g4R9UCu4gvg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 255,023 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 284,237 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,278 views \u2022 ~227m old",
+    "why": "Trending on YouTube \u2022 142,031 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iSWP2feb4rw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 274,035 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 280,928 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5sOgJQ3N03Q"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,982 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 28,949 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DkB7Q3r09SM"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 44,811 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 48,633 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sJ_RmomTwy8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mm89X4DAMvw"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyYXsMrbnQ0"
   },
   {
@@ -256,15 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=myZNuSHaUPs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DduHK3qMKJM"
   },
   {
     "topic": "Montreal Canadiens at Tampa Bay Lightning",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~670m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FPC5zgcfqR0"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bli0BV7kiI8"
   }
 ]
