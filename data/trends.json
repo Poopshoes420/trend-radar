@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqmd3m/should_i_be_concerned_about_my_roommate/"
   },
   {
-    "topic": "I got your back buddy",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqt8bz/i_got_your_back_buddy/"
-  },
-  {
     "topic": "How robot pack itself",
     "sources": [
       "reddit"
@@ -45,31 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqwizo/how_robot_pack_itself/"
   },
   {
-    "topic": "Return dislike extension not working any more.",
+    "topic": "I got your back buddy",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqwomi/return_dislike_extension_not_working_any_more/"
-  },
-  {
-    "topic": "Lawsuit against youtube, because it terminated a channel unfairly.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqrpkh/lawsuit_against_youtube_because_it_terminated_a/"
-  },
-  {
-    "topic": "Does anyone else lose interest in watching YouTubers once they become rich and their content changes as a result?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqzooe/does_anyone_else_lose_interest_in_watching/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqt8bz/i_got_your_back_buddy/"
   },
   {
     "topic": "Another useless update by YT. Now you can't see the number of videos on channels.",
@@ -81,13 +54,40 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sr1tys/another_useless_update_by_yt_now_you_cant_see_the/"
   },
   {
-    "topic": "YT did something sensible",
+    "topic": "Return dislike extension not working any more.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqpzgp/yt_did_something_sensible/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqwomi/return_dislike_extension_not_working_any_more/"
+  },
+  {
+    "topic": "Does anyone else lose interest in watching YouTubers once they become rich and their content changes as a result?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqzooe/does_anyone_else_lose_interest_in_watching/"
+  },
+  {
+    "topic": "Lawsuit against youtube, because it terminated a channel unfairly.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqrpkh/lawsuit_against_youtube_because_it_terminated_a/"
+  },
+  {
+    "topic": "Excuse me but nobody actually has this homepage.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sr047p/excuse_me_but_nobody_actually_has_this_homepage/"
   },
   {
     "topic": "Elon Musk does not appear at hearing in French prosecutors\u2019 X probe",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqrx48/youve_got_to_be_joking_pragmata/"
   },
   {
+    "topic": "Practical Magic 2 | Official Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 442,195 views \u2022 ~384m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iSWP2feb4rw"
+  },
+  {
     "topic": "Harry Styles - Harry Live from Funkhaus",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 317,908 views \u2022 ~329m old",
+    "why": "Trending on YouTube \u2022 368,154 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g4R9UCu4gvg"
   },
   {
@@ -192,31 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,263 views \u2022 ~432m old",
+    "why": "Trending on YouTube \u2022 339,122 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
-  },
-  {
-    "topic": "Practical Magic 2 | Official Teaser Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 215,125 views \u2022 ~328m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iSWP2feb4rw"
   },
   {
     "topic": "Avengers Doomsday Trailer NEW DETAILS You Need To Know!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,331 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 54,188 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mY7AaQ97N2A"
+  },
+  {
+    "topic": "SUPER TROOPERS 3 | Official Trailer | Searchlight Pictures",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 30,825 views \u2022 ~125m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cYFevn5frf0"
   },
   {
     "topic": "Game Changer Season 8 Trailer [Dropout Exclusive Series]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,538 views \u2022 ~239m old",
+    "why": "Trending on YouTube \u2022 60,126 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DkB7Q3r09SM"
   },
   {
@@ -224,47 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~644m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mm89X4DAMvw"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0jdfLXqJ8t0"
   },
   {
     "topic": "Atlanta Braves at Philadelphia Phillies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~624m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~680m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyYXsMrbnQ0"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DduHK3qMKJM"
-  },
-  {
-    "topic": "Montreal Canadiens at Tampa Bay Lightning",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0vsLv81mFKc"
   },
   {
     "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~140m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbbEqjBk8rU"
-  },
-  {
-    "topic": "Squawk Box",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vGC1gcRj3Fo"
   }
 ]
