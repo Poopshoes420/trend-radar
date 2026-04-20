@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sq4e6d/so_uh_what_is_the_loop_for/"
   },
   {
+    "topic": "Should I be concerned about my roommate?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqmd3m/should_i_be_concerned_about_my_roommate/"
+  },
+  {
     "topic": "[OC] Draw!",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
-  },
-  {
-    "topic": "Parenting hack. Whatever it takes to catch up on much needed \ud83d\ude34",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spyjjg/parenting_hack_whatever_it_takes_to_catch_up_on/"
   },
   {
     "topic": "it's everywhere now, you can't deny it.",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq752x/i_feel_like_theres_a_least_one_person_in_the/"
   },
   {
-    "topic": "\"Just buy YouTube Premium\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq6p9l/just_buy_youtube_premium/"
-  },
-  {
     "topic": "Is this Forreal?!?!",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqfa5n/is_this_forreal/"
+  },
+  {
+    "topic": "\"Just buy YouTube Premium\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq6p9l/just_buy_youtube_premium/"
   },
   {
     "topic": "Israeli Defence Forces confirms photo of soldier smashing a statue of Jesus Christ in Lebanon is real",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqiflk/french_prosecutors_summon_elon_musk_over/"
   },
   {
-    "topic": "Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots",
+    "topic": "UAE official: More than 90% of Iran's targets were civilian infrastructure - POLITICO",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq3z80/ukraine_moves_to_replace_frontline_soldiers_with/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqcmvj/uae_official_more_than_90_of_irans_targets_were/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 797,882 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 1,074,813 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U6BDbXIah-Y"
+  },
+  {
+    "topic": "Atlanta Braves at Philadelphia Phillies",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fyYXsMrbnQ0"
   },
   {
     "topic": "RBC Heritage, Final Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tgHb7FnUpkg"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
   },
   {
@@ -208,31 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gu70jm_XjQ4"
-  },
-  {
-    "topic": "Baron Davis",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~46m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nyvyyCUoGnA"
   },
   {
     "topic": "And the Winner Is...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FPC5zgcfqR0"
+  },
+  {
+    "topic": "Now Departing",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bli0BV7kiI8"
   },
   {
     "topic": "Building Champions",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XsaAa18GC-8"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
     "exampleUrl": "https://www.youtube.com/watch?v=noZSK7HnViE"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5FPsIN9WvrU"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
     "exampleUrl": "https://www.youtube.com/watch?v=woz9c_98PU4"
   },
   {
@@ -264,23 +272,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ELdYqyduITM"
+  },
+  {
+    "topic": "De-railed Divas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wOHbtFQSnHQ"
   },
   {
     "topic": "Gunning for Ghost Town Green",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YqmzULLsip4"
-  },
-  {
-    "topic": "The Avengers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rHmCL2ULN-Q"
   }
 ]
