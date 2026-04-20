@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqt8bz/i_got_your_back_buddy/"
   },
   {
-    "topic": "What a save by dad!",
+    "topic": "What I received when asking my mate about band names for our project",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqbwju/what_a_save_by_dad/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1squsi8/what_i_received_when_asking_my_mate_about_band/"
   },
   {
     "topic": "YT did something sensible",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqpzgp/yt_did_something_sensible/"
+  },
+  {
+    "topic": "Lawsuit against youtube, because it terminated a channel unfairly.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqrpkh/lawsuit_against_youtube_because_it_terminated_a/"
   },
   {
     "topic": "it's everywhere now, you can't deny it.",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqfa5n/is_this_forreal/"
   },
   {
-    "topic": "I\u2019m pretty sure YouTube has started ai upscale videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq5ekw/im_pretty_sure_youtube_has_started_ai_upscale/"
-  },
-  {
     "topic": "Putin finally admits Russia's economy is in trouble and grasps for answers, after warnings about a financial crisis have been piling up",
     "sources": [
       "reddit"
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukraine reaches security deal with India \u2014 Zelenskyy says documents being finalized",
+    "topic": "Elon Musk does not appear at hearing in French prosecutors\u2019 X probe",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqs7yl/ukraine_reaches_security_deal_with_india/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqwuiz/elon_musk_does_not_appear_at_hearing_in_french/"
   },
   {
     "topic": "Trump: Israel never talked me into war with Iran | Reuters",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,346,796 views \u2022 ~586m old",
+    "why": "Trending on YouTube \u2022 2,430,862 views \u2022 ~650m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U6BDbXIah-Y"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,481 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 261,397 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g4R9UCu4gvg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,265 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 255,023 views \u2022 ~332m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
   },
   {
@@ -208,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,307 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 104,278 views \u2022 ~227m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iSWP2feb4rw"
+  },
+  {
+    "topic": "REDRED",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 274,035 views \u2022 ~648m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5sOgJQ3N03Q"
+  },
+  {
+    "topic": "Game Changer Season 8 Trailer [Dropout Exclusive Series]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 21,982 views \u2022 ~138m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DkB7Q3r09SM"
   },
   {
     "topic": "Exclusive Avengers Doomsday Trailer Recap! | The Escape Pod Podcast Ep. 169",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,060 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 44,811 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sJ_RmomTwy8"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mm89X4DAMvw"
   },
   {
@@ -232,31 +248,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~523m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyYXsMrbnQ0"
-  },
-  {
-    "topic": "Montreal Canadiens at Tampa Bay Lightning",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~528m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
   },
   {
     "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SxR76G4hWHU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=myZNuSHaUPs"
+  },
+  {
+    "topic": "Montreal Canadiens at Tampa Bay Lightning",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~592m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
   },
   {
     "topic": "And the Winner Is...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~606m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FPC5zgcfqR0"
   },
   {
@@ -264,15 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bli0BV7kiI8"
-  },
-  {
-    "topic": "Building Champions",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XsaAa18GC-8"
   }
 ]
