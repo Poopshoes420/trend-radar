@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsmqj/oc_tap/"
   },
   {
-    "topic": "Stayin alive",
+    "topic": "What a save by dad!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spsp1p/stayin_alive/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqbwju/what_a_save_by_dad/"
   },
   {
     "topic": "I\u2019m pretty sure YouTube has started ai upscale videos",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spn0w2/does_anyone_else_find_this_annoying/"
   },
   {
+    "topic": "I feel like there's a least one person in the comments of every single YouTube video I've watched recently with a Clippy profile picture. Was this a trend I missed or what?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq752x/i_feel_like_theres_a_least_one_person_in_the/"
+  },
+  {
     "topic": "\"Me at the zoo\" (the oldest youtube video) will turn 21 years old in 4 days, does this mean it can drink alcohol?",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spzyyx/me_at_the_zoo_the_oldest_youtube_video_will_turn/"
   },
   {
-    "topic": "In an alternative universe",
+    "topic": "\"Just buy YouTube Premium\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1spk9se/in_an_alternative_universe/"
-  },
-  {
-    "topic": "Is this not weird?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq0i5n/is_this_not_weird/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq6p9l/just_buy_youtube_premium/"
   },
   {
     "topic": "Russia may announce general mobilisation to attack Ukraine or Baltic states \u2013 Zelenskyy",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq3z80/ukraine_moves_to_replace_frontline_soldiers_with/"
   },
   {
-    "topic": "Trump Tells Iran to Sign Deal With U.S. or \u2018The Whole Country is Going to Get Blown Up\u2019",
+    "topic": "Trump says U.S. struck and seized Iranian-flagged cargo ship in Gulf of Oman",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1spt51y/trump_tells_iran_to_sign_deal_with_us_or_the/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sq58ng/trump_says_us_struck_and_seized_iranianflagged/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq4ovo/painful_milestone_unlocked_today_halo_3_laso/"
   },
   {
-    "topic": "Games that survived having a child",
+    "topic": "Enjoying the Sunday afternoon ( game boy color / pokemon red version )",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq0dxb/games_that_survived_having_a_child/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq9po0/enjoying_the_sunday_afternoon_game_boy_color/"
   },
   {
     "topic": "Dragon Ball Xenoverse 3 Announcement..",
@@ -180,51 +180,67 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq7n1x/dragon_ball_xenoverse_3_announcement/"
   },
   {
+    "topic": "DRAGON BALL\u3000GAMES BATTLE HOUR2026\u3000DAY2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 499,693 views \u2022 ~202m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_WOTePaorvM"
+  },
+  {
     "topic": "DRAGON BALL XENOVERSE 3 - Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 209,986 views \u2022 ~188m old",
+    "why": "Trending on YouTube \u2022 535,127 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=v_Copbn4ASI"
-  },
-  {
-    "topic": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 269,003 views \u2022 ~337m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
-  },
-  {
-    "topic": "Mega Feraligatr is a Menace",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 356,410 views \u2022 ~532m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2K1E9OkwvG4"
   },
   {
     "topic": "Anime \u201cDragon Ball Super: Beerus\u201d | SUPER GEKITOU Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 77,818 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 326,443 views \u2022 ~326m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-NekKfJN614"
+  },
+  {
+    "topic": "Axel Merryl \"je t'attendrai\" Feat Santrinos Raphael (CLIP OFFICIEL)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 363,261 views \u2022 ~491m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xEv9YCsKyUo"
   },
   {
     "topic": "I've Mastered The Art Of Horsey Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,430 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 239,247 views \u2022 ~720m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qmk6JCvsW0g"
+  },
+  {
+    "topic": "AVENGERS DOOMSDAY TRAILER: Doctor Doom & X-Men Breakdown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 80,274 views \u2022 ~248m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2EfUxiGQxZo"
+  },
+  {
+    "topic": "Louis BPM , Hades 66 ,JC reyes,Junior Caldera,Hanzel La H, Prieto Gang - Esto Es As\u00ed (Remix Oficial)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 79,938 views \u2022 ~326m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tvi8ZL0FajE"
   },
   {
     "topic": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,130 views \u2022 ~180m old",
+    "why": "Trending on YouTube \u2022 56,782 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,672 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 82,305 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z2pQUErWSJ0"
   },
   {
@@ -240,31 +256,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~381m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EUvzCzOEpVc"
   },
   {
-    "topic": "Fareed Zakaria GPS",
+    "topic": "Golf Central Pregame",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9rxl4oxqbDc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5wFr5TSmDfE"
   },
   {
-    "topic": "The Weekend",
+    "topic": "#4: Arkansas River",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RR8mJ1XH4ms"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vIR-jrp_m3k"
   },
   {
-    "topic": "Treats for Todd",
+    "topic": "Velshi",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IWoHHvJ-PLs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=t9epxsBDCOs"
+  },
+  {
+    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_rU-wAa9XWU"
+  },
+  {
+    "topic": "Star Wars: Attack of the Clones",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BbQtPVJ5T64"
   }
 ]
