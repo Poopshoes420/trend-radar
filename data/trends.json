@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqryez/guys_pretending_to_be_ostritches_or_smth_lol/"
   },
   {
-    "topic": "What a save by dad!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqbwju/what_a_save_by_dad/"
-  },
-  {
     "topic": "I got your back buddy",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqt8bz/i_got_your_back_buddy/"
+  },
+  {
+    "topic": "What a save by dad!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqbwju/what_a_save_by_dad/"
   },
   {
     "topic": "it's everywhere now, you can't deny it.",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Russian economy faces 'financial disaster,' Sweden's spy chief warns as Moscow hides true deficit",
+    "topic": "Ukraine reaches security deal with India \u2014 Zelenskyy says documents being finalized",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqnpxc/russian_economy_faces_financial_disaster_swedens/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqs7yl/ukraine_reaches_security_deal_with_india/"
   },
   {
-    "topic": "French prosecutors summon Elon Musk over allegations of child abuse images and deepfakes on X",
+    "topic": "Trump: Israel never talked me into war with Iran | Reuters",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqiflk/french_prosecutors_summon_elon_musk_over/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqs5k1/trump_israel_never_talked_me_into_war_with_iran/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqmqja/shu_yoshida_says_he_was_fired_from_his_role/"
   },
   {
+    "topic": "You've got to be joking... (Pragmata)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqrx48/youve_got_to_be_joking_pragmata/"
+  },
+  {
     "topic": "PRAGMATA Surpasses One Million Units Sold in Just Two Days",
     "sources": [
       "reddit"
@@ -171,28 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqiahq/pragmata_surpasses_one_million_units_sold_in_just/"
   },
   {
-    "topic": "it's 2027 no toilet paper in Deus EX HR",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq7y9b/its_2027_no_toilet_paper_in_deus_ex_hr/"
-  },
-  {
     "topic": "CORTIS (\ucf54\ub974\ud2f0\uc2a4) 'REDRED' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,065,349 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 2,229,723 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U6BDbXIah-Y"
+  },
+  {
+    "topic": "The Caribbean Tour \ud83c\udfdd\ufe0f (Official Trailer)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 169,985 views \u2022 ~211m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
   },
   {
     "topic": "Boston Bruins at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Mm89X4DAMvw"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyYXsMrbnQ0"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~441m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gu70jm_XjQ4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FPC5zgcfqR0"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bli0BV7kiI8"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XsaAa18GC-8"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5FPsIN9WvrU"
   },
   {
@@ -256,23 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=woz9c_98PU4"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ELdYqyduITM"
   },
   {
     "topic": "De-railed Divas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wOHbtFQSnHQ"
   }
 ]
