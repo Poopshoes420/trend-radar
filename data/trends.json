@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1spyjjg/parenting_hack_whatever_it_takes_to_catch_up_on/"
   },
   {
-    "topic": "I\u2019m pretty sure YouTube has started ai upscale videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq5ekw/im_pretty_sure_youtube_has_started_ai_upscale/"
-  },
-  {
     "topic": "it's everywhere now, you can't deny it.",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqa7q8/its_everywhere_now_you_cant_deny_it/"
+  },
+  {
+    "topic": "I\u2019m pretty sure YouTube has started ai upscale videos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq5ekw/im_pretty_sure_youtube_has_started_ai_upscale/"
   },
   {
     "topic": "I feel like there's a least one person in the comments of every single YouTube video I've watched recently with a Clippy profile picture. Was this a trend I missed or what?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq6p9l/just_buy_youtube_premium/"
   },
   {
-    "topic": "ALRIGHT WE GET IT - Stop posting your porn examples here",
+    "topic": "Is this Forreal?!?!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq70er/alright_we_get_it_stop_posting_your_porn_examples/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqfa5n/is_this_forreal/"
   },
   {
     "topic": "Israeli Defence Forces confirms photo of soldier smashing a statue of Jesus Christ in Lebanon is real",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq4ovo/painful_milestone_unlocked_today_halo_3_laso/"
   },
   {
+    "topic": "PRAGMATA Surpasses One Million Units Sold in Just Two Days",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqiahq/pragmata_surpasses_one_million_units_sold_in_just/"
+  },
+  {
     "topic": "Enjoying the Sunday afternoon ( game boy color / pokemon red version )",
     "sources": [
       "reddit"
@@ -171,44 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq9po0/enjoying_the_sunday_afternoon_game_boy_color/"
   },
   {
-    "topic": "People talk about suspecting the traitor before the reveal, but who's an NPC you strongly suspected as a traitor who ended up being good as gold?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqbc1v/people_talk_about_suspecting_the_traitor_before/"
-  },
-  {
-    "topic": "DRAGON BALL XENOVERSE 3 - Announcement Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 840,182 views \u2022 ~645m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v_Copbn4ASI"
-  },
-  {
-    "topic": "DRAGON BALL\u3000GAMES BATTLE HOUR2026\u3000DAY2",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 510,776 views \u2022 ~504m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_WOTePaorvM"
-  },
-  {
-    "topic": "Anime \u201cDragon Ball Super: Beerus\u201d | SUPER GEKITOU Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 575,750 views \u2022 ~628m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-NekKfJN614"
-  },
-  {
     "topic": "GTA5 - Murder Maze, But It's Disorganized As F****",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 234,845 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 280,815 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o0kKAYWyn_k"
   },
   {
@@ -216,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 177,555 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 216,644 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cvcOReeVDN8"
   },
   {
@@ -224,55 +200,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 166,430 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 186,586 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2EfUxiGQxZo"
-  },
-  {
-    "topic": "Louis BPM , Hades 66 ,JC reyes,Junior Caldera,Hanzel La H, Prieto Gang - Esto Es As\u00ed (Remix Oficial)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 160,555 views \u2022 ~628m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tvi8ZL0FajE"
-  },
-  {
-    "topic": "DRAGON BALL XENOVERS 3 OFFICIAL REVEAL TRAILER REACTION!!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 70,752 views \u2022 ~637m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jL9g8D8_eyM"
-  },
-  {
-    "topic": "Dragon Ball Super: Beerus | ENHANCED Edition | SUPER GEKITOU Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 25,604 views \u2022 ~511m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Tf4wBaSj7SE"
   },
   {
     "topic": "RBC Heritage, Final Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~410m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tgHb7FnUpkg"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "Sunday Night in America With Trey Gowdy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZuhC1HuzQTI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FVzEL0xeqDY"
+  },
+  {
+    "topic": "Los Angeles Kings at Colorado Avalanche",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~48m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fMLBu_lVh6s"
+  },
+  {
+    "topic": "Building Champions",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XsaAa18GC-8"
   },
   {
     "topic": "WWE WrestleMania 42: Sunday",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=noZSK7HnViE"
   },
   {
@@ -280,39 +248,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ELdYqyduITM"
+  },
+  {
+    "topic": "The Avengers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rHmCL2ULN-Q"
   },
   {
     "topic": "National Treasure",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EFalYvncpWE"
+  },
+  {
+    "topic": "Show Me the Way to Go Home",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Mz6wwv9Q-BA"
+  },
+  {
+    "topic": "Alone and Terrified",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i4BGrnvIyUM"
   },
   {
     "topic": "LIV Golf Mexico City: Round 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1ylCZWo62n8"
   },
   {
-    "topic": "The Infestation Hypothesis",
+    "topic": "Rum, Ruptures & Redemption",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YBAsuwV1_Jc"
-  },
-  {
-    "topic": "Alex Witt Reports",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~253m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IUQEhcPIuOc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=M3IXV_Oy3O0"
   }
 ]
