@@ -1,12 +1,12 @@
 [
   {
-    "topic": "What a save by dad!",
+    "topic": "Should I be concerned about my roommate?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqbwju/what_a_save_by_dad/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqmd3m/should_i_be_concerned_about_my_roommate/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "What a save by dad!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqbwju/what_a_save_by_dad/"
+  },
+  {
     "topic": "So, uh, what is the loop for?",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sq4e6d/so_uh_what_is_the_loop_for/"
   },
   {
-    "topic": "Should I be concerned about my roommate?",
+    "topic": "Uhmmmmm \ud83e\udd14",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqmd3m/should_i_be_concerned_about_my_roommate/"
-  },
-  {
-    "topic": "[OC] Draw!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1spu5jt/oc_draw/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqmlsp/uhmmmmm/"
   },
   {
     "topic": "it's everywhere now, you can't deny it.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq5ekw/im_pretty_sure_youtube_has_started_ai_upscale/"
   },
   {
-    "topic": "I feel like there's a least one person in the comments of every single YouTube video I've watched recently with a Clippy profile picture. Was this a trend I missed or what?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq752x/i_feel_like_theres_a_least_one_person_in_the/"
-  },
-  {
     "topic": "Is this Forreal?!?!",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqfa5n/is_this_forreal/"
+  },
+  {
+    "topic": "I feel like there's a least one person in the comments of every single YouTube video I've watched recently with a Clippy profile picture. Was this a trend I missed or what?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq752x/i_feel_like_theres_a_least_one_person_in_the/"
   },
   {
     "topic": "\"Just buy YouTube Premium\"",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sq6p9l/just_buy_youtube_premium/"
   },
   {
-    "topic": "Israeli Defence Forces confirms photo of soldier smashing a statue of Jesus Christ in Lebanon is real",
+    "topic": "French prosecutors summon Elon Musk over allegations of child abuse images and deepfakes on X",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqdb1y/israeli_defence_forces_confirms_photo_of_soldier/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqiflk/french_prosecutors_summon_elon_musk_over/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1516, Part 1 (Thread #1663)",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "French prosecutors summon Elon Musk over allegations of child abuse images and deepfakes on X",
+    "topic": "Israeli Defence Forces confirms photo of soldier smashing a statue of Jesus Christ in Lebanon is real",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqiflk/french_prosecutors_summon_elon_musk_over/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqdb1y/israeli_defence_forces_confirms_photo_of_soldier/"
   },
   {
-    "topic": "UAE official: More than 90% of Iran's targets were civilian infrastructure - POLITICO",
+    "topic": "Russian economy faces 'financial disaster,' Sweden's spy chief warns as Moscow hides true deficit",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqcmvj/uae_official_more_than_90_of_irans_targets_were/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqnpxc/russian_economy_faces_financial_disaster_swedens/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,13 +144,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqgs2v/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "it's 2027 no toilet paper in Deus EX HR",
+    "topic": "Shu Yoshida says he was fired from his role because he didn't listen to Jim Ryan",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq7y9b/its_2027_no_toilet_paper_in_deus_ex_hr/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqmqja/shu_yoshida_says_he_was_fired_from_his_role/"
   },
   {
     "topic": "PRAGMATA Surpasses One Million Units Sold in Just Two Days",
@@ -162,37 +162,45 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqiahq/pragmata_surpasses_one_million_units_sold_in_just/"
   },
   {
-    "topic": "Painful milestone unlocked today - Halo 3 LASO completed.",
+    "topic": "it's 2027 no toilet paper in Deus EX HR",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq4ovo/painful_milestone_unlocked_today_halo_3_laso/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq7y9b/its_2027_no_toilet_paper_in_deus_ex_hr/"
   },
   {
-    "topic": "Enjoying the Sunday afternoon ( game boy color / pokemon red version )",
+    "topic": "Nick Offerman, Ben Whishaw, Cailee Spaeny, and More Confirmed for Elden Ring Cast - Releasing March 3, 2028",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sq9po0/enjoying_the_sunday_afternoon_game_boy_color/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqoq0t/nick_offerman_ben_whishaw_cailee_spaeny_and_more/"
   },
   {
     "topic": "CORTIS (\ucf54\ub974\ud2f0\uc2a4) 'REDRED' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,074,813 views \u2022 ~194m old",
+    "why": "Trending on YouTube \u2022 1,522,718 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=U6BDbXIah-Y"
+  },
+  {
+    "topic": "Boston Bruins at Buffalo Sabres",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Mm89X4DAMvw"
   },
   {
     "topic": "Atlanta Braves at Philadelphia Phillies",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fyYXsMrbnQ0"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tgHb7FnUpkg"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o9m_pPq_Ps0"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gu70jm_XjQ4"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FPC5zgcfqR0"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bli0BV7kiI8"
   },
   {
@@ -240,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~389m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XsaAa18GC-8"
-  },
-  {
-    "topic": "WWE WrestleMania 42: Sunday",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~408m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=noZSK7HnViE"
   },
   {
     "topic": "National Treasure: Book of Secrets",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5FPsIN9WvrU"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=woz9c_98PU4"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ELdYqyduITM"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wOHbtFQSnHQ"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YqmzULLsip4"
   }
 ]
