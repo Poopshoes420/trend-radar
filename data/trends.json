@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqryez/guys_pretending_to_be_ostritches_or_smth_lol/"
   },
   {
+    "topic": "I just found a car that had this as the license plate",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sr4wda/i_just_found_a_car_that_had_this_as_the_license/"
+  },
+  {
+    "topic": "Shit happens",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sr8rsk/shit_happens/"
+  },
+  {
     "topic": "Should I be concerned about my roommate?",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqmd3m/should_i_be_concerned_about_my_roommate/"
-  },
-  {
-    "topic": "How robot pack itself",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqwizo/how_robot_pack_itself/"
-  },
-  {
-    "topic": "I got your back buddy",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sqt8bz/i_got_your_back_buddy/"
   },
   {
     "topic": "Another useless update by YT. Now you can't see the number of videos on channels.",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sr1tys/another_useless_update_by_yt_now_you_cant_see_the/"
   },
   {
+    "topic": "What do you guys feel after watching this video? \ud83e\udd14",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sr30fz/what_do_you_guys_feel_after_watching_this_video/"
+  },
+  {
     "topic": "Does anyone else lose interest in watching YouTubers once they become rich and their content changes as a result?",
     "sources": [
       "reddit"
@@ -61,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqzooe/does_anyone_else_lose_interest_in_watching/"
-  },
-  {
-    "topic": "Return dislike extension not working any more.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqwomi/return_dislike_extension_not_working_any_more/"
   },
   {
     "topic": "Excuse me but nobody actually has this homepage.",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sr047p/excuse_me_but_nobody_actually_has_this_homepage/"
   },
   {
-    "topic": "What do you guys feel after watching this video? \ud83e\udd14",
+    "topic": "Return dislike extension not working any more.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sr30fz/what_do_you_guys_feel_after_watching_this_video/"
-  },
-  {
-    "topic": "Elon Musk does not appear at hearing in French prosecutors\u2019 X probe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqwuiz/elon_musk_does_not_appear_at_hearing_in_french/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sqwomi/return_dislike_extension_not_working_any_more/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1516, Part 1 (Thread #1663)",
@@ -117,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Putin finally admits Russia's economy is in trouble and grasps for answers, after warnings about a financial crisis have been piling up",
+    "topic": "Elon Musk does not appear at hearing in French prosecutors\u2019 X probe",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqq7uy/putin_finally_admits_russias_economy_is_in/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sqwuiz/elon_musk_does_not_appear_at_hearing_in_french/"
+  },
+  {
+    "topic": "Trump says ready to resume military action against Iran",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sr5tby/trump_says_ready_to_resume_military_action/"
   },
   {
     "topic": "At least one killed in shooting at \u200bMexico\u2019s Teotihuacan \u200bpyramids, says security cabinet",
@@ -135,6 +135,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sr0p1c/at_least_one_killed_in_shooting_at_mexicos/"
   },
   {
+    "topic": "Eminem celebrates 18 years of sobriety today and shared this coin",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "popculturechat",
+    "why": "New post on r/popculturechat \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1sr63pe/eminem_celebrates_18_years_of_sobriety_today_and/"
+  },
+  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -142,15 +151,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqgs2v/making_friends_monday_share_your_game_tags_here/"
-  },
-  {
-    "topic": "Team behind Grand Theft Auto 3 (circa 2001)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqra3c/team_behind_grand_theft_auto_3_circa_2001/"
   },
   {
     "topic": "Minesweeper 50x50, 650 Mines (0,11% Win Probability)",
@@ -162,29 +162,45 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sr46ds/minesweeper_50x50_650_mines_011_win_probability/"
   },
   {
-    "topic": "PlayStation will require age verification for messages and voice chat",
+    "topic": "Team behind Grand Theft Auto 3 (circa 2001)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqz82u/playstation_will_require_age_verification_for/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqra3c/team_behind_grand_theft_auto_3_circa_2001/"
   },
   {
-    "topic": "Capcom - \"We're not done with 2026 yet.\"",
+    "topic": "(Gears 5) Terrain deformation for surfaces such as snow or sand is, to me, a graphical marvel of video games.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sr65gv/capcom_were_not_done_with_2026_yet/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sr991j/gears_5_terrain_deformation_for_surfaces_such_as/"
+  },
+  {
+    "topic": "monday fun day",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 519,937 views \u2022 ~93m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7zW_k7iw8rs"
+  },
+  {
+    "topic": "SUPER TROOPERS 3 | Official Trailer | Searchlight Pictures",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 712,795 views \u2022 ~439m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cYFevn5frf0"
   },
   {
     "topic": "Practical Magic 2 | Official Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 671,184 views \u2022 ~478m old",
+    "why": "Trending on YouTube \u2022 1,108,029 views \u2022 ~698m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iSWP2feb4rw"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,359 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 489,988 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rinm-EETs0U"
   },
   {
@@ -200,71 +216,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 414,482 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 483,450 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g4R9UCu4gvg"
-  },
-  {
-    "topic": "The Caribbean Tour \ud83c\udfdd\ufe0f (Official Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 370,781 views \u2022 ~583m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BnjnNZPlpEk"
-  },
-  {
-    "topic": "SUPER TROOPERS 3 | Official Trailer | Searchlight Pictures",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 135,597 views \u2022 ~219m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cYFevn5frf0"
   },
   {
     "topic": "The Boys Season 5 Episode 4 Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,832 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 206,466 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oQdQsckh1Fc"
   },
   {
-    "topic": "Avengers Doomsday Trailer NEW DETAILS You Need To Know!",
+    "topic": "We Connected The Dots After Seeing the DOOMSDAY TRAILER\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 83,807 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 147,111 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mY7AaQ97N2A"
   },
   {
-    "topic": "Game Changer Season 8 Trailer [Dropout Exclusive Series]",
+    "topic": "Todos nos Shipean",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,659 views \u2022 ~389m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DkB7Q3r09SM"
+    "why": "Trending on YouTube \u2022 42,660 views \u2022 ~214m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DCytTQ3AkJk"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "Practical Magic 2 - Official Teaser Trailer - Warner Bros. UK & Ireland",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0jdfLXqJ8t0"
+    "why": "Trending on YouTube \u2022 127,722 views \u2022 ~698m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yPz6owTTWwc"
+  },
+  {
+    "topic": "SUPER TROOPERS 3 | Official Trailer (2026) 4K",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 64,919 views \u2022 ~433m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wVwFEi_EUuY"
+  },
+  {
+    "topic": "Lil Twist, Lil Wayne - Addict (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 65,919 views \u2022 ~699m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0dET6FONIKk"
+  },
+  {
+    "topic": "The Story With Martha MacCallum",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7NKLXMjDh4I"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0vsLv81mFKc"
-  },
-  {
-    "topic": "The Situation Room",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ukdLTgrrSKs"
   }
 ]
