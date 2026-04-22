@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
   },
   {
+    "topic": "YouTube is killing itself",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssxzro/youtube_is_killing_itself/"
+  },
+  {
     "topic": "watch history showing videos i never watched",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssf44c/watch_history_showing_videos_i_never_watched/"
-  },
-  {
-    "topic": "Bro skipped YouTube and the system crashed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssjqdj/bro_skipped_youtube_and_the_system_crashed/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1518, Part 1 (Thread #1665)",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssnzzn/nintendo_has_been_sued_by_two_us_players_who_say/"
   },
   {
-    "topic": "Owlcat's had some unusual problems writing romance: 'we realized we had three female romanceable characters, and all three were cannibals'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sshso4/owlcats_had_some_unusual_problems_writing_romance/"
-  },
-  {
     "topic": "Miyamoto says he was surprised Mario Galaxy Movie reviews were even harsher than the first",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssratb/miyamoto_says_he_was_surprised_mario_galaxy_movie/"
+  },
+  {
+    "topic": "Owlcat's had some unusual problems writing romance: 'we realized we had three female romanceable characters, and all three were cannibals'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sshso4/owlcats_had_some_unusual_problems_writing_romance/"
   },
   {
     "topic": "Japanese Devs Output Has Been Crazy",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 390,945 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 532,042 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6IxPD-jNdwM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 287,519 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 337,291 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IQzt6sGvb1c"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 278,226 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 321,743 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7c7JFMTBeVk"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 253,170 views \u2022 ~534m old",
+    "why": "Trending on YouTube \u2022 279,271 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iKSj6OhSV7s"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,280 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 212,107 views \u2022 ~451m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1_gNnq1lPHU"
   },
   {
@@ -224,15 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,056 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 220,174 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b76pK6uYQfA"
+  },
+  {
+    "topic": "Inpatient (Ren x Chris Webby) - Instigator",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 77,597 views \u2022 ~303m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uoIlEWKReqE"
+  },
+  {
+    "topic": "LEVITICUS - Official Trailer - Only In Theaters June 19",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 48,794 views \u2022 ~422m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WXuK0vlFxII"
   },
   {
     "topic": "Clayface | Official Teaser Trailer | Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 10,209 views \u2022 ~145m old",
+    "why": "Trending on YouTube \u2022 23,394 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ET1Ao7Bz1xc"
   },
   {
@@ -240,47 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~624m old",
     "exampleUrl": "https://www.youtube.com/watch?v=elL-03BtxfM"
-  },
-  {
-    "topic": "Utah Mammoth at Vegas Golden Knights",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~683m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AY0ustS9Byk"
-  },
-  {
-    "topic": "Boston Bruins at Buffalo Sabres",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~707m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-kP4nAvkeGc"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ODODT1605-c"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VpQWN2xMTFc"
   },
   {
     "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O6hBVK41kOA"
-  },
-  {
-    "topic": "Philadelphia Phillies at Chicago Cubs",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yoR9wEWomwo"
   }
 ]
