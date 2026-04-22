@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssm1xd/youtube_now_plays_ads_below_live_streams_so_you/"
   },
   {
-    "topic": "Commentary channels are all the same",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
-  },
-  {
     "topic": "BRING BACK THE HOME PAGE YOU DISGUSTING FREAKS",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sstazd/bring_back_the_home_page_you_disgusting_freaks/"
+  },
+  {
+    "topic": "Commentary channels are all the same",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
   },
   {
     "topic": "watch history showing videos i never watched",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssnmrn/second_french_peacekeeper_dies_after_ambush/"
   },
   {
-    "topic": "Germany unveils strategy for becoming Europe\u2019s strongest military by 2039",
+    "topic": "Iran seizes ships in Strait of Hormuz after Trump halts attacks",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssjlu1/germany_unveils_strategy_for_becoming_europes/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sso3wh/iran_seizes_ships_in_strait_of_hormuz_after_trump/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssj0hq/japanese_devs_output_has_been_crazy/"
   },
   {
+    "topic": "Clayface | Official Teaser",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 390,945 views \u2022 ~183m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6IxPD-jNdwM"
+  },
+  {
+    "topic": "Markiplier Takes an IQ Test",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 287,519 views \u2022 ~363m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IQzt6sGvb1c"
+  },
+  {
     "topic": "The Vampire Lestat | Official Trailer | Premieres June 7 on AMC & AMC+",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 172,395 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 278,226 views \u2022 ~363m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7c7JFMTBeVk"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 224,140 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 253,170 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iKSj6OhSV7s"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 144,195 views \u2022 ~335m old",
+    "why": "Trending on YouTube \u2022 179,280 views \u2022 ~392m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1_gNnq1lPHU"
   },
   {
@@ -208,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 171,001 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 197,056 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b76pK6uYQfA"
   },
   {
-    "topic": "Star Wars: The Mandalorian and Grogu | Official Clip | In Theaters May 22",
+    "topic": "Clayface | Official Teaser Trailer | Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 63,385 views \u2022 ~396m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WEAZDT4_C_g"
+    "why": "Trending on YouTube \u2022 10,209 views \u2022 ~145m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ET1Ao7Bz1xc"
   },
   {
     "topic": "Philadelphia 76ers at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~508m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=elL-03BtxfM"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~683m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AY0ustS9Byk"
   },
   {
@@ -240,23 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-kP4nAvkeGc"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=asHA4wkqKhk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ODODT1605-c"
+  },
+  {
+    "topic": "The Situation Room",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=O6hBVK41kOA"
   },
   {
     "topic": "Philadelphia Phillies at Chicago Cubs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~628m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yoR9wEWomwo"
   }
 ]
