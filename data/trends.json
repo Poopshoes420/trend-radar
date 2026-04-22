@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] fairytale wedding",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ssjlr2/oc_fairytale_wedding/"
-  },
-  {
     "topic": "Baby",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ssn3x9/baby/"
+  },
+  {
+    "topic": "[OC] fairytale wedding",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ssjlr2/oc_fairytale_wedding/"
   },
   {
     "topic": "Guinnessun Dorma",
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ssl0ax/guinnessun_dorma/"
   },
   {
-    "topic": "Commentary channels are all the same",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
-  },
-  {
     "topic": "YouTube now plays ads below live streams, so you can still watch it even if an ad\u2019s playing.",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssm1xd/youtube_now_plays_ads_below_live_streams_so_you/"
+  },
+  {
+    "topic": "Commentary channels are all the same",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
   },
   {
     "topic": "watch history showing videos i never watched",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssjlu1/germany_unveils_strategy_for_becoming_europes/"
   },
   {
-    "topic": "UAE Warns US It Could Sell Oil in Chinese Yuan if War Drains Dollar Supplies, Triggering Biggest Threat to the Petrodollar Since the 1970s",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sse88d/uae_warns_us_it_could_sell_oil_in_chinese_yuan_if/"
-  },
-  {
     "topic": "Canada will not let US dictate terms of USMCA review, says Carney",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssnhld/canada_will_not_let_us_dictate_terms_of_usmca/"
+  },
+  {
+    "topic": "Second French peacekeeper dies after ambush blamed on Hezbollah",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssnmrn/second_french_peacekeeper_dies_after_ambush/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssl1sn/oh_far_cry_3_i_forgot_how_good_you_were/"
   },
   {
+    "topic": "COYOTE VS. ACME Official Trailer (2026) John Cena",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 95,364 views \u2022 ~275m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iKSj6OhSV7s"
+  },
+  {
+    "topic": "Coyote vs. Acme Trailer #1 (2026)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 58,424 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=b76pK6uYQfA"
+  },
+  {
     "topic": "Philadelphia 76ers at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=elL-03BtxfM"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AY0ustS9Byk"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-kP4nAvkeGc"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6A-ZCgQGK08"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GvK79d3obcI"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yoR9wEWomwo"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A5yJJeV5xyQ"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~574m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OHi_5o-rnSs"
   }
 ]
