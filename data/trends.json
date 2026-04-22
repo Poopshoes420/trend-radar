@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "How Formula 1 tracks are decided",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sshy15/how_formula_1_tracks_are_decided/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "That's exactly what a copper would say",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1srlvaj/the_new_youtube_embed_ui_looks_horrible_and/"
   },
   {
+    "topic": "Commentary channels are all the same",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
+  },
+  {
     "topic": "19-Year-Old Account: Still Needs ID \ud83d\ude02",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1srvezs/this_is_relatable/"
-  },
-  {
-    "topic": "Commentary channels are all the same",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssebi9/commentary_channels_are_all_the_same/"
   },
   {
     "topic": "UAE Warns US It Could Sell Oil in Chinese Yuan if War Drains Dollar Supplies, Triggering Biggest Threat to the Petrodollar Since the 1970s",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssgxgr/trump_unleashes_furious_rant_over_wall_street/"
   },
   {
-    "topic": "Macron Urges Israel to Drop \u2018Territorial Ambitions\u2019 in Lebanon",
+    "topic": "UK moves to ban smoking for everyone born after 2008",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ss654m/macron_urges_israel_to_drop_territorial_ambitions/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ssetij/uk_moves_to_ban_smoking_for_everyone_born_after/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ss3dlj/playstation_update_sony_to_enforce_age/"
   },
   {
-    "topic": "Fallout: New Vegas dev says don't expect a remaster, argues Bethesda doesn't have the source code or 'the engineering knowhow'",
+    "topic": "Japanese Devs Output Has Been Crazy",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1srn55i/fallout_new_vegas_dev_says_dont_expect_a_remaster/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssj0hq/japanese_devs_output_has_been_crazy/"
+  },
+  {
+    "topic": "Utah Mammoth at Vegas Golden Knights",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AY0ustS9Byk"
+  },
+  {
+    "topic": "Boston Bruins at Buffalo Sabres",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-kP4nAvkeGc"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6A-ZCgQGK08"
   },
   {
@@ -192,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GvK79d3obcI"
+  },
+  {
+    "topic": "Philadelphia Phillies at Chicago Cubs",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yoR9wEWomwo"
   },
   {
     "topic": "The Quiet Work",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j5z1xGqubtw"
   },
   {
@@ -208,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A5yJJeV5xyQ"
   },
   {
@@ -216,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OHi_5o-rnSs"
   }
 ]
