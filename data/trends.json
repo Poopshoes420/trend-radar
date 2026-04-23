@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Found this on a bottle of cleaning supplies.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1stdh5x/found_this_on_a_bottle_of_cleaning_supplies/"
-  },
-  {
     "topic": "Key and Peele",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1st6p1v/key_and_peele/"
+  },
+  {
+    "topic": "Cats are little weirdos",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1stkvny/cats_are_little_weirdos/"
   },
   {
     "topic": "The poach with the most",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sstazd/bring_back_the_home_page_you_disgusting_freaks/"
   },
   {
-    "topic": "YouTube now plays ads below live streams, so you can still watch it even if an ad\u2019s playing.",
+    "topic": "My YouTube account has been deleted.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ssm1xd/youtube_now_plays_ads_below_live_streams_so_you/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1st22kh/my_youtube_account_has_been_deleted/"
   },
   {
     "topic": "Trump orders 'shoot-to-kill' action on Iranian vessels choking Strait of Hormuz",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Cartel war takes surprising turn as CIA involvement in Mexico surfaces",
+    "topic": "Ukraine kills 12 Russian FSB officers in drone strike",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1stcmn2/cartel_war_takes_surprising_turn_as_cia/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1stjc5k/ukraine_kills_12_russian_fsb_officers_in_drone/"
   },
   {
     "topic": "Medical data of half a million Britons listed for sale on Chinese website, government says",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqgs2v/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Nintendo has been sued by two US players who say any tariff refunds it receives from the US government should go back to customers",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssnzzn/nintendo_has_been_sued_by_two_us_players_who_say/"
-  },
-  {
     "topic": "As an original early backer of Star Citizen, I have to ask if someone can help: is there actually a realistic roadmap now?",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1stf2jq/as_an_original_early_backer_of_star_citizen_i/"
+  },
+  {
+    "topic": "Nintendo has been sued by two US players who say any tariff refunds it receives from the US government should go back to customers",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ssnzzn/nintendo_has_been_sued_by_two_us_players_who_say/"
   },
   {
     "topic": "Ecco the Dolphin: Complete announced, includes every version of the original entries, packed with bonus features, and all-new game",
@@ -184,23 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,195 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 97,361 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QWg2g7yQBsg"
   },
   {
-    "topic": "Orlando Magic at Detroit Pistons",
+    "topic": "Pok\u00e9mon TCG Pocket: Pulsing Aura \ud83d\udc4a | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MWIgfLE8sho"
+    "why": "Trending on YouTube \u2022 36,106 views \u2022 ~186m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GUhps8waX3o"
+  },
+  {
+    "topic": "The Red Clay Strays - Demons In Your Choir (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 23,426 views \u2022 ~246m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EhUz4gARqZo"
+  },
+  {
+    "topic": "Phoenix Suns at Oklahoma City Thunder",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wdYEH5yuYCg"
   },
   {
     "topic": "Pittsburgh Penguins at Philadelphia Flyers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E7zFuSjUaTo"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~439m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HbBlYYdjjAo"
   },
   {
@@ -216,23 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~280m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x_KECUlr3s8"
+  },
+  {
+    "topic": "Anaheim Ducks at Edmonton Oilers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hJIhSqXLxh8"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~481m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gbwcNBxSRNU"
-  },
-  {
-    "topic": "Mariposa Momma",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~345m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1rokcbu0x2k"
   }
 ]
