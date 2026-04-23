@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "\u201cDid Prince just grab a nacho?\u201d \ud83d\ude02",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1stp71f/did_prince_just_grab_a_nacho/"
+  },
+  {
     "topic": "Cats are little weirdos",
     "sources": [
       "reddit"
@@ -18,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1stkvny/cats_are_little_weirdos/"
   },
   {
+    "topic": "His food order arrived",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1stp2so/his_food_order_arrived/"
+  },
+  {
     "topic": "Tiny narrow-mouthed frog sound",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1stnna7/tiny_narrowmouthed_frog_sound/"
-  },
-  {
-    "topic": "Key and Peele",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1st6p1v/key_and_peele/"
-  },
-  {
-    "topic": "\u201cDid Prince just grab a nacho?\u201d \ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1stp71f/did_prince_just_grab_a_nacho/"
   },
   {
     "topic": "Wtf? 20k+ subs btw",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1st86d7/youtuber_stole_my_post/"
   },
   {
+    "topic": "..WHO SAID THIS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sto6i6/who_said_this/"
+  },
+  {
     "topic": "It was only a matter of time",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1st3pw7/it_was_only_a_matter_of_time/"
-  },
-  {
-    "topic": "Youtube's perma ban is beyond my senses why there is no 10 year ban",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1stmoqu/youtubes_perma_ban_is_beyond_my_senses_why_there/"
   },
   {
     "topic": "BRING BACK THE HOME PAGE YOU DISGUSTING FREAKS",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sqgs2v/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Microsoft brings Xbox back, scraps Microsoft Gaming",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1stpfxv/microsoft_brings_xbox_back_scraps_microsoft_gaming/"
+  },
+  {
     "topic": "Assassin's Creed Black Flag Resynced: Worldwide Reveal Showcase",
     "sources": [
       "reddit"
@@ -151,15 +160,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1stmz1b/assassins_creed_black_flag_resynced_worldwide/"
-  },
-  {
-    "topic": "As an original early backer of Star Citizen, I have to ask if someone can help: is there actually a realistic roadmap now?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1stf2jq/as_an_original_early_backer_of_star_citizen_i/"
   },
   {
     "topic": "8 years old Conan Exiles is migrating to UE5, it looks great, it's free and it's in less than two weeks. Jesus.",
@@ -171,44 +171,68 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sto0tq/8_years_old_conan_exiles_is_migrating_to_ue5_it/"
   },
   {
-    "topic": "Microsoft brings Xbox back, scraps Microsoft Gaming",
+    "topic": "As an original early backer of Star Citizen, I have to ask if someone can help: is there actually a realistic roadmap now?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1stpfxv/microsoft_brings_xbox_back_scraps_microsoft_gaming/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1stf2jq/as_an_original_early_backer_of_star_citizen_i/"
+  },
+  {
+    "topic": "Assassin's Creed Black Flag Resynced: Worldwide Reveal Showcase",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 364,003 views \u2022 ~172m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7hkFaTypP1Q"
+  },
+  {
+    "topic": "Totenreich Gameplay Trailer | Call of Duty: Black Ops 7 Zombies",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 40,846 views \u2022 ~166m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Z77-fgRP6mo"
   },
   {
     "topic": "MAX REACTS: Ingrid Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,404 views \u2022 ~578m old",
+    "why": "Trending on YouTube \u2022 134,592 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QWg2g7yQBsg"
-  },
-  {
-    "topic": "Pok\u00e9mon TCG Pocket: Pulsing Aura \ud83d\udc4a | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 51,114 views \u2022 ~282m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GUhps8waX3o"
   },
   {
     "topic": "Off Campus S1 | Official Trailer | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 56,062 views \u2022 ~316m old",
+    "why": "Trending on YouTube \u2022 74,470 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4Vin2GSA4V0"
+  },
+  {
+    "topic": "Pok\u00e9mon TCG Pocket: Pulsing Aura \ud83d\udc4a | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 59,956 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GUhps8waX3o"
+  },
+  {
+    "topic": "Reward the Scars",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 34,641 views \u2022 ~282m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=B-S9od9MbOk"
   },
   {
     "topic": "The Red Clay Strays - Demons In Your Choir (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,809 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 44,602 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EhUz4gARqZo"
   },
   {
@@ -216,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~312m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wdYEH5yuYCg"
   },
   {
@@ -224,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~382m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E7zFuSjUaTo"
   },
   {
@@ -232,31 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~655m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HbBlYYdjjAo"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~495m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=x_KECUlr3s8"
   },
   {
     "topic": "Anaheim Ducks at Edmonton Oilers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~252m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hJIhSqXLxh8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fQUjatm5Fks"
   },
   {
-    "topic": "The Source With Kaitlan Collins",
+    "topic": "Dallas Stars at Minnesota Wild",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gbwcNBxSRNU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uQQ8i_iotgo"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~559m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x_KECUlr3s8"
   }
 ]
