@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1stp2so/his_food_order_arrived/"
   },
   {
-    "topic": "No skip button? Fine, I\u2019ll skip your product",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1su4w4w/no_skip_button_fine_ill_skip_your_product/"
-  },
-  {
     "topic": "Whyyyyy.....\ud83d\ude2d\ud83d\ude2d",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1suao01/whyyyyy/"
+  },
+  {
+    "topic": "No skip button? Fine, I\u2019ll skip your product",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1su4w4w/no_skip_button_fine_ill_skip_your_product/"
   },
   {
     "topic": "Feds wiped my last post but",
@@ -81,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sthlbi/wtf_20k_subs_btw/"
   },
   {
-    "topic": "Today marks 21 years since the first youtube video was released",
+    "topic": "YouTube, how the fuck is this made for children?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1stwsp2/today_marks_21_years_since_the_first_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1su59os/youtube_how_the_fuck_is_this_made_for_children/"
   },
   {
-    "topic": "Millionaire US big game hunter, 75, is trampled to death by five elephants while hunting antelope in central Africa",
+    "topic": "Nato says US cannot suspend Spain from alliance, after reported Pentagon email",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1substa/millionaire_us_big_game_hunter_75_is_trampled_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1subt89/nato_says_us_cannot_suspend_spain_from_alliance/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1520, Part 1 (Thread #1667)",
@@ -117,22 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump says he will \u2018probably put a big tariff on the UK\u2019 if it doesn\u2019t drop digital services tax",
+    "topic": "Millionaire US big game hunter is trampled to death by elephants",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1su94uz/trump_says_he_will_probably_put_a_big_tariff_on/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sug4pd/millionaire_us_big_game_hunter_is_trampled_to/"
   },
   {
-    "topic": "Nato says US cannot suspend Spain from alliance, after reported Pentagon email",
+    "topic": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1subt89/nato_says_us_cannot_suspend_spain_from_alliance/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sudi4r/no_10_says_falklands_sovereignty_rests_with_uk/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1su9a6h/saros_review_thread/"
   },
   {
-    "topic": "in Japan \"Tomodachi Life: Living the Dream\" sold 565,405 retail copies in it's first week",
+    "topic": "Every 2000s gamer knows this setup",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1su1mnx/in_japan_tomodachi_life_living_the_dream_sold/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sufoyv/every_2000s_gamer_knows_this_setup/"
   },
   {
     "topic": "Ella Langley & Morgan Wallen - I Can\u2019t Love You Anymore (Official Lyric Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,889 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 59,311 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A3G_7XgK2B4"
   },
   {
@@ -192,71 +192,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,421 views \u2022 ~486m old",
+    "why": "Trending on YouTube \u2022 33,815 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jwzfvdiJLmU"
-  },
-  {
-    "topic": "Noah Kahan - End of August (Official Lyric Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 24,659 views \u2022 ~487m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X2ImEvbY6qY"
   },
   {
     "topic": "Round 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~329m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yMjmdbQqMJ4"
+  },
+  {
+    "topic": "Day 1, Round 1",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rgxkxKkL1Gg"
   },
   {
     "topic": "New York Yankees at Boston Red Sox",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iC0CofB7Cgk"
+  },
+  {
+    "topic": "Carolina Hurricanes at Ottawa Senators",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Yk7Li4b9wGQ"
   },
   {
     "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sWKZhJEnT-g"
   },
   {
-    "topic": "NFL Draft Kickoff",
+    "topic": "Colorado Avalanche at Los Angeles Kings",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AKhZvObjoYs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QoHiuLT0HRc"
   },
   {
     "topic": "Reunion Part 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~252m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=I8b6LmxpqwQ"
-  },
-  {
-    "topic": "Zurich Classic of New Orleans, First Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~344m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PaYQAlaru8o"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o_BWhba5PXU"
   }
 ]
