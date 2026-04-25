@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sus6qp/the_del_fat_guy_in_the_canoe_meme_has/"
   },
   {
-    "topic": "Whyyyyy.....\ud83d\ude2d\ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1suao01/whyyyyy/"
-  },
-  {
     "topic": "Physically impossible to scroll past",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sv43yn/physically_impossible_to_scroll_past/"
+  },
+  {
+    "topic": "Whyyyyy.....\ud83d\ude2d\ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1suao01/whyyyyy/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1521, Part 1 (Thread #1668)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,514 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 492,924 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=58xvKQEsarA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 147,309 views \u2022 ~667m old",
+    "why": "Trending on YouTube \u2022 153,754 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jA4NYFgvFtM"
   },
   {
@@ -200,23 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7u_S3fy6M6g"
+  },
+  {
+    "topic": "Zurich Classic of New Orleans, Second Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fBBy5oTEQaM"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4771Vi0RR4E"
   },
   {
-    "topic": "Second Round",
+    "topic": "Erin Burnett OutFront",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kKz0gGilj5Q"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=W6Xy5D3nnZc"
   }
 ]
