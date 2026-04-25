@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Woman interrupts music video...",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1svgyc3/woman_interrupts_music_video/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "My son and I remake famous movies with a $0 budget -- here's our version of a James Bond film. [OC]",
@@ -184,31 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,296,139 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 1,866,614 views \u2022 ~214m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vo6QTBMdUfU"
-  },
-  {
-    "topic": "[Cover] ENHYPEN NI-KI - LIMBO (\uc6d0\uace1 : keshi)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 550,967 views \u2022 ~462m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KChyOsjqmfM"
   },
   {
     "topic": "ROBLOX KICK A LUCKY BLOCK!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 532,551 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 587,407 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=14Adm06VEBE"
+  },
+  {
+    "topic": "[Cover] ENHYPEN NI-KI - LIMBO (\uc6d0\uace1 : keshi)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 586,685 views \u2022 ~514m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KChyOsjqmfM"
+  },
+  {
+    "topic": "I Found the SEA EATER In Minecraft\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 205,842 views \u2022 ~319m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_2jkon0w2zE"
   },
   {
     "topic": "\"Paper Towels\" - A Minecraft Music Video \u266a",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,045 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 147,683 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6XO2h-tsxlk"
   },
   {
@@ -216,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wlfZXljd67c"
+  },
+  {
+    "topic": "Fox & Friends Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=w9IvpYqSYgU"
   },
   {
     "topic": "Tampa Bay Lightning at Montreal Canadiens",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JZFeM7a7rts"
   },
   {
@@ -232,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LNQegOZ7MIA"
-  },
-  {
-    "topic": "Gutfeld!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=olbxoBseA7I"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PKVTyiASaYQ"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OVZqwTPl7ks"
   }
 ]
