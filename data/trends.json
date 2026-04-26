@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1svywrq/the_bro_at_least_tried/"
   },
   {
+    "topic": "YouTube lost the plot. Switching to ad blocking.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4fur/youtube_lost_the_plot_switching_to_ad_blocking/"
+  },
+  {
     "topic": "I seriously think some people are just lonely",
     "sources": [
       "reddit"
@@ -63,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw1wxu/tf_is_these_thirst_traps_even_on_my_study_acc/"
   },
   {
-    "topic": "YouTube lost the plot. Switching to ad blocking.",
+    "topic": "Cancer Fighters - Polish livestrean charity event with goal 2,500$ has just reached 150 mil z\u0142oty (41M$). Every second people donate around 1,000$.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4fur/youtube_lost_the_plot_switching_to_ad_blocking/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw77k0/cancer_fighters_polish_livestrean_charity_event/"
   },
   {
     "topic": "So This JUST Got Posted.",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svgmgr/so_this_just_got_posted/"
-  },
-  {
-    "topic": "The hype feature should be available on the pc version",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svt9di/the_hype_feature_should_be_available_on_the_pc/"
   },
   {
     "topic": "Sabastian Sawe runs first sub-2-hour marathon race, shatters world record in London",
@@ -153,6 +153,24 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1svum2v/majoras_mask_was_dark_as_hell/"
   },
   {
+    "topic": "[First Official Tease For 'Alien: Isolation 2'] False Sense Of Security",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sw7ym4/first_official_tease_for_alien_isolation_2_false/"
+  },
+  {
+    "topic": "Capcom you cowards, bring him back \"V\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sw7pt0/capcom_you_cowards_bring_him_back_v/"
+  },
+  {
     "topic": "Unpopular opinion: I actually like when games have day/night cycles and days of the week that match the real world.",
     "sources": [
       "reddit"
@@ -162,29 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1svoi0g/unpopular_opinion_i_actually_like_when_games_have/"
   },
   {
-    "topic": "Steam Controller Price Leaked By Early Review \u2013 $99, Purchases Likely Imminent",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1svdvjl/steam_controller_price_leaked_by_early_review_99/"
-  },
-  {
-    "topic": "[Rant] If the only thing changing in your game on \"Hard\" difficulty is the amount of HP and Dmg, then it's not a \"Hard\" difficulty, it's a \"Tedious\" difficulty",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sv7kf4/rant_if_the_only_thing_changing_in_your_game_on/"
-  },
-  {
     "topic": "Biggest R6 Streamer Tournament",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 553,581 views \u2022 ~667m old",
+    "why": "Trending on YouTube \u2022 558,258 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=da45DypqkeE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o2GaT2vsnds"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86SA7NeD9Fo"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=amCnb5OkxQg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dPmEUcg1YfE"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hExrZvmL0WY"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wRtoopKY7vs"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h70cp93rejQ"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EcShYMhlP_A"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~482m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ejoCUB3XP4U"
   },
   {
@@ -280,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F7JBzo1iEik"
   },
   {
@@ -288,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~353m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iH-ZLSgPG70"
   },
   {
@@ -296,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qSwUrEzbg3I"
   },
   {
@@ -304,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uDayZzJfw6k"
   }
 ]
