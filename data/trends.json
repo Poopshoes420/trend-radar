@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svmeqp/i_seriously_think_some_people_are_just_lonely/"
   },
   {
+    "topic": "This happened to me today.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw48ue/this_happened_to_me_today/"
+  },
+  {
     "topic": "Ok this is getting ridiculous",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4z2w/ok_this_is_getting_ridiculous/"
-  },
-  {
-    "topic": "Tf is these thirst traps, even on my study acc???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw1wxu/tf_is_these_thirst_traps_even_on_my_study_acc/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1522, Part 1 (Thread #1669)",
@@ -180,19 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sw7pt0/capcom_you_cowards_bring_him_back_v/"
   },
   {
-    "topic": "SPIDER-NOIR Official Trailer 2 (2026) Nicolas Cage",
+    "topic": "aespa \uc5d0\uc2a4\ud30c 'LEMONADE' Compl\u00e6xity Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,257 views \u2022 ~694m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IsqxDhzQYrY"
+    "why": "Trending on YouTube \u2022 320,469 views \u2022 ~326m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p4ahGSFTY-c"
+  },
+  {
+    "topic": "This FNAF Switches From Goofy To Scary..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 298,123 views \u2022 ~446m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LSYaKjXJDUg"
   },
   {
     "topic": "FOX News Saturday Night With Jimmy Failla",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~658m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o2GaT2vsnds"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8VL2eLssZfo"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~549m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86SA7NeD9Fo"
-  },
-  {
-    "topic": "Day 3, Rounds 4-7",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=amCnb5OkxQg"
   },
   {
     "topic": "Philadelphia Phillies at Atlanta Braves",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~505m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9BpdcUQnYhY"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EcShYMhlP_A"
   }
 ]
