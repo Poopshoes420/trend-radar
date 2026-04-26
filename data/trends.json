@@ -54,24 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4fur/youtube_lost_the_plot_switching_to_ad_blocking/"
   },
   {
-    "topic": "I seriously think some people are just lonely",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svmeqp/i_seriously_think_some_people_are_just_lonely/"
-  },
-  {
-    "topic": "Tf is these thirst traps, even on my study acc???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw1wxu/tf_is_these_thirst_traps_even_on_my_study_acc/"
-  },
-  {
     "topic": "What the heck",
     "sources": [
       "reddit"
@@ -81,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw3zri/what_the_heck/"
   },
   {
+    "topic": "I seriously think some people are just lonely",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svmeqp/i_seriously_think_some_people_are_just_lonely/"
+  },
+  {
     "topic": "Ok this is getting ridiculous",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4z2w/ok_this_is_getting_ridiculous/"
+  },
+  {
+    "topic": "Tf is these thirst traps, even on my study acc???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw1wxu/tf_is_these_thirst_traps_even_on_my_study_acc/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1522, Part 1 (Thread #1669)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw6obk/p\u00e9ter_magyar_claims_orb\u00e1nlinked_oligarchs_are/"
   },
   {
+    "topic": "Canada is siding more often with its European allies when it comes to Israel",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw9rhg/canada_is_siding_more_often_with_its_european/"
+  },
+  {
     "topic": "Car bomb explodes outside Northern Ireland police station",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw7um0/car_bomb_explodes_outside_northern_ireland_police/"
-  },
-  {
-    "topic": "Ukraine calls on world to stop Russia\u2019s nuclear blackmail on Chornobyl anniversary",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw5oxu/ukraine_calls_on_world_to_stop_russias_nuclear/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sw7pt0/capcom_you_cowards_bring_him_back_v/"
   },
   {
+    "topic": "SPIDER-NOIR Official Trailer 2 (2026) Nicolas Cage",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 113,257 views \u2022 ~694m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IsqxDhzQYrY"
+  },
+  {
     "topic": "FOX News Saturday Night With Jimmy Failla",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~603m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~658m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o2GaT2vsnds"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8VL2eLssZfo"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~495m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~549m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~545m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86SA7NeD9Fo"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=amCnb5OkxQg"
-  },
-  {
-    "topic": "Third Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~678m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hExrZvmL0WY"
   },
   {
     "topic": "Philadelphia Phillies at Atlanta Braves",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9BpdcUQnYhY"
   },
   {
@@ -248,31 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EcShYMhlP_A"
-  },
-  {
-    "topic": "The Lord of the Rings: The Return of the King",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F7JBzo1iEik"
-  },
-  {
-    "topic": "Live: White House Correspondents' Dinner",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~620m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iH-ZLSgPG70"
-  },
-  {
-    "topic": "LSU at Mississippi State",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~516m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qSwUrEzbg3I"
   }
 ]
