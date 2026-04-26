@@ -1,12 +1,12 @@
 [
   {
-    "topic": "Is this a worldwide problem or just us? \ud83d\ude02",
+    "topic": "[OC] \ud83d\udc09",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1svwfu9/is_this_a_worldwide_problem_or_just_us/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw4vmn/oc/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw3gpm/oc_london_marathon/"
   },
   {
-    "topic": "[OC] \ud83d\udc09",
+    "topic": "Is this a worldwide problem or just us? \ud83d\ude02",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw4vmn/oc/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1svwfu9/is_this_a_worldwide_problem_or_just_us/"
   },
   {
     "topic": "The bro at least tried",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw1wxu/tf_is_these_thirst_traps_even_on_my_study_acc/"
   },
   {
+    "topic": "YouTube lost the plot. Switching to ad blocking.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4fur/youtube_lost_the_plot_switching_to_ad_blocking/"
+  },
+  {
     "topic": "So This JUST Got Posted.",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svt9di/the_hype_feature_should_be_available_on_the_pc/"
   },
   {
-    "topic": "I could have sworn YouTube had already tried this before & removed it...",
+    "topic": "Sabastian Sawe runs first sub-2-hour marathon race, shatters world record in London",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1svi7ji/i_could_have_sworn_youtube_had_already_tried_this/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw473q/sabastian_sawe_runs_first_sub2hour_marathon_race/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1522, Part 1 (Thread #1669)",
@@ -108,22 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Sabastian Sawe runs first sub-2-hour marathon race, shatters world record in London",
+    "topic": "P\u00e9ter Magyar Claims Orb\u00e1n-Linked Oligarchs Are Fleeing Hungary with Billions",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw473q/sabastian_sawe_runs_first_sub2hour_marathon_race/"
-  },
-  {
-    "topic": "Orb\u00e1n steps down from Hungarian parliament after landslide defeat",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1svnwy1/orb\u00e1n_steps_down_from_hungarian_parliament_after/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw6obk/p\u00e9ter_magyar_claims_orb\u00e1nlinked_oligarchs_are/"
   },
   {
     "topic": "Manitoba to ban social media, AI chatbots for youth \u2014 a first in Canada",
@@ -184,47 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 543,467 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 553,581 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=da45DypqkeE"
-  },
-  {
-    "topic": "\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 368,087 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DfowFyDxUXo"
   },
   {
     "topic": "FOX News Saturday Night With Jimmy Failla",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~192m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~287m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o2GaT2vsnds"
+  },
+  {
+    "topic": "SportsCenter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
   },
   {
     "topic": "Pittsburgh Penguins at Philadelphia Flyers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
-  },
-  {
-    "topic": "Rounds 4-7",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EDtTgqJ3yeg"
   },
   {
     "topic": "White House Correspondents' Dinner",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
     "exampleUrl": "https://www.youtube.com/watch?v=86SA7NeD9Fo"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=amCnb5OkxQg"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dPmEUcg1YfE"
   },
   {
@@ -248,39 +240,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~361m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hExrZvmL0WY"
+  },
+  {
+    "topic": "Real Time With Bill Maher",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wRtoopKY7vs"
   },
   {
     "topic": "Indiana Fever at New York Liberty",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=h70cp93rejQ"
-  },
-  {
-    "topic": "Cleveland Guardians at Toronto Blue Jays",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ejoCUB3XP4U"
   },
   {
     "topic": "I'll Be Seeing You",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EcShYMhlP_A"
+  },
+  {
+    "topic": "Cleveland Guardians at Toronto Blue Jays",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~433m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ejoCUB3XP4U"
+  },
+  {
+    "topic": "The Lord of the Rings: The Return of the King",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=F7JBzo1iEik"
   },
   {
     "topic": "Live: White House Correspondents' Dinner",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iH-ZLSgPG70"
   },
   {
@@ -288,23 +296,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qSwUrEzbg3I"
-  },
-  {
-    "topic": "CNN Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mXL9Shj-VGw"
   },
   {
     "topic": "Flyers Postgame Live",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uDayZzJfw6k"
   }
 ]
