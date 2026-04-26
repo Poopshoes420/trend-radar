@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swh5f2/no_just_god_for_saken_no/"
   },
   {
-    "topic": "This happened to me today.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw48ue/this_happened_to_me_today/"
-  },
-  {
     "topic": "Four pictures of STRAIGHT PORN btw",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swg03x/four_pictures_of_straight_porn_btw/"
+  },
+  {
+    "topic": "This happened to me today.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw48ue/this_happened_to_me_today/"
   },
   {
     "topic": "What the heck",
@@ -184,39 +184,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 406,322 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 433,207 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p4ahGSFTY-c"
+  },
+  {
+    "topic": "DO NOT Go Fishing in Louisiana",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 202,892 views \u2022 ~250m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FUptDbfjLi8"
+  },
+  {
+    "topic": "This FNAF Switches From Goofy To Scary..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 387,122 views \u2022 ~623m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LSYaKjXJDUg"
   },
   {
     "topic": "Alien: Isolation - Official Sequel Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,231 views \u2022 ~221m old",
+    "why": "Trending on YouTube \u2022 54,776 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqDrZCcNaio"
   },
   {
-    "topic": "Avengers Doomsday Trailer: Why Won\u2019t Marvel Release It? | Sneak Peek",
+    "topic": "Sugarhill Ddot - EVERYTHING4ADOT (Official Music Video)@Deevisions",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,248 views \u2022 ~457m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oEb1Ji6P1p0"
-  },
-  {
-    "topic": "Noah Kahan - All Them Horses (Fire Tower Session)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 28,527 views \u2022 ~398m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ccTovDcHYIU"
+    "why": "Trending on YouTube \u2022 23,338 views \u2022 ~203m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NwUOBxhOBIo"
   },
   {
     "topic": "The White House Correspondents' Dinner",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8VL2eLssZfo"
   },
   {
@@ -224,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~671m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
-  },
-  {
-    "topic": "Pittsburgh Penguins at Philadelphia Flyers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~719m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dR1HoN9sLqw"
   }
 ]
