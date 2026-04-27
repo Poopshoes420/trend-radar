@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Haben Sie ein Problem?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1swqu91/haben_sie_ein_problem/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1swp17p/a_family_moment_with_5_cents/"
-  },
-  {
-    "topic": "Haben Sie ein Problem?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1swqu91/haben_sie_ein_problem/"
   },
   {
     "topic": "[OC] \ud83d\udc09",
@@ -45,22 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw7faz/insanity/"
   },
   {
-    "topic": "YouTube lost the plot. Switching to ad blocking.",
+    "topic": "I shouldn't have to have this many extensions just to make youtube useable",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4fur/youtube_lost_the_plot_switching_to_ad_blocking/"
-  },
-  {
-    "topic": "Do you have a YouTuber who has irreversibly fallen off?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swj2a6/do_you_have_a_youtuber_who_has_irreversibly/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swrgks/i_shouldnt_have_to_have_this_many_extensions_just/"
   },
   {
     "topic": "What do we guys think about this YouTube video?",
@@ -72,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swkprs/what_do_we_guys_think_about_this_youtube_video/"
   },
   {
+    "topic": "Do you have a YouTuber who has irreversibly fallen off?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swj2a6/do_you_have_a_youtuber_who_has_irreversibly/"
+  },
+  {
+    "topic": "YouTube lost the plot. Switching to ad blocking.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sw4fur/youtube_lost_the_plot_switching_to_ad_blocking/"
+  },
+  {
     "topic": "Four pictures of STRAIGHT PORN btw",
     "sources": [
       "reddit"
@@ -81,31 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swg03x/four_pictures_of_straight_porn_btw/"
   },
   {
-    "topic": "No... JUST GOD FOR SAKEN NO.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swh5f2/no_just_god_for_saken_no/"
-  },
-  {
-    "topic": "Mood in Russia turns bleak as war in Ukraine drags on and economy suffers",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1523, Part 1 (Thread #1670)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1swhsf6/mood_in_russia_turns_bleak_as_war_in_ukraine/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1522, Part 1 (Thread #1669)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1svx0p0/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1swsufa/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #16)",
@@ -117,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "P\u00e9ter Magyar Claims Orb\u00e1n-Linked Oligarchs Are Fleeing Hungary with Billions",
+    "topic": "Mood in Russia turns bleak as war in Ukraine drags on and economy suffers",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw6obk/p\u00e9ter_magyar_claims_orb\u00e1nlinked_oligarchs_are/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1swhsf6/mood_in_russia_turns_bleak_as_war_in_ukraine/"
   },
   {
     "topic": "Iran offers U.S. deal to reopen strait but postpone nuclear talks",
@@ -135,40 +126,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1swpd4t/iran_offers_us_deal_to_reopen_strait_but_postpone/"
   },
   {
-    "topic": "Simple Questions Sunday!",
+    "topic": "P\u00e9ter Magyar Claims Orb\u00e1n-Linked Oligarchs Are Fleeing Hungary with Billions",
     "sources": [
       "reddit"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1svz8sy/simple_questions_sunday/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sw6obk/p\u00e9ter_magyar_claims_orb\u00e1nlinked_oligarchs_are/"
   },
   {
-    "topic": "With the success of It Takes Two and Split Fiction, you\u2019d think more developers would be making solid couch co-op games",
+    "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swe11l/with_the_success_of_it_takes_two_and_split/"
-  },
-  {
-    "topic": "I remember reading this book in the car on the way home. Was so excited for this game!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swr352/i_remember_reading_this_book_in_the_car_on_the/"
-  },
-  {
-    "topic": "Microsoft CEO sees Xbox as \"critical audience and category\" that's \"really important to the company\u2019s future\" says Asha Sharma",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swqc40/microsoft_ceo_sees_xbox_as_critical_audience_and/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swv2tt/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "Alien: Isolation 2 will use Unreal Engine 5 and not the Cathode Engine",
@@ -180,11 +153,46 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swsctm/alien_isolation_2_will_use_unreal_engine_5_and/"
   },
   {
+    "topic": "I remember reading this book in the car on the way home. Was so excited for this game!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swr352/i_remember_reading_this_book_in_the_car_on_the/"
+  },
+  {
+    "topic": "With the success of It Takes Two and Split Fiction, you\u2019d think more developers would be making solid couch co-op games",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swe11l/with_the_success_of_it_takes_two_and_split/"
+  },
+  {
+    "topic": "What game made you cry or left you emotionally wrecked?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swu1ie/what_game_made_you_cry_or_left_you_emotionally/"
+  },
+  {
+    "topic": "SUPERNOVA: GENESIS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 16,301,124 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nrDhykh1okI"
+  },
+  {
     "topic": "I got this game shut down\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 226,030 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 385,228 views \u2022 ~372m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rs4MwK6iGKU"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 421,812 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 535,817 views \u2022 ~684m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FUptDbfjLi8"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,411 views \u2022 ~539m old",
+    "why": "Trending on YouTube \u2022 180,612 views \u2022 ~699m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqDrZCcNaio"
   },
   {
@@ -208,31 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,140 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 81,646 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NwUOBxhOBIo"
-  },
-  {
-    "topic": "Noah Kahan - All Them Horses (Fire Tower Session)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 47,132 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ccTovDcHYIU"
   },
   {
     "topic": "Zurich Classic of New Orleans, Final Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nh7FMIWbW4s"
   },
   {
-    "topic": "Chelsea vs. Leeds United",
+    "topic": "Alabama at Tennessee",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=puDiaRF042Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sNgLcatCxGQ"
   }
 ]
