@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swrgks/i_shouldnt_have_to_have_this_many_extensions_just/"
   },
   {
+    "topic": "They need to bring back the dislike button as a functional thing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxhbht/they_need_to_bring_back_the_dislike_button_as_a/"
+  },
+  {
     "topic": "rare image of the YouTube error screen I took back in 2023",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1swwnn6/a_global_youtube_record_is_about_to_be_deleted/"
   },
   {
-    "topic": "how hard is it to not use ai? like how much effort does it take to just use the source material",
+    "topic": "I don't care how well put together the video is: If you use this ugly AI white background style for your thumbnail, I'm not clicking on your video. I swear, these content farms need to die",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sx3mp8/how_hard_is_it_to_not_use_ai_like_how_much_effort/"
-  },
-  {
-    "topic": "Yeah, Youtube seems about as child friendly as a porn site",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxct1d/yeah_youtube_seems_about_as_child_friendly_as_a/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxgfkl/i_dont_care_how_well_put_together_the_video_is_if/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1523, Part 1 (Thread #1670)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,259,612 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 2,407,336 views \u2022 ~367m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lJZ8wWCnwow"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,553,695 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 2,021,403 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sNwzFhGwA94"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 870,217 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 955,712 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=o5tqQSIAz4o"
   },
   {
@@ -208,39 +208,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 899,820 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 984,245 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5X1dMFuHZhc"
+  },
+  {
+    "topic": "The Steam Controller is Here",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 444,855 views \u2022 ~337m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=MpJB7LTs5_s"
+  },
+  {
+    "topic": "This Anomaly Game Got Even Weirder...",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 202,878 views \u2022 ~204m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zXY7En43YDo"
   },
   {
     "topic": "KAGURABACHI\uff5cOfficial Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 500,063 views \u2022 ~579m old",
+    "why": "Trending on YouTube \u2022 537,931 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LFJJA8Qeqz4"
+  },
+  {
+    "topic": "The Boys Season 5 Episode 5 Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 206,223 views \u2022 ~262m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=E-TJyp3TWPU"
   },
   {
     "topic": "STORM AND SHADOW // Kuronami Skin Reveal Trailer - VALORANT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,638 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 235,889 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pXqSRj-JEkA"
+  },
+  {
+    "topic": "Olivia Rodrigo - drop dead (acoustic)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 119,901 views \u2022 ~352m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=f3zv0-zOqak"
+  },
+  {
+    "topic": "Korn - Reward The Scars | Official Music Video for Diablo IV: Lord of Hatred",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 94,909 views \u2022 ~337m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sHmnnNxu6Ww"
+  },
+  {
+    "topic": "Vybz Kartel - Victory (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 85,923 views \u2022 ~336m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nFDsUUyF66w"
   },
   {
     "topic": "The Lesbian Homie Season 5 Official Trailer | Bigg Jah",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,912 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 57,144 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uySR5f38rfs"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=37YyNaOAsv0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CKcpAX-caRg"
   }
 ]
