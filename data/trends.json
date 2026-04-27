@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw4vmn/oc/"
   },
   {
-    "topic": "[OC] London Marathon",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw3gpm/oc_london_marathon/"
-  },
-  {
     "topic": "Insanity",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw7faz/insanity/"
+  },
+  {
+    "topic": "[OC] London Marathon",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sw3gpm/oc_london_marathon/"
   },
   {
     "topic": "Real",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 433,207 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 461,471 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p4ahGSFTY-c"
   },
   {
@@ -192,23 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 202,892 views \u2022 ~250m old",
+    "why": "Trending on YouTube \u2022 237,086 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FUptDbfjLi8"
-  },
-  {
-    "topic": "This FNAF Switches From Goofy To Scary..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 387,122 views \u2022 ~623m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LSYaKjXJDUg"
   },
   {
     "topic": "Alien: Isolation - Official Sequel Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,776 views \u2022 ~265m old",
+    "why": "Trending on YouTube \u2022 70,354 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cqDrZCcNaio"
   },
   {
@@ -216,23 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,338 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 31,048 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NwUOBxhOBIo"
+  },
+  {
+    "topic": "Avengers Doomsday Trailer: Why Won\u2019t Marvel Release It? | Sneak Peek",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 49,903 views \u2022 ~543m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oEb1Ji6P1p0"
   },
   {
     "topic": "The White House Correspondents' Dinner",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8VL2eLssZfo"
   },
   {
-    "topic": "SportsCenter",
+    "topic": "Chelsea vs. Leeds United",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-UQyO4Rudgc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~53m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=puDiaRF042Y"
+  },
+  {
+    "topic": "Zurich Classic of New Orleans, Third Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Xhgg9CcVPbo"
   }
 ]
