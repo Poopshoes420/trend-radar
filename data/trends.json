@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxnici/the_amount_of_ads_on_this_platform_is_fucking/"
   },
   {
-    "topic": "Anyone else miss the old school Top15s?",
+    "topic": "What the fuck is this new ui??",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxkfvn/anyone_else_miss_the_old_school_top15s/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxs3v5/what_the_fuck_is_this_new_ui/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1524, Part 1 (Thread #1671)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sxq3pb/ukrainian_drones_reportedly_strike_russian_oil/"
   },
   {
-    "topic": "\u201cComplete Failure of Indian Govt & Banking System: Tribal Man Forced to Dig Up Sister\u2019s Grave and Carry Her Skeleton 3 km After Bank Repeatedly Demanded \u2018Bring the Account Holder\u2019 to Withdraw Just \u20b920,000\u201d",
+    "topic": "Kim Jong Un Confirms Soldier \u2018Self-Blasting\u2019 Policy in Ukraine",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sxtfz4/complete_failure_of_indian_govt_banking_system/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sxtl3r/kim_jong_un_confirms_soldier_selfblasting_policy/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,43 +180,91 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sxig9v/psa_if_you_have_any_sort_of_disabilities_or_wrist/"
   },
   {
-    "topic": "The April 27-28, 2026 Tornado Outbreak Coverage, As It Happened... (Part 1)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,857,412 views \u2022 ~243m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rw6uJU6JxE0"
-  },
-  {
-    "topic": "Under SIde 821, Richard Ahumada, Pablito Calavera - Fuego Azul (video oficial)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 140,305 views \u2022 ~615m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VZrRNaskr_U"
-  },
-  {
     "topic": "Meek Mill - \"In My Eyes\" Freestyle",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,684 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 44,425 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TfWt5AxUA18"
   },
   {
-    "topic": "The Five",
+    "topic": "Philadelphia Flyers at Pittsburgh Penguins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~285m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L7iXoq0gm5o"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gsUZDHkMxOs"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xgvmoMx2dxI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3cp1EamgqdQ"
+  },
+  {
+    "topic": "Tampa Bay Rays at Cleveland Guardians",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1hX0NfXf91w"
+  },
+  {
+    "topic": "The Rachel Maddow Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iN4Duo2JVYc"
+  },
+  {
+    "topic": "The Way the Cookie Crumbles",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~253m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JbkBn0kEFHE"
+  },
+  {
+    "topic": "The Source With Kaitlan Collins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WqXZPnDO3xg"
+  },
+  {
+    "topic": "The Ninja Position",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~204m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=T9FdtKYX1OY"
+  },
+  {
+    "topic": "Alabama at Tennessee",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pPyRycWwGDc"
+  },
+  {
+    "topic": "2026 PGA Professional Championship, Second Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lAbVoX-hN5A"
+  },
+  {
+    "topic": "The Equalizer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=96ltOj1ysIM"
   }
 ]
