@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sy147k/the_most_genuine_reaction_possible/"
   },
   {
-    "topic": "B-Eminem-W",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sxpsz2/beminemw/"
-  },
-  {
     "topic": "Just a little smile, please!",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syb4pr/just_a_little_smile_please/"
+  },
+  {
+    "topic": "B-Eminem-W",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sxpsz2/beminemw/"
   },
   {
     "topic": "iShowSpeed had a near-death experience while streaming in Barbados",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy3i6p/studio_spiders_is_shutting_down_following_poor/"
   },
   {
-    "topic": "Subnautica 2 Cinematic Trailer Releasing on April 30th!\ud83c\udf89",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy4mjy/subnautica_2_cinematic_trailer_releasing_on_april/"
-  },
-  {
     "topic": "Hey there, r/gaming. We're Warhorse Studios, the team behind the Kingdom Come: Deliverance games. Ask Us Anything on April 30th!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy3ygc/hey_there_rgaming_were_warhorse_studios_the_team/"
   },
   {
+    "topic": "Subnautica 2 Cinematic Trailer Releasing on April 30th!\ud83c\udf89",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy4mjy/subnautica_2_cinematic_trailer_releasing_on_april/"
+  },
+  {
     "topic": "Apex Legends: Overclocked Anthem Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 353,770 views \u2022 ~366m old",
+    "why": "Trending on YouTube \u2022 390,248 views \u2022 ~430m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qb00PDb7eqM"
   },
   {
@@ -192,15 +192,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 367,343 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 429,324 views \u2022 ~485m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PxZg4SfIURg"
+  },
+  {
+    "topic": "Honest Trailers | The Departed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 82,599 views \u2022 ~310m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ML4L1XSZnKM"
+  },
+  {
+    "topic": "Bryson Tiller - IT'S OK (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 37,281 views \u2022 ~368m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xyTZmViI9Ls"
   },
   {
     "topic": "Oklahoma City Thunder at Phoenix Suns",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~428m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nViZh4txjyQ"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nz-_2j_ZtgU"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LX0A91giVQc"
   }
 ]
