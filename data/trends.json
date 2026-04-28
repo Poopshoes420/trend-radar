@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1sxpsz2/beminemw/"
   },
   {
-    "topic": "Canoeing to Canada?",
+    "topic": "Just a little smile, please!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sxlzpl/canoeing_to_canada/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1syb4pr/just_a_little_smile_please/"
   },
   {
     "topic": "iShowSpeed had a near-death experience while streaming in Barbados",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sy4xcm/ishowspeed_had_a_neardeath_experience_while/"
   },
   {
-    "topic": "what it feels like to pay for youtube preminum",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxni4h/what_it_feels_like_to_pay_for_youtube_preminum/"
-  },
-  {
     "topic": "PSA Youtube banning accounts using adblock",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sy6xrv/psa_youtube_banning_accounts_using_adblock/"
+  },
+  {
+    "topic": "what it feels like to pay for youtube preminum",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxni4h/what_it_feels_like_to_pay_for_youtube_preminum/"
   },
   {
     "topic": "Why do youtubers do this?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sxzzop/uae_announces_it_will_leave_opec/"
   },
   {
-    "topic": "Ukraine says Israeli buying of 'stolen' grain from Russia not 'legitimate'",
+    "topic": "US ambassador to Ukraine to step down over differences with Trump, FT reports",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sy1yvd/ukraine_says_israeli_buying_of_stolen_grain_from/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syc0w2/us_ambassador_to_ukraine_to_step_down_over/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,27 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy3ygc/hey_there_rgaming_were_warhorse_studios_the_team/"
   },
   {
-    "topic": "My Hero Academia x Brawl Stars",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 3,689,422 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JfozPo2L7xQ"
-  },
-  {
-    "topic": "NMIXX(\uc5d4\ubbf9\uc2a4) \u201cCrescendo\u201d M/V",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 744,578 views \u2022 ~653m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-SEKt_0pdHM"
-  },
-  {
     "topic": "Apex Legends: Overclocked Anthem Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 293,661 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 353,770 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qb00PDb7eqM"
   },
   {
@@ -208,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 293,802 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 367,343 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PxZg4SfIURg"
   },
   {
@@ -216,31 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~428m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nViZh4txjyQ"
-  },
-  {
-    "topic": "Philadelphia Flyers at Pittsburgh Penguins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~666m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gsUZDHkMxOs"
-  },
-  {
-    "topic": "Tampa Bay Rays at Cleveland Guardians",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1hX0NfXf91w"
-  },
-  {
-    "topic": "The Rachel Maddow Show",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iN4Duo2JVYc"
   }
 ]
