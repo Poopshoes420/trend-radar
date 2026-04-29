@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "South African Ad",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sys24m/south_african_ad/"
+  },
+  {
     "topic": "Teachers know how to annoy other teachers when on vacation",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syb4pr/just_a_little_smile_please/"
-  },
-  {
-    "topic": "The most genuine reaction possible \ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sy147k/the_most_genuine_reaction_possible/"
   },
   {
     "topic": "Hello???? In what way lmao",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "King Charles praises Nato and urges defence of Ukraine in key speech during Trump visit",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syefej/king_charles_praises_nato_and_urges_defence_of/"
-  },
-  {
     "topic": "Australia moves to tax Meta, Google and TikTok to fund newsrooms",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syku1j/australia_moves_to_tax_meta_google_and_tiktok_to/"
   },
   {
-    "topic": "US ambassador to Ukraine to step down over differences with Trump, FT reports",
+    "topic": "King Charles praises Nato and urges defence of Ukraine in key speech during Trump visit",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syc0w2/us_ambassador_to_ukraine_to_step_down_over/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syefej/king_charles_praises_nato_and_urges_defence_of/"
+  },
+  {
+    "topic": "Russia Cuts Tanks, Missiles From Putin\u2019s WWII Parade in First Since 2007",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sys4cd/russia_cuts_tanks_missiles_from_putins_wwii/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,59 +180,67 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy57uc/alice_madness_returns_director_american_mcgee/"
   },
   {
-    "topic": "I See Why The Rent Was So Cheap\u2026",
+    "topic": "\ud83d\udd34LIVE | ARC RAIDERS | RIVEN TIDE | NEW MAP | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,095 views \u2022 ~615m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7LfJKdRV3UA"
+    "why": "Trending on YouTube \u2022 588,877 views \u2022 ~142m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RJQAH2fHh54"
   },
   {
-    "topic": "Finesse2Tymes - Know I've Been Changed [Official Music Video]",
+    "topic": "Philadelphia 76ers at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 126,081 views \u2022 ~624m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3V-BS7i1Orw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tztp1eqn3tQ"
   },
   {
-    "topic": "Jesse Watters Primetime",
+    "topic": "Minnesota Wild at Dallas Stars",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=p2Cku-b-cyk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=E4iXl4iSOxo"
   },
   {
-    "topic": "NBA Tip-Off",
+    "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2FjB5EQYdV0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QrFhpHU5cRY"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "Summer House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SnCMjmR34Eo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dpIS-7Hg6yc"
   },
   {
-    "topic": "Erin Burnett OutFront",
+    "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0B7WBA1r6gg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-c_ADYi4hg0"
   },
   {
-    "topic": "The Equalizer 3 - The Final Chapter",
+    "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eaxbpV2zXtc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LmjqoOzOMDM"
+  },
+  {
+    "topic": "Jason Bourne",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=allpHoYT9zE"
   }
 ]
