@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1symyws/youtube_wont_stop_interrupting_my_ads_with_videos/"
   },
   {
-    "topic": "what it feels like to pay for youtube preminum",
+    "topic": "Clickbait\ud83e\udd40",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sxni4h/what_it_feels_like_to_pay_for_youtube_preminum/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syvol3/clickbait/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1525, Part 1 (Thread #1672)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Russia Cuts Tanks, Missiles From Putin\u2019s WWII Parade in First Since 2007",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sys4cd/russia_cuts_tanks_missiles_from_putins_wwii/"
+  },
+  {
     "topic": "Australia moves to tax Meta, Google and TikTok to fund newsrooms",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syefej/king_charles_praises_nato_and_urges_defence_of/"
-  },
-  {
-    "topic": "Russia Cuts Tanks, Missiles From Putin\u2019s WWII Parade in First Since 2007",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sys4cd/russia_cuts_tanks_missiles_from_putins_wwii/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sypvac/helldivers_2_finally_buffs_mechs_with_double/"
   },
   {
-    "topic": "Alice: Madness Returns Director American McGee Says EA Wanted More Gore And Asked Him To \u201cMake Things More Sexy\u201d",
+    "topic": "Elite: Dangerous is 12 years old and I haven\u2019t seen a better space travel simulation to date",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sy57uc/alice_madness_returns_director_american_mcgee/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sysj1e/elite_dangerous_is_12_years_old_and_i_havent_seen/"
   },
   {
     "topic": "\ud83d\udd34LIVE | ARC RAIDERS | RIVEN TIDE | NEW MAP | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 588,877 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 598,318 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RJQAH2fHh54"
   },
   {
@@ -192,31 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~152m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tztp1eqn3tQ"
+  },
+  {
+    "topic": "Boston Bruins at Buffalo Sabres",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yuGeOcR0XIM"
   },
   {
     "topic": "Minnesota Wild at Dallas Stars",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4iXl4iSOxo"
   },
   {
-    "topic": "Gutfeld!",
+    "topic": "Hannity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~67m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QrFhpHU5cRY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=O_0r36ya3aw"
   },
   {
     "topic": "Summer House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dpIS-7Hg6yc"
   },
   {
@@ -224,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~61m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-c_ADYi4hg0"
+  },
+  {
+    "topic": "San Francisco Giants at Philadelphia Phillies",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~66m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Nc0TpurBOKc"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LmjqoOzOMDM"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~90m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
     "exampleUrl": "https://www.youtube.com/watch?v=allpHoYT9zE"
   }
 ]
