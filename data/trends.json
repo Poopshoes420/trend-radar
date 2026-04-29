@@ -1,14 +1,5 @@
 [
   {
-    "topic": "[OC] whoops",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy4y0/oc_whoops/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "[OC] whoops",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy4y0/oc_whoops/"
   },
   {
     "topic": "just break it down (OC)",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy5e6/oc_neck/"
   },
   {
-    "topic": "Free",
+    "topic": "The sculpture looks great except for one part though...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sz5wuk/free/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sz8ilk/the_sculpture_looks_great_except_for_one_part/"
   },
   {
     "topic": "Hello???? In what way lmao",
@@ -184,23 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,649,451 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 1,922,289 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IVH0umuNU-k"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ARC RAIDERS | RIVEN TIDE | NEW MAP | #BUNGULATE",
+    "topic": "One Night Only | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 652,761 views \u2022 ~645m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RJQAH2fHh54"
+    "why": "Trending on YouTube \u2022 654,794 views \u2022 ~340m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JRG244IfrRE"
+  },
+  {
+    "topic": "EPIC - Teaser | Anand Deverakonda, Vaishnavi Chaitanya | Hesham AW | Naga Vamsi S | Aditya Hasan",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 777,673 views \u2022 ~515m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KxUQWk0p7zk"
+  },
+  {
+    "topic": "Path to Doomsday: The Avengers | New Asymmetric PvP Mode Trailer | Marvel Rivals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 260,648 views \u2022 ~339m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=prgi9DELhjc"
   },
   {
     "topic": "Philadelphia 76ers at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tztp1eqn3tQ"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~499m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yuGeOcR0XIM"
   },
   {
@@ -216,31 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4iXl4iSOxo"
   },
   {
-    "topic": "Hannity",
+    "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=O_0r36ya3aw"
-  },
-  {
-    "topic": "Summer House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dpIS-7Hg6yc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YMlVki6R-WU"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-c_ADYi4hg0"
   },
   {
@@ -248,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nc0TpurBOKc"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LmjqoOzOMDM"
   }
 ]
