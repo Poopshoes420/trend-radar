@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy5e6/oc_neck/"
   },
   {
-    "topic": "[OC] whole 9 yards",
+    "topic": "Free",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sz0wkh/oc_whole_9_yards/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sz5wuk/free/"
   },
   {
     "topic": "Hello???? In what way lmao",
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syq044/hello_in_what_way_lmao/"
-  },
-  {
-    "topic": "holy cringe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syzkva/holy_cringe/"
   },
   {
     "topic": "why are they always doing this?",
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz3t3u/seeing_my_grandma_watch_youtube_has_been_a_real/"
   },
   {
-    "topic": "Clickbait\ud83e\udd40",
+    "topic": "holy cringe",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syvol3/clickbait/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syzkva/holy_cringe/"
+  },
+  {
+    "topic": "YouTube WTF",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syxmet/youtube_wtf/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1525, Part 1 (Thread #1672)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,186,415 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 1,649,451 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IVH0umuNU-k"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 639,341 views \u2022 ~554m old",
+    "why": "Trending on YouTube \u2022 652,761 views \u2022 ~645m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RJQAH2fHh54"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tztp1eqn3tQ"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yuGeOcR0XIM"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E4iXl4iSOxo"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=O_0r36ya3aw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dpIS-7Hg6yc"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~473m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-c_ADYi4hg0"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nc0TpurBOKc"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LmjqoOzOMDM"
   }
 ]
