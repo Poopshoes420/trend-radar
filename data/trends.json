@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy5e6/oc_neck/"
   },
   {
-    "topic": "Hello???? In what way lmao",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syq044/hello_in_what_way_lmao/"
-  },
-  {
     "topic": "why are they always doing this?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz1bgo/why_are_they_always_doing_this/"
+  },
+  {
+    "topic": "Hello???? In what way lmao",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syq044/hello_in_what_way_lmao/"
   },
   {
     "topic": "Seeing my grandma watch YouTube has been a real eye opener for the AI problem it faces",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sz04ko/monument_valley_studio_ceo_weve_been_a_little_bit/"
   },
   {
-    "topic": "After losing my right arm, I refused to quit gaming and designed my own one-handed controller",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1syqico/after_losing_my_right_arm_i_refused_to_quit/"
-  },
-  {
     "topic": "SIE spokesperson to GameSpot regarding the DRM: \"Players can continue to access and play their purchased games as usual. A one-time online check is required to confirm the game's license, after which no further check-ins are required.\"",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szcanj/sie_spokesperson_to_gamespot_regarding_the_drm/"
   },
   {
-    "topic": "Drishyam 3 - Official Teaser | Mohanlal | Jeethu Joseph | Meena | May 21 Worldwide Release",
+    "topic": "After losing my right arm, I refused to quit gaming and designed my own one-handed controller",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 2,112,668 views \u2022 ~671m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IVH0umuNU-k"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1syqico/after_losing_my_right_arm_i_refused_to_quit/"
   },
   {
     "topic": "One Night Only | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 911,359 views \u2022 ~460m old",
+    "why": "Trending on YouTube \u2022 1,159,547 views \u2022 ~518m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JRG244IfrRE"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 870,063 views \u2022 ~635m old",
+    "why": "Trending on YouTube \u2022 886,819 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KxUQWk0p7zk"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 300,236 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 312,970 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=prgi9DELhjc"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,218 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 46,012 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E8klJjXc4II"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 23,805 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 42,623 views \u2022 ~278m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A02IAIbFSrE"
   },
   {
@@ -232,23 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-LbNoZXftAw"
   },
   {
-    "topic": "Boston Bruins at Buffalo Sabres",
+    "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yuGeOcR0XIM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oRHtq56eBMM"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qDi3uRSfA8A"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dHHNPJUbe_s"
   }
 ]
