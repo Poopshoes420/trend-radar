@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1szej64/how_does_one_recover_in_life_after_this/"
   },
   {
+    "topic": "what a way to start the day",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1szl9l0/what_a_way_to_start_the_day/"
+  },
+  {
     "topic": "[OC] whoops",
     "sources": [
       "reddit"
@@ -36,13 +45,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy4y0/oc_whoops/"
   },
   {
-    "topic": "just break it down (OC)",
+    "topic": "Yes youtube, I'm interested.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1sz05b5/just_break_it_down_oc/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz8qrv/yes_youtube_im_interested/"
+  },
+  {
+    "topic": "Does anyone else feel kind of sorry for small youtubers?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szjc9k/does_anyone_else_feel_kind_of_sorry_for_small/"
   },
   {
     "topic": "why are they always doing this?",
@@ -52,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz1bgo/why_are_they_always_doing_this/"
-  },
-  {
-    "topic": "Yes youtube, I'm interested.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz8qrv/yes_youtube_im_interested/"
   },
   {
     "topic": "Hello???? In what way lmao",
@@ -81,22 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz3t3u/seeing_my_grandma_watch_youtube_has_been_a_real/"
   },
   {
-    "topic": "holy cringe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1syzkva/holy_cringe/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1525, Part 1 (Thread #1672)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1526, Part 1 (Thread #1673)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1synvhl/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szl9ar/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #16)",
@@ -106,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "King Charles playfully reminds Trump that he's Canada's head of state",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szfshq/king_charles_playfully_reminds_trump_that_hes/"
   },
   {
     "topic": "Trump says US will look at reducing number of troops in Germany after clash with Merz",
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sz3554/us_war_in_iran_has_cost_25_billion_so_far_says/"
   },
   {
-    "topic": "Ukraine shuts down arms network that supplied weapons to Steven Seagal, other pro-Russian figures",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1syz1wa/ukraine_shuts_down_arms_network_that_supplied/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1swv2tt/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "Valve Is Forcing Microsoft To Make Significant Improvements To Windows Gaming Performance",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szkzbn/valve_is_forcing_microsoft_to_make_significant/"
   },
   {
     "topic": "Hmm I think she may have been bitten, but I am not sure...",
@@ -153,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sz2iz5/hmm_i_think_she_may_have_been_bitten_but_i_am_not/"
   },
   {
-    "topic": "Monument Valley Studio CEO: \"'We've Been A Little Bit Too Romantic About The Idea That We Should Have Employees And Give People Long-term Job Security\"",
+    "topic": "Uninstalled Call of Duty for first time in years. Shocked at the damn size of this thing.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sz04ko/monument_valley_studio_ceo_weve_been_a_little_bit/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szkgwy/uninstalled_call_of_duty_for_first_time_in_years/"
   },
   {
     "topic": "SIE spokesperson to GameSpot regarding the DRM: \"Players can continue to access and play their purchased games as usual. A one-time online check is required to confirm the game's license, after which no further check-ins are required.\"",
@@ -171,44 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szcanj/sie_spokesperson_to_gamespot_regarding_the_drm/"
   },
   {
-    "topic": "After losing my right arm, I refused to quit gaming and designed my own one-handed controller",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1syqico/after_losing_my_right_arm_i_refused_to_quit/"
-  },
-  {
-    "topic": "One Night Only | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,474,121 views \u2022 ~621m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JRG244IfrRE"
-  },
-  {
     "topic": "Tomodunkey Life",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 251,774 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 380,757 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XupAUsXqi_k"
   },
   {
-    "topic": "Path to Doomsday: The Avengers | New Asymmetric PvP Mode Trailer | Marvel Rivals",
+    "topic": "Maisak, Feid, Maluma - Te Entiendo (Remix)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 332,241 views \u2022 ~620m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=prgi9DELhjc"
+    "why": "Trending on YouTube \u2022 155,766 views \u2022 ~292m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XLGKH6L93F0"
+  },
+  {
+    "topic": "This Game Came Down to ONE Play! Wheel of MUT! Ep. #61",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 134,272 views \u2022 ~412m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_qsBGuPOOmI"
   },
   {
     "topic": "Finally Figured Out the AVENGERS DOOMSDAY Plot from Trailer\u2026 I Think?",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,698 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 116,127 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E8klJjXc4II"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,146 views \u2022 ~381m old",
+    "why": "Trending on YouTube \u2022 127,019 views \u2022 ~592m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A02IAIbFSrE"
   },
   {
@@ -224,39 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,254 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 62,390 views \u2022 ~581m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tsUV27flYRQ"
   },
   {
-    "topic": "90 Day: The Last Resort | Season 3 Official Trailer (TLC, 2026)",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,051 views \u2022 ~561m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PPr70gmD6ZA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=78SB8UxXiX4"
   },
   {
-    "topic": "Outnumbered",
+    "topic": "Katy Tur Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OTuatS6DgzE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BEsnX8vAj_c"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=b0vXmQxilqs"
-  },
-  {
-    "topic": "Inside Politics With Dana Bash",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GST7epvZFFM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bpMmevrMxWw"
   }
 ]
