@@ -1,5 +1,14 @@
 [
   {
+    "topic": "what a way to start the day",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1szl9l0/what_a_way_to_start_the_day/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -27,15 +36,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1szej64/how_does_one_recover_in_life_after_this/"
   },
   {
-    "topic": "what a way to start the day",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1szl9l0/what_a_way_to_start_the_day/"
-  },
-  {
     "topic": "[OC] whoops",
     "sources": [
       "reddit"
@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1syy4y0/oc_whoops/"
   },
   {
-    "topic": "Yes youtube, I'm interested.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz8qrv/yes_youtube_im_interested/"
-  },
-  {
     "topic": "Does anyone else feel kind of sorry for small youtubers?",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szjc9k/does_anyone_else_feel_kind_of_sorry_for_small/"
+  },
+  {
+    "topic": "Yes youtube, I'm interested.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz8qrv/yes_youtube_im_interested/"
   },
   {
     "topic": "why are they always doing this?",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz3t3u/seeing_my_grandma_watch_youtube_has_been_a_real/"
   },
   {
+    "topic": "King Charles playfully reminds Trump that he's Canada's head of state",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szfshq/king_charles_playfully_reminds_trump_that_hes/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1526, Part 1 (Thread #1673)",
     "sources": [
       "reddit"
@@ -108,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "King Charles playfully reminds Trump that he's Canada's head of state",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szfshq/king_charles_playfully_reminds_trump_that_hes/"
-  },
-  {
     "topic": "Trump says US will look at reducing number of troops in Germany after clash with Merz",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szeac5/trump_says_us_will_look_at_reducing_number_of/"
   },
   {
-    "topic": "US war in Iran has cost $25 billion so far, says Pentagon official",
+    "topic": "Iran currency plunges as dollar crosses 1.8 million in open market",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1sz3554/us_war_in_iran_has_cost_25_billion_so_far_says/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szl706/iran_currency_plunges_as_dollar_crosses_18/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szkzbn/valve_is_forcing_microsoft_to_make_significant/"
   },
   {
-    "topic": "Hmm I think she may have been bitten, but I am not sure...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sz2iz5/hmm_i_think_she_may_have_been_bitten_but_i_am_not/"
-  },
-  {
     "topic": "Uninstalled Call of Duty for first time in years. Shocked at the damn size of this thing.",
     "sources": [
       "reddit"
@@ -171,36 +162,45 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szkgwy/uninstalled_call_of_duty_for_first_time_in_years/"
   },
   {
-    "topic": "SIE spokesperson to GameSpot regarding the DRM: \"Players can continue to access and play their purchased games as usual. A one-time online check is required to confirm the game's license, after which no further check-ins are required.\"",
+    "topic": "Hmm I think she may have been bitten, but I am not sure...",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szcanj/sie_spokesperson_to_gamespot_regarding_the_drm/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sz2iz5/hmm_i_think_she_may_have_been_bitten_but_i_am_not/"
   },
   {
-    "topic": "Tomodunkey Life",
+    "topic": "Thanks to Musk v. Altman lawsuit, it's now public record that Gabe Newell emailed Elon Musk to get his pal Hideo Kojima a tour of SpaceX and OpenAI",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 380,757 views \u2022 ~562m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XupAUsXqi_k"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szo4rl/thanks_to_musk_v_altman_lawsuit_its_now_public/"
   },
   {
     "topic": "Maisak, Feid, Maluma - Te Entiendo (Remix)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 155,766 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 239,481 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XLGKH6L93F0"
+  },
+  {
+    "topic": "I Found This Creepy House In The Woods\u2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 185,979 views \u2022 ~566m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WdYbMmQNVJ0"
   },
   {
     "topic": "This Game Came Down to ONE Play! Wheel of MUT! Ep. #61",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 134,272 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 184,603 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_qsBGuPOOmI"
   },
   {
@@ -208,47 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 116,127 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 143,072 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=E8klJjXc4II"
   },
   {
-    "topic": "Fetty Wap - I Remember (feat. G Herbo) [Official Video]",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,019 views \u2022 ~592m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=A02IAIbFSrE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CBxFDdPam60"
   },
   {
-    "topic": "Let's Have Some Fun (ft. North West)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 62,390 views \u2022 ~581m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tsUV27flYRQ"
-  },
-  {
-    "topic": "The Will Cain Show",
+    "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
     "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=78SB8UxXiX4"
+    "exampleUrl": "https://www.youtube.com/watch?v=Z_mRCECOpGA"
   },
   {
-    "topic": "Katy Tur Reports",
+    "topic": "The Lead With Jake Tapper",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BEsnX8vAj_c"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-aRZvjwsmqc"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "The Communication Deterioration",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~232m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bpMmevrMxWw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zJy1kaQxJMA"
   }
 ]
