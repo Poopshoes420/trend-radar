@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Stray Dog goes into Walmart and chills in the Frozen Food Section",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t08773/stray_dog_goes_into_walmart_and_chills_in_the/"
+  },
+  {
     "topic": "The patch one of the U.S. Navy divers wore during the Artemis II recovery operation.",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t05l0a/delivered_to_my_office_today/"
-  },
-  {
-    "topic": "Stray Dog goes into Walmart and chills in the Frozen Food Section",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t08773/stray_dog_goes_into_walmart_and_chills_in_the/"
   },
   {
     "topic": "Rudest Audience Member Of All Time",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szjc9k/does_anyone_else_feel_kind_of_sorry_for_small/"
   },
   {
-    "topic": "how can this exist? i knew the filters were bad, but this is a new level.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szqugs/how_can_this_exist_i_knew_the_filters_were_bad/"
-  },
-  {
     "topic": "what is this youtube moderation? \ud83d\ude2d",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szr7jl/what_is_this_youtube_moderation/"
+  },
+  {
+    "topic": "how can this exist? i knew the filters were bad, but this is a new level.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szqugs/how_can_this_exist_i_knew_the_filters_were_bad/"
   },
   {
     "topic": "Wtf this was like $10 when I first signed up",
@@ -180,51 +180,115 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t03gyj/40k_space_marine_ii_reached_12_million_players/"
   },
   {
-    "topic": "Toronto Raptors at Cleveland Cavaliers",
+    "topic": "RESIDENT EVIL \u2013 Official Teaser Trailer (4K)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~689m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZLr_2oJyjmM"
+    "why": "Trending on YouTube \u2022 1,855,739 views \u2022 ~577m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SJPu1spHqfk"
+  },
+  {
+    "topic": "TOP FELLA (MUSIC VIDEO) KARAN AUJLA | MXRCI | Latest Punjabi Songs 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 992,641 views \u2022 ~667m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=V1aGtu68hC4"
+  },
+  {
+    "topic": "Modded GTA 5 Free Roam but we're so back",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 245,553 views \u2022 ~204m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uX_iqFlUdqI"
+  },
+  {
+    "topic": "Subnautica 2 Early Access Cinematic Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 543,628 views \u2022 ~458m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8EZhCzFaQuw"
+  },
+  {
+    "topic": "SOAP KILLER",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 251,247 views \u2022 ~395m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eFDqZN49hBk"
+  },
+  {
+    "topic": "Saifond Feat Rayvanny I Love You (clip Officiel By Mintigui Prod",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 169,553 views \u2022 ~276m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gp_qj4asw-k"
+  },
+  {
+    "topic": "The Boys Season 5 Episode 6 Trailer: Homelander Power Upgrade",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 120,718 views \u2022 ~315m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EpsSPW3pY_0"
+  },
+  {
+    "topic": "Resident Evil - Exclusive Trailer Breakdown with Director Zach Cregger",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 139,882 views \u2022 ~567m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=D_FMSyTWmA8"
+  },
+  {
+    "topic": "Office Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 128,929 views \u2022 ~547m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=11gcNa-TBRA"
+  },
+  {
+    "topic": "Houston Rockets at Los Angeles Lakers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~531m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eIit0Xt-jU0"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KBryD7trRME"
   },
   {
     "topic": "Pittsburgh Penguins at Philadelphia Flyers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HRzIDcuOzXM"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2e1nailqlNM"
   },
   {
     "topic": "The Last Word With Lawrence O'Donnell",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~664m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~719m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NW8aDT9f8Ak"
-  },
-  {
-    "topic": "A Few Good Men",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~640m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X3DGPSN4p8I"
-  },
-  {
-    "topic": "National Treasure",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~656m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BXrJQgbg7Dk"
-  },
-  {
-    "topic": "2026 PGA Professional Championship, Final Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~602m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kNZZ2MYHO4c"
   }
 ]
