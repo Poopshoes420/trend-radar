@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Have you ever thought about it?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1szb3f7/have_you_ever_thought_about_it/"
-  },
-  {
     "topic": "How does one recover in life after this?",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1szej64/how_does_one_recover_in_life_after_this/"
+  },
+  {
+    "topic": "I can never skip this video...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1szl121/i_can_never_skip_this_video/"
   },
   {
     "topic": "[OC] whoops",
@@ -90,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1sz3t3u/seeing_my_grandma_watch_youtube_has_been_a_real/"
   },
   {
-    "topic": "King Charles playfully reminds Trump that he's Canada's head of state",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szfshq/king_charles_playfully_reminds_trump_that_hes/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1526, Part 1 (Thread #1673)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1son2zz/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "King Charles playfully reminds Trump that he's Canada's head of state",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szfshq/king_charles_playfully_reminds_trump_that_hes/"
   },
   {
     "topic": "Trump says US will look at reducing number of troops in Germany after clash with Merz",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szkzbn/valve_is_forcing_microsoft_to_make_significant/"
   },
   {
+    "topic": "Thanks to Musk v. Altman lawsuit, it's now public record that Gabe Newell emailed Elon Musk to get his pal Hideo Kojima a tour of SpaceX and OpenAI",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szo4rl/thanks_to_musk_v_altman_lawsuit_its_now_public/"
+  },
+  {
     "topic": "Uninstalled Call of Duty for first time in years. Shocked at the damn size of this thing.",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1sz2iz5/hmm_i_think_she_may_have_been_bitten_but_i_am_not/"
   },
   {
-    "topic": "Thanks to Musk v. Altman lawsuit, it's now public record that Gabe Newell emailed Elon Musk to get his pal Hideo Kojima a tour of SpaceX and OpenAI",
+    "topic": "\ud83d\udd34LIVE | ARC RAIDERS | RIVEN TIDE | NEW MAP | #BUNGULATE",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1szo4rl/thanks_to_musk_v_altman_lawsuit_its_now_public/"
+    "why": "Trending on YouTube \u2022 427,126 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z7786oHZRog"
   },
   {
     "topic": "Maisak, Feid, Maluma - Te Entiendo (Remix)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,481 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 280,642 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XLGKH6L93F0"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 185,979 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 222,451 views \u2022 ~694m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WdYbMmQNVJ0"
   },
   {
@@ -200,47 +208,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 184,603 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 207,591 views \u2022 ~695m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_qsBGuPOOmI"
   },
   {
-    "topic": "Finally Figured Out the AVENGERS DOOMSDAY Plot from Trailer\u2026 I Think?",
+    "topic": "Montreal Canadiens at Tampa Bay Lightning",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,072 views \u2022 ~672m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=E8klJjXc4II"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rea2YHpYQnw"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CBxFDdPam60"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uah77OHk6nA"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~133m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Z_mRCECOpGA"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "The Hive Mentality",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UIssYIVYQ4Y"
+  },
+  {
+    "topic": "CNN Global Report: War With Iran",
     "sources": [
       "youtube"
     ],
     "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-aRZvjwsmqc"
+    "exampleUrl": "https://www.youtube.com/watch?v=m22NiYYguUE"
   },
   {
-    "topic": "The Communication Deterioration",
+    "topic": "Jack Reacher",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zJy1kaQxJMA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~56m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p-wr7Og29Fo"
   }
 ]
