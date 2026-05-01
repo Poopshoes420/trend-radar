@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0xc0r/just_a_house/"
   },
   {
+    "topic": "Look at the expiry disclaimer",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t14q5b/look_at_the_expiry_disclaimer/"
+  },
+  {
     "topic": "Essential headwear for riding the Chengdu metro",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0r0nr/essential_headwear_for_riding_the_chengdu_metro/"
   },
   {
-    "topic": "Doggo deflated.",
+    "topic": "Easy peasy",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0dfp7/doggo_deflated/"
-  },
-  {
-    "topic": "I should probably turn around",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0veqd/i_should_probably_turn_around/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t16rlt/easy_peasy/"
   },
   {
     "topic": "YouTube is pretty sneaky for this",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0xz8t/trump_says_he_will_raise_tariffs_on_eu_autos_to_25/"
   },
   {
+    "topic": "The National Science Board fired by Trump was finalizing a report on China\u2019s growing scientific edge over the United States",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t15m1j/the_national_science_board_fired_by_trump_was/"
+  },
+  {
     "topic": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them With AI",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0qzuh/chinese_courts_rule_companies_cannot_fire_workers/"
-  },
-  {
-    "topic": "Ukrainian Forces Strike Russian Su-57 Jets and Su-34 Aircraft At Airbase 1700 Km Deep Inside Russia",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0ssrw/ukrainian_forces_strike_russian_su57_jets_and/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,43 +180,67 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0x9d0/sony_has_increased_the_price_for_refurbished_ps5/"
   },
   {
-    "topic": "New York Knicks at Atlanta Hawks",
+    "topic": "Chris Brown - Fallin' (Official Video) ft. Leon Thomas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~666m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
+    "why": "Trending on YouTube \u2022 393,190 views \u2022 ~361m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-CepAYN0WyM"
+  },
+  {
+    "topic": "Zach Cregger's Resident Evil - Trailer Reaction",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 167,566 views \u2022 ~300m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
+  },
+  {
+    "topic": "Marty, Life Is Short | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 289,783 views \u2022 ~541m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
+  },
+  {
+    "topic": "PAC-MAN: Snack Breaks | Official Teaser Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 93,225 views \u2022 ~424m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XXmo68IPryI"
+  },
+  {
+    "topic": "Denver Nuggets at Minnesota Timberwolves",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~513m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GeqQ41UAWRo"
+  },
+  {
+    "topic": "Boston Celtics at Philadelphia 76ers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5gPPpiPD9WI"
+  },
+  {
+    "topic": "Dallas Stars at Minnesota Wild",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5rUwXBdTOs0"
   },
   {
     "topic": "Cadillac Championship, First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wK-GkB52MYU"
-  },
-  {
-    "topic": "Reunion Part 2",
-    "sources": [
-      "youtube"
-    ],
     "why": "Trending on YouTube \u2022 0 views \u2022 ~692m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XeInTeOOi6E"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aLj7EwBlMjo"
-  },
-  {
-    "topic": "Oklahoma at Texas A&M",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AZ2VvFAaQ-o"
+    "exampleUrl": "https://www.youtube.com/watch?v=wK-GkB52MYU"
   }
 ]
