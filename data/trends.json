@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Essential headwear for riding the Chengdu metro",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0r0nr/essential_headwear_for_riding_the_chengdu_metro/"
-  },
-  {
     "topic": "Just a house",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0xc0r/just_a_house/"
+  },
+  {
+    "topic": "Essential headwear for riding the Chengdu metro",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0r0nr/essential_headwear_for_riding_the_chengdu_metro/"
   },
   {
     "topic": "Doggo deflated.",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0n989/still_a_mystery_to_me/"
   },
   {
+    "topic": "I wish I was kidding",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1037f/i_wish_i_was_kidding/"
+  },
+  {
     "topic": "does anybody remember this old ui?",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0k12y/does_anybody_remember_this_old_ui/"
-  },
-  {
-    "topic": "I made and posted Ultimate Dog Tease 15 years ago today. AMA",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0xnvz/i_made_and_posted_ultimate_dog_tease_15_years_ago/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1527, Part 1 (Thread #1674)",
@@ -171,44 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0zhng/lego_batman_legacy_of_the_dark_knight_pc_specs/"
   },
   {
-    "topic": "Whats a long forgotten game that you think could do well with a modern revival? Im surprised we didn't get a remake of this gem when the MCU was at its most popular",
+    "topic": "Sony has increased the price for refurbished PS5 Slim models by $100 (disc - $549, digital - $499)",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t10nx5/whats_a_long_forgotten_game_that_you_think_could/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0x9d0/sony_has_increased_the_price_for_refurbished_ps5/"
   },
   {
     "topic": "New York Knicks at Atlanta Hawks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vpv9YGoKSAk"
-  },
-  {
-    "topic": "Dallas Wings at Indiana Fever",
-    "sources": [
-      "youtube"
-    ],
     "why": "Trending on YouTube \u2022 0 views \u2022 ~666m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
+    "exampleUrl": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
   },
   {
     "topic": "Cadillac Championship, First Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~633m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wK-GkB52MYU"
   },
   {
@@ -216,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XeInTeOOi6E"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~637m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aLj7EwBlMjo"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZ2VvFAaQ-o"
   }
 ]
