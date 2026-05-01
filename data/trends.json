@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Doggo deflated.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0dfp7/doggo_deflated/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Doggo deflated.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0dfp7/doggo_deflated/"
   },
   {
     "topic": "Stray Dog goes into Walmart and chills in the Frozen Food Section",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t08773/stray_dog_goes_into_walmart_and_chills_in_the/"
   },
   {
+    "topic": "Essential headwear for riding the Chengdu metro",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0r0nr/essential_headwear_for_riding_the_chengdu_metro/"
+  },
+  {
     "topic": "Found at my local pizza place.",
     "sources": [
       "reddit"
@@ -34,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t09i5h/found_at_my_local_pizza_place/"
-  },
-  {
-    "topic": "Delivered to my office today.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t05l0a/delivered_to_my_office_today/"
-  },
-  {
-    "topic": "does anybody remember this old ui?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0k12y/does_anybody_remember_this_old_ui/"
   },
   {
     "topic": "Still a mystery to me",
@@ -63,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0n989/still_a_mystery_to_me/"
   },
   {
-    "topic": "YouTube Premium is starting to feel like paying ransom for the old YouTube",
+    "topic": "does anybody remember this old ui?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szs1qk/youtube_premium_is_starting_to_feel_like_paying/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0k12y/does_anybody_remember_this_old_ui/"
   },
   {
     "topic": "The price is getting ridiculous",
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0ke9g/the_price_is_getting_ridiculous/"
   },
   {
-    "topic": "Conservative media on Youtube always gets recommended whenever you search something leftist, liberal, skeptic, or atheist related",
+    "topic": "YouTube Premium is starting to feel like paying ransom for the old YouTube",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0a11o/conservative_media_on_youtube_always_gets/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szs1qk/youtube_premium_is_starting_to_feel_like_paying/"
+  },
+  {
+    "topic": "YouTube is pretty sneaky for this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0py68/youtube_is_pretty_sneaky_for_this/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1527, Part 1 (Thread #1674)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0nprz/australias_richest_person_gifts_jet_to_farright/"
   },
   {
+    "topic": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them With AI",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0qzuh/chinese_courts_rule_companies_cannot_fire_workers/"
+  },
+  {
     "topic": "Bloomberg: Ukrainian Drone Strikes Push Russian Oil Processing to Lowest Level Since 2009",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0q7vp/bloomberg_ukrainian_drone_strikes_push_russian/"
-  },
-  {
-    "topic": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0fdjc/russia_cloaks_launch_schedule_after_spaceport/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,35 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t03gyj/40k_space_marine_ii_reached_12_million_players/"
   },
   {
-    "topic": "Cazzu - Perd\u00f3n si no te llam\u00e9 (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 506,496 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R9lvYHDKMAs"
-  },
-  {
-    "topic": "Ricky Bobby",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 247,195 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0PBuQCe4bkQ"
-  },
-  {
-    "topic": "Tempo - Se Cayo Un \u00eddolo (Official Visualiser)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 69,299 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dTdtgRUmXH8"
-  },
-  {
     "topic": "New York Knicks at Atlanta Hawks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
   },
   {
@@ -216,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vpv9YGoKSAk"
   },
   {
@@ -224,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~270m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
   },
   {
@@ -232,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wK-GkB52MYU"
   },
   {
@@ -240,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XeInTeOOi6E"
   },
   {
@@ -248,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aLj7EwBlMjo"
   },
   {
@@ -256,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZ2VvFAaQ-o"
   }
 ]
