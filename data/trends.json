@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t08773/stray_dog_goes_into_walmart_and_chills_in_the/"
   },
   {
-    "topic": "Delivered to my office today.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t05l0a/delivered_to_my_office_today/"
-  },
-  {
     "topic": "Found at my local pizza place.",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t09i5h/found_at_my_local_pizza_place/"
   },
   {
-    "topic": "YouTube Premium is starting to feel like paying ransom for the old YouTube",
+    "topic": "Delivered to my office today.",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szs1qk/youtube_premium_is_starting_to_feel_like_paying/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t05l0a/delivered_to_my_office_today/"
   },
   {
     "topic": "does anybody remember this old ui?",
@@ -63,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0k12y/does_anybody_remember_this_old_ui/"
   },
   {
-    "topic": "The price is getting ridiculous",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0ke9g/the_price_is_getting_ridiculous/"
-  },
-  {
     "topic": "Still a mystery to me",
     "sources": [
       "reddit"
@@ -79,6 +61,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0n989/still_a_mystery_to_me/"
+  },
+  {
+    "topic": "YouTube Premium is starting to feel like paying ransom for the old YouTube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1szs1qk/youtube_premium_is_starting_to_feel_like_paying/"
+  },
+  {
+    "topic": "The price is getting ridiculous",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t0ke9g/the_price_is_getting_ridiculous/"
   },
   {
     "topic": "Conservative media on Youtube always gets recommended whenever you search something leftist, liberal, skeptic, or atheist related",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0nprz/australias_richest_person_gifts_jet_to_farright/"
   },
   {
-    "topic": "\u2018Oil is literally falling from the sky\u2019: Russian town fears environmental disaster after Ukrainian drone strikes on refinery",
+    "topic": "Bloomberg: Ukrainian Drone Strikes Push Russian Oil Processing to Lowest Level Since 2009",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1szy0by/oil_is_literally_falling_from_the_sky_russian/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0q7vp/bloomberg_ukrainian_drone_strikes_push_russian/"
   },
   {
     "topic": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0ktam/free_talk_friday/"
   },
   {
-    "topic": "Japanese developer says they don't make games for Xbox because the console is 'not even stocked in major retail stores'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t01fd9/japanese_developer_says_they_dont_make_games_for/"
-  },
-  {
     "topic": "Kingdom Come devs respond to Lord of the Rings game rumour: \"I cannot disclose details but I can tell it is a huge, immersive RPG\"",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0pgb7/kingdom_come_devs_respond_to_lord_of_the_rings/"
+  },
+  {
+    "topic": "Japanese developer says they don't make games for Xbox because the console is 'not even stocked in major retail stores'",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t01fd9/japanese_developer_says_they_dont_make_games_for/"
   },
   {
     "topic": "This is my first 100% game.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,515 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 506,496 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R9lvYHDKMAs"
   },
   {
@@ -192,31 +192,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 234,145 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 247,195 views \u2022 ~708m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0PBuQCe4bkQ"
-  },
-  {
-    "topic": "Spider-Man Brand New Day Trailer & Opening Scene Breakdown",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 181,510 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GiM2JgN7YFo"
-  },
-  {
-    "topic": "FINE PLACE TO DIE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 94,567 views \u2022 ~708m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7BAOlyx2CJQ"
   },
   {
     "topic": "Tempo - Se Cayo Un \u00eddolo (Official Visualiser)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 67,111 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 69,299 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dTdtgRUmXH8"
   },
   {
@@ -224,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~55m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e3e6XdvfZ50"
   },
   {
@@ -232,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vpv9YGoKSAk"
   },
   {
@@ -240,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~184m old",
     "exampleUrl": "https://www.youtube.com/watch?v=IAKjhF7ffqY"
+  },
+  {
+    "topic": "Cadillac Championship, First Round",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wK-GkB52MYU"
   },
   {
     "topic": "Reunion Part 2",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XeInTeOOi6E"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~92m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aLj7EwBlMjo"
   },
   {
@@ -264,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZ2VvFAaQ-o"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=V3sAzv6qwVI"
   }
 ]
