@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1me5j/look_at_the_man_driving_the_tram/"
   },
   {
-    "topic": "The personalities of different high fashion parents.",
+    "topic": "I disconnected the stick",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1i63k/the_personalities_of_different_high_fashion/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1rl06/i_disconnected_the_stick/"
   },
   {
     "topic": "Why youtube?",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1zj36/why_youtube/"
+  },
+  {
+    "topic": "this made me realy happy :D",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t244uh/this_made_me_realy_happy_d/"
   },
   {
     "topic": "Why is this type of ad being allowed on YouTube?",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1m4ut/give_up_we_dont_see_you/"
-  },
-  {
-    "topic": "Unstoppable scroll VS Immovable title",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1cxwd/unstoppable_scroll_vs_immovable_title/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1528, Part 1 (Thread #1675)",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1qj12/uk_woman_wins_right_to_receive_permanent_birth/"
   },
   {
-    "topic": "\u201cMinions\u201d attempt to enter Scientology building amidst growing trend of Scientology Speed-runs, where minors force their way inside their buildings and map the facilities",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1t1smkc/minions_attempt_to_enter_scientology_building/"
-  },
-  {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1p1em/samson_got_me_nostalgic_for_those_90s_gas_prices/"
   },
   {
+    "topic": "Oh no! I am having too much fun! (Tomodachi life)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1r42b/oh_no_i_am_having_too_much_fun_tomodachi_life/"
+  },
+  {
     "topic": "PATI PATNI AUR WOH DO (Trailer): Ayushmann, Wamiqa, Sara, Rakul | Mudassar, Bhushan K, Juno | 15 May",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,329,332 views \u2022 ~668m old",
+    "why": "Trending on YouTube \u2022 2,359,890 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ceooxuS-sww"
   },
   {
@@ -192,39 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,457,324 views \u2022 ~580m old",
+    "why": "Trending on YouTube \u2022 1,525,660 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
+  },
+  {
+    "topic": "Skippa, Di Genius - Service | Hill & Gully Riddim (Official Music Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 62,297 views \u2022 ~338m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=17vcngBqKmg"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ug8LBfBKivk"
-  },
-  {
-    "topic": "Smerconish",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rjc7SdPWurk"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zfQ49f0WbGI"
   },
   {
-    "topic": "The Weekend",
+    "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XSOLyMXRUaw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~218m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rjc7SdPWurk"
   }
 ]
