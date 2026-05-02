@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Just a house",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0xc0r/just_a_house/"
-  },
-  {
     "topic": "Look at the expiry disclaimer",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t14q5b/look_at_the_expiry_disclaimer/"
+  },
+  {
+    "topic": "Just a house",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t0xc0r/just_a_house/"
   },
   {
     "topic": "Essential headwear for riding the Chengdu metro",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump says he will raise tariffs on EU autos to 25%",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0xz8t/trump_says_he_will_raise_tariffs_on_eu_autos_to_25/"
-  },
-  {
     "topic": "US withdrawing 5,000 troops from Germany, US officials say",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t172zk/us_withdrawing_5000_troops_from_germany_us/"
+  },
+  {
+    "topic": "Trump says he will raise tariffs on EU autos to 25%",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t0xz8t/trump_says_he_will_raise_tariffs_on_eu_autos_to_25/"
   },
   {
     "topic": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them With AI",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t10m3f/new_yorks_new_age_verification_law_will_ban/"
   },
   {
+    "topic": "Reggie says Nintendo stopped selling products on Amazon in the 2010s after they asked for financial support to undercut competitors' prices",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t186u4/reggie_says_nintendo_stopped_selling_products_on/"
+  },
+  {
     "topic": "It's been a year since release and Oblivion Remastered is still broken- Digital Foundry",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0x9ui/its_been_a_year_since_release_and_oblivion/"
   },
   {
-    "topic": "LEGO Batman: Legacy of the Dark Knight PC specs revealed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t0zhng/lego_batman_legacy_of_the_dark_knight_pc_specs/"
-  },
-  {
     "topic": "Chris Brown - Fallin' (Official Video) ft. Leon Thomas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 485,217 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 595,214 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-CepAYN0WyM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,637 views \u2022 ~361m old",
+    "why": "Trending on YouTube \u2022 217,075 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cemBjJ3Zx9Q"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 313,829 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 337,039 views \u2022 ~660m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QBvYXE6oZ64"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 106,637 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 121,255 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XXmo68IPryI"
+  },
+  {
+    "topic": "Hunxho - Change My Ways [Official Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 17,434 views \u2022 ~240m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BtrmD5Ky8Tg"
   },
   {
     "topic": "Denver Nuggets at Minnesota Timberwolves",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~574m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GeqQ41UAWRo"
   },
   {
@@ -224,15 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5gPPpiPD9WI"
   },
   {
-    "topic": "Dallas Stars at Minnesota Wild",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~710m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5rUwXBdTOs0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OaVbwik1hys"
   }
 ]
