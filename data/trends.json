@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Look at the man driving the tram",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1me5j/look_at_the_man_driving_the_tram/"
-  },
-  {
     "topic": "My dyslexia really had me double taking at the name of this coffee shop",
     "sources": [
       "reddit"
@@ -27,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1zhtb/my_dyslexia_really_had_me_double_taking_at_the/"
   },
   {
+    "topic": "Look at the man driving the tram",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1me5j/look_at_the_man_driving_the_tram/"
+  },
+  {
+    "topic": "I took a detour on my cross Canada drive to create this shit-post.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t229b6/i_took_a_detour_on_my_cross_canada_drive_to/"
+  },
+  {
     "topic": "The personalities of different high fashion parents.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1i63k/the_personalities_of_different_high_fashion/"
-  },
-  {
-    "topic": "I disconnected the stick",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1rl06/i_disconnected_the_stick/"
   },
   {
     "topic": "Why youtube?",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1r8rb/why_is_this_type_of_ad_being_allowed_on_youtube/"
   },
   {
-    "topic": "Give up, we don\u2019t see you",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1m4ut/give_up_we_dont_see_you/"
-  },
-  {
     "topic": "Any one else noticed this update?? \ud83d\udc40",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1urby/any_one_else_noticed_this_update/"
+  },
+  {
+    "topic": "Give up, we don\u2019t see you",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1m4ut/give_up_we_dont_see_you/"
   },
   {
     "topic": "Unstoppable scroll VS Immovable title",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1qj12/uk_woman_wins_right_to_receive_permanent_birth/"
   },
   {
-    "topic": "Ukraine strikes Russian airfield nearly 1,700 kilometers away, damages 4 fighter jets, military confirms",
+    "topic": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1q45v/ukraine_strikes_russian_airfield_nearly_1700/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1xu4u/us_bypasses_congressional_review_for_military/"
   },
   {
     "topic": "\u201cMinions\u201d attempt to enter Scientology building amidst growing trend of Scientology Speed-runs, where minors force their way inside their buildings and map the facilities",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1p1em/samson_got_me_nostalgic_for_those_90s_gas_prices/"
   },
   {
+    "topic": "STEAL A BRAINROT JOHN PORK UPDATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 505,690 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mW-kZupAtGg"
+  },
+  {
     "topic": "PATI PATNI AUR WOH DO (Trailer): Ayushmann, Wamiqa, Sara, Rakul | Mudassar, Bhushan K, Juno | 15 May",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,226,964 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 2,293,956 views \u2022 ~620m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ceooxuS-sww"
   },
   {
@@ -192,55 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,277,091 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 1,381,805 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
-  },
-  {
-    "topic": "Buffalo Sabres at Boston Bruins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aaYodJ7ZW1c"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ug8LBfBKivk"
-  },
-  {
-    "topic": "Tampa Bay Lightning at Montreal Canadiens",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~684m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jcro-0i4o1Q"
   },
   {
     "topic": "Cadillac Championship, Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~647m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vVcSVZbcgj0"
-  },
-  {
-    "topic": "Klondike Shoot-Out",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~696m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cWEhkUfrk34"
   },
   {
     "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rjc7SdPWurk"
   },
   {
@@ -248,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zfQ49f0WbGI"
   }
 ]
