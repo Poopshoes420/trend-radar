@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1zhtb/my_dyslexia_really_had_me_double_taking_at_the/"
   },
   {
-    "topic": "Look at the man driving the tram",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1me5j/look_at_the_man_driving_the_tram/"
-  },
-  {
     "topic": "I took a detour on my cross Canada drive to create this shit-post.",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t229b6/i_took_a_detour_on_my_cross_canada_drive_to/"
+  },
+  {
+    "topic": "Look at the man driving the tram",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1me5j/look_at_the_man_driving_the_tram/"
   },
   {
     "topic": "The personalities of different high fashion parents.",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1xu4u/us_bypasses_congressional_review_for_military/"
+  },
+  {
     "topic": "It's official: No woman in England or Wales can be prosecuted for an abortion any more",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1qj12/uk_woman_wins_right_to_receive_permanent_birth/"
-  },
-  {
-    "topic": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1xu4u/us_bypasses_congressional_review_for_military/"
   },
   {
     "topic": "\u201cMinions\u201d attempt to enter Scientology building amidst growing trend of Scientology Speed-runs, where minors force their way inside their buildings and map the facilities",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1p1em/samson_got_me_nostalgic_for_those_90s_gas_prices/"
   },
   {
-    "topic": "STEAL A BRAINROT JOHN PORK UPDATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 505,690 views \u2022 ~104m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mW-kZupAtGg"
-  },
-  {
     "topic": "PATI PATNI AUR WOH DO (Trailer): Ayushmann, Wamiqa, Sara, Rakul | Mudassar, Bhushan K, Juno | 15 May",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,293,956 views \u2022 ~620m old",
+    "why": "Trending on YouTube \u2022 2,329,332 views \u2022 ~668m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ceooxuS-sww"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,381,805 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 1,457,324 views \u2022 ~580m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zw_HE1mQ7rA"
   },
   {
@@ -208,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ug8LBfBKivk"
-  },
-  {
-    "topic": "Cadillac Championship, Second Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vVcSVZbcgj0"
   },
   {
     "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rjc7SdPWurk"
   },
   {
@@ -232,7 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~598m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zfQ49f0WbGI"
+  },
+  {
+    "topic": "The Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~74m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XSOLyMXRUaw"
   }
 ]
