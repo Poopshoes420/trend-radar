@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2brsr/every_single_living_for_24_hours_video/"
   },
   {
-    "topic": "You're telling me, YouTube is advertising YouTube in YouTube??",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1z2et/youre_telling_me_youtube_is_advertising_youtube/"
-  },
-  {
     "topic": "Another price increase???",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2cdeg/another_price_increase/"
+  },
+  {
+    "topic": "You're telling me, YouTube is advertising YouTube in YouTube??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1z2et/youre_telling_me_youtube_is_advertising_youtube/"
   },
   {
     "topic": "Why is this type of ad being allowed on YouTube?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t25ze1/trump_says_us_will_reduce_number_of_troops_in/"
   },
   {
-    "topic": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1xu4u/us_bypasses_congressional_review_for_military/"
-  },
-  {
     "topic": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
     "sources": [
       "reddit"
@@ -135,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2bsos/germany_says_us_troop_withdrawal_anticipated/"
   },
   {
-    "topic": "A visibly emotional Anne Hathaway responds to a trans kid who named herself Ella after Ella Enchanted, and thanked Hathaway for her courage as an ally. Hathaway replies, \"Ella, sweetie, I want to make something absolutely clear: It takes zero courage to love you\"",
+    "topic": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1t239ph/a_visibly_emotional_anne_hathaway_responds_to_a/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1xu4u/us_bypasses_congressional_review_for_military/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,35 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1q29z/castlevania_belmonts_curse_exists_because_konami/"
   },
   {
-    "topic": "HAPPY SATURDAY",
+    "topic": "I recreated Marina Bay Sands in Minecraft!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1yjee/i_recreated_marina_bay_sands_in_minecraft/"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | GAMBLE WITH YOUR FRIENDS | PARTY GAME NIGHT | #FartInMyRectalRegion #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 387,449 views \u2022 ~285m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bpaBKEtt7Q0"
+    "why": "Trending on YouTube \u2022 461,496 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CfRr58tnrds"
   },
   {
     "topic": "Marvel T\u014dkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,036 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 309,390 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AFdxKvplq9M"
-  },
-  {
-    "topic": "ROBLOX SAVE GIRLFRIEND FROM LAVA..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 289,930 views \u2022 ~542m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TS1SOrqqYPM"
   },
   {
     "topic": "Hermitcraft 11: Episode 16 - THE OBSERVATORY!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 262,234 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 310,337 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x9EAMqDJva0"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,269 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 236,724 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V2QqK0xDlqc"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,784 views \u2022 ~191m old",
+    "why": "Trending on YouTube \u2022 71,766 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
   },
   {
@@ -232,47 +224,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
-  },
-  {
-    "topic": "Kentucky Derby Prep",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=faAMJkRMF4k"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hEMnpbtievI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LWhtyP-jHiQ"
   },
   {
-    "topic": "The Bourne Ultimatum",
+    "topic": "Cincinnati Reds at Pittsburgh Pirates",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pvaQoA-J7vw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=awMajIsk9C0"
   },
   {
-    "topic": "John Wick: Chapter 2",
+    "topic": "Kentucky Derby Prep",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Msj9wY4K0iA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~420m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=faAMJkRMF4k"
   },
   {
-    "topic": "Velshi",
+    "topic": "The Bourne Supremacy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~447m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=THw8GT4BIKI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dfyBpw_x7RQ"
+  },
+  {
+    "topic": "John Wick: Chapter 3 -- Parabellum",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=w2gBD_4i48o"
+  },
+  {
+    "topic": "Going Yard in Boston",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gppWTOxiVmI"
+  },
+  {
+    "topic": "Dumb & Dumber",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wgiTSrXm0vg"
   }
 ]
