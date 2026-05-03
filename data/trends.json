@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "What a nosy fish!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2jbws/what_a_nosy_fish/"
+  },
+  {
+    "topic": "Contributor",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2knik/contributor/"
+  },
+  {
     "topic": "Found this shirt in my dad\u2019s closet after he passed. He was a senior, lol.",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t26f6r/found_this_shirt_in_my_dads_closet_after_he/"
-  },
-  {
-    "topic": "I took a detour on my cross Canada drive to create this shit-post.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t229b6/i_took_a_detour_on_my_cross_canada_drive_to/"
-  },
-  {
-    "topic": "My dyslexia really had me double taking at the name of this coffee shop",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t1zhtb/my_dyslexia_really_had_me_double_taking_at_the/"
   },
   {
     "topic": "Why youtube?",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1zj36/why_youtube/"
   },
   {
-    "topic": "Every single living for 24 hours video",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2brsr/every_single_living_for_24_hours_video/"
-  },
-  {
     "topic": "Another price increase???",
     "sources": [
       "reddit"
@@ -72,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2cdeg/another_price_increase/"
   },
   {
-    "topic": "You're telling me, YouTube is advertising YouTube in YouTube??",
+    "topic": "Every single living for 24 hours video",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1z2et/youre_telling_me_youtube_is_advertising_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2brsr/every_single_living_for_24_hours_video/"
   },
   {
     "topic": "Gonna make cookies. Is this the best video out there?",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2h8i4/gonna_make_cookies_is_this_the_best_video_out/"
+  },
+  {
+    "topic": "You're telling me, YouTube is advertising YouTube in YouTube??",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1z2et/youre_telling_me_youtube_is_advertising_youtube/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1529, Part 1 (Thread #1676)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2fwyy/post_oct_7_world_israel_to_purchase_100_f35s_50/"
   },
   {
-    "topic": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
+    "topic": "Ukraine on Sunday launched a wave of strikes against Russian oil targets, hitting a key loading port on the Baltic Sea and two tankers that Ukraine alleges were illegally used to transport Russian crude",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1xu4u/us_bypasses_congressional_review_for_military/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2kajd/ukraine_on_sunday_launched_a_wave_of_strikes/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2awm4/robloxs_new_tos_forces_us_users_to_waive_their/"
   },
   {
+    "topic": "$7.85M Sony Antitrust Settlement Over Alleged Digital PlayStation Games Monopoly Approved by Court",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2et93/785m_sony_antitrust_settlement_over_alleged/"
+  },
+  {
     "topic": "Castlevania: Belmont's Curse exists because Konami loved Evil Empire's Dead Cells crossover pitch, even though the devs thought the DLC was \"too big\" and the publisher would \"never say yes\"",
     "sources": [
       "reddit"
@@ -171,36 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1q29z/castlevania_belmonts_curse_exists_because_konami/"
   },
   {
-    "topic": "Even tho I can\u2019t download you. You will always be on my phone.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t1hyqc/even_tho_i_cant_download_you_you_will_always_be/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | GAMBLE WITH YOUR FRIENDS | PARTY GAME NIGHT | #FartInMyRectalRegion #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 492,314 views \u2022 ~273m old",
+    "why": "Trending on YouTube \u2022 501,140 views \u2022 ~377m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CfRr58tnrds"
-  },
-  {
-    "topic": "Marvel T\u014dkon: Fighting Souls - Fighting Avengers Trailer | PS5 & PC Games",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 362,923 views \u2022 ~634m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AFdxKvplq9M"
   },
   {
     "topic": "Olivia Rodrigo - begged (Saturday Night Live/2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 161,117 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 230,502 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wwEUB7jqS88"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 109,029 views \u2022 ~474m old",
+    "why": "Trending on YouTube \u2022 127,683 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-GKwwbwee3E"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~262m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uRmbrP-tMAA"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~393m old",
     "exampleUrl": "https://www.youtube.com/watch?v=awMajIsk9C0"
   },
   {
@@ -256,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=faAMJkRMF4k"
+  },
+  {
+    "topic": "The Devil Wears Prada",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eMw1uzY_6yg"
   },
   {
     "topic": "Real Time With Bill Maher",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8NOPaN_GH5c"
   },
   {
@@ -272,39 +272,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~192m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YFViaRUPwqc"
   },
   {
-    "topic": "The Devil Wears Prada",
+    "topic": "Philadelphia 76ers at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=g9PP9RNK1Ys"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=V_05LLN4JXY"
   },
   {
     "topic": "Philadelphia Phillies at Miami Marlins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e4TMN8FZ3CE"
-  },
-  {
-    "topic": "Room for His Ego",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=13HVPNnNEAU"
   },
   {
     "topic": "Kentucky Roses",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M4pvk628B2w"
   }
 ]
