@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "What a nosy fish!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2jbws/what_a_nosy_fish/"
-  },
-  {
     "topic": "Just walk away bro, he ain't even worth it...",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2r4cg/just_walk_away_bro_he_aint_even_worth_it/"
+  },
+  {
+    "topic": "What a nosy fish!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2jbws/what_a_nosy_fish/"
   },
   {
     "topic": "Contributor",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2cdeg/another_price_increase/"
   },
   {
-    "topic": "I HATE THESE COMMENTS",
+    "topic": "Ok these christian replies preaching in the comment sections of unrelated videos are getting annoying",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2je4d/i_hate_these_comments/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2vg9b/ok_these_christian_replies_preaching_in_the/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1529, Part 1 (Thread #1676)",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukraine on Sunday launched a wave of strikes against Russian oil targets, hitting a key loading port on the Baltic Sea and two tankers that Ukraine alleges were illegally used to transport Russian crude",
+    "topic": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2kajd/ukraine_on_sunday_launched_a_wave_of_strikes/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2ukyf/three_dead_in_suspected_hantavirus_outbreak_on/"
   },
   {
     "topic": "Two die in \u2018respiratory illness\u2019 outbreak on Atlantic cruise ship - Jamaica Observer",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2sjln/two_die_in_respiratory_illness_outbreak_on/"
   },
   {
-    "topic": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+    "topic": "Ukraine on Sunday launched a wave of strikes against Russian oil targets, hitting a key loading port on the Baltic Sea and two tankers that Ukraine alleges were illegally used to transport Russian crude",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2ukyf/three_dead_in_suspected_hantavirus_outbreak_on/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2kajd/ukraine_on_sunday_launched_a_wave_of_strikes/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2hzuh/gta_boss_refuses_to_commit_to_a_price_as_100/"
   },
   {
-    "topic": "Robloxs new TOS forces U.S users to waive their suing right",
+    "topic": "GDDR6 Under Pressure: Tesla's Hunger for Memory Could Hit the PS5, PS5 Pro, and Older Gaming GPUs Hard",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2awm4/robloxs_new_tos_forces_us_users_to_waive_their/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2twqa/gddr6_under_pressure_teslas_hunger_for_memory/"
   },
   {
     "topic": "Steam just made a lot of people mad..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 186,217 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 235,908 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8eM77a9iwus"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 163,170 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 197,651 views \u2022 ~301m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JPBuRIQvgEE"
+  },
+  {
+    "topic": "SCRATCH-OFFS WILL MAKE ME RICH [Scritchy Scratchy]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 82,792 views \u2022 ~218m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
   },
   {
     "topic": "Best Christian Worship Songs 2026 \u271d\ufe0f | Hillsong Praise & Gospel Worship Playlist",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 50,318 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 55,170 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n7uLa_0evSU"
   },
   {
@@ -208,15 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zdndSA6IttY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lzZfOewa7R8"
   },
   {
     "topic": "Philadelphia 76ers at Boston Celtics",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GWE92iZ20IA"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~609m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-GKwwbwee3E"
   },
   {
@@ -232,15 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
   },
   {
-    "topic": "The Devil Wears Prada",
+    "topic": "SportsCenter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eMw1uzY_6yg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YKr_9HBjYok"
   }
 ]
