@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1z2et/youre_telling_me_youtube_is_advertising_youtube/"
   },
   {
-    "topic": "So I got premium for free",
+    "topic": "Gonna make cookies. Is this the best video out there?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t22tdq/so_i_got_premium_for_free/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2h8i4/gonna_make_cookies_is_this_the_best_video_out/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1529, Part 1 (Thread #1676)",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2d4ok/simple_questions_sunday/"
   },
   {
-    "topic": "Robloxs new TOS forces U.S users to waive their suing right",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2awm4/robloxs_new_tos_forces_us_users_to_waive_their/"
-  },
-  {
     "topic": "GTA boss refuses to commit to a price as $100 price-tag rumours loom large",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2hzuh/gta_boss_refuses_to_commit_to_a_price_as_100/"
+  },
+  {
+    "topic": "Robloxs new TOS forces U.S users to waive their suing right",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2awm4/robloxs_new_tos_forces_us_users_to_waive_their/"
   },
   {
     "topic": "Castlevania: Belmont's Curse exists because Konami loved Evil Empire's Dead Cells crossover pitch, even though the devs thought the DLC was \"too big\" and the publisher would \"never say yes\"",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 488,250 views \u2022 ~225m old",
+    "why": "Trending on YouTube \u2022 492,314 views \u2022 ~273m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CfRr58tnrds"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 352,171 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 362,923 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AFdxKvplq9M"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,615 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 161,117 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wwEUB7jqS88"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 100,571 views \u2022 ~426m old",
+    "why": "Trending on YouTube \u2022 109,029 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
+  },
+  {
+    "topic": "Philadelphia Flyers at Carolina Hurricanes",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-GKwwbwee3E"
   },
   {
     "topic": "Cadillac Championship, Third Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uRmbrP-tMAA"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
     "exampleUrl": "https://www.youtube.com/watch?v=awMajIsk9C0"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~599m old",
     "exampleUrl": "https://www.youtube.com/watch?v=faAMJkRMF4k"
   },
   {
@@ -256,31 +264,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8NOPaN_GH5c"
+  },
+  {
+    "topic": "Sixers Postgame Live",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YFViaRUPwqc"
   },
   {
     "topic": "The Devil Wears Prada",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g9PP9RNK1Ys"
-  },
-  {
-    "topic": "152nd Kentucky Derby",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Cbpx3p1isLc"
   },
   {
     "topic": "Philadelphia Phillies at Miami Marlins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e4TMN8FZ3CE"
   },
   {
@@ -288,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~131m old",
     "exampleUrl": "https://www.youtube.com/watch?v=13HVPNnNEAU"
   },
   {
@@ -296,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M4pvk628B2w"
   }
 ]
