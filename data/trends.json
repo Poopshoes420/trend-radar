@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2knik/contributor/"
   },
   {
-    "topic": "Meet Ferdinand. It\u2019s my calf",
+    "topic": "this little fur got his mind blown",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2vipl/meet_ferdinand_its_my_calf/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2vmh3/this_little_fur_got_his_mind_blown/"
   },
   {
     "topic": "why is every thumbnail cropped?",
@@ -52,15 +52,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2k2g1/why_is_every_thumbnail_cropped/"
-  },
-  {
-    "topic": "Why youtube?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1zj36/why_youtube/"
   },
   {
     "topic": "Gonna make cookies. Is this the best video out there?",
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2vg9b/ok_these_christian_replies_preaching_in_the/"
+  },
+  {
+    "topic": "Why youtube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1zj36/why_youtube/"
   },
   {
     "topic": "Its not often, but it ruined the short",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,056 views \u2022 ~220m old",
+    "why": "Trending on YouTube \u2022 361,189 views \u2022 ~276m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 321,492 views \u2022 ~353m old",
+    "why": "Trending on YouTube \u2022 361,216 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8eM77a9iwus"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 255,478 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 276,328 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JPBuRIQvgEE"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,076 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 156,334 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QmfN4s1gUwo"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lzZfOewa7R8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GWE92iZ20IA"
   },
   {
@@ -232,15 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nsCiw8WqH98"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Lsof3xrNIu0"
   },
   {
     "topic": "Fareed Zakaria GPS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=smsnslMdRN4"
+  },
+  {
+    "topic": "The Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=HPwuy6NJtwk"
+  },
+  {
+    "topic": "Apps Made Easy",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hp3LLcHJIh8"
   }
 ]
