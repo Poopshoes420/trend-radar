@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2knik/contributor/"
   },
   {
-    "topic": "One of the funniest lines in TV history",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t29y20/one_of_the_funniest_lines_in_tv_history/"
-  },
-  {
     "topic": "Work call [OC]",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2mkc5/work_call_oc/"
+  },
+  {
+    "topic": "One of the funniest lines in TV history",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t29y20/one_of_the_funniest_lines_in_tv_history/"
   },
   {
     "topic": "why is every thumbnail cropped?",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2cdeg/another_price_increase/"
   },
   {
-    "topic": "Every single living for 24 hours video",
+    "topic": "I HATE THESE COMMENTS",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2brsr/every_single_living_for_24_hours_video/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2je4d/i_hate_these_comments/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1529, Part 1 (Thread #1676)",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2hzuh/gta_boss_refuses_to_commit_to_a_price_as_100/"
   },
   {
+    "topic": "I turned RDR2 into a space sim, using only dynamite as fuel.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2r2mt/i_turned_rdr2_into_a_space_sim_using_only/"
+  },
+  {
     "topic": "Robloxs new TOS forces U.S users to waive their suing right",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2awm4/robloxs_new_tos_forces_us_users_to_waive_their/"
   },
   {
-    "topic": "$7.85M Sony Antitrust Settlement Over Alleged Digital PlayStation Games Monopoly Approved by Court",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2et93/785m_sony_antitrust_settlement_over_alleged/"
-  },
-  {
     "topic": "\ud83d\udd34LIVE | GAMBLE WITH YOUR FRIENDS | PARTY GAME NIGHT | #FartInMyRectalRegion #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 511,643 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 517,155 views \u2022 ~600m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CfRr58tnrds"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 383,495 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 449,138 views \u2022 ~622m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wwEUB7jqS88"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 26,986 views \u2022 ~384m old",
+    "why": "Trending on YouTube \u2022 34,504 views \u2022 ~444m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n7uLa_0evSU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GWE92iZ20IA"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~386m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~446m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-GKwwbwee3E"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
     "exampleUrl": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~474m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uRmbrP-tMAA"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=awMajIsk9C0"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~338m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eMw1uzY_6yg"
   },
   {
@@ -256,15 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~533m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8NOPaN_GH5c"
-  },
-  {
-    "topic": "Philadelphia Phillies at Miami Marlins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e4TMN8FZ3CE"
   }
 ]
