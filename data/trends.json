@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I took a detour on my cross Canada drive to create this shit-post.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t229b6/i_took_a_detour_on_my_cross_canada_drive_to/"
-  },
-  {
     "topic": "Found this shirt in my dad\u2019s closet after he passed. He was a senior, lol.",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t26f6r/found_this_shirt_in_my_dads_closet_after_he/"
+  },
+  {
+    "topic": "I took a detour on my cross Canada drive to create this shit-post.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t229b6/i_took_a_detour_on_my_cross_canada_drive_to/"
   },
   {
     "topic": "My dyslexia really had me double taking at the name of this coffee shop",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1z2et/youre_telling_me_youtube_is_advertising_youtube/"
   },
   {
-    "topic": "Why is this type of ad being allowed on YouTube?",
+    "topic": "So I got premium for free",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t1r8rb/why_is_this_type_of_ad_being_allowed_on_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t22tdq/so_i_got_premium_for_free/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1529, Part 1 (Thread #1676)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 461,496 views \u2022 ~94m old",
+    "why": "Trending on YouTube \u2022 483,620 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CfRr58tnrds"
   },
   {
@@ -192,31 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 309,390 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 335,000 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AFdxKvplq9M"
   },
   {
-    "topic": "Hermitcraft 11: Episode 16 - THE OBSERVATORY!",
+    "topic": "Olivia Rodrigo - begged (Saturday Night Live/2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 310,337 views \u2022 ~597m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=x9EAMqDJva0"
-  },
-  {
-    "topic": "I Opened A Nighttime Barber Shop\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 236,724 views \u2022 ~657m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=V2QqK0xDlqc"
+    "why": "Trending on YouTube \u2022 96,118 views \u2022 ~190m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wwEUB7jqS88"
   },
   {
     "topic": "MAX REACTS: Hulk and Black Panther Trailer - Marvel TOKON",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 71,766 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 89,398 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZAAjFdJiuC8"
   },
   {
@@ -224,23 +216,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~423m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oLy3IrtvG9s"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "The Bourne Identity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LWhtyP-jHiQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~54m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=n1ONFcIUcMg"
+  },
+  {
+    "topic": "My View With Lara Trump",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6HK2Za4SKJE"
   },
   {
     "topic": "Cincinnati Reds at Pittsburgh Pirates",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=awMajIsk9C0"
   },
   {
@@ -248,39 +248,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~494m old",
     "exampleUrl": "https://www.youtube.com/watch?v=faAMJkRMF4k"
   },
   {
-    "topic": "The Bourne Supremacy",
+    "topic": "Real Time With Bill Maher",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dfyBpw_x7RQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8NOPaN_GH5c"
   },
   {
-    "topic": "John Wick: Chapter 3 -- Parabellum",
+    "topic": "The Devil Wears Prada",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=w2gBD_4i48o"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g9PP9RNK1Ys"
   },
   {
-    "topic": "Going Yard in Boston",
+    "topic": "152nd Kentucky Derby",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gppWTOxiVmI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Cbpx3p1isLc"
+  },
+  {
+    "topic": "Philadelphia Phillies at Miami Marlins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e4TMN8FZ3CE"
+  },
+  {
+    "topic": "The Weekend: Primetime",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aQPsxAEB9vA"
   },
   {
     "topic": "Dumb & Dumber",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wgiTSrXm0vg"
   }
 ]
