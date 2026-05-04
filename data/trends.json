@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Absolute Cinema",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t3760x/absolute_cinema/"
+  },
+  {
     "topic": "Just walk away bro, he ain't even worth it...",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2vmh3/this_little_fur_got_his_mind_blown/"
-  },
-  {
-    "topic": "What a nosy fish!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t2jbws/what_a_nosy_fish/"
   },
   {
     "topic": "why is every thumbnail cropped?",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2w1n9/its_not_often_but_it_ruined_the_short/"
   },
   {
+    "topic": "Found youtube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t30vl2/found_youtube/"
+  },
+  {
     "topic": "Ok these christian replies preaching in the comment sections of unrelated videos are getting annoying",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2vg9b/ok_these_christian_replies_preaching_in_the/"
-  },
-  {
-    "topic": "Gonna make cookies. Is this the best video out there?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t2h8i4/gonna_make_cookies_is_this_the_best_video_out/"
   },
   {
     "topic": "The US is no longer the leader: Germany has become the largest ammunition producer in the world",
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t2w6p6/iran_has_proposed_a_14point_plan_to_the_us_to_end/"
   },
   {
-    "topic": "Simple Questions Sunday!",
+    "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2d4ok/simple_questions_sunday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t394t3/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "GameStop Proposes to Acquire eBay at $125.00 Per Share",
@@ -171,44 +171,28 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2n1jp/the_gamecubes_octagonal_thumbstick_gate_should_be/"
   },
   {
-    "topic": "GTA boss refuses to commit to a price as $100 price-tag rumours loom large",
+    "topic": "What\u2019s a game you dropped even though it was \u201cgood\u201d?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t2hzuh/gta_boss_refuses_to_commit_to_a_price_as_100/"
-  },
-  {
-    "topic": "DO NOT Dig A Hole With Your Friends",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 778,467 views \u2022 ~621m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=TVMPKzKvl1c"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t36atf/whats_a_game_you_dropped_even_though_it_was_good/"
   },
   {
     "topic": "Garry's Mod 2 Is Finally Here!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 216,019 views \u2022 ~243m old",
+    "why": "Trending on YouTube \u2022 364,378 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y9_CoUFAehE"
-  },
-  {
-    "topic": "This game HATES ROBLOX.",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 379,497 views \u2022 ~530m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2J1N9ZyBEss"
   },
   {
     "topic": "ROBLOX SHOOT A LUCKY BLOCK..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 207,708 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 328,606 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UpTyRYKWi0I"
   },
   {
@@ -216,47 +200,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 151,609 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 205,375 views \u2022 ~606m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vU2_3SHFjOk"
   },
   {
-    "topic": "Texas",
+    "topic": "Our Season Comes Down To ONE Play! Wheel of MUT! Ep. #62",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XBNWcwmy-G8"
+    "why": "Trending on YouTube \u2022 191,878 views \u2022 ~607m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-UZzAd3BzRk"
+  },
+  {
+    "topic": "Wurth 400",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SNEzHZ_XMD4"
   },
   {
     "topic": "The Big Weekend Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZW4NAiYFyd4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RCeMbKcRA9g"
+  },
+  {
+    "topic": "Inside the NBA",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=asGW53nXt6U"
+  },
+  {
+    "topic": "Manchester United vs. Liverpool",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dI-ImqqUw0k"
+  },
+  {
+    "topic": "Philadelphia Phillies at Miami Marlins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PYbL2pqNmvQ"
+  },
+  {
+    "topic": "2026 AKC Diving Dogs Premier Cup",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x5_s6UlNZxI"
+  },
+  {
+    "topic": "Ole Miss at Arkansas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2UU0P_eu8gA"
   },
   {
     "topic": "CNN Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZtBr7kz2Ftc"
   },
   {
-    "topic": "SportsCenter",
+    "topic": "New York Liberty at Connecticut Sun",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xCEGtB9hWXU"
-  },
-  {
-    "topic": "Die Hard",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~207m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9H24Onv7PWY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ksHkEoXlPTs"
   }
 ]
