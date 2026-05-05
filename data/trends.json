@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "My wife is sick in bed and my son snuck a googly eye on her toe since yesterday and its still there",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4gpiu/my_wife_is_sick_in_bed_and_my_son_snuck_a_googly/"
-  },
-  {
     "topic": "Generational lock in",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4fu9t/turns_out_the_never_did_touch_his_penis/"
+  },
+  {
+    "topic": "That's not how a carrier pigeon works!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4ao7k/thats_not_how_a_carrier_pigeon_works/"
   },
   {
     "topic": "You know it's bad when you have to do this",
@@ -180,35 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4ia2f/my_cyberpunk_minecraft_city_i_built_called/"
   },
   {
-    "topic": "Tony | Official Trailer HD | A24",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 148,836 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
-  },
-  {
     "topic": "UFC 6 Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 35,566 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 151,232 views \u2022 ~204m old",
     "exampleUrl": "https://www.youtube.com/watch?v=T2MP_T2e-aU"
+  },
+  {
+    "topic": "Tony | Official Trailer HD | A24",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 201,285 views \u2022 ~319m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+  },
+  {
+    "topic": "UFC 6 TRAILER REACTION LIVE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 36,393 views \u2022 ~109m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Wzi9izGQYjA"
   },
   {
     "topic": "EA Sports UFC 6 - Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,538 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 32,518 views \u2022 ~185m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_JCbyCf2BnI"
+  },
+  {
+    "topic": "Dutton Ranch | Official Trailer | Paramount+",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 23,434 views \u2022 ~199m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=19I5a1tRt98"
   },
   {
     "topic": "Minnesota Timberwolves at San Antonio Spurs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~75m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PZ2GHuVZCu0"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~344m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HdlRZpzB0U4"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~692m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nSTdFQEsnWk"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~437m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eVsmWJbhvC0"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~523m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D5IncOJWWE8"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~443m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gLdsJ2NG_L8"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sxrsnzCdmSk"
   },
   {
@@ -264,15 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ajNhCK1Fvrg"
-  },
-  {
-    "topic": "Goin' to the Chapel",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=VyFmrqCzuHY"
   }
 ]
