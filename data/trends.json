@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Bro is so addicted",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4dp1b/bro_is_so_addicted/"
+  },
+  {
     "topic": "How to Train Your Dragon: The Perfect Re-enactment",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4ao7k/thats_not_how_a_carrier_pigeon_works/"
   },
   {
-    "topic": "Dragon Ball",
+    "topic": "What happened to leafy?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t49ozr/dragon_ball/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3xvdm/what_happened_to_leafy/"
   },
   {
     "topic": "\"Boohoo I can't make money off of someone else's content boohoohoo\"",
@@ -52,15 +61,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3q84c/boohoo_i_cant_make_money_off_of_someone_elses/"
-  },
-  {
-    "topic": "What happened to leafy?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3xvdm/what_happened_to_leafy/"
   },
   {
     "topic": "Yet we're all still here...",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t436q5/anyone_else_tired_of_members_only_videos_in_their/"
   },
   {
-    "topic": "THE ADS ARE FUCKING OUT OF HAND!",
+    "topic": "Whats up with these faces?!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3ys1z/the_ads_are_fucking_out_of_hand/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t454ld/whats_up_with_these_faces/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1531, Part 1 (Thread #1678)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "2 U.S. Navy destroyers transit Strait of Hormuz after dodging Iranian onslaught",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t41c1s/2_us_navy_destroyers_transit_strait_of_hormuz/"
-  },
-  {
     "topic": "South Korean-operated vessel ablaze in Strait of Hormuz; Trump says Iran fired at ship",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t42y6f/south_koreanoperated_vessel_ablaze_in_strait_of/"
   },
   {
-    "topic": "Oil prices jump 6% as Iran sets UAE oil port ablaze, strikes vessels in Strait of Hormuz",
+    "topic": "2 U.S. Navy destroyers transit Strait of Hormuz after dodging Iranian onslaught",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3v09b/oil_prices_jump_6_as_iran_sets_uae_oil_port/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t41c1s/2_us_navy_destroyers_transit_strait_of_hormuz/"
+  },
+  {
+    "topic": "Human-to-human transmission suspected on board hantavirus cruise ship, WHO says | CNN",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t4bfcx/humantohuman_transmission_suspected_on_board/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t3tdzh/new_super_smash_bros_reportedly_releasing_as/"
   },
   {
+    "topic": "still don't get how paying for online on console is just, ok?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4dszv/still_dont_get_how_paying_for_online_on_console/"
+  },
+  {
     "topic": "007 First Light\u2019s campaign will last roughly 20 hours long",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t3oaaq/007_first_lights_campaign_will_last_roughly_20/"
   },
   {
-    "topic": "PSA: check your the batteries in your old games consoles",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t3jihn/psa_check_your_the_batteries_in_your_old_games/"
-  },
-  {
     "topic": "The Odyssey | Official New Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,975,726 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 2,394,399 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_bKjZeJBBI"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,668 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 62,037 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWWBv8utcLs"
+  },
+  {
+    "topic": "Philadelphia Flyers at Carolina Hurricanes",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~82m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NBDBxqTd1ps"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~372m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nSTdFQEsnWk"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eVsmWJbhvC0"
   },
   {
@@ -216,15 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D5IncOJWWE8"
+  },
+  {
+    "topic": "Philadelphia Phillies at Miami Marlins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gLdsJ2NG_L8"
   },
   {
     "topic": "The Rachel Maddow Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~237m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sxrsnzCdmSk"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~252m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VyFmrqCzuHY"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~276m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P9vHV8II_h8"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tshjBkehQxs"
   },
   {
@@ -256,23 +272,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~340m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XlAVMYvsKdQ"
   },
   {
-    "topic": "SportsCenter",
+    "topic": "American Graffiti",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1Lf7Gt29XVg"
-  },
-  {
-    "topic": "The Fugitive",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=idEWfom4enY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PaGFAlCK2w0"
   }
 ]
