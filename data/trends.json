@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "Generational lock in",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t49qfg/generational_lock_in/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "How to Train Your Dragon: The Perfect Re-enactment",
@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t3u9ik/how_to_train_your_dragon_the_perfect_reenactment/"
   },
   {
-    "topic": "Happy Star Wars Day, everyone!",
+    "topic": "That's not how a carrier pigeon works!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t3t7k5/happy_star_wars_day_everyone/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4ao7k/thats_not_how_a_carrier_pigeon_works/"
   },
   {
     "topic": "Dragon Ball",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t42nrl/yet_were_all_still_here/"
   },
   {
-    "topic": "THE ADS ARE FUCKING OUT OF HAND!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3ys1z/the_ads_are_fucking_out_of_hand/"
-  },
-  {
     "topic": "Anyone Else Tired of \u201cMembers Only\u201d Videos in Their Public Feeds?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t436q5/anyone_else_tired_of_members_only_videos_in_their/"
+  },
+  {
+    "topic": "THE ADS ARE FUCKING OUT OF HAND!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3ys1z/the_ads_are_fucking_out_of_hand/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1531, Part 1 (Thread #1678)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t41c1s/2_us_navy_destroyers_transit_strait_of_hormuz/"
   },
   {
-    "topic": "Oil prices jump 6% as Iran sets UAE oil port ablaze, strikes vessels in Strait of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3v09b/oil_prices_jump_6_as_iran_sets_uae_oil_port/"
-  },
-  {
     "topic": "South Korean-operated vessel ablaze in Strait of Hormuz; Trump says Iran fired at ship",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t42y6f/south_koreanoperated_vessel_ablaze_in_strait_of/"
+  },
+  {
+    "topic": "Oil prices jump 6% as Iran sets UAE oil port ablaze, strikes vessels in Strait of Hormuz",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3v09b/oil_prices_jump_6_as_iran_sets_uae_oil_port/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,578,276 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 1,975,726 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f_bKjZeJBBI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,145 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 57,668 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BWWBv8utcLs"
   },
   {
@@ -200,23 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~213m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~298m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nSTdFQEsnWk"
+  },
+  {
+    "topic": "Milwaukee Brewers at St. Louis Cardinals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eVsmWJbhvC0"
   },
   {
     "topic": "Met Gala 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D5IncOJWWE8"
+  },
+  {
+    "topic": "The Rachel Maddow Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sxrsnzCdmSk"
   },
   {
     "topic": "Goin' to the Chapel",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VyFmrqCzuHY"
   },
   {
@@ -224,31 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P9vHV8II_h8"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1TrG_J5q_wM"
-  },
-  {
-    "topic": "CNN Global Report: War With Iran",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xG8a5AoncJw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tshjBkehQxs"
   },
   {
     "topic": "The Act of Orbiting",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XlAVMYvsKdQ"
   },
   {
@@ -256,7 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Lf7Gt29XVg"
+  },
+  {
+    "topic": "The Fugitive",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~230m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=idEWfom4enY"
   }
 ]
