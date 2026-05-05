@@ -27,22 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t49qfg/generational_lock_in/"
   },
   {
-    "topic": "That's not how a carrier pigeon works!",
+    "topic": "Such a nice looking hive...",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4ao7k/thats_not_how_a_carrier_pigeon_works/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4tx63/such_a_nice_looking_hive/"
   },
   {
-    "topic": "Eating eggs is gay... only after 11am that is.",
+    "topic": "Dude farts on live tv while riding an exercise bike",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4nwti/eating_eggs_is_gay_only_after_11am_that_is/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4uc21/dude_farts_on_live_tv_while_riding_an_exercise/"
   },
   {
     "topic": "Actually wtf is this ad that\u2019s always on my YouTube home page",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3xvdm/what_happened_to_leafy/"
   },
   {
+    "topic": "YouTube app is monitoring you to time ads, ALLEGEDLY",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t4lz5z/youtube_app_is_monitoring_you_to_time_ads/"
+  },
+  {
     "topic": "\"Boohoo I can't make money off of someone else's content boohoohoo\"",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3q84c/boohoo_i_cant_make_money_off_of_someone_elses/"
-  },
-  {
-    "topic": "Atp ads are p0rn",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t4e7cf/atp_ads_are_p0rn/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1531, Part 1 (Thread #1678)",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t394t3/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Lords of The Fallen 2 unveiled some new female armour sets, the sets were designed specifically with fan feedback in mind",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4gc4i/lords_of_the_fallen_2_unveiled_some_new_female/"
-  },
-  {
     "topic": "Xbox No Longer Developing Copilot For Consoles",
     "sources": [
       "reddit"
@@ -162,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4qfs9/xbox_no_longer_developing_copilot_for_consoles/"
   },
   {
-    "topic": "still don't get how paying for online on console is just, ok?",
+    "topic": "Lords of The Fallen 2 unveiled some new female armour sets, the sets were designed specifically with fan feedback in mind",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4dszv/still_dont_get_how_paying_for_online_on_console/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4gc4i/lords_of_the_fallen_2_unveiled_some_new_female/"
   },
   {
     "topic": "New xbox CEO overhauls leadership by bringing executives from CoreAI and Instacart over amid sinking sales",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4l26j/new_xbox_ceo_overhauls_leadership_by_bringing/"
   },
   {
+    "topic": "still don't get how paying for online on console is just, ok?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4dszv/still_dont_get_how_paying_for_online_on_console/"
+  },
+  {
     "topic": "Dutton Ranch | Official Trailer | Paramount+",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 310,954 views \u2022 ~432m old",
+    "why": "Trending on YouTube \u2022 355,864 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=19I5a1tRt98"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 285,944 views \u2022 ~436m old",
+    "why": "Trending on YouTube \u2022 312,418 views \u2022 ~497m old",
     "exampleUrl": "https://www.youtube.com/watch?v=T2MP_T2e-aU"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 331,387 views \u2022 ~551m old",
+    "why": "Trending on YouTube \u2022 362,209 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
   },
   {
@@ -208,31 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,629 views \u2022 ~370m old",
+    "why": "Trending on YouTube \u2022 183,436 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qVk-tcCqcjY"
+  },
+  {
+    "topic": "The Rolling Stones - In The Stars (Official Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 102,837 views \u2022 ~432m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=F-F_oHOvBsM"
   },
   {
     "topic": "EA Sports UFC 6 - Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,295 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 99,644 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_JCbyCf2BnI"
   },
   {
-    "topic": "Honest Trailers | Hoppers",
+    "topic": "EVIL DEAD BURN | Official Red Band Trailer (2026) 4K",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 54,936 views \u2022 ~311m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IdCOvnlNhw8"
+    "why": "Trending on YouTube \u2022 23,555 views \u2022 ~419m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XADMty8a2eY"
   },
   {
     "topic": "Minnesota Timberwolves at San Antonio Spurs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PZ2GHuVZCu0"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~577m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HdlRZpzB0U4"
   },
   {
@@ -248,23 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aGqCXuT2-yo"
   },
   {
-    "topic": "Philadelphia Phillies at Miami Marlins",
+    "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gLdsJ2NG_L8"
-  },
-  {
-    "topic": "Philadelphia 76ers at New York Knicks",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~467m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ajNhCK1Fvrg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uU6JLVqB4i4"
   }
 ]
