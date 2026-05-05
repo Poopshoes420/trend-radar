@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Must have been a tough morning.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t3itmr/must_have_been_a_tough_morning/"
-  },
-  {
     "topic": "Happy Star Wars Day, everyone!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t3t7k5/happy_star_wars_day_everyone/"
+  },
+  {
+    "topic": "Must have been a tough morning.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t3itmr/must_have_been_a_tough_morning/"
   },
   {
     "topic": "My Retired Dad Will Not Stop Making These Satirical Newsletters\u2026 What Do You Think of the May Edition?",
@@ -54,31 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3q84c/boohoo_i_cant_make_money_off_of_someone_elses/"
   },
   {
-    "topic": "Stop Deleting Real Creators And Stop Forcing AI On Us",
+    "topic": "What happened to leafy?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3v4az/stop_deleting_real_creators_and_stop_forcing_ai/"
-  },
-  {
-    "topic": "How do I turn this off on my videos",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3vrch/how_do_i_turn_this_off_on_my_videos/"
-  },
-  {
-    "topic": "Guy takes advantage of women and gets caught",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3jjos/guy_takes_advantage_of_women_and_gets_caught/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3xvdm/what_happened_to_leafy/"
   },
   {
     "topic": "THE ADS ARE FUCKING OUT OF HAND!",
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3ys1z/the_ads_are_fucking_out_of_hand/"
+  },
+  {
+    "topic": "Legendary pull youtube",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3uqyn/legendary_pull_youtube/"
+  },
+  {
+    "topic": "Stop Deleting Real Creators And Stop Forcing AI On Us",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t3v4az/stop_deleting_real_creators_and_stop_forcing_ai/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1530, Part 1 (Thread #1677)",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Volodymyr Zelenskyy warned that Ukrainian drones may target Russia\u2019s May 9 Victory Day parade in Moscow",
+    "topic": "Oil prices jump 6% as Iran sets UAE oil port ablaze, strikes vessels in Strait of Hormuz",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3jfnm/volodymyr_zelenskyy_warned_that_ukrainian_drones/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3v09b/oil_prices_jump_6_as_iran_sets_uae_oil_port/"
   },
   {
     "topic": "As economic despair mounts, Russian official admits the country has had enough of Putin's war on Ukraine. \"We can\u2019t even take one region\"",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3kjl6/as_economic_despair_mounts_russian_official/"
   },
   {
-    "topic": "Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, Defence Ministry says",
+    "topic": "Volodymyr Zelenskyy warned that Ukrainian drones may target Russia\u2019s May 9 Victory Day parade in Moscow",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3qsng/putin_declares_may_89_ceasefire_with_ukraine_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t3jfnm/volodymyr_zelenskyy_warned_that_ukrainian_drones/"
   },
   {
     "topic": "heidi klum at the 2026 Met Gala",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 960,725 views \u2022 ~449m old",
+    "why": "Trending on YouTube \u2022 1,327,854 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HDDxxeh3r-E"
   },
   {
@@ -192,55 +192,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 417,699 views \u2022 ~452m old",
+    "why": "Trending on YouTube \u2022 549,755 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OYdHSvHDkcI"
+  },
+  {
+    "topic": "The WEIRDEST MUSEUM in Roblox!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 211,671 views \u2022 ~368m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8ErDTDTIPB8"
+  },
+  {
+    "topic": "I Pretended to be the OWNER of Escape Tsunami! (Minecraft)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 319,077 views \u2022 ~709m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bLpqzArUYck"
   },
   {
     "topic": "The Boys Season 5 Episode 6 Trailer: Homelander Tries To Become God",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 91,572 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 143,304 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k9bviqqIsEs"
+  },
+  {
+    "topic": "Spider-Man Opening Scene, Disney Spoils Toy Story 5, Resident Evil Trailer & MORE!!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,944 views \u2022 ~167m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BWWBv8utcLs"
   },
   {
     "topic": "Star Wars: The Mandalorian and Grogu | Hang On | In Theaters May 22",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 42,340 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 56,799 views \u2022 ~665m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1bNF7SHtzVI"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "The Story With Martha MacCallum",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Fpxh6qzqgbE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6po0iwfTmeU"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zmRV1LzvC9k"
   },
   {
-    "topic": "Get Up",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2fUjaOrQtaw"
-  },
-  {
-    "topic": "The Situation Room",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gjIJdnW7ses"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9aZGn_zHTys"
   }
 ]
