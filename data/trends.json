@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5bg2y/why_do_some_videos_display_a_weird_upload_age/"
   },
   {
+    "topic": "I\u2019m tired boss",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5qk0v/im_tired_boss/"
+  },
+  {
     "topic": "Mythical algorithm pull \ud83e\udd79",
     "sources": [
       "reddit"
@@ -81,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5lra4/now_only_one_thumbnail_fits_on_screen_at_a_time/"
   },
   {
-    "topic": "I\u2019m tired boss",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5qk0v/im_tired_boss/"
-  },
-  {
-    "topic": "South Korean judge who hiked ex-first lady's jail sentence found dead just 8 days after sentencing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t5g70a/south_korean_judge_who_hiked_exfirst_ladys_jail/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1532, Part 1 (Thread #1679)",
     "sources": [
       "reddit"
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "South Korean judge who hiked ex-first lady's jail sentence found dead just 8 days after sentencing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t5g70a/south_korean_judge_who_hiked_exfirst_ladys_jail/"
   },
   {
     "topic": "Hungary returns seized Ukrainian cash and gold in further sign of better relations",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5gjhr/62_of_hardcore_players_no_longer_buy_fullprice/"
   },
   {
+    "topic": "New Star Fox model just dropped",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5sp9k/new_star_fox_model_just_dropped/"
+  },
+  {
     "topic": "A 'StarFox Direct' stream from Nintendo goes live in ~5 mins.",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5ho4p/my_happy_meal_mario_toy_from_when_i_was_a_kid_vs/"
   },
   {
-    "topic": "Subnautica 2 is finally coming out next week along with 29 other games",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t575vz/subnautica_2_is_finally_coming_out_next_week/"
-  },
-  {
     "topic": "The New Garry's Mod is Hilarious",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,425 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 298,323 views \u2022 ~260m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2eNdt7KwtiM"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,057 views \u2022 ~395m old",
+    "why": "Trending on YouTube \u2022 113,143 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M5Hy3BF3d4Y"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,092 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 78,901 views \u2022 ~333m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7y4MUCCHFGY"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 80,224 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 86,711 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9Pbxlijg9Kk"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,238 views \u2022 ~511m old",
+    "why": "Trending on YouTube \u2022 73,036 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f-zSsXdZKwk"
   },
   {
@@ -224,39 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 65,370 views \u2022 ~595m old",
+    "why": "Trending on YouTube \u2022 72,878 views \u2022 ~653m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wMMJzR-Ezds"
-  },
-  {
-    "topic": "Cleveland Cavaliers at Detroit Pistons",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Wt54tIna4EA"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~164m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k_Nv2WGnvF0"
-  },
-  {
-    "topic": "The California Governor Primary Debate: A CNN Special Event",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=V3yxHXyVisw"
   },
   {
     "topic": "Squawk on the Street",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~65m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_A74yplz4Sk"
   }
 ]
