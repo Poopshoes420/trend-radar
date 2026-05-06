@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Translation Basics 101: How not to do it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t56429/translation_basics_101_how_not_to_do_it/"
+  },
+  {
     "topic": "Dude farts on live tv while riding an exercise bike",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4fu9t/turns_out_the_never_did_touch_his_penis/"
-  },
-  {
-    "topic": "Smith & Wesson Baby Guns",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t4vtz6/smith_wesson_baby_guns/"
   },
   {
     "topic": "Why? But my little brother says its low quality when he watches it in 480p",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t48wud/you_know_its_bad_when_you_have_to_do_this/"
   },
   {
-    "topic": "YouTube app is monitoring you to time ads, ALLEGEDLY",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t4lz5z/youtube_app_is_monitoring_you_to_time_ads/"
-  },
-  {
     "topic": "Is it just me or is there more and more ai slop more than ever?",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t4w8nm/is_it_just_me_or_is_there_more_and_more_ai_slop/"
+  },
+  {
+    "topic": "YouTube app is monitoring you to time ads, ALLEGEDLY",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t4lz5z/youtube_app_is_monitoring_you_to_time_ads/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1532, Part 1 (Thread #1679)",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4vsjg/mindseye_developer_build_a_rocket_boy_lays_off/"
   },
   {
-    "topic": "New xbox CEO overhauls leadership by bringing executives from CoreAI and Instacart over amid sinking sales",
+    "topic": "Looking for shooters where the guns feel powerful",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4l26j/new_xbox_ceo_overhauls_leadership_by_bringing/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4wlo7/looking_for_shooters_where_the_guns_feel_powerful/"
   },
   {
     "topic": "Your DREADFUL Clips...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 292,421 views \u2022 ~430m old",
+    "why": "Trending on YouTube \u2022 376,687 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q6m3yYe7QSo"
   },
   {
@@ -192,31 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,631 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 234,994 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aHrITxYMmw0"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LQ6TSoh-_z0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Aptk1BqsxgY"
+  },
+  {
+    "topic": "Debate Pre-Show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bZnWqZXRqpc"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cnxz0z40cIM"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "The Accountant",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SYYUrzymJTo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VCjnVLLTts8"
   }
 ]
