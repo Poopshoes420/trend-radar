@@ -18,24 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "My wife is a teacher and sent me this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5ceun/my_wife_is_a_teacher_and_sent_me_this/"
-  },
-  {
-    "topic": "This is a robbery",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5drxy/this_is_a_robbery/"
-  },
-  {
     "topic": "South Park was so real for this",
     "sources": [
       "reddit"
@@ -43,6 +25,24 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5ex7q/south_park_was_so_real_for_this/"
+  },
+  {
+    "topic": "13 years old comedy",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5f62b/13_years_old_comedy/"
+  },
+  {
+    "topic": "My wife is a teacher and sent me this",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5ceun/my_wife_is_a_teacher_and_sent_me_this/"
   },
   {
     "topic": "Why? But my little brother says its low quality when he watches it in 480p",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t594fs/mythical_algorithm_pull/"
   },
   {
+    "topic": "Why do some videos display a weird upload age?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5bg2y/why_do_some_videos_display_a_weird_upload_age/"
+  },
+  {
     "topic": "Youtube Premium cancelled my subscription because I travel a lot...",
     "sources": [
       "reddit"
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t562xd/open_letter_to_youtube_please_add_a_humancreated/"
   },
   {
-    "topic": "YouTube added a new feature. I don't think it will end well",
+    "topic": "South Korean judge who hiked ex-first lady's jail sentence found dead just 8 days after sentencing",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t4stat/youtube_added_a_new_feature_i_dont_think_it_will/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t5g70a/south_korean_judge_who_hiked_exfirst_ladys_jail/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1532, Part 1 (Thread #1679)",
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t58puw/ukraine_accuses_russia_of_breaking_unilateral/"
   },
   {
-    "topic": "Man in Switzerland, who was on the prior journey of MV Hondus, tested positive for hantavirus",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t59dlb/man_in_switzerland_who_was_on_the_prior_journey/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -142,6 +142,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t394t3/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "62% of hardcore players no longer buy full-price games, survey suggests",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5gjhr/62_of_hardcore_players_no_longer_buy_fullprice/"
   },
   {
     "topic": "Subnautica 2 is finally coming out next week along with 29 other games",
@@ -153,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t575vz/subnautica_2_is_finally_coming_out_next_week/"
   },
   {
-    "topic": "I don\u2019t know if it\u2019s a sign of the economy, me getting older or just diminishing returns on console upgrades, but i\u2019m kinda okay if PS5 sticks around long term.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5alxu/i_dont_know_if_its_a_sign_of_the_economy_me/"
-  },
-  {
     "topic": "Ed Boon: \"We're definitely pursuing another Mortal Kombat game.\"",
     "sources": [
       "reddit"
@@ -171,28 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5dlsw/ed_boon_were_definitely_pursuing_another_mortal/"
   },
   {
-    "topic": "Xbox No Longer Developing Copilot For Consoles",
+    "topic": "I don\u2019t know if it\u2019s a sign of the economy, me getting older or just diminishing returns on console upgrades, but i\u2019m kinda okay if PS5 sticks around long term.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t4qfs9/xbox_no_longer_developing_copilot_for_consoles/"
-  },
-  {
-    "topic": "FullyChop - Gimmie A Break (Feat. VonOff1700) [Official Audio]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 15,091 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=QN7iYMuyHSE"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5alxu/i_dont_know_if_its_a_sign_of_the_economy_me/"
   },
   {
     "topic": "Motionless In White - Playing God (feat. Corey Taylor) [Official Lyric Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,207 views \u2022 ~94m old",
+    "why": "Trending on YouTube \u2022 43,556 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L2ZBtkEpGdw"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Wt54tIna4EA"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~352m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~448m old",
     "exampleUrl": "https://www.youtube.com/watch?v=84cqjPRJnN4"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~586m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Aptk1BqsxgY"
   },
   {
@@ -224,15 +216,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~291m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~387m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V3yxHXyVisw"
   },
   {
-    "topic": "Summer House",
+    "topic": "The Turntables Have Turned",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~468m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kRJ6rxbplTA"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~496m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a_9A7qvg3pI"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mc4lu7IoTIg"
   },
   {
@@ -256,15 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~216m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N57bOhTmJqU"
-  },
-  {
-    "topic": "Rats to Riches",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~458m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ngzOfPXXhTA"
   }
 ]
