@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5otb7/killer_whales/"
   },
   {
-    "topic": "Jousting",
+    "topic": "Is this the singularly that they've been talking about?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t59p3v/jousting/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5otyg/is_this_the_singularly_that_theyve_been_talking/"
   },
   {
     "topic": "Why? But my little brother says its low quality when he watches it in 480p",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5qk0v/im_tired_boss/"
   },
   {
-    "topic": "Mythical algorithm pull \ud83e\udd79",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t594fs/mythical_algorithm_pull/"
-  },
-  {
     "topic": "now only one thumbnail fits on screen at a time. absolutely absurd.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t5lra4/now_only_one_thumbnail_fits_on_screen_at_a_time/"
+  },
+  {
+    "topic": "Mythical algorithm pull \ud83e\udd79",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t594fs/mythical_algorithm_pull/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1532, Part 1 (Thread #1679)",
@@ -153,13 +153,22 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5gjhr/62_of_hardcore_players_no_longer_buy_fullprice/"
   },
   {
-    "topic": "New Star Fox model just dropped",
+    "topic": "The Fantastic Mr Star Fox\u2026.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5sp9k/new_star_fox_model_just_dropped/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5stsk/the_fantastic_mr_star_fox/"
+  },
+  {
+    "topic": "Looks like Starfox will be $50 USD",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5upwo/looks_like_starfox_will_be_50_usd/"
   },
   {
     "topic": "A 'StarFox Direct' stream from Nintendo goes live in ~5 mins.",
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5r8cx/a_starfox_direct_stream_from_nintendo_goes_live/"
   },
   {
-    "topic": "My Happy Meal Mario toy from when I was a kid VS my son's Happy Meal Mario",
+    "topic": "Star Fox Direct 5.6.2026",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5ho4p/my_happy_meal_mario_toy_from_when_i_was_a_kid_vs/"
+    "why": "Trending on YouTube \u2022 890,325 views \u2022 ~180m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ePZeyh5q9R8"
   },
   {
     "topic": "The New Garry's Mod is Hilarious",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 298,323 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 418,148 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2eNdt7KwtiM"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,143 views \u2022 ~453m old",
+    "why": "Trending on YouTube \u2022 132,366 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M5Hy3BF3d4Y"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 78,901 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 97,292 views \u2022 ~441m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7y4MUCCHFGY"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 86,711 views \u2022 ~500m old",
+    "why": "Trending on YouTube \u2022 97,058 views \u2022 ~608m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9Pbxlijg9Kk"
   },
   {
@@ -216,31 +224,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,036 views \u2022 ~569m old",
+    "why": "Trending on YouTube \u2022 88,288 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=f-zSsXdZKwk"
   },
   {
-    "topic": "Evil Dead Burn - Official Trailer | Exclusively in cinemas 10 July",
+    "topic": "Hija de la noche",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 72,878 views \u2022 ~653m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wMMJzR-Ezds"
+    "why": "Trending on YouTube \u2022 36,286 views \u2022 ~297m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PuzKl7WXLsY"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "THE ODYSSEY TRAILER BREAKDOWN! Every Detail You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=k_Nv2WGnvF0"
+    "why": "Trending on YouTube \u2022 26,799 views \u2022 ~256m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KNYs8-sHJ3s"
   },
   {
-    "topic": "Squawk on the Street",
+    "topic": "Outnumbered",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~123m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_A74yplz4Sk"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Pa1RFsz8E_Q"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TmsMz6Q8kqg"
+  },
+  {
+    "topic": "Squawk Box",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SRGpeTev9Lg"
   }
 ]
