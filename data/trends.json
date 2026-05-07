@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t643wx/someone_is_not_pleased/"
   },
   {
-    "topic": "Some Swedes making a tribute to the Canadian curling team.",
+    "topic": "Tony Soprano plays Elden Ring",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t5nyg3/some_swedes_making_a_tribute_to_the_canadian/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t6cupm/tony_soprano_plays_elden_ring/"
   },
   {
     "topic": "EW!! Where Is The Like Button!?",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t65grw/ew_where_is_the_like_button/"
   },
   {
-    "topic": "Goodbye youtube premium",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t621i3/goodbye_youtube_premium/"
-  },
-  {
     "topic": "bro \ud83d\udc80 (not troll)",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t67gcu/bro_not_troll/"
+  },
+  {
+    "topic": "Goodbye youtube premium",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t621i3/goodbye_youtube_premium/"
   },
   {
     "topic": "iShowSpeed broke his own record for most concurrent viewers on a Livestream by a solo English streamer while streaming in the Dominican Republic",
@@ -90,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t53b07/why_but_my_little_brother_says_its_low_quality/"
   },
   {
-    "topic": "KLM flight attendant hospitalized after contact with hantavirus cruise ship passenger",
+    "topic": "Hantavirus cases now suspected in 5 countries as authorities scramble to contain outbreak",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t64ibw/klm_flight_attendant_hospitalized_after_contact/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t6b3fn/hantavirus_cases_now_suspected_in_5_countries_as/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1533, Part 1 (Thread #1680)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "KLM flight attendant hospitalized after contact with hantavirus cruise ship passenger",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t64ibw/klm_flight_attendant_hospitalized_after_contact/"
+  },
+  {
     "topic": "Massive anti-pedophile operation in Poland, 123 detained",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t691mg/massive_antipedophile_operation_in_poland_123/"
-  },
-  {
-    "topic": "About 40 passengers previously left ship hit by Hantavirus outbreak at island of St. Helena",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t64y59/about_40_passengers_previously_left_ship_hit_by/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t69jzj/i_honestly_really_like_the_new_designs_and_i/"
   },
   {
+    "topic": "\"It is frustrating to see policymakers suddenly claim everything is 'for our safety'\" - Stop Killing Games joins pushback against age verification laws",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t6dal6/it_is_frustrating_to_see_policymakers_suddenly/"
+  },
+  {
     "topic": "Pragmata Has Sold 2 Million Units In 16 Days",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5gjhr/62_of_hardcore_players_no_longer_buy_fullprice/"
   },
   {
-    "topic": "The Fantastic Mr Star Fox\u2026.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t5stsk/the_fantastic_mr_star_fox/"
-  },
-  {
     "topic": "Philadelphia 76ers at New York Knicks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~202m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gSN1dt37iiI"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~476m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2UEYYKRhGVM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aZYahWXlrVE"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-lBUzidCSzg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~324m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~425m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8XLUsRNHRZY"
   },
   {
@@ -224,15 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~385m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~486m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KJr5Nv6xsTo"
   },
   {
-    "topic": "The Source With Kaitlan Collins",
+    "topic": "All Aboard!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~422m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dDHQft97Le4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~500m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Zpe0uJuP9pM"
   }
 ]
