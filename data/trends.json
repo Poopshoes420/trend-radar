@@ -45,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t643wx/someone_is_not_pleased/"
   },
   {
-    "topic": "bro \ud83d\udc80 (not troll)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t67gcu/bro_not_troll/"
-  },
-  {
     "topic": "\u201cJust get an adblocker\u201d \u201cJust get YouTube premium\u201d",
     "sources": [
       "reddit"
@@ -61,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t6hala/just_get_an_adblocker_just_get_youtube_premium/"
+  },
+  {
+    "topic": "bro \ud83d\udc80 (not troll)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t67gcu/bro_not_troll/"
   },
   {
     "topic": "EW!! Where Is The Like Button!?",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t691mg/massive_antipedophile_operation_in_poland_123/"
   },
   {
-    "topic": "KLM flight attendant hospitalized after contact with hantavirus cruise ship passenger",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t64ibw/klm_flight_attendant_hospitalized_after_contact/"
-  },
-  {
     "topic": "U.S. intelligence says Iran can outlast Trump\u2019s Hormuz blockade for months",
     "sources": [
       "reddit"
@@ -135,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t6hy1s/us_intelligence_says_iran_can_outlast_trumps/"
   },
   {
-    "topic": "Javier Bardem talks about his wife, Pen\u00e9lope Cruz: \u201cWhen I see her being photographed in magazines, I go: \u2018Is that my wife?\u2019\u201d",
+    "topic": "KLM flight attendant hospitalized after contact with hantavirus cruise ship passenger",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1t6hcnb/javier_bardem_talks_about_his_wife_pen\u00e9lope_cruz/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t64ibw/klm_flight_attendant_hospitalized_after_contact/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t6f5ot/escape_from_tarkov_lead_game_designer_quits_after/"
   },
   {
+    "topic": "Pragmata Has Sold 2 Million Units In 16 Days",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t6716z/pragmata_has_sold_2_million_units_in_16_days/"
+  },
+  {
     "topic": "Harry Styles - Dance No More (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 813,787 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 942,925 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-rkjE0xc730"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 575,617 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 655,682 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D_WllqC_kVA"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 550,228 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 666,983 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FZ3sN5E-mBU"
   },
   {
@@ -208,71 +208,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 132,376 views \u2022 ~338m old",
+    "why": "Trending on YouTube \u2022 160,554 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bISGUJn3sSk"
-  },
-  {
-    "topic": "Boards of Canada - Introit / Prophecy At 1420 MHz",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 103,466 views \u2022 ~428m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=74NluS3jzTo"
   },
   {
     "topic": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight \u2013 Official Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 88,766 views \u2022 ~368m old",
+    "why": "Trending on YouTube \u2022 105,255 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DfJaUpW_P00"
+  },
+  {
+    "topic": "Boards of Canada - Introit / Prophecy At 1420 MHz",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 116,539 views \u2022 ~495m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=74NluS3jzTo"
+  },
+  {
+    "topic": "Stranger than Heaven - Cast & Story Reveal Trailer | PS5 Games",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 58,552 views \u2022 ~285m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=avpTgTNadh4"
   },
   {
     "topic": "R.E.P.O. COSMETIC UPDATE | Launch Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 101,709 views \u2022 ~486m old",
+    "why": "Trending on YouTube \u2022 110,526 views \u2022 ~554m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nuUt8A49Vbk"
+  },
+  {
+    "topic": "Star Fox Gameplay Reveal Trailer - Fox McCloud is Back | GameStop",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 25,040 views \u2022 ~435m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=XjEhaognaKA"
   },
   {
     "topic": "Minnesota Timberwolves at San Antonio Spurs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jtgM5HMNX94"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vfyx12NVDew"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=16fz03Fesrs"
   },
   {
-    "topic": "Athletics at Philadelphia Phillies",
+    "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aZYahWXlrVE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~72m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9KroXG4P_gA"
   },
   {
-    "topic": "Zero Dark Thirty",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-lBUzidCSzg"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~704m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=8XLUsRNHRZY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~80m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x_vLbmeCCGc"
   }
 ]
