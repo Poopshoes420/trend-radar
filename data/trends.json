@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Pinata 1 Kid 0",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t735qq/pinata_1_kid_0/"
-  },
-  {
     "topic": "Not what I'm called",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7ewsx/not_what_im_called/"
+  },
+  {
+    "topic": "Pinata 1 Kid 0",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t735qq/pinata_1_kid_0/"
   },
   {
     "topic": "Well now I know where to rock down to.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t6zbcv/messyourself_has_deleted_most_of_his_videos/"
   },
   {
-    "topic": "The game just came out bruh!",
+    "topic": "Baby Shark at almost 17 Billion views \ud83e\udd2f",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t6ubo4/the_game_just_came_out_bruh/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t754ty/baby_shark_at_almost_17_billion_views/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1534, Part 1 (Thread #1681)",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7819w/indie_shooter_devs_pull_a_reverseconcord_no_one/"
   },
   {
-    "topic": "Consumer PC motherboard sales have collapsed due to price increases for CPUs, GPUs, RAM, and SSDs from AI. Volumes lower than Great Recession and 2020.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7eyoc/consumer_pc_motherboard_sales_have_collapsed_due/"
-  },
-  {
     "topic": "Super Mario World, The Legend Of Zelda Director Takashi Tezuka Retiring From Nintendo",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7bi14/after_42_years_of_working_at_nintendo_takashi/"
   },
   {
+    "topic": "An Ad for a Super Nintendo Game Sale from 1990",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7asiz/an_ad_for_a_super_nintendo_game_sale_from_1990/"
+  },
+  {
     "topic": "HAN \"back to life\" | [Stray Kids : SKZ-PLAYER]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 350,303 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 441,899 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F0UIsSnotlA"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 213,085 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 294,139 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oYhaW-Vr4wg"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 61,086 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 142,050 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qRAJowgHqxA"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~562m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6lWJ8e2CMGE"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6d59h3JYX0Q"
   },
   {
@@ -224,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YSn8_N9E648"
-  },
-  {
-    "topic": "Truist Championship, First Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~705m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MAvYbgQA1PA"
   },
   {
     "topic": "Reunion Part 3",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~666m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j6ogsc48G8k"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-3ccbwkRhu0"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~617m old",
     "exampleUrl": "https://www.youtube.com/watch?v=blpqttxqSIY"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~648m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GjKnijPAGsI"
   }
 ]
