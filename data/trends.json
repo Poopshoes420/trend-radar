@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t735qq/pinata_1_kid_0/"
   },
   {
+    "topic": "Not what I'm called",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7ewsx/not_what_im_called/"
+  },
+  {
     "topic": "Well now I know where to rock down to.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t6yk1h/found_these_at_the_store_today_every_day_we_stray/"
-  },
-  {
-    "topic": "With this kind of service I don\u2019t mind paying extra at the pump \ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t6hx3k/with_this_kind_of_service_i_dont_mind_paying/"
   },
   {
     "topic": "i just opened the app",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7819w/indie_shooter_devs_pull_a_reverseconcord_no_one/"
   },
   {
+    "topic": "Consumer PC motherboard sales have collapsed due to price increases for CPUs, GPUs, RAM, and SSDs from AI. Volumes lower than Great Recession and 2020.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7eyoc/consumer_pc_motherboard_sales_have_collapsed_due/"
+  },
+  {
     "topic": "Super Mario World, The Legend Of Zelda Director Takashi Tezuka Retiring From Nintendo",
     "sources": [
       "reddit"
@@ -162,29 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t79etz/super_mario_world_the_legend_of_zelda_director/"
   },
   {
-    "topic": "News Release : May 8, 2026 \"Notice Regarding Price Revisions for Nintendo Products and Services\"",
+    "topic": "After 42 years of working at Nintendo, Takashi Tezuka is retiring. He co-created Mario Brothers, and served as director of such games as The Lost Levels, SMB3, SMW, SM All-Stars, and Yoshi's Island, and was responsible for major contributions to the company.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t70g29/news_release_may_8_2026_notice_regarding_price/"
-  },
-  {
-    "topic": "Pokemon Pokopia And FireRed/LeafGreen Switch Release Both Cross 4 Million Units Sold Worldwide",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t75u6f/pokemon_pokopia_and_fireredleafgreen_switch/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7bi14/after_42_years_of_working_at_nintendo_takashi/"
   },
   {
     "topic": "HAN \"back to life\" | [Stray Kids : SKZ-PLAYER]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 236,548 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 350,303 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=F0UIsSnotlA"
   },
   {
@@ -192,15 +192,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 127,100 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 213,085 views \u2022 ~230m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oYhaW-Vr4wg"
+  },
+  {
+    "topic": "PinkPantheress - Girl Like Me (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,086 views \u2022 ~169m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qRAJowgHqxA"
   },
   {
     "topic": "Carolina Hurricanes at Philadelphia Flyers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6lWJ8e2CMGE"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~451m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6d59h3JYX0Q"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~641m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YSn8_N9E648"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~617m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~705m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MAvYbgQA1PA"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~506m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j6ogsc48G8k"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~550m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~638m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-3ccbwkRhu0"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~456m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=blpqttxqSIY"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GjKnijPAGsI"
   }
 ]
