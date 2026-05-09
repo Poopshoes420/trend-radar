@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zuqm/its_excited_about_something/"
   },
   {
+    "topic": "they had me in the first half",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t81h1d/they_had_me_in_the_first_half/"
+  },
+  {
     "topic": "Not sure if I should buy this office chair...",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7kxuw/not_sure_if_i_should_buy_this_office_chair/"
   },
   {
-    "topic": "It has wormwood",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7usaf/it_has_wormwood/"
-  },
-  {
     "topic": "Funny meme",
     "sources": [
       "reddit"
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7k5fv/funny_meme/"
+  },
+  {
+    "topic": "this makes me viscerally uncomfortable for some reason",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
   },
   {
     "topic": "Really looking out for small creators, huh?",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7rqin/i_love_my_fyp/"
-  },
-  {
-    "topic": "this makes me viscerally uncomfortable for some reason",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
   },
   {
     "topic": "What......",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Moscow\u2019s Victory Day Parade Lasted Just 45 Minutes, Shortest in Modern Russian History",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t824fj/moscows_victory_day_parade_lasted_just_45_minutes/"
+  },
+  {
     "topic": "'Victory will be ours,' Putin tells Victory Day parade without any tanks",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7jrkc/elon_musk_faces_criminal_probe_in_france_after/"
-  },
-  {
-    "topic": "Ukraine 'Kamikaze' Sea Drone Found Armed With 200kg of Explosives Off Greek Island",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7xyx6/ukraine_kamikaze_sea_drone_found_armed_with_200kg/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 610,663 views \u2022 ~484m old",
+    "why": "Trending on YouTube \u2022 610,744 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DphlYwaX60g"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hvM4i57CC70"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3H1T4d4PyPA"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq-V_8TghmE"
   },
   {
@@ -216,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFQWCAQBvmI"
+  },
+  {
+    "topic": "American Sniper",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5LJ__K8YuyY"
   },
   {
     "topic": "Kings of the Frozen North",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~150m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R5bywlFFD-Y"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yUXT0H9JOr0"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~171m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nDefzx_VR1Y"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=reKMDoUpxoo"
   },
   {
@@ -256,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=GYRSegXHJ6w"
-  },
-  {
-    "topic": "Bully Hill Vineyards 176 at The Glen",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~346m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=CuY0kYc2Yso"
   }
 ]
