@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Can I get one extra-large wiener and one very small one to go?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t85wpm/can_i_get_one_extralarge_wiener_and_one_very/"
+  },
+  {
     "topic": "It's excited about something...",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t81h1d/they_had_me_in_the_first_half/"
-  },
-  {
-    "topic": "It has wormwood",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7usaf/it_has_wormwood/"
   },
   {
     "topic": "Funny meme",
@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t83i49/to_advertisers_im_never_paying_attention_longer/"
   },
   {
-    "topic": "Really looking out for small creators, huh?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7y2uz/really_looking_out_for_small_creators_huh/"
-  },
-  {
     "topic": "What......",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7z3iw/what/"
+  },
+  {
+    "topic": "Really looking out for small creators, huh?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7y2uz/really_looking_out_for_small_creators_huh/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1535, Part 1 (Thread #1682)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t807ba/victory_will_be_ours_putin_tells_victory_day/"
   },
   {
-    "topic": "Elon Musk faces criminal probe in France after ignoring summons in X case",
+    "topic": "Ukraine urges U.S. investigation of possible Starlink use by Russia\u2019s shadow fleet",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7jrkc/elon_musk_faces_criminal_probe_in_france_after/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t8554y/ukraine_urges_us_investigation_of_possible/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
   },
   {
-    "topic": "Tomodachi Life: Living the Dream sells over 3.8 million units",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t83l9v/tomodachi_life_living_the_dream_sells_over_38/"
-  },
-  {
     "topic": "Slay the Spire is currently being review bombed over listing Anita Sarkeesian in the credits for Slay the Spire 2",
     "sources": [
       "reddit"
@@ -180,19 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7orga/double_fine_is_unionizing/"
   },
   {
-    "topic": "roblox best gameplay",
+    "topic": "Indie shooter devs pull a reverse-Concord: No one played their game, but they 'make it free to play and keep the servers online indefinitely' anyway",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 610,954 views \u2022 ~634m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DphlYwaX60g"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7819w/indie_shooter_devs_pull_a_reverseconcord_no_one/"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~278m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hvM4i57CC70"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~337m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3H1T4d4PyPA"
   },
   {
@@ -208,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~499m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq-V_8TghmE"
+  },
+  {
+    "topic": "WWE Friday Night SmackDown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Fd_sFgfPTx0"
   },
   {
     "topic": "SEC Tournament: Georgia vs. Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFQWCAQBvmI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
     "exampleUrl": "https://www.youtube.com/watch?v=afc_F0svs5Y"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~243m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5LJ__K8YuyY"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~237m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R5bywlFFD-Y"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~556m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~621m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yUXT0H9JOr0"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~322m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nDefzx_VR1Y"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~167m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xr3ICOgZqfk"
   }
 ]
