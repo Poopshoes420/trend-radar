@@ -1,5 +1,14 @@
 [
   {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
     "topic": "Not sure if I should buy this office chair...",
     "sources": [
       "reddit"
@@ -9,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7kxuw/not_sure_if_i_should_buy_this_office_chair/"
   },
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "topic": "Some days are best just staying in bed",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7t45g/some_days_are_best_just_staying_in_bed/"
   },
   {
     "topic": "Pinata 1 Kid 0",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t74cxi/well_now_i_know_where_to_rock_down_to/"
-  },
-  {
-    "topic": "Found these at the store today... Every day we stray further into the darkness",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t6yk1h/found_these_at_the_store_today_every_day_we_stray/"
   },
   {
     "topic": "Funny meme",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7gpme/weird_sharpening_effect_on_every_video_losing_my/"
   },
   {
-    "topic": "Not a fan of this UI change",
+    "topic": "Has anyone seen this video pop up in your page",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t6s7wf/not_a_fan_of_this_ui_change/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7pt5d/has_anyone_seen_this_video_pop_up_in_your_page/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1534, Part 1 (Thread #1681)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukraine reportedly launches dozens of drones at Moscow ahead of Victory Day Parade",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t77y0g/ukraine_reportedly_launches_dozens_of_drones_at/"
-  },
-  {
     "topic": "Elon Musk faces criminal probe in France after ignoring summons in X case",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7jrkc/elon_musk_faces_criminal_probe_in_france_after/"
   },
   {
-    "topic": "'We don't recommend' \u2014 Zelensky warns foreign officials against attending Russia's Victory Day parade",
+    "topic": "Ukraine reportedly launches dozens of drones at Moscow ahead of Victory Day Parade",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t77h7m/we_dont_recommend_zelensky_warns_foreign/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t77y0g/ukraine_reportedly_launches_dozens_of_drones_at/"
+  },
+  {
+    "topic": "Moderna announces early-stage hantavirus vaccine research amid deadly cruise ship outbreak, shares jump 12%",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7mlkz/moderna_announces_earlystage_hantavirus_vaccine/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7k6qv/slay_the_spire_is_currently_being_review_bombed/"
   },
   {
+    "topic": "Double Fine Is Unionizing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7orga/double_fine_is_unionizing/"
+  },
+  {
     "topic": "Indie shooter devs pull a reverse-Concord: No one played their game, but they 'make it free to play and keep the servers online indefinitely' anyway",
     "sources": [
       "reddit"
@@ -171,44 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7l0uz/sony_backs_marathon_even_after_765_million_in/"
   },
   {
-    "topic": "Super Mario World, The Legend Of Zelda Director Takashi Tezuka Retiring From Nintendo",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t79etz/super_mario_world_the_legend_of_zelda_director/"
-  },
-  {
-    "topic": "Finding 1000 Missing Minecraft Players",
+    "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 820,567 views \u2022 ~524m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=j7JddsoUH8A"
-  },
-  {
-    "topic": "HAN \"back to life\" | [Stray Kids : SKZ-PLAYER]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 712,178 views \u2022 ~552m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F0UIsSnotlA"
-  },
-  {
-    "topic": "Forza Horizon 6 \u2013 Official Launch Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 482,270 views \u2022 ~552m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oYhaW-Vr4wg"
+    "why": "Trending on YouTube \u2022 653,222 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N1hTWENE2F8"
   },
   {
     "topic": "PinkPantheress - Girl Like Me (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 396,863 views \u2022 ~490m old",
+    "why": "Trending on YouTube \u2022 550,668 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qRAJowgHqxA"
   },
   {
@@ -216,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 332,523 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 468,084 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qRNXrz_MyFw"
   },
   {
@@ -224,47 +208,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,580 views \u2022 ~401m old",
+    "why": "Trending on YouTube \u2022 138,292 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KaAE9a4mvjU"
   },
   {
-    "topic": "2FithyRicky - Eybody Killa [Official Music Video]",
+    "topic": "Key Glock - GO (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,614 views \u2022 ~543m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R3x0x_yDw_g"
+    "why": "Trending on YouTube \u2022 118,347 views \u2022 ~598m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IB1_qKO1SZU"
   },
   {
-    "topic": "Not Suitable for Work | Official Trailer | Hulu",
+    "topic": "America Reports",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,296 views \u2022 ~522m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X0oFLuUR-qQ"
-  },
-  {
-    "topic": "America's Newsroom",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-8HSy1dVCDs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bvbm4ENZ1hc"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~426m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lpZ5fqQEZUw"
   },
   {
-    "topic": "Squawk Box",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vCsS9a4dstY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BvYMNBipYo4"
   }
 ]
