@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8cl32/we_listen_to_feedback/"
   },
   {
+    "topic": "Why am I getting star wars recommendations, I watched one video\ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8cny4/why_am_i_getting_star_wars_recommendations_i/"
+  },
+  {
     "topic": "To advertisers: I\u2019m never paying attention longer than 5 seconds, so you\u2019re wasting our time and your money with ads that are any longer,",
     "sources": [
       "reddit"
@@ -61,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t83i49/to_advertisers_im_never_paying_attention_longer/"
-  },
-  {
-    "topic": "I\u2019ll stop procrastinating\u2026 tomorrow",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8525i/ill_stop_procrastinating_tomorrow/"
   },
   {
     "topic": "Mythical yt homepage pull",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t88qxu/mythical_yt_homepage_pull/"
   },
   {
-    "topic": "this makes me viscerally uncomfortable for some reason",
+    "topic": "I\u2019ll stop procrastinating\u2026 tomorrow",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8525i/ill_stop_procrastinating_tomorrow/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1535, Part 1 (Thread #1682)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t8b3bv/what_are_your_absolute_favorite_locationsplaces/"
   },
   {
-    "topic": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
-  },
-  {
     "topic": "Everyone experiences this at some point in RollerCoaster Tycoon before their learn about the Handyman",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t8dee1/everyone_experiences_this_at_some_point_in/"
   },
   {
+    "topic": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
+  },
+  {
     "topic": "Escape 50 Pros, Win $50,000",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,102,121 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 2,506,582 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Caxv8tLATnc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,511,093 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 2,636,911 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=07h9Y1XKBWI"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,448,542 views \u2022 ~442m old",
+    "why": "Trending on YouTube \u2022 1,562,915 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjO0dep5VjU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,306 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 457,139 views \u2022 ~189m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZAMDGF-Wcy4"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 459,412 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 535,084 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6t2nDHldoSk"
   },
   {
@@ -224,31 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 126,730 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 146,743 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_i0F5LDx1tI"
-  },
-  {
-    "topic": "TRIANGLE vs MONKEY Part 51 - Trailer 1",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 57,365 views \u2022 ~443m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RF2bYIUzbAg"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=WBbG3XP-EPM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~113m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fYKZaREYvRc"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~700m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hvM4i57CC70"
   },
   {
@@ -256,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fd_sFgfPTx0"
+  },
+  {
+    "topic": "SportsCenter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~47m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iQVcE-eGLRU"
   },
   {
     "topic": "Top Gun: Maverick",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=afc_F0svs5Y"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~613m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R5bywlFFD-Y"
   }
 ]
