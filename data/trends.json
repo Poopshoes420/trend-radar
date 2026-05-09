@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Not sure if I should buy this office chair...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7kxuw/not_sure_if_i_should_buy_this_office_chair/"
-  },
-  {
     "topic": "Waiter while paying",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7vsb5/waiter_while_paying/"
+  },
+  {
+    "topic": "Not sure if I should buy this office chair...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7kxuw/not_sure_if_i_should_buy_this_office_chair/"
   },
   {
     "topic": "It has wormwood",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7sffo/i_feel_like_this_is_gonna_be_the_next_big_youtube/"
   },
   {
-    "topic": "Baby Shark at almost 17 Billion views \ud83e\udd2f",
+    "topic": "I love my fyp",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t754ty/baby_shark_at_almost_17_billion_views/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7rqin/i_love_my_fyp/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1535, Part 1 (Thread #1682)",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7wf73/self_promotion_saturday_small_streamer_just/"
   },
   {
+    "topic": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
+  },
+  {
     "topic": "Slay the Spire is currently being review bombed over listing Anita Sarkeesian in the credits for Slay the Spire 2",
     "sources": [
       "reddit"
@@ -171,68 +180,75 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7819w/indie_shooter_devs_pull_a_reverseconcord_no_one/"
   },
   {
-    "topic": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
-  },
-  {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 610,098 views \u2022 ~171m old",
+    "why": "Trending on YouTube \u2022 610,292 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DphlYwaX60g"
-  },
-  {
-    "topic": "Aphmau has been FAKING IT!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 187,784 views \u2022 ~481m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=G6R-TvmuE_Q"
-  },
-  {
-    "topic": "LIL NAAY - MOOD BRAZIL (VIDEO OFICAL)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 247,617 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5OyTxEbT-fM"
-  },
-  {
-    "topic": "TRYING TO SURVIVE MINECRAFT WITH HORROR MODS",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 169,247 views \u2022 ~561m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=B3AYm9Z_7Kk"
   },
   {
     "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~267m old",
     "exampleUrl": "https://www.youtube.com/watch?v=781DO06JMyw"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "Truist Championship, Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lpZ5fqQEZUw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Tq-V_8TghmE"
   },
   {
-    "topic": "The Arena With Kasie Hunt",
+    "topic": "SEC Tournament: Florida vs. Alabama",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mJh_2gBfBV0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~147m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DF9nz0Y4mD8"
+  },
+  {
+    "topic": "Deadline: White House",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yUXT0H9JOr0"
+  },
+  {
+    "topic": "Bully Hill Vineyards 176 at The Glen",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CuY0kYc2Yso"
+  },
+  {
+    "topic": "Erin Burnett OutFront",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2PE72-S6WA4"
+  },
+  {
+    "topic": "Ozark Lake House",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=obyOIifU0iY"
+  },
+  {
+    "topic": "SportsCenter",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WF2HO4P8L30"
   }
 ]
