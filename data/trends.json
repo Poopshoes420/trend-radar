@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zt44/no_its_necessary/"
   },
   {
+    "topic": "they had me in the first half",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t81h1d/they_had_me_in_the_first_half/"
+  },
+  {
     "topic": "It's excited about something...",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zuqm/its_excited_about_something/"
   },
   {
-    "topic": "they had me in the first half",
+    "topic": "We listen to Feedback \ud83d\ude06",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t81h1d/they_had_me_in_the_first_half/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8cl32/we_listen_to_feedback/"
   },
   {
     "topic": "To advertisers: I\u2019m never paying attention longer than 5 seconds, so you\u2019re wasting our time and your money with ads that are any longer,",
@@ -54,24 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t83i49/to_advertisers_im_never_paying_attention_longer/"
   },
   {
-    "topic": "this makes me viscerally uncomfortable for some reason",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
-  },
-  {
-    "topic": "Funny meme",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7k5fv/funny_meme/"
-  },
-  {
     "topic": "I\u2019ll stop procrastinating\u2026 tomorrow",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8525i/ill_stop_procrastinating_tomorrow/"
   },
   {
-    "topic": "What......",
+    "topic": "this makes me viscerally uncomfortable for some reason",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7z3iw/what/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
+  },
+  {
+    "topic": "Mythical yt homepage pull",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t88qxu/mythical_yt_homepage_pull/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1535, Part 1 (Thread #1682)",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Moscow\u2019s Victory Day Parade Lasted Just 45 Minutes, Shortest in Modern Russian History",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t824fj/moscows_victory_day_parade_lasted_just_45_minutes/"
-  },
-  {
     "topic": "P\u00e9ter Magyar sworn in as Hungary\u2019s prime minister to end 16-year Orb\u00e1n era | P\u00e9ter Magyar",
     "sources": [
       "reddit"
@@ -124,6 +115,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t88mbd/p\u00e9ter_magyar_sworn_in_as_hungarys_prime_minister/"
+  },
+  {
+    "topic": "Moscow\u2019s Victory Day Parade Lasted Just 45 Minutes, Shortest in Modern Russian History",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t824fj/moscows_victory_day_parade_lasted_just_45_minutes/"
   },
   {
     "topic": "'Victory will be ours,' Putin tells Victory Day parade without any tanks",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t895s0/my_katamari_damacy_full_sleeve_is_complete/"
   },
   {
-    "topic": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
-  },
-  {
     "topic": "What are your absolute favorite locations/places in gaming?",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t8b3bv/what_are_your_absolute_favorite_locationsplaces/"
+  },
+  {
+    "topic": "Nintendo president apologizes for Switch 2 price increase, promises \"robust software lineup\" to make up for it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
   },
   {
     "topic": "Subnautica 2 Early Access Gameplay Trailer\ud83c\udf89",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t87fvl/subnautica_2_early_access_gameplay_trailer/"
   },
   {
+    "topic": "Escape 50 Pros, Win $50,000",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,626,773 views \u2022 ~211m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Caxv8tLATnc"
+  },
+  {
     "topic": "Drishyam 3 - Official Trailer | Mohanlal | Jeethu Joseph | Meena | May 21 Worldwide Release",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,657,721 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 2,223,445 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=07h9Y1XKBWI"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,046,978 views \u2022 ~306m old",
+    "why": "Trending on YouTube \u2022 1,311,114 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjO0dep5VjU"
   },
   {
@@ -200,15 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,006 views \u2022 ~183m old",
+    "why": "Trending on YouTube \u2022 361,751 views \u2022 ~268m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6t2nDHldoSk"
+  },
+  {
+    "topic": "BFDIA 25 TRAILER \u2014 TICKETS AVAILABLE NOW!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 97,957 views \u2022 ~151m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_i0F5LDx1tI"
+  },
+  {
+    "topic": "TRIANGLE vs MONKEY Part 51 - Trailer 1",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 53,407 views \u2022 ~391m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RF2bYIUzbAg"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~517m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hvM4i57CC70"
   },
   {
@@ -216,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~576m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3H1T4d4PyPA"
-  },
-  {
-    "topic": "Truist Championship, Second Round",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Tq-V_8TghmE"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~279m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fd_sFgfPTx0"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~672m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFQWCAQBvmI"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
     "exampleUrl": "https://www.youtube.com/watch?v=afc_F0svs5Y"
   },
   {
@@ -256,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~561m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R5bywlFFD-Y"
   },
   {
@@ -264,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~502m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5LJ__K8YuyY"
   }
 ]
