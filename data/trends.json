@@ -9,6 +9,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "\"No, it's necessary.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zt44/no_its_necessary/"
+  },
+  {
+    "topic": "It's excited about something...",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zuqm/its_excited_about_something/"
+  },
+  {
     "topic": "Not sure if I should buy this office chair...",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7usaf/it_has_wormwood/"
-  },
-  {
-    "topic": "The early 2000s were a crazy time on TV",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7tfap/the_early_2000s_were_a_crazy_time_on_tv/"
-  },
-  {
-    "topic": "It's excited about something...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zuqm/its_excited_about_something/"
   },
   {
     "topic": "Funny meme",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7mlkz/moderna_announces_earlystage_hantavirus_vaccine/"
   },
   {
-    "topic": "Ukraine reportedly launches dozens of drones at Moscow ahead of Victory Day Parade",
+    "topic": "Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t77y0g/ukraine_reportedly_launches_dozens_of_drones_at/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7u1jx/japan_is_deploying_ultracheap_cardboard_drones/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,39 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 610,506 views \u2022 ~375m old",
+    "why": "Trending on YouTube \u2022 610,577 views \u2022 ~429m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DphlYwaX60g"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=781DO06JMyw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3H1T4d4PyPA"
   },
   {
     "topic": "Truist Championship, Second Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~228m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq-V_8TghmE"
   },
   {
-    "topic": "SEC Tournament: Florida vs. Alabama",
+    "topic": "SEC Tournament: Georgia vs. Texas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DF9nz0Y4mD8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oFQWCAQBvmI"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~351m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yUXT0H9JOr0"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~109m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=reKMDoUpxoo"
   },
   {
@@ -232,23 +232,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CuY0kYc2Yso"
+  },
+  {
+    "topic": "The Devil Wears Prada",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NlM3_vbHvz0"
+  },
+  {
+    "topic": "The Source With Kaitlan Collins",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oOxGyPYl3BU"
   },
   {
     "topic": "Mid-West Upsize: Family Home",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Ayi78Q-73Y"
-  },
-  {
-    "topic": "Erin Burnett OutFront",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2PE72-S6WA4"
   }
 ]
