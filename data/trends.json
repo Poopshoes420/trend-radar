@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "\"No, it's necessary.",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t7zt44/no_its_necessary/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "It's excited about something...",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7k5fv/funny_meme/"
   },
   {
-    "topic": "I love my fyp",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7rqin/i_love_my_fyp/"
-  },
-  {
     "topic": "Really looking out for small creators, huh?",
     "sources": [
       "reddit"
@@ -72,22 +63,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7y2uz/really_looking_out_for_small_creators_huh/"
   },
   {
-    "topic": "I feel like this is gonna be the next big YouTube sponsorship scam/scandal but I can't prove it",
+    "topic": "I love my fyp",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7sffo/i_feel_like_this_is_gonna_be_the_next_big_youtube/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7rqin/i_love_my_fyp/"
   },
   {
-    "topic": "Has anyone seen this video pop up in your page",
+    "topic": "this makes me viscerally uncomfortable for some reason",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7pt5d/has_anyone_seen_this_video_pop_up_in_your_page/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
+  },
+  {
+    "topic": "What......",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7z3iw/what/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1535, Part 1 (Thread #1682)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "'Victory will be ours,' Putin tells Victory Day parade without any tanks",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t807ba/victory_will_be_ours_putin_tells_victory_day/"
+  },
+  {
     "topic": "Elon Musk faces criminal probe in France after ignoring summons in X case",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7jrkc/elon_musk_faces_criminal_probe_in_france_after/"
   },
   {
-    "topic": "Moderna announces early-stage hantavirus vaccine research amid deadly cruise ship outbreak, shares jump 12%",
+    "topic": "Ukraine 'Kamikaze' Sea Drone Found Armed With 200kg of Explosives Off Greek Island",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7mlkz/moderna_announces_earlystage_hantavirus_vaccine/"
-  },
-  {
-    "topic": "Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7u1jx/japan_is_deploying_ultracheap_cardboard_drones/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t7xyx6/ukraine_kamikaze_sea_drone_found_armed_with_200kg/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 610,577 views \u2022 ~429m old",
+    "why": "Trending on YouTube \u2022 610,663 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DphlYwaX60g"
+  },
+  {
+    "topic": "Montreal Canadiens at Buffalo Sabres",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hvM4i57CC70"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~132m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3H1T4d4PyPA"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~228m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Tq-V_8TghmE"
   },
   {
@@ -208,55 +216,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oFQWCAQBvmI"
+  },
+  {
+    "topic": "Kings of the Frozen North",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=R5bywlFFD-Y"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~351m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yUXT0H9JOr0"
+  },
+  {
+    "topic": "Connecticut Sun at New York Liberty",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nDefzx_VR1Y"
   },
   {
     "topic": "Washington Mystics at Toronto Tempo",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
     "exampleUrl": "https://www.youtube.com/watch?v=reKMDoUpxoo"
+  },
+  {
+    "topic": "Ford v Ferrari",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GYRSegXHJ6w"
   },
   {
     "topic": "Bully Hill Vineyards 176 at The Glen",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CuY0kYc2Yso"
-  },
-  {
-    "topic": "The Devil Wears Prada",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NlM3_vbHvz0"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~119m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oOxGyPYl3BU"
-  },
-  {
-    "topic": "Mid-West Upsize: Family Home",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_Ayi78Q-73Y"
   }
 ]
