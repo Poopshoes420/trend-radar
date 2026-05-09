@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8525i/ill_stop_procrastinating_tomorrow/"
   },
   {
-    "topic": "this makes me viscerally uncomfortable for some reason",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
-  },
-  {
     "topic": "Mythical yt homepage pull",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t88qxu/mythical_yt_homepage_pull/"
+  },
+  {
+    "topic": "this makes me viscerally uncomfortable for some reason",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t7yicv/this_makes_me_viscerally_uncomfortable_for_some/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1535, Part 1 (Thread #1682)",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t7vfrp/nintendo_president_apologizes_for_switch_2_price/"
   },
   {
-    "topic": "Subnautica 2 Early Access Gameplay Trailer\ud83c\udf89",
+    "topic": "Everyone experiences this at some point in RollerCoaster Tycoon before their learn about the Handyman",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t87fvl/subnautica_2_early_access_gameplay_trailer/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t8dee1/everyone_experiences_this_at_some_point_in/"
   },
   {
     "topic": "Escape 50 Pros, Win $50,000",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,626,773 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 2,102,121 views \u2022 ~263m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Caxv8tLATnc"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,223,445 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 2,511,093 views \u2022 ~414m old",
     "exampleUrl": "https://www.youtube.com/watch?v=07h9Y1XKBWI"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,311,114 views \u2022 ~390m old",
+    "why": "Trending on YouTube \u2022 1,448,542 views \u2022 ~442m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZjO0dep5VjU"
+  },
+  {
+    "topic": "The Strongest Battlegrounds COSMIC GAROU Update Trailer (OFFICIAL)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 302,306 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZAMDGF-Wcy4"
   },
   {
     "topic": "Subnautica 2 Early Access Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 361,751 views \u2022 ~268m old",
+    "why": "Trending on YouTube \u2022 459,412 views \u2022 ~319m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6t2nDHldoSk"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,957 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 126,730 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_i0F5LDx1tI"
   },
   {
@@ -224,47 +232,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 53,407 views \u2022 ~391m old",
+    "why": "Trending on YouTube \u2022 57,365 views \u2022 ~443m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RF2bYIUzbAg"
+  },
+  {
+    "topic": "Fox & Friends Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WBbG3XP-EPM"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~602m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hvM4i57CC70"
-  },
-  {
-    "topic": "Jesse Watters Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3H1T4d4PyPA"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Fd_sFgfPTx0"
-  },
-  {
-    "topic": "SEC Tournament: Georgia vs. Texas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~672m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oFQWCAQBvmI"
   },
   {
     "topic": "Top Gun: Maverick",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=afc_F0svs5Y"
   },
   {
@@ -272,15 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~561m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~613m old",
     "exampleUrl": "https://www.youtube.com/watch?v=R5bywlFFD-Y"
-  },
-  {
-    "topic": "American Sniper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~502m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5LJ__K8YuyY"
   }
 ]
