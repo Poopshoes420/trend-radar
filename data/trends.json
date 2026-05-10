@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I'm sure this takes a lot of skill but they look like they really need to pee!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t8zu36/im_sure_this_takes_a_lot_of_skill_but_they_look/"
-  },
-  {
     "topic": "This the minutes!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t98a0f/this_the_minutes/"
+  },
+  {
+    "topic": "I'm sure this takes a lot of skill but they look like they really need to pee!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t8zu36/im_sure_this_takes_a_lot_of_skill_but_they_look/"
   },
   {
     "topic": "er, um",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t96rqf/this_video_is_very_old_how_does_it_suddenly_have/"
   },
   {
+    "topic": "This is some super villain type shit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t93svh/this_is_some_super_villain_type_shit/"
+  },
+  {
     "topic": "Why is the new CEO like this?",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8u5cc/why_is_the_new_ceo_like_this/"
-  },
-  {
-    "topic": "Does anyone else hate this crap",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t8dcj9/does_anyone_else_hate_this_crap/"
   },
   {
     "topic": "What the fuck is this UI change? I don\u2019t want Gemini summaries under every video",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t91n9c/putin_warns_armenia_it_could_face_ukraine/"
   },
   {
-    "topic": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
+    "topic": "Russia breaks 3-day ceasefire as strikes kill 1, injure 19 across Ukraine",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t8pgv3/russia_has_lost_more_than_350000_soldiers_new/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t9a0e8/russia_breaks_3day_ceasefire_as_strikes_kill_1/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t97em2/this_has_got_to_be_my_favourite_moment_of_a_video/"
   },
   {
+    "topic": "BOYNEXTDOOR (\ubcf4\uc774\ub125\uc2a4\ud2b8\ub3c4\uc5b4) '\ub611\ub611\ub611' Official MV",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 244,277 views \u2022 ~96m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=WxGWMI2B7r8"
+  },
+  {
     "topic": "Mom Movie Trailer - SNL",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,583 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 237,274 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbDOegHVPP8"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~235m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mWGZLruStu0"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vVz-INyGPq8"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hlC3tNuxtKo"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~374m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~431m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_rHPktMcBkk"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7yvuxIgKzUw"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzUMHUW-sKo"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~422m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VyfnKVtobMA"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sydoFRn7EL0"
   },
   {
@@ -256,23 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~224m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oYKSGKx3AbA"
-  },
-  {
-    "topic": "A Few Good Men",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Jweg_FC1zPg"
-  },
-  {
-    "topic": "LSU at Georgia",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7Qtx0dlQbhs"
   }
 ]
