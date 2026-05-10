@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t98a0f/this_the_minutes/"
   },
   {
+    "topic": "Shake It Up",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t981yj/shake_it_up/"
+  },
+  {
     "topic": "I'm sure this takes a lot of skill but they look like they really need to pee!",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1t8zu36/im_sure_this_takes_a_lot_of_skill_but_they_look/"
-  },
-  {
-    "topic": "er, um",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1t96mfu/er_um/"
   },
   {
     "topic": "We listen to Feedback \ud83d\ude06",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Putin Warns Armenia It Could Face \u201cUkraine Scenario\u201d Over EU Ambitions",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t91n9c/putin_warns_armenia_it_could_face_ukraine/"
-  },
-  {
     "topic": "Russia breaks 3-day ceasefire as strikes kill 1, injure 19 across Ukraine",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t9a0e8/russia_breaks_3day_ceasefire_as_strikes_kill_1/"
+  },
+  {
+    "topic": "Putin Warns Armenia It Could Face \u201cUkraine Scenario\u201d Over EU Ambitions",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t91n9c/putin_warns_armenia_it_could_face_ukraine/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t962wm/physical_game_fans_beware_digital_downloads_hit/"
   },
   {
-    "topic": "Europe May Soon Get a Non-U.S. Alternative to Unreal Engine",
+    "topic": "My wife bought me Saros for my birthday\u2026 woo hoo \ud83d\ude4c\ud83c\udffb",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t903sy/europe_may_soon_get_a_nonus_alternative_to_unreal/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t9a0y9/my_wife_bought_me_saros_for_my_birthday_woo_hoo/"
   },
   {
     "topic": "Nintendo boss reportedly wants to make up for Switch 2 price increase with a stronger line-up of games",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t97em2/this_has_got_to_be_my_favourite_moment_of_a_video/"
   },
   {
+    "topic": "Karuppu (Tamil) - Trailer | Suriya | RJ Balaji | Trisha |  @SaiAbhyankkar | Dream Warrior | May 14",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,500,781 views \u2022 ~180m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JpVl_-1YgIo"
+  },
+  {
     "topic": "BOYNEXTDOOR (\ubcf4\uc774\ub125\uc2a4\ud2b8\ub3c4\uc5b4) '\ub611\ub611\ub611' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 244,277 views \u2022 ~96m old",
+    "why": "Trending on YouTube \u2022 321,023 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WxGWMI2B7r8"
   },
   {
@@ -192,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 237,274 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 276,681 views \u2022 ~701m old",
     "exampleUrl": "https://www.youtube.com/watch?v=lbDOegHVPP8"
+  },
+  {
+    "topic": "Drinker's Chasers - The Odyssey Looks BAD",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 70,260 views \u2022 ~275m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nacF93pUcY0"
   },
   {
     "topic": "Colorado Avalanche at Minnesota Wild",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~295m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mWGZLruStu0"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~542m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~602m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vVz-INyGPq8"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~653m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hlC3tNuxtKo"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~431m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_rHPktMcBkk"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7yvuxIgKzUw"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~572m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bzUMHUW-sKo"
   },
   {
@@ -248,23 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VyfnKVtobMA"
-  },
-  {
-    "topic": "Real Time With Bill Maher",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~526m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sydoFRn7EL0"
-  },
-  {
-    "topic": "We're the Millers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~281m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oYKSGKx3AbA"
   }
 ]
