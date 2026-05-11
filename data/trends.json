@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "I cracked my phone screen",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ta0fal/i_cracked_my_phone_screen/"
-  },
-  {
     "topic": "Beware of scams!",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1taboqs/beware_of_scams/"
+  },
+  {
+    "topic": "I cracked my phone screen",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ta0fal/i_cracked_my_phone_screen/"
   },
   {
     "topic": "Mess with the cock, get the Glock",
@@ -54,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t9j8eo/is_anyone_sick_of_this_corny_bullshit/"
   },
   {
-    "topic": "I'm actually impressed how these channels are able to pirate full movies and have them still up for hours. This stuff normally gets struck down within minutes.",
+    "topic": "\u201cTry YouTube Kids\u201d",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t9td9n/im_actually_impressed_how_these_channels_are_able/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tabbn2/try_youtube_kids/"
   },
   {
     "topic": "The pinnacle of embarrassment of 2026.",
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1taca4f/the_pinnacle_of_embarrassment_of_2026/"
   },
   {
+    "topic": "I'm actually impressed how these channels are able to pirate full movies and have them still up for hours. This stuff normally gets struck down within minutes.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t9td9n/im_actually_impressed_how_these_channels_are_able/"
+  },
+  {
     "topic": "Hot take youtube feels dead now",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tabmwu/hot_take_youtube_feels_dead_now/"
-  },
-  {
-    "topic": "HOW????????",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1t9wshb/how/"
   },
   {
     "topic": "UK is granting Palantir \u2018unlimited access\u2019 to NHS patient data",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "12 Employees in Quarantine After Incorrect Handling of a Person Infected With Hantavirus",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1taf1t2/12_employees_in_quarantine_after_incorrect/"
+  },
+  {
     "topic": "Netanyahu announced intention to phase out US military aid",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ta1ab9/netanyahu_announced_intention_to_phase_out_us/"
-  },
-  {
-    "topic": "\u2018We Pushed Him a Little\u2019: Zelensky Says Putin Shows Readiness for Negotiations",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ta4pk3/we_pushed_him_a_little_zelensky_says_putin_shows/"
   },
   {
     "topic": "Sarah Michelle Gellar, Freddie Prinze jr & family at WNBA game",
@@ -180,27 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t9s8un/the_new_lego_batman_game_has_reportedly_been_made/"
   },
   {
-    "topic": "aespa \uc5d0\uc2a4\ud30c 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 5,963,461 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iTJSbJtS8MU"
-  },
-  {
-    "topic": "NMIXX(\uc5d4\ubbf9\uc2a4) \u201cHeavy Serenade\u201d M/V",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 2,480,573 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6Ycn9qZK09I"
-  },
-  {
     "topic": "CORTIS (\ucf54\ub974\ud2f0\uc2a4) 'ACAI' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,233,102 views \u2022 ~537m old",
+    "why": "Trending on YouTube \u2022 1,298,352 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nCElUD0jvgo"
   },
   {
@@ -208,47 +192,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 331,228 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 531,932 views \u2022 ~310m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7i8PKBF3plY"
   },
   {
-    "topic": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+    "topic": "Our Airport Security Still Sucks...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,981 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZAsxW7bkK-A"
+    "why": "Trending on YouTube \u2022 227,029 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8NCaEveCxJ8"
   },
   {
-    "topic": "72 Hours | Kevin Hart | Official Trailer | Netflix",
+    "topic": "Kendrick Lamar - Not Like Us",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,688 views \u2022 ~355m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N-J-HR3quc4"
+    "why": "Trending on YouTube \u2022 121,553 views \u2022 ~143m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nbjFIiqAUVo"
   },
   {
-    "topic": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey",
+    "topic": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,251 views \u2022 ~281m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
+    "why": "Trending on YouTube \u2022 72,195 views \u2022 ~174m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
   },
   {
     "topic": "The Boys S5 Ep 7 Trailer Just Hinted At Every Death\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 29,714 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 72,238 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CwH7MS1jBzY"
+  },
+  {
+    "topic": "THE RIVALS OF AMZIAH KING Official Trailer (2026) Matthew McConaughey",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 69,007 views \u2022 ~356m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
+  },
+  {
+    "topic": "72 Hours | Kevin Hart | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 76,001 views \u2022 ~430m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=N-J-HR3quc4"
   },
   {
     "topic": "Hotboii Feat. Lil Baby - Alicia (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 39,438 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 60,605 views \u2022 ~370m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3OoonU-EizA"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fdYvqMf9Ir0"
   },
   {
@@ -264,47 +264,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~85m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EYB4n_kAKCU"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~42m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nB9-er1KwCw"
   },
   {
     "topic": "Detroit Tigers at Kansas City Royals",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~509m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~584m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ii3hDya3vfU"
   },
   {
-    "topic": "Gone With the Wind",
+    "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~401m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BGhKxMl8xOs"
-  },
-  {
-    "topic": "The Dark Knight Rises",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~690m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Jk9HqVGS8FA"
-  },
-  {
-    "topic": "John Wick: Chapter 4",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~568m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DqAii6iE4wU"
-  },
-  {
-    "topic": "In My Getting Married Era",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gKJIxSwN-dM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-vTYZp83veY"
   }
 ]
