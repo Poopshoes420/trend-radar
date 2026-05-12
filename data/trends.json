@@ -18,22 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1taboqs/beware_of_scams/"
   },
   {
-    "topic": "Mess with the cock, get the Glock",
+    "topic": "Bing bong",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ta852c/mess_with_the_cock_get_the_glock/"
-  },
-  {
-    "topic": "I cracked my phone screen",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ta0fal/i_cracked_my_phone_screen/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tajgs9/bing_bong/"
   },
   {
     "topic": "Literally everyone as a kid :)",
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1taglow/literally_everyone_as_a_kid/"
+  },
+  {
+    "topic": "Mess with the cock, get the Glock",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ta852c/mess_with_the_cock_get_the_glock/"
   },
   {
     "topic": "\u201cTry YouTube Kids\u201d",
@@ -99,13 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1taf1t2/12_employees_in_quarantine_after_incorrect/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1537, Part 1 (Thread #1684)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1538, Part 1 (Thread #1685)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t9s8p6/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1taqctp/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #17)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "UK is granting Palantir \u2018unlimited access\u2019 to NHS patient data",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tab9rs/uk_is_granting_palantir_unlimited_access_to_nhs/"
-  },
-  {
     "topic": "UAE has been secretly carrying out attacks on Iran, WSJ reports",
     "sources": [
       "reddit"
@@ -135,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tagzmg/uae_has_been_secretly_carrying_out_attacks_on/"
   },
   {
-    "topic": "Sarah Michelle Gellar, Freddie Prinze jr & family at WNBA game",
+    "topic": "Trump 'Seriously Considering' Plan to Make Venezuela and its $40 Trillion in Oil Permanent Part of USA",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1taauoj/sarah_michelle_gellar_freddie_prinze_jr_family_at/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tanv5k/trump_seriously_considering_plan_to_make/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tac8uz/playground_games_adresses_forza_horizon_6_leak/"
   },
   {
-    "topic": "Forza Horizon 6 has leaked almost 2 weeks early after the entire unencrypted game was accidentally pushed through a Steam update by the developers All 155 gigabytes of files were spotted on SteamDB shortly after the update",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t9rj5o/forza_horizon_6_has_leaked_almost_2_weeks_early/"
-  },
-  {
     "topic": "Games where enemies die easily but there are a lot of them?",
     "sources": [
       "reddit"
@@ -180,43 +162,61 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tag449/games_where_enemies_die_easily_but_there_are_a/"
   },
   {
-    "topic": "The Boys Season 5 Episode 7 Trailer | 'The Penultimate Episode'",
+    "topic": "Forza Horizon 6 has leaked almost 2 weeks early after the entire unencrypted game was accidentally pushed through a Steam update by the developers All 155 gigabytes of files were spotted on SteamDB shortly after the update",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 690,050 views \u2022 ~431m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7i8PKBF3plY"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t9rj5o/forza_horizon_6_has_leaked_almost_2_weeks_early/"
+  },
+  {
+    "topic": "Test of Time Update - Time-Tested Civs | Civ VII",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1taglvy/test_of_time_update_timetested_civs_civ_vii/"
   },
   {
     "topic": "Our Airport Security Still Sucks...",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 405,061 views \u2022 ~298m old",
+    "why": "Trending on YouTube \u2022 723,382 views \u2022 ~534m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8NCaEveCxJ8"
+  },
+  {
+    "topic": "The Boys Season 5 Episode 7 Trailer | 'The Penultimate Episode'",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 829,946 views \u2022 ~667m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=7i8PKBF3plY"
   },
   {
     "topic": "The Boys Season 5 Episode 7 Trailer: Homelander Stops Holding Back",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 155,260 views \u2022 ~295m old",
+    "why": "Trending on YouTube \u2022 227,751 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KkCwpQDk5dQ"
   },
   {
-    "topic": "72 Hours | Kevin Hart | Official Trailer | Netflix",
+    "topic": "Mulberry County\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,778 views \u2022 ~551m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N-J-HR3quc4"
+    "why": "Trending on YouTube \u2022 151,872 views \u2022 ~367m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VL3_3rYSvec"
   },
   {
     "topic": "The Boys S5 Ep 7 Trailer Just Hinted At Every Death\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 108,705 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 136,406 views \u2022 ~642m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CwH7MS1jBzY"
   },
   {
@@ -224,39 +224,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 97,596 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 127,701 views \u2022 ~713m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5BYVZBcPnj4"
   },
   {
-    "topic": "Hotboii Feat. Lil Baby - Alicia (Official Video)",
+    "topic": "Kylie Cantrall - Carrie Bradshaw (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,420 views \u2022 ~491m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=3OoonU-EizA"
+    "why": "Trending on YouTube \u2022 24,672 views \u2022 ~307m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tQYG3vSMUms"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "The Story With Martha MacCallum",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=EYB4n_kAKCU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sxVEAaEL4rI"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~399m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nB9-er1KwCw"
-  },
-  {
-    "topic": "Detroit Tigers at Kansas City Royals",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~706m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ii3hDya3vfU"
   }
 ]
