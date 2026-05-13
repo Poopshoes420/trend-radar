@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tc6s0s/nairobi_kenya_what_a_view/"
   },
   {
+    "topic": "False advertising? Nah\u2014just extra cheesy marketing",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tcdi2p/false_advertising_nahjust_extra_cheesy_marketing/"
+  },
+  {
     "topic": "Release us, human!",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tc0ec6/release_us_human/"
-  },
-  {
-    "topic": "Too good a guy for this cruel world...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tbuu2a/too_good_a_guy_for_this_cruel_world/"
   },
   {
     "topic": "Why does this ad keep popping up?",
@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tccnnv/ads_are_killing_youtube/"
   },
   {
-    "topic": "AI Generated videos are bad !",
+    "topic": "Anyone else get pinged? The actual fuck is this",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tbwgv4/ai_generated_videos_are_bad/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcdivq/anyone_else_get_pinged_the_actual_fuck_is_this/"
   },
   {
     "topic": "I hate YouTube",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tc9o4y/i_hate_youtube/"
   },
   {
-    "topic": "AI Generated videos are KILLING YouTube. They all SUCK!!\u2019",
+    "topic": "AI Generated videos are bad !",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tbnau1/ai_generated_videos_are_killing_youtube_they_all/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tbwgv4/ai_generated_videos_are_bad/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1539, Part 1 (Thread #1686)",
@@ -184,31 +184,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,837 views \u2022 ~122m old",
+    "why": "Trending on YouTube \u2022 435,135 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sTLo5mpHQ48"
-  },
-  {
-    "topic": "Backrooms | Official Promo | A24",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 520,278 views \u2022 ~592m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
   },
   {
     "topic": "Don Toliver - E85 [Official Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 266,421 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 432,280 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rVD-zV6ctoM"
+  },
+  {
+    "topic": "Backrooms | Official Promo | A24",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 634,070 views \u2022 ~656m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
   },
   {
     "topic": "SHADOW BLOW X ALOFOKE MUSIC X CARLOS MONTESQUIEU - VETE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,341 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 213,363 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vxplyr3toyw"
   },
   {
@@ -216,47 +216,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 415,789 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 450,374 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=POneS8h1jyU"
-  },
-  {
-    "topic": "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 227,529 views \u2022 ~411m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
   },
   {
     "topic": "Stuart Fails to Save the Universe | Official Teaser | HBO Max",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,878 views \u2022 ~467m old",
+    "why": "Trending on YouTube \u2022 274,669 views \u2022 ~531m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gnmc33Y55YI"
+  },
+  {
+    "topic": "Season 8 Battle Pass: Project: Heroic Age | Official Trailer | Marvel Rivals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 242,385 views \u2022 ~475m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=v-SnFA5v9P8"
+  },
+  {
+    "topic": "Jynxzi & Dantes 2v2 Vs EVERY Rank (Rainbow Six Siege)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 180,821 views \u2022 ~491m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=s9h9L1kUiDs"
+  },
+  {
+    "topic": "East of Eden | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 100,292 views \u2022 ~300m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=fdBr5KyUilU"
+  },
+  {
+    "topic": "I WILL GET TO THE MOON [Kerbal Space Program]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 149,495 views \u2022 ~540m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4jvhSfUOHEQ"
   },
   {
     "topic": "Overwatch Answers the Call \u260e\ufe0f | Act III Cinematic Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,797 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 179,385 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0AsfMdywXug"
-  },
-  {
-    "topic": "The Hawk | Official Teaser | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 52,048 views \u2022 ~227m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ga8bJyvnSYs"
   },
   {
     "topic": "Deep Rock Galactic: Rogue Core - Narrated Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 122,435 views \u2022 ~592m old",
+    "why": "Trending on YouTube \u2022 131,647 views \u2022 ~656m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qdHGDsSYiQE"
   },
   {
@@ -264,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,177 views \u2022 ~587m old",
+    "why": "Trending on YouTube \u2022 85,915 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SiXvLh2FMO8"
   },
   {
@@ -272,7 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,470 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 30,910 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QNDh7d4FoK4"
   },
   {
@@ -280,7 +296,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~639m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UDV5pN5cRyQ"
   },
   {
@@ -288,7 +304,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~134m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5E979b0Qbio"
   },
   {
@@ -296,7 +312,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~188m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5wgARu6c7M0"
   },
   {
@@ -304,15 +320,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
     "exampleUrl": "https://www.youtube.com/watch?v=J6DF1NSeR28"
-  },
-  {
-    "topic": "San Francisco Giants at Los Angeles Dodgers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pIuOXbjKxxg"
   }
 ]
