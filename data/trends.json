@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcl2v7/why_are_so_many_youtube_channels_uploading/"
   },
   {
-    "topic": "YouTube not working?",
+    "topic": "Please have toggle on/off Auto track Ai English dub. Leave original as default.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1td984w/youtube_not_working/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1td3ft2/please_have_toggle_onoff_auto_track_ai_english/"
   },
   {
     "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 755,905 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 894,116 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fPmrzygqO8U"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 122,717 views \u2022 ~421m old",
+    "why": "Trending on YouTube \u2022 145,745 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oT5LwwEHgnc"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,136 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 79,075 views \u2022 ~297m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
   },
   {
@@ -208,47 +208,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~611m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
     "exampleUrl": "https://www.youtube.com/watch?v=byliYF8pot8"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1V3pIp2GBXg"
   },
   {
     "topic": "Minnesota Wild at Colorado Avalanche",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~693m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JiEd-USDNAM"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~130m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=n2NuI01U3gA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YqquQcnH5KI"
   },
   {
     "topic": "Indiana Fever at Los Angeles Sparks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~475m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FYALRN4dJTI"
+  },
+  {
+    "topic": "Squawk Box",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d7I78pHQvWg"
   },
   {
     "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q5xMuPFCqDM"
-  },
-  {
-    "topic": "The Bourne Identity",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~700m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X9OUTrD_Rjg"
   }
 ]
