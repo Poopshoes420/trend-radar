@@ -27,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tc8ovj/grandma_catches_the_wrong_grandson_at_internet/"
   },
   {
-    "topic": "Bad horse",
+    "topic": "Bro wasn't method acting",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tcu24a/bad_horse/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tctyox/bro_wasnt_method_acting/"
   },
   {
     "topic": "Nairobi, Kenya. What a view!",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcl2v7/why_are_so_many_youtube_channels_uploading/"
   },
   {
+    "topic": "Warning: Don\u2019t Buy Movies on YT",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcvuvz/warning_dont_buy_movies_on_yt/"
+  },
+  {
     "topic": "Holy shit\u2026 it\u2019s happening",
     "sources": [
       "reddit"
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tccnnv/ads_are_killing_youtube/"
-  },
-  {
-    "topic": "How is this allowed on youtube this is just straight up blurred out corn.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tccm02/how_is_this_allowed_on_youtube_this_is_just/"
   },
   {
     "topic": "can we stop \"fixing\" nsfw art?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Australia\u2019s Trump Tower plans scrapped as developer says brand has become \u2018toxic\u2019",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tck8ni/australias_trump_tower_plans_scrapped_as/"
-  },
-  {
     "topic": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
     "sources": [
       "reddit"
@@ -126,13 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tcpvos/xi_asks_trump_if_us_and_china_can_avoid/"
   },
   {
-    "topic": "Iran demands Pride flags be banned from World Cup stadiums",
+    "topic": "Australia\u2019s Trump Tower plans scrapped as developer says brand has become \u2018toxic\u2019",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tcepd5/iran_demands_pride_flags_be_banned_from_world_cup/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tck8ni/australias_trump_tower_plans_scrapped_as/"
+  },
+  {
+    "topic": "Russia Bombards Ukraine With 1,600+ Drones and Missiles for 30 Hours Straight",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tcsggl/russia_bombards_ukraine_with_1600_drones_and/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tcc3ne/we_need_another_game_like_la_noire/"
   },
   {
+    "topic": "'Forza Horizon 6' - Review Thread",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tcw2yy/forza_horizon_6_review_thread/"
+  },
+  {
     "topic": "how to make your game cool as fuck: add exaggerated title cards",
     "sources": [
       "reddit"
@@ -171,28 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tc5wso/how_to_make_your_game_cool_as_fuck_add/"
   },
   {
-    "topic": "Alan Wake 2 is so committed to be oppressive that the safe rooms look like this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tbzltz/alan_wake_2_is_so_committed_to_be_oppressive_that/"
-  },
-  {
     "topic": "The \u201cRush Hour 4\u201d Trailer Just Dropped",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,665 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 27,402 views \u2022 ~611m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CUyFzhGukiM"
+  },
+  {
+    "topic": "Minnesota Wild at Colorado Avalanche",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JiEd-USDNAM"
   },
   {
     "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~306m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ja3HI5Uqoa8"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X9OUTrD_Rjg"
-  },
-  {
-    "topic": "NHL Post-Game on TNT",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-ONZANaiH6M"
   },
   {
     "topic": "Las Vegas Aces at Connecticut Sun",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~193m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9fjS91IfV64"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~264m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qAkkLYfoBa0"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~253m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4Bh84Dcl4XU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~250m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kUF8KiFsOco"
   },
   {
@@ -248,15 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~245m old",
     "exampleUrl": "https://www.youtube.com/watch?v=stKfJodOLAw"
-  },
-  {
-    "topic": "Live From the PGA Championship",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=OlQIsob9Ki4"
   }
 ]
