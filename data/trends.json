@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tc8ovj/grandma_catches_the_wrong_grandson_at_internet/"
   },
   {
+    "topic": "Bad horse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tcu24a/bad_horse/"
+  },
+  {
     "topic": "Nairobi, Kenya. What a view!",
     "sources": [
       "reddit"
@@ -34,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tc6s0s/nairobi_kenya_what_a_view/"
-  },
-  {
-    "topic": "False advertising? Nah\u2014just extra cheesy marketing",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tcdi2p/false_advertising_nahjust_extra_cheesy_marketing/"
-  },
-  {
-    "topic": "Why does this ad keep popping up?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcc4rv/why_does_this_ad_keep_popping_up/"
   },
   {
     "topic": "Why are so many YouTube channels uploading full-length movies?",
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tccm02/how_is_this_allowed_on_youtube_this_is_just/"
+  },
+  {
+    "topic": "can we stop \"fixing\" nsfw art?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tckq03/can_we_stop_fixing_nsfw_art/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1540, Part 1 (Thread #1687)",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t9uhsi/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "We need another game like L.A Noire!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tcc3ne/we_need_another_game_like_la_noire/"
-  },
-  {
     "topic": "Came across a much simpler time in gaming today",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tcsrpe/came_across_a_much_simpler_time_in_gaming_today/"
+  },
+  {
+    "topic": "We need another game like L.A Noire!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tcc3ne/we_need_another_game_like_la_noire/"
   },
   {
     "topic": "how to make your game cool as fuck: add exaggerated title cards",
@@ -180,27 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tbzltz/alan_wake_2_is_so_committed_to_be_oppressive_that/"
   },
   {
-    "topic": "A Billion Dollar Tragedy",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 295,185 views \u2022 ~552m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZJQ9yPEFKEA"
-  },
-  {
-    "topic": "I Shouldn\u2019t Have Taken This Free House\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 290,713 views \u2022 ~702m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DZX9nrK8z7M"
-  },
-  {
     "topic": "The \u201cRush Hour 4\u201d Trailer Just Dropped",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 22,817 views \u2022 ~397m old",
+    "why": "Trending on YouTube \u2022 24,665 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CUyFzhGukiM"
   },
   {
@@ -208,31 +192,71 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ja3HI5Uqoa8"
   },
   {
-    "topic": "The Source With Kaitlan Collins",
+    "topic": "The Bourne Identity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vgPpceHp6rA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=X9OUTrD_Rjg"
   },
   {
-    "topic": "Deadline: White House",
+    "topic": "NHL Post-Game on TNT",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~300m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5NgJnsIbbEo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-ONZANaiH6M"
+  },
+  {
+    "topic": "Las Vegas Aces at Connecticut Sun",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9fjS91IfV64"
+  },
+  {
+    "topic": "CNN NewsNight With Abby Phillip",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qAkkLYfoBa0"
+  },
+  {
+    "topic": "Triggers and Tiaras",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=4Bh84Dcl4XU"
+  },
+  {
+    "topic": "The Last Word With Lawrence O'Donnell",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kUF8KiFsOco"
+  },
+  {
+    "topic": "Philadelphia Phillies at Boston Red Sox",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~138m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=stKfJodOLAw"
   },
   {
     "topic": "Live From the PGA Championship",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~221m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OlQIsob9Ki4"
   }
 ]
