@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te6tsl/fingertips/"
   },
   {
-    "topic": "You\u2019re not escaping this time",
+    "topic": "What do you do for a living?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdwxil/youre_not_escaping_this_time/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te24np/what_do_you_do_for_a_living/"
   },
   {
     "topic": "It's happening guys. I'm the lucky one.",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdqjlz/its_happening_guys_im_the_lucky_one/"
+  },
+  {
+    "topic": "Hey, YouTube. Fuck You.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te96dn/hey_youtube_fuck_you/"
   },
   {
     "topic": "Why does YouTube allow this?",
@@ -70,15 +79,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te1ypj/the_team_responsible_for_game_theory_are/"
-  },
-  {
-    "topic": "Hey, YouTube. Fuck You.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te96dn/hey_youtube_fuck_you/"
   },
   {
     "topic": "I just wanted to go to Glitch\u2019s channel \ud83d\ude2d",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdwxhk/forza_horizon_6_immediately_beats_its/"
   },
   {
+    "topic": "PS5 Player Counts for Popular Games May Soon Be Public as Rumors Swirl That Sony Is Testing a New Feature",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tebfft/ps5_player_counts_for_popular_games_may_soon_be/"
+  },
+  {
     "topic": "Lego 2K Drive to be delisted on Xbox ahead of server closure",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1te4qxb/trails_in_the_sky_helps_its_developer_reach_1216/"
   },
   {
-    "topic": "Subnautica 2 has already sold a million copies and reached 460 thousand players on steam. It hasn't even been a full day yet",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tddv2z/subnautica_2_has_already_sold_a_million_copies/"
-  },
-  {
     "topic": "Evanescence \u2013 Who Will You Follow (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 300,510 views \u2022 ~471m old",
+    "why": "Trending on YouTube \u2022 334,541 views \u2022 ~530m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ak4Ti54Y6rY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,048 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 116,068 views \u2022 ~222m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vOGmktrRipk"
   },
   {
@@ -200,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 52,084 views \u2022 ~231m old",
+    "why": "Trending on YouTube \u2022 65,203 views \u2022 ~290m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LLmHHIER7ic"
+  },
+  {
+    "topic": "SPIDER-MAN BRAND NEW DAY New Footage & Punisher Connection Explained!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 27,707 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=M_zC3pxpDDM"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pKwVM23TL9c"
   },
   {
@@ -216,39 +224,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~212m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jmo5mqWlQjI"
   },
   {
-    "topic": "Squawk Box",
+    "topic": "Squawk on the Street",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KgGbMNv3ZZM"
-  },
-  {
-    "topic": "Philadelphia Phillies at Boston Red Sox",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~685m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~79m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wVimvwHeot8"
   },
   {
     "topic": "San Francisco Giants at Los Angeles Dodgers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hGoUQUc-sZM"
-  },
-  {
-    "topic": "Varney & Company",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gcC8nyn9Eno"
   }
 ]
