@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "My gf drove all the way from Canada on Wednesday to take me to a concert. Isn't she absolutely stunning?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdtqj5/my_gf_drove_all_the_way_from_canada_on_wednesday/"
-  },
-  {
     "topic": "This is hilarious",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1td936d/this_is_hilarious/"
+  },
+  {
+    "topic": "You\u2019re not escaping this time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdwxil/youre_not_escaping_this_time/"
   },
   {
     "topic": "My type of marathon!",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdchgr/youtuber_youre_surprised_is_still_churning_out/"
   },
   {
+    "topic": "I just wanted to go to Glitch\u2019s channel \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdvj7r/i_just_wanted_to_go_to_glitchs_channel/"
+  },
+  {
     "topic": "Ah yes, the 4 categories of youtube",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdc06x/this_is_extremely_weird/"
-  },
-  {
-    "topic": "AI generated videos should be a separate category",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdi5yt/ai_generated_videos_should_be_a_separate_category/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1541, Part 1 (Thread #1688)",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdneax/free_talk_friday/"
   },
   {
+    "topic": "Forza Horizon 6 immediately beats its predecessor's all-time Steam record with 130,000 concurrent players \u2013 and that's only counting people willing to pay $120 for early access",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdwxhk/forza_horizon_6_immediately_beats_its/"
+  },
+  {
     "topic": "Subnautica 2 has already sold a million copies and reached 460 thousand players on steam. It hasn't even been a full day yet",
     "sources": [
       "reddit"
@@ -151,15 +160,6 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tddv2z/subnautica_2_has_already_sold_a_million_copies/"
-  },
-  {
-    "topic": "I made a LEGO Caterpie",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td6gxf/i_made_a_lego_caterpie/"
   },
   {
     "topic": "2 million copies of Subnautica 2 EA has been sold within 12 hours",
@@ -171,28 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdopdh/2_million_copies_of_subnautica_2_ea_has_been_sold/"
   },
   {
-    "topic": "Did we lose the magic of community in online multiplayer games?",
+    "topic": "I made a LEGO Caterpie",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td4x0w/did_we_lose_the_magic_of_community_in_online/"
-  },
-  {
-    "topic": "\ud83d\udd34LIVE | APE SEX LEGENDS w/ Mande & Enemy | ROOKIE TO PREDATOR TONIGHT | #BUNGULATE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 626,950 views \u2022 ~37m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6vOGiOfPCXo"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td6gxf/i_made_a_lego_caterpie/"
   },
   {
     "topic": "Make Them Cry",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,339,064 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 1,832,265 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uxNuuys19XE"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 84,771 views \u2022 ~485m old",
+    "why": "Trending on YouTube \u2022 100,904 views \u2022 ~632m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ZmJvlGiF5k"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 21,798 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 25,902 views \u2022 ~630m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yuka3HCqOPE"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~255m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kPt3iIbnrdk"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vQCGZCagY1w"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LlhrIORIDOk"
   },
   {
@@ -240,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
+  },
+  {
+    "topic": "Philadelphia Phillies at Boston Red Sox",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~276m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xbmp28JpJN8"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vjAnHGh-iuQ"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xt251OCs-7M"
   },
   {
@@ -272,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hlsJjVBH_lI"
   }
 ]
