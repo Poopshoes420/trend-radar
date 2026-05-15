@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te2fmy/tell_a_nation_its_fat_without_telling_it_its_fat/"
   },
   {
-    "topic": "The weed is strong in this one!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -27,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "You\u2019re not escaping this time",
+    "topic": "The weed is strong in this one!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdwxil/youre_not_escaping_this_time/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
   },
   {
     "topic": "Fingertips",
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te6tsl/fingertips/"
+  },
+  {
+    "topic": "You\u2019re not escaping this time",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdwxil/youre_not_escaping_this_time/"
   },
   {
     "topic": "It's happening guys. I'm the lucky one.",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdvj7r/i_just_wanted_to_go_to_glitchs_channel/"
   },
   {
-    "topic": "YouTuber you're surprised is still churning out content?",
+    "topic": "Hey, YouTube. Fuck You.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdchgr/youtuber_youre_surprised_is_still_churning_out/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te96dn/hey_youtube_fuck_you/"
   },
   {
     "topic": "'Point of no return': 36 countries join special tribunal to prosecute Vladimir Putin",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1te07mj/lego_2k_drive_to_be_delisted_on_xbox_ahead_of/"
   },
   {
+    "topic": "Trails in the Sky Helps Its Developer Reach 1,216% Increase in Profit",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1te4qxb/trails_in_the_sky_helps_its_developer_reach_1216/"
+  },
+  {
     "topic": "Subnautica 2 has already sold a million copies and reached 460 thousand players on steam. It hasn't even been a full day yet",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tddv2z/subnautica_2_has_already_sold_a_million_copies/"
   },
   {
-    "topic": "Konami is ending various live service games in Russia and Belarus as of June 15, 2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdvwke/konami_is_ending_various_live_service_games_in/"
-  },
-  {
     "topic": "Evanescence \u2013 Who Will You Follow (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 215,985 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 258,061 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ak4Ti54Y6rY"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oQKCjCAb8mk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vQCGZCagY1w"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hGoUQUc-sZM"
   },
   {
@@ -232,15 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xbmp28JpJN8"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~686m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vjAnHGh-iuQ"
   }
 ]
