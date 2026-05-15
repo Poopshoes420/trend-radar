@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "This is hilarious",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td936d/this_is_hilarious/"
-  },
-  {
     "topic": "You\u2019re not escaping this time",
     "sources": [
       "reddit"
@@ -27,22 +18,31 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdwxil/youre_not_escaping_this_time/"
   },
   {
-    "topic": "My type of marathon!",
+    "topic": "This is hilarious",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td7m31/my_type_of_marathon/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td936d/this_is_hilarious/"
   },
   {
-    "topic": "Husband and wife talking to this police officer through the ring camera at the same time",
+    "topic": "How control your anger in 1 step \ud83d\udc4c",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td3zme/husband_and_wife_talking_to_this_police_officer/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdxog0/how_control_your_anger_in_1_step/"
+  },
+  {
+    "topic": "The weed is strong in this one!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
   },
   {
     "topic": "It's happening guys. I'm the lucky one.",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdqjlz/its_happening_guys_im_the_lucky_one/"
   },
   {
-    "topic": "YouTuber you're surprised is still churning out content?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdchgr/youtuber_youre_surprised_is_still_churning_out/"
-  },
-  {
     "topic": "I just wanted to go to Glitch\u2019s channel \ud83d\ude2d",
     "sources": [
       "reddit"
@@ -72,6 +63,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdvj7r/i_just_wanted_to_go_to_glitchs_channel/"
   },
   {
+    "topic": "Why does YouTube allow this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdydui/why_does_youtube_allow_this/"
+  },
+  {
+    "topic": "YouTuber you're surprised is still churning out content?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdchgr/youtuber_youre_surprised_is_still_churning_out/"
+  },
+  {
     "topic": "Ah yes, the 4 categories of youtube",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdsq0b/ah_yes_the_4_categories_of_youtube/"
-  },
-  {
-    "topic": "this is extremely weird",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdc06x/this_is_extremely_weird/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1541, Part 1 (Thread #1688)",
@@ -108,13 +108,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Major fire seen after Ukrainian drones reportedly strike Russian oil refinery in Ryazan",
+    "topic": "China: \u2018No Point\u2019 In Continuing Iran War",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdiii5/major_fire_seen_after_ukrainian_drones_reportedly/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdwcml/china_no_point_in_continuing_iran_war/"
+  },
+  {
+    "topic": "Trump leaves Beijing with few wins but warm words for Xi",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdup7y/trump_leaves_beijing_with_few_wins_but_warm_words/"
   },
   {
     "topic": "Russia\u2019s prison population falls by 180,000 since Ukraine war",
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdj8cd/russias_prison_population_falls_by_180000_since/"
-  },
-  {
-    "topic": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdojuq/brutal_raid_on_womans_birthday_party_highlights/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tddv2z/subnautica_2_has_already_sold_a_million_copies/"
   },
   {
+    "topic": "Konami is ending various live service games in Russia and Belarus as of June 15, 2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdvwke/konami_is_ending_various_live_service_games_in/"
+  },
+  {
     "topic": "2 million copies of Subnautica 2 EA has been sold within 12 hours",
     "sources": [
       "reddit"
@@ -171,44 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdopdh/2_million_copies_of_subnautica_2_ea_has_been_sold/"
   },
   {
-    "topic": "I made a LEGO Caterpie",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td6gxf/i_made_a_lego_caterpie/"
-  },
-  {
-    "topic": "Make Them Cry",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,832,265 views \u2022 ~632m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uxNuuys19XE"
-  },
-  {
-    "topic": "Becky G - EPA (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 100,904 views \u2022 ~632m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5ZmJvlGiF5k"
-  },
-  {
-    "topic": "No Stars in Maybachs",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 25,902 views \u2022 ~630m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yuka3HCqOPE"
-  },
-  {
     "topic": "PGA Championship - Round 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~510m old",
     "exampleUrl": "https://www.youtube.com/watch?v=kPt3iIbnrdk"
   },
   {
@@ -216,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~249m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vQCGZCagY1w"
   },
   {
@@ -224,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~396m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~504m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LlhrIORIDOk"
   },
   {
@@ -232,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
   },
   {
@@ -240,15 +216,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
+  },
+  {
+    "topic": "San Francisco Giants at Los Angeles Dodgers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hGoUQUc-sZM"
   },
   {
     "topic": "The Source With Kaitlan Collins",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~276m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~385m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xbmp28JpJN8"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~309m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~417m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vjAnHGh-iuQ"
   },
   {
@@ -264,15 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~421m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xt251OCs-7M"
-  },
-  {
-    "topic": "A Place to Retreat: Costa Rica and Australia",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hlsJjVBH_lI"
   }
 ]
