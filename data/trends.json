@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1td4gm5/need_the_old_video_player_ui_back/"
   },
   {
-    "topic": "Why are so many YouTube channels uploading full-length movies?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcl2v7/why_are_so_many_youtube_channels_uploading/"
-  },
-  {
     "topic": "Please have toggle on/off Auto track Ai English dub. Leave original as default.",
     "sources": [
       "reddit"
@@ -90,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1td3ft2/please_have_toggle_onoff_auto_track_ai_english/"
   },
   {
-    "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+    "topic": "Why are so many YouTube channels uploading full-length movies?",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td645j/israel_says_it_will_sue_new_york_times_over/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcl2v7/why_are_so_many_youtube_channels_uploading/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1540, Part 1 (Thread #1687)",
@@ -115,6 +106,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td645j/israel_says_it_will_sue_new_york_times_over/"
   },
   {
     "topic": "Ukraine now has 'strongest, most powerful' military in Europe, Rubio says",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td6gxf/i_made_a_lego_caterpie/"
   },
   {
+    "topic": "Subnautica 2 has already sold a million copies and reached 460 thousand players on steam. It hasn't even been a full day yet",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tddv2z/subnautica_2_has_already_sold_a_million_copies/"
+  },
+  {
     "topic": "Amazon reportedly cancels Lord of the Rings MMO",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tczawq/amazon_reportedly_cancels_lord_of_the_rings_mmo/"
   },
   {
-    "topic": "The background NPCs in Cyberpunk 2077 are ridiculously high quality",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td0bt6/the_background_npcs_in_cyberpunk_2077_are/"
-  },
-  {
     "topic": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 894,116 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 1,020,374 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fPmrzygqO8U"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,745 views \u2022 ~489m old",
+    "why": "Trending on YouTube \u2022 166,148 views \u2022 ~549m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oT5LwwEHgnc"
   },
   {
@@ -200,39 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 79,075 views \u2022 ~297m old",
+    "why": "Trending on YouTube \u2022 98,071 views \u2022 ~358m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
-  },
-  {
-    "topic": "Cleveland Cavaliers at Detroit Pistons",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~679m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=byliYF8pot8"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1V3pIp2GBXg"
-  },
-  {
-    "topic": "Minnesota Wild at Colorado Avalanche",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~693m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JiEd-USDNAM"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YqquQcnH5KI"
   },
   {
@@ -240,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~543m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FYALRN4dJTI"
   },
   {
@@ -248,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~163m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d7I78pHQvWg"
   },
   {
@@ -256,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=q5xMuPFCqDM"
   }
 ]
