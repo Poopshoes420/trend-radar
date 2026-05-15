@@ -1,5 +1,14 @@
 [
   {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
     "topic": "This is hilarious",
     "sources": [
       "reddit"
@@ -9,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1td936d/this_is_hilarious/"
   },
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "topic": "Back in the day \ud83d\ude02\ud83d\ude02",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdifs6/back_in_the_day/"
   },
   {
     "topic": "Husband and wife talking to this police officer through the ring camera at the same time",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1td7m31/my_type_of_marathon/"
-  },
-  {
-    "topic": "Not everything should be done as a team.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td7n0y/not_everything_should_be_done_as_a_team/"
   },
   {
     "topic": "YouTuber you're surprised is still churning out content?",
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td645j/israel_says_it_will_sue_new_york_times_over/"
-  },
-  {
     "topic": "Major fire seen after Ukrainian drones reportedly strike Russian oil refinery in Ryazan",
     "sources": [
       "reddit"
@@ -126,22 +117,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdiii5/major_fire_seen_after_ukrainian_drones_reportedly/"
   },
   {
-    "topic": "Ukraine now has 'strongest, most powerful' military in Europe, Rubio says",
+    "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td3lgy/ukraine_now_has_strongest_most_powerful_military/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td645j/israel_says_it_will_sue_new_york_times_over/"
   },
   {
-    "topic": "Making Friends Monday! Share your game tags here!",
+    "topic": "Russia\u2019s prison population falls by 180,000 since Ukraine war",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdj8cd/russias_prison_population_falls_by_180000_since/"
+  },
+  {
+    "topic": "Free Talk Friday!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1t9uhsi/making_friends_monday_share_your_game_tags_here/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdneax/free_talk_friday/"
   },
   {
     "topic": "Subnautica 2 has already sold a million copies and reached 460 thousand players on steam. It hasn't even been a full day yet",
@@ -171,28 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tczawq/amazon_reportedly_cancels_lord_of_the_rings_mmo/"
   },
   {
-    "topic": "The background NPCs in Cyberpunk 2077 are ridiculously high quality",
+    "topic": "Did we lose the magic of community in online multiplayer games?",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td0bt6/the_background_npcs_in_cyberpunk_2077_are/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td4x0w/did_we_lose_the_magic_of_community_in_online/"
+  },
+  {
+    "topic": "Make Them Cry",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 538,216 views \u2022 ~218m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uxNuuys19XE"
   },
   {
     "topic": "Shakira, Burna Boy - Dai Dai (Audio)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 284,569 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 519,672 views \u2022 ~458m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X9CsK_nuqdE"
   },
   {
-    "topic": "Gracie Abrams - Hit the Wall",
+    "topic": "Gracie Abrams - Hit the Wall (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 98,373 views \u2022 ~257m old",
+    "why": "Trending on YouTube \u2022 197,892 views \u2022 ~457m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jFCTQ68gxoY"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,014 views \u2022 ~377m old",
+    "why": "Trending on YouTube \u2022 225,446 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oMb_4F9rqsI"
   },
   {
@@ -208,39 +216,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,067 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 153,190 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vjP6J-vpbmo"
   },
   {
-    "topic": "SPIDER-MAN BRAND NEW DAY TRAILER: Sadie Sink, Hulk & Things You Missed!",
+    "topic": "Becky G - EPA (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 145,943 views \u2022 ~607m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nmI2a-Ivu88"
+    "why": "Trending on YouTube \u2022 47,679 views \u2022 ~218m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5ZmJvlGiF5k"
   },
   {
-    "topic": "Ra\u00fal Beltr\u00e1n - \u00c9chale ganas mijo (Video Oficial)",
+    "topic": "No Stars in Maybachs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,361 views \u2022 ~558m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X93pS2WVE6Y"
+    "why": "Trending on YouTube \u2022 15,745 views \u2022 ~215m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yuka3HCqOPE"
   },
   {
-    "topic": "The Story With Martha MacCallum",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=L7j1BRETRpg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2xb6x43PaBI"
+  },
+  {
+    "topic": "Erin Burnett OutFront",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=z84rfQ5GQLg"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YqquQcnH5KI"
   }
 ]
