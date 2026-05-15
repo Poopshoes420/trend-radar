@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te1ypj/the_team_responsible_for_game_theory_are/"
   },
   {
-    "topic": "I just wanted to go to Glitch\u2019s channel \ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdvj7r/i_just_wanted_to_go_to_glitchs_channel/"
-  },
-  {
     "topic": "Hey, YouTube. Fuck You.",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te96dn/hey_youtube_fuck_you/"
+  },
+  {
+    "topic": "I just wanted to go to Glitch\u2019s channel \ud83d\ude2d",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdvj7r/i_just_wanted_to_go_to_glitchs_channel/"
   },
   {
     "topic": "'Point of no return': 36 countries join special tribunal to prosecute Vladimir Putin",
@@ -184,39 +184,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 258,061 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 300,510 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ak4Ti54Y6rY"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "The Boys Season 5 Episode 8 Finale Trailer: Homelander Goes Crazy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~168m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oQKCjCAb8mk"
+    "why": "Trending on YouTube \u2022 73,048 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vOGmktrRipk"
   },
   {
-    "topic": "Montreal Canadiens at Buffalo Sabres",
+    "topic": "Yungeen Ace - Honest (Future Freestyle)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vQCGZCagY1w"
+    "why": "Trending on YouTube \u2022 52,084 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LLmHHIER7ic"
   },
   {
-    "topic": "Live From the PGA Championship",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~174m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pKwVM23TL9c"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~153m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jmo5mqWlQjI"
+  },
+  {
+    "topic": "Squawk Box",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KgGbMNv3ZZM"
   },
   {
     "topic": "Philadelphia Phillies at Boston Red Sox",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~685m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
   },
   {
@@ -224,15 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~479m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hGoUQUc-sZM"
   },
   {
-    "topic": "The Source With Kaitlan Collins",
+    "topic": "Varney & Company",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xbmp28JpJN8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gcC8nyn9Eno"
   }
 ]
