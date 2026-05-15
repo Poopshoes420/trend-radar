@@ -1,14 +1,5 @@
 [
   {
-    "topic": "The weed is strong in this one!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
-  },
-  {
     "topic": "Tell a nation it's fat without telling it it's fat.",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te2fmy/tell_a_nation_its_fat_without_telling_it_its_fat/"
+  },
+  {
+    "topic": "The weed is strong in this one!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
   },
   {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdwxil/youre_not_escaping_this_time/"
   },
   {
-    "topic": "\"Y\" is the \"y\" like this?",
+    "topic": "Fingertips",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te46ny/y_is_the_y_like_this/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te6tsl/fingertips/"
   },
   {
     "topic": "It's happening guys. I'm the lucky one.",
@@ -90,6 +90,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdchgr/youtuber_youre_surprised_is_still_churning_out/"
   },
   {
+    "topic": "'Point of no return': 36 countries join special tribunal to prosecute Vladimir Putin",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1te4z7j/point_of_no_return_36_countries_join_special/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1541, Part 1 (Thread #1688)",
     "sources": [
       "reddit"
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "'Point of no return': 36 countries join special tribunal to prosecute Vladimir Putin",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1te4z7j/point_of_no_return_36_countries_join_special/"
   },
   {
     "topic": "China: \u2018No Point\u2019 In Continuing Iran War",
@@ -184,31 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 172,545 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 215,985 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ak4Ti54Y6rY"
-  },
-  {
-    "topic": "PGA Championship - Round 1",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~718m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kPt3iIbnrdk"
   },
   {
     "topic": "FOX and Friends",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~89m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZdZk__6fy5M"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oQKCjCAb8mk"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~566m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vQCGZCagY1w"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Nh0g5Y9OwUw"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1kuGNyNmpcs"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~357m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~418m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hGoUQUc-sZM"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~593m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~654m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xbmp28JpJN8"
   },
   {
@@ -248,15 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~686m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vjAnHGh-iuQ"
-  },
-  {
-    "topic": "Georgia at Auburn",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~629m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Xt251OCs-7M"
   }
 ]
