@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "This is hilarious",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td936d/this_is_hilarious/"
-  },
-  {
     "topic": "Back in the day \ud83d\ude02\ud83d\ude02",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tdifs6/back_in_the_day/"
+  },
+  {
+    "topic": "This is hilarious",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1td936d/this_is_hilarious/"
   },
   {
     "topic": "Husband and wife talking to this police officer through the ring camera at the same time",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdchgr/youtuber_youre_surprised_is_still_churning_out/"
   },
   {
+    "topic": "It's happening guys. I'm the lucky one.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdqjlz/its_happening_guys_im_the_lucky_one/"
+  },
+  {
     "topic": "this is extremely weird",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1td4gm5/need_the_old_video_player_ui_back/"
-  },
-  {
-    "topic": "Warning: Don\u2019t Buy Movies on YT",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tcvuvz/warning_dont_buy_movies_on_yt/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1541, Part 1 (Thread #1688)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdiii5/major_fire_seen_after_ukrainian_drones_reportedly/"
   },
   {
-    "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td645j/israel_says_it_will_sue_new_york_times_over/"
-  },
-  {
     "topic": "Russia\u2019s prison population falls by 180,000 since Ukraine war",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdj8cd/russias_prison_population_falls_by_180000_since/"
+  },
+  {
+    "topic": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1td645j/israel_says_it_will_sue_new_york_times_over/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1td6gxf/i_made_a_lego_caterpie/"
   },
   {
-    "topic": "Amazon reportedly cancels Lord of the Rings MMO",
+    "topic": "2 million copies of Subnautica 2 EA has been sold within 12 hours",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tczawq/amazon_reportedly_cancels_lord_of_the_rings_mmo/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdopdh/2_million_copies_of_subnautica_2_ea_has_been_sold/"
   },
   {
     "topic": "Did we lose the magic of community in online multiplayer games?",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 538,216 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 1,036,288 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uxNuuys19XE"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 519,672 views \u2022 ~458m old",
+    "why": "Trending on YouTube \u2022 612,269 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=X9CsK_nuqdE"
   },
   {
@@ -200,23 +200,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 197,892 views \u2022 ~457m old",
+    "why": "Trending on YouTube \u2022 264,141 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jFCTQ68gxoY"
-  },
-  {
-    "topic": "The Game Developer Was Scared Of His Own Game\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 225,446 views \u2022 ~577m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=oMb_4F9rqsI"
   },
   {
     "topic": "LA Chargers Halo Schedule Release 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 153,190 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 167,973 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vjP6J-vpbmo"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 47,679 views \u2022 ~218m old",
+    "why": "Trending on YouTube \u2022 73,593 views \u2022 ~365m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5ZmJvlGiF5k"
   },
   {
@@ -232,31 +224,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 15,745 views \u2022 ~215m old",
+    "why": "Trending on YouTube \u2022 20,023 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yuka3HCqOPE"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2xb6x43PaBI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DX0eFjAKfoM"
+  },
+  {
+    "topic": "Deadline: White House",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kCo_InV7PlU"
   },
   {
     "topic": "Erin Burnett OutFront",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
     "exampleUrl": "https://www.youtube.com/watch?v=z84rfQ5GQLg"
   },
   {
-    "topic": "Morning Joe",
+    "topic": "Millions with an S",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~646m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YqquQcnH5KI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~203m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ONgzoBLgLRI"
   }
 ]
