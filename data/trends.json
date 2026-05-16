@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "epic window",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tes255/epic_window/"
+  },
+  {
     "topic": "Ummm okay",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te6tsl/fingertips/"
-  },
-  {
-    "topic": "Tell a nation it's fat without telling it it's fat.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te2fmy/tell_a_nation_its_fat_without_telling_it_its_fat/"
   },
   {
     "topic": "It's happening guys. I'm the lucky one.",
@@ -72,22 +72,31 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te1ypj/the_team_responsible_for_game_theory_are/"
   },
   {
-    "topic": "I commented on a YouTube video asking a question and my channel gets removed I hate YouTube so much",
+    "topic": "What's with this 'Bad Apple' stuff?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tee5jx/i_commented_on_a_youtube_video_asking_a_question/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ter7x3/whats_with_this_bad_apple_stuff/"
   },
   {
-    "topic": "Yes, I shat out a 50-foot long platypus",
+    "topic": "BRO I DIDN'T WATCH THIS!!!! HELP ME PLEASE WHAT IS THIS",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1temulq/yes_i_shat_out_a_50foot_long_platypus/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tert3t/bro_i_didnt_watch_this_help_me_please_what_is_this/"
+  },
+  {
+    "topic": "Taiwan to Trump: We are sovereign and independent",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1teptyu/taiwan_to_trump_we_are_sovereign_and_independent/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1542, Part 1 (Thread #1689)",
@@ -106,15 +115,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "Taiwan to Trump: We are sovereign and independent",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1teptyu/taiwan_to_trump_we_are_sovereign_and_independent/"
   },
   {
     "topic": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ted3r7/xbox_is_rebranding_to_xbox/"
   },
   {
+    "topic": "Report: Netflix's Devil May Cry Renewed for a Third Season",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1teq3cc/report_netflixs_devil_may_cry_renewed_for_a_third/"
+  },
+  {
     "topic": "Forza Horizon 6 immediately beats its predecessor's all-time Steam record with 130,000 concurrent players \u2013 and that's only counting people willing to pay $120 for early access",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tebfft/ps5_player_counts_for_popular_games_may_soon_be/"
   },
   {
-    "topic": "I suck at drifting.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ted300/i_suck_at_drifting/"
-  },
-  {
     "topic": "[HYBE x Geffen] World Scout: The Final Piece \u2018WE RIDE\u2019 Live Performance",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 227,828 views \u2022 ~636m old",
+    "why": "Trending on YouTube \u2022 250,156 views \u2022 ~704m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XdumyvpHPZM"
   },
   {
@@ -192,31 +192,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~151m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~219m old",
     "exampleUrl": "https://www.youtube.com/watch?v=29e97i7zzVg"
   },
   {
-    "topic": "Jesse Watters Primetime",
+    "topic": "Gutfeld!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Wq1E3t30gWQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BsS3EYiE1NM"
+  },
+  {
+    "topic": "NCAA Tournament: Indiana vs. Virginia",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~83m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aEAC4QPxa94"
+  },
+  {
+    "topic": "WWE Friday Night SmackDown",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5rbE3Lr4Sek"
+  },
+  {
+    "topic": "Live From the PGA Championship",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-aLSD-KTzb4"
   },
   {
     "topic": "The Untold Want",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~239m old",
     "exampleUrl": "https://www.youtube.com/watch?v=veqMQyL05zg"
+  },
+  {
+    "topic": "Philadelphia Phillies at Pittsburgh Pirates",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=gVPiN1jZ91k"
   },
   {
     "topic": "Ecosave 200",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oOPVHdnNdgc"
   },
   {
@@ -224,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~440m old",
     "exampleUrl": "https://www.youtube.com/watch?v=noZWRH3Y_RU"
   },
   {
@@ -232,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~127m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~194m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RtlokbQBMc8"
   },
   {
@@ -240,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~258m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~325m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ye05nLshiOE"
   }
 ]
