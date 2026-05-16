@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tehbzz/ummm_okay/"
   },
   {
+    "topic": "Target sign fail",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tew9qo/target_sign_fail/"
+  },
+  {
     "topic": "He's got a great imagination",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1teig3q/hes_got_a_great_imagination/"
-  },
-  {
-    "topic": "Fingertips",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te6tsl/fingertips/"
   },
   {
     "topic": "What's with this 'Bad Apple' stuff?",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 597,028 views \u2022 ~203m old",
+    "why": "Trending on YouTube \u2022 811,206 views \u2022 ~266m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP86n9nFoJY"
+  },
+  {
+    "topic": "PGA Championship - Round 2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OGaXjRvL_P4"
   },
   {
     "topic": "Washington Mystics at Indiana Fever",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~509m old",
     "exampleUrl": "https://www.youtube.com/watch?v=29e97i7zzVg"
   },
   {
@@ -200,23 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~436m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BsS3EYiE1NM"
-  },
-  {
-    "topic": "NCAA Tournament: Indiana vs. Virginia",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=aEAC4QPxa94"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~348m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~411m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5rbE3Lr4Sek"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~475m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-aLSD-KTzb4"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~466m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=veqMQyL05zg"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~308m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gVPiN1jZ91k"
   },
   {
@@ -248,23 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~626m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~690m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oOPVHdnNdgc"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~667m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=noZWRH3Y_RU"
-  },
-  {
-    "topic": "Headlong Into Halong",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~552m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ye05nLshiOE"
   }
 ]
