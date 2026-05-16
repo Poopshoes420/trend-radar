@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tf2u77/oh/"
   },
   {
+    "topic": "Are there any big youtubers who have revealed how much they made on youtube?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tf4qrv/are_there_any_big_youtubers_who_have_revealed_how/"
+  },
+  {
     "topic": "What's with this 'Bad Apple' stuff?",
     "sources": [
       "reddit"
@@ -61,15 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tert3t/bro_i_didnt_watch_this_help_me_please_what_is_this/"
-  },
-  {
-    "topic": "Are there any big youtubers who have revealed how much they made on youtube?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tf4qrv/are_there_any_big_youtubers_who_have_revealed_how/"
   },
   {
     "topic": "It brings me great joy that cringe comments like this gets no attention",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "\u2018Clearly marked\u2019 United Nations vehicles struck by drones in Ukraine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tf4v2a/clearly_marked_united_nations_vehicles_struck_by/"
+  },
+  {
     "topic": "Iran parliament working on bill that proposes \u20ac50m reward for killing Trump",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1teqlpq/trump_says_xi_agrees_iran_must_open_strait_china/"
-  },
-  {
-    "topic": "France ready to develop ballistic missile defense with Ukraine, says Zelensky, calling it 'important step'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1texcta/france_ready_to_develop_ballistic_missile_defense/"
   },
   {
     "topic": "Krafton Will Likely Have to Pay $250 Million Bonus for Subnautica 2 That It Tried to Avoid",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tew5hr/alan_wake_2_has_seriously_impressive_and/"
   },
   {
+    "topic": "My online gaming experience",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tf5ui9/my_online_gaming_experience/"
+  },
+  {
     "topic": "Report: Netflix's Devil May Cry Renewed for a Third Season",
     "sources": [
       "reddit"
@@ -171,36 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1teq3cc/report_netflixs_devil_may_cry_renewed_for_a_third/"
   },
   {
-    "topic": "Xbox is rebranding to XBOX",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ted3r7/xbox_is_rebranding_to_xbox/"
-  },
-  {
     "topic": "Unstable SMP: Civil War",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,542,245 views \u2022 ~503m old",
+    "why": "Trending on YouTube \u2022 1,643,144 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=bP86n9nFoJY"
+  },
+  {
+    "topic": "TIME TO EXPLORE | Subnautica 2 - Part 3",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 192,275 views \u2022 ~385m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YJZWGGk0qvs"
   },
   {
     "topic": "Doing Scratch Offs Til I Go Insane [Scritchy Scratchy]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 149,597 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 170,250 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pTXPY3viAJU"
+  },
+  {
+    "topic": "JPEGMAFIA - \u00a5 (Yen)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 38,963 views \u2022 ~273m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dosF5efl6bg"
   },
   {
     "topic": "FullyChop - Workout Day (Feat. PGF Mooda) [Official Music Video]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 19,064 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 23,973 views \u2022 ~316m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p39pdi5reYA"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~434m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OGaXjRvL_P4"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JTUBC3LAzjA"
   },
   {
@@ -224,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~648m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5rbE3Lr4Sek"
   },
   {
-    "topic": "Live From the PGA Championship",
+    "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-aLSD-KTzb4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~64m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lPwkFu6JOmk"
+  },
+  {
+    "topic": "The Weekend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~88m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Gl7nNd6m4as"
   }
 ]
