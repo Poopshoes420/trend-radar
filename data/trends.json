@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te2fmy/tell_a_nation_its_fat_without_telling_it_its_fat/"
   },
   {
-    "topic": "The weed is strong in this one!",
+    "topic": "Just a friendly knock",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1teh9l8/just_a_friendly_knock/"
   },
   {
     "topic": "Fingertips",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1te6tsl/fingertips/"
   },
   {
-    "topic": "What do you do for a living?",
+    "topic": "The weed is strong in this one!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te24np/what_do_you_do_for_a_living/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1te0s1n/the_weed_is_strong_in_this_one/"
   },
   {
     "topic": "It's happening guys. I'm the lucky one.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te96dn/hey_youtube_fuck_you/"
   },
   {
-    "topic": "Why does YouTube allow this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdydui/why_does_youtube_allow_this/"
-  },
-  {
     "topic": "The Team Responsible for Game Theory are Attempting to Unionize - And They Need Help",
     "sources": [
       "reddit"
@@ -81,40 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te1ypj/the_team_responsible_for_game_theory_are/"
   },
   {
-    "topic": "I just wanted to go to Glitch\u2019s channel \ud83d\ude2d",
+    "topic": "Why does YouTube allow this?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdvj7r/i_just_wanted_to_go_to_glitchs_channel/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdydui/why_does_youtube_allow_this/"
   },
   {
-    "topic": "'Point of no return': 36 countries join special tribunal to prosecute Vladimir Putin",
+    "topic": "I commented on a YouTube video asking a question and my channel gets removed I hate YouTube so much",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1te4z7j/point_of_no_return_36_countries_join_special/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1541, Part 1 (Thread #1688)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tdl302/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #17)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tee5jx/i_commented_on_a_youtube_video_asking_a_question/"
   },
   {
     "topic": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
@@ -126,13 +99,40 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tecljr/trump_warns_taiwan_against_declaring_independence/"
   },
   {
-    "topic": "German leader Merz says he \u2018would not advise my children to go\u2019 to US",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1542, Part 1 (Thread #1689)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1te9j5p/german_leader_merz_says_he_would_not_advise_my/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1teipnp/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #17)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "'Point of no return': 36 countries join special tribunal to prosecute Vladimir Putin",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1te4z7j/point_of_no_return_36_countries_join_special/"
+  },
+  {
+    "topic": "Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tebuz8/hackers_have_breached_tank_readers_at_us_gas/"
   },
   {
     "topic": "Free Talk Friday!",
@@ -180,51 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1te07mj/lego_2k_drive_to_be_delisted_on_xbox_ahead_of/"
   },
   {
+    "topic": "OpTic TEXAS vs G2 MINNESOTA!! SCUMP WATCH PARTY - CDL ATLANTA MAJOR 3 DAY 1",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 453,824 views \u2022 ~149m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6p4YOK6S5ig"
+  },
+  {
+    "topic": "Call of Duty League Major III Tournament | Alpha",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 404,811 views \u2022 ~136m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hLU8D67ik9g"
+  },
+  {
     "topic": "THE BEAUTIFUL TERRIFYING OCEAN | Subnautica 2 - Part 1",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 251,629 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 486,732 views \u2022 ~480m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MeTbv6Wqfgg"
-  },
-  {
-    "topic": "Evanescence \u2013 Who Will You Follow (Official Music Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 409,672 views \u2022 ~668m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ak4Ti54Y6rY"
-  },
-  {
-    "topic": "The Boys Season 5 Episode 8 Finale Trailer: Homelander Goes Crazy",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 191,413 views \u2022 ~360m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vOGmktrRipk"
   },
   {
     "topic": "SUBNAUTICA 2 IS HERE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,626 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 216,421 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yTJc2KOVXfs"
   },
   {
-    "topic": "Playing Ball For My LIFE [Midnight Hoops]",
+    "topic": "The Boys Season 5 Episode 8 Finale Trailer: Homelander Goes Crazy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 214,678 views \u2022 ~639m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HIdEnstZCW0"
+    "why": "Trending on YouTube \u2022 264,923 views \u2022 ~566m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vOGmktrRipk"
   },
   {
     "topic": "GTA6 TRAILER SOON? LEAKS & MORE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,035 views \u2022 ~360m old",
+    "why": "Trending on YouTube \u2022 134,916 views \u2022 ~566m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mc7cOOqQClw"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 96,783 views \u2022 ~428m old",
+    "why": "Trending on YouTube \u2022 135,257 views \u2022 ~634m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LLmHHIER7ic"
   },
   {
@@ -240,23 +240,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 43,480 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 61,836 views \u2022 ~576m old",
     "exampleUrl": "https://www.youtube.com/watch?v=M_zC3pxpDDM"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "The Five",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pKwVM23TL9c"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~111m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=klZWCXIUr4o"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~141m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Xu-xHAnaNUk"
+  },
+  {
+    "topic": "The Arena With Kasie Hunt",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~166m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=aZ5bU4E5AMA"
   }
 ]
