@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ter7x3/whats_with_this_bad_apple_stuff/"
   },
   {
+    "topic": "BRO I DIDN'T WATCH THIS!!!! HELP ME PLEASE WHAT IS THIS",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tert3t/bro_i_didnt_watch_this_help_me_please_what_is_this/"
+  },
+  {
     "topic": "Hey, YouTube. Fuck You.",
     "sources": [
       "reddit"
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tdqjlz/its_happening_guys_im_the_lucky_one/"
   },
   {
-    "topic": "BRO I DIDN'T WATCH THIS!!!! HELP ME PLEASE WHAT IS THIS",
+    "topic": "YouTube\u2019s AI age verification raises significant problems",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tert3t/bro_i_didnt_watch_this_help_me_please_what_is_this/"
-  },
-  {
-    "topic": "The Team Responsible for Game Theory are Attempting to Unionize - And They Need Help",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1te1ypj/the_team_responsible_for_game_theory_are/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tevscs/youtubes_ai_age_verification_raises_significant/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1542, Part 1 (Thread #1689)",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tecljr/trump_warns_taiwan_against_declaring_independence/"
   },
   {
-    "topic": "US kills Islamic State leader in Nigeria",
+    "topic": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1temchy/us_kills_islamic_state_leader_in_nigeria/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1teqlpq/trump_says_xi_agrees_iran_must_open_strait_china/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tetwvz/sony_is_expecting_record_breaking_playstation/"
   },
   {
-    "topic": "Forza Horizon 6 immediately beats its predecessor's all-time Steam record with 130,000 concurrent players \u2013 and that's only counting people willing to pay $120 for early access",
+    "topic": "Alan Wake 2 has seriously impressive and photorealistic in-gameplay faces",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tdwxhk/forza_horizon_6_immediately_beats_its/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tew5hr/alan_wake_2_has_seriously_impressive_and/"
   },
   {
     "topic": "Washington Mystics at Indiana Fever",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~307m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=29e97i7zzVg"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~235m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BsS3EYiE1NM"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~248m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aEAC4QPxa94"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~210m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~286m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5rbE3Lr4Sek"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~273m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-aLSD-KTzb4"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~328m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
     "exampleUrl": "https://www.youtube.com/watch?v=veqMQyL05zg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gVPiN1jZ91k"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oOPVHdnNdgc"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~529m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=noZWRH3Y_RU"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~490m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ye05nLshiOE"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~359m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RtlokbQBMc8"
   }
 ]
