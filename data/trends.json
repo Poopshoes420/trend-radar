@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tg66va/the_purpose_of_exercise/"
   },
   {
+    "topic": "Found this \"guy\" chilling in my hotel room in Egypt",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tgfj2l/found_this_guy_chilling_in_my_hotel_room_in_egypt/"
+  },
+  {
+    "topic": "The window didn't want any part of it",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tgev8a/the_window_didnt_want_any_part_of_it/"
+  },
+  {
     "topic": "Sunday blessing",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tfr392/sunday_blessing/"
-  },
-  {
-    "topic": "Return to office",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tfq7v3/return_to_office/"
-  },
-  {
-    "topic": "Diaper life support",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tfod9z/diaper_life_support/"
   },
   {
     "topic": "13 years ago!!!",
@@ -54,31 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tfs3sm/13_years_ago/"
   },
   {
-    "topic": "bro can't be THAT evil???",
+    "topic": "Can somebody tell me what the heck is going on???",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tfobrg/bro_cant_be_that_evil/"
-  },
-  {
-    "topic": "Unskippable thumbnail",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tg9svv/unskippable_thumbnail/"
-  },
-  {
-    "topic": "With the viral hantavirus video from 13 years ago, I found this comment",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tftlv7/with_the_viral_hantavirus_video_from_13_years_ago/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tgcuti/can_somebody_tell_me_what_the_heck_is_going_on/"
   },
   {
     "topic": "what's your opinion on dolan darkest?",
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tg41tm/whats_your_opinion_on_dolan_darkest/"
+  },
+  {
+    "topic": "bro can't be THAT evil???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tfobrg/bro_cant_be_that_evil/"
+  },
+  {
+    "topic": "Is anyone else getting tired of YouTube videos without titles?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tg75jz/is_anyone_else_getting_tired_of_youtube_videos/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1544, Part 1 (Thread #1691)",
@@ -108,24 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "At least 6 Americans in Congo were exposed to Ebola virus, sources say",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tg864e/at_least_6_americans_in_congo_were_exposed_to/"
-  },
-  {
-    "topic": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tgbu82/who_declares_ebola_outbreak_a_global_health/"
-  },
-  {
     "topic": "Cuba buys more than 300 drones from Russia and Iran",
     "sources": [
       "reddit"
@@ -135,22 +117,31 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tg84k7/cuba_buys_more_than_300_drones_from_russia_and/"
   },
   {
-    "topic": "Meryl Streep and Martin Short looking cozy in London",
+    "topic": "Taiwan will not provoke conflict nor give up sovereignty, says president Lai Ching-te",
     "sources": [
       "reddit"
     ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1tg4oth/meryl_streep_and_martin_short_looking_cozy_in/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tgeiwv/taiwan_will_not_provoke_conflict_nor_give_up/"
   },
   {
-    "topic": "Simple Questions Sunday!",
+    "topic": "Russia just hit commercial vessel of its closest war ally in Ukrainian waters with Shahed drone",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tgfklx/russia_just_hit_commercial_vessel_of_its_closest/"
+  },
+  {
+    "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tfgwv9/simple_questions_sunday/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgdn84/making_friends_monday_share_your_game_tags_here/"
   },
   {
     "topic": "The game I grew up with & the game I'm playing now. \ud83d\udc40\u2764\ufe0f (Sega Rally 1995 + Forza Horizon 6)",
@@ -162,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tg0yei/the_game_i_grew_up_with_the_game_im_playing_now/"
   },
   {
-    "topic": "Forza Horizon 6 goes crazy.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tg1mie/forza_horizon_6_goes_crazy/"
-  },
-  {
     "topic": "Star Wars the Old Republic almost got a Realm Reborn style reboot but EA's board of directors said no",
     "sources": [
       "reddit"
@@ -180,51 +162,45 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgbv4d/star_wars_the_old_republic_almost_got_a_realm/"
   },
   {
+    "topic": "Forza Horizon 6 goes crazy.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tg1mie/forza_horizon_6_goes_crazy/"
+  },
+  {
+    "topic": "I love that spore's biggest part is the least played part",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tg5ool/i_love_that_spores_biggest_part_is_the_least/"
+  },
+  {
     "topic": "CDL ATLANTA MAJOR 3 GRAND FINALS!! OpTic TEXAS vs LA THIEVES",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 711,063 views \u2022 ~420m old",
+    "why": "Trending on YouTube \u2022 722,307 views \u2022 ~667m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hnEHH1yKpiU"
-  },
-  {
-    "topic": "Teardown Added Multiplayer...",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 744,133 views \u2022 ~639m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=v4Xfw1HT6ME"
-  },
-  {
-    "topic": "The Boys Season 5 Episode 8 Finale Trailer: Homelander\u2019s WTF Ending",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 352,168 views \u2022 ~686m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=9XrYxqBa2bU"
   },
   {
     "topic": "HOPE - Official Teaser - In Theaters Fall 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 136,910 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 309,887 views \u2022 ~539m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Vt7860xZFXk"
-  },
-  {
-    "topic": "NEW R6 SEASON REVEAL (NEW MAP) ",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 172,549 views \u2022 ~396m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=b1rGYkXx_3M"
   },
   {
     "topic": "NASCAR All-Star Race",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~143m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5JtEIm2BIeY"
   },
   {
@@ -232,55 +208,95 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EOE5qdR7GlM"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "One Nation With Brian Kilmeade",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ACh8PiukcRQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~98m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VH7NtZrHoAU"
   },
   {
-    "topic": "NCAA Tournament: Virginia at Tennessee",
+    "topic": "Turning Numbers Into Dreams",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~189m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7SCDbe27-6g"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ugILckQ9ePg"
+  },
+  {
+    "topic": "Live From the PGA Championship",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S1UOK7RMjdQ"
+  },
+  {
+    "topic": "Trusting the Process",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FOIilNjlK_g"
+  },
+  {
+    "topic": "NCAA Tournament: Ole Miss at Texas Tech",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=V9Hiae9sHf8"
+  },
+  {
+    "topic": "The Last Laugh: Stephen Colbert",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~94m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ecqDjQXmiI0"
+  },
+  {
+    "topic": "Philadelphia Phillies at Pittsburgh Pirates",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~311m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qHXzvE_HFv8"
   },
   {
     "topic": "The 110th Running of the Indianapolis 500, Qualifying",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~223m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FUGzvCZaQsA"
   },
   {
-    "topic": "NCAA Tournament: Oklahoma vs. Michigan",
+    "topic": "Dynasty, Diamonds and Drama",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~96m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iX4CSSTwwxA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~129m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=9OaSY7tIDmc"
   },
   {
-    "topic": "Star Wars: A New Hope",
+    "topic": "Star Wars: The Empire Strikes Back",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~170m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=06jaWX29bt8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~278m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-ZqjaLBi0l4"
   },
   {
-    "topic": "Newcastle United vs. West Ham United",
+    "topic": "The Justice League Recombination",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=juU5RXtEjyA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AT-N6qyd01M"
   }
 ]
