@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tguoch/no_no_i_dont_need_this_service_do_you_not_hear_me/"
   },
   {
+    "topic": "That\u2019s One Way to Keep My Kids Away From My Tea",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thaby2/thats_one_way_to_keep_my_kids_away_from_my_tea/"
+  },
+  {
     "topic": "My dad met my bird",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tgzhy5/my_dad_met_my_bird/"
   },
   {
-    "topic": "Young lady gets trolled by a trash can",
+    "topic": "\"Damn what are they cooking? \"",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tglrlg/young_lady_gets_trolled_by_a_trash_can/"
-  },
-  {
-    "topic": "That\u2019s One Way to Keep My Kids Away From My Tea",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thaby2/thats_one_way_to_keep_my_kids_away_from_my_tea/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thhlz2/damn_what_are_they_cooking/"
   },
   {
     "topic": "What is this point of these live streams? Why are there so many of them in this exact style? Thanks. Some are just the same people with a bunch of accounts with the same livestream, I don't understand.",
@@ -72,13 +72,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1thawjq/youtube_automatically_subscribed_me_to_tpusa/"
   },
   {
-    "topic": "Apparently 480p is super resolution",
+    "topic": "What's going on",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tgyr0o/apparently_480p_is_super_resolution/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1thd0t2/whats_going_on/"
   },
   {
     "topic": "Frustrating garbage now.",
@@ -88,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1th8hq1/frustrating_garbage_now/"
-  },
-  {
-    "topic": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thah24/ebola_outbreak_who_declares_emergency_us/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1545, Part 1 (Thread #1692)",
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Xi Jinping Told Donald Trump That Vladimir Putin Might Regret The Ukraine Invasion: Report",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thflaj/xi_jinping_told_donald_trump_that_vladimir_putin/"
+  },
+  {
     "topic": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
     "sources": [
       "reddit"
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tgxnx9/trump_says_hes_postponing_scheduled_attack_of/"
   },
   {
-    "topic": "U.S. says it\u2019s pausing long-standing military board with Canada",
+    "topic": "Marcos says Philippines would be involved in any Taiwan conflict",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tgqtss/us_says_its_pausing_longstanding_military_board/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thbrpz/marcos_says_philippines_would_be_involved_in_any/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,91 +180,59 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgqo7d/helping_my_dad_clean_out_a_spare_room_and_found_a/"
   },
   {
-    "topic": "Gmod Death Run - The Backrooms Movie Map! (Garry's Mod Funny Moments)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 340,481 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zsp96OnAehM"
-  },
-  {
-    "topic": "I Got Addicted To This Game\u2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 242,883 views \u2022 ~481m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=zHG0usNFXMk"
-  },
-  {
     "topic": "Character Trailer - \"Nicole: An Epic Adventure Story\" | Genshin Impact #GenshinImpact #Nicole",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,328 views \u2022 ~121m old",
+    "why": "Trending on YouTube \u2022 140,875 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=xDdrmoSh3W4"
   },
   {
-    "topic": "Drake - High Fives",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 113,717 views \u2022 ~519m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_tlMz8sTFMs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_BxFH1cVInA"
   },
   {
-    "topic": "Los Gemelos De Sinaloa - A LA ORDEN ",
+    "topic": "The Rachel Maddow Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,527 views \u2022 ~542m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=YNUozFmXqBQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e7leAtwjZBI"
   },
   {
-    "topic": "The X-Men 97 Season 2 trailer is nuts",
+    "topic": "The Garden Party",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 107,351 views \u2022 ~681m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vjDWB_H05Tg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LpOrutDy7Hs"
   },
   {
-    "topic": "Latto - Big Mama Official Album Trailer",
+    "topic": "Anderson Cooper 360",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 34,667 views \u2022 ~490m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bSaA4JW36Vw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~195m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_hTASyMB7p4"
   },
   {
-    "topic": "The Five",
+    "topic": "The Point",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~77m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7LJpacrq0FU"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~227m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GRscWiVvUJY"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "The Bourne Identity",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hhjrt7vQ7CY"
-  },
-  {
-    "topic": "Morning Joe",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~313m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o4jIFdKByKc"
-  },
-  {
-    "topic": "Arsenal vs. Burnley",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~59m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=o0OxU4A0kdY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=I8XedS3ioM0"
   }
 ]
