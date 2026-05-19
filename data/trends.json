@@ -9,13 +9,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Dog - enjoy your walk human",
+    "topic": "Never seen someone throw a handshake \ud83d\ude2d\ud83d\ude02\ud83d\ude02",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thkky9/dog_enjoy_your_walk_human/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thzrlf/never_seen_someone_throw_a_handshake/"
   },
   {
     "topic": "Red flags\ud83d\ude02",
@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1thvtnj/red_flags/"
   },
   {
+    "topic": "Dog - enjoy your walk human",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thkky9/dog_enjoy_your_walk_human/"
+  },
+  {
     "topic": "What's going on here\ud83e\uddd0",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1thijt8/whats_going_on_here/"
-  },
-  {
-    "topic": "Never seen someone throw a handshake \ud83d\ude2d\ud83d\ude02\ud83d\ude02",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1thzrlf/never_seen_someone_throw_a_handshake/"
   },
   {
     "topic": "YouTube keeps recommending videos I've already watched -- a LOT",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1thd0t2/whats_going_on/"
   },
   {
-    "topic": "Children making YT channels",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1thjac4/children_making_yt_channels/"
-  },
-  {
     "topic": "why anything have to be called slop?",
     "sources": [
       "reddit"
@@ -81,13 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1thp2xc/why_anything_have_to_be_called_slop/"
   },
   {
-    "topic": "What is this point of these live streams? Why are there so many of them in this exact style? Thanks. Some are just the same people with a bunch of accounts with the same livestream, I don't understand.",
+    "topic": "Fun fact: you get notified if you are the 67th like on a short",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1th6bm1/what_is_this_point_of_these_live_streams_why_are/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ti1l2n/fun_fact_you_get_notified_if_you_are_the_67th/"
+  },
+  {
+    "topic": "Children making YT channels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1thjac4/children_making_yt_channels/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1545, Part 1 (Thread #1692)",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thuoe7/iran_demands_big_tech_pay_fees_for_undersea/"
   },
   {
-    "topic": "NATO\u2019s newest member Sweden announces $4 billion defense investment; Saab pops 5%",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thk368/natos_newest_member_sweden_announces_4_billion/"
-  },
-  {
     "topic": "WHO concerned about 'scale and speed' of Ebola outbreak, with 131 now dead",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thmtap/who_concerned_about_scale_and_speed_of_ebola/"
+  },
+  {
+    "topic": "NATO\u2019s newest member Sweden announces $4 billion defense investment; Saab pops 5%",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1thk368/natos_newest_member_sweden_announces_4_billion/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgdn84/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Nintendo jumps 6.8% as Japanese investors rotate out of AI",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1thkjgo/nintendo_jumps_68_as_japanese_investors_rotate/"
-  },
-  {
     "topic": "A top-down view of the original Crazy Taxi map.",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1thxciw/a_topdown_view_of_the_original_crazy_taxi_map/"
+  },
+  {
+    "topic": "Nintendo jumps 6.8% as Japanese investors rotate out of AI",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1thkjgo/nintendo_jumps_68_as_japanese_investors_rotate/"
   },
   {
     "topic": "Don't expect to kill fish in a future Subnautica 2 patch: 'You are here to exist on this planet, not to dominate it'",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 390,636 views \u2022 ~404m old",
+    "why": "Trending on YouTube \u2022 415,158 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=e5QW457407U"
   },
   {
@@ -192,63 +192,87 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 123,356 views \u2022 ~336m old",
+    "why": "Trending on YouTube \u2022 155,380 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9mi3YVYm3ZU"
-  },
-  {
-    "topic": "Official Trailer | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 222,309 views \u2022 ~643m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Px1xodGZAT0"
   },
   {
     "topic": "Honest Trailers | Project Hail Mary",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,590 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 121,020 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QurZzARCihA"
+  },
+  {
+    "topic": "Official Trailer | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 242,467 views \u2022 ~709m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Px1xodGZAT0"
   },
   {
     "topic": "Pictonico! \u2013 Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 95,388 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 101,299 views \u2022 ~652m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ONoxuXGAoMk"
+  },
+  {
+    "topic": "Official Trailer | Power Book III: Raising Kanan | Season 5",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 58,106 views \u2022 ~382m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=U7RT9LZ_6M0"
+  },
+  {
+    "topic": "Above & Beyond: Live from EDC Las Vegas 2026 (Official Full Set)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 36,005 views \u2022 ~564m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OI02QgEA1Zw"
   },
   {
     "topic": "Montreal Canadiens at Buffalo Sabres",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~608m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~675m old",
     "exampleUrl": "https://www.youtube.com/watch?v=S9IfkZXtMn8"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~187m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fm6PJOx6gpw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=X8gvRThY8cQ"
   },
   {
-    "topic": "Cleveland Guardians at Detroit Tigers",
+    "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MQZlJYKrxfA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S0UMGPqOnq0"
+  },
+  {
+    "topic": "Squawk Box",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yYyogvRyVlA"
   },
   {
     "topic": "Washington Mystics at Dallas Wings",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LeHxboeoifI"
   }
 ]
