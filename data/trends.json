@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "No screaming on my watch!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjgtfu/no_screaming_on_my_watch/"
-  },
-  {
     "topic": "Guess who gave her that scratch on her nose before we left to take this",
     "sources": [
       "reddit"
@@ -25,6 +16,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjjmsb/guess_who_gave_her_that_scratch_on_her_nose/"
+  },
+  {
+    "topic": "No screaming on my watch!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjgtfu/no_screaming_on_my_watch/"
   },
   {
     "topic": "False Creek Ferries in Vancouver doing the trench run",
@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjc95l/false_creek_ferries_in_vancouver_doing_the_trench/"
   },
   {
-    "topic": "This sign at an intersection",
+    "topic": "There was an attempt.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tit66l/this_sign_at_an_intersection/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjngss/there_was_an_attempt/"
+  },
+  {
+    "topic": "Recommendations are getting worse",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjond7/recommendations_are_getting_worse/"
   },
   {
     "topic": "What do you mean disabled?",
@@ -52,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tj9pdy/what_do_you_mean_disabled/"
+  },
+  {
+    "topic": "Has anyone else noticed how often YouTube videos nowadays have 5-7 minutes of preamble just vaguely related to their supposed topic?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjkq0l/has_anyone_else_noticed_how_often_youtube_videos/"
   },
   {
     "topic": "An 81-Year-Old Grandma Streaming Minecraft To Pay For Grandson\u2019s Cancer Treatment Has Been Swatted",
@@ -72,24 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjb96x/did_people_just_forget_about_susan_wojcicki_one/"
   },
   {
-    "topic": "Has anyone else noticed how often YouTube videos nowadays have 5-7 minutes of preamble just vaguely related to their supposed topic?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjkq0l/has_anyone_else_noticed_how_often_youtube_videos/"
-  },
-  {
-    "topic": "That would be very funny/horrible",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjbv5m/that_would_be_very_funnyhorrible/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1547, Part 1 (Thread #1694)",
     "sources": [
       "reddit"
@@ -108,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjir14/air_france_and_airbus_found_guilty_of/"
+  },
+  {
+    "topic": "Ukrainian strike on Russian FSB and Pantsir-S1 kills or injures around 100 Russian troops \u2013 Zelenskyy says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjj9z3/ukrainian_strike_on_russian_fsb_and_pantsirs1/"
+  },
+  {
     "topic": "Ukraine calls to strip Russia of its permanent UN Security Council member status",
     "sources": [
       "reddit"
@@ -117,22 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjamcz/ukraine_calls_to_strip_russia_of_its_permanent_un/"
   },
   {
-    "topic": "Putin fails to convince Xi Jinping to build gas pipeline to China",
+    "topic": "Insider Says Ubisoft Is Testing Gen AI In Far Cry 7, And It \"Looks Like S**t\"",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjc6qm/putin_fails_to_convince_xi_jinping_to_build_gas/"
-  },
-  {
-    "topic": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjir14/air_france_and_airbus_found_guilty_of/"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjmqu0/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgdn84/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Ubisoft has announced a record \u20ac1.3 billion operating loss for its fiscal year ending March 2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj3tm6/ubisoft_has_announced_a_record_13_billion/"
-  },
-  {
     "topic": "Former Splinter Cell Creative Director Says Modern Graphics Tech Is Causing Problems for Stealth Games",
     "sources": [
       "reddit"
@@ -162,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjjn63/former_splinter_cell_creative_director_says/"
   },
   {
-    "topic": "Knights Of The Old Republic let you become an absolute monster and teenage me thought it was the greatest thing ever",
+    "topic": "Ubisoft has announced a record \u20ac1.3 billion operating loss for its fiscal year ending March 2026",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj8pm0/knights_of_the_old_republic_let_you_become_an/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj3tm6/ubisoft_has_announced_a_record_13_billion/"
   },
   {
     "topic": "still blows my mind that this is a 3D open world game on a handheld from 2 decades ago.",
@@ -180,27 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjjkdw/still_blows_my_mind_that_this_is_a_3d_open_world/"
   },
   {
-    "topic": "Cartel (Official Music Video) Cheema Y | Gur Sidhu",
+    "topic": "1000 Players Simulate UNDERGROUND Civilization in Minecraft",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 506,781 views \u2022 ~638m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=i0RJTOFwcgk"
+    "why": "Trending on YouTube \u2022 578,321 views \u2022 ~193m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=_6ucSC1-7ZI"
   },
   {
-    "topic": "Vince Staples - White Flag",
+    "topic": "Pok\u00e9mon TCG Pocket: Paradox Drive | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,453 views \u2022 ~627m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uYU1J7QszpU"
+    "why": "Trending on YouTube \u2022 36,951 views \u2022 ~255m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j-XIlS8uO9c"
   },
   {
     "topic": "Vegas Golden Knights at Colorado Avalanche",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~376m old",
     "exampleUrl": "https://www.youtube.com/watch?v=64ls6a8ftIU"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UCTI4i2ykd8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~285m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PbXDvognvhU"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8hUtknc0auk"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~247m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0i0u8Fb_VO4"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~363m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
     "exampleUrl": "https://www.youtube.com/watch?v=34IYQ-059mw"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jG7UywAybGk"
   },
   {
@@ -256,47 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~379m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=LnjHxh970tY"
+  },
+  {
+    "topic": "San Antonio Spurs at Oklahoma City Thunder",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=SgR0f0DoYxc"
   },
   {
     "topic": "Sweet Home Alabama",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~343m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NH1TMcVv7RA"
-  },
-  {
-    "topic": "Take Care of the Princess",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~371m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=coc_S-9Bat8"
-  },
-  {
-    "topic": "I Am Legend",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~338m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0cP1usdFTIU"
-  },
-  {
-    "topic": "All Elite Wrestling: Dynamite",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~265m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xumpMdQAnpo"
-  },
-  {
-    "topic": "Meg 2: The Trench",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~231m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=B-YDnA4zOhw"
   }
 ]
