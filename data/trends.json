@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjgtfu/no_screaming_on_my_watch/"
   },
   {
-    "topic": "False Creek Ferries in Vancouver doing the trench run",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjc95l/false_creek_ferries_in_vancouver_doing_the_trench/"
-  },
-  {
     "topic": "There was an attempt.",
     "sources": [
       "reddit"
@@ -43,6 +34,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjngss/there_was_an_attempt/"
+  },
+  {
+    "topic": "False Creek Ferries in Vancouver doing the trench run",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjc95l/false_creek_ferries_in_vancouver_doing_the_trench/"
   },
   {
     "topic": "Recommendations are getting worse",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjir14/air_france_and_airbus_found_guilty_of/"
   },
   {
-    "topic": "Ukrainian strike on Russian FSB and Pantsir-S1 kills or injures around 100 Russian troops \u2013 Zelenskyy says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjj9z3/ukrainian_strike_on_russian_fsb_and_pantsirs1/"
-  },
-  {
     "topic": "Ukraine calls to strip Russia of its permanent UN Security Council member status",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjamcz/ukraine_calls_to_strip_russia_of_its_permanent_un/"
+  },
+  {
+    "topic": "Putin fails to convince Xi Jinping to build gas pipeline to China",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjc6qm/putin_fails_to_convince_xi_jinping_to_build_gas/"
   },
   {
     "topic": "Insider Says Ubisoft Is Testing Gen AI In Far Cry 7, And It \"Looks Like S**t\"",
@@ -153,6 +153,24 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgdn84/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Bungie Sunsets Destiny 2 After 9 Years",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjswin/bungie_sunsets_destiny_2_after_9_years/"
+  },
+  {
+    "topic": "Destiny 2's final live service update announced for June 9th",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjr39o/destiny_2s_final_live_service_update_announced/"
+  },
+  {
     "topic": "Former Splinter Cell Creative Director Says Modern Graphics Tech Is Causing Problems for Stealth Games",
     "sources": [
       "reddit"
@@ -162,37 +180,51 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjjn63/former_splinter_cell_creative_director_says/"
   },
   {
-    "topic": "Ubisoft has announced a record \u20ac1.3 billion operating loss for its fiscal year ending March 2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj3tm6/ubisoft_has_announced_a_record_13_billion/"
-  },
-  {
-    "topic": "still blows my mind that this is a 3D open world game on a handheld from 2 decades ago.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjjkdw/still_blows_my_mind_that_this_is_a_3d_open_world/"
-  },
-  {
     "topic": "1000 Players Simulate UNDERGROUND Civilization in Minecraft",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 578,321 views \u2022 ~193m old",
+    "why": "Trending on YouTube \u2022 930,928 views \u2022 ~318m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_6ucSC1-7ZI"
+  },
+  {
+    "topic": "TV Royale | EVO Princess, HERO Tombstone, NEW Game Mode, and MORE!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 683,205 views \u2022 ~266m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NyvItRTjM1Q"
+  },
+  {
+    "topic": "HELLDIVERS\u2122 2 x WARHAMMER 40,000 Partnership Announcement",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 110,808 views \u2022 ~171m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xRQi00kCST8"
+  },
+  {
+    "topic": "Warhammer 40,000: Darktide - Skitarii | Class Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,257 views \u2022 ~163m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=38mXmzdJF9Q"
+  },
+  {
+    "topic": "PRESIDENT - DOOM LOOP",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 26,528 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=O_yO9c7zSIw"
   },
   {
     "topic": "Pok\u00e9mon TCG Pocket: Paradox Drive | Official Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,951 views \u2022 ~255m old",
+    "why": "Trending on YouTube \u2022 49,417 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j-XIlS8uO9c"
   },
   {
@@ -200,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~376m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~501m old",
     "exampleUrl": "https://www.youtube.com/watch?v=64ls6a8ftIU"
   },
   {
@@ -208,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~571m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~696m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UCTI4i2ykd8"
   },
   {
@@ -216,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~578m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PbXDvognvhU"
   },
   {
@@ -224,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8hUtknc0auk"
   },
   {
@@ -232,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~416m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0i0u8Fb_VO4"
   },
   {
@@ -240,39 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~657m old",
     "exampleUrl": "https://www.youtube.com/watch?v=34IYQ-059mw"
-  },
-  {
-    "topic": "The Source With Kaitlan Collins",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~409m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jG7UywAybGk"
-  },
-  {
-    "topic": "Savannah Bananas vs. Party Animals",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~548m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LnjHxh970tY"
-  },
-  {
-    "topic": "San Antonio Spurs at Oklahoma City Thunder",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~271m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=SgR0f0DoYxc"
-  },
-  {
-    "topic": "Sweet Home Alabama",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NH1TMcVv7RA"
   }
 ]
