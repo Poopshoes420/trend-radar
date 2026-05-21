@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "This sign at an intersection",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tit66l/this_sign_at_an_intersection/"
-  },
-  {
     "topic": "False Creek Ferries in Vancouver doing the trench run",
     "sources": [
       "reddit"
@@ -27,13 +18,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjc95l/false_creek_ferries_in_vancouver_doing_the_trench/"
   },
   {
-    "topic": "Call the rangers \ud83d\ude06",
+    "topic": "No screaming on my watch!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tivsk3/call_the_rangers/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tjgtfu/no_screaming_on_my_watch/"
+  },
+  {
+    "topic": "This sign at an intersection",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tit66l/this_sign_at_an_intersection/"
   },
   {
     "topic": "The scoop",
@@ -54,6 +54,24 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tj9pdv/theres_a_petition_on_x_where_people_are_signing_a/"
   },
   {
+    "topic": "An 81-Year-Old Grandma Streaming Minecraft To Pay For Grandson\u2019s Cancer Treatment Has Been Swatted",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tj28vv/an_81yearold_grandma_streaming_minecraft_to_pay/"
+  },
+  {
+    "topic": "What do you mean disabled?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tj9pdy/what_do_you_mean_disabled/"
+  },
+  {
     "topic": "did people just forget about Susan Wojcicki one day?",
     "sources": [
       "reddit"
@@ -70,24 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjbv5m/that_would_be_very_funnyhorrible/"
-  },
-  {
-    "topic": "What do you mean disabled?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tj9pdy/what_do_you_mean_disabled/"
-  },
-  {
-    "topic": "YT recommendations make it feel like youtube is dying, since it loves to suggest the same videos I ignored the first time",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tiwf38/yt_recommendations_make_it_feel_like_youtube_is/"
   },
   {
     "topic": "Ukraine calls to strip Russia of its permanent UN Security Council member status",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Putin fails to convince Xi Jinping to build gas pipeline to China",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tjc6qm/putin_fails_to_convince_xi_jinping_to_build_gas/"
+  },
+  {
     "topic": "Air France flight to U.S. diverted to Montreal over concerns of possible Ebola virus exposure on board",
     "sources": [
       "reddit"
@@ -124,24 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tj800y/air_france_flight_to_us_diverted_to_montreal_over/"
-  },
-  {
-    "topic": "Cuba Says the Trump Administration Is Not Negotiating in Good Faith",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tiwn7a/cuba_says_the_trump_administration_is_not/"
-  },
-  {
-    "topic": "Cameron Diaz on her decision to have children later in life. Her (53) and Benji Madden (47) just welcomed their 3rd child.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1tizv25/cameron_diaz_on_her_decision_to_have_children/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,83 +171,132 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj04ze/valve_insists_counterstrike_2_cases_are_fine_and/"
   },
   {
-    "topic": "CROCODILE FUN CHALLENGE!",
+    "topic": "Stop Destroying Videogames ECI : European Parliament plenary session",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 435,071 views \u2022 ~319m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=X5HRgdJpaQs"
-  },
-  {
-    "topic": "You VS The Pirate She Told You Not to Worry About",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 448,629 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=D92uyvDsMiQ"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tjfm7l/stop_destroying_videogames_eci_european/"
   },
   {
     "topic": "Cartel (Official Music Video) Cheema Y | Gur Sidhu",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 152,936 views \u2022 ~271m old",
+    "why": "Trending on YouTube \u2022 342,309 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=i0RJTOFwcgk"
-  },
-  {
-    "topic": "I JUST WANT TO BOIL SOME WATER [Water Boiling Sim]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 107,862 views \u2022 ~439m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=d5X03JYeE44"
   },
   {
     "topic": "The Batman 2 Set Video, Minecraft 2 Photos, He Man First Reactions & MORE!!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,760 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 49,508 views \u2022 ~637m old",
     "exampleUrl": "https://www.youtube.com/watch?v=zh0xYqckuPc"
   },
   {
-    "topic": "The Five",
+    "topic": "Jesse Watters Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~201m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rvhz6wNo8vw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UCTI4i2ykd8"
+  },
+  {
+    "topic": "Portland Fire at Indiana Fever",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PbXDvognvhU"
+  },
+  {
+    "topic": "SEC Tournament: Tennessee vs. Arkansas",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~251m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0fq-5h-zXh4"
+  },
+  {
+    "topic": "Miss Behavior",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~199m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=34IYQ-059mw"
   },
   {
     "topic": "Deadline: White House",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k4Tv_TNXDWA"
   },
   {
-    "topic": "SEC Tournament: Vanderbilt vs. Florida",
+    "topic": "Savannah Bananas vs. Party Animals",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~299m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=xlyUaeeTsFc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~215m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=LnjHxh970tY"
   },
   {
-    "topic": "The Lead With Jake Tapper",
+    "topic": "Anderson Cooper 360",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=R56xB2BiU4g"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~261m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P4oTAc1g7nk"
   },
   {
-    "topic": "The Russian Rocket Reaction",
+    "topic": "Sweet Home Alabama",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~180m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=V4M5NRzEKIM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~178m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=NH1TMcVv7RA"
+  },
+  {
+    "topic": "Take Care of the Princess",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~206m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=coc_S-9Bat8"
+  },
+  {
+    "topic": "I Am Legend",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0cP1usdFTIU"
+  },
+  {
+    "topic": "All Elite Wrestling: Dynamite",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~100m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=xumpMdQAnpo"
+  },
+  {
+    "topic": "Big Ten Tournament: Michigan State vs. Iowa",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=EQnAPwyR1A8"
+  },
+  {
+    "topic": "Transformers: Age of Extinction",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~107m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lan-_cxNXWQ"
   }
 ]
