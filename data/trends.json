@@ -72,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ti4a9f/the_shortest_youtube_career_ever_documented/"
   },
   {
-    "topic": "So Youtube is definitely engaging in the censorship of political speech",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tiwcfv/so_youtube_is_definitely_engaging_in_the/"
-  },
-  {
     "topic": "TF HAPPENED TO MY BUTTONS \ud83d\ude2d",
     "sources": [
       "reddit"
@@ -88,6 +79,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tivogc/tf_happened_to_my_buttons/"
+  },
+  {
+    "topic": "So Youtube is definitely engaging in the censorship of political speech",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tiwcfv/so_youtube_is_definitely_engaging_in_the/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1546, Part 1 (Thread #1693)",
@@ -153,13 +153,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tgdn84/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "Warhorse Studios Confirmed That They Are Working on a LOTR Open World RPG",
+    "topic": "Mario Kart 8 Deluxe.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tif5hy/warhorse_studios_confirmed_that_they_are_working/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj0rb9/mario_kart_8_deluxe/"
   },
   {
     "topic": "I love musical performances in games <3",
@@ -171,20 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tivngy/i_love_musical_performances_in_games_3/"
   },
   {
-    "topic": "Mario Kart 8 Deluxe.",
+    "topic": "Valve insists Counter-Strike 2 cases are fine and \"people enjoy surprises\" in move to dismiss New York lawsuit",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj0rb9/mario_kart_8_deluxe/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tj04ze/valve_insists_counterstrike_2_cases_are_fine_and/"
   },
   {
     "topic": "Masters of The Universe \u2013 Official Final Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 572,017 views \u2022 ~412m old",
+    "why": "Trending on YouTube \u2022 786,232 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=rJSmz-zhDxE"
   },
   {
@@ -192,71 +192,103 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 232,195 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 245,164 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tL2nzLFIcXg"
-  },
-  {
-    "topic": "mgk, Wiz Khalifa - everything tatted (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 135,406 views \u2022 ~412m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=b7cFUJyndz4"
   },
   {
     "topic": "Knew Better Part Two",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 153,801 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 190,093 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cLJ9EBzi1Nw"
   },
   {
-    "topic": "Little Brother | Official Trailer | Netflix",
+    "topic": "mgk, Wiz Khalifa - everything tatted (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 182,249 views \u2022 ~652m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bWtrFcerKE0"
+    "why": "Trending on YouTube \u2022 151,569 views \u2022 ~484m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=b7cFUJyndz4"
   },
   {
     "topic": "Inpatient (Ren x Chris Webby) - Caskets",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 64,415 views \u2022 ~292m old",
+    "why": "Trending on YouTube \u2022 78,474 views \u2022 ~364m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hd19DLlHA7w"
+  },
+  {
+    "topic": "OsamaSon - off that! [official music video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 59,604 views \u2022 ~284m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8Zuh44rji24"
   },
   {
     "topic": "Vybz Kartel - God and Time (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 89,985 views \u2022 ~472m old",
+    "why": "Trending on YouTube \u2022 103,486 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qSGgcw3Yo6U"
   },
   {
-    "topic": "Cleveland Cavaliers at New York Knicks",
+    "topic": "NEW LIFE SIMULATION GAME! Paralives Gameplay Trailer Reaction",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BFaZa0JmoQY"
+    "why": "Trending on YouTube \u2022 43,382 views \u2022 ~304m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZjwNBxqAhV8"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "Raq baby - 30 Days (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~282m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LlPZh0HTS-Q"
+    "why": "Trending on YouTube \u2022 17,107 views \u2022 ~304m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=QasS12PmC6g"
+  },
+  {
+    "topic": "America's Newsroom",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~191m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8es0wZavxLg"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Bq9HIP0EUyg"
+  },
+  {
+    "topic": "Squawk on the Street",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~102m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cEq3zn0SAz4"
   },
   {
     "topic": "SEC Tournament: LSU vs. Oklahoma",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~616m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4deKGMB6cyg"
+  },
+  {
+    "topic": "The Situation Room",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cS1Yc_usuvk"
   }
 ]
