@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkprri/mobile_gaming_bunk_bed/"
   },
   {
-    "topic": "Wife booked us somewhere new to try. I'm sure shes hinting at something",
+    "topic": "I don't think this is the He-Man I remember from the 80s",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tktd9x/wife_booked_us_somewhere_new_to_try_im_sure_shes/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkwj1j/i_dont_think_this_is_the_heman_i_remember_from/"
   },
   {
     "topic": "How is this possible?",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tkeech/how_is_this_possible/"
+  },
+  {
+    "topic": "Never forget: this man sat on the throne as king of YouTube longer than MrBeast has to date",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tkttsx/never_forget_this_man_sat_on_the_throne_as_king/"
   },
   {
     "topic": "I think I'm behind",
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tkb2vi/do_you_remember_this_youtuber/"
-  },
-  {
-    "topic": "Recommendations are getting worse",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tjond7/recommendations_are_getting_worse/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1548, Part 1 (Thread #1695)",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tka11n/free_talk_friday/"
   },
   {
+    "topic": "Black Flag Original vs. Remake",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tkvbsg/black_flag_original_vs_remake/"
+  },
+  {
     "topic": "Valorant's new Vanguard update seems to be bricking cheaters' PCs. Riot's response? \"Congrats on your $6k paperweights\"",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tkeilb/the_entire_ping_reducer_industry_is_a_coordinated/"
   },
   {
-    "topic": "Accidentally found the perfect chill co-op open world game - Saints Row: The Third",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tkihly/accidentally_found_the_perfect_chill_coop_open/"
-  },
-  {
     "topic": "Vought Rising - First Look | Prime Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 352,823 views \u2022 ~407m old",
+    "why": "Trending on YouTube \u2022 404,368 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2RydunKJrBU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 348,180 views \u2022 ~408m old",
+    "why": "Trending on YouTube \u2022 358,409 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATCmgW_ijts"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 114,044 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 140,198 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4462pTQlmTE"
   },
   {
@@ -208,39 +208,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,279 views \u2022 ~399m old",
+    "why": "Trending on YouTube \u2022 100,958 views \u2022 ~464m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
-  },
-  {
-    "topic": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 46,477 views \u2022 ~359m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
   },
   {
     "topic": "Vought Rising - RUINED THE BOYS FOR THIS?! - Angry Trailer Reaction!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 20,307 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 31,692 views \u2022 ~254m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qh-fXqRcUQ8"
+  },
+  {
+    "topic": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 52,551 views \u2022 ~423m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
   },
   {
     "topic": "kwn - touch myself (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 27,279 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 35,601 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ftPygIE_VwU"
+  },
+  {
+    "topic": "Hurricane Wisdom & Chance the Rapper - Barbie Doll (OFFICIAL MUSIC VIDEO)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 28,921 views \u2022 ~292m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=POEtNqTuB48"
   },
   {
     "topic": "Cleveland Cavaliers at New York Knicks",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=y2PAJNJ7MWs"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~532m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~597m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZEAm48mcZTE"
   },
   {
@@ -256,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~118m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=lyb7k95yK0k"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~97m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tz2hrW84ASA"
   },
   {
-    "topic": "The Last Word With Lawrence O'Donnell",
+    "topic": "CNN News Central",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~695m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jEBiApBP4-E"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JiZ992Gr4FQ"
   }
 ]
