@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tl85tn/how_the_who_the_huh/"
   },
   {
+    "topic": "Americar Flag",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tllaao/americar_flag/"
+  },
+  {
     "topic": "This is the most business synergy in one sign I've ever seen.",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tl7py3/this_is_the_most_business_synergy_in_one_sign_ive/"
-  },
-  {
-    "topic": "My cat has the wireless grooming update- she thinks she can clean herself using Bluetooth...",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlkhf4/my_cat_has_the_wireless_grooming_update_she/"
   },
   {
     "topic": "Am I right",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tlgsnj/time_to_say_goodbye_to_bloodborne_but_more/"
   },
   {
-    "topic": "Just want to give a shout out to this banger of a game: Tactical Breach Wizards",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tlftbg/just_want_to_give_a_shout_out_to_this_banger_of_a/"
-  },
-  {
     "topic": "This Gamestop receipt from 2012 after I sold my entire collection because I needed to move across country..",
     "sources": [
       "reddit"
@@ -169,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tljyd6/this_gamestop_receipt_from_2012_after_i_sold_my/"
+  },
+  {
+    "topic": "Just want to give a shout out to this banger of a game: Tactical Breach Wizards",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tlftbg/just_want_to_give_a_shout_out_to_this_banger_of_a/"
   },
   {
     "topic": "Riot Games Says It 'Would Not and Cannot' Use Vanguard Anti-Cheat to Brick PCs After Rumors Spread",
@@ -180,11 +180,27 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tl8akr/riot_games_says_it_would_not_and_cannot_use/"
   },
   {
+    "topic": "Hai Jawani Toh Ishq Hona Hai - Trailer | Varun | Mrunal | Pooja | David | In Cinemas 5th June 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 4,585,276 views \u2022 ~672m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rFOdIv1jwhc"
+  },
+  {
+    "topic": "Dead by Daylight | Jason | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 106,375 views \u2022 ~165m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YebqRYaTVNg"
+  },
+  {
     "topic": "Dead by Daylight Jason Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,932 views \u2022 ~153m old",
+    "why": "Trending on YouTube \u2022 60,314 views \u2022 ~218m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
   },
   {
@@ -192,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~523m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5YkaI8pH4QU"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~519m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aGoqVJfOSsc"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~618m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QGIYTZo7xp8"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~406m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~470m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H2soPN6gLNA"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=okrOpZe-6j8"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~394m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tDHj3cY70P8"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~339m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~403m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0b98h0tr7N4"
   },
   {
@@ -248,23 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~512m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~577m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m7sDtPQkrhc"
-  },
-  {
-    "topic": "SEC Now",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tT2EmCcpj3Y"
-  },
-  {
-    "topic": "Deadline: White House",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~687m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZUe0Oskmq4g"
   }
 ]
