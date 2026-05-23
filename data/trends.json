@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkeuws/alright_my_appointment_is_over/"
   },
   {
-    "topic": "Heeyyyaaa",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkmdte/heeyyyaaa/"
-  },
-  {
     "topic": "I don't think this is the He-Man I remember from the 80s",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkwj1j/i_dont_think_this_is_the_heman_i_remember_from/"
+  },
+  {
+    "topic": "Heeyyyaaa",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkmdte/heeyyyaaa/"
   },
   {
     "topic": "Mobile gaming bunk bed",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "WHO chief says Ebola outbreak in Congo is 'spreading rapidly' and upgrades risk assessment",
+    "topic": "Ukraine liberated 590 square kilometers of territory this year, 'forcing Russia toward diplomacy,' Zelensky says",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tki0t6/who_chief_says_ebola_outbreak_in_congo_is/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tkxvs9/ukraine_liberated_590_square_kilometers_of/"
   },
   {
     "topic": "Bank boss sorry after describing workers as 'lower value human capital'",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tkvgdc/bank_boss_sorry_after_describing_workers_as_lower/"
   },
   {
-    "topic": "Putin wants war concluded this year on victorious terms including Donbas, Bloomberg reports",
+    "topic": "WHO chief says Ebola outbreak in Congo is 'spreading rapidly' and upgrades risk assessment",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tkev0m/putin_wants_war_concluded_this_year_on_victorious/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tki0t6/who_chief_says_ebola_outbreak_in_congo_is/"
   },
   {
     "topic": "Black Flag Original vs. Remake",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 438,912 views \u2022 ~536m old",
+    "why": "Trending on YouTube \u2022 490,713 views \u2022 ~612m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2RydunKJrBU"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 368,428 views \u2022 ~538m old",
+    "why": "Trending on YouTube \u2022 376,383 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ATCmgW_ijts"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 169,635 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 193,527 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4462pTQlmTE"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 110,832 views \u2022 ~528m old",
+    "why": "Trending on YouTube \u2022 120,009 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 41,871 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 50,371 views \u2022 ~395m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qh-fXqRcUQ8"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 58,693 views \u2022 ~488m old",
+    "why": "Trending on YouTube \u2022 64,891 views \u2022 ~564m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,699 views \u2022 ~417m old",
+    "why": "Trending on YouTube \u2022 55,815 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ftPygIE_VwU"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 37,533 views \u2022 ~356m old",
+    "why": "Trending on YouTube \u2022 48,500 views \u2022 ~433m old",
     "exampleUrl": "https://www.youtube.com/watch?v=POEtNqTuB48"
   },
   {
@@ -248,31 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 31,316 views \u2022 ~333m old",
+    "why": "Trending on YouTube \u2022 38,829 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sTKprISDMqo"
-  },
-  {
-    "topic": "Cleveland Cavaliers at New York Knicks",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~669m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=y2PAJNJ7MWs"
-  },
-  {
-    "topic": "Montreal Canadiens at Carolina Hurricanes",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZEAm48mcZTE"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PMcoLe4r3yI"
   },
   {
@@ -280,15 +264,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~105m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AiO0Tgyo50I"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~110m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ckpsng-KzmM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AO1veyUoqA8"
   }
 ]
