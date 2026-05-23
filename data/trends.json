@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Microsoft Underword",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tl3cs1/microsoft_underword/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,15 +45,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkmdte/heeyyyaaa/"
   },
   {
-    "topic": "Mobile gaming bunk bed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tkprri/mobile_gaming_bunk_bed/"
-  },
-  {
     "topic": "Never forget: this man sat on the throne as king of YouTube longer than MrBeast has to date",
     "sources": [
       "reddit"
@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tkhv2p/i_think_im_behind/"
   },
   {
+    "topic": "I HIT 1,000 SUBSCRIBERS ON MY YOUTUBE CHANNEL \ud83e\udd73\ud83c\udf89\ud83c\udf8a",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tl3kg4/i_hit_1000_subscribers_on_my_youtube_channel/"
+  },
+  {
     "topic": "Your thoughts on this?",
     "sources": [
       "reddit"
@@ -79,33 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tk9xlx/your_thoughts_on_this/"
-  },
-  {
-    "topic": "Do you remember this YouTuber?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tkb2vi/do_you_remember_this_youtuber/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1548, Part 1 (Thread #1695)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tk7pkn/rworldnews_live_thread_russian_invasion_of/"
-  },
-  {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #17)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
     "topic": "Ukraine liberated 590 square kilometers of territory this year, 'forcing Russia toward diplomacy,' Zelensky says",
@@ -117,6 +99,33 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tkxvs9/ukraine_liberated_590_square_kilometers_of/"
   },
   {
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1549, Part 1 (Thread #1696)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tl5nl5/rworldnews_live_thread_russian_invasion_of/"
+  },
+  {
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #17)",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
+  },
+  {
+    "topic": "Four dead, 90 trapped in Chinese coal mine with elevated carbon monoxide levels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tkxlf6/four_dead_90_trapped_in_chinese_coal_mine_with/"
+  },
+  {
     "topic": "Bank boss sorry after describing workers as 'lower value human capital'",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tkvgdc/bank_boss_sorry_after_describing_workers_as_lower/"
-  },
-  {
-    "topic": "WHO chief says Ebola outbreak in Congo is 'spreading rapidly' and upgrades risk assessment",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tki0t6/who_chief_says_ebola_outbreak_in_congo_is/"
   },
   {
     "topic": "Black Flag Original vs. Remake",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tka11n/free_talk_friday/"
   },
   {
-    "topic": "Valorant's new Vanguard update seems to be bricking cheaters' PCs. Riot's response? \"Congrats on your $6k paperweights\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tki2q5/valorants_new_vanguard_update_seems_to_be/"
-  },
-  {
     "topic": "Ubisoft is in a tough situation.",
     "sources": [
       "reddit"
@@ -171,108 +162,109 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tkq4b1/ubisoft_is_in_a_tough_situation/"
   },
   {
-    "topic": "The entire 'ping reducer' industry is a coordinated data heist disguised as gaming technology. They sell a 1989 routing protocol as 'AI', harvest GPS through 'latency tools', and have every pro player on the esports broadcast paid to recommend it.",
+    "topic": "Valorant's new Vanguard update seems to be bricking cheaters' PCs. Riot's response? \"Congrats on your $6k paperweights\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tkeilb/the_entire_ping_reducer_industry_is_a_coordinated/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tki2q5/valorants_new_vanguard_update_seems_to_be/"
   },
   {
-    "topic": "Vought Rising - First Look | Prime Video",
+    "topic": "Lego Batman Legacy Of The Dark Knight Is The First 2026 Denuvo Game To Be Cracked Day 1",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tkz7vc/lego_batman_legacy_of_the_dark_knight_is_the/"
+  },
+  {
+    "topic": "10th year Killer reveal TONIGHT?? - Watching DBD dev livestream",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 490,713 views \u2022 ~612m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2RydunKJrBU"
+    "why": "Trending on YouTube \u2022 109,533 views \u2022 ~87m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zbo1vquQo5g"
   },
   {
-    "topic": "\u3010DRAGON BALL LEGENDS\u3011 LEGENDS INFORMATION Special Edition | Celebrating the 8th Anniversary - vol.1",
+    "topic": "PART 4 DOESN'T EXIST | Subnautica 2 - Part 5",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,383 views \u2022 ~614m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ATCmgW_ijts"
+    "why": "Trending on YouTube \u2022 259,771 views \u2022 ~453m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=l_hSYCBfHSM"
   },
   {
-    "topic": "La Perversa x La Insuperable - Bajo Mundo Con Altura (Video Oficial)",
+    "topic": "X-MEN 97 SEASON 2 TRAILER 2026: Kang, Apocalypse & Avengers Doomsday",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 193,527 views \u2022 ~493m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=4462pTQlmTE"
-  },
-  {
-    "topic": "VOUGHT RISING Official Trailer (2027) The Boys Spin-Off",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 120,009 views \u2022 ~605m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RnaCUol3Ow8"
-  },
-  {
-    "topic": "Vought Rising - RUINED THE BOYS FOR THIS?! - Angry Trailer Reaction!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 50,371 views \u2022 ~395m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qh-fXqRcUQ8"
-  },
-  {
-    "topic": "THE BOYS Vought Rising Trailer Breakdown | Easter Eggs, Hidden Details, Reaction & Things You Missed",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 64,891 views \u2022 ~564m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=B8jGP2eBQgc"
-  },
-  {
-    "topic": "kwn - touch myself (Official Video)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 55,815 views \u2022 ~493m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ftPygIE_VwU"
+    "why": "Trending on YouTube \u2022 51,151 views \u2022 ~352m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=FrAvy80EPxY"
   },
   {
     "topic": "Hurricane Wisdom & Chance the Rapper - Barbie Doll (OFFICIAL MUSIC VIDEO)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 48,500 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 79,055 views \u2022 ~670m old",
     "exampleUrl": "https://www.youtube.com/watch?v=POEtNqTuB48"
+  },
+  {
+    "topic": "Vought Rising - RUINED THE BOYS FOR THIS?! - Angry Trailer Reaction!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 66,133 views \u2022 ~632m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=qh-fXqRcUQ8"
   },
   {
     "topic": "Vought Rising is a Secret SEQUEL to The Boys",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,829 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 54,368 views \u2022 ~646m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sTKprISDMqo"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "The Story With Martha MacCallum",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~190m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PMcoLe4r3yI"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jzaFNXTQw6s"
   },
   {
     "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~419m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AiO0Tgyo50I"
   },
   {
-    "topic": "The Situation Room",
+    "topic": "NCAA Tournament: Texas Tech at Florida",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~116m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AO1veyUoqA8"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~293m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=53-IOk6NV8c"
+  },
+  {
+    "topic": "Golf Central Pregame",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~145m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-hX1GSEajSY"
+  },
+  {
+    "topic": "CNN News Central",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~103m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hD56vJrPy2s"
   }
 ]
