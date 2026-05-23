@@ -1,14 +1,5 @@
 [
   {
-    "topic": "Hikers make unexpected discovery",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlgw4t/hikers_make_unexpected_discovery/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "Hikers make unexpected discovery",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlgw4t/hikers_make_unexpected_discovery/"
   },
   {
     "topic": "How the, who the, huh?",
@@ -63,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlbzck/welp_youtube_doing_yet_another_thing_to_try_and/"
   },
   {
-    "topic": "AINT NO FREAKING WAY!!",
+    "topic": "Getting ads on youtube premium, honestly a joke",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlmykf/aint_no_freaking_way/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlnc1o/getting_ads_on_youtube_premium_honestly_a_joke/"
   },
   {
     "topic": "Play-back error keep happening via Brave browser",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlmuya/playback_error_keep_happening_via_brave_browser/"
   },
   {
-    "topic": "Never forget: this man sat on the throne as king of YouTube longer than MrBeast has to date",
+    "topic": "AINT NO FREAKING WAY!!",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tkttsx/never_forget_this_man_sat_on_the_throne_as_king/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlmykf/aint_no_freaking_way/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1549, Part 1 (Thread #1696)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlkg9u/world_has_6_months_to_avert_major_food_crisis/"
   },
   {
+    "topic": "Eighteen suspected Ebola patients escape after treatment tent is set on fire for a second time in Congo",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tloht5/eighteen_suspected_ebola_patients_escape_after/"
+  },
+  {
     "topic": "Ukraine Strikes Russian Warship Admiral Essen for Fourth Time",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tll5ls/ukraine_strikes_russian_warship_admiral_essen_for/"
-  },
-  {
-    "topic": "Israeli minister Ben-Gvir banned from access to French territory",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlfd7z/israeli_minister_bengvir_banned_from_access_to/"
   },
   {
     "topic": "Diplo DJing his son\u2019s kindergarten graduation \u201cAdding my son's kindergarten graduation to the list of most important sets of my career\u201d",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,168,864 views \u2022 ~236m old",
+    "why": "Trending on YouTube \u2022 2,868,971 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 956,876 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 1,481,519 views \u2022 ~288m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
   },
   {
@@ -200,63 +200,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,634 views \u2022 ~296m old",
+    "why": "Trending on YouTube \u2022 395,321 views \u2022 ~362m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YebqRYaTVNg"
-  },
-  {
-    "topic": "We actually did it.",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 475,127 views \u2022 ~476m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ut2zSNQ89L0"
   },
   {
     "topic": "Dead by Daylight Jason Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,395 views \u2022 ~349m old",
+    "why": "Trending on YouTube \u2022 86,396 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
-  },
-  {
-    "topic": "Vegas Golden Knights at Colorado Avalanche",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~655m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5YkaI8pH4QU"
   },
   {
     "topic": "Fox & Friends Weekend",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Ibp-_yl5OiA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eiTquUHtEnQ"
   },
   {
     "topic": "Golden State Valkyries at Indiana Fever",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~716m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aGoqVJfOSsc"
-  },
-  {
-    "topic": "NCAA Tournament: LSU at Alabama",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~711m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=okrOpZe-6j8"
   },
   {
     "topic": "WWE Friday Night SmackDown",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~535m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~601m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0b98h0tr7N4"
   },
   {
@@ -264,7 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tDHj3cY70P8"
+  },
+  {
+    "topic": "Smerconish",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~54m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uJz98Z-Klpw"
   }
 ]
