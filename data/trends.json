@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlgw4t/hikers_make_unexpected_discovery/"
   },
   {
+    "topic": "They couldn\u2019t wait until they got home",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlslk5/they_couldnt_wait_until_they_got_home/"
+  },
+  {
     "topic": "This is how you say sorry as a sibling",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlog8c/this_is_how_you_say_sorry_as_a_sibling/"
-  },
-  {
-    "topic": "Americar Flag",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tllaao/americar_flag/"
   },
   {
     "topic": "Getting ads on youtube premium, honestly a joke",
@@ -99,22 +99,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tl5nl5/rworldnews_live_thread_russian_invasion_of/"
   },
   {
-    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #17)",
+    "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #18)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1t1399d/rworldnews_discussion_thread_us_and_israel_launch/"
-  },
-  {
-    "topic": "World has 6 months to avert major food crisis, says UN as Hormuz struggle drags on",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlkg9u/world_has_6_months_to_avert_major_food_crisis/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
     "topic": "Eighteen suspected Ebola patients escape after treatment tent is set on fire for a second time in Congo",
@@ -126,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tloht5/eighteen_suspected_ebola_patients_escape_after/"
   },
   {
+    "topic": "World has 6 months to avert major food crisis, says UN as Hormuz struggle drags on",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlkg9u/world_has_6_months_to_avert_major_food_crisis/"
+  },
+  {
     "topic": "Ukraine Strikes Russian Warship Admiral Essen for Fourth Time",
     "sources": [
       "reddit"
@@ -133,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tll5ls/ukraine_strikes_russian_warship_admiral_essen_for/"
-  },
-  {
-    "topic": "Diplo DJing his son\u2019s kindergarten graduation \u201cAdding my son's kindergarten graduation to the list of most important sets of my career\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "popculturechat",
-    "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1tll699/diplo_djing_his_sons_kindergarten_graduation/"
   },
   {
     "topic": "Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!",
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tlftbg/just_want_to_give_a_shout_out_to_this_banger_of_a/"
   },
   {
+    "topic": "Shadow of the Erdtree was a DLC that was almost as big as whole games. Which other DLC blew you away?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tlcr6z/shadow_of_the_erdtree_was_a_dlc_that_was_almost/"
+  },
+  {
     "topic": "10 YouTubers vs 1 Secret Traitor",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,473,813 views \u2022 ~364m old",
+    "why": "Trending on YouTube \u2022 4,229,836 views \u2022 ~427m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,999,949 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 2,596,038 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 442,676 views \u2022 ~424m old",
+    "why": "Trending on YouTube \u2022 487,289 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YebqRYaTVNg"
   },
   {
@@ -208,31 +208,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 90,206 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 93,344 views \u2022 ~540m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
   },
   {
-    "topic": "Fox & Friends Weekend",
+    "topic": "Saturday in America",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=eiTquUHtEnQ"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=TsEdXTjkORk"
   },
   {
-    "topic": "WWE Friday Night SmackDown",
+    "topic": "License to Grill",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0b98h0tr7N4"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=P4i2r2L8EzE"
   },
   {
     "topic": "Top Gun: Maverick",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~653m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tDHj3cY70P8"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~115m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uJz98Z-Klpw"
   }
 ]
