@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Driver removed \"road closed\" signs and got themselves stuck in fresh concrete",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf8ll/driver_removed_road_closed_signs_and_got/"
-  },
-  {
     "topic": "Follow me boy!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmlhi3/follow_me_boy/"
+  },
+  {
+    "topic": "Driver removed \"road closed\" signs and got themselves stuck in fresh concrete",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf8ll/driver_removed_road_closed_signs_and_got/"
   },
   {
     "topic": "[OC] held up",
@@ -63,6 +63,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tm8z2b/thumbnails_lined_up/"
   },
   {
+    "topic": "A list of AI channels",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmm9i2/a_list_of_ai_channels/"
+  },
+  {
     "topic": "Seems like the \"No views\" bug is back for videos uploaded in the last hour or so",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlnc1o/getting_ads_on_youtube_premium_honestly_a_joke/"
-  },
-  {
-    "topic": "A list of AI channels",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmm9i2/a_list_of_ai_channels/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1550, Part 1 (Thread #1697)",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tm3umt/games_where_you_start_at_the_bottom_and_work_your/"
   },
   {
-    "topic": "Today marks 10 years of Overwatch\u2026 still can\u2019t believe it\u2019s been that long",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tm8ewn/today_marks_10_years_of_overwatch_still_cant/"
-  },
-  {
     "topic": "We need another Brothers in Arms game. Hells Highway and Road to Hill 30 were amazing.",
     "sources": [
       "reddit"
@@ -180,27 +171,60 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tmmtgq/we_need_another_brothers_in_arms_game_hells/"
   },
   {
+    "topic": "Today marks 10 years of Overwatch\u2026 still can\u2019t believe it\u2019s been that long",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tm8ewn/today_marks_10_years_of_overwatch_still_cant/"
+  },
+  {
+    "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 225,478 views \u2022 ~127m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iQofRpKH5Vw"
+  },
+  {
     "topic": "Mixtape was not ready for HIM..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 324,460 views \u2022 ~387m old",
+    "why": "Trending on YouTube \u2022 370,852 views \u2022 ~453m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hI55kcpj1PA"
+  },
+  {
+    "topic": "ROBLOX DON'T WAKE GRANDMA..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 145,229 views \u2022 ~192m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sCaP7nh7yWk"
   },
   {
     "topic": "VISIONQUEST TRAILER 2026: Avengers Doomsday, Iron Man & Ultron Returns",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 121,875 views \u2022 ~513m old",
+    "why": "Trending on YouTube \u2022 133,458 views \u2022 ~579m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KOFClWlYADU"
+  },
+  {
+    "topic": "Rocket League x Unreal Engine 6 - Official Reveal Announcement Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 47,458 views \u2022 ~283m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=p5d7y1cbWIk"
   },
   {
     "topic": "Montreal Canadiens at Carolina Hurricanes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~558m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fvW9FBH-uUY"
   },
   {
@@ -208,15 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~177m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=js_IWZ9YqN0"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=32hm49Zs7ic"
   },
   {
     "topic": "State of the Union With Jake Tapper and Dana Bash",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~144m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gh3Eb-97J94"
   },
   {
@@ -224,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~565m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7t6Jl1NhRtc"
   },
   {
@@ -232,23 +256,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~519m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s8R3PPvQF5M"
   },
   {
-    "topic": "Midway",
+    "topic": "Revving Up for a New Life in Aruba",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~577m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1Hag226zjXw"
-  },
-  {
-    "topic": "Big Ten Tournament: Oregon vs. Nebraska",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~584m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=s1POD1hJNVM"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~84m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZfiuLsJ4rxs"
   }
 ]
