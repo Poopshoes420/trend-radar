@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlslk5/they_couldnt_wait_until_they_got_home/"
   },
   {
-    "topic": "This is how you say sorry as a sibling",
+    "topic": "Skilled with the hands",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlog8c/this_is_how_you_say_sorry_as_a_sibling/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tltns7/skilled_with_the_hands/"
   },
   {
     "topic": "Getting ads on youtube premium, honestly a joke",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlgf08/rented_the_movie_interstellar_and_i_got_a_480p_hd/"
   },
   {
-    "topic": "Welp, youtube doing yet another thing to try and combat adblock :/",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlbzck/welp_youtube_doing_yet_another_thing_to_try_and/"
-  },
-  {
     "topic": "AINT NO FREAKING WAY!!",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlmykf/aint_no_freaking_way/"
+  },
+  {
+    "topic": "Welp, youtube doing yet another thing to try and combat adblock :/",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlbzck/welp_youtube_doing_yet_another_thing_to_try_and/"
   },
   {
     "topic": "Play-back error keep happening via Brave browser",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,229,836 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 4,892,771 views \u2022 ~491m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FO9kMeIQI7M"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,596,038 views \u2022 ~413m old",
+    "why": "Trending on YouTube \u2022 3,163,795 views \u2022 ~477m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 487,289 views \u2022 ~487m old",
+    "why": "Trending on YouTube \u2022 524,895 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YebqRYaTVNg"
   },
   {
@@ -208,39 +208,47 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 93,344 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 95,809 views \u2022 ~604m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CC2tvtBKGcw"
+  },
+  {
+    "topic": "Hoobastank - The Reason (Lyrics)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 16,784 views \u2022 ~716m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CvccIKg4P6M"
   },
   {
     "topic": "Saturday in America",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~142m old",
     "exampleUrl": "https://www.youtube.com/watch?v=TsEdXTjkORk"
+  },
+  {
+    "topic": "American Sniper",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~95m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IoluaiPGN1M"
   },
   {
     "topic": "License to Grill",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~58m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~121m old",
     "exampleUrl": "https://www.youtube.com/watch?v=P4i2r2L8EzE"
-  },
-  {
-    "topic": "Top Gun: Maverick",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~717m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tDHj3cY70P8"
   },
   {
     "topic": "Smerconish",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~179m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uJz98Z-Klpw"
   }
 ]
