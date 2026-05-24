@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "The last bug bender",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf7pc/the_last_bug_bender/"
+  },
+  {
     "topic": "Youtube's A.I. Dubbing have trouble pronouncing \"WWE\" and the result is a stuff of nightmares.",
     "sources": [
       "reddit"
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tm5n03/youtubes_ai_dubbing_have_trouble_pronouncing_wwe/"
   },
   {
-    "topic": "Bro was completely lost \ud83d\ude02",
+    "topic": "Driver removed \"road closed\" signs and got themselves stuck in fresh concrete",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlzmug/bro_was_completely_lost/"
-  },
-  {
-    "topic": "Hah!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tlz7n7/hah/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf8ll/driver_removed_road_closed_signs_and_got/"
   },
   {
     "topic": "Thumbnails lined up",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tm8z2b/thumbnails_lined_up/"
   },
   {
-    "topic": "Getting ads on youtube premium, honestly a joke",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlnc1o/getting_ads_on_youtube_premium_honestly_a_joke/"
-  },
-  {
     "topic": "I hope google is doing something to curb this shit",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tm66rq/i_hope_google_is_doing_something_to_curb_this_shit/"
+  },
+  {
+    "topic": "Getting ads on youtube premium, honestly a joke",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tlnc1o/getting_ads_on_youtube_premium_honestly_a_joke/"
   },
   {
     "topic": "Can we please stop with these thumbnails titled \"Worse than (Insert)\" it's starting to get annoying",
@@ -117,15 +117,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmad3b/govt_wont_label_antifa_as_terror_organization_due/"
   },
   {
-    "topic": "Ukraine\u2019s capital Kyiv hit by massive missile, drone attack",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tly135/ukraines_capital_kyiv_hit_by_massive_missile/"
-  },
-  {
     "topic": "Russia hits Ukraine with Oreshnik missile in one of war's biggest attacks on Kyiv",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tm9457/russia_hits_ukraine_with_oreshnik_missile_in_one/"
+  },
+  {
+    "topic": "Ukraine\u2019s capital Kyiv hit by massive missile, drone attack",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tly135/ukraines_capital_kyiv_hit_by_massive_missile/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -184,15 +184,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 766,662 views \u2022 ~650m old",
+    "why": "Trending on YouTube \u2022 770,511 views \u2022 ~712m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7vNOj6kzvck"
+  },
+  {
+    "topic": "VISIONQUEST TRAILER 2026: Avengers Doomsday, Iron Man & Ultron Returns",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 53,248 views \u2022 ~232m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KOFClWlYADU"
   },
   {
     "topic": "Montreal Canadiens at Carolina Hurricanes",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fvW9FBH-uUY"
   },
   {
@@ -200,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~411m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~473m old",
     "exampleUrl": "https://www.youtube.com/watch?v=V-XFOrcfazY"
   },
   {
@@ -208,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qFAGf8Y_xFU"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mUENx-vPd9A"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
     "exampleUrl": "https://www.youtube.com/watch?v=7t6Jl1NhRtc"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~176m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s8R3PPvQF5M"
   },
   {
@@ -240,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~491m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~553m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4ZA93aDOKnI"
   },
   {
@@ -248,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~615m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8ZXGjjK61u4"
   },
   {
@@ -256,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~234m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~296m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1Hag226zjXw"
   },
   {
@@ -264,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~483m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~546m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SrxRo7x02nA"
   },
   {
@@ -272,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~240m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~302m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s1POD1hJNVM"
   },
   {
@@ -280,15 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~284m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Io_0g5hm98E"
-  },
-  {
-    "topic": "The Weekend: Primetime",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=IT8catNB7cQ"
   }
 ]
