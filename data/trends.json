@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Casual vs Ranked",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tn1l4r/casual_vs_ranked/"
+  },
+  {
     "topic": "Follow me boy!",
     "sources": [
       "reddit"
@@ -16,15 +25,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmlhi3/follow_me_boy/"
-  },
-  {
-    "topic": "The last bug bender",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf7pc/the_last_bug_bender/"
   },
   {
     "topic": "These folks will remember this day for a long time",
@@ -36,40 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmorky/these_folks_will_remember_this_day_for_a_long_time/"
   },
   {
-    "topic": "Get out of my water human!!",
+    "topic": "The last bug bender",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tml8ne/get_out_of_my_water_human/"
-  },
-  {
-    "topic": "A list of AI channels",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmm9i2/a_list_of_ai_channels/"
-  },
-  {
-    "topic": "God I fucking hate the ceo of youtube and his pro Ai choices",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmsvyo/god_i_fucking_hate_the_ceo_of_youtube_and_his_pro/"
-  },
-  {
-    "topic": "How tf is YouTube allowing this?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmsd9m/how_tf_is_youtube_allowing_this/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf7pc/the_last_bug_bender/"
   },
   {
     "topic": "is nobody going to talk about these livestreams?",
@@ -81,13 +54,49 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmxf6c/is_nobody_going_to_talk_about_these_livestreams/"
   },
   {
-    "topic": "What the FUCK did I just stumble upon",
+    "topic": "A list of AI channels",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmxdum/what_the_fuck_did_i_just_stumble_upon/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmm9i2/a_list_of_ai_channels/"
+  },
+  {
+    "topic": "How tf is YouTube allowing this?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmsd9m/how_tf_is_youtube_allowing_this/"
+  },
+  {
+    "topic": "God I fucking hate the ceo of youtube and his pro Ai choices",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmsvyo/god_i_fucking_hate_the_ceo_of_youtube_and_his_pro/"
+  },
+  {
+    "topic": "why do i have ads on youtube premium???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tn3xi9/why_do_i_have_ads_on_youtube_premium/"
+  },
+  {
+    "topic": "Finnish president: the figures show Ukraine is in best position since war began",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tn2s3i/finnish_president_the_figures_show_ukraine_is_in/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1551, Part 1 (Thread #1698)",
@@ -108,31 +117,22 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Growing frustration with Putin spreads among Russian elite \u2013 The Guardian",
+    "topic": "Pope Leo XIV makes historic apology for Holy See's own role in legitimizing slavery",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tn152q/growing_frustration_with_putin_spreads_among/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tn4g8d/pope_leo_xiv_makes_historic_apology_for_holy_sees/"
   },
   {
-    "topic": "'Damage in every district of Kyiv' \u2014 Massive Russian ballistic missile, drone attack kills 4, injures 100",
+    "topic": "Farage under mounting pressure to prove Russian hack claim",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmr0nr/damage_in_every_district_of_kyiv_massive_russian/"
-  },
-  {
-    "topic": "Suspected Ebola cases in eastern DR Congo pass 900 as health workers struggle with aid cuts",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmsc97/suspected_ebola_cases_in_eastern_dr_congo_pass/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tn2ugy/farage_under_mounting_pressure_to_prove_russian/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tn04j5/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Rocket League to Receive First Game Engine Tune Up in 11 Years as Psyonix Teases Unreal Engine 6 Update",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tmxviq/rocket_league_to_receive_first_game_engine_tune/"
+  },
+  {
     "topic": "Love when a video game gives an actual historical figure interesting nuance",
     "sources": [
       "reddit"
@@ -153,13 +162,13 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tmm17p/love_when_a_video_game_gives_an_actual_historical/"
   },
   {
-    "topic": "Rocket League to Receive First Game Engine Tune Up in 11 Years as Psyonix Teases Unreal Engine 6 Update",
+    "topic": "I think it\u2019s about time we got another one of these masterpieces of a game",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tmxviq/rocket_league_to_receive_first_game_engine_tune/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tn71ha/i_think_its_about_time_we_got_another_one_of/"
   },
   {
     "topic": "Surprised AAA spy themed games are not more prevalent",
@@ -171,84 +180,99 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tmw87k/surprised_aaa_spy_themed_games_are_not_more/"
   },
   {
-    "topic": "Funniest games that aren't outright comedies",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tmy5fq/funniest_games_that_arent_outright_comedies/"
-  },
-  {
-    "topic": "TEKKEN 8 \u2013 Yujiro Hanma Teaser",
+    "topic": "Colorado Avalanche at Vegas Golden Knights",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 881,300 views \u2022 ~668m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
-  },
-  {
-    "topic": "NCAA Tournament: Arizona State at Texas",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~220m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dWVTyoKhq9c"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=IpzsiGdI3F4"
   },
   {
     "topic": "The CJ Cup Byron Nelson, Final Round",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~323m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~542m old",
     "exampleUrl": "https://www.youtube.com/watch?v=EMJuk-s8rCs"
   },
   {
-    "topic": "The Big Weekend Show",
+    "topic": "Texas Rangers at Los Angeles Angels",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~226m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=5l4wDL9pXps"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~91m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=KN4kDDBBo1I"
   },
   {
-    "topic": "ACC Tournament, Championship: Georgia Tech vs. North Carolina",
+    "topic": "One Nation With Brian Kilmeade",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~402m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1JkAa64U1Ko"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~236m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hLKjcbPeH6Y"
+  },
+  {
+    "topic": "Chef's Kiss",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~259m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=i1IDORwnsYk"
+  },
+  {
+    "topic": "I Manifested You",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~172m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lUHjDcBUh80"
+  },
+  {
+    "topic": "Savannah Bananas vs. Texas Tailgaters",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~114m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eb1Du-O7CPE"
+  },
+  {
+    "topic": "National Treasure: Book of Secrets",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=f_D8JmXIAjQ"
   },
   {
     "topic": "Star Wars: Return of the Jedi",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fj5t6JhDL-Q"
   },
   {
-    "topic": "National Treasure",
+    "topic": "Shift 7: Precision",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~155m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=fcoMCxivzIo"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~242m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=idpjFVpyEtE"
   },
   {
-    "topic": "Shift 6: Final Six Take Risks",
+    "topic": "Questionable Behavior",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~73m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=BY-Eo0sqDzs"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~160m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Q6DfGgXuXrI"
   },
   {
     "topic": "Big Ten Tournament, Championship: Oregon vs. UCLA",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~404m old",
     "exampleUrl": "https://www.youtube.com/watch?v=81kcHQ0C2G8"
   },
   {
@@ -256,39 +280,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~529m old",
     "exampleUrl": "https://www.youtube.com/watch?v=OzEkyOFfczA"
+  },
+  {
+    "topic": "Fire and Pain",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~182m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=S13bpA1Z9JI"
   },
   {
     "topic": "The Shawshank Redemption",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~222m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~441m old",
     "exampleUrl": "https://www.youtube.com/watch?v=A5iDdQDO4Sk"
   },
   {
-    "topic": "Turning Numbers Into Dreams",
+    "topic": "The Weekend: Primetime",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~81m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GzWKbmFBrI4"
-  },
-  {
-    "topic": "Crystal Palace vs. Arsenal",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~488m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=yfNwhYxajzg"
-  },
-  {
-    "topic": "West Ham United vs. Leeds United",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~415m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=JzNx49XjWsc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~238m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=YVu4bijjgsM"
   }
 ]
