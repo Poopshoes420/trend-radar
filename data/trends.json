@@ -1,14 +1,5 @@
 [
   {
-    "topic": "The last bug bender",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf7pc/the_last_bug_bender/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
+  },
+  {
+    "topic": "The last bug bender",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf7pc/the_last_bug_bender/"
   },
   {
     "topic": "Follow me boy!",
@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmf8ll/driver_removed_road_closed_signs_and_got/"
   },
   {
-    "topic": "[OC] held up",
+    "topic": "These folks will remember this day for a long time",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmai9h/oc_held_up/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tmorky/these_folks_will_remember_this_day_for_a_long_time/"
   },
   {
     "topic": "I hope google is doing something to curb this shit",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tm66rq/i_hope_google_is_doing_something_to_curb_this_shit/"
   },
   {
-    "topic": "Thumbnails lined up",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tm8z2b/thumbnails_lined_up/"
-  },
-  {
     "topic": "A list of AI channels",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tmm9i2/a_list_of_ai_channels/"
+  },
+  {
+    "topic": "Thumbnails lined up",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tm8z2b/thumbnails_lined_up/"
   },
   {
     "topic": "Seems like the \"No views\" bug is back for videos uploaded in the last hour or so",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran's supreme leader is holed up in undisclosed location, U.S. intelligence says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmp2fl/irans_supreme_leader_is_holed_up_in_undisclosed/"
+  },
+  {
     "topic": "Gov\u00b4t won't label Antifa as terror organization due to lack of centralized structure",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmad3b/govt_wont_label_antifa_as_terror_organization_due/"
   },
   {
-    "topic": "Trump: US will not rush Iran deal, Hormuz blockade stays until agreement signed",
+    "topic": "'Damage in every district of Kyiv' \u2014 Massive Russian ballistic missile, drone attack kills 4, injures 100",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmdzmq/trump_us_will_not_rush_iran_deal_hormuz_blockade/"
-  },
-  {
-    "topic": "Iran's supreme leader is holed up in undisclosed location, U.S. intelligence says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmp2fl/irans_supreme_leader_is_holed_up_in_undisclosed/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tmr0nr/damage_in_every_district_of_kyiv_massive_russian/"
   },
   {
     "topic": "Simple Questions Sunday!",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tm8ewn/today_marks_10_years_of_overwatch_still_cant/"
   },
   {
+    "topic": "TEKKEN 8 \u2013 Yujiro Hanma Teaser",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 220,185 views \u2022 ~139m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bvXW2ArNz7Q"
+  },
+  {
     "topic": "STEAL A BRAINROT GIVEAWAY LIVE | STEAL A BRAINROT FREE SECRETS + FREE BRAINROT GODS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 243,152 views \u2022 ~125m old",
+    "why": "Trending on YouTube \u2022 243,574 views \u2022 ~188m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ItXZAZtbH10"
+  },
+  {
+    "topic": "Super Battle Golf is Still Ruining My Friendships",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 234,971 views \u2022 ~270m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OGniVAXH3eU"
   },
   {
     "topic": "Mixtape was not ready for HIM..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 413,428 views \u2022 ~520m old",
+    "why": "Trending on YouTube \u2022 447,719 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hI55kcpj1PA"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 192,995 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 229,112 views \u2022 ~323m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sCaP7nh7yWk"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 143,264 views \u2022 ~646m old",
+    "why": "Trending on YouTube \u2022 152,244 views \u2022 ~709m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KOFClWlYADU"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 68,237 views \u2022 ~350m old",
+    "why": "Trending on YouTube \u2022 87,519 views \u2022 ~413m old",
     "exampleUrl": "https://www.youtube.com/watch?v=p5d7y1cbWIk"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~625m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fvW9FBH-uUY"
   },
   {
@@ -232,47 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~209m old",
     "exampleUrl": "https://www.youtube.com/watch?v=32hm49Zs7ic"
   },
   {
-    "topic": "State of the Union With Jake Tapper and Dana Bash",
+    "topic": "Fareed Zakaria GPS",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~211m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Gh3Eb-97J94"
-  },
-  {
-    "topic": "The Dark Knight Rises",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~698m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=7t6Jl1NhRtc"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~106m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lHp8Fh0EtlI"
   },
   {
     "topic": "To Build or Not to Build in Aruba",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~63m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~126m old",
     "exampleUrl": "https://www.youtube.com/watch?v=XQfwkq_zhhg"
-  },
-  {
-    "topic": "New York Knicks at Cleveland Cavaliers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~652m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=s8R3PPvQF5M"
-  },
-  {
-    "topic": "Super Slider Supper",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~50m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=tYf5Ua4CdCk"
   }
 ]
