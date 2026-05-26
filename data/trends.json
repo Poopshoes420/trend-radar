@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Hold my glasses",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tnng9c/hold_my_glasses/"
+  },
+  {
     "topic": "My sister is a teacher. One of her students gave her this on the last day of school.",
     "sources": [
       "reddit"
@@ -25,15 +34,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tng72b/3d_printed_hair_for_my_friend/"
-  },
-  {
-    "topic": "Hold my glasses",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tnng9c/hold_my_glasses/"
   },
   {
     "topic": "Be gay guys",
@@ -144,15 +144,6 @@
     "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1tnib1h/cate_blanchett_is_the_ultimate_red_carpet/"
   },
   {
-    "topic": "Nintendo Is Completely Ignoring AI and Doing Fine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tnjjqx/nintendo_is_completely_ignoring_ai_and_doing_fine/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -160,6 +151,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tn04j5/making_friends_monday_share_your_game_tags_here/"
+  },
+  {
+    "topic": "Nintendo Is Completely Ignoring AI and Doing Fine",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tnjjqx/nintendo_is_completely_ignoring_ai_and_doing_fine/"
   },
   {
     "topic": "Star Citizen blasts through $1 billion in player funding, as its developer lists a new $5,000 spaceship for sale that is 'not yet ready to play'",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 849,204 views \u2022 ~414m old",
+    "why": "Trending on YouTube \u2022 978,172 views \u2022 ~484m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FEropZ_Tq7Y"
   },
   {
@@ -192,23 +192,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 788,857 views \u2022 ~482m old",
+    "why": "Trending on YouTube \u2022 807,367 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=B9d-wISnm8s"
+  },
+  {
+    "topic": "CROCODILE FUN CHALLENGE!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 174,133 views \u2022 ~183m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CWCr78u5weM"
   },
   {
     "topic": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) 'BOOMPALA' OFFICIAL PERFORMANCE FILM",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 576,407 views \u2022 ~607m old",
+    "why": "Trending on YouTube \u2022 615,619 views \u2022 ~677m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Gnn4GRSzRXI"
+  },
+  {
+    "topic": "DO NOT Come to our Sandwich Shop",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 201,226 views \u2022 ~241m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uy-4yZaUF0Q"
   },
   {
     "topic": "Reacting to Jason's Moris & Power! - DBD #earlyaccess",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 302,615 views \u2022 ~469m old",
+    "why": "Trending on YouTube \u2022 329,702 views \u2022 ~538m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nzy0md0tpOE"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 363,742 views \u2022 ~605m old",
+    "why": "Trending on YouTube \u2022 376,439 views \u2022 ~674m old",
     "exampleUrl": "https://www.youtube.com/watch?v=b1u1kUdDOys"
   },
   {
@@ -224,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 207,877 views \u2022 ~380m old",
+    "why": "Trending on YouTube \u2022 242,295 views \u2022 ~449m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AZtfHRBpi3Q"
   },
   {
@@ -232,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 162,176 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 193,069 views \u2022 ~471m old",
     "exampleUrl": "https://www.youtube.com/watch?v=W8HbJUvdo4A"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,264 views \u2022 ~486m old",
+    "why": "Trending on YouTube \u2022 199,300 views \u2022 ~555m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mmHAWfRw7BY"
   },
   {
@@ -248,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 102,464 views \u2022 ~545m old",
+    "why": "Trending on YouTube \u2022 109,201 views \u2022 ~614m old",
     "exampleUrl": "https://www.youtube.com/watch?v=JdM39bSS-JY"
   },
   {
@@ -256,31 +272,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~104m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UN5xcfngNvI"
   },
   {
-    "topic": "CNN News Central",
+    "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~200m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GIQ7tIY4H4Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~124m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pDWe1kaM2fU"
   },
   {
-    "topic": "Texas Rangers at Los Angeles Angels",
+    "topic": "Currahee",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=KN4kDDBBo1I"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~47m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BE2zNfeAYY0"
   },
   {
-    "topic": "Pearl Harbor",
+    "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~662m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6Fs7lBInBtY"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~120m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oJtBAXZGp7c"
   }
 ]
