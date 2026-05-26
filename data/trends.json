@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Doggo has zero boundaries",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tog6pu/doggo_has_zero_boundaries/"
-  },
-  {
     "topic": "brother from another mother!",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tom6sq/brother_from_another_mother/"
+  },
+  {
+    "topic": "Doggo has zero boundaries",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tog6pu/doggo_has_zero_boundaries/"
   },
   {
     "topic": "Student \u274c Test subject \u2705",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1to3ko6/eu_to_favour_european_satellite_services_to/"
   },
   {
-    "topic": "Netherlands blocks U.S. takeover of DigiD operator Solvinity over security concerns",
+    "topic": "Cyberattacks against Japan drastically down during Lunar New Year holidays",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1to3o0j/netherlands_blocks_us_takeover_of_digid_operator/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tolnjl/cyberattacks_against_japan_drastically_down/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -180,11 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1toio7k/windows_classic_3d_space_cadet_pinball_is_getting/"
   },
   {
+    "topic": "TACO TUESDAY",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 564,133 views \u2022 ~73m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JkNAgGPL228"
+  },
+  {
     "topic": "KATSEYE - PINKY UP (Live From The American Music Awards/2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 319,586 views \u2022 ~274m old",
+    "why": "Trending on YouTube \u2022 432,042 views \u2022 ~341m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k3VwwLeorsU"
   },
   {
@@ -192,15 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 643,316 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 676,409 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=6IFeGqSqrKs"
+  },
+  {
+    "topic": "It's All Coming Out.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 140,208 views \u2022 ~287m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j9UVh1HTWjE"
   },
   {
     "topic": "New Killer JASON aka The Slasher | Dead by Daylight PTB",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,677 views \u2022 ~365m old",
+    "why": "Trending on YouTube \u2022 208,273 views \u2022 ~432m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VVI7e7TtS0k"
   },
   {
@@ -208,23 +224,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,141 views \u2022 ~246m old",
+    "why": "Trending on YouTube \u2022 142,190 views \u2022 ~313m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FH_CUSu7M1Q"
-  },
-  {
-    "topic": "It's All Coming Out.",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 83,073 views \u2022 ~220m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=j9UVh1HTWjE"
   },
   {
     "topic": "Season 2 Cinematic Trailer | Marathon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 57,155 views \u2022 ~226m old",
+    "why": "Trending on YouTube \u2022 76,893 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a1i801SDrJA"
   },
   {
@@ -232,55 +240,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,352 views \u2022 ~461m old",
+    "why": "Trending on YouTube \u2022 123,286 views \u2022 ~528m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kly9gxvPgKQ"
-  },
-  {
-    "topic": "Honest Trailers | The Super Mario Galaxy Movie",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 75,951 views \u2022 ~346m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=iLOPnqzuiAs"
   },
   {
     "topic": "Bruno Mars - Risk It All [Live From The Romantic Tour]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,574 views \u2022 ~402m old",
+    "why": "Trending on YouTube \u2022 106,348 views \u2022 ~468m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aFbueod4reQ"
   },
   {
-    "topic": "Carolina Hurricanes at Montreal Canadiens",
+    "topic": "Honest Trailers | The Super Mario Galaxy Movie",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=jZsn1G_7JjI"
+    "why": "Trending on YouTube \u2022 91,615 views \u2022 ~413m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=iLOPnqzuiAs"
   },
   {
     "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
     "exampleUrl": "https://www.youtube.com/watch?v=eY5cn7SdhNQ"
   },
   {
-    "topic": "Squawk Box",
+    "topic": "Morning Joe",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Mgeg-FLN6hg"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8bpaksNEcTY"
+  },
+  {
+    "topic": "Squawk on the Street",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~93m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tD9FPjs5Sko"
   },
   {
     "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~135m old",
     "exampleUrl": "https://www.youtube.com/watch?v=C2K-jrKDS0o"
   }
 ]
