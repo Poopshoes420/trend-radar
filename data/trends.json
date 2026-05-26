@@ -9,22 +9,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Michael Jackson vs Michael Jackson",
+    "topic": "Student \u274c Test subject \u2705",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1to0jqz/michael_jackson_vs_michael_jackson/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1to8ri5/student_test_subject/"
   },
   {
-    "topic": "An attempt was made.",
+    "topic": "Agree?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1to74v5/an_attempt_was_made/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tobqx0/agree/"
   },
   {
     "topic": "Hold my glasses",
@@ -36,31 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tnng9c/hold_my_glasses/"
   },
   {
-    "topic": "My sister is a teacher. One of her students gave her this on the last day of school.",
+    "topic": "My buddy bought this should i be worried? it was only $1",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tnjy55/my_sister_is_a_teacher_one_of_her_students_gave/"
-  },
-  {
-    "topic": "Well...I guess this might be one of the top ten YouTube vids this month",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1to2s7h/welli_guess_this_might_be_one_of_the_top_ten/"
-  },
-  {
-    "topic": "The F would I want to do that for?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1to7y1o/the_f_would_i_want_to_do_that_for/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1to11rh/my_buddy_bought_this_should_i_be_worried_it_was/"
   },
   {
     "topic": "Does anybody else notice the trend in small creators.",
@@ -72,13 +54,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1to2yij/does_anybody_else_notice_the_trend_in_small/"
   },
   {
-    "topic": "WHAT THE FU-ON YOUTUBE KIDS!!",
+    "topic": "Well...I guess this might be one of the top ten YouTube vids this month",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tnibfg/what_the_fuon_youtube_kids/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1to2s7h/welli_guess_this_might_be_one_of_the_top_ten/"
   },
   {
     "topic": "What is this? First time seeing it.",
@@ -88,6 +70,24 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tnrpg9/what_is_this_first_time_seeing_it/"
+  },
+  {
+    "topic": "WHAT THE FU-ON YOUTUBE KIDS!!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tnibfg/what_the_fuon_youtube_kids/"
+  },
+  {
+    "topic": "fym \"disabled by creator\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tnwse2/fym_disabled_by_creator/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1552, Part 1 (Thread #1699)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Ireland to ban goods from Israeli settlements in West Bank by July",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1to7gln/ireland_to_ban_goods_from_israeli_settlements_in/"
+  },
+  {
     "topic": "EU to favour European satellite services to prevent Musk\u2019s Starlink expansion",
     "sources": [
       "reddit"
@@ -115,15 +124,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1to3ko6/eu_to_favour_european_satellite_services_to/"
-  },
-  {
-    "topic": "Netherlands blocks U.S. takeover of DigiD operator Solvinity over security concerns",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1to3o0j/netherlands_blocks_us_takeover_of_digid_operator/"
   },
   {
     "topic": "Self-Driving bus in Sweden crashes with tram on first day of passenger service",
@@ -144,6 +144,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tn04j5/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "\"I play video games for their plots\" the plots in question:",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tobm5m/i_play_video_games_for_their_plots_the_plots_in/"
+  },
+  {
     "topic": "'007 First Light' - Review Thread",
     "sources": [
       "reddit"
@@ -151,6 +160,15 @@
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1to4t49/007_first_light_review_thread/"
+  },
+  {
+    "topic": "'Immensely Successful and Long Lasting' \u2014 Why Take-Two Boss Strauss Zelnick Rejects Claims Red Dead Online Was a Missed Opportunity",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1toa7cu/immensely_successful_and_long_lasting_why_taketwo/"
   },
   {
     "topic": "Star Citizen blasts through $1 billion in player funding, as its developer lists a new $5,000 spaceship for sale that is 'not yet ready to play'",
@@ -162,37 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tnm3yd/star_citizen_blasts_through_1_billion_in_player/"
   },
   {
-    "topic": "Nintendo Is Completely Ignoring AI and Doing Fine",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tnjjqx/nintendo_is_completely_ignoring_ai_and_doing_fine/"
-  },
-  {
-    "topic": "What ever happened to Guitar Hero/Rock Band?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tno70s/what_ever_happened_to_guitar_herorock_band/"
-  },
-  {
-    "topic": "DAY 511",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 310,781 views \u2022 ~548m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dYEukrTOjEA"
-  },
-  {
     "topic": "New York Knicks at Cleveland Cavaliers",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~241m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~440m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ZIx5ck4VV_Q"
   },
   {
@@ -200,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~169m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~368m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jZsn1G_7JjI"
   },
   {
@@ -208,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~358m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~557m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3UFzmpXrmNU"
   },
   {
@@ -216,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~229m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~428m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AgCh90Bo7lA"
   },
   {
@@ -224,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~304m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~503m old",
     "exampleUrl": "https://www.youtube.com/watch?v=x86cymPa7QA"
   },
   {
@@ -232,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~294m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~493m old",
     "exampleUrl": "https://www.youtube.com/watch?v=gQkT0NlCEmQ"
   },
   {
@@ -240,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~293m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~492m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0YewQPZPC1Y"
   },
   {
@@ -248,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~263m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~462m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cKrtw_EbF1Y"
   },
   {
@@ -256,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~185m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~384m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Q0xFUeV2oPU"
   },
   {
@@ -264,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~516m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3dCabvmqiDQ"
   },
   {
@@ -272,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~388m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Hq7GRJqZT6I"
   },
   {
@@ -280,23 +272,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~148m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~347m old",
     "exampleUrl": "https://www.youtube.com/watch?v=pfcbluy5U2w"
-  },
-  {
-    "topic": "Pearl Harbor",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~588m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=bFJBbzJsAYc"
   },
   {
     "topic": "Restoring an Island Legacy",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~342m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~541m old",
     "exampleUrl": "https://www.youtube.com/watch?v=m_mzuZgqv54"
   },
   {
@@ -304,15 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~137m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~336m old",
     "exampleUrl": "https://www.youtube.com/watch?v=K_X5zAn9pAA"
-  },
-  {
-    "topic": "The Equalizer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~175m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-mHXfVLgPeE"
   }
 ]
