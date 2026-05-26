@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Nice graduation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tojh0t/nice_graduation/"
+  },
+  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -18,13 +27,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tog6pu/doggo_has_zero_boundaries/"
   },
   {
-    "topic": "Nice graduation",
+    "topic": "brother from another mother!",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tojh0t/nice_graduation/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tom6sq/brother_from_another_mother/"
   },
   {
     "topic": "Student \u274c Test subject \u2705",
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1to8ri5/student_test_subject/"
-  },
-  {
-    "topic": "Work that pole",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tof5c3/work_that_pole/"
   },
   {
     "topic": "this shit is cruel",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tobm5m/i_play_video_games_for_their_plots_the_plots_in/"
   },
   {
-    "topic": "'007 First Light' - Review Thread",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1to4t49/007_first_light_review_thread/"
-  },
-  {
     "topic": "PlayStation Delists and Shuts Down Servers for Destruction AllStars, the Latest in a String of Struggling Live-Service Games",
     "sources": [
       "reddit"
@@ -171,44 +162,85 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tojdjh/playstation_delists_and_shuts_down_servers_for/"
   },
   {
-    "topic": "'Immensely Successful and Long Lasting' \u2014 Why Take-Two Boss Strauss Zelnick Rejects Claims Red Dead Online Was a Missed Opportunity",
+    "topic": "'007 First Light' - Review Thread",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1toa7cu/immensely_successful_and_long_lasting_why_taketwo/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1to4t49/007_first_light_review_thread/"
   },
   {
-    "topic": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) \u2018BOOMPALA' OFFICIAL PERFORMANCE FILM @ THE QUARRY",
+    "topic": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 599,755 views \u2022 ~503m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=6IFeGqSqrKs"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1toio7k/windows_classic_3d_space_cadet_pinball_is_getting/"
   },
   {
     "topic": "KATSEYE - PINKY UP (Live From The American Music Awards/2026)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 180,888 views \u2022 ~189m old",
+    "why": "Trending on YouTube \u2022 319,586 views \u2022 ~274m old",
     "exampleUrl": "https://www.youtube.com/watch?v=k3VwwLeorsU"
+  },
+  {
+    "topic": "LE SSERAFIM (\ub974\uc138\ub77c\ud54c) \u2018BOOMPALA' OFFICIAL PERFORMANCE FILM @ THE QUARRY",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 643,316 views \u2022 ~588m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=6IFeGqSqrKs"
+  },
+  {
+    "topic": "New Killer JASON aka The Slasher | Dead by Daylight PTB",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 173,677 views \u2022 ~365m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VVI7e7TtS0k"
   },
   {
     "topic": "i'm going off the map",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 38,945 views \u2022 ~161m old",
+    "why": "Trending on YouTube \u2022 103,141 views \u2022 ~246m old",
     "exampleUrl": "https://www.youtube.com/watch?v=FH_CUSu7M1Q"
+  },
+  {
+    "topic": "It's All Coming Out.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 83,073 views \u2022 ~220m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j9UVh1HTWjE"
+  },
+  {
+    "topic": "Season 2 Cinematic Trailer | Marathon",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 57,155 views \u2022 ~226m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=a1i801SDrJA"
+  },
+  {
+    "topic": "The Adventure Begins\u2026 [Subnautica 2 Ep 1/4]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 103,352 views \u2022 ~461m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Kly9gxvPgKQ"
   },
   {
     "topic": "Honest Trailers | The Super Mario Galaxy Movie",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 55,649 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 75,951 views \u2022 ~346m old",
     "exampleUrl": "https://www.youtube.com/watch?v=iLOPnqzuiAs"
   },
   {
@@ -216,79 +248,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 62,090 views \u2022 ~317m old",
+    "why": "Trending on YouTube \u2022 87,574 views \u2022 ~402m old",
     "exampleUrl": "https://www.youtube.com/watch?v=aFbueod4reQ"
-  },
-  {
-    "topic": "Season 2 Cinematic Trailer | Marathon",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 10,580 views \u2022 ~141m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=a1i801SDrJA"
-  },
-  {
-    "topic": "New York Knicks at Cleveland Cavaliers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZIx5ck4VV_Q"
   },
   {
     "topic": "Carolina Hurricanes at Montreal Canadiens",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~673m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jZsn1G_7JjI"
   },
   {
-    "topic": "FOX and Friends",
+    "topic": "America's Newsroom",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~165m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e_MsROVurnw"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~99m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eY5cn7SdhNQ"
   },
   {
-    "topic": "Let's Win This",
+    "topic": "Squawk Box",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~649m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AgCh90Bo7lA"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~122m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Mgeg-FLN6hg"
   },
   {
-    "topic": "Philadelphia Phillies at San Diego Padres",
+    "topic": "The Situation Room",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=gQkT0NlCEmQ"
-  },
-  {
-    "topic": "CNN News Central",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~108m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rcVlL-rhUI4"
-  },
-  {
-    "topic": "Tell All Part 2",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~713m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0YewQPZPC1Y"
-  },
-  {
-    "topic": "2026 NCAA Women's Individual Championship",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=cKrtw_EbF1Y"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~68m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=C2K-jrKDS0o"
   }
 ]
