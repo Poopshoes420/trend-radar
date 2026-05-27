@@ -9,6 +9,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Is inflation affecting your family?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp8ikc/is_inflation_affecting_your_family/"
+  },
+  {
     "topic": "Boys and their comms",
     "sources": [
       "reddit"
@@ -16,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tozo6c/boys_and_their_comms/"
+  },
+  {
+    "topic": "[OC] oasis",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp5wq3/oc_oasis/"
   },
   {
     "topic": "The lost art of martial arts filmmaking",
@@ -27,31 +45,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tox9gs/the_lost_art_of_martial_arts_filmmaking/"
   },
   {
-    "topic": "Not even in Silent Hill did they have a siren like this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp52ng/not_even_in_silent_hill_did_they_have_a_siren/"
-  },
-  {
-    "topic": "My toddler and I remake classic movie scenes on a $0 budget -- here's our version of Raiders of the Lost Ark [OC]",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1toskjl/my_toddler_and_i_remake_classic_movie_scenes_on_a/"
-  },
-  {
-    "topic": "Asmongold says people hate PewDiePie because he made it in life",
+    "topic": "The simple doofus Earth vs. The Chad planet Hestia: Kurzgesagt's content has really dropped in quality.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp5hro/asmongold_says_people_hate_pewdiepie_because_he/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp2wri/the_simple_doofus_earth_vs_the_chad_planet_hestia/"
+  },
+  {
+    "topic": "Video description missing on the app version but not on the browser version",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp7x3q/video_description_missing_on_the_app_version_but/"
   },
   {
     "topic": "now THIS is information I need to know.",
@@ -72,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp2wpe/seriously_39m_watched_this/"
   },
   {
-    "topic": "this shit is cruel",
+    "topic": "for some reason video descriptions show nothing",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1toi9mc/this_shit_is_cruel/"
-  },
-  {
-    "topic": "The simple doofus Earth vs. The Chad planet Hestia: Kurzgesagt's content has really dropped in quality.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp2wri/the_simple_doofus_earth_vs_the_chad_planet_hestia/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp8ehp/for_some_reason_video_descriptions_show_nothing/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1553, Part 1 (Thread #1700)",
@@ -108,13 +108,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Male Birth Control Pill to Stop Sperm Production Passes Safety Test",
+    "topic": "Canada to order military plane fleet from Sweden in shift from US suppliers",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tp5662/male_birth_control_pill_to_stop_sperm_production/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpakth/canada_to_order_military_plane_fleet_from_sweden/"
   },
   {
     "topic": "Ukraine Hits Russian Aircraft Plant, Airbase and Oil Refinery in Overnight Barrage",
@@ -135,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tozgsg/reuters_exclusive_senior_ukrainian_commander_sees/"
   },
   {
-    "topic": "New 'The Witcher 3' Expansion Announced! - 'The Witcher 3: Wild Hunt - Songs of the Past'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp05od/new_the_witcher_3_expansion_announced_the_witcher/"
-  },
-  {
     "topic": "Making Friends Monday! Share your game tags here!",
     "sources": [
       "reddit"
@@ -153,46 +144,79 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tn04j5/making_friends_monday_share_your_game_tags_here/"
   },
   {
-    "topic": "The Sony- Bungie deal is probably the Best ever trick Pulled by any Developer",
+    "topic": "New 'The Witcher 3' Expansion Announced! - 'The Witcher 3: Wild Hunt - Songs of the Past'",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tot8j0/the_sony_bungie_deal_is_probably_the_best_ever/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp05od/new_the_witcher_3_expansion_announced_the_witcher/"
   },
   {
-    "topic": "\"I play video games for their plots\" the plots in question:",
+    "topic": "No Man'S Sky 43rd free huge update, They are incredible",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tobm5m/i_play_video_games_for_their_plots_the_plots_in/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp9r0h/no_mans_sky_43rd_free_huge_update_they_are/"
   },
   {
-    "topic": "Dragon Quest XII restarted development and is now called Dragon Quest XII: Beyond Dreams",
+    "topic": "Steam Deck Price Increase",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp5gws/dragon_quest_xii_restarted_development_and_is_now/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tpc6g9/steam_deck_price_increase/"
+  },
+  {
+    "topic": "Mina: The Hollower is now the highest rated game of 2026 on Opencritic with an average of 92/100 in review scores",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp8jlp/mina_the_hollower_is_now_the_highest_rated_game/"
+  },
+  {
+    "topic": "Enola Holmes 3 | Official Teaser | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 339,444 views \u2022 ~346m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=g1fq327snPU"
   },
   {
     "topic": "XLOV \uc5d1\uc2a4\ub7ec\ube0c 'SERVE' MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 190,555 views \u2022 ~344m old",
+    "why": "Trending on YouTube \u2022 305,831 views \u2022 ~526m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1IzZezTfwE0"
+  },
+  {
+    "topic": "No Man's Sky The Swarm Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 104,000 views \u2022 ~288m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2NomizORoqU"
+  },
+  {
+    "topic": "Dragon Quest XII: Beyond Dreams - Official Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 27,921 views \u2022 ~249m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sCRie0bKvtE"
   },
   {
     "topic": "Colorado Avalanche at Vegas Golden Knights",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~197m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y76HZP_h7TY"
   },
   {
@@ -200,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~385m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~567m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WgP5wIFrtYo"
   },
   {
@@ -208,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~405m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~587m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Bl3I_eqBVUs"
   },
   {
@@ -216,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~487m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ykkJK9uuFMY"
   },
   {
@@ -224,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~459m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Raooew2Rm1E"
   },
   {
@@ -232,15 +256,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~445m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~627m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NUOrD4csTH4"
+  },
+  {
+    "topic": "Philadelphia Phillies at San Diego Padres",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~257m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DQHpG5OHkzQ"
   },
   {
     "topic": "The Secret Library",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~289m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~472m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cwIlvKDiv6c"
   },
   {
@@ -248,7 +280,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~373m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~556m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CnNjKH_CIOA"
   },
   {
@@ -256,31 +288,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VrFyA6GvBt8"
   },
   {
-    "topic": "2026 NCAA Women's Team Match Play, Semifinals",
+    "topic": "San Antonio Spurs at Oklahoma City Thunder",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~314m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qNYoXy-j8FQ"
-  },
-  {
-    "topic": "Iron Man 3",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~277m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=s-flWIZu6_U"
-  },
-  {
-    "topic": "Cast Away",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~342m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_SshhlB41Io"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~310m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=3kJ8FOIyQEg"
   }
 ]
