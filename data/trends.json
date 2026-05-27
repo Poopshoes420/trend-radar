@@ -45,6 +45,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp52ng/not_even_in_silent_hill_did_they_have_a_siren/"
   },
   {
+    "topic": "What is the point of this popup? Yes I am, why do they ask?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpij6a/what_is_the_point_of_this_popup_yes_i_am_why_do/"
+  },
+  {
     "topic": "The simple doofus Earth vs. The Chad planet Hestia: Kurzgesagt's content has really dropped in quality.",
     "sources": [
       "reddit"
@@ -63,15 +72,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp7x3q/video_description_missing_on_the_app_version_but/"
   },
   {
-    "topic": "What is the point of this popup? Yes I am, why do they ask?",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpij6a/what_is_the_point_of_this_popup_yes_i_am_why_do/"
-  },
-  {
     "topic": "Video descriptions are gone on mobile YouTube app",
     "sources": [
       "reddit"
@@ -81,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpburk/video_descriptions_are_gone_on_mobile_youtube_app/"
   },
   {
-    "topic": "now THIS is information I need to know.",
+    "topic": "I hate this with a passion",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1toovqz/now_this_is_information_i_need_to_know/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpirjn/i_hate_this_with_a_passion/"
   },
   {
-    "topic": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "topic": "Trump says Oman will 'behave,' or will be attacked by US",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpakth/canada_to_order_military_plane_fleet_from_sweden/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tph600/trump_says_oman_will_behave_or_will_be_attacked/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1553, Part 1 (Thread #1700)",
@@ -117,13 +117,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Trump says Oman will 'behave,' or will be attacked by US",
+    "topic": "Canada to order military plane fleet from Sweden in shift from US suppliers",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tph600/trump_says_oman_will_behave_or_will_be_attacked/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpakth/canada_to_order_military_plane_fleet_from_sweden/"
   },
   {
     "topic": "Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says",
@@ -171,36 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp05od/new_the_witcher_3_expansion_announced_the_witcher/"
   },
   {
-    "topic": "Mina: The Hollower is now the highest rated game of 2026 on Opencritic with an average of 92/100 in review scores",
+    "topic": "\u201cMafia Definitive Edition\u201d Fair Play race on classic is more difficult than Elden Ring bosses. I\u2019m struggling to stay in first.",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp8jlp/mina_the_hollower_is_now_the_highest_rated_game/"
-  },
-  {
-    "topic": "Marvel Animation\u2019s X-Men \u201897 Season 2 | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,162,552 views \u2022 ~349m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mfUtseK27pc"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tph5lj/mafia_definitive_edition_fair_play_race_on/"
   },
   {
     "topic": "Disclosure Day | Final Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,094,223 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 1,594,327 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=icDuEHSxE-w"
+  },
+  {
+    "topic": "Marvel Animation\u2019s X-Men \u201897 Season 2 | Official Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,382,089 views \u2022 ~429m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mfUtseK27pc"
   },
   {
     "topic": "Enola Holmes 3 | Official Teaser | Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 670,049 views \u2022 ~589m old",
+    "why": "Trending on YouTube \u2022 738,727 views \u2022 ~669m old",
     "exampleUrl": "https://www.youtube.com/watch?v=g1fq327snPU"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,455 views \u2022 ~300m old",
+    "why": "Trending on YouTube \u2022 283,151 views \u2022 ~379m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BnWG_R-y6p8"
+  },
+  {
+    "topic": "Beating All Endings in the BEST FNAF Fangame of 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 243,180 views \u2022 ~608m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0YW75xy66dY"
   },
   {
     "topic": "My Singing Monsters - Current Affairs (Official Crystal Islet Trailer)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 150,413 views \u2022 ~409m old",
+    "why": "Trending on YouTube \u2022 173,928 views \u2022 ~488m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_Fh2xDTDLiw"
   },
   {
@@ -224,15 +232,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,093 views \u2022 ~531m old",
+    "why": "Trending on YouTube \u2022 214,396 views \u2022 ~610m old",
     "exampleUrl": "https://www.youtube.com/watch?v=2NomizORoqU"
+  },
+  {
+    "topic": "Jungle - The Wave (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 85,292 views \u2022 ~368m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=DW1vUkqNvqQ"
   },
   {
     "topic": "Dragon Quest XII: Beyond Dreams - Official Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 81,497 views \u2022 ~492m old",
+    "why": "Trending on YouTube \u2022 95,823 views \u2022 ~571m old",
     "exampleUrl": "https://www.youtube.com/watch?v=sCRie0bKvtE"
   },
   {
@@ -240,31 +256,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 60,215 views \u2022 ~410m old",
+    "why": "Trending on YouTube \u2022 78,985 views \u2022 ~489m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0is_VwWU3EE"
-  },
-  {
-    "topic": "TEENAGE SEX AND DEATH AT CAMP MIASMA | Official Trailer | In Theaters August 7",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 49,005 views \u2022 ~469m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dimCiC_hdoA"
   },
   {
     "topic": "Quadeca - Dark Magic",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,433 views \u2022 ~124m old",
+    "why": "Trending on YouTube \u2022 28,636 views \u2022 ~203m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0e6a0RFP69I"
+  },
+  {
+    "topic": "TEENAGE SEX AND DEATH AT CAMP MIASMA | Official Trailer | In Theaters August 7",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 56,759 views \u2022 ~549m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dimCiC_hdoA"
   },
   {
     "topic": "Colorado Avalanche at Vegas Golden Knights",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~622m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~702m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Y76HZP_h7TY"
   },
   {
@@ -272,15 +288,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~156m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ffJEDMvOTfY"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~703m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Raooew2Rm1E"
   }
 ]
