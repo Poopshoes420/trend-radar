@@ -1,14 +1,5 @@
 [
   {
-    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
-  },
-  {
     "topic": "That time when Nokia made a Champagne",
     "sources": [
       "reddit"
@@ -16,6 +7,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tqaqzv/that_time_when_nokia_made_a_champagne/"
+  },
+  {
+    "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
     "topic": "Twerk bee",
@@ -81,22 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tq1gly/youtube_is_crossing_a_red_line_with_ai_generated/"
   },
   {
-    "topic": "I need to thank science educators so much! They changed my life",
+    "topic": "God I hate it when this happens",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tq4qnf/i_need_to_thank_science_educators_so_much_they/"
-  },
-  {
-    "topic": "Russia signs military partnership with the Taliban",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tq26u6/russia_signs_military_partnership_with_the_taliban/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tq7w2i/god_i_hate_it_when_this_happens/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1554, Part 1 (Thread #1701)",
@@ -117,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "The Netherlands just blocked a US company from buying the app Dutch citizens use for everything",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tq4v2d/the_netherlands_just_blocked_a_us_company_from/"
+  },
+  {
+    "topic": "Russia signs military partnership with the Taliban",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tq26u6/russia_signs_military_partnership_with_the_taliban/"
+  },
+  {
     "topic": "Netanyahu orders army to take control of 70% of Gaza",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tq7n0w/netanyahu_orders_army_to_take_control_of_70_of/"
-  },
-  {
-    "topic": "Pentagon puts building blocks in place for Cuba invasion",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpt43q/pentagon_puts_building_blocks_in_place_for_cuba/"
   },
   {
     "topic": "GTA 6 Developers Announce Rockstar Games Union - RockstarINTEL",
@@ -171,68 +171,84 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tq9exq/steam_deck_sells_out_in_north_america_within_24/"
   },
   {
-    "topic": "CDPR will debut The Witcher 3's new DLC, \"Songs of the Past\" at Gamescom 2026.",
+    "topic": "Obsidian Addresses The Outer Worlds Free Upgrades And Apologizes But Says They Can\u2019t Provide The Original Offer",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tq8vpi/cdpr_will_debut_the_witcher_3s_new_dlc_songs_of/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tqb50p/obsidian_addresses_the_outer_worlds_free_upgrades/"
   },
   {
     "topic": "SON TUNG M-TP x TYGA | COME MY WAY | OFFICIAL MUSIC VIDEO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,294,980 views \u2022 ~369m old",
+    "why": "Trending on YouTube \u2022 7,963,784 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SlQR9iu09bQ"
+  },
+  {
+    "topic": "Call of Duty: Modern Warfare 4 | Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,596,047 views \u2022 ~387m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jLbst85USN8"
+  },
+  {
+    "topic": "In the Hand of Dante | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 165,365 views \u2022 ~440m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=cXA3Zgsky18"
   },
   {
     "topic": "Planet Zoo 2 | Announce Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 75,794 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 99,334 views \u2022 ~498m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6-yj80Guxg"
   },
   {
-    "topic": "Modern Warfare 4 South Korea Teaser Trailer! Signal Lost! (COD MW4 Reveal Trailer Teasers)",
+    "topic": "ATEEZ(\uc5d0\uc774\ud2f0\uc988) - GOLDEN HOUR : Part.5 Concept Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 73,935 views \u2022 ~492m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LOA65C93_t4"
+    "why": "Trending on YouTube \u2022 74,722 views \u2022 ~380m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=j6C_m0elFfI"
+  },
+  {
+    "topic": "Apex Legends: Power Trip Event Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,122 views \u2022 ~380m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vOIdqzOhUpo"
+  },
+  {
+    "topic": "Riley Green - Think As You Drunk (Lyric Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 22,439 views \u2022 ~380m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1gezo8Zvt_g"
   },
   {
     "topic": "Carolina Hurricanes at Montreal Canadiens",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~354m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~485m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yh_Y6ouBmGo"
-  },
-  {
-    "topic": "Gutfeld!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~603m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Y59Xp3sFLUo"
-  },
-  {
-    "topic": "Tampa Bay Rays at Baltimore Orioles",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~682m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nUwYosgP6B0"
   },
   {
     "topic": "Shooter",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~569m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N9pNbpHcITM"
   },
   {
@@ -240,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~319m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~450m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5rNy5OxrJZg"
   },
   {
@@ -248,15 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~653m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0axxa6dfSiA"
-  },
-  {
-    "topic": "The Last Word With Lawrence O'Donnell",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~384m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=T50bM78aJYI"
   }
 ]
