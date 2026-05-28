@@ -9,13 +9,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Boys and their comms",
+    "topic": "Who is this guy",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tozo6c/boys_and_their_comms/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tpqqkq/who_is_this_guy/"
+  },
+  {
+    "topic": "FROG LORD",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tplanz/frog_lord/"
   },
   {
     "topic": "[OC] oasis",
@@ -27,22 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp5wq3/oc_oasis/"
   },
   {
-    "topic": "Language Barrier [OC]",
+    "topic": "Boys and their comms",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp9x1z/language_barrier_oc/"
-  },
-  {
-    "topic": "Not even in Silent Hill did they have a siren like this",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tp52ng/not_even_in_silent_hill_did_they_have_a_siren/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tozo6c/boys_and_their_comms/"
   },
   {
     "topic": "What is the point of this popup? Yes I am, why do they ask?",
@@ -54,6 +54,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpij6a/what_is_the_point_of_this_popup_yes_i_am_why_do/"
   },
   {
+    "topic": "Am I the only one who hates these kinds of videos?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tps2z8/am_i_the_only_one_who_hates_these_kinds_of_videos/"
+  },
+  {
     "topic": "The simple doofus Earth vs. The Chad planet Hestia: Kurzgesagt's content has really dropped in quality.",
     "sources": [
       "reddit"
@@ -61,24 +70,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp2wri/the_simple_doofus_earth_vs_the_chad_planet_hestia/"
-  },
-  {
-    "topic": "Video description missing on the app version but not on the browser version",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tp7x3q/video_description_missing_on_the_app_version_but/"
-  },
-  {
-    "topic": "Video descriptions are gone on mobile YouTube app",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpburk/video_descriptions_are_gone_on_mobile_youtube_app/"
   },
   {
     "topic": "I hate this with a passion",
@@ -90,22 +81,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpirjn/i_hate_this_with_a_passion/"
   },
   {
-    "topic": "Trump says Oman will 'behave,' or will be attacked by US",
+    "topic": "Was scrolling through YouTube looking for a video and was greeted with this",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tph600/trump_says_oman_will_behave_or_will_be_attacked/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tpmdg0/was_scrolling_through_youtube_looking_for_a_video/"
   },
   {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1553, Part 1 (Thread #1700)",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1554, Part 1 (Thread #1701)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1touacz/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpshng/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #18)",
@@ -117,6 +108,24 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Trump says Oman will 'behave,' or will be attacked by US",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tph600/trump_says_oman_will_behave_or_will_be_attacked/"
+  },
+  {
+    "topic": "US carries out new strikes in Iran against military site, official says",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpmy9w/us_carries_out_new_strikes_in_iran_against/"
+  },
+  {
     "topic": "Canada to order military plane fleet from Sweden in shift from US suppliers",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpakth/canada_to_order_military_plane_fleet_from_sweden/"
-  },
-  {
-    "topic": "Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tpb4as/trump_board_of_peaces_official_gaza_fund_is_empty/"
   },
   {
     "topic": "Making Friends Monday! Share your game tags here!",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp9r0h/no_mans_sky_43rd_free_huge_update_they_are/"
   },
   {
-    "topic": "New 'The Witcher 3' Expansion Announced! - 'The Witcher 3: Wild Hunt - Songs of the Past'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp05od/new_the_witcher_3_expansion_announced_the_witcher/"
-  },
-  {
     "topic": "\u201cMafia Definitive Edition\u201d Fair Play race on classic is more difficult than Elden Ring bosses. I\u2019m struggling to stay in first.",
     "sources": [
       "reddit"
@@ -180,27 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tph5lj/mafia_definitive_edition_fair_play_race_on/"
   },
   {
-    "topic": "Disclosure Day | Final Trailer",
+    "topic": "New 'The Witcher 3' Expansion Announced! - 'The Witcher 3: Wild Hunt - Songs of the Past'",
     "sources": [
-      "youtube"
+      "reddit"
     ],
-    "why": "Trending on YouTube \u2022 2,061,003 views \u2022 ~553m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-  },
-  {
-    "topic": "Marvel Animation\u2019s X-Men \u201897 Season 2 | Official Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,507,033 views \u2022 ~493m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=mfUtseK27pc"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tp05od/new_the_witcher_3_expansion_announced_the_witcher/"
   },
   {
     "topic": "We Suck at This Basketball Game",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 231,475 views \u2022 ~230m old",
+    "why": "Trending on YouTube \u2022 493,403 views \u2022 ~500m old",
     "exampleUrl": "https://www.youtube.com/watch?v=shkhWL9eLek"
   },
   {
@@ -208,95 +192,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 334,288 views \u2022 ~444m old",
+    "why": "Trending on YouTube \u2022 522,607 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=BnWG_R-y6p8"
   },
   {
-    "topic": "Beating All Endings in the BEST FNAF Fangame of 2026",
+    "topic": "The Rake Sees You\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 272,818 views \u2022 ~673m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0YW75xy66dY"
-  },
-  {
-    "topic": "My Singing Monsters - Current Affairs (Official Crystal Islet Trailer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 188,807 views \u2022 ~553m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_Fh2xDTDLiw"
-  },
-  {
-    "topic": "No Man's Sky The Swarm Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 228,890 views \u2022 ~675m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=2NomizORoqU"
+    "why": "Trending on YouTube \u2022 152,099 views \u2022 ~403m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=v9MxlpYd7yQ"
   },
   {
     "topic": "Jungle - The Wave (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 104,029 views \u2022 ~433m old",
+    "why": "Trending on YouTube \u2022 189,348 views \u2022 ~703m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DW1vUkqNvqQ"
-  },
-  {
-    "topic": "Dragon Quest XII: Beyond Dreams - Official Reveal Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 105,399 views \u2022 ~636m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sCRie0bKvtE"
-  },
-  {
-    "topic": "A Perfect Circle - \"Starless\" (Official Visualizer)",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 90,970 views \u2022 ~554m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0is_VwWU3EE"
-  },
-  {
-    "topic": "Quadeca - Dark Magic",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 36,414 views \u2022 ~268m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=0e6a0RFP69I"
-  },
-  {
-    "topic": "TEENAGE SEX AND DEATH AT CAMP MIASMA | Official Trailer | In Theaters August 7",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 61,650 views \u2022 ~613m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=dimCiC_hdoA"
   },
   {
     "topic": "X-MEN 97 Season 2 Trailer BREAKDOWN - Marvel Easter Eggs You Missed!",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 12,752 views \u2022 ~136m old",
+    "why": "Trending on YouTube \u2022 47,397 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ClEgwDh-x-M"
   },
   {
-    "topic": "America's Newsroom",
+    "topic": "Quadeca - Dark Magic",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~205m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=LWj1tiDD4xw"
+    "why": "Trending on YouTube \u2022 53,242 views \u2022 ~538m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0e6a0RFP69I"
   },
   {
-    "topic": "Inside Politics With Dana Bash",
+    "topic": "The Will Cain Show",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~76m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wwED4XFEqlE"
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~101m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rI9n89nXrzA"
+  },
+  {
+    "topic": "Morning Joe",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~217m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=x4ygVg3eDjc"
   }
 ]
