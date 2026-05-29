@@ -72,6 +72,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tps7z7/according_to_youtube_1080p_premium_is_better_than/"
   },
   {
+    "topic": "What are they gonna do, resurrect him?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tqhpeq/what_are_they_gonna_do_resurrect_him/"
+  },
+  {
     "topic": "Youtube is crossing a red line with AI generated Ads. Help.",
     "sources": [
       "reddit"
@@ -79,15 +88,6 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tq1gly/youtube_is_crossing_a_red_line_with_ai_generated/"
-  },
-  {
-    "topic": "God I hate it when this happens",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tq7w2i/god_i_hate_it_when_this_happens/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1554, Part 1 (Thread #1701)",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 8,158,408 views \u2022 ~590m old",
+    "why": "Trending on YouTube \u2022 8,268,145 views \u2022 ~664m old",
     "exampleUrl": "https://www.youtube.com/watch?v=SlQR9iu09bQ"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,872,828 views \u2022 ~477m old",
+    "why": "Trending on YouTube \u2022 2,157,930 views \u2022 ~551m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jLbst85USN8"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 203,524 views \u2022 ~530m old",
+    "why": "Trending on YouTube \u2022 222,704 views \u2022 ~605m old",
     "exampleUrl": "https://www.youtube.com/watch?v=cXA3Zgsky18"
   },
   {
@@ -208,7 +208,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,738 views \u2022 ~588m old",
+    "why": "Trending on YouTube \u2022 124,866 views \u2022 ~662m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G6-yj80Guxg"
   },
   {
@@ -216,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 87,025 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 94,016 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j6C_m0elFfI"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,024 views \u2022 ~332m old",
+    "why": "Trending on YouTube \u2022 29,772 views \u2022 ~406m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1WDmjUF8Fvg"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 30,755 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 35,711 views \u2022 ~544m old",
     "exampleUrl": "https://www.youtube.com/watch?v=1gezo8Zvt_g"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 6,699 views \u2022 ~170m old",
+    "why": "Trending on YouTube \u2022 9,039 views \u2022 ~244m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ulU8RHc9biA"
   },
   {
@@ -248,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~575m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~650m old",
     "exampleUrl": "https://www.youtube.com/watch?v=yh_Y6ouBmGo"
-  },
-  {
-    "topic": "Shooter",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~659m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=N9pNbpHcITM"
   },
   {
     "topic": "Atlanta Dream at Minnesota Lynx",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~540m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~615m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5rNy5OxrJZg"
   }
 ]
