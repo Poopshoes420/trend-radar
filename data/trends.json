@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tqv7sh/never_back_down/"
   },
   {
-    "topic": "The odds of getting attacked by an angry ball of yarn may be small, but never zero",
+    "topic": "He's playing 4D chess; we just aren't smart enough to understand his strategy yet.",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tr2iv3/the_odds_of_getting_attacked_by_an_angry_ball_of/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1trio7y/hes_playing_4d_chess_we_just_arent_smart_enough/"
   },
   {
     "topic": "The censorship is crazy",
@@ -52,6 +52,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1traeoc/the_censorship_is_crazy/"
+  },
+  {
+    "topic": "Meme I found",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1trfh18/meme_i_found/"
   },
   {
     "topic": "remember when YouTube ads were just tiny yellow dots?",
@@ -81,15 +90,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tr5g4s/what_happened_to_youtube_has_anyone_else_just/"
   },
   {
-    "topic": "Meme I found",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1trfh18/meme_i_found/"
-  },
-  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1555, Part 1 (Thread #1702)",
     "sources": [
       "reddit"
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1trcdqa/putin_claims_russias_fullscale_invasion_nears_end/"
   },
   {
+    "topic": "Japan\u2019s 2025 census reflects steepest fall in population on record, data shows",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tre8i1/japans_2025_census_reflects_steepest_fall_in/"
+  },
+  {
     "topic": "Nato ready to defend \u2018every inch\u2019 of territory as Russian drone hits Romania",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tqwkwy/nato_ready_to_defend_every_inch_of_territory_as/"
-  },
-  {
-    "topic": "Russian official warns Europe to brace for more drone incidents after Romania episode",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tr5t6d/russian_official_warns_europe_to_brace_for_more/"
   },
   {
     "topic": "If you're enjoying 007 First Light, don't forget to play its prequel.",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 411,100 views \u2022 ~86m old",
+    "why": "Trending on YouTube \u2022 428,958 views \u2022 ~173m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hVsb_snMRH8"
   },
   {
@@ -192,47 +192,79 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 579,508 views \u2022 ~505m old",
+    "why": "Trending on YouTube \u2022 701,375 views \u2022 ~591m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0JlMjgqduVw"
-  },
-  {
-    "topic": "Living Inside of My Friend\u2019s Backpack Until He Notices..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 205,094 views \u2022 ~378m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=kXSwwQQsJGk"
   },
   {
     "topic": "Official Trailer | BLEACH: Thousand-Year Blood War \u2013 The Calamity in Theatres June 25 | VIZ",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 146,044 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 214,604 views \u2022 ~390m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DKKZ10FsSBM"
+  },
+  {
+    "topic": "Living Inside of My Friend\u2019s Backpack Until He Notices..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 251,609 views \u2022 ~465m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=kXSwwQQsJGk"
+  },
+  {
+    "topic": "FNAF But It's In a Public Bathroom..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 121,588 views \u2022 ~225m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=lwtUOs8s9hk"
   },
   {
     "topic": "Young Miko, Rauw Alejandro - Aquel diciembre (Official)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 141,848 views \u2022 ~438m old",
+    "why": "Trending on YouTube \u2022 175,901 views \u2022 ~525m old",
     "exampleUrl": "https://www.youtube.com/watch?v=s9mt9HFU9bY"
+  },
+  {
+    "topic": "I Can't Believe it.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 94,742 views \u2022 ~300m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OjQuv_2bNHk"
   },
   {
     "topic": "I Hosted A $50,000 Geoguessr Tournament",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 99,852 views \u2022 ~446m old",
+    "why": "Trending on YouTube \u2022 124,050 views \u2022 ~533m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qENUMQ3lKpM"
+  },
+  {
+    "topic": "Yungeen Ace - Who Me (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 46,751 views \u2022 ~285m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=t-1Z5hoWMp0"
+  },
+  {
+    "topic": "VV: ULTIMATUM - OFFICIAL TRAILER 2/2",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 14,374 views \u2022 ~165m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=zpvGp5kOg18"
   },
   {
     "topic": "HOUSE OF THE DRAGON SEASON 3 TRAILER Breakdown & WTF Easter Eggs",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,124 views \u2022 ~288m old",
+    "why": "Trending on YouTube \u2022 31,588 views \u2022 ~375m old",
     "exampleUrl": "https://www.youtube.com/watch?v=4btzgL17vs4"
   },
   {
@@ -240,7 +272,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 25,454 views \u2022 ~318m old",
+    "why": "Trending on YouTube \u2022 34,036 views \u2022 ~405m old",
     "exampleUrl": "https://www.youtube.com/watch?v=3SlzGXYaj6Q"
   }
 ]
