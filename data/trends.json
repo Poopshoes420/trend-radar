@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts3u98/mr_beasts_videos_are_expensive_brain_rot_slop/"
   },
   {
-    "topic": "Final Boss is here!!!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts2b56/final_boss_is_here/"
-  },
-  {
     "topic": "Youtube is more ads and shorts than fkn videos nowadays.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tsb20q/youtube_is_more_ads_and_shorts_than_fkn_videos/"
+  },
+  {
+    "topic": "Final Boss is here!!!",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts2b56/final_boss_is_here/"
   },
   {
     "topic": "YouTube got cooked \ud83d\ude2d\ud83d\ude4f",
@@ -184,7 +184,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,290,765 views \u2022 ~149m old",
+    "why": "Trending on YouTube \u2022 1,329,924 views \u2022 ~211m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mBZAMxDx154"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,646,835 views \u2022 ~544m old",
+    "why": "Trending on YouTube \u2022 1,757,271 views \u2022 ~607m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_hyFGrcVv5U"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 941,681 views \u2022 ~462m old",
+    "why": "Trending on YouTube \u2022 972,659 views \u2022 ~524m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hOIY3OhvD94"
   },
   {
@@ -208,15 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 789,778 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 859,382 views \u2022 ~527m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AJodpEDZF6g"
+  },
+  {
+    "topic": "SIDEMEN AMONG US: HARRY POTTER CHAOS MODE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 429,831 views \u2022 ~282m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=r4auxPbAmP4"
   },
   {
     "topic": "One of the Games of All Time",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 196,599 views \u2022 ~206m old",
+    "why": "Trending on YouTube \u2022 245,868 views \u2022 ~269m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qfBHKrQE3vI"
   },
   {
@@ -224,23 +232,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 226,401 views \u2022 ~459m old",
+    "why": "Trending on YouTube \u2022 257,064 views \u2022 ~522m old",
     "exampleUrl": "https://www.youtube.com/watch?v=icdHpEaqKMQ"
-  },
-  {
-    "topic": "Fortnite Shattered | Chapter 7 Season 2 Live End Event Teaser",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 71,804 views \u2022 ~196m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GQQ7gwSJH5k"
   },
   {
     "topic": "Save The Tigers 3 | Hotstar Specials | Official Trailer | June 19 | JioHotstar",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 229,225 views \u2022 ~651m old",
+    "why": "Trending on YouTube \u2022 235,245 views \u2022 ~714m old",
     "exampleUrl": "https://www.youtube.com/watch?v=wob0NDMQqGY"
   },
   {
@@ -248,15 +248,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 40,446 views \u2022 ~267m old",
+    "why": "Trending on YouTube \u2022 49,020 views \u2022 ~330m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a-3Wg93EQ5Q"
+  },
+  {
+    "topic": "FULLY NEW MAP IN SEASON 3?! \ud83d\udd25(Official Trailer - Fortnite Season 2 Live End Event)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,477 views \u2022 ~162m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=d07G953Mt24"
   },
   {
     "topic": "Overland Gladiator Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~15m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oGLEWwKEIBo"
   }
 ]
