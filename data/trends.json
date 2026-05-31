@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts5l0v/ngl_ts_is_getting_repetitive/"
   },
   {
-    "topic": "Mr beasts videos are expensive brain rot slop content.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts3u98/mr_beasts_videos_are_expensive_brain_rot_slop/"
-  },
-  {
     "topic": "Youtube is more ads and shorts than fkn videos nowadays.",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tsb20q/youtube_is_more_ads_and_shorts_than_fkn_videos/"
+  },
+  {
+    "topic": "Mr beasts videos are expensive brain rot slop content.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts3u98/mr_beasts_videos_are_expensive_brain_rot_slop/"
   },
   {
     "topic": "Final Boss is here!!!",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ts2b56/final_boss_is_here/"
   },
   {
-    "topic": "YouTube got cooked \ud83d\ude2d\ud83d\ude4f",
+    "topic": "YouTube Premium is getting hard to justify",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1trunoj/youtube_got_cooked/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tschl0/youtube_premium_is_getting_hard_to_justify/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1556, Part 1 (Thread #1703)",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ts05od/remedy_isnt_worried_about_launching_control/"
   },
   {
+    "topic": "Thankful for this game pulling me out of my gaming rut",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tsexz9/thankful_for_this_game_pulling_me_out_of_my/"
+  },
+  {
     "topic": "Remedy Entertainment CEO: Alan Wake and Control should have sold more",
     "sources": [
       "reddit"
@@ -171,36 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1trs43f/remedy_entertainment_ceo_alan_wake_and_control/"
   },
   {
-    "topic": "Finally beat the OG Resident Evil for the first time.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1trxvcv/finally_beat_the_og_resident_evil_for_the_first/"
-  },
-  {
     "topic": "i hosted ADMIN ABUSE..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,329,924 views \u2022 ~211m old",
+    "why": "Trending on YouTube \u2022 1,403,432 views \u2022 ~342m old",
     "exampleUrl": "https://www.youtube.com/watch?v=mBZAMxDx154"
-  },
-  {
-    "topic": "I Went to WAR on a Hardcore Minecraft SMP",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,757,271 views \u2022 ~607m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=_hyFGrcVv5U"
   },
   {
     "topic": "CORTIS (\ucf54\ub974\ud2f0\uc2a4) 'Blue Lips' Official MV",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 972,659 views \u2022 ~524m old",
+    "why": "Trending on YouTube \u2022 1,054,078 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hOIY3OhvD94"
   },
   {
@@ -208,47 +200,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 859,382 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 978,393 views \u2022 ~658m old",
     "exampleUrl": "https://www.youtube.com/watch?v=AJodpEDZF6g"
-  },
-  {
-    "topic": "SIDEMEN AMONG US: HARRY POTTER CHAOS MODE",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 429,831 views \u2022 ~282m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=r4auxPbAmP4"
   },
   {
     "topic": "One of the Games of All Time",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 245,868 views \u2022 ~269m old",
+    "why": "Trending on YouTube \u2022 359,911 views \u2022 ~400m old",
     "exampleUrl": "https://www.youtube.com/watch?v=qfBHKrQE3vI"
+  },
+  {
+    "topic": "DON'T LET HIM OUT..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 166,371 views \u2022 ~251m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dGhP6JMDJT8"
   },
   {
     "topic": "I Entered a Tournament with All 6 Regi Pokemon",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 257,064 views \u2022 ~522m old",
+    "why": "Trending on YouTube \u2022 316,425 views \u2022 ~653m old",
     "exampleUrl": "https://www.youtube.com/watch?v=icdHpEaqKMQ"
   },
   {
-    "topic": "Save The Tigers 3 | Hotstar Specials | Official Trailer | June 19 | JioHotstar",
+    "topic": "LAJA - STRIKER (Video Oficial) Shot.By @checkthefootage #spanishdrill",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 235,245 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=wob0NDMQqGY"
+    "why": "Trending on YouTube \u2022 93,009 views \u2022 ~413m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=hxblYE6oHqA"
+  },
+  {
+    "topic": "AVENGERS DOOMSDAY TEASER 2026 | Look Harder!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 49,905 views \u2022 ~239m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-KO5r4d_J3g"
   },
   {
     "topic": "Hardcore Rework Trailer | Tower Defense Simulator",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,020 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 63,765 views \u2022 ~461m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a-3Wg93EQ5Q"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 7,477 views \u2022 ~162m old",
+    "why": "Trending on YouTube \u2022 14,738 views \u2022 ~293m old",
     "exampleUrl": "https://www.youtube.com/watch?v=d07G953Mt24"
   },
   {
@@ -264,7 +264,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 0 views \u2022 ~78m old",
+    "why": "Trending on YouTube \u2022 0 views \u2022 ~208m old",
     "exampleUrl": "https://www.youtube.com/watch?v=oGLEWwKEIBo"
   }
 ]
