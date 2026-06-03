@@ -18,13 +18,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "Telling time in Italy \ud83c\uddee\ud83c\uddf9",
+    "topic": "first time on earth or something?",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tvqgmd/telling_time_in_italy/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tvvyjm/first_time_on_earth_or_something/"
   },
   {
     "topic": "Cube [OC]",
@@ -36,13 +36,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tvtizd/cube_oc/"
   },
   {
-    "topic": "He takes his job seriously",
+    "topic": "Real AI",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tvr3f8/he_takes_his_job_seriously/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tvsvxd/real_ai/"
+  },
+  {
+    "topic": "YouTube could finally be getting a competitor\u2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvy0uw/youtube_could_finally_be_getting_a_competitor/"
   },
   {
     "topic": "How does 480p60 FPS even exist, I'm seeing this option for the first time, or 480p will not be 60 FPS.",
@@ -54,40 +63,40 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvfqie/how_does_480p60_fps_even_exist_im_seeing_this/"
   },
   {
-    "topic": "Made for Kids? Sexualized animations farting is made for kids???",
+    "topic": "How does this channel have so many subscribers?",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvm1o7/made_for_kids_sexualized_animations_farting_is/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvwu7m/how_does_this_channel_have_so_many_subscribers/"
   },
   {
-    "topic": "CEO of Patreon posted a video regarding Reckless Ben's Patreon account being requested to get taken down by Bricks and Minifigs: Take Down Notification: Reckless Ben\u2019s Patreon Account",
+    "topic": "Lolcow commentary",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvajq9/ceo_of_patreon_posted_a_video_regarding_reckless/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvwpnp/lolcow_commentary/"
   },
   {
-    "topic": "How many people hate that so many older youtubers have started to resort to brainrot or gen alpha language?",
+    "topic": "Bruh, I don't want to play it...",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tveced/how_many_people_hate_that_so_many_older_youtubers/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvvt7h/bruh_i_dont_want_to_play_it/"
   },
   {
-    "topic": "I have you tube premium, does that work",
+    "topic": "NATO Sees No Issue With Ukraine Striking St Petersburg During Putin\u2019s Economic Forum, Rutte Says",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tvmq9t/i_have_you_tube_premium_does_that_work/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tvtvlm/nato_sees_no_issue_with_ukraine_striking_st/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1560, Part 1 (Thread #1707)",
@@ -126,15 +135,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tvl972/russias_gasoline_crisis_spreads_to_st_petersburg/"
   },
   {
-    "topic": "NATO Sees No Issue With Ukraine Striking St Petersburg During Putin\u2019s Economic Forum, Rutte Says",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tvtvlm/nato_sees_no_issue_with_ukraine_striking_st/"
-  },
-  {
     "topic": "[MEGATHREAD] PlayStation State of Play",
     "sources": [
       "reddit"
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tvrkwz/maybe_gta_6_cant_make_that_same_splash_grand/"
   },
   {
+    "topic": "My partner and I saw you across the Everywhen and we really dig your vibe.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tvxohm/my_partner_and_i_saw_you_across_the_everywhen_and/"
+  },
+  {
     "topic": "September 2026 Is The Busiest Month In Years As Games Try To Escape GTA 6",
     "sources": [
       "reddit"
@@ -171,44 +180,67 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tvmxxg/september_2026_is_the_busiest_month_in_years_as/"
   },
   {
-    "topic": "According To this Interview in Polygon, Beyond Good & Evil 2 is Somehow STILL in Development",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tvqoq3/according_to_this_interview_in_polygon_beyond/"
-  },
-  {
     "topic": "Unstable SMP: Civil War FINALE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 763,586 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 1,291,612 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=NT2Is90lFoI"
   },
   {
-    "topic": "\ud83d\udd34LIVE | ESCAPE FROM BUNGUS | HUTCHMF | TESTICULAR TORSION TUESDAY | #BUNGULATE",
+    "topic": "BABYMONSTER - 'SUGAR HONEY ICE TEA' M/V TEASER",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 530,504 views \u2022 ~454m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=vQWAXDOonXs"
+    "why": "Trending on YouTube \u2022 860,294 views \u2022 ~335m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pWOVb01U-c4"
   },
   {
     "topic": "By Any Means | Official Trailer (2026 Movie) \u2013 Yahya Abdul-Mateen II, Mark Wahlberg",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 261,193 views \u2022 ~261m old",
+    "why": "Trending on YouTube \u2022 708,172 views \u2022 ~454m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ej8pjisr0Pc"
+  },
+  {
+    "topic": "\ud83d\udd34LIVE | ESCAPE FROM BUNGUS | HUTCHMF | TESTICULAR TORSION TUESDAY | #BUNGULATE",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 542,789 views \u2022 ~647m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=vQWAXDOonXs"
+  },
+  {
+    "topic": "Supergirl | Tickets on Sale Now",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 220,303 views \u2022 ~268m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=tzlY8XD1CGg"
+  },
+  {
+    "topic": "Tems - What You Need (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 61,239 views \u2022 ~274m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=A__GXZsG3hk"
   },
   {
     "topic": "ROLE MODEL - High Hopes 3000 (Official Music Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,926 views \u2022 ~81m old",
+    "why": "Trending on YouTube \u2022 49,439 views \u2022 ~275m old",
     "exampleUrl": "https://www.youtube.com/watch?v=D_KTG0BzRiI"
+  },
+  {
+    "topic": "ICE CREAM MAN | Official Red Band Trailer | STUDIOCANAL",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 39,496 views \u2022 ~456m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=2JeUjIqK_4c"
   }
 ]
