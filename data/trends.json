@@ -18,6 +18,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Trunk Sizes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tx2rf0/trunk_sizes/"
+  },
+  {
+    "topic": "Ai slop in Walmart break room",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tx1v21/ai_slop_in_walmart_break_room/"
+  },
+  {
     "topic": "Bear goes in for another scratch... but completely misses the tree",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1twif77/bear_goes_in_for_another_scratch_but_completely/"
-  },
-  {
-    "topic": "An audience member came up on stage to tell jokes",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1twq751/an_audience_member_came_up_on_stage_to_tell_jokes/"
-  },
-  {
-    "topic": "Bricks and Minifigs CEO nearly reveals his inner desires",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1twynii/bricks_and_minifigs_ceo_nearly_reveals_his_inner/"
   },
   {
     "topic": "MrBeast earns $24 million a year - and that\u2019s just from YouTube monetization.",
@@ -63,15 +63,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1twp37a/just_a_remindet_that_a_70_year_old_polish/"
   },
   {
-    "topic": "This is sad I know it from 9 years ago. But heart breaking to see in my recommended feed",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1twavyo/this_is_sad_i_know_it_from_9_years_ago_but_heart/"
-  },
-  {
     "topic": "Kids on YouTube shorts are something else.",
     "sources": [
       "reddit"
@@ -79,6 +70,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1twmpnw/kids_on_youtube_shorts_are_something_else/"
+  },
+  {
+    "topic": "This is sad I know it from 9 years ago. But heart breaking to see in my recommended feed",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1twavyo/this_is_sad_i_know_it_from_9_years_ago_but_heart/"
   },
   {
     "topic": "How the hell is the vegan teacher back?",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1twzdsz/zelenskyy_says_intelligence_shows_russia_plans_to/"
   },
   {
-    "topic": "PM says Australia has 'ideological disagreement' with Trump administration after US reveals anti-slavery tariff",
+    "topic": "British Prime Minister Keir Starmer calls for Elon Musk to stop interfering in UK politics",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1twjiz1/pm_says_australia_has_ideological_disagreement/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1twxybv/british_prime_minister_keir_starmer_calls_for/"
   },
   {
     "topic": "[MEGATHREAD] PlayStation State of Play",
@@ -180,19 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1twy371/destiny_2_ending_new_content_is_unthinkable/"
   },
   {
+    "topic": "IEM Cologne Major 2026 - Day 3 - Stream A",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 854,243 views \u2022 ~211m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=e-0H7KmxYcs"
+  },
+  {
     "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'Hooligan' Official Performance Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,280,913 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 1,455,849 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zv6JKobJyFY"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 450,472 views \u2022 ~195m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ZcjJX4OVFOA"
   },
   {
     "topic": "FALL 2: DEADPOINT (2026) Official Trailer - Harriet Slater, Arsema Thomas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 325,457 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 385,248 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rsztt5qDj_A"
   },
   {
@@ -200,7 +216,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 304,261 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 354,860 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=-TWYj6sw2NQ"
   },
   {
@@ -208,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,964 views \u2022 ~359m old",
+    "why": "Trending on YouTube \u2022 288,669 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YR1m6j3H3UM"
   },
   {
@@ -216,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 188,761 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 211,388 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=45q18ujEYyk"
   },
   {
@@ -224,15 +240,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,076 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 204,450 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a41_umWixpI"
+  },
+  {
+    "topic": "Ozuna - Mi Yo De Antes (Video Oficial)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 175,128 views \u2022 ~453m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pZVsb-abK8I"
   },
   {
     "topic": "ACE COMBAT 8: WINGS OF THEVE | Walkthrough Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 128,977 views \u2022 ~547m old",
+    "why": "Trending on YouTube \u2022 140,308 views \u2022 ~635m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DcphpBvdt28"
   }
 ]
