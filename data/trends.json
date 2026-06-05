@@ -27,6 +27,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tx2rf0/trunk_sizes/"
   },
   {
+    "topic": "Where can I buy this ?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tx35qk/where_can_i_buy_this/"
+  },
+  {
     "topic": "Ai slop in Walmart break room",
     "sources": [
       "reddit"
@@ -34,15 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tx1v21/ai_slop_in_walmart_break_room/"
-  },
-  {
-    "topic": "Bear goes in for another scratch... but completely misses the tree",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1twif77/bear_goes_in_for_another_scratch_but_completely/"
   },
   {
     "topic": "MrBeast earns $24 million a year - and that\u2019s just from YouTube monetization.",
@@ -180,19 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1twy371/destiny_2_ending_new_content_is_unthinkable/"
   },
   {
-    "topic": "IEM Cologne Major 2026 - Day 3 - Stream A",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 854,243 views \u2022 ~211m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=e-0H7KmxYcs"
-  },
-  {
     "topic": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'Hooligan' Official Performance Video",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,455,849 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 1,687,502 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Zv6JKobJyFY"
   },
   {
@@ -200,39 +192,63 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 450,472 views \u2022 ~195m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ZcjJX4OVFOA"
+    "why": "Trending on YouTube \u2022 397,099 views \u2022 ~209m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=wyZHyKce5XY"
   },
   {
     "topic": "FALL 2: DEADPOINT (2026) Official Trailer - Harriet Slater, Arsema Thomas",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 385,248 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 452,791 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Rsztt5qDj_A"
-  },
-  {
-    "topic": "Destiny 2: Monument of Triumph Update | Launch Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 354,860 views \u2022 ~515m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=-TWYj6sw2NQ"
   },
   {
     "topic": "HUMAN SHAPED",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 288,669 views \u2022 ~447m old",
+    "why": "Trending on YouTube \u2022 387,491 views \u2022 ~583m old",
     "exampleUrl": "https://www.youtube.com/watch?v=YR1m6j3H3UM"
+  },
+  {
+    "topic": "Destiny 2: Monument of Triumph Update | Launch Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 405,017 views \u2022 ~651m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=-TWYj6sw2NQ"
+  },
+  {
+    "topic": "Ozuna - Mi Yo De Antes (Video Oficial)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 258,265 views \u2022 ~588m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=pZVsb-abK8I"
+  },
+  {
+    "topic": "Every single Chatter gets a country. I must destroy them all.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 146,774 views \u2022 ~374m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=dZkqh0WtRyk"
+  },
+  {
+    "topic": "I Evolved From FAT to MUSCULAR in Minecraft!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 126,528 views \u2022 ~351m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ApkVDhj0KjA"
   },
   {
     "topic": "Thresh Gameplay Reveal Trailer | 2XKO",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 211,388 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 234,285 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=45q18ujEYyk"
   },
   {
@@ -240,23 +256,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 204,450 views \u2022 ~515m old",
+    "why": "Trending on YouTube \u2022 229,833 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=a41_umWixpI"
   },
   {
-    "topic": "Ozuna - Mi Yo De Antes (Video Oficial)",
+    "topic": "NEW Abilities, EXOTIC Reworks & More (Final Balance Patch) | Monument of Triumph",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 175,128 views \u2022 ~453m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=pZVsb-abK8I"
+    "why": "Trending on YouTube \u2022 77,984 views \u2022 ~322m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ioPS3Ztdy6o"
   },
   {
-    "topic": "ACE COMBAT 8: WINGS OF THEVE | Walkthrough Trailer",
+    "topic": "Battlefield 6 Season 3 Blastpoint | Official Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,308 views \u2022 ~635m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=DcphpBvdt28"
+    "why": "Trending on YouTube \u2022 136,804 views \u2022 ~651m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=JEX33MF-yUo"
+  },
+  {
+    "topic": "G Herbo   Thug (Official Video)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 28,617 views \u2022 ~201m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yYiOKWX9Q1w"
+  },
+  {
+    "topic": "FattMack & Polo G - Lay It Down [Official Music Video]",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 23,978 views \u2022 ~231m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=oZJIUYWFrNg"
   }
 ]
