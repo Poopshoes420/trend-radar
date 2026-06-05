@@ -36,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1txjbx6/familys_losing_it_through_the_window/"
   },
   {
-    "topic": "No cap! - A guy i work with sends me messages in all caps all the time. So I liberated his key and told him I'd be keeping it near my heart until learned his lesson. Shh, dont tell him where it is..",
+    "topic": "Man operating robot gets kicked in the groin, both go down",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1txo4p7/no_cap_a_guy_i_work_with_sends_me_messages_in_all/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1txt2ce/man_operating_robot_gets_kicked_in_the_groin_both/"
   },
   {
     "topic": "Who was your favorite YouTuber that turned out to be a bad person?",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txnkwn/taiwanese_university_president_tells_graduates_to/"
   },
   {
+    "topic": "Zelensky Says Putin Does Not Want Peace After Rejecting Meeting Proposal",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txvbvk/zelensky_says_putin_does_not_want_peace_after/"
+  },
+  {
     "topic": "The Dutch defense ministry wants to stop using Palantir",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txfcb4/the_dutch_defense_ministry_wants_to_stop_using/"
-  },
-  {
-    "topic": "Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txmcj8/niger_nearly_50_people_die_of_thirst_after_lorry/"
   },
   {
     "topic": "[MEGATHREAD] Summer Game Fest 2026",
@@ -171,20 +171,36 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1txni9l/paramount_skydance_launches_new_inhouse_video/"
   },
   {
-    "topic": "At least one version of the original Tomb Raider game has appeared on every PlayStation console",
+    "topic": "'Resident Evil Veronica' | Official Reveal Trailer | Summer Game Fest 2026",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1txub38/at_least_one_version_of_the_original_tomb_raider/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1txxm5t/resident_evil_veronica_official_reveal_trailer/"
+  },
+  {
+    "topic": "Can We Survive?",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 167,486 views \u2022 ~289m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=mEhVbx8C4wM"
+  },
+  {
+    "topic": "ACTUAL ALIENS | Subnautica 2 - Part 9",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 133,146 views \u2022 ~259m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1haG-AGN0Ng"
   },
   {
     "topic": "How Deep Can We Go\u2026 [Pratfall]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 76,884 views \u2022 ~330m old",
+    "why": "Trending on YouTube \u2022 102,795 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tAfLn1kR2F4"
   },
   {
@@ -192,7 +208,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 70,480 views \u2022 ~304m old",
+    "why": "Trending on YouTube \u2022 95,426 views \u2022 ~396m old",
     "exampleUrl": "https://www.youtube.com/watch?v=nUmMarliL3g"
+  },
+  {
+    "topic": "College Football 27 RTG: Freshman Phenom FS Takes Over College Football!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 40,740 views \u2022 ~349m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BwLHuiiM3So"
+  },
+  {
+    "topic": "French Montana, Max B & Remy Ma - Ever Since U Left Me (Big Bronx Remix) | From The Block \ud83c\udf99",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 38,367 views \u2022 ~347m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PH9_dmcGM3E"
   }
 ]
