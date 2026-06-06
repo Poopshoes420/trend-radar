@@ -45,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ty2kpu/wifi_network_ssid/"
   },
   {
-    "topic": "Who was your favorite YouTuber that turned out to be a bad person?",
+    "topic": "What's the reason behind this",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txeon3/who_was_your_favorite_youtuber_that_turned_out_to/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tyc132/whats_the_reason_behind_this/"
   },
   {
     "topic": "Youtube is shutting down a very helpful guitar teacher's account after demonetizing his content.",
@@ -61,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tybhvs/youtube_is_shutting_down_a_very_helpful_guitar/"
+  },
+  {
+    "topic": "Who was your favorite YouTuber that turned out to be a bad person?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txeon3/who_was_your_favorite_youtuber_that_turned_out_to/"
   },
   {
     "topic": "What ??? HUH???",
@@ -81,13 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ty7c7s/i_fucking_hate_these_fear_mongering_videos_of_how/"
   },
   {
-    "topic": "What's the reason behind this",
+    "topic": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy\u2019s offer for direct talks",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tyc132/whats_the_reason_behind_this/"
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tye5mb/ukraine_targets_st_petersburg_again_after_putin/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1563, Part 1 (Thread #1710)",
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txvbvk/zelensky_says_putin_does_not_want_peace_after/"
   },
   {
-    "topic": "Iran has launched multiple drones towards the Strait of Hormuz",
+    "topic": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/"
-  },
-  {
-    "topic": "Taiwanese university president tells graduates to \"end themselves\" if they struggle in their careers. Takes unpaid leave",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txnkwn/taiwanese_university_president_tells_graduates_to/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tye9ci/outrage_in_argentina_after_two_teen_girls/"
   },
   {
     "topic": "[MEGATHREAD] Summer Game Fest 2026",
@@ -153,6 +153,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1ty91k8/self_promotion_saturday_small_streamer_just/"
   },
   {
+    "topic": "007 First Light Has Sold 2.7 Million Copies In Its First Week, Year One Content Roadmap Announced",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tydy20/007_first_light_has_sold_27_million_copies_in_its/"
+  },
+  {
     "topic": "FF7 Revelation",
     "sources": [
       "reddit"
@@ -171,20 +180,11 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1txzxfc/stellar_blade_blood_rain_official_reveal_trailer/"
   },
   {
-    "topic": "Guild Wars 3 | Announcement Trailer",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1txymlp/guild_wars_3_announcement_trailer/"
-  },
-  {
     "topic": "SUMMER GAME FEST 2026: Official 4K60FPS Livestream, (Resident Evil Veronica, FINAL FANTASY VII)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,973,591 views \u2022 ~642m old",
+    "why": "Trending on YouTube \u2022 10,018,138 views \u2022 ~711m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QdNmVWXuYec"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 960,472 views \u2022 ~233m old",
+    "why": "Trending on YouTube \u2022 970,365 views \u2022 ~303m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ihy3pmf-E2w"
   },
   {
@@ -200,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 443,245 views \u2022 ~117m old",
+    "why": "Trending on YouTube \u2022 446,897 views \u2022 ~186m old",
     "exampleUrl": "https://www.youtube.com/watch?v=67YUuefSE_k"
   },
   {
@@ -208,47 +208,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 829,736 views \u2022 ~378m old",
+    "why": "Trending on YouTube \u2022 836,693 views \u2022 ~447m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jp0MlhMJvhM"
-  },
-  {
-    "topic": "Resident Evil Veronica - Announcement Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 677,600 views \u2022 ~697m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=uxUMXniTfjM"
-  },
-  {
-    "topic": "Monster Hunter Wilds: Ascendance - Official Reveal Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 475,307 views \u2022 ~712m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=URrMx-2l_ek"
   },
   {
     "topic": "How The Impossible Mario Maker Levels Were Finally Beaten",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 351,856 views \u2022 ~601m old",
+    "why": "Trending on YouTube \u2022 378,007 views \u2022 ~671m old",
     "exampleUrl": "https://www.youtube.com/watch?v=arWClcUVxm8"
-  },
-  {
-    "topic": "I watched the 2026 Summer Game Fest..",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 351,006 views \u2022 ~654m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=GH3egckNLLU"
-  },
-  {
-    "topic": "Best Summer Game Fest 2026 Trailers",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 299,200 views \u2022 ~688m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=F26g5SSslCU"
   }
 ]
