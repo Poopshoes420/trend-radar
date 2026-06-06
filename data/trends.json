@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1ty6p5l/sitting_on_a_flight_so_spain_couple_in_front_of/"
   },
   {
-    "topic": "Who approved this commercial? Give them a raise.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ty8f14/who_approved_this_commercial_give_them_a_raise/"
-  },
-  {
     "topic": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
     "sources": [
       "reddit"
@@ -36,13 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1txrza8/definitely_one_of_the_greatest_videos_of_all_times/"
   },
   {
-    "topic": "Think they\u2019ll let me through?",
+    "topic": "Wifi network SSID",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ty3mie/think_theyll_let_me_through/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ty2kpu/wifi_network_ssid/"
+  },
+  {
+    "topic": "He used his belly as a shutter.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1ty98la/he_used_his_belly_as_a_shutter/"
   },
   {
     "topic": "Who was your favorite YouTuber that turned out to be a bad person?",
@@ -54,15 +54,6 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txeon3/who_was_your_favorite_youtuber_that_turned_out_to/"
   },
   {
-    "topic": "What ??? HUH???",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txspt4/what_huh/"
-  },
-  {
     "topic": "I fucking hate these fear mongering videos of how Gen Alpha is completely doomed or something",
     "sources": [
       "reddit"
@@ -70,6 +61,15 @@
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1ty7c7s/i_fucking_hate_these_fear_mongering_videos_of_how/"
+  },
+  {
+    "topic": "What ??? HUH???",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txspt4/what_huh/"
   },
   {
     "topic": "I've got one and am content with my choices",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txjykp/ive_got_one_and_am_content_with_my_choices/"
   },
   {
-    "topic": "How is it that my fav creators always post at the same time?",
+    "topic": "Youtube is shutting down a very helpful guitar teacher's account after demonetizing his content.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1txynhz/how_is_it_that_my_fav_creators_always_post_at_the/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tybhvs/youtube_is_shutting_down_a_very_helpful_guitar/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1563, Part 1 (Thread #1710)",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tyaqi6/pentagon_raised_threat_of_israeli_spying_on_us_to/"
+  },
+  {
     "topic": "Zelensky Says Putin Does Not Want Peace After Rejecting Meeting Proposal",
     "sources": [
       "reddit"
@@ -117,22 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txvbvk/zelensky_says_putin_does_not_want_peace_after/"
   },
   {
-    "topic": "Taiwanese university president tells graduates to \"end themselves\" if they struggle in their careers. Takes unpaid leave",
+    "topic": "Ukraine Launches Drone Assault Against Russian Ports, Refineries, and Navy Arsenals",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1txnkwn/taiwanese_university_president_tells_graduates_to/"
-  },
-  {
-    "topic": "Iran has launched multiple drones towards the Strait of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tybizs/ukraine_launches_drone_assault_against_russian/"
   },
   {
     "topic": "[MEGATHREAD] Summer Game Fest 2026",
@@ -184,31 +184,39 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 9,784,806 views \u2022 ~427m old",
+    "why": "Trending on YouTube \u2022 9,904,447 views \u2022 ~548m old",
     "exampleUrl": "https://www.youtube.com/watch?v=QdNmVWXuYec"
+  },
+  {
+    "topic": "PLAYING ELDEN RING UNTIL I BEAT IT",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 944,839 views \u2022 ~140m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=ihy3pmf-E2w"
   },
   {
     "topic": "THIS IS IT?! SUMMER GAME FEST 2026 LIVE \ud83d\udd34Full Stream\ud83d\udd34 (6-5)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 792,803 views \u2022 ~163m old",
+    "why": "Trending on YouTube \u2022 817,393 views \u2022 ~285m old",
     "exampleUrl": "https://www.youtube.com/watch?v=jp0MlhMJvhM"
   },
   {
-    "topic": "Resident Evil Veronica - Official Reveal Trailer",
+    "topic": "Resident Evil Veronica - Announcement Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 997,458 views \u2022 ~611m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=qSjq0JSbz14"
+    "why": "Trending on YouTube \u2022 627,889 views \u2022 ~604m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=uxUMXniTfjM"
   },
   {
     "topic": "Teenage Mutant Ninja Turtles - The Last Ronin | IGN Summer of Gaming",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 631,211 views \u2022 ~596m old",
+    "why": "Trending on YouTube \u2022 703,879 views \u2022 ~718m old",
     "exampleUrl": "https://www.youtube.com/watch?v=CoB_bwgpPNQ"
   },
   {
@@ -216,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 376,191 views \u2022 ~497m old",
+    "why": "Trending on YouTube \u2022 439,359 views \u2022 ~619m old",
     "exampleUrl": "https://www.youtube.com/watch?v=URrMx-2l_ek"
   },
   {
@@ -224,63 +232,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 369,541 views \u2022 ~585m old",
+    "why": "Trending on YouTube \u2022 445,720 views \u2022 ~707m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ITPzxITngqA"
   },
   {
-    "topic": "FINAL FANTASY VII REVELATION - Reveal Trailer",
+    "topic": "How The Impossible Mario Maker Levels Were Finally Beaten",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 309,852 views \u2022 ~508m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=PH3ox5krci8"
+    "why": "Trending on YouTube \u2022 309,846 views \u2022 ~508m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=arWClcUVxm8"
   },
   {
     "topic": "Star Wars Zero Company | Official Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 316,301 views \u2022 ~567m old",
+    "why": "Trending on YouTube \u2022 392,868 views \u2022 ~688m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WxLUZ1omFA8"
   },
   {
-    "topic": "FGTeeV Among Us, But Everyone Has the WRONG Name",
+    "topic": "FINAL FANTASY VII REVELATION - Reveal Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 260,655 views \u2022 ~544m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=hIssjBhUk3o"
+    "why": "Trending on YouTube \u2022 355,388 views \u2022 ~630m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=PH3ox5krci8"
   },
   {
-    "topic": "The GREATEST Fortnite Live Event in YEARS!",
+    "topic": "I watched the 2026 Summer Game Fest..",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 154,652 views \u2022 ~391m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=MN4N7k68hyA"
+    "why": "Trending on YouTube \u2022 311,817 views \u2022 ~560m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=GH3egckNLLU"
+  },
+  {
+    "topic": "Best Summer Game Fest 2026 Trailers",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 278,324 views \u2022 ~595m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=F26g5SSslCU"
   },
   {
     "topic": "Street Fighter 6 - Year 4 Character Reveal Trailer feat. Tifa (FINAL FANTASY VII Remake Series)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 191,894 views \u2022 ~527m old",
+    "why": "Trending on YouTube \u2022 213,381 views \u2022 ~649m old",
     "exampleUrl": "https://www.youtube.com/watch?v=9dxDjF_dOXc"
-  },
-  {
-    "topic": "Monster Hunter Wilds Ascendance Reveal Trailer | Summer Game Fest 2026",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 171,007 views \u2022 ~551m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HXGa-6K4_SY"
-  },
-  {
-    "topic": "NoCap - Leverage [Official Music Video]",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 73,489 views \u2022 ~634m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=C_OiWCF4zE0"
   }
 ]
