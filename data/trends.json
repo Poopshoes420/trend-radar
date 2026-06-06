@@ -27,15 +27,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tyltbe/does_it_need_a_caption/"
   },
   {
-    "topic": "That man gave all the trust he had left \ud83d\ude2d\ud83d\ude2d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tyih00/that_man_gave_all_the_trust_he_had_left/"
-  },
-  {
     "topic": "Yes I'm old, jeez IHOP.",
     "sources": [
       "reddit"
@@ -45,13 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tyl10w/yes_im_old_jeez_ihop/"
   },
   {
-    "topic": "What's the reason behind this",
+    "topic": "That man gave all the trust he had left \ud83d\ude2d\ud83d\ude2d",
     "sources": [
       "reddit"
     ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tyc132/whats_the_reason_behind_this/"
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tyih00/that_man_gave_all_the_trust_he_had_left/"
   },
   {
     "topic": "I miss when youtubers had jobs",
@@ -90,6 +81,15 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tykxgf/im_wanting_to_declutter_my_feed/"
   },
   {
+    "topic": "WTF is this new desktop UI google?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tyb6t3/wtf_is_this_new_desktop_ui_google/"
+  },
+  {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1563, Part 1 (Thread #1710)",
     "sources": [
       "reddit"
@@ -108,15 +108,6 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
-    "topic": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1typl9h/ukrainian_drones_target_st_petersburg_in_attack/"
-  },
-  {
     "topic": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy\u2019s offer for direct talks",
     "sources": [
       "reddit"
@@ -133,6 +124,15 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tygfyz/canada_restricts_us_livestock_imports_from_areas/"
+  },
+  {
+    "topic": "Russian authorities have been forced to close the crucial Novorossiya supply route which runs from Crimea to Western Russian territory along the Black Sea due to heavy Ukrainian logistical strikes from drones.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tyjmfh/russian_authorities_have_been_forced_to_close_the/"
   },
   {
     "topic": "[MEGATHREAD] Summer Game Fest 2026",
@@ -180,35 +180,43 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tyh2k7/it_was_nintendo_direct_that_ended_the_e3_era/"
   },
   {
+    "topic": "HOSTING STEAL A BRAINROT ADMIN ABUSE!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,417,868 views \u2022 ~65m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=bx9Jijm5bjA"
+  },
+  {
     "topic": "I Survived 100 Days In Realistic Minecraft",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,321,959 views \u2022 ~287m old",
+    "why": "Trending on YouTube \u2022 4,062,510 views \u2022 ~350m old",
     "exampleUrl": "https://www.youtube.com/watch?v=5F5MKI_jXJw"
-  },
-  {
-    "topic": "\ud83d\udd34 LIVE! - NEW SEASON 3 COUNTDOWN!",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 1,912,687 views \u2022 ~408m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AYmNWyF9lOY"
   },
   {
     "topic": "roblox best gameplay",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 420,752 views \u2022 ~104m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=XMwAT4n2suk"
+    "why": "Trending on YouTube \u2022 411,722 views \u2022 ~92m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=BAP8Li2tcNs"
+  },
+  {
+    "topic": "\ud83d\udd34 LIVE! - NEW SEASON 3 COUNTDOWN!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,914,970 views \u2022 ~471m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=AYmNWyF9lOY"
   },
   {
     "topic": "Testing Scary Myth Minecraft Lies That Are Unsolved\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 204,492 views \u2022 ~392m old",
+    "why": "Trending on YouTube \u2022 234,291 views \u2022 ~455m old",
     "exampleUrl": "https://www.youtube.com/watch?v=WmXbKZijDyg"
   }
 ]
