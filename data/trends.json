@@ -9,15 +9,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
-    "topic": "[OC] it was all fake",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzealv/oc_it_was_all_fake/"
-  },
-  {
     "topic": "How comes this alpaca looks like every 13 year old boy haircut?",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzg7fr/oc_cleanjox/"
+  },
+  {
+    "topic": "[OC] it was all fake",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzealv/oc_it_was_all_fake/"
   },
   {
     "topic": "Cheese farm fence sign.",
@@ -126,13 +126,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tzkxwc/trump_to_hit_more_than_60_countries_including/"
   },
   {
-    "topic": "Kim Jong Un's sister vows North Korea will never give up nuclear weapons",
+    "topic": "\u2018I call the shots:\u2019 Trump says Netanyahu will have \u2018no choice\u2019 but to accept whatever deal US makes with Iran",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tzeqvm/kim_jong_uns_sister_vows_north_korea_will_never/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tzq3jv/i_call_the_shots_trump_says_netanyahu_will_have/"
   },
   {
     "topic": "[MEGATHREAD] XBOX Games Showcase",
@@ -153,15 +153,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tz3yb5/simple_questions_sunday/"
   },
   {
-    "topic": "Not gonna lie, State of Play, Summer Game Fest and Xbox Showcase had many neat announcements, but I still miss E3",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tznvor/not_gonna_lie_state_of_play_summer_game_fest_and/"
-  },
-  {
     "topic": "Xbox confirms two new exclusives are \"not timed\" and won't come to PS5",
     "sources": [
       "reddit"
@@ -180,11 +171,20 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tzhuuq/fable_xbox_games_showcase_2026/"
   },
   {
+    "topic": "Box Office: Super Mario Galaxy Movie Passes $1B, First Film of 2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tzjlku/box_office_super_mario_galaxy_movie_passes_1b/"
+  },
+  {
     "topic": "BABYMONSTER - 'SUGAR HONEY ICE TEA' M/V",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,824,865 views \u2022 ~435m old",
+    "why": "Trending on YouTube \u2022 5,655,516 views \u2022 ~512m old",
     "exampleUrl": "https://www.youtube.com/watch?v=naoGk-Zjc1s"
   },
   {
@@ -192,7 +192,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,886,651 views \u2022 ~204m old",
+    "why": "Trending on YouTube \u2022 1,977,753 views \u2022 ~281m old",
     "exampleUrl": "https://www.youtube.com/watch?v=RinXA_k9f4s"
   },
   {
@@ -200,23 +200,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 270,993 views \u2022 ~81m old",
+    "why": "Trending on YouTube \u2022 332,334 views \u2022 ~158m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tRVxQ7VLmHI"
   },
   {
-    "topic": "Persona 4 Revival \u2014 Pre-Order Trailer",
+    "topic": "Persona 6 \u2014 Teaser Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 359,724 views \u2022 ~293m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=1osdiOAkBKc"
+    "why": "Trending on YouTube \u2022 607,015 views \u2022 ~311m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=CL-q0HgfMOY"
   },
   {
     "topic": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 221,889 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 296,496 views \u2022 ~271m old",
     "exampleUrl": "https://www.youtube.com/watch?v=hDU4GB1PTxc"
   },
   {
@@ -224,7 +224,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 280,082 views \u2022 ~302m old",
+    "why": "Trending on YouTube \u2022 349,543 views \u2022 ~378m old",
     "exampleUrl": "https://www.youtube.com/watch?v=8LWpeBX6ZwY"
   },
   {
@@ -232,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 239,670 views \u2022 ~272m old",
+    "why": "Trending on YouTube \u2022 299,519 views \u2022 ~349m old",
     "exampleUrl": "https://www.youtube.com/watch?v=VyZKYhM0Kv4"
   },
   {
@@ -240,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 249,850 views \u2022 ~345m old",
+    "why": "Trending on YouTube \u2022 292,014 views \u2022 ~422m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0VqlRaK9f7M"
   },
   {
@@ -248,7 +248,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 235,720 views \u2022 ~362m old",
+    "why": "Trending on YouTube \u2022 286,431 views \u2022 ~438m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ud48JdSoSJs"
   },
   {
@@ -256,39 +256,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 173,941 views \u2022 ~303m old",
+    "why": "Trending on YouTube \u2022 215,518 views \u2022 ~380m old",
     "exampleUrl": "https://www.youtube.com/watch?v=G4sUx2nX5EQ"
-  },
-  {
-    "topic": "Gamble Til We Win Big Or Go Broke",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 134,160 views \u2022 ~415m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=nySyxYk_raQ"
   },
   {
     "topic": "Warhammer 40,000: Darktide - Skitarii Gameplay Reveal | PC Gaming Show Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 49,099 views \u2022 ~195m old",
+    "why": "Trending on YouTube \u2022 92,539 views \u2022 ~272m old",
     "exampleUrl": "https://www.youtube.com/watch?v=dg8NaLeOihk"
+  },
+  {
+    "topic": "Gamble Til We Win Big Or Go Broke",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 164,409 views \u2022 ~492m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nySyxYk_raQ"
+  },
+  {
+    "topic": "Valheim: 1.0 & Deep North \u2013 Release Date Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 43,774 views \u2022 ~176m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=eWULkdcaR5o"
   },
   {
     "topic": "Planet Zoo 2 | Gameplay Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 36,133 views \u2022 ~154m old",
+    "why": "Trending on YouTube \u2022 56,976 views \u2022 ~231m old",
     "exampleUrl": "https://www.youtube.com/watch?v=fnw_niw9nzQ"
+  },
+  {
+    "topic": "So Hoppy 2 (Ribbit Abstraction Song)\u3010THE AMAZING DIGITAL CIRCUS 3D MUSIC VIDEO\u3011",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 128,016 views \u2022 ~602m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jz7alAaaqw4"
   },
   {
     "topic": "PERSONA 4 REVIVAL TRAILER REACTION (It's Beautiful)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 32,043 views \u2022 ~275m old",
+    "why": "Trending on YouTube \u2022 38,116 views \u2022 ~352m old",
     "exampleUrl": "https://www.youtube.com/watch?v=01hi4G_lkQY"
   }
 ]
