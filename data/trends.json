@@ -18,15 +18,6 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzealv/oc_it_was_all_fake/"
   },
   {
-    "topic": "Oh she is NSFW for sure.",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzeg5j/oh_she_is_nsfw_for_sure/"
-  },
-  {
     "topic": "[OC] CleanJox",
     "sources": [
       "reddit"
@@ -34,6 +25,15 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzg7fr/oc_cleanjox/"
+  },
+  {
+    "topic": "Cheese farm fence sign.",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzi4t3/cheese_farm_fence_sign/"
   },
   {
     "topic": "a lot of new adult animated comedy shows",
@@ -45,22 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1tz8420/a_lot_of_new_adult_animated_comedy_shows/"
   },
   {
-    "topic": "Pinning a hate comment is basically like setting the person up for public humiliation, no?",
+    "topic": "Pretend this is a Youtube Shorts comment section",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tz1aff/pinning_a_hate_comment_is_basically_like_setting/"
-  },
-  {
-    "topic": "A secret video by Jawed was found",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tzbk27/a_secret_video_by_jawed_was_found/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tzh9yq/pretend_this_is_a_youtube_shorts_comment_section/"
   },
   {
     "topic": "SO TRUE!!!",
@@ -72,13 +63,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tz6bga/so_true/"
   },
   {
-    "topic": "YouTube Is Suggesting Videos I Have ZERO Interest In",
+    "topic": "A secret video by Jawed was found",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tz6yth/youtube_is_suggesting_videos_i_have_zero_interest/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tzbk27/a_secret_video_by_jawed_was_found/"
+  },
+  {
+    "topic": "Pinning a hate comment is basically like setting the person up for public humiliation, no?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tz1aff/pinning_a_hate_comment_is_basically_like_setting/"
   },
   {
     "topic": "WTF are those i have never watched them before",
@@ -108,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Iran fires missiles at northern Israel",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tzkynh/iran_fires_missiles_at_northern_israel/"
+  },
+  {
     "topic": "Running short on soldiers, Russia begins 'aggressive' recruiting drive in educational institutions",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tzeqvm/kim_jong_uns_sister_vows_north_korea_will_never/"
-  },
-  {
-    "topic": "Albania Freezes Assets in Kushner Resort Probe",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tyz96q/albania_freezes_assets_in_kushner_resort_probe/"
   },
   {
     "topic": "[MEGATHREAD] XBOX Games Showcase",
@@ -162,15 +162,6 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tz6ci1/the_only_one_brave_enough_to_challenge_gta_vi/"
   },
   {
-    "topic": "Lara Croft\u2019s New Voice Actor Discusses Reimagined \u2018Tomb Raider: Legacy of Atlantis\u2019, Hot Character Design & Performance Capture: \u201cWe Are Very Much Back And Bigger, Bolder Than Ever\u201d \u2013 Summer Game Fest 2026",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tza5b4/lara_crofts_new_voice_actor_discusses_reimagined/"
-  },
-  {
     "topic": "Fable | XBOX Games Showcase 2026",
     "sources": [
       "reddit"
@@ -180,19 +171,108 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tzhuuq/fable_xbox_games_showcase_2026/"
   },
   {
+    "topic": "Box Office: Super Mario Galaxy Movie Passes $1B, First Film of 2026",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tzjlku/box_office_super_mario_galaxy_movie_passes_1b/"
+  },
+  {
+    "topic": "[4K] XBOX Games Showcase 2026 | Gears of War: E-Day Direct",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,129,409 views \u2022 ~60m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RinXA_k9f4s"
+  },
+  {
+    "topic": "IEM Cologne Major 2026 Day 6 Stream B Full show",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 900,774 views \u2022 ~48m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=A0CGfwaUgGo"
+  },
+  {
+    "topic": "SUMMER GAME FEST: XBOX Games Showcase 2026 (4K60FPS) - Live Now!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 1,069,087 views \u2022 ~58m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=5ixDQYlUxN8"
+  },
+  {
     "topic": "BABYMONSTER - 'SUGAR HONEY ICE TEA' M/V",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,052,389 views \u2022 ~198m old",
+    "why": "Trending on YouTube \u2022 3,744,551 views \u2022 ~291m old",
     "exampleUrl": "https://www.youtube.com/watch?v=naoGk-Zjc1s"
   },
   {
-    "topic": "\ud83d\udd34LIVE | TARKOBUNGUS | MAX GOOP RAIDS ONLY | HUTCHMF x CLOAKZY | #BUNGULATE",
+    "topic": "XBOX SHOWCASE LIVE 2026 \ud83d\udd34Full Stream\ud83d\udd34 (6-7)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 473,578 views \u2022 ~538m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=FUDyxFg_aWE"
+    "why": "Trending on YouTube \u2022 82,980 views \u2022 ~86m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=jqOPoDC_zD0"
+  },
+  {
+    "topic": "MINECRAFT DUNGEONS II | Reveal Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 113,735 views \u2022 ~128m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=VyZKYhM0Kv4"
+  },
+  {
+    "topic": "The games industry is f*cked..",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 156,167 views \u2022 ~200m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=0VqlRaK9f7M"
+  },
+  {
+    "topic": "WELCOME TO KOWLOON",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 139,649 views \u2022 ~217m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ud48JdSoSJs"
+  },
+  {
+    "topic": "Persona 4 Revival \u2014 Pre-Order Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 58,605 views \u2022 ~148m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=1osdiOAkBKc"
+  },
+  {
+    "topic": "Gears of War: E-Day - Official Gameplay Trailer | Xbox Games  Showcase 2026",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 33,973 views \u2022 ~157m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=8LWpeBX6ZwY"
+  },
+  {
+    "topic": "Halo: Campaign Evolved | New Missions Trailer | Operation: Meteorite",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 33,674 views \u2022 ~159m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=G4sUx2nX5EQ"
+  },
+  {
+    "topic": "PERSONA 4 REVIVAL TRAILER REACTION (It's Beautiful)",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 7,115 views \u2022 ~131m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=01hi4G_lkQY"
   }
 ]
