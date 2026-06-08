@@ -9,6 +9,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Do You Have The Same Coffee Table ?",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0hn8b/do_you_have_the_same_coffee_table/"
+  },
+  {
+    "topic": "Why does my baby look like a middle aged man missing his New Balance shoes",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0gbnf/why_does_my_baby_look_like_a_middle_aged_man/"
+  },
+  {
     "topic": "That's how you start your life.",
     "sources": [
       "reddit"
@@ -18,58 +36,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1u02fvp/thats_how_you_start_your_life/"
   },
   {
-    "topic": "A whole conversation happened here",
+    "topic": "Sage the chonk",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1tzya4b/a_whole_conversation_happened_here/"
-  },
-  {
-    "topic": "What a distinguished gentlemen",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0fsef/what_a_distinguished_gentlemen/"
-  },
-  {
-    "topic": "A perfect fit",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u00f0f/a_perfect_fit/"
-  },
-  {
-    "topic": "How many repeated videos is Youtube going to show me?!",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u063tf/how_many_repeated_videos_is_youtube_going_to_show/"
-  },
-  {
-    "topic": "Gotta love YouTube Recommended",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tzsjt2/gotta_love_youtube_recommended/"
-  },
-  {
-    "topic": "I clicked \u201cDon\u2019t Recommend Channel\u201d a few weeks ago, but it reappeared",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u00x6g/i_clicked_dont_recommend_channel_a_few_weeks_ago/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0ax7x/sage_the_chonk/"
   },
   {
     "topic": "Too all these people who keep saying \u201cYouTube has nothing but ai and onces who aren\u2019t are corporate\u201d",
@@ -81,22 +54,40 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0e4wz/too_all_these_people_who_keep_saying_youtube_has/"
   },
   {
-    "topic": "When YouTube says there are 50 comments but won't show a single one",
+    "topic": "These video feels weird. Same script, title, and thumbnail.",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u07ege/when_youtube_says_there_are_50_comments_but_wont/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0bf19/these_video_feels_weird_same_script_title_and/"
   },
   {
-    "topic": "Mexico cuts workweek, bans after-hours contact, and guarantees no worker will take a pay cut in the most sweeping labor reform in a generation",
+    "topic": "How many repeated videos is Youtube going to show me?!",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u04vkk/mexico_cuts_workweek_bans_afterhours_contact_and/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u063tf/how_many_repeated_videos_is_youtube_going_to_show/"
+  },
+  {
+    "topic": "I clicked \u201cDon\u2019t Recommend Channel\u201d a few weeks ago, but it reappeared",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u00x6g/i_clicked_dont_recommend_channel_a_few_weeks_ago/"
+  },
+  {
+    "topic": "Gotta love YouTube Recommended",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1tzsjt2/gotta_love_youtube_recommended/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1565, Part 1 (Thread #1712)",
@@ -117,6 +108,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tlutp0/rworldnews_discussion_thread_us_and_israel_launch/"
   },
   {
+    "topic": "Mexico cuts workweek, bans after-hours contact, and guarantees no worker will take a pay cut in the most sweeping labor reform in a generation",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u04vkk/mexico_cuts_workweek_bans_afterhours_contact_and/"
+  },
+  {
     "topic": "Russia rejects Ukrainian, European peace initiatives, says battlefield will decide war",
     "sources": [
       "reddit"
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u07atm/ukraine_destroys_russian_air_defenses_military/"
   },
   {
-    "topic": "Joy-Con drift finally drifted into court",
+    "topic": "Xbox CCO Says Gamepass Lost \u201cMillions Of Subscribers\u201d After Increasing The Price By 50% Last Year",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0acrb/joycon_drift_finally_drifted_into_court/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0gr0h/xbox_cco_says_gamepass_lost_millions_of/"
   },
   {
     "topic": "[MEGATHREAD] XBOX Games Showcase",
@@ -162,6 +162,15 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1tzzd79/making_friends_monday_share_your_game_tags_here/"
   },
   {
+    "topic": "Joy-Con drift finally drifted into court",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0acrb/joycon_drift_finally_drifted_into_court/"
+  },
+  {
     "topic": "Guild Wars 3 will have no battle pass or subscription because ArenaNet studio lead doesn't want to \"keep people hostage\"",
     "sources": [
       "reddit"
@@ -171,20 +180,19 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0f0zu/guild_wars_3_will_have_no_battle_pass_or/"
   },
   {
-    "topic": "A 50 Minutes Long Nintendo Direct will Air Tomorrow on June 9 at 7am PT",
+    "topic": "IEM Cologne Major 2026 - Day 7 - Stream A",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u08yi5/a_50_minutes_long_nintendo_direct_will_air/"
+    "why": "Trending on YouTube \u2022 993,001 views \u2022 ~76m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=rUN-t_tfPws"
   },
   {
     "topic": "FORMULA BRAWL RACE #1 #FormulaBrawl",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 2,474,145 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 3,563,319 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=_BE6aVJgM98"
   },
   {
@@ -192,7 +200,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 643,350 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 980,428 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=L_VvwekYwp8"
   },
   {
@@ -200,31 +208,55 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 670,433 views \u2022 ~367m old",
+    "why": "Trending on YouTube \u2022 943,166 views \u2022 ~515m old",
     "exampleUrl": "https://www.youtube.com/watch?v=KV3EYDxMrvA"
   },
   {
-    "topic": "izna 'METRONOME' MV",
+    "topic": "The Dog Stars | Official Trailer | In Theaters Aug 28",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 467,065 views \u2022 ~577m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NQRGAh7ukh8"
+    "why": "Trending on YouTube \u2022 351,770 views \u2022 ~305m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sVCrTJdNtSs"
+  },
+  {
+    "topic": "Madonna - \"Confessions II - The Film\"",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 417,180 views \u2022 ~366m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=yJtckcMHM2g"
+  },
+  {
+    "topic": "Hermitcraft 11: Episode 18 - THE WORST DAY ON HERMITCRAFT.",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 259,836 views \u2022 ~306m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=sDrigUXaWR4"
   },
   {
     "topic": "Halo: Campaign Evolved | Cinematic Story Trailer",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 156,953 views \u2022 ~217m old",
+    "why": "Trending on YouTube \u2022 294,459 views \u2022 ~366m old",
     "exampleUrl": "https://www.youtube.com/watch?v=0MxBFXH2a_U"
+  },
+  {
+    "topic": "EXPLORING FORBIDDEN WRECKS | Subnautica 2 - Part 10",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 142,114 views \u2022 ~305m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=15mR4-qIbUk"
   },
   {
     "topic": "SCOOBY-DOO: ORIGINS Official Teaser Trailer (2027) Netflix",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 24,344 views \u2022 ~260m old",
+    "why": "Trending on YouTube \u2022 48,136 views \u2022 ~409m old",
     "exampleUrl": "https://www.youtube.com/watch?v=uHpz5sgmJwo"
   }
 ]
