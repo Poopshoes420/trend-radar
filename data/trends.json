@@ -27,22 +27,22 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1bh3f/the_construction_king/"
   },
   {
-    "topic": "Like father, like son",
+    "topic": "Attack of opportunity",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0ujv0/like_father_like_son/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1fxoi/attack_of_opportunity/"
   },
   {
-    "topic": "Why men don't use hand lotion",
+    "topic": "It\u2019s Clint",
     "sources": [
       "reddit"
     ],
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0rbvc/why_men_dont_use_hand_lotion/"
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1gnr2/its_clint/"
   },
   {
     "topic": "Y'all would NOT be able to deal with the average amount of ads/commercials on Cable",
@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u1027v/what_the_fuck_is_this/"
   },
   {
-    "topic": "THE LIKE BUTTON IS NOW A HEART",
+    "topic": "Why is every single youtuber suddenly sponsoring this game",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0pmy1/the_like_button_is_now_a_heart/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u141be/why_is_every_single_youtuber_suddenly_sponsoring/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1566, Part 1 (Thread #1713)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u1akg1/trump_says_us_must_respond_after_iran_shoots_down/"
   },
   {
+    "topic": "Russian military official killed in car bombing outside Moscow, media reports",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u1f1xw/russian_military_official_killed_in_car_bombing/"
+  },
+  {
     "topic": "Drone Strike Shuts Down Key Bridge Linking Crimea to Mainland Ukraine",
     "sources": [
       "reddit"
@@ -124,15 +133,6 @@
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u11k2j/drone_strike_shuts_down_key_bridge_linking_crimea/"
-  },
-  {
-    "topic": "U.S. Army attack helicopter crashes near Straight of Hormuz",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u19z37/us_army_attack_helicopter_crashes_near_straight/"
   },
   {
     "topic": "THE LEGEND OF ZELDA: OCARINA OF TIME Remake | Releasing 2026",
@@ -171,60 +171,68 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u1b1ds/sleeping_link_ocarina_of_time_remake_vs_original/"
   },
   {
-    "topic": "A 'boring' screenshot to show why people ought to care even if AI is just used for background assets",
+    "topic": "Fire Emblem is officially Nintendo's second $80 physical game on Switch 2",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0zi6g/a_boring_screenshot_to_show_why_people_ought_to/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u1cvsn/fire_emblem_is_officially_nintendos_second_80/"
   },
   {
     "topic": "Nintendo Direct 6.9.2026 + Nintendo Treehouse: Live | June 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 3,687,320 views \u2022 ~106m old",
+    "why": "Trending on YouTube \u2022 3,937,406 views \u2022 ~225m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PvUPDSDZg1k"
+  },
+  {
+    "topic": "Cyclops: The Fearless Leader | Character Reveal Trailer | Marvel Rivals",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 716,187 views \u2022 ~274m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Kf3c53eX7Lg"
   },
   {
     "topic": "I Became the Strongest on the Unstable SMP",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,253,171 views \u2022 ~504m old",
+    "why": "Trending on YouTube \u2022 1,474,013 views \u2022 ~623m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ym2wmd19S_c"
+  },
+  {
+    "topic": "End of the Line | Shion Hero Trailer | Overwatch",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 525,835 views \u2022 ~274m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=UKJL7JfIvNg"
+  },
+  {
+    "topic": "Whalefall | Official Teaser | In Theaters October 16",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 496,821 views \u2022 ~274m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=67ho3OxCmmM"
   },
   {
     "topic": "KINGDOM HEARTS IV Teaser Trailer | June 2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 307,204 views \u2022 ~216m old",
+    "why": "Trending on YouTube \u2022 534,042 views \u2022 ~335m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j151ek2rYs0"
-  },
-  {
-    "topic": "Marvel Rivals: Dive Into Season 8.5 // Dev Vision Vol. 18",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 305,191 views \u2022 ~215m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=NZhekPruzrE"
-  },
-  {
-    "topic": "Enola Holmes 3 | Official Trailer | Netflix",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 539,346 views \u2022 ~395m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=n_pEJjq-9xQ"
   },
   {
     "topic": "Nintendo Direct \u2013 10/06/2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 115,816 views \u2022 ~146m old",
+    "why": "Trending on YouTube \u2022 221,295 views \u2022 ~265m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ft9cQnxFoKc"
   },
   {
@@ -232,7 +240,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 133,260 views \u2022 ~212m old",
+    "why": "Trending on YouTube \u2022 241,500 views \u2022 ~331m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vY6QT50zrf0"
   },
   {
@@ -240,23 +248,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 179,391 views \u2022 ~305m old",
+    "why": "Trending on YouTube \u2022 236,775 views \u2022 ~424m old",
     "exampleUrl": "https://www.youtube.com/watch?v=HT5JAp5z0-o"
-  },
-  {
-    "topic": "Jurassic World Evolution 3: Rebirth Expansion | Announce Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 86,032 views \u2022 ~333m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Umk1t-09FeA"
   },
   {
     "topic": "KINGDOM HEARTS 4 2026 Trailer REACTION",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 45,071 views \u2022 ~193m old",
+    "why": "Trending on YouTube \u2022 76,559 views \u2022 ~312m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MGsiJGZ2j7g"
   }
 ]
