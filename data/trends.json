@@ -18,6 +18,15 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Like father, like son",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0ujv0/like_father_like_son/"
+  },
+  {
     "topic": "Saw this while on a walk \ud83d\ude02",
     "sources": [
       "reddit"
@@ -36,13 +45,13 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0rhum/cops_dont_find_this_as_funny_as_i_do/"
   },
   {
-    "topic": "Balls of steel",
+    "topic": "THE LIKE BUTTON IS NOW A HEART",
     "sources": [
       "reddit"
     ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u0r22t/balls_of_steel/"
+    "subreddit": "youtube",
+    "why": "New post on r/youtube \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0pmy1/the_like_button_is_now_a_heart/"
   },
   {
     "topic": "These video feels weird. Same script, title, and thumbnail.",
@@ -54,13 +63,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0bf19/these_video_feels_weird_same_script_title_and/"
   },
   {
-    "topic": "THE LIKE BUTTON IS NOW A HEART",
+    "topic": "Y'all would NOT be able to deal with the average amount of ads/commercials on Cable",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0pmy1/the_like_button_is_now_a_heart/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0xl1o/yall_would_not_be_able_to_deal_with_the_average/"
   },
   {
     "topic": "Too all these people who keep saying \u201cYouTube has nothing but ai and onces who aren\u2019t are corporate\u201d",
@@ -81,31 +90,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0mi51/the_art_mentor_anti_ai_youtuber_is_secretly/"
   },
   {
-    "topic": "what the hell is hyping",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "youtube",
-    "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0kvl2/what_the_hell_is_hyping/"
-  },
-  {
-    "topic": "Donald Trump's Iran War Timeline Changes to Another \u201c2 Weeks\u201d as Public Anger Grows",
+    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1566, Part 1 (Thread #1713)",
     "sources": [
       "reddit"
     ],
     "subreddit": "worldnews",
     "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u0ptv2/donald_trumps_iran_war_timeline_changes_to/"
-  },
-  {
-    "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1565, Part 1 (Thread #1712)",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1tzx6kp/rworldnews_live_thread_russian_invasion_of/"
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u0ucqr/rworldnews_live_thread_russian_invasion_of/"
   },
   {
     "topic": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #18)",
@@ -126,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u0nmpy/families_in_afghanistan_are_reportedly_resorting/"
   },
   {
+    "topic": "US helicopter crashes in Strait of Hormuz area, crew rescued safely",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u0u85i/us_helicopter_crashes_in_strait_of_hormuz_area/"
+  },
+  {
     "topic": "Russia rejects Ukrainian, European peace initiatives, says battlefield will decide war",
     "sources": [
       "reddit"
@@ -135,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u05whr/russia_rejects_ukrainian_european_peace/"
   },
   {
-    "topic": "Ariana Grande and Ethan Slater Split After Nearly 3 Years Together",
+    "topic": "Donald Trump booed at NBA Finals game 3",
     "sources": [
       "reddit"
     ],
     "subreddit": "popculturechat",
     "why": "New post on r/popculturechat \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1u0map1/ariana_grande_and_ethan_slater_split_after_nearly/"
+    "exampleUrl": "https://www.reddit.com/r/popculturechat/comments/1u0qgdk/donald_trump_booed_at_nba_finals_game_3/"
   },
   {
     "topic": "[MEGATHREAD] XBOX Games Showcase",
@@ -180,83 +180,35 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0r0g1/xbox_is_unable_to_meet_demand_for_new_consoles/"
   },
   {
-    "topic": "The Dog Stars | Official Trailer | In Theaters Aug 28",
+    "topic": "PLAYING ELDEN RING UNTIL I BEAT IT DAY 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 954,173 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sVCrTJdNtSs"
-  },
-  {
-    "topic": "We Found The Backrooms Blue Tape",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 615,292 views \u2022 ~508m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=RykH02byhVg"
-  },
-  {
-    "topic": "Streamer University 2026 | Official Enrollment Trailer",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 597,379 views \u2022 ~521m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rN9viJlnir4"
+    "why": "Trending on YouTube \u2022 827,599 views \u2022 ~108m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=H-6e0w_8liI"
   },
   {
     "topic": "C-Kan - Toma Todo",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 194,195 views \u2022 ~175m old",
+    "why": "Trending on YouTube \u2022 596,265 views \u2022 ~415m old",
     "exampleUrl": "https://www.youtube.com/watch?v=N7JOI12o_NI"
   },
   {
-    "topic": "roblox best gameplay",
+    "topic": "The Worst Gambling Group Of All Time [Gamble With Your Friends]",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 341,170 views \u2022 ~330m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=AnRxSOE05ss"
-  },
-  {
-    "topic": "The Bear | Season 5 Official Trailer | Jeremy Allen White, Ayo Edebiri, Ebon Moss-Bachrach | FX",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 559,138 views \u2022 ~655m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=ojjCvICC86c"
-  },
-  {
-    "topic": "Hermitcraft 11: Episode 18 - THE WORST DAY ON HERMITCRAFT.",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 506,675 views \u2022 ~715m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=sDrigUXaWR4"
-  },
-  {
-    "topic": "Halo: Campaign Evolved - Cinematic Story Trailer | PS5 Games",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 341,788 views \u2022 ~661m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=Wn2m4Xhk2UE"
-  },
-  {
-    "topic": "EXPLORING FORBIDDEN WRECKS | Subnautica 2 - Part 10",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 314,937 views \u2022 ~714m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=15mR4-qIbUk"
+    "why": "Trending on YouTube \u2022 203,287 views \u2022 ~454m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=l9NPooDfxvY"
   },
   {
     "topic": "I Got A Job As A Gate Guard\u2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 140,325 views \u2022 ~355m old",
+    "why": "Trending on YouTube \u2022 252,435 views \u2022 ~595m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vwv0yIiRwWk"
   }
 ]
