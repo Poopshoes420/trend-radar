@@ -81,13 +81,13 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u1027v/what_the_fuck_is_this/"
   },
   {
-    "topic": "These video feels weird. Same script, title, and thumbnail.",
+    "topic": "what's the highest rated episode???",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u0bf19/these_video_feels_weird_same_script_title_and/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u167k2/whats_the_highest_rated_episode/"
   },
   {
     "topic": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1566, Part 1 (Thread #1713)",
@@ -117,6 +117,15 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u11k2j/drone_strike_shuts_down_key_bridge_linking_crimea/"
   },
   {
+    "topic": "EU unveils 21st Russia sanctions package, proposes entry ban for Russian soldiers",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "worldnews",
+    "why": "New post on r/worldnews \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u1396x/eu_unveils_21st_russia_sanctions_package_proposes/"
+  },
+  {
     "topic": "Canadian government to ban social media for kids younger than 16, but will allow exemptions",
     "sources": [
       "reddit"
@@ -126,13 +135,13 @@
     "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u0z55v/canadian_government_to_ban_social_media_for_kids/"
   },
   {
-    "topic": "EU unveils 21st Russia sanctions package, proposes entry ban for Russian soldiers",
+    "topic": "THE LEGEND OF ZELDA: OCARINA OF TIME Remake | Releasing 2026",
     "sources": [
       "reddit"
     ],
-    "subreddit": "worldnews",
-    "why": "New post on r/worldnews \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/worldnews/comments/1u1396x/eu_unveils_21st_russia_sanctions_package_proposes/"
+    "subreddit": "gaming",
+    "why": "New post on r/gaming \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u17cjx/the_legend_of_zelda_ocarina_of_time_remake/"
   },
   {
     "topic": "[MEGATHREAD] Nintendo Direct",
@@ -162,37 +171,52 @@
     "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0zi6g/a_boring_screenshot_to_show_why_people_ought_to/"
   },
   {
-    "topic": "Stop Killing Games: The fight over who owns the games you buy",
+    "topic": "FromSoftware's next game 'The Duskbloods' getting a closed network test Summer 2026",
     "sources": [
       "reddit"
     ],
     "subreddit": "gaming",
     "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0yqfp/stop_killing_games_the_fight_over_who_owns_the/"
+    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u1705q/fromsoftwares_next_game_the_duskbloods_getting_a/"
   },
   {
-    "topic": "Xbox Is Unable to Meet Demand for New Consoles, Rethinking Approach to Project Helix",
+    "topic": "I Became the Strongest on the Unstable SMP",
     "sources": [
-      "reddit"
+      "youtube"
     ],
-    "subreddit": "gaming",
-    "why": "New post on r/gaming \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/gaming/comments/1u0r0g1/xbox_is_unable_to_meet_demand_for_new_consoles/"
+    "why": "Trending on YouTube \u2022 941,762 views \u2022 ~384m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Ym2wmd19S_c"
   },
   {
     "topic": "PLAYING ELDEN RING UNTIL I BEAT IT DAY 4",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 862,332 views \u2022 ~470m old",
+    "why": "Trending on YouTube \u2022 875,189 views \u2022 ~628m old",
     "exampleUrl": "https://www.youtube.com/watch?v=H-6e0w_8liI"
+  },
+  {
+    "topic": "Enola Holmes 3 | Official Trailer | Netflix",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 350,552 views \u2022 ~276m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=n_pEJjq-9xQ"
   },
   {
     "topic": "\ud83d\udd34LIVE | TARKOBUNGUS | SUMMIT1G & HUTCHMF | MANY MEN MONDAY | #BUNGULATE",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 453,808 views \u2022 ~283m old",
+    "why": "Trending on YouTube \u2022 463,317 views \u2022 ~441m old",
     "exampleUrl": "https://www.youtube.com/watch?v=DQUnJmK7K20"
+  },
+  {
+    "topic": "Jurassic World Evolution 3: Rebirth Expansion | Announce Trailer",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 49,187 views \u2022 ~213m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=Umk1t-09FeA"
   }
 ]
