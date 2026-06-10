@@ -9,6 +9,24 @@
     "exampleUrl": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/"
   },
   {
+    "topic": "Only acceptable harmless punishment",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1nfek/only_acceptable_harmless_punishment/"
+  },
+  {
+    "topic": "I need this in my life",
+    "sources": [
+      "reddit"
+    ],
+    "subreddit": "funny",
+    "why": "New post on r/funny \u2022 ~1m ago",
+    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1m55u/i_need_this_in_my_life/"
+  },
+  {
     "topic": "Girls\u2019 Hostel things\u2026",
     "sources": [
       "reddit"
@@ -25,24 +43,6 @@
     "subreddit": "funny",
     "why": "New post on r/funny \u2022 ~1m ago",
     "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1bh3f/the_construction_king/"
-  },
-  {
-    "topic": "Attack of opportunity",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1fxoi/attack_of_opportunity/"
-  },
-  {
-    "topic": "\u201cI ate his liver with some fava beans and a nice Chianti. Fththth!\u201d",
-    "sources": [
-      "reddit"
-    ],
-    "subreddit": "funny",
-    "why": "New post on r/funny \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/funny/comments/1u1gtye/i_ate_his_liver_with_some_fava_beans_and_a_nice/"
   },
   {
     "topic": "Y'all would NOT be able to deal with the average amount of ads/commercials on Cable",
@@ -72,22 +72,22 @@
     "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u167k2/whats_the_highest_rated_episode/"
   },
   {
-    "topic": "what the FUCK is this?",
+    "topic": "Youtube is unwatchable now",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u1027v/what_the_fuck_is_this/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u1bhg7/youtube_is_unwatchable_now/"
   },
   {
-    "topic": "Anyone else feeling youtube thumbnail fatigue?",
+    "topic": "My friend's video got taken down for \"Child safety Policy\"",
     "sources": [
       "reddit"
     ],
     "subreddit": "youtube",
     "why": "New post on r/youtube \u2022 ~1m ago",
-    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u10zhe/anyone_else_feeling_youtube_thumbnail_fatigue/"
+    "exampleUrl": "https://www.reddit.com/r/youtube/comments/1u1l1dv/my_friends_video_got_taken_down_for_child_safety/"
   },
   {
     "topic": "Ukraine winning war with Russia, retired U.S. generals say, as top Ukrainian commander says over 230 square miles retaken",
@@ -184,23 +184,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 4,158,945 views \u2022 ~415m old",
+    "why": "Trending on YouTube \u2022 4,279,146 views \u2022 ~545m old",
     "exampleUrl": "https://www.youtube.com/watch?v=PvUPDSDZg1k"
-  },
-  {
-    "topic": "roblox best gameplay",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 351,428 views \u2022 ~116m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=rs6ML6pg4xA"
   },
   {
     "topic": "Cyclops: The Fearless Leader | Character Reveal Trailer | Marvel Rivals",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 1,031,577 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 1,305,161 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Kf3c53eX7Lg"
   },
   {
@@ -208,15 +200,31 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 896,241 views \u2022 ~463m old",
+    "why": "Trending on YouTube \u2022 1,231,953 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=67ho3OxCmmM"
+  },
+  {
+    "topic": "HOSTING TACO TUESDAY ADMIN ABUSE!",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 335,842 views \u2022 ~181m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=RJn0da1YfSg"
+  },
+  {
+    "topic": "roblox best gameplay",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 288,523 views \u2022 ~203m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=nscgs9b9QTk"
   },
   {
     "topic": "End of the Line | Shion Hero Trailer | Overwatch",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 713,859 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 790,273 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=UKJL7JfIvNg"
   },
   {
@@ -224,7 +232,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 679,853 views \u2022 ~525m old",
+    "why": "Trending on YouTube \u2022 742,859 views \u2022 ~655m old",
     "exampleUrl": "https://www.youtube.com/watch?v=j151ek2rYs0"
   },
   {
@@ -232,23 +240,15 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 323,076 views \u2022 ~455m old",
+    "why": "Trending on YouTube \u2022 365,348 views \u2022 ~585m old",
     "exampleUrl": "https://www.youtube.com/watch?v=Ft9cQnxFoKc"
-  },
-  {
-    "topic": "The Cat in the Hat | Official Trailer 3",
-    "sources": [
-      "youtube"
-    ],
-    "why": "Trending on YouTube \u2022 384,753 views \u2022 ~614m old",
-    "exampleUrl": "https://www.youtube.com/watch?v=HT5JAp5z0-o"
   },
   {
     "topic": "Nintendo Direct \u2013 09/06/2026",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 320,529 views \u2022 ~521m old",
+    "why": "Trending on YouTube \u2022 342,303 views \u2022 ~651m old",
     "exampleUrl": "https://www.youtube.com/watch?v=vY6QT50zrf0"
   },
   {
@@ -256,7 +256,7 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 247,918 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 301,836 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=ElUQcoMI1MA"
   },
   {
@@ -264,15 +264,23 @@
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 103,960 views \u2022 ~501m old",
+    "why": "Trending on YouTube \u2022 116,444 views \u2022 ~631m old",
     "exampleUrl": "https://www.youtube.com/watch?v=MGsiJGZ2j7g"
+  },
+  {
+    "topic": "Ocarina of Time Remake Trailer Analysis",
+    "sources": [
+      "youtube"
+    ],
+    "why": "Trending on YouTube \u2022 48,044 views \u2022 ~263m old",
+    "exampleUrl": "https://www.youtube.com/watch?v=OgO9-cYv8yM"
   },
   {
     "topic": "mgk, Wiz Khalifa - passport (Official Video)",
     "sources": [
       "youtube"
     ],
-    "why": "Trending on YouTube \u2022 69,130 views \u2022 ~464m old",
+    "why": "Trending on YouTube \u2022 82,229 views \u2022 ~594m old",
     "exampleUrl": "https://www.youtube.com/watch?v=tf3lXvYEJv4"
   }
 ]
